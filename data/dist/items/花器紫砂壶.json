@@ -1,0 +1,48 @@
+{
+  "name": "花器紫砂壶",
+  "original_name": "紫砂小壶 / 供春壶",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是书简湖书铺掌柜李锦的私人藏品。其价值不仅在于 材质，更在于其作为“真品十八器”之一的稀缺地位，是 衡量山上修士眼力与身家的重要标志 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1204章 大匠示人以规矩",
+      "owner": "刘蜕"
+    }
+  ],
+  "subtype": "文房/收藏类",
+  "holder": "李锦 (冲澹江水神)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "旧卢氏王朝制壶名家",
+      "relation": "原主"
+    },
+    {
+      "name": "大骊宋氏皇室",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为“宫中艳说、山上竞求”的绝世名品，其真品仅存十 八器，承载了极重的人间雅趣与文运气数 。",
+  "supernatural_ability": "样式朴拙，能提升居室雅致气象，并可作为某种特定仪 式或交易的信物 。",
+  "evolution": {
+    "current_form": "样式朴拙、胎质细腻的紫砂小壶，底款多为名家刻印 。",
+    "materials_consumed": [
+      "上乘紫砂泥",
+      "名家道韵"
+    ],
+    "potential_evolution": "若能集齐同序列真品，可演化为稳固一国文脉的重器。"
+  },
+  "visual": {
+    "static": "质地温润，包浆深厚，散发着淡淡的茶香与古意 。",
+    "active": "注水后壶身隐约可见紫烟升腾，能够净化周边污秽气机 。"
+  },
+  "provenance": {
+    "origin": "出自旧卢氏王朝的制壶名家之手，后流落民间或被皇室 收藏 。",
+    "karma_link": "连接了书简湖水神李锦与朱敛等远游客的文缘往来 。"
+  },
+  "enriched": true
+}

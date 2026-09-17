@@ -1,0 +1,44 @@
+{
+  "name": "倒悬山通关牌",
+  "original_name": "涯字玉牌 / 青木通关牌",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这块玉牌是连接浩然天下与剑气长城的关键信物，代表了两个世界之间* *最后的规矩与防线** 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第269章 我有小事大如斗",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "身份/空间类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "倒悬山看门人",
+      "relation": "发放者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "不仅是通行证，更是一种与剑气长城天道建立感应的媒介 。",
+  "supernatural_ability": "允许外乡修士通过登仙台大门往返于倒悬山与剑气长城之间 。",
+  "evolution": {
+    "current_form": "篆刻有“涯”字的白玉或青木材质牌子 。",
+    "materials_consumed": [
+      "灵玉",
+      "圣人法力"
+    ],
+    "potential_evolution": "承载隐官刻印后可演化为永久居住凭证。"
+  },
+  "visual": {
+    "static": "质地细腻，古朴大方，悬挂于腰间会散发微弱的清凉感 。",
+    "active": "过关时玉牌与阵法共鸣，产生涟漪光幕将持牌人接入 。"
+  },
+  "provenance": {
+    "origin": "由倒悬山大天君（道老二弟子）一脉所制 。",
+    "karma_link": "陈平安手持此牌多次往返，见证了他作为“隐官”在剑气长城的起始 。"
+  },
+  "enriched": true
+}

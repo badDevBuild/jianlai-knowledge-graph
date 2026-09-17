@@ -1,0 +1,44 @@
+{
+  "name": "流霞瓶",
+  "original_name": "云霞瓶 / 日光瓶",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "**流霞瓶属于“好看但不算顶级”的修行雅物** 。它展现了《剑来》中修士利用自然气象增进修为的巧思 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第485章 故人故事两重逢",
+      "owner": "碰瓷妇人"
+    }
+  ],
+  "subtype": "灵气类",
+  "holder": "陈灵均",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若能收集到上古龙宫残余的云涛，可进阶为辅助破境的重器 。",
+  "supernatural_ability": "能够自动采撷五岳大山的云涛彩霞并炼化，倾倒而出可形成如梦如幻的 修行气象 。",
+  "evolution": {
+    "current_form": "造型精巧、色彩艳丽的小型瓷瓶 。",
+    "materials_consumed": [
+      "上等瓷泥",
+      "日月精华"
+    ],
+    "potential_evolution": "可演化为能收纳万里云霞的法宝。"
+  },
+  "visual": {
+    "static": "瓶身如粉绿或淡金，在阳光下会有流光在其间游走 。",
+    "active": "打开瓶塞后，会有大片彩霞流淌而出，绚烂夺目 。"
+  },
+  "provenance": {
+    "origin": "产自大骊南方的龙窑或特定仙家窑口 。",
+    "karma_link": "是陈平安在回乡途中为青衣小童购买的“雅致”玩具，体现了师徒间的情 分 。"
+  },
+  "enriched": true
+}

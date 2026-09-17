@@ -1,0 +1,80 @@
+{
+  "name": "名泉",
+  "original_name": "大泉镇国宝刀",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这把法刀是大泉王朝皇权与武力的象征。它浸染了多位王侯的鲜血，拥有破除一切阴邪水魅的无上权威 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第758章 夜行",
+      "owner": "姚岭之"
+    },
+    {
+      "chapter": "第894章 天下皆知",
+      "owner": "姚岭之 (失窃)"
+    },
+    {
+      "chapter": "第924章 与诸君借取千山万水（五）",
+      "owner": "简明(暂持)"
+    },
+    {
+      "chapter": "第968章 抢徒弟",
+      "owner": "简明"
+    },
+    {
+      "chapter": "第969章 风雪旧曾谙",
+      "owner": "简明"
+    },
+    {
+      "chapter": "第970章 滚雪球",
+      "owner": "姚近之 (即将转交)"
+    },
+    {
+      "chapter": "第980章 也在心乡",
+      "owner": "简明"
+    },
+    {
+      "chapter": "第1127章 二十人与候补们（九）",
+      "owner": "大泉姚氏"
+    }
+  ],
+  "subtype": "压胜类 / 攻伐类",
+  "holder": "简明 (越人歌)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姚岭之",
+      "relation": "曾持有"
+    },
+    {
+      "name": "曾先生",
+      "relation": "赠予者"
+    },
+    {
+      "name": "大泉刘氏皇室",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "具备“名泉”之威，有望通过斩杀高阶水族进一步提升压胜权柄 。",
+  "supernatural_ability": "天然压胜一切鬼怪神异；曾手刃前朝皇帝，蕴含斩断国祚的煞气 。",
+  "evolution": {
+    "current_form": "木质刀鞘蒙绿鲨皮，刀柄嵌满珍宝 。",
+    "materials_consumed": [
+      "真龙之气",
+      "皇室文武国运"
+    ],
+    "potential_evolution": "可作为压胜蛟龙水裔的神兵，配合刀法斩杀飞升境水族 。"
+  },
+  "visual": {
+    "static": "工艺极其考究，绿鲨皮刀鞘在暗处亦有幽光，柄部饰件极其奢华 。",
+    "active": "刀光如泉涌，金甲昭昭，能够破开水蛟引发的洪水瘴气 。"
+  },
+  "provenance": {
+    "origin": "大泉王朝国库秘藏的镇国重器 。",
+    "karma_link": "原为姚岭之佩刀，遗失后由曾先生寻回，赠予弟子简明作为护道兵刃 。"
+  },
+  "enriched": true
+}

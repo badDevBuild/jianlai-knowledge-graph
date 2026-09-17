@@ -1,0 +1,51 @@
+{
+  "name": "青色玉玺",
+  "original_name": "青玉之玺 / 巡狩天下之宝",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "青色玉玺是青杏国柳氏王朝的重要传承信物，主要用于对外册封与 敕正 。它不仅是世俗权利的象征，更是能够承载和汇聚民间香火、稳 固山河气数的法宝重器 , 。曾因合欢山邪祟的窃取而导致国家运势陷入动荡 , 。",
+  "aliases": [
+    "青色玉玺",
+    "古老玉玺"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第12章 小巷",
+      "owner": "锦衣少年"
+    }
+  ],
+  "subtype": "镇压/封正类",
+  "holder": "青杏国皇室",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "赵浮阳/合欢山",
+      "relation": "夺取自"
+    },
+    {
+      "name": "柳氏皇室",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "若由大修士点化，可化为守护国运的‘气运人身’ 。",
+  "supernatural_ability": "敕正番邦、册封外夷，镇压山河气数与龙气 , 。",
+  "evolution": {
+    "current_form": "青玉玉玺",
+    "materials_consumed": [
+      "王朝龙气",
+      "人间香火"
+    ],
+    "potential_evolution": "护道神灵"
+  },
+  "visual": {
+    "static": "由上等青玉雕琢而成，方二寸规制，古朴厚重 , 。",
+    "active": "激发时可显现龙气，文字绽放金光，镇压邪祟 , 。"
+  },
+  "provenance": {
+    "origin": "青杏国柳氏皇朝传承物 。",
+    "karma_link": "因玉玺失踪曾导致青杏国君主被讥讽为‘白板皇帝’，涉及一国气运 流转 , 。"
+  },
+  "enriched": true
+}

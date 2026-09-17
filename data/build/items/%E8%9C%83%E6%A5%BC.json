@@ -1,0 +1,44 @@
+{
+  "name": "蜃楼",
+  "original_name": "蜃楼渡船 / 云上仙府",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“蜃楼”是浩然天下最著名的跨洲渡船之一。它不仅是交通工具，更是一座可以移动的战争要塞，承载着 大王朝的国威与资源 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第270章 好久不见，宁姑娘",
+      "owner": "中土神洲某王朝"
+    }
+  ],
+  "subtype": "飞行类 / 辅助类",
+  "holder": "中土神洲大王朝 (如大篆王朝) / 郑水珠",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土神洲某顶级王朝皇室",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为跨洲远游的大型仙家载具，其内部自成秘境，具备抵御恶劣天象的极强能力 。",
+  "supernatural_ability": "**“虚实幻化”**。整座渡船可在大雾中化作海市蜃楼般的假象，以此躲避大妖的袭扰，且内部空间广阔 如一座小城 。",
+  "evolution": {
+    "current_form": "体型庞大的跨洲渡船，飞行于云海之上 。",
+    "materials_consumed": [
+      "千年灵木",
+      "蜃妖内丹"
+    ],
+    "potential_evolution": "若得墨家巨子亲自加持，可进化为具备攻城能力的“剑舟” 。"
+  },
+  "visual": {
+    "static": "气势恢宏，如同一座漂浮在空中的移动宫殿，旗帜猎猎 。",
+    "active": "穿梭于云海时，会带起巨大的气流旋涡，周身萦绕着迷离的水雾与虹光 。"
+  },
+  "provenance": {
+    "origin": "产自中土神洲，由大王朝动用举国之力打造而成 。",
+    "karma_link": "曾搭载女子武神等顶级战力前往倒悬山参与淬剑与议事 。"
+  },
+  "enriched": true
+}

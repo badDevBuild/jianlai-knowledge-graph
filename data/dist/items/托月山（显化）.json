@@ -1,0 +1,44 @@
+{
+  "name": "托月山（显化）",
+  "original_name": "蛮荒祖山幻象",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "陈平安通过在心中“重构”这座蛮荒第一高山，将其化为 修行的试炼场。它不仅是他在战场上开山的演练，更是 其武道气盛一层的极致显化 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第789章 持剑者",
+      "owner": "亚圣"
+    }
+  ],
+  "subtype": "演武/砥砺类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "蛮荒大祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为陈平安“小天地”的核心，随剑术提升可演变为压胜 大妖的终极场域 。",
+  "supernatural_ability": "陈平安将此山视为世间最大的“斩龙石”，用来砥砺自身 剑锋与拳意 。",
+  "evolution": {
+    "current_form": "在“笼中雀”小天地内显化的一座巍峨黑色山岳 。",
+    "materials_consumed": [
+      "远古剑意",
+      "神灵遗骸气息"
+    ],
+    "potential_evolution": "有望成为支撑起十四境“合道地利”的真实根基。"
+  },
+  "visual": {
+    "static": "高耸入云，山势沉重如整座天下，四周被无数剑气长线 环绕 。",
+    "active": "陈平安递剑时，此山会被一剑开山，复又随光阴流逝瞬 间复原，周而复始 。"
+  },
+  "provenance": {
+    "origin": "源自陈平安在蛮荒天下亲身问剑托月山时的记忆与感悟 。",
+    "karma_link": "象征着陈平安对蛮荒最强权威的挑战与超越 。"
+  },
+  "enriched": true
+}

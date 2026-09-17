@@ -1,0 +1,60 @@
+{
+  "name": "桂花酿",
+  "original_name": "桂子酒 / 桂花小酿",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "桂花酿是老龙城范家的支柱产业之一，因其温和的补益功效和雅致的滋味风靡宝瓶洲。龙虎山天师府亦 有秘密酿造，作为款待高位神灵的佳品 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第370章 新年新气象",
+      "owner": "范家"
+    },
+    {
+      "chapter": "第380章 离别之后又有重逢",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第388章 行走四方",
+      "owner": "陈平安/朱敛"
+    },
+    {
+      "chapter": "第391章 君子救与不救",
+      "owner": "陈平安/朱敛"
+    }
+  ],
+  "subtype": "滋养类 / 消耗类",
+  "holder": "陈平安 / 范家 / 龙虎山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "范氏家族",
+      "relation": "原主"
+    },
+    {
+      "name": "龙虎山天师府",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "采用老龙城桂花岛祖宗桂树或月宫种桂子酿造，极具增长灵气之效 。",
+  "supernatural_ability": "**“驻颜静心”**。饮用后能够使女子容颜长驻，并有洗涤道心、排除修行杂念的神效 。",
+  "evolution": {
+    "current_form": "封存于各色瓷瓶或酒坛中的仙家酒酿 。",
+    "materials_consumed": [
+      "祖宗桂花瓣",
+      "灵泉水"
+    ],
+    "potential_evolution": "若加入万年土封存，可演化为延年益寿的顶级仙酿 。"
+  },
+  "visual": {
+    "static": "酒液色泽金黄，清澈见底，带有浓郁的桂花幽香 。",
+    "active": "倒入碗中时，酒气升腾如云雾，呈现出某种月宫幻象 。"
+  },
+  "provenance": {
+    "origin": "源自老龙城范家桂花岛或龙虎山天师府后院的月宫种老桂 。",
+    "karma_link": "陈平安在桂花岛游历期间常以此酒待客，也是与多位剑仙结缘的媒介 。"
+  },
+  "enriched": true
+}

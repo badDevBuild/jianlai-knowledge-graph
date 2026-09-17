@@ -1,0 +1,44 @@
+{
+  "name": "木像",
+  "original_name": "道家元君木像 / 木宅神像",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这尊木像原本是陈平安准备送给李槐的礼物，后因自身修行需要，将其炼化为坐镇脏腑的本命神物，是 其重建长生桥的关键拼图 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第552章 不唯有与他人告别",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "护身类 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "仙府遗址水殿",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "陈平安将其作为五行之木的本命物大炼。随主人破境，可演化为坐镇木气府邸的神灵 。",
+  "supernatural_ability": "观照内在澄明，不受外界邪魔迷障。在人身小天地中辅助生发灵气，稳固大道根基 。",
+  "evolution": {
+    "current_form": "手掌高度的木刻神像，放置于陈平安的“木宅”中 。",
+    "materials_consumed": [
+      "上古道门愿力",
+      "大玄都观祖宗桃木"
+    ],
+    "potential_evolution": "可随道法精进显化为具有独立灵智的护法真灵 。"
+  },
+  "visual": {
+    "static": "刻画道家元君身姿，头戴冠冕，衣袍纹理细腻如绸缎，神态庄严祥和 。",
+    "active": "在大炼过程中会散发出宁静的绿意神光，底座显示铭文“观照内在澄明” 。"
+  },
+  "provenance": {
+    "origin": "得自北俱芦洲一处远古仙府遗址的水殿中 。",
+    "karma_link": "陈平安在北俱芦洲游历期间拣选，最终决定将其用于自身的五行圆满修行 。"
+  },
+  "enriched": true
+}

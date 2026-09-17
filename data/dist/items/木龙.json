@@ -1,0 +1,44 @@
+{
+  "name": "木龙",
+  "original_name": "赵繇镇纸 / 齐静春遗物",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "赵繇随身携带的重宝。作为齐静春钦点的书童，这件木龙不仅是他的立身之本，更是他未来在儒家学宫 登高的关键机缘 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第657章 再来一碗阳春面",
+      "owner": "赵繇"
+    }
+  ],
+  "subtype": "文房/气运类",
+  "holder": "赵繇",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随持有人学问精进与文运加持，可进化为具备辅助破境能力的灵物 。",
+  "supernatural_ability": "蕴含齐静春的儒家道意，能稳固文运，虽处于休眠状态却能滋养持有人才气 。",
+  "evolution": {
+    "current_form": "一只雕刻精美的木质龙形镇纸 。",
+    "materials_consumed": [
+      "齐静春的点睛之笔",
+      "儒家文运"
+    ],
+    "potential_evolution": "若能成功“点睛”，可幻化为守护文脉的真灵 。"
+  },
+  "visual": {
+    "static": "形制古朴，质地温润，木纹隐有龙鳞之象 。",
+    "active": "感知到文庙气息或儒家大义时，会散发出淡淡的金光 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天五大机缘之一，齐静春的书童信物 。",
+    "karma_link": "代表了齐静春对儒家薪火传承的一份期许 。"
+  },
+  "enriched": true
+}

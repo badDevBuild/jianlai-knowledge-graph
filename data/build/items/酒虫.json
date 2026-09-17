@@ -1,0 +1,48 @@
+{
+  "name": "酒虫",
+  "original_name": "酒泥 / 醇酒精魅",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是**酒铺招财进宝的秘诀**。陈平安将其视为“不愿离身的家庭成员” ，它是平凡生活与修行雅兴的结合点 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第388章 行走四方",
+      "owner": "陆抬"
+    },
+    {
+      "chapter": "第581章 陋巷处又有学塾",
+      "owner": "陈平安 (借自魏檗)"
+    }
+  ],
+  "subtype": "精魅/滋养类",
+  "holder": "叠嶂 / 陈平安",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "落宝滩 (老观主)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若得仙家名泉滋养，可生发为能吐出“仙酿”的强大精魅 。",
+  "supernatural_ability": "只需放入新酒中数个时辰，即可将其转化为口感醇厚的陈年美酒；甚至 能产出具备灵气的酒浆 。",
+  "evolution": {
+    "current_form": "指甲盖大小、如红色鱼苗的小虫，常处于醉醺醺的状态 。",
+    "materials_consumed": [
+      "陈酿酒气",
+      "日月精华"
+    ],
+    "potential_evolution": "可进阶为管理一方水运的“酒圣”随从。"
+  },
+  "visual": {
+    "static": "平日隐匿在酒液深处，体表泛着微弱的琥珀色光泽 。",
+    "active": "游动时会带起阵阵酒香涟漪，使周遭数丈内的人闻之欲醉 。"
+  },
+  "provenance": {
+    "origin": "诞生于极高品质的陈年酒缸，如老龙城或剑气长城遗存 。",
+    "karma_link": "帮助叠嶂的酒铺一举成名，使“竹海洞天酒”成为剑气长城的金字招牌 。"
+  },
+  "enriched": true
+}

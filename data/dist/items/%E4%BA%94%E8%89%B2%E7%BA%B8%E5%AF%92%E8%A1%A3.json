@@ -1,0 +1,38 @@
+{
+  "name": "五色纸寒衣",
+  "original_name": "五彩寒衣",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗品",
+  "description": "这是《剑来》中体现“死者为大”与“香火传承”的重要物品。陈平安在十 月十五烧纸一小时，其诚心足以动摇天理 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第549章 横剑在膝四顾茫然",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "祭祀/民俗类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "随着祭祀之人的功德愿力累积，可真正转化为阴冥之地的“法衣”。",
+  "supernatural_ability": "通过焚烧可跨越阴阳两界，为已故亡魂提供庇护与慰藉 。",
+  "evolution": {
+    "current_form": "五种颜色的纸质祭品 。",
+    "materials_consumed": [
+      "五色纸",
+      "诚心祭语"
+    ],
+    "potential_evolution": "若由圣人亲自点燃，可化为守护阴灵免受罡风之苦的“灵帛”。"
+  },
+  "visual": {
+    "static": "色泽鲜艳的纸质衣物形状，一叠叠整齐码放 。",
+    "active": "焚烧时火苗呈青紫色，烟雾中隐约可见衣物形态飘向幽冥 。"
+  },
+  "provenance": {
+    "origin": "源自浩然天下中元节等祭祀习俗 。",
+    "karma_link": "陈平安在龙宫洞天以此祭奠剑气长城已故之人，寄托了对死者的愧疚与 弥补 。"
+  },
+  "enriched": true
+}

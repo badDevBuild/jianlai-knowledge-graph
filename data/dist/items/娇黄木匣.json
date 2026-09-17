@@ -1,0 +1,51 @@
+{
+  "name": "娇黄木匣",
+  "original_name": "娇黄阴沉木长匣",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "李槐求学路上的重要家当之一。这只娇黄阴沉木匣不仅质地名贵，更承载了李槐与魏檗之间的那份“分 赃”情谊 。",
+  "aliases": [
+    "娇黄阴沉木匣",
+    "娇黄木匣"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第104章 坐地分赃",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第405章 山巅斗法",
+      "owner": "李槐"
+    }
+  ],
+  "subtype": "存储类 / 滋养类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由珍稀阴沉木制成，能够有效保护内里的书籍与灵物万年不腐，具有演化为小型方寸物的潜力 。",
+  "supernatural_ability": "“辟邪驻香”。匣身自带异香，能宁神定志，且因深埋地下多年，具备极强的压胜阴煞之力 。",
+  "evolution": {
+    "current_form": "长条形木匣，色泽由娇黄逐渐转为褐红 。",
+    "materials_consumed": [
+      "千年岁月磨砺",
+      "地气滋养"
+    ],
+    "potential_evolution": "可配合仙家禁制，将其内部空间拓宽为独立秘境。"
+  },
+  "visual": {
+    "static": "木质沉重，表面有天然纹理，散发出一股经久不散的古木清香 。",
+    "active": "开启时匣口会有淡淡的烟霞升腾，保护内里物件不受外界灵气波动的侵扰 。"
+  },
+  "provenance": {
+    "origin": "棋墩山土地爷魏檗在分赃过程中赠予李槐 。",
+    "karma_link": "李槐用来存放彩绘木偶、泥人及《断水大崖》的重要容器 。"
+  },
+  "enriched": true
+}

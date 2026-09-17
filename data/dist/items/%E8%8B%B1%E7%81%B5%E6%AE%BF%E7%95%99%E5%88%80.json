@@ -1,0 +1,48 @@
+{
+  "name": "英灵殿留刀",
+  "original_name": "破阵长枪 / 斩勘",
+  "type": "重器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此神兵在白帝城外战场上屹立不倒，象征着兵家初祖不灭的战意。其杀伤力不仅针对肉身，更能直接冲 击练气士的大道根本。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第418章 几座天下几个人",
+      "owner": "魁梧汉子(蛮荒天下)"
+    }
+  ],
+  "subtype": "极致攻伐类",
+  "holder": "姜赦 / 陈平安 (曾持有)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姜赦",
+      "relation": "原主"
+    },
+    {
+      "name": "蛮荒英灵殿",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古兵家初祖的成名武器，其杀力足以洞穿界壁，具有合道一方的恐怖威力。",
+  "supernatural_ability": "“破阵”。一枪出而万阵碎，能够正面硬撼飞升境大修士的全力防御。",
+  "evolution": {
+    "current_form": "完整无损的破阵长枪。",
+    "materials_consumed": [
+      "远古神灵尸骸",
+      "蛮荒战意"
+    ],
+    "potential_evolution": "若由十四境兵家大修驱动，可演化为镇压一洲气运的支柱。"
+  },
+  "visual": {
+    "static": "长枪矗立，枪身布满古老纹路，散发着令人胆寒的肃杀之气。",
+    "active": "递出时枪尖如雷鸣，带起的光线如龙蛇游走，能轻易碎裂琉璃境地。"
+  },
+  "provenance": {
+    "origin": "远古兵家初祖姜赦的神兵，曾供奉在青冥天下藕神祠。",
+    "karma_link": "与蛮荒英灵殿的十四王座气运紧密相连，是兵家权柄的终极象征。"
+  },
+  "enriched": true
+}

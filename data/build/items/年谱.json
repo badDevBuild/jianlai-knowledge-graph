@@ -1,0 +1,38 @@
+{
+  "name": "年谱",
+  "original_name": "落魄山年谱",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是落魄山最为正式的历史档案。不仅记录光辉时刻， 也包含许多“注解”和“轶事”，由白发童子尽心打理 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第990章 双喜临门",
+      "owner": "落魄山"
+    }
+  ],
+  "subtype": "记录类",
+  "holder": "箜篌 (白发童子)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "承载着一座宗门的气运起伏，记录得越详实，宗门文运 越稳固 。",
+  "supernatural_ability": "能够自动修正历史偏差，真实记录山头成员的一言一行 ，具备一定的因果定格力 。",
+  "evolution": {
+    "current_form": "一本由编谱官随身携带、时刻更新的厚重书册 。",
+    "materials_consumed": [
+      "宗门香火",
+      "时空片段记忆"
+    ],
+    "potential_evolution": "最终可演化为类似于“功德簿”的神道宝典 。"
+  },
+  "visual": {
+    "static": "书页厚实，文字规矩。编谱官常用鸡距笔在灯下校对 。",
+    "active": "记录重大事件（如夜游宴）时，书页会泛起金色光芒， 字迹跃动 。"
+  },
+  "provenance": {
+    "origin": "陈平安准许白发童子为落魄山撰写，旨在垂辉映千秋 。",
+    "karma_link": "是落魄山从“草台班子”向正式宗门转变的物化见证 。"
+  },
+  "enriched": true
+}

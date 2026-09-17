@@ -1,0 +1,44 @@
+{
+  "name": "念珠",
+  "original_name": "粗砺石念珠 / 佛家数珠",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**念珠**在《剑来》中既是佛门修士的法器，也是部分山巅大妖用来消磨戾气或承载道意的重宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第606章 出言便作狮子鸣",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "辅助类 / 悟道类",
+  "holder": "大妖 (御剑老者) / 儒衫文士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "上古佛门",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "若为佛门龙象所持，可承载“黄龙三关”等级的证道真意 。",
+  "supernatural_ability": "**“静心定神”**。捻动珠子可抵御心魔，部分具备神通的念珠如“黄龙三关”，能化作文字关隘阻敌 。",
+  "evolution": {
+    "current_form": "一串由棱角分明的粗糙石子或精美玉石串成的珠串 。",
+    "materials_consumed": [
+      "上古金精",
+      "佛门愿力"
+    ],
+    "potential_evolution": "高位格者可演化为“三洞金文”或“九都山绿籍”级别的信物 。"
+  },
+  "visual": {
+    "static": "或是质感轻洁的修行之物，或是古意森森的重器 。",
+    "active": "捻动时常伴有梵音响动，或在虚空中显化出金色经文路径 。"
+  },
+  "provenance": {
+    "origin": "源自远古佛门传承，部分流散至大妖及山泽野修之手 。",
+    "karma_link": "与持有者的道心契合度极高，常作为衡量修士佛理或定力的媒介 。"
+  },
+  "enriched": true
+}

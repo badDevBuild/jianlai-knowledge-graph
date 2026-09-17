@@ -1,0 +1,40 @@
+{
+  "name": "快哉亭谱",
+  "original_name": "快哉亭棋谱",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是浩然天下公认的棋道神作。蒋龙骧凭借此书名动中土，书中不仅有棋理，更暗藏了对天地大势的某 种解读 。",
+  "aliases": [
+    "《快哉亭棋谱》"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第608章 下棋坏道心，酒水辣肚肠",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "文化/术法类",
+  "holder": "溪庐先生 (蒋龙骧)",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "随棋手对天地局势的参悟，可演化为推演因果的阵法核心 。",
+  "supernatural_ability": "记载了国手级别的对弈精髓，翻阅者可入梦棋局，磨砺神魂 。",
+  "evolution": {
+    "current_form": "刊印精良的厚重书籍 。",
+    "materials_consumed": [
+      "国手棋力",
+      "邵元王朝文运"
+    ],
+    "potential_evolution": "若由仙人注疏，可跻身“山海补志”之列，成为一洲名胜的总纲 。"
+  },
+  "visual": {
+    "static": "纸张洁白如玉，墨色浓郁如漆 。",
+    "active": "书中棋局可自行在半空显化，黑白子博弈间有风云异象 。"
+  },
+  "provenance": {
+    "origin": "由中土邵元王朝弈林国手溪庐先生蒋龙骧编撰 。",
+    "karma_link": "邵元王朝皇帝陛下亦曾赐予此书相关殊荣 。"
+  },
+  "enriched": true
+}

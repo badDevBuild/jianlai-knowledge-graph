@@ -1,0 +1,51 @@
+{
+  "name": "布鞋",
+  "original_name": "家常布鞋",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "不同于修行者的云靴，布鞋在《剑来》视觉设定中代表 了“市井烟火气”与“神性”的统一，是落魄山家风的具象 化 。",
+  "aliases": [
+    "千层底布鞋",
+    "千层底老布鞋"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第840章 家乡",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1035章 自有宽路",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "服饰类",
+  "holder": "朱敛 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈暖树",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "因受山主及武学大宗师气息浸染，可成为蕴含纯粹武夫 真气的温养物 。",
+  "supernatural_ability": "无。但象征着修道者的“脚踏实地”与“返璞归真” 。",
+  "evolution": {
+    "current_form": "普通的千层底布鞋，或由暖树亲手缝制 。",
+    "materials_consumed": [
+      "粗布",
+      "麻绳"
+    ],
+    "potential_evolution": "若由仙人遗蜕穿戴，可演化为具有缩地成寸神通的“灵 履”。"
+  },
+  "visual": {
+    "static": "质朴无华，针脚细密，鞋面多为黑色或灰色 。",
+    "active": "行走于山河间，即便尘土飞扬亦难染其身（由穿戴者气 息护持）。"
+  },
+  "provenance": {
+    "origin": "由落魄山小管家暖树为众人缝制。",
+    "karma_link": "承载了落魄山“一家人”的温馨香火情 。"
+  },
+  "enriched": true
+}

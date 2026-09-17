@@ -1,0 +1,49 @@
+{
+  "name": "巡狩天下之宝",
+  "original_name": "柳氏祖传玉玺",
+  "type": "法宝",
+  "grade": "重宝",
+  "status": "活跃",
+  "description": "此宝是宝瓶洲南部一个覆灭大王朝的遗物，作为传国重宝流落民间，被狮子园柳氏世代珍藏 。柳伯奇曾受老侍郎之托将其赠予陈平安以助其炼化金属本命物，但被陈平安婉拒并归还给柳清山 。",
+  "aliases": [
+    "巡狩之宝"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第393章 灵光乍现山渐青",
+      "owner": "柳氏（柳清山藏）"
+    }
+  ],
+  "subtype": "气运类",
+  "holder": "柳清山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宝瓶洲南部覆灭大王朝",
+      "relation": "原主"
+    },
+    {
+      "name": "柳氏家族",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "蕴含文运与王朝遗泽",
+  "supernatural_ability": "能够镇压山水气运，且对文人修行有奇效",
+  "evolution": {
+    "current_form": "黄金玉玺",
+    "materials_consumed": [
+      "黄金"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "方二寸的黄金质地金块，篆刻有“范围天地，幽赞神明，金甲昭昭，秋狩四方”十六字 。",
+    "active": "炼化后可显化出浓郁的文运气息与王朝残留气运 。"
+  },
+  "provenance": {
+    "origin": "宝瓶洲南部某覆灭大王朝",
+    "karma_link": "狮子园柳氏世代珍藏，被多方势力觊觎"
+  },
+  "enriched": true
+}

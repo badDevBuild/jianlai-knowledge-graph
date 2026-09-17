@@ -1,0 +1,43 @@
+{
+  "name": "罗经仪",
+  "original_name": "三十六层袖珍罗盘",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "罗经仪是精通地理堪舆与阵法之道的修士必备之物。柴御所持的这款袖珍罗盘因其极高的精密度，在北 俱芦洲的山野秘境探险中具有极高的实用价值。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第833章 好似拖拽虚舟",
+      "owner": "杜渐"
+    }
+  ],
+  "subtype": "侦测类 / 阵法类",
+  "holder": "柴御",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "柴氏家族",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为传承悠久的家族重宝，通过汲取名山地气，可提升至法宝品秩。",
+  "supernatural_ability": "具备极其复杂的侦测与破阵能力。通过罗盘上的三十六层结构，可以精密测定地脉深浅、气机流转以及 阵法枢纽位置 。",
+  "evolution": {
+    "current_form": "三十六层微缩罗盘。",
+    "materials_consumed": [
+      "地脉精气"
+    ],
+    "potential_evolution": "若能配合《礼记·地官篇》等禁书秘术，可演化为用于构建王城格局的“定鼎罗盘”。"
+  },
+  "visual": {
+    "static": "形制极其小巧，罗盘结构精密繁复，层数多达三十六层，凡夫俗子难以数清 。",
+    "active": "拨动时各层罗盘飞速旋转，指针能够锁定虚空中的隐秘禁制，散发出淡淡的微光。"
+  },
+  "provenance": {
+    "origin": "源自毂率国柴氏家族，其祖辈曾任钱法侍郎 。",
+    "karma_link": "柴御在入山寻访仙府遗址时，曾以此物辅助孙道人破解古战场阵法 。"
+  },
+  "enriched": true
+}

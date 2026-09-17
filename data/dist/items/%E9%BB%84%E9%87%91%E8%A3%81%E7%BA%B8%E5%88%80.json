@@ -1,0 +1,46 @@
+{
+  "name": "黄金裁纸刀",
+  "original_name": "白玉雕龙纹鎏金“工官百炼”刀",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "大骊平调而来的大都督韦谅常用的文房雅具，它既是一件实用的办公工具，也是其身份地位与个人审美 趣味的象征 。",
+  "aliases": [
+    "黄金裁纸刀"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第244章 大骊陈平安在此",
+      "owner": "楚濠"
+    }
+  ],
+  "subtype": "辅助类 / 文房类",
+  "holder": "韦谅",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "前朝皇室",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为“君子武备”中的极品，能够承载极重的文运与官场威压 。",
+  "supernatural_ability": "**“裁云剪水”**。不仅可以轻易裁剪名贵宣纸，更能在文人落笔时稳固四周气场，隔绝邪祟 。",
+  "evolution": {
+    "current_form": "白玉材质雕琢龙纹，辅以鎏金工艺，造型华贵端庄 。",
+    "materials_consumed": [
+      "极品白玉",
+      "赤金"
+    ],
+    "potential_evolution": "若在书院文气浓郁处温养，有望成为判官笔一类的法宝 。"
+  },
+  "visual": {
+    "static": "玉质剔透，龙纹细腻，鎏金部分在光照下流光溢彩 。",
+    "active": "作为镇纸或裁纸使用时，会有细微的龙吟声伴随，展现皇家气象 。"
+  },
+  "provenance": {
+    "origin": "出自前朝工官署之手，代表了当时工艺的最高水平 。",
+    "karma_link": "作为韦谅“君子武备”之一，常用于处理涉及山水官场的绝密案牍 。"
+  },
+  "enriched": true
+}

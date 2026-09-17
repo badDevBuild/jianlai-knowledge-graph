@@ -1,0 +1,52 @@
+{
+  "name": "桃花酒酿糕",
+  "original_name": "福地仙家糕点",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是落魄山极具代表性的“雅物”之一。不仅作为日常点 心，更在跨洲商贸中作为打通关系的“敲门砖”，深受山 上女修喜爱 。",
+  "aliases": [
+    "桃花糕",
+    "桃花酒酿糕"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第69章 夜幕",
+      "owner": "阮秀"
+    }
+  ],
+  "subtype": "滋养类/消耗类",
+  "holder": "落魄山成员 / 关隘门房",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "百花福地",
+      "relation": "原主"
+    },
+    {
+      "name": "朱敛",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随烹饪者心境与食材灵气提升，可具备稳固神魂之效 。",
+  "supernatural_ability": "蕴含微弱的水木灵气，能够平复修士心境，对于走火入 魔后的神识修复有细微助益 。",
+  "evolution": {
+    "current_form": "带有淡淡桃花芬芳与酒香的精致糕点 。",
+    "materials_consumed": [
+      "百花酿",
+      "灵谷粉",
+      "桃花精粹"
+    ],
+    "potential_evolution": "若加入三千年文运水珠，可演化为“通文气、启灵智”的 圣贤点心 。"
+  },
+  "visual": {
+    "static": "色泽白里透粉，形态多为桃花状，表面有点点花瓣碎屑 ，香气袭人 。",
+    "active": "食用时会有淡淡的灵气萦绕齿间，温润入腹，通体舒泰 。"
+  },
+  "provenance": {
+    "origin": "源自落魄山朱敛的厨艺与百花福地的特产食材结合 。",
+    "karma_link": "见证了落魄山与百花福地、云窟福地之间的利益交换与 香火情谊 。"
+  },
+  "enriched": true
+}

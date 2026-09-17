@@ -1,0 +1,48 @@
+{
+  "name": "神仙廊桥",
+  "original_name": "廊桥 / 镇剑楼 / 飞升台",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "它是骊珠洞天小镇的议事中心，其真实面目是极其罕见的“镇剑楼”。它不仅压制着地底的真龙余孽，更 承载了万年前人族登天的沉重历史 [2-4]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第484章 北俱芦洲无奇怪",
+      "owner": "白衣高冠老修士"
+    }
+  ],
+  "subtype": "建筑 / 气运枢纽",
+  "holder": "大骊王朝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三教圣人",
+      "relation": "原主"
+    },
+    {
+      "name": "阮邛",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为浩然天下九座雄镇楼之一，其根基深厚，涉及一洲气运演化 。",
+  "supernatural_ability": "具备“风生水起”之势，实则为“镇剑楼”，能够压胜真龙气韵并作为远古飞升台使用 [2-4]。",
+  "evolution": {
+    "current_form": "龙须河上的一座木质廊桥 。",
+    "materials_consumed": [
+      "斩龙台",
+      "圣人墨宝"
+    ],
+    "potential_evolution": "可随大骊版图扩张，作为一洲山水气运的汇聚核心 。"
+  },
+  "visual": {
+    "static": "跨越龙须河，匾额题有“风生水起”四字，桥下悬有一柄生锈的老剑条 。",
+    "active": "作为飞升台时，可沟通天幕，形成接引仙人的光柱气象 。"
+  },
+  "provenance": {
+    "origin": "源于屠龙一役后三教一家的盟约地点，由前任督造官宋大人重修 。",
+    "karma_link": "与最后一条真龙的陨落及陈平安的成长轨迹深度绑定 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "紫檀琵琶",
+  "original_name": "琵琶夫人心爱琵琶",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是天籁窟琵琶夫人的性命依仗。在桐叶洲的江湖混战中，琵琶夫人曾以此物力战群雄，最终琵琶被毁 ，人也陷入垂死境地 。",
+  "aliases": [
+    "魔音琵琶"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第309章 围杀之局",
+      "owner": "琵琶女子"
+    }
+  ],
+  "subtype": "乐器类 / 攻伐类",
+  "holder": "琵琶夫人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "琵琶夫人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为天籁窟夫人的心爱之物，具备配合音律神通进行范围攻伐的潜力 。",
+  "supernatural_ability": "能够通过琵琶弦动产生音律攻击，在战场上大范围杀伤敌方 。",
+  "evolution": {
+    "current_form": "紫檀木制成的琵琶，后在战斗中损毁 。",
+    "materials_consumed": [
+      "紫檀木",
+      "灵气"
+    ],
+    "potential_evolution": "若得以修缮，可重新凝聚音律神髓。"
+  },
+  "visual": {
+    "static": "质地为上等紫檀，色泽深沉古朴，带有岁月的厚重感 。",
+    "active": "拨动琴弦时伴有灵气涟漪，琴声可化作实质性的剑气或音波攻势 。"
+  },
+  "provenance": {
+    "origin": "出自天籁窟，为琵琶夫人的标志性法器 。",
+    "karma_link": "见证了天籁窟与外界的纷争，最终在惨烈厮杀中被打成破烂 。"
+  },
+  "enriched": true
+}

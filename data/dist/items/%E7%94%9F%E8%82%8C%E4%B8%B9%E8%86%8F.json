@@ -1,0 +1,44 @@
+{
+  "name": "生肌丹膏",
+  "original_name": "跌打药膏 / 续断膏",
+  "type": "丹药",
+  "grade": "灵丹",
+  "status": "消耗",
+  "description": "陈平安远游途中常备的“保命药”。它不仅是伤病的克星，也见证了陈平 安一步步从泥腿子向武道巅峰攀登的艰辛 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第338章 狐儿镇",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "医疗类",
+  "holder": "陈平安 / 姚家老卒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "红烛镇药铺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为基础医疗药物，上限受制于凡草材质 。",
+  "supernatural_ability": "能迅速止血、促进伤口愈合，专门应对风寒、中暑及跌打损伤等小病小 灾 。",
+  "evolution": {
+    "current_form": "暗褐色或黑色的浓稠膏状物，带有辛辣苦涩的草药味 。",
+    "materials_consumed": [
+      "红烛镇特产草药",
+      "虎骨精粹"
+    ],
+    "potential_evolution": "若加入老蛟金丹碎屑，可演化为“活死人肉白骨”的灵器药膏 。"
+  },
+  "visual": {
+    "static": "通常盛放在质朴的瓷瓶或瓷罐中，密封严实 。",
+    "active": "涂抹后伤处会有温热感，迅速收敛气血并结痂 。"
+  },
+  "provenance": {
+    "origin": "陈平安远游途中在红烛镇药铺大批量添置 。",
+    "karma_link": "多次在生死战后帮助陈平安修补体魄残缺 。"
+  },
+  "enriched": true
+}

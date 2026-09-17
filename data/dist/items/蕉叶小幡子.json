@@ -1,0 +1,37 @@
+{
+  "name": "蕉叶小幡子",
+  "original_name": "翠绿小幡",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "一种专门用于洗练阴冥之气的灵器。在鬼蜮谷这种阴气精纯之地，此类幡子可以直接汲取天地间的道韵 进行自我强化。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第490章 肤腻城的下马威",
+      "owner": "中年修士"
+    }
+  ],
+  "subtype": "淬炼/加持类",
+  "holder": "中年修士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随修士道行加深，可强化幡面上的符阵，增加对阴气的洗练效率。",
+  "supernatural_ability": "可通过默念口诀驱动阴气如溪水般洗涮幡子表面，达到自我淬炼和纯化气息的效果。",
+  "evolution": {
+    "current_form": "翠绿色的蕉叶形状小幡。",
+    "materials_consumed": [
+      "山川阴灵之气"
+    ],
+    "potential_evolution": "可作为大型聚灵阵法的阵旗使用。"
+  },
+  "visual": {
+    "static": "等臂长短，幡柄由花梨木制成，系有一根金色长穗，色泽翠绿可人。",
+    "active": "摇晃时会有气机涟漪荡漾，阴气环绕幡面，呈现出类似溪水流动的光效。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲骸骨滩及鬼蜮谷地界。",
+    "karma_link": "由进入鬼蜮谷探寻机缘的精于鬼道练气士携带。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "八宝玲珑枪",
+  "original_name": "精铁玲珑枪",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一件极具江湖色彩的兵器，华丽而又不失实用。它代表了山下武林 对“玲珑”技艺的极致追求 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第349章 埋河封正，武庙借刀，白猿背剑",
+      "owner": "江湖豪杰"
+    }
+  ],
+  "subtype": "攻伐/技艺类",
+  "holder": "某江湖豪杰",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "作为凡俗兵器之巅，若得武道真气长久浸润，可产生对付低阶鬼魅的威 慑力 。",
+  "supernatural_ability": "工艺极其复杂，枪头与枪身衔接处含有机关，可进行小规模的旋转攻势 ，增强穿透力 。",
+  "evolution": {
+    "current_form": "以精铁打造，装饰华丽、结构精巧的长枪 。",
+    "materials_consumed": [
+      "百炼精铁",
+      "八宝装饰"
+    ],
+    "potential_evolution": "若经墨家宗师重铸，可升华为灵器“透甲玲珑枪”。"
+  },
+  "visual": {
+    "static": "枪身流线型极佳，枪头有镂空装饰，在阳光下闪烁银光 。",
+    "active": "抖动枪花时会发出悦耳的金石碰撞声，视觉上极具迷惑性 。"
+  },
+  "provenance": {
+    "origin": "出自桐叶洲某著名兵工厂，为江湖宗师定制 。",
+    "karma_link": "曾被用于挑战姚家枪，象征着江湖技艺与沙场杀伐的碰撞 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "捉妖幡子",
+  "original_name": "剑仙幡子 / 招魂幡",
+  "type": "法宝",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "一种专门针对**妖魔鬼魅的压胜重器**。既能作为鬼修的炼化工具，也能作为剑修的大阵枢纽，威力随 其中阴魂强弱而定 。",
+  "aliases": [
+    "捉妖幡子",
+    "招魂幡子"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第122章 雷法捉妖",
+      "owner": "老道人（跛脚少年背负）"
+    }
+  ],
+  "subtype": "禁锢/攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "离真",
+      "relation": "曾持有"
+    },
+    {
+      "name": "马远致",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "随着内部拘押的剑仙英灵实力提升，可成为横扫战场的**万人敌重器** 。",
+  "supernatural_ability": "**拘押魂魄，兵马集结**。能释放出大量剑仙英灵或阴兵鬼物结阵杀敌 。",
+  "evolution": {
+    "current_form": "古朴的长杆幡子 。",
+    "materials_consumed": [
+      "剑仙英灵",
+      "大妖煞气",
+      "阴冥灵气"
+    ],
+    "potential_evolution": "恢复为远古时代的镇魔大纛 。"
+  },
+  "visual": {
+    "static": "幡杆古旧，其上绘有“**降妖捉鬼**”银色符字或复杂的星图纹路 。",
+    "active": "挥动时阴风阵阵，无数剑光或青烟从中掠出，显化为白衣剑仙或神将身影 。"
+  },
+  "provenance": {
+    "origin": "离真布阵的十八件重宝之一，或为鬼修一脉的传承法具 。",
+    "karma_link": "在战场上被陈平安缴获，成为落魄山镇压山根与守卫的重要底蕴 。"
+  },
+  "enriched": true
+}

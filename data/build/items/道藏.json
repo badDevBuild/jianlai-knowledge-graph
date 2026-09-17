@@ -1,0 +1,59 @@
+{
+  "name": "道藏",
+  "original_name": "白玉京仙剑",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是青冥天下乃至数座天下公认最强横的杀伐之剑。余斗凭此剑坐镇白玉京，被誉为三教祖师之外的真 无敌 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第727章 五至高，四仙剑，一白也",
+      "owner": "道老二"
+    },
+    {
+      "chapter": "第728章 李花太白虎头帽",
+      "owner": "余斗"
+    },
+    {
+      "chapter": "第782章 天下圣贤豪杰",
+      "owner": "吴霜降"
+    },
+    {
+      "chapter": "第788章 问剑去",
+      "owner": "余斗"
+    },
+    {
+      "chapter": "第842章 谁围杀谁",
+      "owner": "余斗(道老二)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "白玉京二掌教（余斗）",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道教道统的象征之剑，其杀力位于三教祖师之下的最高层级 。",
+  "supernatural_ability": "剑意蕴含整部道藏的真意，能够压制世间一切旁门左道，曾剑落玄都观 。",
+  "evolution": {
+    "current_form": "白玉京二掌教背负的长剑 。",
+    "materials_consumed": [
+      "道门最高法统"
+    ],
+    "potential_evolution": "无 [无]。"
+  },
+  "visual": {
+    "static": "剑身被一身深不可测的道气与剑匣剑气环绕，即便在鞘中亦会引起天地涟漪 。",
+    "active": "出鞘时显化出无数金色云篆，道藏秘录、宝诰青词内容环绕剑身生灭 。"
+  },
+  "provenance": {
+    "origin": "由道祖亲传，作为白玉京掌管者的信物 。",
+    "karma_link": "见证了道老二横扫青冥十四州、问剑天下的无敌姿态 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "玉石素章",
+  "original_name": "随形章",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安在剑气长城和远游途中经常篆刻的物品，部分作为礼品赠送，部分用于晏家铺子售卖 。每一方都蕴含其个人的文学修养与剑道体悟 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第570章 小师叔最从容",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "金石/文化类",
+  "holder": "傅玄介 / 陈平安",
+  "holder_relation": "持有 / 篆刻",
+  "previous_holders": [
+    {
+      "name": "老观主",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因其材质极其坚韧（优于磨剑石），承载的文字具有强大的道韵 。",
+  "supernatural_ability": "刻有道祖真言或名家诗句，能作为文房镇宅之宝 。",
+  "evolution": {
+    "current_form": "陈平安以飞剑刻制的玉石印章 。",
+    "materials_consumed": [
+      "上古玉材",
+      "剑气"
+    ],
+    "potential_evolution": "若能流传万年，可成为宗门传法之印 。"
+  },
+  "visual": {
+    "static": "质地通透，纹理古朴，边款刻有细微小篆 。",
+    "active": "钤印时会有道意流转，甚至引动天地异象 。"
+  },
+  "provenance": {
+    "origin": "材质来自老观主随手抛出的随形玉石 。",
+    "karma_link": "由陈平安亲手雕琢，作为与别洲修士结缘的媒介 。"
+  },
+  "enriched": true
+}

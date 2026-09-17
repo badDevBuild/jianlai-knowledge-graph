@@ -1,0 +1,50 @@
+{
+  "name": "桂客牌",
+  "original_name": "范氏桂客木牌",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是范家仅赠予极少数贵客的身份铭牌，是陈平安在老龙城站稳脚跟并远渡倒悬山的重要凭证 。",
+  "aliases": [
+    "桂客木牌"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第258章 群山之巅，上有武神",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第259章 练拳百万",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "身份类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "范家家主",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "代表了老龙城范家最高等级的友谊，在范家产业内拥有极高的特权 。",
+  "supernatural_ability": "持牌者在桂花岛及范家商号购买物品可享受大幅折扣（陈平安为六折），并受范家保护 。",
+  "evolution": {
+    "current_form": "质地古朴的木制令牌 。",
+    "materials_consumed": [
+      "名贵木材",
+      "范家祖师道韵"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "木色深沉，刻有范家特有的标识，悬挂于腰间 。",
+    "active": "展示时可引发范家护山大阵的感应，确认身份无误 。"
+  },
+  "provenance": {
+    "origin": "由老龙城范家家主亲自赠予 。",
+    "karma_link": "见证了陈平安与范二、范家之间的深厚交情 。"
+  },
+  "enriched": true
+}

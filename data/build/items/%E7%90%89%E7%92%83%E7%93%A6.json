@@ -1,0 +1,48 @@
+{
+  "name": "琉璃瓦",
+  "original_name": "碧色琉璃瓦 / 仙府余材",
+  "type": "材料",
+  "grade": "灵材",
+  "status": "活跃",
+  "description": "琉璃瓦不仅是昂贵的建筑材料，更是白帝城等顶级势力的标志性象征。 每一片都承载着极高的工艺与法理价值 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第552章 不唯有与他人告别",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1076章 总是拿事补人心",
+      "owner": "柳赤诚"
+    }
+  ],
+  "subtype": "建筑/防御类",
+  "holder": "陈平安 / 郑居中",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白帝城琉璃阁",
+      "relation": "原产地"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为仙府核心构件，累积后可作为阵法屏障，抵御玉璞境以下攻击 。",
+  "supernatural_ability": "天然汇聚道韵，能将日光月华转化为水运灵气，具有极强的稳固气运功 能 。",
+  "evolution": {
+    "current_form": "碧绿透明、质地如玉的瓦片 。",
+    "materials_consumed": [
+      "仙家瓷泥",
+      "琉璃精粹"
+    ],
+    "potential_evolution": "万片汇聚可成仙兵品秩的“琉璃遮天阵” 。"
+  },
+  "visual": {
+    "static": "晶莹剔透，映照云海如碧波，表面带有细微的金色丝线 。",
+    "active": "在阵法启动时，瓦片会散发出如波浪般的灵气涟漪，形成保护罩 。"
+  },
+  "provenance": {
+    "origin": "出自中土白帝城琉璃阁或特定的远古仙府遗址 。",
+    "karma_link": "陈平安在探访仙府时“顺手牵羊”了百余片，成为落魄山下宗建设的珍贵 边角料 。"
+  },
+  "enriched": true
+}

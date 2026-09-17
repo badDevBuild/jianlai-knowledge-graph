@@ -1,0 +1,41 @@
+{
+  "name": "黄纸符文",
+  "original_name": "黄玺符纸 / 入门符箓",
+  "type": "符箓",
+  "grade": "灵器",
+  "status": "消耗",
+  "description": "这是陈平安在修行初期和远游途中使用最多的基础符箓 。他通过练习《丹书真迹》上的入门术法，以此淬炼 魂魄并辅助武道气机的运转 , 。",
+  "aliases": [
+    "祈福符"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第3章 日出",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "消耗类/辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "受限于材质，难以承载极高品秩的道意，但可通过画符 者的一口气机提升灵效 , 。",
+  "supernatural_ability": "作为符箓载体，可用于书写缩地符、阳气挑灯符和宝塔 镇妖符等入门符箓 。在关键时刻能起到破障、远遁或镇压低阶邪祟的作 用 。",
+  "evolution": {
+    "current_form": "材质普通的市井黄纸符 。",
+    "materials_consumed": [
+      "黄纸",
+      "朱砂",
+      "纯粹真气"
+    ],
+    "potential_evolution": "可进阶为金色符纸或降真青绿箓等高阶载体 , 。"
+  },
+  "visual": {
+    "static": "色泽枯黄，质地较为粗糙的纸张，通常绘有红色或黑色 的云篆线条 。",
+    "active": "激发时符胆灵光闪烁，燃烧速度极快，化作特定的术法 气象 , 。"
+  },
+  "provenance": {
+    "origin": "市井坊间随处可见的符箓耗材 。",
+    "karma_link": "见证了陈平安从二境武夫开始尝试以气画符的修行过程 。"
+  },
+  "enriched": true
+}

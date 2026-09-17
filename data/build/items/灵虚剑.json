@@ -1,0 +1,47 @@
+{
+  "name": "灵虚剑",
+  "original_name": "十五 / 碧玉短剑",
+  "type": "本命飞剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "虽非剑修所炼之本命飞剑，却在杨老头的点化下与陈平安神魂相连。它既是杀敌的利刃，也是陈平安行 走江湖的私人宝库 。",
+  "aliases": [
+    "灵虚剑",
+    "灵虚"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第119章 有些道理",
+      "owner": "白鲸"
+    }
+  ],
+  "subtype": "攻伐类 / 存储类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "拥有“万物可炼”之资，未来可成长为仙兵级的方寸重器 。",
+  "supernatural_ability": "“方寸乾坤”。剑身内部别有洞天，可作为方寸物存放大量灵宝，且二境武夫即可通过心意驾驭 。",
+  "evolution": {
+    "current_form": "一柄长不过寸余的碧玉短剑，温润如玉 。",
+    "materials_consumed": [
+      "陈平安魂魄精气",
+      "各种天材地宝"
+    ],
+    "potential_evolution": "随着持有者境界提升，剑内空间将不断扩张，且飞剑本身杀力会持续增长 。"
+  },
+  "visual": {
+    "static": "外观极似一支普通的碧玉发簪，小巧玲珑，毫无锋芒 。",
+    "active": "祭出后化作一道幽绿流萤，在空中穿梭极速，轨迹诡谲，亦能凭空摄物入剑 。"
+  },
+  "provenance": {
+    "origin": "药铺杨老头以“买卖”形式，用陈平安的白玉簪子交换所得 。",
+    "karma_link": "陈平安最重要的本命飞剑之一，承载了其“言念君子”的处世道心 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,73 @@
+{
+  "name": "五彩金匮灶",
+  "original_name": "五彩丹炉",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安**炼化五行本命物**的核心法宝。它不仅是一尊顶级丹炉，更是陈平安在修行路上**“炼开 山门”**的关键。他曾用此炉成功炼化了水运玉简和金色文胆 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第360章 到达老龙城",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第369章 聚散",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第413章 炼制",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第414章 那些心尖上摇曳的悲欢离合",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第591章 宁姚出剑会如何",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第678章 第五件",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1027章 休要乱我道心",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "炼物/炼丹类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆雍",
+      "relation": "赠予者"
+    },
+    {
+      "name": "某破碎小洞天仙人府邸",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为炼物至宝，能辅助炼化仙兵品秩的材料，具备极高的成长加持力 。",
+  "supernatural_ability": "具备**“金性不败朽”**的特质，能够中和五行，辅助修士炼化各种高品级本命物 。",
+  "evolution": {
+    "current_form": "朱红色的五足丹鼎 。",
+    "materials_consumed": [
+      "谷雨钱",
+      "小暑钱",
+      "纯粹真气"
+    ],
+    "potential_evolution": "随炼物功德提升，可成为承载天地道火的重器 。"
+  },
+  "visual": {
+    "static": "一臂长宽高，朱红材质。鼎身五足，分别为五头异兽的并拢双腿 。",
+    "active": "激发时，异兽头颅张嘴吐露五彩云雾，对应五行色彩，异香满室 。"
+  },
+  "provenance": {
+    "origin": "陆雍得自一座破碎小洞天的仙人府邸 。",
+    "karma_link": "陆雍因姜尚真的关系，以五十颗谷雨钱的天价半卖半送给陈平安 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "艾草",
+  "original_name": "悬门艾叶 / 破障草",
+  "type": "材料",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是《剑来》中“大道至简”的代表。虽然品秩极低，却 是打破复杂迷魂阵最有效的手段，体现了陆沉游戏人间 的智慧 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1099章 若无其事",
+      "owner": "薛如意"
+    }
+  ],
+  "subtype": "压胜/破障类",
+  "holder": "陈平安 / 薛如意",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽是凡俗之物，但配合特定符箓点燃，可破除十四境以 下的一切迷魂阵法 。",
+  "supernatural_ability": "点燃后产生的烟雾可平复心神，有效破解各种粉色迷障 （如风流帐）或隐匿的妖气 。",
+  "evolution": {
+    "current_form": "枯干的草束，常悬挂于宅门或放置在药铺柜台 。",
+    "materials_consumed": [
+      "山野草本",
+      "正阳之气"
+    ],
+    "potential_evolution": "可作为炼制“降魔香”的核心主料。"
+  },
+  "visual": {
+    "static": "色泽灰绿，叶片干裂，散发出一种辛辣且清凉的独特草 药香 。",
+    "active": "燃烧时烟雾凝而不散，能将肉眼不可见的阵法丝线显影 。"
+  },
+  "provenance": {
+    "origin": "陆沉在小镇或云游途中随手采摘 。",
+    "karma_link": "作为陆沉“顺手”送出的人情，曾帮陈平安在关键时刻抵 御飞升境鬼物的偷袭 。"
+  },
+  "enriched": true
+}

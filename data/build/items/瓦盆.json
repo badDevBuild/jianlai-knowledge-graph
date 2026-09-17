@@ -1,0 +1,44 @@
+{
+  "name": "瓦盆",
+  "original_name": "瓦盆跨洲渡船",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这艘渡船是扶摇洲顶尖宗门的排面。陈平安曾在其上精准捕获并斩杀了一头隐藏的飞升境大妖，使得该 船名噪一时 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第631章 淡淡风溶溶月",
+      "owner": "山水窟"
+    }
+  ],
+  "subtype": "运输/重宝类",
+  "holder": "扶摇洲山水窟",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "山水窟开山老祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为“聚宝盆”的具象，其财富吞吐量决定了一洲的经济命脉。",
+  "supernatural_ability": "承载力惊人，且在卸货换物时自带某种“不走空”的商家气运 。",
+  "evolution": {
+    "current_form": "形制如乡土瓦盆、实则巨大的跨洲楼船 。",
+    "materials_consumed": [
+      "海量神仙钱",
+      "市井烟火气"
+    ],
+    "potential_evolution": "在大战后可转型为连接数洲商贸的“万宝船”。"
+  },
+  "visual": {
+    "static": "外表土气，船身厚重，不像一般仙家渡船那般流光溢彩 。",
+    "active": "航行时海气相随，吞吐灵气如大鱼吸水，威势不可阻挡 。"
+  },
+  "provenance": {
+    "origin": "扶摇洲山水窟老祖出身微末，发迹后取此名以示不忘本 。",
+    "karma_link": "见证了陈平安与山水窟管事白溪的因果冲突 。"
+  },
+  "enriched": true
+}

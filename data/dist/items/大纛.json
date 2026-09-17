@@ -1,0 +1,35 @@
+{
+  "name": "大纛",
+  "original_name": "奉饶天下先大纛",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "白帝城标志性建筑与器物，屹立三千年不倒，见证了郑居中的崛起。它不仅是旗帜，更是其道心的具现 ，象征着他在天下棋局中先让一步亦能全胜的绝对自信 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1105章 一个新鲜故事",
+      "owner": "郑居中"
+    }
+  ],
+  "subtype": "威慑/阵法类",
+  "holder": "郑居中",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为白帝城权力的象征，蕴含极高的因果与文武气运 , 。",
+  "supernatural_ability": "大纛立于白帝城彩云最高处，象征“奉饶天下先”的无敌气概，是白帝城山水大阵的重要组成部分 , 。",
+  "evolution": {
+    "current_form": "白帝城巅的巨型旗帜 。",
+    "materials_consumed": [],
+    "potential_evolution": "随郑居中境界提升与白帝城疆域扩张而增强其道韵压制力 , 。"
+  },
+  "visual": {
+    "static": "矗立于中土神洲白帝城彩云间，是一杆巨大的旗帜 。",
+    "active": "上书“奉饶天下先”五个大字，在强劲天风中猎猎作响，展现出俯瞰人间的压迫感 , 。"
+  },
+  "provenance": {
+    "origin": "中土神洲白帝城 。",
+    "karma_link": "与魔道巨擘郑居中及其三千年来从未输过的棋局因果紧密相连 , 。"
+  },
+  "enriched": true
+}

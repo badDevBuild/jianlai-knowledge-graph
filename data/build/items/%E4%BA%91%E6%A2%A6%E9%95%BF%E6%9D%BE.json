@@ -1,0 +1,54 @@
+{
+  "name": "云梦长松",
+  "original_name": "云梦长松古弓",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "云梦长松是一件极具传奇色彩的远古古弓，目前由陈平安持有 。它不仅具备恐怖的远程杀伤力，更是解锁悬弓福地深层秘密的关键媒介 。",
+  "aliases": [
+    "云梦长松 (云梦长弓)"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第771章 江湖别过",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第772章 仗剑飞升",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第888章 离京返乡",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类 / 钥匙类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "虬髯客 (张三)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古遗物，其杀力下限极高，且具备开启远古洞天遗址的独特功能 。",
+  "supernatural_ability": "该弓是开启“悬弓福地”内一座无人涉足的远古洞天遗址的唯一钥匙 。此外，它本身亦是一件杀力不弱的神兵，曾在远古时代射落数头飞升境大妖 。",
+  "evolution": {
+    "current_form": "古弓实物 。",
+    "materials_consumed": [
+      "远古灵木",
+      "大妖筋骨"
+    ],
+    "potential_evolution": "若能将其大炼为本命物，可获得更强的攻伐威势 。"
+  },
+  "visual": {
+    "static": "质地古朴，散发着沉稳的远古气息 。",
+    "active": "手挽此弓时，气象宏大，能够引动天地灵气形成毁灭性的箭矢 。"
+  },
+  "provenance": {
+    "origin": "陈平安在夜航船条目城从虬髯客张三处购得 。",
+    "karma_link": "与悬弓福地的远古传承有着直接的因果联系 。"
+  },
+  "enriched": true
+}

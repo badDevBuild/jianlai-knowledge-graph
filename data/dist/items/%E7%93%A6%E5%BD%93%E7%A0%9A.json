@@ -1,0 +1,43 @@
+{
+  "name": "瓦当砚",
+  "original_name": "永受嘉福瓦当砚",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安远游北俱芦洲时的捡漏收获。虽然购买时看似只是一笔普通的包袱斋买卖，但其真实的古意 与灵气使其成为落魄山竹楼一楼的重要文房收藏 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第477章 人心中须有日月",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "文房清供",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "地龙山包袱斋两个消瘦孩子",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为具有浓郁文气与古意的文房器物，长期伴随山主修行可进一步温养灵性 。",
+  "supernatural_ability": "砚铭“永受嘉福”蕴含祈福意蕴，研磨时墨香可安定文人心境，助其感悟学问 。",
+  "evolution": {
+    "current_form": "一方刻有“永受嘉福”四字、呈现瓦当样式的古朴砚台 。",
+    "materials_consumed": [
+      "文气浸染"
+    ],
+    "potential_evolution": "作为落魄山书房常驻物件，有望演化为承载山头文运的重器 。"
+  },
+  "visual": {
+    "static": "形制古雅，模仿古代建筑瓦当，石质细腻且文字法度严谨 。",
+    "active": "使用时墨液流转如金石激荡，隐约有福缘汇聚之感 。"
+  },
+  "provenance": {
+    "origin": "陈平安在北俱芦洲地龙山渡口遇见两个面黄肌瘦的孩子，以此物捡漏得来 。",
+    "karma_link": "与对章、红料浅碗一同购得，承载了陈平安对自身少年贫苦境遇的回馈与因果 。"
+  },
+  "enriched": true
+}

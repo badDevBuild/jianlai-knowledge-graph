@@ -1,0 +1,44 @@
+{
+  "name": "画谱",
+  "original_name": "人间美艳篇 / 狐国画卷",
+  "type": "典籍",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "**画谱**通常指代狐国搜集的仕女图卷。它是落魄山经 营的重要文化资产，也是朱敛展现其画工与“人心算计” 的工具。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第774章 文圣一脉的学生们",
+      "owner": "李十郎"
+    }
+  ],
+  "subtype": "艺术/气运类",
+  "holder": "沛湘 (狐国之主)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "朱敛",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随狐国文运与香火凝聚，可演化为能拘人魂魄的幻境法 宝。",
+  "supernatural_ability": "画中仕女栩栩如生，蕴含神韵，能辅助修道之人定神。 在特定合作下，可作为情报收集与美人排名的载体。",
+  "evolution": {
+    "current_form": "工笔白描或彩绘的人物画册。",
+    "materials_consumed": [
+      "名家笔墨",
+      "狐国文运"
+    ],
+    "potential_evolution": "若得画圣点睛，可化为真实不虚的洞天福地。"
+  },
+  "visual": {
+    "static": "纸张考究，配有花鸟彩笺底纹，描绘有世间美艳女子的 画像。",
+    "active": "翻阅时文字与画像若隐若现，伴有异香，能让人身临其 境。"
+  },
+  "provenance": {
+    "origin": "由落魄山大管家朱敛出谋划策，狐国与敬仰楼合作编撰 。",
+    "karma_link": "体现了落魄山将“美色”转化为经营资源的事功手段。"
+  },
+  "enriched": true
+}

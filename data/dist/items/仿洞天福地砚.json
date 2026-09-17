@@ -1,0 +1,45 @@
+{
+  "name": "仿洞天福地砚",
+  "original_name": "二十八星宿图 / 日月同壁抄手砚",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是陈平安极其重要的阵法至宝。它融合了阴阳家术算 与符箓之道，是其在仙人境实现武道与神性平衡的具象 体现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第853章 猜错的谜底",
+      "owner": "宋续"
+    }
+  ],
+  "subtype": "阵法/洞天类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "郑居中",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随着炼化的金精铜钱增多，可演化为承载三千小千世界 的根本道场 。",
+  "supernatural_ability": "砚背凿有二十八星宿眼柱，炼化后可法天象地，构建庞 大星空禁制 。",
+  "evolution": {
+    "current_form": "基于日月同壁古砚炼化的一座小洞天 。",
+    "materials_consumed": [
+      "日月同壁古砚",
+      "金精铜钱",
+      "顾粲炼物法诀"
+    ],
+    "potential_evolution": "最终目标是在光阴长河内打造出三千小千世界 。"
+  },
+  "visual": {
+    "static": "形制为日月同壁的抄手砚，砚背凿有二十八星宿眼柱 。",
+    "active": "祭出后白昼转夜，星空璀璨，显现出二十八尊巍峨神将 法相 。"
+  },
+  "provenance": {
+    "origin": "由白帝城郑居中赠送给陈平安 。",
+    "karma_link": "是陈平安在天外战场统筹大局、观照人心的关键工具 。"
+  },
+  "enriched": true
+}

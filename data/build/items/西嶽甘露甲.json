@@ -1,0 +1,59 @@
+{
+  "name": "西嶽甘露甲",
+  "original_name": "神人承露甲“西嶽”",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是世间极其罕见的“祖宗级”兵家甲丸。虽然在流传中受损严重，但其根脚极其尊贵，是陈平安早期重 要的防御底牌 。",
+  "aliases": [
+    "西嶽",
+    "西嶽甘露甲",
+    "西嶽甲"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第339章 怪人怪梦",
+      "owner": "魏羡(陈平安持有)"
+    },
+    {
+      "chapter": "第356章 道争毫厘，左右徘徊",
+      "owner": "魏羡"
+    },
+    {
+      "chapter": "第364章 无解之局",
+      "owner": "魏羡"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "魏羡",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "灵芝斋",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为七件远古“祖宗”甘露甲之一，虽因受损导致神通十不存一，但仍具备极高的修复上限 。",
+  "supernatural_ability": "即便处于破损状态，仍能提供极强的物理防御，并具备一定的神道压胜之力 。",
+  "evolution": {
+    "current_form": "一副破烂不堪、布满禁制的兵家甲丸 。",
+    "materials_consumed": [
+      "神灵金身碎片"
+    ],
+    "potential_evolution": "若能寻回缺失的神性，可重回仙兵品秩 。"
+  },
+  "visual": {
+    "static": "未激发时是一颗质地古朴的青白色甲丸；披挂后为古朴厚重的全身铠甲 。",
+    "active": "虽然残破，但激发时仍有淡淡的兵家煞气与金光流转 。"
+  },
+  "provenance": {
+    "origin": "远古时代由铸造者仿造披甲者甲胄而成的七副祖宗甲之一 。",
+    "karma_link": "陈平安在倒悬山灵芝斋“捡漏”购得，后转借给魏羡作为护身重器 。"
+  },
+  "enriched": true
+}

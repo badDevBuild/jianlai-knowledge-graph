@@ -1,0 +1,44 @@
+{
+  "name": "酒杯",
+  "original_name": "酒泉",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "剑气长城历史上仅有的五只至宝酒杯，每一只都代表了一份剑道的豁达。孙巨源常以此杯在廊下斜倚熏 笼，饮酒赏花。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第610章 左右教剑术",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "孙巨源 / 晏溟 / 齐廷济",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白也",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为天下好酒之人的心头好，具有极其稳定的水属灵气滋养能力，甚至能容纳东海之水。",
+  "supernatural_ability": "杯中可自行生出美酒，被誉为“喝之不尽、饮之不竭”的大酒缸，且能随持有者心意调节酒水品秩。",
+  "evolution": {
+    "current_form": "小巧玲珑的白瓷酒杯，杯底常有月影或云纹异象。",
+    "materials_consumed": [
+      "东海之水",
+      "月魄精华"
+    ],
+    "potential_evolution": "若成对使用，可演化为“好事成双”的合道重宝。"
+  },
+  "visual": {
+    "static": "杯身薄如瓷片，质地莹澈，即便无酒时也隐隐有酒香溢出。",
+    "active": "轻轻摇晃时，杯中酒水会如星河般起伏，映照出饮酒者的心境异象。"
+  },
+  "provenance": {
+    "origin": "相传最早出自道祖之手，后流传至剑气长城。",
+    "karma_link": "见证了剑气长城巅峰剑仙的豪饮风采，亦是阿良当年坐庄坑走的重宝之一。"
+  },
+  "enriched": true
+}

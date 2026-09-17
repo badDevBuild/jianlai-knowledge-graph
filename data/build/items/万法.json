@@ -1,0 +1,59 @@
+{
+  "name": "万法",
+  "original_name": "龙虎山仙剑",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是浩然天下九洲公认的四把真正仙剑之一。它不仅是龙虎山的权力象征，更是压胜人间妖魔、稳定雷 法道统的终极重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第727章 五至高，四仙剑，一白也",
+      "owner": "赵天籁"
+    },
+    {
+      "chapter": "第728章 李花太白虎头帽",
+      "owner": "未知"
+    },
+    {
+      "chapter": "第733章 持剑者",
+      "owner": "龙虎山（赵天籁持鞘）"
+    },
+    {
+      "chapter": "第782章 天下圣贤豪杰",
+      "owner": "吴霜降"
+    },
+    {
+      "chapter": "第787章 河畔",
+      "owner": "赵天师"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "龙虎山当代大天师（赵天籁）",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "龙虎山历代大天师",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为人族历史上公认的四把仙剑之一，其杀力已达世间巅峰 。",
+  "supernatural_ability": "具备极其宏大的道教雷法与万法气象，出剑次数极少，但每逢现世皆惊天动地 。",
+  "evolution": {
+    "current_form": "龙虎山天师府镇山仙剑 。",
+    "materials_consumed": [
+      "远古剑道真意"
+    ],
+    "potential_evolution": "无 [无]。"
+  },
+  "visual": {
+    "static": "供奉于龙虎山天师府，寻常难见真容 。",
+    "active": "出鞘时万法齐鸣，雷光激绕，气势笼罩数洲 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的剑道显学，由龙虎山祖师传承至今 。",
+    "karma_link": "与道藏、太白、天真三剑并列，代表了人族剑道的正统 。"
+  },
+  "enriched": true
+}

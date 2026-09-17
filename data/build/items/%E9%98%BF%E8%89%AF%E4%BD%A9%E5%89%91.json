@@ -1,0 +1,37 @@
+{
+  "name": "阿良佩剑",
+  "original_name": "饮者",
+  "type": "本命飞剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "阿良的本命飞剑名为“饮者”。阿良虽然常年挂着竹刀游荡，但其飞剑杀力被视为浩然天下最顶尖的存在 之一。此剑名寓意“唯有饮者留其名” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第208章 去也",
+      "owner": "阿良"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "阿良",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "作为十四境剑修（曾）的本命飞剑，拥有斩断万物、无视防御的绝对杀力 。",
+  "supernatural_ability": "目前仅知其名，据阿良称因其喜酒且江湖唯有一座，故此生唯有此剑 。",
+  "evolution": {
+    "current_form": "飞剑",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "随阿良重返十四境而恢复至高威能 。"
+  },
+  "visual": {
+    "static": "目前极少显露真容，阿良平时多以竹刀示人 。",
+    "active": "出剑时伴随“饮者留其名”的豪迈意气，杀力高出天外 。"
+  },
+  "provenance": {
+    "origin": "阿良修道炼剑所得，承载其不羁的江湖志向 。",
+    "karma_link": "见证了阿良在剑气长城、蛮荒天下及西方佛国的无数生死战 。"
+  },
+  "enriched": true
+}

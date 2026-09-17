@@ -1,0 +1,49 @@
+{
+  "name": "翠绿葫芦",
+  "original_name": "养剑葫",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "一件极其珍贵的养剑葫芦，虽然正阳山内部亦有数枚，但此葫芦在陶家老祖鉴定后确认为品秩极高的法宝。它见证 了宋集薪与陶紫在小镇结下的情谊。",
+  "aliases": [
+    "养剑葫"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第8章 稗草",
+      "owner": "宋集薪"
+    },
+    {
+      "chapter": "第57章 养剑葫",
+      "owner": "陶紫"
+    }
+  ],
+  "subtype": "养剑类",
+  "holder": "陶紫",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宋集薪",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "具备极高的温养飞剑潜力，属于世间罕见的养剑法器。",
+  "supernatural_ability": "温养飞剑，每逢雷雨天气会自发产生嗡嗡剑鸣。",
+  "evolution": {
+    "current_form": "翠绿小葫芦",
+    "materials_consumed": [
+      "天地灵气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "巴掌大小的翠绿小葫芦，质地晶莹出尘。",
+    "active": "雷雨天时会产生规律的震动与鸣响。"
+  },
+  "provenance": {
+    "origin": "产自骊珠洞天（小镇）。",
+    "karma_link": "由宋集薪赠送给正阳山少女陶紫，作为两人因缘的见证。"
+  },
+  "enriched": true
+}

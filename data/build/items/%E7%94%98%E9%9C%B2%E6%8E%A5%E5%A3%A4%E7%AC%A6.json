@@ -1,0 +1,38 @@
+{
+  "name": "甘露接壤符",
+  "original_name": "祈雨小符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "条目城三种基础灵符之一，因其实用性与易画性，被广 泛用于当地的稚童启蒙 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第757章 满座皆故友",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "水法/辅助类",
+  "holder": "条目城众生",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "与大渎水运产生感应，未来可作为低阶水官的敕令 。",
+  "supernatural_ability": "微量汇聚水汽，帮助作物生长或清洁外物 。",
+  "evolution": {
+    "current_form": "底纹带有细微水纹的灵符 。",
+    "materials_consumed": [
+      "江河之水",
+      "金粉"
+    ],
+    "potential_evolution": "可进化为能够引动小规模降雨的“求雨符” 。"
+  },
+  "visual": {
+    "static": "符面湿润，灵光点点，如同露水凝聚 。",
+    "active": "化作一滩清水或雾气，滋润方圆地表 。"
+  },
+  "provenance": {
+    "origin": "条目城山下百姓祭祀水神的简化版符箓 。",
+    "karma_link": "与大泉王朝及埋河一带的水法文化有隐秘联系 。"
+  },
+  "enriched": true
+}

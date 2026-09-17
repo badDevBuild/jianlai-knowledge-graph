@@ -1,0 +1,52 @@
+{
+  "name": "竹衣素纱法袍",
+  "original_name": "清凉 / 仙蜕法衣",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "一件极其罕见的竹制法袍。其工艺巧夺天工，能够调理穿着者的小天地气机，使其时刻处于最佳修行状 态 。",
+  "aliases": [
+    "竹丝衣",
+    "法袍竹衣",
+    "素纱竹衣"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第518章 世事如棋局局新",
+      "owner": "隋景澄"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "隋景澄",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "中土大王朝君主",
+      "relation": "曾持有"
+    },
+    {
+      "name": "世外高人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为“仙家重宝”，通过吸收天地灵气与温养神魂，具备进阶为半仙兵的可能 。",
+  "supernatural_ability": "调理阴阳，避暑御寒。能将身周环境转化为微型洞天福地，极大加速修行进度 。",
+  "evolution": {
+    "current_form": "由泛黄竹片编制而成的长衫，质地纤薄如素纱 。",
+    "materials_consumed": [
+      "青神山绿竹",
+      "天地精华"
+    ],
+    "potential_evolution": "若得高人点化，有望生发出“常青”道意 。"
+  },
+  "visual": {
+    "static": "由不计其数的泛黄竹片精绝编织而成，质地纤薄坚韧，色泽温润 。",
+    "active": "穿着时仙气十足，隐约可见灵气如细水在竹纹间流淌，自带微光 。"
+  },
+  "provenance": {
+    "origin": "源自竹海洞天青神山 。",
+    "karma_link": "原为中土君主私藏，后由高人赠予隋景澄，成为其护道重器 。"
+  },
+  "enriched": true
+}

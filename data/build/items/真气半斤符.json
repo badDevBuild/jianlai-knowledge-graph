@@ -1,0 +1,44 @@
+{
+  "name": "真气半斤符",
+  "original_name": "真气八两符 / 淬体秘符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是针对纯粹武夫体魄设计的顶级负重符箓。它不仅是修行的助推器，更是杨老头对陈平安能否“走出 去”的一种考验 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第901章 山巅问拳",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "小炼",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由药铺杨老头亲手绘制，对纯粹武夫打破金身境瓶颈有显著助益 。",
+  "supernatural_ability": "能够帮助纯粹武夫在睡眠时自行运转真气，淬炼体魄。因每张符加重负荷“八两”而得名 。",
+  "evolution": {
+    "current_form": "四张隐匿于手腕及脚踝皮肤下的无形符箓 。",
+    "materials_consumed": [
+      "青童天君神力",
+      "光阴流转之气"
+    ],
+    "potential_evolution": "在武夫跻身炼气境后会自行退散，将潜能完全融入体魄 。"
+  },
+  "visual": {
+    "static": "平时不可见，表现为手脚处隐约的气机波动 。",
+    "active": "练拳或休息时，会产生如沉重铅汞般的真气束缚感，辅助修行者打磨内息 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天药铺杨老头 。",
+    "karma_link": "杨老头为陈平安南下远游准备的保命及修行手段，若无法自行冲破，需去老龙城找郑大风解开 。"
+  },
+  "enriched": true
+}

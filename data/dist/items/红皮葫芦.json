@@ -1,0 +1,44 @@
+{
+  "name": "红皮葫芦",
+  "original_name": "捉放",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这只葫芦不仅是品秩极高的方寸物，更是真龙王朱对忠诚扈从的护道馈赠。它曾被少年王琼琚背负，伴 随其随主巡幸桐叶洲 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1088章 那窝蚂蚁皆同姓",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "存储类 / 捕获类",
+  "holder": "王琼琚 (少年寒酥)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "真龙王朱",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为由东海水君亲手从深海中捞取的重宝，其内部空间与压胜水裔的上限极高 。",
+  "supernatural_ability": "名为“捉放”，具备极强的空间束缚力，可用于捕捉并存储强大的灵物或作为行走的宝库 。",
+  "evolution": {
+    "current_form": "一只色泽紫红、包浆油亮的古朴葫芦 。",
+    "materials_consumed": [
+      "深海灵气精华",
+      "远古木质胎底"
+    ],
+    "potential_evolution": "随王琼琚修为提升，可演化为能装载江河之水的顶级养剑葫。"
+  },
+  "visual": {
+    "static": "通体包浆厚重，葫芦皮色紫红中透着晶莹感，底部刻有“捉放”二字古篆 。",
+    "active": "开启时葫芦口会有微光吞吐，能够产生极强的吸力，将方圆数丈内的目标吸入其中。"
+  },
+  "provenance": {
+    "origin": "被东海水君王朱从大海中寻获并赐予其扈从王琼琚 。",
+    "karma_link": "作为王琼琚的随身重宝，见证了他从骊珠洞天的四脚蛇到炼形成人的修行之路 。"
+  },
+  "enriched": true
+}

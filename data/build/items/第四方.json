@@ -1,0 +1,38 @@
+{
+  "name": "第四方",
+  "original_name": "长春洞天最高印",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是陈平安在密雪峰长春洞天留下的最高规格印章。它 不仅是钤印工具，更是洞天内无上权柄与法度的物化体 现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1081章 不如读书去",
+      "owner": "于禄 (白裳赠送)"
+    }
+  ],
+  "subtype": "文房/气运类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "rank": "重器",
+  "rank_potential": "作为道场最高规格的钤印，具备镇压洞天法理的无上威 力 。",
+  "supernatural_ability": "钤印之处，法度自成。能够让印文与环境长久相向，实 现某种意义上的“道法长存” 。",
+  "evolution": {
+    "current_form": "一方底款刻有四字吉语的精美印章 。",
+    "materials_consumed": [
+      "洞天本源灵气",
+      "远古玉石"
+    ],
+    "potential_evolution": "演化为掌控一方洞天规则的“天官符玺”。"
+  },
+  "visual": {
+    "static": "质地通透，印面与底款文字呈现出一种庄严的对峙感 。",
+    "active": "激活时，印文会化作实质的金色规则线条，稳固周边虚 空 。"
+  },
+  "provenance": {
+    "origin": "陈平安在开辟长春洞天过程中，结合其剑道意境炼制 。",
+    "karma_link": "作为道场的主人印信，与陈平安的十四境合道路径隐秘 关联。"
+  },
+  "enriched": true
+}

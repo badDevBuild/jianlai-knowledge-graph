@@ -1,0 +1,68 @@
+{
+  "name": "红妆",
+  "original_name": "大骊仿白玉京十二飞剑之一",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "红妆虽名似闺中之物，实为大骊仿白玉京十二剑中的攻伐利刃。在剑气长城一战后，由董画符随身佩戴 ，是其标志性的杀伐重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第206章 月儿圆月儿弯",
+      "owner": "丑陋少年 (董)"
+    },
+    {
+      "chapter": "第253章 有人送剑有人等",
+      "owner": "董画符"
+    },
+    {
+      "chapter": "第271章 宁姑娘，对不起",
+      "owner": "董黑炭"
+    },
+    {
+      "chapter": "第575章 于剑修如云处出拳",
+      "owner": "董画符"
+    },
+    {
+      "chapter": "第594章 落魄山上老与小",
+      "owner": "董画符"
+    },
+    {
+      "chapter": "第617章 谁能与宁姚般配",
+      "owner": "董画符"
+    },
+    {
+      "chapter": "第647章 无剑可出",
+      "owner": "董画符"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "董画符",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊宋氏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "大骊国师崔瀺仿造的绝世重器，位列十二剑之列，潜力极大 。",
+  "supernatural_ability": "剑身带有脂粉香气，杀力却极其凶悍，能破开地仙级防御 。",
+  "evolution": {
+    "current_form": "长剑",
+    "materials_consumed": [
+      "大骊国运",
+      "剑气精华"
+    ],
+    "potential_evolution": "随持有者跻身上五境而展现完全威能 。"
+  },
+  "visual": {
+    "static": "名字秀气且剑身极其漂亮，装饰考究 。",
+    "active": "剑光如胭脂流溢，绚烂却充满杀机 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝皇室库藏，由崔瀺亲手布局炼制 。",
+    "karma_link": "被面容狰狞、满是疤痕的董画符选中，其丑陋面容与绝美长剑形成强烈对比 。"
+  },
+  "enriched": true
+}

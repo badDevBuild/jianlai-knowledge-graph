@@ -1,0 +1,55 @@
+{
+  "name": "黄金狮子印",
+  "original_name": "五雷法印",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**五雷法印是一件蕴含雷部天威的重器**。其“六满印”的制式在山上极其罕见，曾作为托月山关门弟子 离真的压箱底法宝，在阵法辅助下具备毁天灭地的雷击能力 。",
+  "aliases": [
+    "黄金狮子印章",
+    "狮子峰印章"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第283章 香火袅袅",
+      "owner": "李柳"
+    },
+    {
+      "chapter": "第367章 李二出远门，左右不为难",
+      "owner": "李柳"
+    }
+  ],
+  "subtype": "雷法/压胜类",
+  "holder": "陈平安",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "离真",
+      "relation": "夺取自"
+    },
+    {
+      "name": "玉符宫老宫主",
+      "relation": "制造者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "目前虽跌落了一境品秩，但若能以神灵金身碎片持续温养，有望恢复至“半仙兵”巅峰状态",
+  "supernatural_ability": "“攒簇五雷，总摄万法”：能敕令风、雨、雷、电、火，每一击威力相当于金丹地仙的倾力一击，且天生 压胜鬼魅秽物",
+  "evolution": {
+    "current_form": "枣核大小、五彩流光的法印",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "雷部道意"
+    ],
+    "potential_evolution": "补全缺失的天款篆文，成为统摄一方天地枢机的“传法印”"
+  },
+  "visual": {
+    "static": "法印六面皆刻有神灵画像（雷神、电母、风伯、雨师等），底款为十六字虫鸟篆",
+    "active": "祭出时雷鸣阵阵，金色雷电如长鞭摔向人间，气象森严且宏大"
+  },
+  "provenance": {
+    "origin": "出自蛮荒天下玉符宫，由老宫主精心炼制",
+    "karma_link": "在剑气长城一战中由陈平安斩杀离真后获得"
+  },
+  "enriched": true
+}

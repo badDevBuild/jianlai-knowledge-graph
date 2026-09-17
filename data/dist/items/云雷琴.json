@@ -1,0 +1,50 @@
+{
+  "name": "云雷琴",
+  "original_name": "绿绮台 / 郁轮袍",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是朱敛的随身雅物。在落魄山的竹楼外，朱敛常在月下焚香操琴，琴声中蕴含了他对人生百态的冷眼 旁观与深层领悟 。",
+  "aliases": [
+    "云雷琴"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第165章 如果陈平安在这里",
+      "owner": "楚氏长孙"
+    }
+  ],
+  "subtype": "音律类 / 阵法类",
+  "holder": "朱敛",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古巫祝",
+      "relation": "原主"
+    },
+    {
+      "name": "南苑国皇室",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着朱敛武道境界重返巅峰并深入研习远古音律，此琴可晋升为“法宝”甚至“重器” 。",
+  "supernatural_ability": "“云震雷鸣”。弹奏时可引动风云变幻，琴声如雷霆贯耳，能够稳固心境并震慑鬼魅 。",
+  "evolution": {
+    "current_form": "一张铭文密布、古朴凝重的七弦古琴。",
+    "materials_consumed": [
+      "雷击木",
+      "远古神灵丝弦"
+    ],
+    "potential_evolution": "可演化为掌控一地山水声律的“司律重器” 。"
+  },
+  "visual": {
+    "static": "琴腹刻有“绕梁千古”等铭文，胎质细腻，散发着淡淡的药香与沉香气 。",
+    "active": "指尖拨动间，琴弦生发五彩流光，音波扩散如涟漪，能定住方圆百里的灵气暴动 。"
+  },
+  "provenance": {
+    "origin": "源自远古巫祝一脉，是人族最早与天神沟通的媒介之一 。",
+    "karma_link": "与朱敛的“贵公子”身份契合，是其风流意气的物质寄托 。"
+  },
+  "enriched": true
+}

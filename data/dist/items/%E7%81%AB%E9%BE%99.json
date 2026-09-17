@@ -1,0 +1,56 @@
+{
+  "name": "火龙",
+  "original_name": "火龙手镯",
+  "type": "灵物",
+  "grade": "神通",
+  "status": "活跃",
+  "description": "它是骊珠洞天五个核心大道机缘之一。它象征着五行中的火属气运，自诞生起便与阮秀心意相通，是能 够反哺主人肉身、使其体质媲美金身境武夫的绝世灵物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第434章 青衣姑娘吃着糕点",
+      "owner": "阮秀"
+    },
+    {
+      "chapter": "第435章 故事里的名字",
+      "owner": "阮秀"
+    },
+    {
+      "chapter": "第460章 水火之争让个道",
+      "owner": "阮秀"
+    },
+    {
+      "chapter": "第716章 贾生让人失望",
+      "owner": "阮秀"
+    }
+  ],
+  "subtype": "防御类 / 辅佐类",
+  "holder": "阮秀",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "阮邛",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为骊珠洞天五大机缘之一，具备跻身上五境乃至更高阶位的神性潜力 。",
+  "supernatural_ability": "具备极其纯粹的火属神性，可化为火龙真身巡视人身小天地，压制一切阴秽之气并滋养体魄 [3-5]。",
+  "evolution": {
+    "current_form": "常态下为阮秀手腕上的一枚鲜红镯子 。",
+    "materials_consumed": [
+      "龙须河阴沉水运",
+      "剑炉窑火精华"
+    ],
+    "potential_evolution": "可作为五行之火的终极本命物，助练气士登顶 。"
+  },
+  "visual": {
+    "static": "看似一枚普通的鲜红手镯，龙衔尾状，质地如红玉 。",
+    "active": "苏醒后化作一条袖珍的金色或鲜红火龙，在空中游曳并伴随惊人的热浪 。"
+  },
+  "provenance": {
+    "origin": "诞生于骊珠洞天龙须河畔阮家铁匠铺的剑炉，为最后一条真龙陨落后的福缘显化 。",
+    "karma_link": "与最后一条真龙王朱的生机所在相互呼应 。"
+  },
+  "enriched": true
+}

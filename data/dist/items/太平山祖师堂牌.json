@@ -1,0 +1,50 @@
+{
+  "name": "太平山祖师堂牌",
+  "original_name": "太平山护身玉牌",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是代表**太平山正统地位**的重宝 。虽然曾被刘琮质疑为假，但实则是太平山老天君对陈平安极高认可的体现，是他在桐叶洲行走的 重要护符 。",
+  "aliases": [
+    "太平山玉牌"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第352章 祖师堂牌，头顶月光",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "身份类 / 令牌",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "太平山老天君",
+      "relation": "赠予者"
+    },
+    {
+      "name": "大泉大皇子刘琮",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为一宗正统身份的象征，可调动太平山剩余的山水气运 。",
+  "supernatural_ability": "能够**压胜寻常鬼魅**，且具备极强的因果屏障，可放入油纸伞内遮蔽天机 。",
+  "evolution": {
+    "current_form": "材质极佳的祖师堂玉牌 。",
+    "materials_consumed": [
+      "宗门山水气数",
+      "圣人道意"
+    ],
+    "potential_evolution": "在太平山重建过程中，可作为重新开山的法统核心。"
+  },
+  "visual": {
+    "static": "玉质莹润，正面刻有太平山祖师堂标识，背面蕴含深厚道气 。",
+    "active": "激发后灵光湛然，可震慑一切窥探及不法之徒 。"
+  },
+  "provenance": {
+    "origin": "桐叶洲太平山祖师堂 。",
+    "karma_link": "陈平安在芙蓉山一役中因身份被质疑而取出，是其代理太平山事务的关键信物 。"
+  },
+  "enriched": true
+}

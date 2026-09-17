@@ -1,0 +1,51 @@
+{
+  "name": "随驾城异宝",
+  "original_name": "巡狩天下之宝 / 柳氏祖传玉玺",
+  "type": "重器",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这是一件极具象征意义的人间至宝，其文武双全的属性使其在浩然天下山水官场中地位极其崇高 。",
+  "aliases": [
+    "先天剑胚",
+    "异宝"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第501章 有些道理很天经地义",
+      "owner": "无 (未出世)"
+    }
+  ],
+  "subtype": "镇压 / 运筹类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "柳清山",
+      "relation": "原主"
+    },
+    {
+      "name": "随驾城城隍庙",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "融合了随驾城千年文运与兵家仙兵煞气，具备成为一洲地利核心的潜力 。",
+  "supernatural_ability": "铭文“范围天地，幽赞神明，金甲昭昭，秋狩四方”。能够镇压一国山河气运，具备极强的压胜与防御神 威 。",
+  "evolution": {
+    "current_form": "方二寸的黄金玺印 。",
+    "materials_consumed": [
+      "国运龙气",
+      "兵家战功"
+    ],
+    "potential_evolution": "作为落魄山未来下宗的镇山重器，可护佑一方天地平安 。"
+  },
+  "visual": {
+    "static": "黄金质地，印钮精绝，篆文法度森严，散发着厚重的历史沧桑感 。",
+    "active": "激发时金光漫天，万鬼辟易，显化出神灵巡视人间的宏大气象 。"
+  },
+  "provenance": {
+    "origin": "源自宝瓶洲南部一个覆灭大王朝的传国重宝，深埋于随驾城地底 。",
+    "karma_link": "陈平安在随驾城劫难中挺身而出，从多方争夺中获得此宝，承载了该城的最后气数 。"
+  },
+  "enriched": true
+}

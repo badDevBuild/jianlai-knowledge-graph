@@ -1,0 +1,38 @@
+{
+  "name": "胭脂骢",
+  "original_name": "青骢马 / 神俊骢马",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是《剑来》中高阶武夫与世家子弟远游的标配，代表 了山下江湖中最顶尖的骑乘品质 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1062章 我知道你是谁",
+      "owner": "朱鹿"
+    }
+  ],
+  "subtype": "坐骑/走兽类",
+  "holder": "英姿少女 / 远游武夫",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为拥有名贵血统的骏马，若能服食灵药开启灵智，可 成为练家子的忠实扈从 。",
+  "supernatural_ability": "呼吸绵长，奔行速度极快，能耐风霜侵袭，远胜凡俗马 匹 。",
+  "evolution": {
+    "current_form": "体态矫健、神俊非凡的骢马 。",
+    "materials_consumed": [
+      "精良草料",
+      "微弱龙气滋养"
+    ],
+    "potential_evolution": "有望进化为拥有蛟龙血脉的“龙种”坐骑 。"
+  },
+  "visual": {
+    "static": "毛色光亮，眼神灵动，在雪地或官道上气势威严 。",
+    "active": "奔跑时蹄声有力，马蹄下隐约生出尘埃，显得英锐非凡 。"
+  },
+  "provenance": {
+    "origin": "产自大隋或中土神洲的名马产地 。",
+    "karma_link": "常伴随英姿飒爽的年轻武夫或世家子弟出现在山水游历 中 。"
+  },
+  "enriched": true
+}

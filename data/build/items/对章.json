@@ -1,0 +1,43 @@
+{
+  "name": "对章",
+  "original_name": "老坑黄冻对章",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "与瓦当砚同批购入，这种老坑黄冻材质在山上十分珍稀。陈平安将其视为“不小心捡到”的一笔厚实家底 ，用于日后雕琢心中道理 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第477章 人心中须有日月",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "文房杂项",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "两个消瘦孩子",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "材质极佳，是上乘的治印载体，可由陈平安亲手篆刻以承载更高阶的大道真意 。",
+  "supernatural_ability": "具备极佳的聚灵与压胜效果，可作为落魄山的身份印信或镇宅之用 。",
+  "evolution": {
+    "current_form": "一对材质温润、色泽如凝脂的老坑黄冻石质印章 。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "篆刻“酒仙诗佛”或“剑客”等印文后，可成为具备神异力量的重器 。"
+  },
+  "visual": {
+    "static": "色泽金黄透明，质感如冻玉，未刻字时亦宝光隐现 。",
+    "active": "钤印时文字灵光流溢，字里行间透出金石锐意 。"
+  },
+  "provenance": {
+    "origin": "出自北俱芦洲地龙山一处古老石脉 。",
+    "karma_link": "由两名落魄孤儿售卖给陈平安，后被带回宝瓶洲作为落魄山底蕴家当 。"
+  },
+  "enriched": true
+}

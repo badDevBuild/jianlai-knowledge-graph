@@ -1,0 +1,52 @@
+{
+  "name": "青草法袍",
+  "original_name": "春草 / 竹丝衣",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这件法袍又名“春草”，以质地轻盈和极佳的避暑功效著称。它是陈平安从紫阳府六层藏宝阁中选中的四 样重礼之一，象征着对曹晴朗修行之路的期许 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第490章 肤腻城的下马威",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "曹晴朗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "吴懿",
+      "relation": "赠予者"
+    },
+    {
+      "name": "紫阳府",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "属于上品灵器法袍，随持有者木属性道法精进可滋养体魄，有助驻颜 [9-11]。",
+  "supernatural_ability": "具有“清凉境地”之美誉，可防御寒暑，并协助持有者汲取木、水两属性的天地灵气 。",
+  "evolution": {
+    "current_form": "湛青色的薄衫，由细密竹丝编织而成 。",
+    "materials_consumed": [
+      "青神山绿竹",
+      "紫阳府灵气"
+    ],
+    "potential_evolution": "若能得青神山夫人点化，有望生发出“常青”道意 。"
+  },
+  "visual": {
+    "static": "看起来像是一件普通的青色长褂，实则质地如竹，散发淡淡清香 。",
+    "active": "激发时会起阵阵涟漪，绽放出翠绿色的雾霭，遮蔽气机效果极佳 。"
+  },
+  "provenance": {
+    "origin": "出自黄庭国紫阳府，原材料取自青神山 。",
+    "karma_link": "紫阳府老祖吴懿将其赠予陈平安，后陈平安转赠给得意学生曹晴朗 。"
+  },
+  "enriched": true
+}

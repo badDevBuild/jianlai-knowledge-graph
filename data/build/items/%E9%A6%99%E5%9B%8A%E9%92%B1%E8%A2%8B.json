@@ -1,0 +1,48 @@
+{
+  "name": "香囊钱袋",
+  "original_name": "桂夫人香囊 / 碎嘴钱袋",
+  "type": "方寸物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是落魄山右护法周米粒最珍视的宝贝，专门用来装她那些“价值连城”的瓜子和捡来的小物件 。虽然品秩在众法宝中不算高，但在落魄山却有着非凡的象征意义 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第405章 山巅斗法",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第601章 裴钱的小钱袋子",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "空间/存储类",
+  "holder": "周米粒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "桂夫人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽是小型方寸物，但因受桂花岛主人的灵气浸染，具备缓慢净化内部物资的神效 。",
+  "supernatural_ability": "储物纳宝：内部空间约莫如一只小箱子，足以存放各种零碎宝物与瓜子 。",
+  "evolution": {
+    "current_form": "刺绣精美的丝质香囊，系有红绳 , 。",
+    "materials_consumed": [
+      "桂花岛灵气",
+      "各色谷雨钱"
+    ],
+    "potential_evolution": "由于周米粒经常往里塞各种重宝，其内部空间有被强行扩容的趋势 。"
+  },
+  "visual": {
+    "static": "通常由黑衣小姑娘斜挎在肩，绣有燕子纹或花草纹 。",
+    "active": "开启时会有淡淡的桂花香味，是周米粒存放“家底”的核心资产 。"
+  },
+  "provenance": {
+    "origin": "桂花岛主人桂夫人感念周米粒的可爱与缘分而赠予 。",
+    "karma_link": "见证了周米粒从哑巴湖小水怪到落魄山右护法的财富积累之路 。"
+  },
+  "enriched": true
+}

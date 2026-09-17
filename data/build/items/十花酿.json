@@ -1,0 +1,44 @@
+{
+  "name": "十花酿",
+  "original_name": "百花仙露",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是百花福地最具代表性的灵物之一。它以极高的采集 难度和精纯的药效，成为浩然天下女修最向往的仙酿 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第790章 备战",
+      "owner": "百花福地"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "文庙 / 阿良",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "百花福地",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "集十种名花之精华，具备极强的神魂修补之效 。",
+  "supernatural_ability": "饮后齿颊留香，能令修士进入短暂的“春梦好寻”之境， 利于感悟柔性道法 。",
+  "evolution": {
+    "current_form": "香气扑鼻、五彩斑斓的粘稠酒液 。",
+    "materials_consumed": [
+      "十种仙家名花",
+      "福地露水"
+    ],
+    "potential_evolution": "若能融合十二花神精魄，可化为“百花神浆”。"
+  },
+  "visual": {
+    "static": "装于彩绘瓷瓶中，酒液在阳光下呈现多种色泽 。",
+    "active": "饮用时如同置身于万花丛中，香气经年不散 。"
+  },
+  "provenance": {
+    "origin": "产自百花福地，是其向文庙进贡的极品仙酿 。",
+    "karma_link": "在文庙议事期间被用于款待大剑仙，被阿良视为“燕子 衔泥”的意外收获 。"
+  },
+  "enriched": true
+}

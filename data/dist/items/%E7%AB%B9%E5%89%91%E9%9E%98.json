@@ -1,0 +1,39 @@
+{
+  "name": "竹剑鞘",
+  "original_name": "绿竹鞘",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安在书简湖期间为了给新做的竹刀配鞘而制作。它体现了陈平安即便身处“无法之地”，依然坚持亲 手劳作、修心养性的修行态度 。",
+  "aliases": [
+    "竹黄剑鞘"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第472章 关于一把竹剑鞘的小事",
+      "owner": "中土武夫 (原属宋雨烧)"
+    }
+  ],
+  "subtype": "收纳类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "由陈平安在书简湖亲自选材制作，具有极佳的适配性 。",
+  "supernatural_ability": "能够稳固剑气，防止法刀或飞剑的灵压外泄，具有一定的遮蔽效果 。",
+  "evolution": {
+    "current_form": "陈平安连夜赶制的绿竹刀鞘 。",
+    "materials_consumed": [
+      "青峡岛绿竹"
+    ],
+    "potential_evolution": "若配合上乘符箓，可演化为具备封禁之力的剑匣。"
+  },
+  "visual": {
+    "static": "色泽苍翠，做工简洁规整，保留了竹节的自然纹理 。",
+    "active": "插入法刀或竹刀后，能感应到细微的灵气流动 。"
+  },
+  "provenance": {
+    "origin": "陈平安在书简湖青峡岛期间，命曾掖取绿竹后亲手制作 。",
+    "karma_link": "与其在书简湖担任“账房先生”期间的隐忍修行相伴 。"
+  },
+  "enriched": true
+}

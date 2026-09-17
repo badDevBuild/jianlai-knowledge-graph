@@ -1,0 +1,44 @@
+{
+  "name": "远古剑仙遗物佩剑",
+  "original_name": "太平山镇山剑",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是太平山女冠黄庭的成道依仗。该剑不仅象征着其个人的福缘深厚，更是太平山在桐叶洲北方重新立 足的武力保障 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第966章 桌上火锅桌外雪",
+      "owner": "黄庭"
+    }
+  ],
+  "subtype": "攻伐类 / 镇压类",
+  "holder": "黄庭",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "五彩天下无名剑仙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "具备“仙兵有灵”之质，可作为太平山重建宗门法统的核心重器 。",
+  "supernatural_ability": "“剑气垂虹”。悬于天幕可降下长久不散的纯粹剑气瀑布，镇压方圆千里邪祟，令同境修士不敢近身 。",
+  "evolution": {
+    "current_form": "一把产生剑道共鸣、通体绽放璀璨光芒的古剑 。",
+    "materials_consumed": [
+      "五彩天下精粹剑意",
+      "上古剑仙真灵"
+    ],
+    "potential_evolution": "随黄庭跻身玉璞境并有望更进一步，剑意将重现远古杀力 。"
+  },
+  "visual": {
+    "static": "剑身修长，带有苍茫古意，剑气如雪白长虹，即便不拔剑亦有森然感 。",
+    "active": "出鞘时剑鸣响彻云霄，如圣贤于天幕俯瞰人间，一剑即可劈开一洲禁制 。"
+  },
+  "provenance": {
+    "origin": "黄庭在五彩天下的一处无名秘境遗址中“随便捡来”的仙兵 。",
+    "karma_link": "该剑灵性极强，主动认黄庭为主，助其重返浩然天下重建太平山 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,57 @@
+{
+  "name": "斩锁符",
+  "original_name": "雨师斩锁宝箓",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "这是符箓一脉中极具杀力的专项压胜符，被誉为**上古神人捉拿孽龙** 的铁律具象化 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第263章 一道符",
+      "owner": "陈平安(绘制中)"
+    },
+    {
+      "chapter": "第264章 大道之上",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第265章 大师兄姓左",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第442章 人心关隘环环扣",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "压胜/封禁类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "完整版包含“雨师敕令”在内共八字，具备极致的水属压胜力 。",
+  "supernatural_ability": "专门用于**捕捉、鞭笞获罪蛟龙**，是针对蛟龙之属的天生克星 。",
+  "evolution": {
+    "current_form": "写满八个古篆的符箓，金光中带有血意 。",
+    "materials_consumed": [
+      "青色符纸/金版笺",
+      "神人精血/纯粹真气",
+      "三山九侯道意"
+    ],
+    "potential_evolution": "炼化入水府可作为号令一洲水族的最高法旨 。"
+  },
+  "visual": {
+    "static": "符文繁复，含有“作甚务甚，雨师敕令”八字，自带威严感 。",
+    "active": "激发时如明月升海，产生金色锁链虚影，令蛟龙神魂震颤 。"
+  },
+  "provenance": {
+    "origin": "源自上古神道，由三山九侯先生流传下的秘法 。",
+    "karma_link": "陈平安在蛟龙沟以此符对抗金袍老蛟，展现了越境压胜的能力 。"
+  },
+  "enriched": true
+}

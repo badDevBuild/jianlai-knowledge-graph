@@ -1,0 +1,51 @@
+{
+  "name": "团扇",
+  "original_name": "持扇仕女图团扇",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此团扇是陈平安在北俱芦洲远游时的收获之一。它并非普通的扇子，其画工精巧且蕴含道意，被陈平安 视为极其适合落魄山家教风气的雅致之物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第637章 远游人皆是蒲公英",
+      "owner": "白溪 (现归隐官一脉)"
+    },
+    {
+      "chapter": "第911章 来者何人",
+      "owner": "董不得"
+    }
+  ],
+  "subtype": "灵物收纳类 / 辅助类",
+  "holder": "陈如初 (暖树)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "孙道人 (化外天魔)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为收纳灵物与辅助修行的器物，其品秩可随内部文运与灵气温养而缓慢提升 。",
+  "supernatural_ability": "扇面上的仕女具有灵性，能与持扇者产生感应，并具备调理山头清气、滋养文运的神效 。",
+  "evolution": {
+    "current_form": "饰有仕女戏蝶图案的精美团扇 。",
+    "materials_consumed": [
+      "落魄山山水灵气"
+    ],
+    "potential_evolution": "若能融合更高阶的文运墨迹，可演化为具备镇压一地风水的神物 。"
+  },
+  "visual": {
+    "static": "扇面绘有一位亭亭玉立的闺阁淑女，正手持小扇逗弄枝头黄雀 。",
+    "active": "扇动时有清风徐来，扇中仕女仿佛活灵活现，带有淡淡的草木清香 。"
+  },
+  "provenance": {
+    "origin": "陈平安在鬼蜮谷仙府遗址中，从孙道人处购买所得 。",
+    "karma_link": "陈平安将其送给落魄山小管家暖树，因其勤勉打理山头事务而获此奖赏 。"
+  },
+  "enriched": true
+}

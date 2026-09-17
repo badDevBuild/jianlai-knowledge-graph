@@ -1,0 +1,39 @@
+{
+  "name": "小眉",
+  "original_name": "Not found in sources",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "当前提供的笔记本资料中未包含名为“小眉”的具体器物 详细条目，仅见“细眉”相关记载 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第769章 算计",
+      "owner": "邵宝卷 (原属兵器铺店主)"
+    },
+    {
+      "chapter": "第770章 夜航船",
+      "owner": "邵宝卷"
+    }
+  ],
+  "subtype": "Not found in sources",
+  "holder": "Not found in sources",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "Not found in sources",
+  "supernatural_ability": "Not found in sources",
+  "evolution": {
+    "current_form": "Not found in sources",
+    "materials_consumed": [],
+    "potential_evolution": "Not found in sources"
+  },
+  "visual": {
+    "static": "Not found in sources",
+    "active": "Not found in sources"
+  },
+  "provenance": {
+    "origin": "Not found in sources",
+    "karma_link": "Not found in sources"
+  },
+  "enriched": true
+}

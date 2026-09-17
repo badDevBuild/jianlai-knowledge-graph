@@ -1,0 +1,44 @@
+{
+  "name": "照夜玉狮子",
+  "original_name": "龙种神骏",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是由桃花马符箓融合真龙灵血后产生的变异神骏 。它不仅是陈平安远游的坐骑，更是其承载龙族因果 与剑道气运的实体化身 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1025章 但愿青帝常为主",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "坐骑类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊军方",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为融合了真龙灵血的符马进化形态，其血脉具备向真 龙之姿转化的无限潜力 。",
+  "supernatural_ability": "由符箓桃花马进化而来，具备龙族血脉，奔行如电且气 息清长 。",
+  "evolution": {
+    "current_form": "拥有龙族血脉的雪白神骏 。",
+    "materials_consumed": [
+      "桃花色符马",
+      "真龙灵血"
+    ],
+    "potential_evolution": "可演化为腾云驾雾的龙种真身 。"
+  },
+  "visual": {
+    "static": "外形为一匹神俊非凡的雪白色骏马，毛色亮如绸缎 。",
+    "active": "奔跑时如白虹贯日，周身隐约有龙气升腾 。"
+  },
+  "provenance": {
+    "origin": "由陈平安将大骊军方桃花马符箓与真龙血脉融合而成 。",
+    "karma_link": "见证了陈平安从泥腿子到具备真龙缘法的修行质变 。"
+  },
+  "enriched": true
+}

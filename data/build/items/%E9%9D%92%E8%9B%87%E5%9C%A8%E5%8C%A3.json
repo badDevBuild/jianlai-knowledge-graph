@@ -1,0 +1,43 @@
+{
+  "name": "青蛇在匣",
+  "original_name": "法帖剑经",
+  "type": "典籍",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是一件极其珍稀的战场重器。虽然是一次性法宝，但其瞬间爆发的剑阵威力足以抗衡十四境修士，是 蛮荒天下压箱底的宝贝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第846章 两人并肩",
+      "owner": "新妆"
+    }
+  ],
+  "subtype": "攻伐类 / 召唤类",
+  "holder": "新妆",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "托月山",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "属于“用完即废”的消耗类仙兵，其内蕴剑意足以瞬间扭转一场局部战役 。",
+  "supernatural_ability": "一旦抖落长卷，可召唤出三千位青衣剑修御剑杀敌，剑阵浩荡如洪水 。",
+  "evolution": {
+    "current_form": "一幅岁月悠久的法帖长卷 。",
+    "materials_consumed": [
+      "远古剑仙精气"
+    ],
+    "potential_evolution": "无（单次消耗品）。"
+  },
+  "visual": {
+    "static": "外表古朴的画轴 。",
+    "active": "画卷展开，三千剑修幻象破纸而出，遮天蔽日 。"
+  },
+  "provenance": {
+    "origin": "托月山珍藏的远古遗物 。",
+    "karma_link": "新妆在蛮荒天下腹地围杀阿良时，被迫以此宝物试图阻拦其去路 。"
+  },
+  "enriched": true
+}

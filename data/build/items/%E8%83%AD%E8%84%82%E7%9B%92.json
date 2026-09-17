@@ -1,0 +1,48 @@
+{
+  "name": "胭脂盒",
+  "original_name": "雨师遗物 / 泥瓶巷旧藏",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "遗失",
+  "description": "这是埋藏在陈平安家乡泥土里的惊天秘密。它不仅仅是 盒胭脂，更是一个时代终结后留下的神性火种 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第849章 那个一",
+      "owner": "龙窑娘娘腔男人"
+    },
+    {
+      "chapter": "第850章 陈十一",
+      "owner": "窑工汉子 (陈平安父亲)"
+    }
+  ],
+  "subtype": "因果/修行类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "苏店 (胭脂)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为远古神灵“雨师”在大地留下的线索，具有觉醒神性 的潜力 。",
+  "supernatural_ability": "内含一丝极纯的水属神性。长期携带可感通天候，甚至 与未来的“天时”产生共鸣 。",
+  "evolution": {
+    "current_form": "一个锈迹斑斑、埋藏于泥瓶巷泥土下的陈旧胭脂盒 。",
+    "materials_consumed": [
+      "神性真灵",
+      "光阴流水"
+    ],
+    "potential_evolution": "可炼化为开启“雨师”道场遗址的法钥。"
+  },
+  "visual": {
+    "static": "普通的圆形盒子，表面漆色脱落，带有泥土的陈腐气味 。",
+    "active": "在特定的雨夜会散发出淡淡的紫气，倒映出远古天庭的 幻象 。"
+  },
+  "provenance": {
+    "origin": "远古高位神灵“雨师”在骊珠洞天转世时的伴生信物。",
+    "karma_link": "陈平安在泥瓶巷祖宅外掘出，揭开了苏店及小镇神灵转 世的草蛇灰线 。"
+  },
+  "enriched": true
+}

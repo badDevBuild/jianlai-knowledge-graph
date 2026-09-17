@@ -1,0 +1,39 @@
+{
+  "name": "仙家符箓",
+  "original_name": "丹书真文 / 灵文",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "仙家符箓不仅仅是纸片，更是天地法则的简写版 。在陈平安手中，符箓更是变成了他进行“事功”与算计敌人的重要筹码 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第737章 三本命一十四",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "万能/法则类",
+  "holder": "各路练气士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "上至“斩尸符”下至“挑灯符”，蕴含着天地大道的不同碎片 , 。",
+  "supernatural_ability": "能够以文字之力干预物理世界，如召唤神灵、压胜大妖、缝补空间等 , 。",
+  "evolution": {
+    "current_form": "材质各异（黄、金、青、白），其上绘有各种云篆 。",
+    "materials_consumed": [
+      "极品丹砂",
+      "大修士的神识",
+      "特定纸张（如风雷笺）"
+    ],
+    "potential_evolution": "多张符箓配合可结成“符阵”，威力堪比仙兵 。"
+  },
+  "visual": {
+    "static": "纸张薄如蝉翼，其上文字熠熠生辉，灵气流转不停 。",
+    "active": "燃烧时散发出五彩霞光，能引动雷电、江河或山岳异象 。"
+  },
+  "provenance": {
+    "origin": "源自上古道门的根本传承，如《说符》等典籍 , 。",
+    "karma_link": "它是陈平安在剑术与拳法之外，最为依仗的傍身学问 。"
+  },
+  "enriched": true
+}

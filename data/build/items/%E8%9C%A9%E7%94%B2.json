@@ -1,0 +1,52 @@
+{
+  "name": "蜩甲",
+  "original_name": "陆沉八剑之一",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陆沉八剑之一，是剑盒中最特殊的物件。它跨越了兵器与防具的界限，为陆芝提供了其最为欠缺的顶级 防御手段及道法加持 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第856章 两三事",
+      "owner": "陆芝"
+    },
+    {
+      "chapter": "第861章 开山",
+      "owner": "陆芝"
+    }
+  ],
+  "subtype": "防御类 / 秘术类",
+  "holder": "陆芝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "承载了白玉京飞升境女修的完整遗蜕，具备演化为顶级本命神甲的潜力 。",
+  "supernatural_ability": "虽以长剑示人，实为白玉京飞升境高真遗蜕。披挂在身如蝉蜕卸甲，防御惊人且可使持剑者瞬间掌握两 门白玉京顶级秘传道法 。",
+  "evolution": {
+    "current_form": "剑盒内的一柄长剑，亦可化为透明法袍 。",
+    "materials_consumed": [
+      "白玉京飞升境遗蜕",
+      "蝉蜕之道精髓"
+    ],
+    "potential_evolution": "若能完全融合持剑者魂魄，可实现“身外有身”的伪飞升境气象 。"
+  },
+  "visual": {
+    "static": "在剑盒中形态纤细，如蝉翼般轻薄透明 。",
+    "active": "激活后如透明法袍覆盖全身，金光与道气交织，显现高真宝相 。"
+  },
+  "provenance": {
+    "origin": "陆沉利用收集到的白玉京高真遗蜕炼制而成 。",
+    "karma_link": "陆芝曾因其“遗蜕”本质感到别扭，但为了大幅增加递剑次数而选择披挂 。"
+  },
+  "enriched": true
+}

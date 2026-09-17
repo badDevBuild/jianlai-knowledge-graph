@@ -1,0 +1,38 @@
+{
+  "name": "花神瓷杯",
+  "original_name": "百花杯",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是山上社交中常见的雅器，陈平安曾评价其为“花神之精舍”，足见其对工艺与美感的认可。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第676章 终于远游境",
+      "owner": "陈平安 (刑官赠予)"
+    }
+  ],
+  "subtype": "消耗/辅助类",
+  "holder": "山上仙师 / 陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "虽为常见灵器，但不同画师点睛的瓷杯功效差异极大。",
+  "supernatural_ability": "具有温养心气之效，常作为镜花水月互动的媒介。",
+  "evolution": {
+    "current_form": "绘有各类花卉图案的瓷质小杯。",
+    "materials_consumed": [
+      "灵矿瓷土",
+      "花汁"
+    ],
+    "potential_evolution": "经过长久祭祀可进阶为重器。"
+  },
+  "visual": {
+    "static": "釉色温润，带有淡淡的花香气。",
+    "active": "饮茶时，杯底文字会随水温变幻光彩。"
+  },
+  "provenance": {
+    "origin": "百花福地或是由当地官窑仿制。",
+    "karma_link": "在陈平安的落魄山文房中，常备有此类瓷器以待客。"
+  },
+  "enriched": true
+}

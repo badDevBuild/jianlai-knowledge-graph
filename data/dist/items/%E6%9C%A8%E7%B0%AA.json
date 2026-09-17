@@ -1,0 +1,56 @@
+{
+  "name": "木簪",
+  "original_name": "言念君子簪",
+  "type": "灵物",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是陈平安修行初期的精神支柱，尽管为了生存将其抵 押，但其承载的“君子”之意贯穿其整个人生 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1199章 万山奉朝请",
+      "owner": "仙尉"
+    },
+    {
+      "chapter": "第1217章 一叶落",
+      "owner": "仙尉(持有)"
+    },
+    {
+      "chapter": "第1218章 看书人",
+      "owner": "仙尉"
+    }
+  ],
+  "subtype": "信物/压胜类",
+  "holder": "杨老头 (抵押中)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "承载了齐静春的浩然正气与教化功德，是陈平安赎回本 命物“十五”的关键 。",
+  "supernatural_ability": "簪上刻有“言念君子，温其如玉”八字。佩戴时能稳固心 境，抵御外魔，甚至在面对高位神灵时保护道心不失 。",
+  "evolution": {
+    "current_form": "一只质地细腻、色泽古朴的普通桃木簪子 。",
+    "materials_consumed": [
+      "齐静春浩然气",
+      "陈平安温养气机"
+    ],
+    "potential_evolution": "可演化为见证文脉传承的最高信物 。"
+  },
+  "visual": {
+    "static": "外观极简，木质纹理如流水般温润，字迹严谨端正 。",
+    "active": "在关键时刻会流溢出淡淡的圣贤宝光，压制邪祟气机 。"
+  },
+  "provenance": {
+    "origin": "由齐静春亲手雕刻并赠予陈平安，作为其成年及出山的 礼物 。",
+    "karma_link": "连接了陈平安的贫寒出身与未来文脉继承人的因果 。"
+  },
+  "enriched": true
+}

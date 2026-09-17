@@ -1,0 +1,45 @@
+{
+  "name": "仙人飞剑",
+  "original_name": "金秋",
+  "type": "仙剑",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一柄名副其实的“仙人飞剑”，其杀力在同品阶法宝中处于顶端。它是崔东山手中最锋利的攻伐底牌 之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第309章 围杀之局",
+      "owner": "陈平安(暂存)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "崔东山",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为陆沉亲手锻造的八剑之一，蕴含着极致的剑道理解，有望合道于特定的小天地 。",
+  "supernatural_ability": "**“一剑碎金丹”**。拥有无视大多数地仙级防御的能力，能够精准搅碎敌手的金丹或元婴 。",
+  "evolution": {
+    "current_form": "形似金色麦穗的袖珍飞剑 。",
+    "materials_consumed": [
+      "白玉京道韵",
+      "仙人精魄",
+      "庚金精华"
+    ],
+    "potential_evolution": "可作为大型攻击阵法的核心，甚至重塑出媲美仙人的法相。"
+  },
+  "visual": {
+    "static": "剑身通体金黄，样式古拙。平时静止时如同一枚普通的金色麦穗，被收在特殊的袖珍剑盒中 。",
+    "active": "祭出时化作一道雪白长虹或金色流萤，能够割裂空间产生黑色裂缝 。"
+  },
+  "provenance": {
+    "origin": "由白玉京三掌教陆沉亲手铸造，后被崔东山通过下棋赢得 。",
+    "karma_link": "在大隋山崖书院一战中，崔东山以此剑斩杀元婴剑修，震慑四方 。"
+  },
+  "enriched": true
+}

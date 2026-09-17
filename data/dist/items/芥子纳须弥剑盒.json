@@ -1,0 +1,50 @@
+{
+  "name": "芥子纳须弥剑盒",
+  "original_name": "陆沉剑盒",
+  "type": "方寸物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "白玉京南华城的珍稀重宝。其独特之处在于盒内自成洞天，且收纳了八把各具神通的宝剑，是平衡剑修 攻守能力的顶级神器 [5-7]。",
+  "aliases": [
+    "袖珍剑盒"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1161章 就怕题外话",
+      "owner": "陆芝"
+    }
+  ],
+  "subtype": "空间类 / 阵法类",
+  "holder": "陆芝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "包含八把陆沉亲手铸造的长剑，每一把都代表其对一种剑道的理解，具备演化为完整剑道世界的潜力 。",
+  "supernatural_ability": "“芥子纳须弥”。内部自成一座广袤无垠的小天地，可温养飞剑，并结阵成就一方禁绝之地 。",
+  "evolution": {
+    "current_form": "一只看似普通的袖珍木质剑盒 。",
+    "materials_consumed": [
+      "白玉京道韵",
+      "八柄道剑（秋水、南冥等）"
+    ],
+    "potential_evolution": "八剑合一后可模拟白玉京的最高防御禁制 。"
+  },
+  "visual": {
+    "static": "袖珍小巧的木盒，质感古朴 。",
+    "active": "开启后，八把如丝线般的飞剑如小龙蜿蜒其中，剑气纵横，气象万千 。"
+  },
+  "provenance": {
+    "origin": "由白玉京三掌教陆沉亲手铸造 。",
+    "karma_link": "陈平安从陆沉处借得后转赠陆芝，用于补强后者的防御短板 。"
+  },
+  "enriched": true
+}

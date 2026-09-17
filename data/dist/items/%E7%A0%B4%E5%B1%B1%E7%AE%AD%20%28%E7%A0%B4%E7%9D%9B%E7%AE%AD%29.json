@@ -1,0 +1,44 @@
+{
+  "name": "破山箭 (破睛箭)",
+  "original_name": "重铁箭矢",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一件带有浓烈沙场肃杀之气的兵家重器。对于寻常鬼物而言是极其恐怖的克星，也是不可多得的防 身利器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第497章 我也会剑开天幕",
+      "owner": "金粉坊 (唐锦绣)"
+    }
+  ],
+  "subtype": "攻伐类/压胜类",
+  "holder": "女鬼掌柜 (待售)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陇西国大将军",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因浸染了兵家万人敌及敌对武将的精血，其煞气随时间推移不减反增 。",
+  "supernatural_ability": "配合“破山弓”可射穿山峰 ；携带在身可使邪祟辟易、鬼魅不侵，具有极强的压胜感 。",
+  "evolution": {
+    "current_form": "无羽的重铁箭矢，箭头带有千年不散的陈旧血迹 。",
+    "materials_consumed": [
+      "兵家战功煞气",
+      "万人敌精血"
+    ],
+    "potential_evolution": "若能回归原主配套的破山弓，可发挥出超越灵器的威力。"
+  },
+  "visual": {
+    "static": "通体玄黑沉重，箭头血迹斑斑，令人不敢直视 。",
+    "active": "箭头发出的煞气让低阶鬼物感到刺眼、神魂生疼 。"
+  },
+  "provenance": {
+    "origin": "陇西国一位兵家修士出身的万人敌大将军之物 。",
+    "karma_link": "因射穿敌对兵家武将的眼珠而得名“破睛”，后流落至鬼蜮谷集市 。"
+  },
+  "enriched": true
+}

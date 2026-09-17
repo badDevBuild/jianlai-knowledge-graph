@@ -1,0 +1,40 @@
+{
+  "name": "石板鱼",
+  "original_name": "龙须河小鱼 / 溪中小鱼",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是陈平安从泥瓶巷少年时期便有的生活印记。他习惯 将这种小鱼晒干，即便后来修为通天，仍视其为最亲近 的家乡滋味 , 。",
+  "aliases": [
+    "石板鱼"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第29章 狐魅",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "食材/生活类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "常年受灵气浸染，虽是凡物，却能安稳武夫心境，代表 “今日无事”的道理 , 。",
+  "supernatural_ability": "无直接神通，但在特定环境下（如人身小天地内）代表 了最基础的生机与灵动 。",
+  "evolution": {
+    "current_form": "由狗尾巴草串起的、在石板上晒干的小鱼 。",
+    "materials_consumed": [
+      "溪水灵气",
+      "阳光暴晒"
+    ],
+    "potential_evolution": "若能随真龙走水，可演化为点睛化灵的金色游鱼 。"
+  },
+  "visual": {
+    "static": "体型细小，晒干后色泽微黄，带有质朴的烟火气 , 。",
+    "active": "在灵气长河中游曳时，鳞片灿灿，久听梵音可通人性 。"
+  },
+  "provenance": {
+    "origin": "产自骊珠洞天龙须河等清冽溪涧 , 。",
+    "karma_link": "陈平安少年时赖以生存的口粮，象征其坚韧的生命力 。"
+  },
+  "enriched": true
+}

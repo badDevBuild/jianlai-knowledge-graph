@@ -1,0 +1,44 @@
+{
+  "name": "溪鱼干",
+  "original_name": "油纸包小鱼干",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "落魄山右护法周米粒最珍视的“兵力”储备。常被用来招 待如陈灵均、白发童子等好友 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第984章 火符",
+      "owner": "周米粒"
+    }
+  ],
+  "subtype": "消耗/零食类",
+  "holder": "周米粒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽是寻常零嘴，但承载了落魄山核心成员间的情义，极 具因果价值 。",
+  "supernatural_ability": "能在尴尬或紧张的谈话中起到“定场”作用，缓解高位修 士间的紧绷氛围 。",
+  "evolution": {
+    "current_form": "装在油纸包里、晒干烘干的溪中杂鱼 。",
+    "materials_consumed": [
+      "龙须河水族",
+      "落魄山阳光"
+    ],
+    "potential_evolution": "若由朱敛亲自下厨炸制，可成为吸引小精怪的利器 。"
+  },
+  "visual": {
+    "static": "干瘪的灰黑色小鱼，表面有细微盐粒，质地坚硬 。",
+    "active": "被周米粒大口嚼碎时，会发出极具节奏感的嘎嘣声 。"
+  },
+  "provenance": {
+    "origin": "陈平安从某处溪涧或海岛通过“偷”或“捡”获得 。",
+    "karma_link": "周米粒巡山及待客时的必备物资，是落魄山“人情味”的 象征 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,47 @@
+{
+  "name": "床子弩",
+  "original_name": "大骊墨家重弩 / 军阵利器",
+  "type": "匠器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是《剑来》中世俗武力与墨家机关术结合的巅峰。它 让大骊铁骑具备了“箭雨之下，众生平等”的恐怖杀力 。",
+  "aliases": [
+    "床子弩"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第199章 黄雀去又返",
+      "owner": "中土神洲某古王朝"
+    }
+  ],
+  "subtype": "攻伐/军阵类",
+  "holder": "大骊边军 / 各国皇室",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊工部",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "配合大骊剑舟使用，可形成压制中五境练气士的箭雨大 阵 。",
+  "supernatural_ability": "射程极远，箭矢铭刻有符文，足以贯穿寻常修士的法力 屏障与重甲 。",
+  "evolution": {
+    "current_form": "巨大的机械重弩，由多层强弩复合而成。",
+    "materials_consumed": [
+      "龙脊木",
+      "精铁符金",
+      "墨家秘术"
+    ],
+    "potential_evolution": "可演化为安置在剑舟之上的“攻仙弩” 。"
+  },
+  "visual": {
+    "static": "体型庞大，冷硬沉重，弩机处透着浓重的肃杀气机 。",
+    "active": "发射时伴随巨大的风雷声，箭镞如流萤破空，带起空气 扭曲 。"
+  },
+  "provenance": {
+    "origin": "由大骊朝廷联合墨家机关师，为应对蛮荒天下战事而大 量打造 。",
+    "karma_link": "体现了“人尽其力、物尽其用”的大骊国策，是凡人抗衡 神仙的重要手段 。"
+  },
+  "enriched": true
+}

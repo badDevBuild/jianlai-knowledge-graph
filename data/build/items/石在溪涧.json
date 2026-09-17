@@ -1,0 +1,43 @@
+{
+  "name": "石在溪涧",
+  "original_name": "中流砥柱印",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是郁泮水引以为傲的珍藏。印文与边款相互呼应，展示了裴杯那份傲视群雄、独占天头的霸气 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第729章 人生好像一直在陋巷徘徊",
+      "owner": "林君璧"
+    }
+  ],
+  "subtype": "篆刻/文房类",
+  "holder": "郁泮水",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "裴杯",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "承载了女子武神对武道中流砥柱的极致追求，杀力随武运涨跌 。",
+  "supernatural_ability": "边款为“石在溪涧，如何不是中流砥柱”，能稳固持有者的武道气韵 。",
+  "evolution": {
+    "current_form": "一方气象宏大的石质印章 。",
+    "materials_consumed": [
+      "武运精华"
+    ],
+    "potential_evolution": "若能与“陈曹身边”印合一，可显化出武道至高法相 。"
+  },
+  "visual": {
+    "static": "质地如同溪涧中的顽石，历经千锤百炼而不改其形 。",
+    "active": "散发出如“在那天上天”的磅礴意气，令观者心神震颤 。"
+  },
+  "provenance": {
+    "origin": "中土大端王朝女子武神裴杯的随身私章 。",
+    "karma_link": "反映了武道巅峰者对于“砥柱”与“气概”的深刻理解 。"
+  },
+  "enriched": true
+}

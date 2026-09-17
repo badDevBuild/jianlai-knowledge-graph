@@ -1,0 +1,44 @@
+{
+  "name": "文圣亲笔字帖",
+  "original_name": "文圣真迹 / 圣贤墨宝",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "文圣老秀才重塑神像后所写的真迹。这些字帖不仅是顶级的艺术品，更是蕴含儒家正统道意的至宝，每 一幅都足以作为宗门的镇山之宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第814章 般配",
+      "owner": "卢钧"
+    }
+  ],
+  "subtype": "文运类 / 压胜类",
+  "holder": "陈平安 (及获赠者如李邺侯、柳七等)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老秀才 (文圣)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "蕴含文圣复位后的深厚文运，对鬼魅有天然的镇压作用，是重建文脉传承的核心灵物 。",
+  "supernatural_ability": "字迹中蕴含“神”、“静”、“春”等圣人本命真意，能护持持贴者道心，点化山水金身 [6-8]。",
+  "evolution": {
+    "current_form": "以各种名贵宣纸书写的楷、行、草等字体字帖 。",
+    "materials_consumed": [
+      "文圣浩然气",
+      "天下文运"
+    ],
+    "potential_evolution": "若能配合特定的祠庙供奉，可演化为一洲文脉的定海神针 。"
+  },
+  "visual": {
+    "static": "字迹法度严谨且丰神独绝，筋骨极壮，神意极长 。",
+    "active": "激发时文字会散发金色光芒，字如雷鸣或春风，可瞬间平息混乱气机 。"
+  },
+  "provenance": {
+    "origin": "文圣老秀才亲自书写 。",
+    "karma_link": "文圣常以此作为回礼赠予各方山水神灵，以此偿还因果并布局文脉 。"
+  },
+  "enriched": true
+}

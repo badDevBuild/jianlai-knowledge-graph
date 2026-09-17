@@ -1,0 +1,42 @@
+{
+  "name": "剔骨刀",
+  "original_name": "老伙计 / 短刀",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "损毁",
+  "description": "**剔骨刀**是磨刀人刘宗的成名兵器 。虽然在法宝众多的浩然天下显得质朴，但在顶级武夫手中，它是最为致命的近身杀招 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第319章 何为天下无敌",
+      "owner": "刘宗"
+    },
+    {
+      "chapter": "第758章 夜行",
+      "owner": "刘宗"
+    }
+  ],
+  "subtype": "攻伐类 / 技击类",
+  "holder": "刘宗",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "随持有者纯粹拳意的灌注，其杀力在近身范围内无视寻常地仙防御 。",
+  "supernatural_ability": "**“筋骨拆解”**。锋刃极其薄且坚韧，能够完美切入修士体魄的经络节点，造成难以愈合的创伤 。",
+  "evolution": {
+    "current_form": "一把看似寻常、实则刀光雪亮的剔骨短刀 。",
+    "materials_consumed": [
+      "百炼精铁",
+      "宗师拳意"
+    ],
+    "potential_evolution": "若能获得天材地宝重新淬炼，有望跻身法宝品秩 。"
+  },
+  "visual": {
+    "static": "刀身修长，刃口极薄，质地沉稳 。",
+    "active": "出手如风，刀光涟漪如阵阵寒蝉，令人防不胜防 。"
+  },
+  "provenance": {
+    "origin": "刘宗生平在藕花福地使用的兵刃 。",
+    "karma_link": "刘宗视其为“相依为命”之物，甚至为此不愿轻易与人出刀，以免损伤兵刃 。"
+  },
+  "enriched": true
+}

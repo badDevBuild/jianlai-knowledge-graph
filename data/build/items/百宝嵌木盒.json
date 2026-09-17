@@ -1,0 +1,45 @@
+{
+  "name": "百宝嵌木盒",
+  "original_name": "姚近之多宝盒",
+  "type": "方寸物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是大泉女帝姚近之送给裴钱的见面礼。裴钱极为珍视 ，常在闲暇时翻检其中的宝贝，以此显摆自己的“家当” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1024章 辛苦最怜天上月",
+      "owner": "刘幽州 (顾璨赠)"
+    }
+  ],
+  "subtype": "收纳/纪念类",
+  "holder": "裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姚近之",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "内部设有精密的小空间，可长期养护其中的女性饰品， 使其灵气不失 。",
+  "supernatural_ability": "盒内镶嵌有各类珍宝，具备温养神魂、让持有者在赏玩 时心情愉悦的功效 。",
+  "evolution": {
+    "current_form": "琳琅满目的精巧木盒，装满了各种女性首饰与小灵器 。",
+    "materials_consumed": [
+      "紫檀木",
+      "金银丝线",
+      "各类宝珠"
+    ],
+    "potential_evolution": "若能持续吸纳名贵首饰，可演化为一件极具观赏性的“ 妆奁”法宝 。"
+  },
+  "visual": {
+    "static": "外观华丽，多宝格内整齐摆放着木灵芝、灵官牌等物 。",
+    "active": "开启时，盒内宝光流转，每一件首饰都仿佛带有主人的 独特神韵 。"
+  },
+  "provenance": {
+    "origin": "大泉王朝皇室旧藏，由姚近之赠送给裴钱 。",
+    "karma_link": "是裴钱在远游途中收获的珍贵情谊凭证，也是她的小私 人财库 。"
+  },
+  "enriched": true
+}

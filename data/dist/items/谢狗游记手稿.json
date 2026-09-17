@@ -1,0 +1,38 @@
+{
+  "name": "谢狗游记手稿",
+  "original_name": "白景行脚日记",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是白景为了向陈平安证明自己也是“读书人”而开始创 作的手稿。它不仅是行程记录，更是一个远古大妖试图 理解人世道理的尝试 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1130章 有个不用回答的问题",
+      "owner": "谢狗"
+    }
+  ],
+  "subtype": "记录/心境类",
+  "holder": "谢狗 (白景)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随着谢狗对“人”字理解的深入，此稿可转化为稳固其道 心的“本命书” 。",
+  "supernatural_ability": "详细记录了桐叶洲战后的山河变迁与人心流转，字里行 间带有剑修的肃杀气与对人间烟火的初次体悟 。",
+  "evolution": {
+    "current_form": "一本随身携带的册子，内容以蝇头小楷记录 。",
+    "materials_consumed": [
+      "千万里路途见闻",
+      "白景的剑意"
+    ],
+    "potential_evolution": "有望由落魄山刻书局正式版刻印行，成为名动天下的山 水游记 。"
+  },
+  "visual": {
+    "static": "装订略显随意，文字法度在严谨与狂放之间切换 。",
+    "active": "翻阅时隐约可见剑光在纸面跳跃，文字甚至能引发小范 围的天时感应 。"
+  },
+  "provenance": {
+    "origin": "由谢狗在跟随陈平安游历桐叶洲期间亲笔书写 。",
+    "karma_link": "是远古大妖学习“为人”之道、融入浩然天下的重要见证 。"
+  },
+  "enriched": true
+}

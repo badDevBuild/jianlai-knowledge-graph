@@ -1,0 +1,44 @@
+{
+  "name": "濠梁养剑葫",
+  "original_name": "濠梁",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是剑气长城大剑仙米裕的私人养剑葫，常用来装载好几斤的哑巴湖酒。其名“濠梁”带有超然世外的闲 适意蕴，与米裕慵懒的性格相契合 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第688章 江湖见面道辛苦",
+      "owner": "米裕"
+    }
+  ],
+  "subtype": "养剑类 / 辅助类",
+  "holder": "米裕",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "米祜",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为大剑仙的贴身之物，具有极佳的养剑底蕴与气运加持，随主人剑道破境可进一步升华 。",
+  "supernatural_ability": "能够温养飞剑剑意，并可作为大容量酒壶，长期承载酒水而不损灵气 。",
+  "evolution": {
+    "current_form": "古色古香的亚腰葫芦形态 。",
+    "materials_consumed": [
+      "剑意",
+      "哑巴湖酒"
+    ],
+    "potential_evolution": "随持有者境界提升，内部养剑空间与灵性将进一步升华 。"
+  },
+  "visual": {
+    "static": "样式古朴的亚腰葫芦，常年悬挂于米裕腰间 。",
+    "active": "在饮酒或祭剑时，葫芦表面会泛起微妙的灵气波动，散发出淡淡的酒香 。"
+  },
+  "provenance": {
+    "origin": "米家兄弟的家传或搜集之物 。",
+    "karma_link": "由兄长米祜赠送给米裕，承载了兄弟间深厚的情义 。"
+  },
+  "enriched": true
+}

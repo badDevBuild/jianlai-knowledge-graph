@@ -1,0 +1,44 @@
+{
+  "name": "金镜",
+  "original_name": "三山九侯镜",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是北俱芦洲“小天君”杨凝性的核心法宝。它不仅是一件强大的破障利器，更是他继承三山九侯法统、 修习高深符箓与五行术法的重要依托 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第865章 重提",
+      "owner": "荷花庵主"
+    }
+  ],
+  "subtype": "镇压类 / 破障类",
+  "holder": "杨凝性 (小天君)",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "杨凝真",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为三山九侯一脉的信物，具备辅助持有人跻身上五境的根基 。",
+  "supernatural_ability": "具备极其强大的破障与镇压效果，是修行“五行之土”路数的关键辅助重器 。",
+  "evolution": {
+    "current_form": "金色材质的古镜 。",
+    "materials_consumed": [
+      "三山符道韵",
+      "地脉精气"
+    ],
+    "potential_evolution": "作为本命物的一部分，辅助杨凝性斩三尸并跻身玉璞境 。"
+  },
+  "visual": {
+    "static": "通体金色的古镜，铭刻有神秘的符文 。",
+    "active": "能激发出破除一切幻境的镜光，并辅助修士在心湖中观想山河 。"
+  },
+  "provenance": {
+    "origin": "出自北俱芦洲鬼蜮谷的宝镜山 。",
+    "karma_link": "原本由杨凝真在山中磨砺所得，后转赠其弟杨凝性，现已带入白玉京修行 。"
+  },
+  "enriched": true
+}

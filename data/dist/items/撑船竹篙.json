@@ -1,0 +1,42 @@
+{
+  "name": "撑船竹篙",
+  "original_name": "打龙篙",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "原本只是范家舟子世代相传的工具，在陈平安补全《斩锁符》后，焕发 出了上古神道威严 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第262章 一叶扁舟，翩翩少年",
+      "owner": "舟子/陈平安"
+    },
+    {
+      "chapter": "第267章 临近倒悬山",
+      "owner": "中年汉子"
+    }
+  ],
+  "subtype": "压胜/生产类",
+  "holder": "桂花岛舟子",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "若由剑仙重新绘制完整符文，其压胜威力可大幅提升 。",
+  "supernatural_ability": "篙身铭刻符文，能**吓退水底蛟龙**，保护渡船平稳驶过险要水域 。",
+  "evolution": {
+    "current_form": "长约丈余、质地坚韧的翠绿竹篙，刻有残缺符文 。",
+    "materials_consumed": [
+      "深山青竹",
+      "压胜法力"
+    ],
+    "potential_evolution": "补全“雨师敕令”后可进化为具有斩锁权柄的法宝 。"
+  },
+  "visual": {
+    "static": "竹身青翠，表面刻有形似蚯蚓的古体篆书线条 。",
+    "active": "生效时符文会渗出**斑斑血迹**，展现出强大的禁锢压胜气场 。"
+  },
+  "provenance": {
+    "origin": "范家航线开辟之初由高人传下的避祸工具 。",
+    "karma_link": "陈平安在蛟龙沟为舟子补全符文，使其发挥出上古神人的镇压之力 。"
+  },
+  "enriched": true
+}

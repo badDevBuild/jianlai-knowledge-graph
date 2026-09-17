@@ -1,0 +1,52 @@
+{
+  "name": "平安无事牌",
+  "original_name": "风雪庙太平牌 / 刑部无事牌",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "最初由魏晋赠予李槐作为保命符 。后来成为大骊招徕修士的重要信物，分一二三等及候补等级 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第578章 文圣一脉师兄弟",
+      "owner": "宁姚/陈平安"
+    },
+    {
+      "chapter": "第851章 泥瓶巷",
+      "owner": "老观主 (暂时持有)"
+    }
+  ],
+  "subtype": "防御/信物类",
+  "holder": "李槐 / 大骊供奉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏晋",
+      "relation": "赠予者"
+    },
+    {
+      "name": "大骊刑部",
+      "relation": "制作方"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "持有者可借此获得宗门或朝廷的保护，其威慑力随发牌方地位提升 [61-63]。",
+  "supernatural_ability": "灌注真气可向师门发信号，亦可作为通关文牒震慑邪祟 。",
+  "evolution": {
+    "current_form": "玉质或木质的牌子，刻有特定铭文 。",
+    "materials_consumed": [
+      "上等灵玉",
+      "神识印记"
+    ],
+    "potential_evolution": "若由大修士亲手加持，可演化为能抵挡致命一击的护身符 。"
+  },
+  "visual": {
+    "static": "散发着温润光彩的玉牌，铭刻有“太平”或对应等级字样 。",
+    "active": "遇险时会爆发灵光，甚至能请出背后的强大存在降真 。"
+  },
+  "provenance": {
+    "origin": "源自风雪庙与真武山的独有传承，或大骊刑部的官方录档 。",
+    "karma_link": "见证了陈平安一行人早期远游的艰辛与受到的庇护 。"
+  },
+  "enriched": true
+}

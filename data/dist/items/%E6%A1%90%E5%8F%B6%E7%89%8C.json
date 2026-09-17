@@ -1,0 +1,44 @@
+{
+  "name": "桐叶牌",
+  "original_name": "秘制桐叶牌",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "桐叶宗用于约束门内弟子及附庸修士的特殊法宝，在战后重建期间常被作为强迫高境界修士出力的控制 手段。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第455章 报道先生归也",
+      "owner": "李芙蕖"
+    }
+  ],
+  "subtype": "监控/法统类",
+  "holder": "桐叶宗督战官",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "桐叶宗",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为一洲之主曾有的法统延伸，具备极强的因果锚定能力。",
+  "supernatural_ability": "专门用于监视、定位特定修士（如受降的野修或犯禁子弟）的行踪，难被一般障眼法欺瞒。",
+  "evolution": {
+    "current_form": "刻有桐叶纹路的玉牌或木牌。",
+    "materials_consumed": [
+      "梧桐木精",
+      "神魂丝线"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "看似寻常的玉质或木质令牌，带有桐叶宗特有的标记。",
+    "active": "生效时隐隐与被监视者的神魂产生共鸣，灵光指向特定方位。"
+  },
+  "provenance": {
+    "origin": "出自桐叶洲桐叶宗祖师堂。",
+    "karma_link": "与桐叶洲陆沉后的一洲气运及修士管控紧密相关。"
+  },
+  "enriched": true
+}

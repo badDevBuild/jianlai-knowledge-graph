@@ -1,0 +1,44 @@
+{
+  "name": "竹木如意",
+  "original_name": "老旧如意",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是云霞山祖师蔡金简在授课时随手把玩的物件。它象征着持有人在宗门内的尊崇地位，也代表了云霞 山一脉追求的清凉境地与道法自然 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第872章 天下地上",
+      "owner": "蔡金简"
+    }
+  ],
+  "subtype": "辅助类 / 礼器",
+  "holder": "蔡金简",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云霞山",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为云霞山女子祖师开课授业的礼器，蕴含深厚的清净道意 。",
+  "supernatural_ability": "辅助持有人静心凝神。在讲经授业时可与周遭山水气运产生共鸣，助人勘破文字迷障 。",
+  "evolution": {
+    "current_form": "一支质地古朴、表面温润的竹木如意 。",
+    "materials_consumed": [
+      "云根石精气",
+      "香火文运"
+    ],
+    "potential_evolution": "长期受金丹或元婴境界的道气熏染，有望进化为具备压胜心魔能力的本命物 。"
+  },
+  "visual": {
+    "static": "老旧且带有岁月痕迹的竹木制品，形制传统，握于手中 。",
+    "active": "在香炉紫烟中，如意会散发出淡淡的道门宝光，与持有人身上的法袍气象呼应 。"
+  },
+  "provenance": {
+    "origin": "源自云霞山绿桧峰 。",
+    "karma_link": "见证了蔡金简从金丹境跨越元婴瓶颈、成为云霞山一代祖师的身份转变 , 。"
+  },
+  "enriched": true
+}

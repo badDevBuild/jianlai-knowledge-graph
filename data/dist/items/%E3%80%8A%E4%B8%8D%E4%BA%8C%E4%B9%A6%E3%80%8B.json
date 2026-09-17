@@ -1,0 +1,44 @@
+{
+  "name": "《不二书》",
+  "original_name": "落魄山学问汇总",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安为了破除“痴”念、建立心中秩序而编订的学 问汇总 。它记录了从泥瓶巷到剑气长城的全部道理，是落魄 山最核心的软实力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1029章 从容写去",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "修心/教化类",
+  "holder": "落魄山藏书楼",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为陈平安整理的三教百家善知识，有望成为镇压宗门 心境的“本命书” 。",
+  "supernatural_ability": "旨在破除练气士的“无明障”，帮助门生弟子在复杂世道 中守住本心 。",
+  "evolution": {
+    "current_form": "厚薄不一、分门别类的多册手稿 。",
+    "materials_consumed": [
+      "诸子百家心得",
+      "浩然气"
+    ],
+    "potential_evolution": "演变为涵盖“三千小千世界”真理的“大道全书” 。"
+  },
+  "visual": {
+    "static": "笔迹法度严谨，内有大量朱笔批注与临摹内容 。",
+    "active": "研读时文字隐有宝光，能够让观者陷入一种“非此即彼” 的自省状态 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城和远游途中，将所见所闻与三教学问 熔铸而成的笔札 。",
+    "karma_link": "承载了陈平安对弟子裴钱、曹晴朗等人的传道期望 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "惜如金",
+  "original_name": "惜如金墨锭",
+  "type": "材料",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是陈平安从诸多收藏中拣选出的精品文房。其名字寓 意文字珍贵，极受年轻皇帝黄聪的喜爱 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第943章 推陈出新",
+      "owner": "黄聪"
+    }
+  ],
+  "subtype": "文房/书法类",
+  "holder": "黄聪 (梦粱国皇帝)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "受一国文运滋养，有望孕育出能助人妙笔生花的“墨精” 。",
+  "supernatural_ability": "墨香清冷，落笔生根。书写的文字天然带有稳固气运的 功效 。",
+  "evolution": {
+    "current_form": "一块颜色鲜红、刻有三个金字的精良墨锭 。",
+    "materials_consumed": [
+      "灵山松烟",
+      "大泉文气"
+    ],
+    "potential_evolution": "可炼化为镇压御书房风水的文房至宝。"
+  },
+  "visual": {
+    "static": "色泽赤红如血，质地坚硬如玉，三个金字闪烁温润光芒 。",
+    "active": "研磨时会有紫烟升腾，水气中隐约可见龙虎之姿 。"
+  },
+  "provenance": {
+    "origin": "陈平安在游历途中搜集而得的珍贵材料 。",
+    "karma_link": "作为陈平安祝贺梦粱国复国的礼物，见证了落魄山与山 下王朝的友谊 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,41 @@
+{
+  "name": "枯骨王座",
+  "original_name": "枯骨王座",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "蛮荒天下最巅峰的十四座王座之一。它不仅是白莹权力的象征，更是一件能够操控生死、将古代强者骸 骨化为战力傀儡的邪恶重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第613章 十四王座，我龙抬头",
+      "owner": "白骨大妖"
+    },
+    {
+      "chapter": "第683章 何处不问剑",
+      "owner": "白莹"
+    }
+  ],
+  "subtype": "显化类 / 镇压类",
+  "holder": "白莹 (周密阳神身外身)",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为蛮荒天下十四王座之一，承载了一洲的死气与部分大道气运 。",
+  "supernatural_ability": "由数十万副尸骨打造。通过酒水浇灌可将其中骸骨幻化为具备巅峰实力的傀儡剑侍（如龙君傀儡） 。",
+  "evolution": {
+    "current_form": "白骨累累的巨型王座",
+    "materials_consumed": [
+      "数十万副妖族与剑修尸骨"
+    ],
+    "potential_evolution": "已被周密通过“合道”手段进一步炼化，与周密大道融合 。"
+  },
+  "visual": {
+    "static": "由数十万副尸骨堆叠而成，莹白如玉，座下踩着远古大剑仙的头颅 。",
+    "active": "当大妖白莹倾倒酒水时，尸骨会生出血肉筋骨，显化为强大的剑仙傀儡 。"
+  },
+  "provenance": {
+    "origin": "诞生于蛮荒天下的“老鼠洞”英灵殿中 。",
+    "karma_link": "是周密在蛮荒天下长期布局、通过阳神身外身掌控局势的核心重器 。"
+  },
+  "enriched": true
+}

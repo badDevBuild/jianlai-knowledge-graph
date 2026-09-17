@@ -1,0 +1,48 @@
+{
+  "name": "青霞幽意不死方",
+  "original_name": "金字道书 / 不死方",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陆沉为了某些长远算计而留在浩然天下的“不死方”。它以金字道书的形式存在，其实质是白骨真人 的大道根基，专门给予那些在乱世中寻求一线生机的散修。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第875章 跌境",
+      "owner": "陆沉"
+    }
+  ],
+  "subtype": "修道类 / 秘籍",
+  "holder": "白茅",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李子树下白骨真人",
+      "relation": "原主"
+    },
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为陆沉分身白骨真人的修道根本，具备指引持有人直达玉璞境的潜力。",
+  "supernatural_ability": "道诀内容随持有人修为与供奉神仙钱的数量而显现，上篇指引金丹，中篇直指玉璞。",
+  "evolution": {
+    "current_form": "画册中的金字道书。",
+    "materials_consumed": [
+      "雪花钱",
+      "白骨真人道韵"
+    ],
+    "potential_evolution": "完全习得后可成就白骨真人的不朽金身。"
+  },
+  "visual": {
+    "static": "画册中多出的金字页面。",
+    "active": "阅读时金光流转，道意深邃，内容随心念而生发。"
+  },
+  "provenance": {
+    "origin": "青冥天下十人候补白骨真人的修炼功法。",
+    "karma_link": "陆沉将其作为机缘赠予白茅，用以在浩然天下布局。"
+  },
+  "enriched": true
+}

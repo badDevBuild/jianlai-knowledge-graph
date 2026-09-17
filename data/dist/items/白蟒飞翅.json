@@ -1,0 +1,46 @@
+{
+  "name": "白蟒飞翅",
+  "original_name": "蛟龙遗蜕碎片",
+  "type": "材料",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是极其珍稀的蛟龙材料。白蟒在龙泉郡灵气复苏之际获得奇遇，其遗留的飞翅部分不仅是力量的象征，更是珍贵的修行资粮 , , 。",
+  "aliases": [
+    "白蟒飞翅"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第103章 竹楼",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "灵物类",
+  "holder": "魏檗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白蟒",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "源自具备真龙雏形的蛟龙后裔，是炼制飞行法宝或法袍的顶级素材 , 。",
+  "supernatural_ability": "蕴含充沛的水运与风雷之意，可赋予器物御风凌空的神通 , 。",
+  "evolution": {
+    "current_form": "带有白色流光的膜状或鳞片状物质 , 。",
+    "materials_consumed": [
+      "白蟒精血",
+      "化蛟余韵"
+    ],
+    "potential_evolution": "可炼化为半仙兵品秩的“飞羽法衣”。"
+  },
+  "visual": {
+    "static": "色泽莹白，质地轻盈且坚韧，表面隐约可见龙纹 , 。",
+    "active": "激发时会产生阵阵风雷声，映射出五彩绚烂的光华 , 。"
+  },
+  "provenance": {
+    "origin": "棋墩山白蟒在奇遇中脱胎换骨时留下的遗蜕 , 。",
+    "karma_link": "连接了白蟒的化蛟愿景与魏檗的坐镇山头之责 , 。"
+  },
+  "enriched": true
+}

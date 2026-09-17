@@ -1,0 +1,44 @@
+{
+  "name": "剑炉体质",
+  "original_name": "立桩剑炉 / 内里小天地演武场",
+  "type": "其他",
+  "grade": "特殊",
+  "status": "活跃",
+  "description": "这并非简单的天赋，而是**一种“向内求”的极致体现**。它让陈平安将身体作为磨刀石与熔炉，在一次 次痛苦的炼化中，实现了武道与修行的融合 [21-23]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第58章 先生",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "武道心境 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "崔诚",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随武夫境界提升，可将人身小天地彻底演化为**熔炼神性、砥砺剑意的终极熔炉** 。",
+  "supernatural_ability": "“神人炼剑”。通过维持剑炉立桩，武夫能够以自身为器皿，**强行镇压、熔炼体内暴戾的剑气或不受控 的飞剑胚子** 。",
+  "evolution": {
+    "current_form": "一种名为“立桩剑炉”的武学桩架 。",
+    "materials_consumed": [
+      "纯粹真气",
+      "剑气十八停"
+    ],
+    "potential_evolution": "最终可达“万物入炉皆成剑”的十一境武神境界 。"
+  },
+  "visual": {
+    "static": "站桩时身形如一尊古老剑炉，纹丝不动，气息浑厚 。",
+    "active": "体内金光流转，窍穴中仿佛有真火烹煮，能产生对抗外界压胜的刚猛拳意 。"
+  },
+  "provenance": {
+    "origin": "落魄山竹楼武学一脉，由崔诚传授 。",
+    "karma_link": "是陈平安能以肉凡之躯承受“初一”等飞剑反噬、并在书简湖等死地逆境生存的核心依仗 。"
+  },
+  "enriched": true
+}

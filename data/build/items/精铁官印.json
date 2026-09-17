@@ -1,0 +1,48 @@
+{
+  "name": "精铁官印",
+  "original_name": "彩衣国胭脂郡城隍显佑伯印 / 小天师印",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是胭脂郡城隍庙的镇馆之宝，是正统神道的象征。陈平安对其极为敬重，始终未曾私自打开，打算将 其送给最合适的传承者。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第227章 出剑了",
+      "owner": "文官神像"
+    }
+  ],
+  "subtype": "镇压类 / 神道类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "沈温",
+      "relation": "赠予者"
+    },
+    {
+      "name": "龙虎山大天师",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "具备半仙兵潜质。若配合龙虎山五雷正法，可发挥出镇压一郡气运的浩荡威能。",
+  "supernatural_ability": "**“镇邪压胜”**。法印内部蕴含雷电真意，即便不被激活，也能凭借气势阻挡乱葬岗规模的煞气侵袭。",
+  "evolution": {
+    "current_form": "原本伪装成神像手中的精铁官印，实则封装在青色小木盒中。",
+    "materials_consumed": [
+      "龙虎山正统文运",
+      "雷电精华"
+    ],
+    "potential_evolution": "未来由具备“德行”的修士炼化后，可成为执掌雷部的核心法印。"
+  },
+  "visual": {
+    "static": "外表古朴无华，青色木盒五指可握，法印质地冷硬。",
+    "active": "激活时金光万丈，印文显化龙虎之象，带有浩荡天威。"
+  },
+  "provenance": {
+    "origin": "由龙虎山天师府某一代大天师亲自篆刻赐下。",
+    "karma_link": "城隍沈温临终前将其赠予陈平安，嘱托“唯有德者持之”，后陈平安计划转赠给张山峰。"
+  },
+  "enriched": true
+}

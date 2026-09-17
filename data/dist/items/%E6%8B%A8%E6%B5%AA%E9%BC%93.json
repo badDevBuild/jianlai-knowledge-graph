@@ -1,0 +1,49 @@
+{
+  "name": "拨浪鼓",
+  "original_name": "龙皮拨浪鼓",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件集合了多种稀世材料的特殊法宝，虽然外形如儿时玩物，实则道韵深厚 。它象征着吴霜降对远古遗迹和顶尖宗门资源的掌控力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第778章 谈笑中",
+      "owner": "吴霜降"
+    },
+    {
+      "chapter": "第956章 有人敲鼓",
+      "owner": "吴讳"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "俊美少年 (吴霜降扈从)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由于取材极高，且融合了数处顶级福地与龙宫的材料，具备成为顶级辅助灵器的潜力 。",
+  "supernatural_ability": "目前作为辅助法物，具体攻击神通不详，但具备震慑心神和沟通特定秘境的功能 。",
+  "evolution": {
+    "current_form": "彩绘鼓面、坠有琉璃珠的小巧拨浪鼓 。",
+    "materials_consumed": [
+      "大玄都观祖宗桃木",
+      "龙皮",
+      "深海龙宫琉璃珠"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "鼓柄为大玄都观桃木，鼓面绘有繁复彩画，尾端坠有一粒由红线系挂的琉璃珠 。",
+    "active": "摇晃时琉璃珠撞击龙皮鼓面，发出沉闷而带有威压的声响 。"
+  },
+  "provenance": {
+    "origin": "由吴霜降收集多地秘宝亲自炼制，作为赠礼交给其随行少年 。",
+    "karma_link": "红绳来自柳七所在福地，珠子来自深海龙宫，象征着吴霜降极广的因果联结 。"
+  },
+  "enriched": true
+}

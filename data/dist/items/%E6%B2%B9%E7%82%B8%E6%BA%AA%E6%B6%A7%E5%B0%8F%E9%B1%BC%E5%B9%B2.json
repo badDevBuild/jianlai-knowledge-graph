@@ -1,0 +1,44 @@
+{
+  "name": "油炸溪涧小鱼干",
+  "original_name": "小米粒的零食",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗品",
+  "description": "这是落魄山的“特产”零食，深受周米粒喜爱。虽然不是神仙物，却代表了落魄山家一般的温暖 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第602章 年纪轻轻二掌柜",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "生活类",
+  "holder": "周米粒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为凡俗之物，重在情感寄托 。",
+  "supernatural_ability": "无特殊神通，是落魄山最受欢迎的零嘴 。",
+  "evolution": {
+    "current_form": "色泽金黄、酥脆可口的干炸小鱼 。",
+    "materials_consumed": [
+      "溪间小鱼",
+      "清油"
+    ],
+    "potential_evolution": "无 [无]。"
+  },
+  "visual": {
+    "static": "小小的一条，摆放在碗中或棉布包里，香气扑鼻 。",
+    "active": "咬碎时声响清脆，是缓解疲劳的神器 。"
+  },
+  "provenance": {
+    "origin": "由陈平安从落魄山带回，常作为礼物送予周米粒 。",
+    "karma_link": "连接了落魄山成员之间的深厚情谊 。"
+  },
+  "enriched": true
+}

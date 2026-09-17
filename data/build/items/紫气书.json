@@ -1,0 +1,51 @@
+{
+  "name": "紫气书",
+  "original_name": "仙家武学秘籍",
+  "type": "典籍",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一部极其昂贵的修行宝典。对于一直停滞在武道门槛上的朱河父女而言，它是重塑武道志向、冲击 中五境的“及时雨” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第104章 坐地分赃",
+      "owner": "朱鹿"
+    },
+    {
+      "chapter": "第109章 少年有话说",
+      "owner": "朱河/朱鹿"
+    },
+    {
+      "chapter": "第110章 无不散的筵席",
+      "owner": "朱河(暂有)"
+    }
+  ],
+  "subtype": "修行类 / 武学类",
+  "holder": "朱鹿",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为仙家府邸流出的高阶秘籍，具备让纯粹武夫稳步跻身第6境的潜力 。",
+  "supernatural_ability": "“破境导引”。详细记载了武夫如何打熬体魄及练气的法门，配合灵药可大幅提高破境成功率 。",
+  "evolution": {
+    "current_form": "一本装帧考究的仙家秘籍 。",
+    "materials_consumed": [
+      "真武山“英雄胆” (需配合使用)"
+    ],
+    "potential_evolution": "若能完全领悟，可成为指导武夫跻身第7境金身境的宝典 。"
+  },
+  "visual": {
+    "static": "封面带有淡淡的紫气氤氲感，文字蕴含法度 。",
+    "active": "修炼时可引导修行者产生“紫气东来”的异象，梳理体内滞塞的气机 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲仙家府邸，由魏檗积攒多年后赠予朱鹿 。",
+    "karma_link": "朱河父女重获“心气”的关键，也是朱鹿在修行路上的重要资产 。"
+  },
+  "enriched": true
+}

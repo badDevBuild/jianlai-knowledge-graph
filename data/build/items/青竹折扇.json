@@ -1,0 +1,44 @@
+{
+  "name": "青竹折扇",
+  "original_name": "风凉扇 / 打鬼扇",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此扇集文人之雅与兵家之威。不仅是精美文玩，更是降 妖除魔、护持道心的顶级法器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第934章 吾为东道主（四）",
+      "owner": "晋青"
+    }
+  ],
+  "subtype": "文房/压胜类",
+  "holder": "刘羡阳 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青神山夫人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随持扇者修为提升，可作为大炼本命物的辅佐重器，压 胜天下一切阴冥邪祟 。",
+  "supernatural_ability": "扇骨为神霄竹，天然克制阴煞鬼魅。扇面题字可引动清 风，涤荡神魂杂念 。",
+  "evolution": {
+    "current_form": "青神山神霄竹扇骨，配以名家题字扇面 。",
+    "materials_consumed": [
+      "万年灵竹",
+      "圣贤墨宝"
+    ],
+    "potential_evolution": "可进阶为“画龙点睛、化虚为实”的仙兵级“生花扇” 。"
+  },
+  "visual": {
+    "static": "扇骨翠绿如玉，触手生凉，散发淡淡草木清香 。",
+    "active": "展开时清风徐来，文字流溢金光，具有“一扇挥去云雾 开”之势 。"
+  },
+  "provenance": {
+    "origin": "源自北俱芦洲竹海洞天青神山 。",
+    "karma_link": "是落魄山与青神山深厚交情的象征，亦是文人雅士身份 的证明 。"
+  },
+  "enriched": true
+}

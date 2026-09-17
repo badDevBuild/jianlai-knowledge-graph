@@ -1,0 +1,38 @@
+{
+  "name": "蜜饯",
+  "original_name": "笑靥儿 / 油面蜜糖",
+  "type": "其他",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "在《剑来》的日常体系中，蜜饯代表了修行之外的人情 味，也是裴钱从“小黑炭”成长过程中的重要调剂。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第915章 田垄上",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "滋养/生活类",
+  "holder": "裴钱 / 杨盄",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "虽为凡物，但经由山上修士以灵气烹制，可补益气血， 为稚童开窍。",
+  "supernatural_ability": "滋味极甜，能瞬间平复练气士由于神魂动荡产生的不适 感 。",
+  "evolution": {
+    "current_form": "色泽金黄、裹满蜜糖的精巧面点。",
+    "materials_consumed": [
+      "百花蜂蜜",
+      "灵谷粉"
+    ],
+    "potential_evolution": "极品者可作为安抚高阶灵兽的诱饵。"
+  },
+  "visual": {
+    "static": "形如笑脸，散发阵阵油香与蜜香。",
+    "active": "食用后口齿生香，周身气机流转略微加快，令人心生愉 悦 。"
+  },
+  "provenance": {
+    "origin": "多产自大骊京城的老字号点心铺，尤以“笑靥儿”闻名 。",
+    "karma_link": "裴钱最钟爱的零食之一，常以此“贿赂”朱敛或小米粒 。"
+  },
+  "enriched": true
+}

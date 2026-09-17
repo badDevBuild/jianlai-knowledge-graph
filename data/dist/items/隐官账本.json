@@ -1,0 +1,50 @@
+{
+  "name": "隐官账本",
+  "original_name": "避暑行宫秘录档案",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是隐官一脉最核心的资产。陈平安继任后，将其转化为算计蛮荒天下的“算盘”，通过对这些档案的“ 从厚读薄”，陈平安得以掌握战场的绝对主动权 。",
+  "aliases": [
+    "天干账本"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第627章 算账整座天下",
+      "owner": "陈平安/隐官一脉"
+    }
+  ],
+  "subtype": "情报/管理类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "萧愻",
+      "relation": "原主"
+    },
+    {
+      "name": "洛衫、竹庵",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随情报的更新与细化，可演变为掌控整座天下因果脉络的“生死簿”。",
+  "supernatural_ability": "详细记录了剑气长城百年内所有剑修的姓名、本命飞剑、神通及心性，具备推演战局与制衡人心的作用 。",
+  "evolution": {
+    "current_form": "堆积如山、分类严密的秘录档案。",
+    "materials_consumed": [
+      "数千年的监察情报",
+      "剑仙精气神"
+    ],
+    "potential_evolution": "由陈平安重新归档后，与“天干地支”系列账本合并为统一的战略枢纽 。"
+  },
+  "visual": {
+    "static": "原本堆放在避暑行宫与躲寒行宫内，现被陈平安悉数搬至走马道，层叠如山，贴满了小楷便签 。",
+    "active": "翻阅时文字跃动，可与战场画卷联动，实时映射出各方势力的虚实 。"
+  },
+  "provenance": {
+    "origin": "剑气长城隐官一脉历代积累的秘密档案。",
+    "karma_link": "承载了剑气长城万年的守城底蕴与每一位剑修的遗言 。"
+  },
+  "enriched": true
+}

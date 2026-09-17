@@ -1,0 +1,45 @@
+{
+  "name": "“休歇”木牌",
+  "original_name": "水龙宗过桥木牌",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这块木牌是水龙宗颁发的通行信物，虽然在陈平安众多的顶级法宝中并不显眼，但它象征着在北俱芦洲 山水官场中的身份认可，是陈平安在大渎沿岸如履平地的重要保障 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第553章 大渎入海处遇故人",
+      "owner": "李源 -> 陈平安"
+    },
+    {
+      "chapter": "第558章 此中有真意",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "凭证类 / 空间类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "水龙宗",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为水龙宗的重要凭证，具有极高的山水法理认可度。",
+  "supernatural_ability": "是进入特定区域或通过特殊山水禁制的**过桥凭证**，陈平安在远游途中一直将其挂在腰间 。",
+  "evolution": {
+    "current_form": "刻有“休歇”二字的木质令牌。",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "质地古朴的木牌，正面篆刻“休歇”二字，带有水龙宗独有的道门气息 。",
+    "active": "在通过山水大阵或水路关隘时，木牌会泛起微光，与阵法感应以获通行 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲水龙宗 。",
+    "karma_link": "陈平安在北俱芦洲游历期间获得，是其合法行走于大渎水域的身份标识。"
+  },
+  "enriched": true
+}

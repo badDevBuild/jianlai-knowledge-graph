@@ -1,0 +1,44 @@
+{
+  "name": "白玉殿阁",
+  "original_name": "白玉殿阁",
+  "type": "重器",
+  "grade": "半仙兵",
+  "status": "损毁",
+  "description": "此物曾是离真构建“雷池大劫”的核心组件。虽然在战斗中受损并跌落品秩，但其材料与形制依然属于当 世罕见的建筑类重宝。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第614章 为何话多",
+      "owner": "坐镇琼楼玉宇的大妖"
+    }
+  ],
+  "subtype": "镇压类 / 阵法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "离真",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "原本为半仙兵，在经历天地两劫后品秩下跌，但仍具备极高的防御与阵法支撑潜力。",
+  "supernatural_ability": "作为雷池大阵的十八处阵眼之一，能构建出稳固的小天地屏障并配合其余宝物施展合击。",
+  "evolution": {
+    "current_form": "白玉材质的小巧殿阁模型。",
+    "materials_consumed": [
+      "天地灵气",
+      "仙家美玉"
+    ],
+    "potential_evolution": "可作为落魄山或下宗祖师堂的辅助建筑重器。"
+  },
+  "visual": {
+    "static": "通体由莹润白玉打造，雕梁画栋，气象宏丽。",
+    "active": "激活时可在大地上升起，霞光流转，自成禁制区域。"
+  },
+  "provenance": {
+    "origin": "离真用于围杀陈平安的十八件重宝之一，源自蛮荒天下托月山的库藏。",
+    "karma_link": "在陈平安斩杀离真的战场上被收缴，后成为落魄山底蕴资产。"
+  },
+  "enriched": true
+}

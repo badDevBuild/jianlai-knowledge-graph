@@ -1,0 +1,52 @@
+{
+  "name": "小刻刀",
+  "original_name": "玉簪附赠刻刀",
+  "type": "匠器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这虽然只是一把凡俗小刻刀，却承载了陈平安早期修行的大量感悟。陈平安曾用它雕琢过无数竹简，后 作为纪念赠予学生曹晴朗 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第604章 与谁问拳，向谁问剑",
+      "owner": "陈平安(赠予曹晴朗)"
+    },
+    {
+      "chapter": "第605章 世间人人心独坐",
+      "owner": "曹晴朗"
+    }
+  ],
+  "subtype": "雕琢/工具类",
+  "holder": "曹晴朗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大隋京城铺子",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "因刻写过无数圣贤道理与剑仙印章，逐渐带有某种规则之力 [17-19]。",
+  "supernatural_ability": "锋利程度超乎寻常铁器，能轻易在坚韧的青神山竹简上落笔，具有一定的破法效果 。",
+  "evolution": {
+    "current_form": "长约四寸，握柄处有防滑纹路 。",
+    "materials_consumed": [
+      "凡俗精铁",
+      "主人心神"
+    ],
+    "potential_evolution": "可演化为杀伤神魂的袖中飞剑 [无]。"
+  },
+  "visual": {
+    "static": "样式极为普通，甚至有些陈旧，却被打磨得异常光亮 。",
+    "active": "运刀时轨迹圆转无碍，每一刀都好似带有必中之势 。"
+  },
+  "provenance": {
+    "origin": "大隋京城的一间饰品铺子，因陈平安购买玉簪而赠送 。",
+    "karma_link": "曾伴随陈平安走过千万里路，刻下过“山水有重逢”等名句 。"
+  },
+  "enriched": true
+}

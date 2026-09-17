@@ -1,0 +1,38 @@
+{
+  "name": "白雀",
+  "original_name": "徐浑然之剑",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "它是徐浑然引以为傲的杀敌利器，因其小巧且致命，在战场与暗杀 中极具威慑力 。它是大骊皇室供奉中具有代表性的本命飞剑之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第89章 两颗人头",
+      "owner": "徐浑然"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "徐浑然",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为上乘飞剑，具备极高的速度与斩首杀力 。",
+  "supernatural_ability": "杀力极大，能在瞬间飞掠百里取人首级，隐匿于袖中无形无迹 。",
+  "evolution": {
+    "current_form": "寸余长短的飞剑",
+    "materials_consumed": [
+      "精血",
+      "灵气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "体型极小，仅寸余长，平日藏在袖中 。",
+    "active": "飞掠如白雀振翅，速度极快，剑光诡谲莫测 。"
+  },
+  "provenance": {
+    "origin": "大骊太后南簪身边的捧剑侍女徐浑然的本命飞剑 。",
+    "karma_link": "作为大骊皇宫深藏不露的杀招之一，常伴随在太后左右 。"
+  },
+  "enriched": true
+}

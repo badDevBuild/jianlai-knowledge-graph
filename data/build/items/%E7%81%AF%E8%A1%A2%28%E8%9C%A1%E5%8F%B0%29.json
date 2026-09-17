@@ -1,0 +1,52 @@
+{
+  "name": "灯衢(蜡台)",
+  "original_name": "青铜蜡台",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "灯衢是一件极为特殊的空间法宝，其实质是一座随身携带的微缩道场。它体现了纯阳真人高超的炼物造 诣，将昼夜交替的自然法则浓缩于方寸蜡台之上 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第923章 与诸君借取千山万水（四）",
+      "owner": "裘渎"
+    }
+  ],
+  "subtype": "空间类 / 辅助类",
+  "holder": "胡楚菱",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "纯阳真人",
+      "relation": "原主"
+    },
+    {
+      "name": "大渎龙宫",
+      "relation": "曾持有"
+    },
+    {
+      "name": "裘渎",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为“螺蛳壳道场”，具备演化为微缩城池与独立大道循环的潜力 。",
+  "supernatural_ability": "点燃龙宫秘制蜡烛后，可推门入驻其中的海市蜃楼大市，具备一昼一夜两重幻境，适合道侣双修 。",
+  "evolution": {
+    "current_form": "一座可以同时摆放高低两支蜡烛的青铜蜡台 。",
+    "materials_consumed": [
+      "上古青铜",
+      "纯阳真火"
+    ],
+    "potential_evolution": "若配合“取水镜”与“取日镜”使用，可达到日月衔接、功德圆满的境界 。"
+  },
+  "visual": {
+    "static": "形制古朴不起眼的青铜制品，带有明显的龙宫岁月痕迹 。",
+    "active": "烛火摇曳时，蜡台周遭会浮现出繁华市井的虚影，如同打开了一扇通往异界的大门 。"
+  },
+  "provenance": {
+    "origin": "由纯阳真人吕喦亲手炼制，作为拜访大渎龙宫的礼物赠送 。",
+    "karma_link": "曾是大渎龙宫某位小姐的嫁妆，后由裘渎转赠给嫡传弟子胡楚菱 。"
+  },
+  "enriched": true
+}

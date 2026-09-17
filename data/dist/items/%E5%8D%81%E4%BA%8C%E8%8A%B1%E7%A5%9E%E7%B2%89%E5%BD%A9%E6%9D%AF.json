@@ -1,0 +1,44 @@
+{
+  "name": "十二花神粉彩杯",
+  "original_name": "五彩十二月花神酒杯",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是**人间好酒之人的最高心头好**。每一只杯子不仅 是精美的艺术品，更是承载了浩然天下诸多文豪诗仙的 才情意气 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1191章 太阳和野草",
+      "owner": "封姨"
+    }
+  ],
+  "subtype": "滋养/收藏类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刑官豪素",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "集齐一套后，可辅助修行者在酒中领悟百花意境，提升 神魂感知 。",
+  "supernatural_ability": "每只杯子分别对应一月花神，并写有应景诗。饮酒时可 引动百花福地的气运加持 。",
+  "evolution": {
+    "current_form": "做工精美的粉彩瓷杯，绘有婀娜多姿的女子花神 。",
+    "materials_consumed": [
+      "百花福地文运",
+      "仙家瓷泥"
+    ],
+    "potential_evolution": "若能获得对应花神点睛，可演化为可召唤花神法相的护 法器物 。"
+  },
+  "visual": {
+    "static": "瓷质细腻，彩绘传神，每一只杯子都蕴含独特的季节芬 芳 。",
+    "active": "落入美酒后，杯中女子仿佛会翩然起舞，文运灵气随之 升腾 。"
+  },
+  "provenance": {
+    "origin": "百花福地命主花神赠予世间雅士的礼物 。",
+    "karma_link": "见证了陈平安在剑气长城劳狱中与刑官豪素的一段文字 缘 。"
+  },
+  "enriched": true
+}

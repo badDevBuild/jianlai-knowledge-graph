@@ -1,0 +1,44 @@
+{
+  "name": "游仙枕",
+  "original_name": "白瓷无忧枕",
+  "type": "法宝",
+  "grade": "仙家至宝",
+  "status": "活跃",
+  "description": "游仙枕是一件能够沟通梦境与现实的奇物。它不仅提供极致的安眠，更能助人在梦中神游万里，被誉为 “高枕无忧”的现实载体。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第783章 邀请",
+      "owner": "李邺侯"
+    }
+  ],
+  "subtype": "辅助类 / 幻境类",
+  "holder": "李邺侯 (皎月湖水君)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "古之得道高士",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "被誉为“仙家至宝”，在涉及神游、心境打熬方面具有不可替代的作用。",
+  "supernatural_ability": "“神游四海”。枕之入睡后，心神可遍游五湖四海，在梦中领略江河地理，甚至可以辅助突破神魂瓶颈。",
+  "evolution": {
+    "current_form": "白瓷材质的长方形枕头。",
+    "materials_consumed": [
+      "月魄精华",
+      "水德气运"
+    ],
+    "potential_evolution": "若能配合“避暑”团扇，可开辟出能供多人入睡修行的梦境道场。"
+  },
+  "visual": {
+    "static": "质地温润如玉，表面绘有精美的辞赋文字或山水图案。",
+    "active": "使用者入睡后，枕头周身会萦绕淡淡的水雾与微弱的月光。"
+  },
+  "provenance": {
+    "origin": "古代仙人秘制。",
+    "karma_link": "现为皎月湖水君李邺侯的收藏，与其书房清供的雅致气象完美契合。"
+  },
+  "enriched": true
+}

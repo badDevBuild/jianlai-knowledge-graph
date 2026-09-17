@@ -1,0 +1,44 @@
+{
+  "name": "捆蛟钉",
+  "original_name": "桃叶巷桃树根",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是骊珠洞天最残酷的压胜手段之一，将神圣的桃树化作禁锢真龙的钉子，维持了小镇三千年的稳定 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第570章 小师叔最从容",
+      "owner": "谢谢(曾被植入)"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "大骊王朝 / 骊珠洞天",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为压胜一洲蛟龙气运的阵法枢纽，其法理位阶极高 。",
+  "supernatural_ability": "专门针对真龙脊柱与筋骨进行禁锢，使其无法动弹，以此压制整个人间的蛟龙气运 。",
+  "evolution": {
+    "current_form": "扎根于地底深处的桃树根须 。",
+    "materials_consumed": [
+      "龙脉之气",
+      "上古咒法"
+    ],
+    "potential_evolution": "随着真龙的成长，压胜之力会逐渐转化为一种宿命束缚 。"
+  },
+  "visual": {
+    "static": "地表呈现为桃叶巷两侧的繁茂桃树 。",
+    "active": "在禁锢真龙时会产生无形的道法压力，直接作用于真龙魂魄 。"
+  },
+  "provenance": {
+    "origin": "由三山九侯先生亲手布置，用以镇压最后一条真龙王朱 。",
+    "karma_link": "关系到王朱的脱困与陈平安的家乡因果 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "满月",
+  "original_name": "养剑葫“满月”",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "它是谢灵身上最显著的仙家重宝之一，象征着北俱芦洲谢氏家族的深厚底蕴 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第528章 宝瓶洲的现在和未来",
+      "owner": "谢灵"
+    },
+    {
+      "chapter": "第641章 朱敛有拳要问",
+      "owner": "谢灵"
+    }
+  ],
+  "subtype": "存储类 / 辅助类",
+  "holder": "谢灵",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "谢实",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为品秩极高的养剑葫，对飞剑的滋养效果极佳，甚至能辅助飞剑产生灵智 。",
+  "supernatural_ability": "能够高效温养并存储多把飞剑，维持剑气的纯粹与锋芒 。",
+  "evolution": {
+    "current_form": "品秩极高的养剑葫 。",
+    "materials_consumed": [
+      "天材地宝",
+      "仙家酒酿"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "色泽洁白或圆润如满月，表面刻有古朴的道门符文 。",
+    "active": "养剑时葫芦口会有微光吞吐，隐约有剑鸣声自内部传出。"
+  },
+  "provenance": {
+    "origin": "由天君谢实从别处获得或亲手炼制。",
+    "karma_link": "谢实赠予桃叶巷子孙谢灵，用以支持其剑道修行 。"
+  },
+  "enriched": true
+}

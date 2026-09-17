@@ -1,0 +1,38 @@
+{
+  "name": "回头见",
+  "original_name": "陈十一私章",
+  "type": "灵物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是陈平安众多印章中最具温情的一枚。它记录了那个曾经打算‘去去就回’的少年，在历经风霜后归乡 的坚定意志 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1021章 君亦且自疑",
+      "owner": "陆沉"
+    }
+  ],
+  "subtype": "篆刻印章",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "承载了陈平安合道剑气长城、碎丹重塑的心路历程，具备极高的道义权重 。",
+  "supernatural_ability": "作为陈平安的重要信物，蕴含其独有的剑气与心境，可在特定场合产生大道共鸣 。",
+  "evolution": {
+    "current_form": "一枚底款篆刻‘回头见’三字的私人印章 。",
+    "materials_consumed": [
+      "剑气长城残余剑意",
+      "顶级石材"
+    ],
+    "potential_evolution": "随陈平安境界攀升，可演化为能镇压一地气运的宗主印信 。"
+  },
+  "visual": {
+    "static": "印面文字苍劲有力，材质温润但隐有肃杀之气 。",
+    "active": "钤印时会有剑气微鸣，文字意境仿佛能透出纸背 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城期间亲自篆刻 。",
+    "karma_link": "被陈平安视为在漫长人生中与故友、故乡‘终会再见’的承诺具象 。"
+  },
+  "enriched": true
+}

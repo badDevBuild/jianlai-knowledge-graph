@@ -1,0 +1,44 @@
+{
+  "name": "山鬼",
+  "original_name": "山鬼甘露甲 / 祖宗甲",
+  "type": "法宝",
+  "grade": "仙家重宝",
+  "status": "活跃",
+  "description": "世间八副“祖宗甲”中极少数有据可查的遗留，是兵家梦寐以求的防御神器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第724章 一斩再斩，唯我得意",
+      "owner": "袁首"
+    }
+  ],
+  "subtype": "防御/压胜类",
+  "holder": "正阳山 (旧藏)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古神灵",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为甘露甲的原始原型之一，蕴含完整的远古山川法则 。",
+  "supernatural_ability": "具备绝对的山岳压胜力，能反弹大部分物理与术法打击，与大地共鸣 。",
+  "evolution": {
+    "current_form": "带有浓郁古意的重型金色甲胄 。",
+    "materials_consumed": [
+      "远古神性",
+      "五色土精髓"
+    ],
+    "potential_evolution": "融合五岳社稷土后可成为镇压一洲的大阵核心 。"
+  },
+  "visual": {
+    "static": "甲片厚重，上刻有狰狞的山魅纹路，散发沉稳的金石气息 。",
+    "active": "披挂后人如山岳，周围虚空产生重力塌陷，防御无死角 。"
+  },
+  "provenance": {
+    "origin": "远古时代负责巡守名山大川的高位神灵之甲 。",
+    "karma_link": "是极少数留存至今、且能证明神道正统的“活化石” 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,47 @@
+{
+  "name": "五宝串",
+  "original_name": "五宝串",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是落魄山下宗庆典前夕，崔东山赠予小师妹郭竹酒的顶级法宝。材质极尽奢华，涵盖了金、木、水、 雷等多种神通属性 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第610章 左右教剑术",
+      "owner": "郭竹酒"
+    }
+  ],
+  "subtype": "综合类",
+  "holder": "郭竹酒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "被称为“天下法宝第一流”，包含多种顶级仙家材质 。",
+  "supernatural_ability": "由五种重宝组成：金精铜钱熔铸珠、山云之根、水运精华翡翠珠、雷击桃木芯以及炼化后的狮子虫 。",
+  "evolution": {
+    "current_form": "五彩绚烂的手串",
+    "materials_consumed": [
+      "金精铜钱",
+      "山云之根",
+      "水运精华翡翠",
+      "雷击桃木",
+      "狮子虫"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "宝光流转、五彩绚烂的手串 。",
+    "active": "佩戴时显现出五种截然不同的宝光，气象万千 。"
+  },
+  "provenance": {
+    "origin": "由崔东山提供并赠予，称其为“慷他人之慨”的产物 。",
+    "karma_link": "崔东山在剑气长城上赠予郭竹酒，用以彰显落魄山的底蕴并戏弄“老王八蛋” 。"
+  },
+  "enriched": true
+}

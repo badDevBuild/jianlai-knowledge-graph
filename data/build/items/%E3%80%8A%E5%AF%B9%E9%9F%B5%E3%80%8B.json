@@ -1,0 +1,44 @@
+{
+  "name": "《对韵》",
+  "original_name": "夜航船笠翁对韵 / 蒙学童谣",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这部典籍承载了陈平安对后辈的最高期许。它不仅仅是 文字的排列，更是在混乱的世道中建立内心秩序的规矩 所在 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1000章 阵容",
+      "owner": "李十郎(作者)"
+    }
+  ],
+  "subtype": "教化/修心类",
+  "holder": "裴钱 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李十郎 (李山)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为教化一洲人心的基础，随着读书声响彻，可转化为 稳固儒家规矩的文力 。",
+  "supernatural_ability": "辞藻优美，读之口齿生香，具备定神、安魂、甚至遮蔽 一定天机的功能 。",
+  "evolution": {
+    "current_form": "写满“云对雨，雪对风”等内容的简易册子或竹简 。",
+    "materials_consumed": [
+      "浩然文气",
+      "稚童愿力"
+    ],
+    "potential_evolution": "可演化为支撑“书声琅琅”大阵的核心经纬 。"
+  },
+  "visual": {
+    "static": "普普通通的纸本或竹简，字迹却有一股难以言喻的清灵 之气 。",
+    "active": "诵读时，文字仿佛在空气中跳跃，能引动四时异象的虚 影浮现 。"
+  },
+  "provenance": {
+    "origin": "源自夜航船条目城，城主李十郎的传世学问 。",
+    "karma_link": "陈平安以此教导裴钱，将其作为从“小黑炭”向“读书人” 转变的启蒙工具 。"
+  },
+  "enriched": true
+}

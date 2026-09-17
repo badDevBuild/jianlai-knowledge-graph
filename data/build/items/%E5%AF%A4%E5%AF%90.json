@@ -1,0 +1,46 @@
+{
+  "name": "寤寐",
+  "original_name": "飞剑“寤寐”",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“寤寐”是陈李最具代表性的本命物。作为剑气长城公认的“小隐官”，陈李凭借此剑在战场上极尽算计， 展现出远超同龄人的老道与杀力。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第682章 一线之上",
+      "owner": "陈李"
+    },
+    {
+      "chapter": "第912章 如此问剑",
+      "owner": "陈李"
+    },
+    {
+      "chapter": "第1112章 吾辈剑修当如何",
+      "owner": "陈李"
+    }
+  ],
+  "subtype": "攻伐类 / 幻象类",
+  "holder": "陈李",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "在避暑行宫秘档中被评为“乙上”品秩，具备在甲子内成就剑仙的高远潜力。",
+  "supernatural_ability": "拥有“如梦似幻”的神通，可配合佩剑“晦暝”制造出让对手分不清现实与梦境的战场环境。",
+  "evolution": {
+    "current_form": "袖珍且灵动异常的飞剑。",
+    "materials_consumed": [
+      "月魄精华",
+      "剑心磨砺"
+    ],
+    "potential_evolution": "在陈李跨过百岁关隘后，有望跻身“甲”等飞剑行列。"
+  },
+  "visual": {
+    "static": "剑身晶莹剔透，仿佛由梦境编织而成，若隐若现。",
+    "active": "祭出时轨迹多变，剑光如夜梦中的流星，让人防不胜防。"
+  },
+  "provenance": {
+    "origin": "由陈李于剑气长城本命孕育。",
+    "karma_link": "其名称取自“辗转反侧，寤寐思服”，象征着剑修对剑道的极致痴迷。"
+  },
+  "enriched": true
+}

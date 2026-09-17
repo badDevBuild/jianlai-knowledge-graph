@@ -1,0 +1,38 @@
+{
+  "name": "摇曳河水香",
+  "original_name": "阴沉茶香",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "**此香代表了北俱芦洲南方的独特地利** 。它让远道而来的修士在险恶的鬼蜮谷周边获得片刻的安宁 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第486章 不愧是老江湖",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "摇曳河茶摊 / 远游客",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "随着摇曳河水运的复苏，茶香可具备安魂定神之神效 。",
+  "supernatural_ability": "香气空灵且阴冷，能让修士在大暑时节瞬间静心，排除识海杂念 。",
+  "evolution": {
+    "current_form": "在河边简陋茶摊冲泡时升腾而起的袅袅烟气 。",
+    "materials_consumed": [
+      "阴沉木",
+      "摇曳河水精华"
+    ],
+    "potential_evolution": "可制成类似“三清香”的定神线香 。"
+  },
+  "visual": {
+    "static": "呈现淡淡的青色，在河风中经久不散 。",
+    "active": "闻之能见识海清明，身体四周产生微弱的凉意 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲骸骨滩摇曳河畔 。",
+    "karma_link": "陈平安在此地初遇北俱芦洲的粗犷风气，留下了深刻印象 。"
+  },
+  "enriched": true
+}

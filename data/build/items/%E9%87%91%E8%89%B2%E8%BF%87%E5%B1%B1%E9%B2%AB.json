@@ -1,0 +1,48 @@
+{
+  "name": "金色过山鲫",
+  "original_name": "灵气秤 / 金过山鲫",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这是山上门派公认的“灵气秤”，通过观察其迁徙与生长 ，可以精准判定一座道场的福缘深浅 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第180章 恍如神人",
+      "owner": "陈平安（送给李宝瓶大哥）"
+    },
+    {
+      "chapter": "第181章 不值得",
+      "owner": "李希圣"
+    }
+  ],
+  "subtype": "侦测/滋养类",
+  "holder": "李希圣 / 大山头仙家",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "万尾中才出一尾的灵物，是走江化龙的绝佳苗子 。",
+  "supernatural_ability": "对灵气极其敏感，可用于监测地脉兴衰；离水半月不死 ，且能受龙气浸染化而为龙 。",
+  "evolution": {
+    "current_form": "体长尺余，鱼鳞灿灿，呈现纯金色 。",
+    "materials_consumed": [
+      "大渎灵气",
+      "龙气浸染"
+    ],
+    "potential_evolution": "若能顺利走水过龙门，可进化为具备飞升境潜力的金龙 。"
+  },
+  "visual": {
+    "static": "通体金黄，鱼眼灵动，即便在陆地上爬行也生机勃勃 。",
+    "active": "游动时带起阵阵金色涟漪，久听梵音后更显宝相庄严 。"
+  },
+  "provenance": {
+    "origin": "产自大隋与黄庭国交界处的雄山峻岭，受山根水脉滋养 而生 。",
+    "karma_link": "陈平安曾捕获此鱼，后由李希圣引渡入大渎，开启化龙 因果 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "地镜篇",
+  "original_name": "陆氏堪舆秘典",
+  "type": "典籍",
+  "grade": "神通",
+  "status": "活跃",
+  "description": "地镜篇是阴阳家说地一脉的瑰宝，郑居中不惜亲自开口 借阅。它不仅是地理志，更是操控地利、应对天下大变 的战略工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1153章 借书",
+      "owner": "陆氏"
+    },
+    {
+      "chapter": "第1154章 签文",
+      "owner": "陆神"
+    },
+    {
+      "chapter": "第1158章 护道",
+      "owner": "陆神"
+    }
+  ],
+  "subtype": "传承/地理类",
+  "holder": "中土陆氏 (郑居中借阅)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陆神 (天边)",
+      "relation": "持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为阴阳家“说地”一脉的顶尖秘籍，具备演算一洲山河 变迁与地利权柄的能力。",
+  "supernatural_ability": "记载了山川地理的脉络玄机，能够辅助大修士进行“掌 观山河”的高级推演，精准定位矿脉与地脉枢纽 。",
+  "evolution": {
+    "current_form": "一本古色古香、文字生涩的阴阳家典籍。",
+    "materials_consumed": [
+      "万年地脉气运",
+      "圣贤感悟"
+    ],
+    "potential_evolution": "若能合一，可演化为掌控大地律令的“后土经”。"
+  },
+  "visual": {
+    "static": "书页泛黄但质地坚韧，文字隐约有地气盘绕。",
+    "active": "翻开后，书上的地理图样仿佛会自行流动，呈现出人间 山水的微观起伏。"
+  },
+  "provenance": {
+    "origin": "中土阴阳家陆氏的家学渊源。",
+    "karma_link": "涉及郑居中对浩然大势的重塑以及对陆氏的博弈。"
+  },
+  "enriched": true
+}

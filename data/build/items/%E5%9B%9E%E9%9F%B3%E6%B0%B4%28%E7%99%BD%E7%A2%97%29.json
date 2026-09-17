@@ -1,0 +1,48 @@
+{
+  "name": "回音水(白碗)",
+  "original_name": "白碗水 / 灵观水",
+  "type": "灵器",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这是**早期版本‘镜花水月’的实物载体**。它让底层的练气士即便无法 登顶名山，也能窥见山巅一角的风光，是极佳的消遣之物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第438章 人心似水低处去",
+      "owner": "刘志茂"
+    }
+  ],
+  "subtype": "探测/辅助类",
+  "holder": "陈灵均 (青衣小童)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "正阳山",
+      "relation": "原主"
+    },
+    {
+      "name": "魏檗",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "通过消耗更多神仙钱，可跨洲观摩更高位阶的修士生活或禁地景观 。",
+  "supernatural_ability": "碗内承载特定山头（如正阳山滚雷潭）的灵气之水。通过灌注灵气，可 遥遥观览千万里之外的门派奇景或修士起居 。",
+  "evolution": {
+    "current_form": "一只盛有少量清澈灵水的白瓷小碗 。",
+    "materials_consumed": [
+      "山水气运碎片",
+      "正阳山灵泉"
+    ],
+    "potential_evolution": "可作为‘镜花水月’跨洲通讯的中转枢纽。"
+  },
+  "visual": {
+    "static": "碗壁莹润，水面平静，映射出细微的文字提醒 。",
+    "active": "水面会泛起波纹，随后显化出清晰生动的远方画面 。"
+  },
+  "provenance": {
+    "origin": "出自正阳山等擅长经营‘镜花水月’的山头 。",
+    "karma_link": "见证了青衣小童早年对山上神仙生活的向往与‘挥金如土’的性格特征 。"
+  },
+  "enriched": true
+}

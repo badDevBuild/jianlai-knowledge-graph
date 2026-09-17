@@ -1,0 +1,48 @@
+{
+  "name": "木胎神像",
+  "original_name": "道家元君神像",
+  "type": "本命物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "陈平安的**五行本命物**之一（木）。 此神像由**大玄都观**祖宗桃木制成，具有极强的**辟邪与护魂**功效，是其修行道路上的重要支柱 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第583章 还不过来挨打",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御/滋养类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "龙宫洞天",
+      "relation": "原主"
+    },
+    {
+      "name": "仙府遗址道观",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为五行之木的本命物，随境界提升可演化为身内天地的守护神灵。",
+  "supernatural_ability": "底座篆刻“观照内在澄明，不受外魔迷障”，能驱散邪祟，稳固道心 。",
+  "evolution": {
+    "current_form": "手掌高度、雕刻精美的道家元君木像 。",
+    "materials_consumed": [
+      "大玄都观祖宗桃木",
+      "五彩金匮灶炼化"
+    ],
+    "potential_evolution": "在陈平安跻身仙人境后，定位于人身小天地的“木宅”气府 。"
+  },
+  "visual": {
+    "static": "身姿曼妙，衣褶如绸缎般自然，眉目祥和庄严 。",
+    "active": "散发柔和的青色光芒，在气府内如神灵坐镇，抵御心魔 。"
+  },
+  "provenance": {
+    "origin": "陈平安在龙宫洞天或仙府遗址中捡漏获得 。",
+    "karma_link": "由大玄都观老观主间接指引陈平安炼化 。"
+  },
+  "enriched": true
+}

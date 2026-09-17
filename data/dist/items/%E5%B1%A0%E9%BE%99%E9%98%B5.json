@@ -1,0 +1,40 @@
+{
+  "name": "屠龙阵",
+  "original_name": "骊珠洞天压胜大阵",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**屠龙阵**是《剑来》宏大背景的基石。它通过巧妙的地理规划，将最后一条真龙王朱困于井底万年， 是整座天下气运洗牌的精密仪器 。",
+  "aliases": [
+    "屠龙珠"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第314章 误入藕花深处",
+      "owner": "周仕"
+    }
+  ],
+  "subtype": "压胜/气运类",
+  "holder": "三教圣人",
+  "holder_relation": "寄托",
+  "rank": "仙兵",
+  "rank_potential": "作为集三教一家之力打造的终极阵法，其结构本身即代表了世间规矩的极致 。",
+  "supernatural_ability": "**绝对压胜**：针对真龙及其后裔产生毁灭性的压制，剥离气运并焚炼魂魄 。",
+  "evolution": {
+    "current_form": "以小镇建筑、河流、窑火构成的地理布局 。",
+    "materials_consumed": [
+      "真龙血肉",
+      "圣人气象"
+    ],
+    "potential_evolution": "阵法破碎后演化为大骊王朝的龙脉根基 。"
+  },
+  "visual": {
+    "static": "表现为骊珠洞天小镇的街道（如福禄街、桃叶巷）和河流 。",
+    "active": "窑火不熄如业火烹炼，铁锁深井禁锢生气，形成一张无形的因果巨网 。"
+  },
+  "provenance": {
+    "origin": "远古屠龙战役结束后，三教圣人与墨家巨子联手创设 。",
+    "karma_link": "旨在终结神道真龙时代，开启人族自治的序幕 。"
+  },
+  "enriched": true
+}

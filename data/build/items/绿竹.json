@@ -1,0 +1,44 @@
+{
+  "name": "绿竹",
+  "original_name": "奋勇竹",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "此竹具备“兵威已振，譬如破竹”的兵家真意。陈平安曾向魏檗讨要数竿，为裴钱制作竹刀竹剑，为其落 魄山之行留下了重要的物质基础。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第543章 眼中万少年",
+      "owner": "无主 (后山)"
+    }
+  ],
+  "subtype": "气运/滋养类",
+  "holder": "魏檗 (棋墩山/披云山)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "竹海洞天",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "源自竹海洞天十德仙竹之一的“奋勇竹”，生长数百年后可凝聚青木精华。",
+  "supernatural_ability": "竹叶叶尖能凝聚灵气水珠（竹叶滴水），饮之可轻身补气、滋养魂魄。",
+  "evolution": {
+    "current_form": "苍翠欲滴的修竹，竹质如石，韧性极佳。",
+    "materials_consumed": [
+      "山川灵气",
+      "青木精华"
+    ],
+    "potential_evolution": "陈平安在落魄山以其枝条搭建竹楼，成为武夫淬炼体魄的圣地。"
+  },
+  "visual": {
+    "static": "竿碧绿如玉，叶翠如凌雪，即便在酷暑中也自带清凉。",
+    "active": "微风拂过时，竹叶水珠如珍珠坠落，散发出沁人心脾的芬芳。"
+  },
+  "provenance": {
+    "origin": "最早的老祖宗从竹海洞天移植而来。",
+    "karma_link": "魏檗因非法采伐此竹制作山杖惹恼仙人被贬，后与陈平安结下深厚香火情。"
+  },
+  "enriched": true
+}

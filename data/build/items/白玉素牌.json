@@ -1,0 +1,47 @@
+{
+  "name": "白玉素牌",
+  "original_name": "灵芝斋玉牌",
+  "type": "方寸物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "它是陈平安拥有的两件咫尺物之一，比飞剑“十五”更宽广的空间载体 。见证了陈平安从书简湖到剑气长城的积累过程 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第571章 浩然天下陈平安来找人",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间/储存类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "灵芝斋",
+      "relation": "原主"
+    },
+    {
+      "name": "郑大风",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为“最小洞天”，其内空间可随着修士温养而保持稳固 。",
+  "supernatural_ability": "可隔绝天地气机，用来储藏各种珍稀法宝与灵药 。",
+  "evolution": {
+    "current_form": "无文字的素雅白玉牌 。",
+    "materials_consumed": [
+      "谷雨钱"
+    ],
+    "potential_evolution": "通过陈平安以飞剑刻字，可转化为具有特殊契约能力的信物 。"
+  },
+  "visual": {
+    "static": "方方正正，质地如绸缎般细腻，色泽莹润 。",
+    "active": "使用时灵光微闪，可瞬间取放庞大物件 。"
+  },
+  "provenance": {
+    "origin": "陈平安在倒悬山灵芝斋购得，或由郑大风作为还账赠送 。",
+    "karma_link": "是陈平安早年重要的家当之一，曾长期被“雪藏” 。"
+  },
+  "enriched": true
+}

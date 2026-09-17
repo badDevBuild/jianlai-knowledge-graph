@@ -1,0 +1,44 @@
+{
+  "name": "仿渠黄剑",
+  "original_name": "大仿渠黄",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "此剑虽非上古渠黄本尊，但由名家仿制，被视为“下一等真迹”。它见证了陈平安在书简湖期间的眼光与 机缘，是其收藏的名剑之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第470章 没见过半仙兵？",
+      "owner": "陈平安(赠予赵树下)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "池水城猿哭街古董铺老掌柜",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为中土大铸剑师以毕生心血仿制的“八骏名剑”之一，具有极高的收藏和实战价值 。",
+  "supernatural_ability": "剑身铭刻小篆“大仿渠黄”，其锋利程度足以承载极高强度的剑气灌注，具有斩龙剁蛟之势 。",
+  "evolution": {
+    "current_form": "青铜古剑，形制古拙 。",
+    "materials_consumed": [
+      "上古青铜精华",
+      "大铸剑师神意"
+    ],
+    "potential_evolution": "若能集齐八骏名剑，有望演化为镇压山河的重器 。"
+  },
+  "visual": {
+    "static": "剑身与剑鞘一高一低放置，透着浓厚的金石气和沧桑感 。",
+    "active": "拔剑时剑光清冽，虽为古铜质地，却有极强的杀伐气息 。"
+  },
+  "provenance": {
+    "origin": "中土大铸剑师致敬礼圣巡狩座驾“八骏”所铸 。",
+    "karma_link": "老掌柜在池水城苦守两百年，最终由陈平安购得 。"
+  },
+  "enriched": true
+}

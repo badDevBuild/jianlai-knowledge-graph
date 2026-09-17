@@ -1,0 +1,52 @@
+{
+  "name": "太平山玉牌",
+  "original_name": "山庙太平无事牌",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这是由**风雪庙和真武山**联合出品的紧急求援至宝 。它不仅是实用的自保工具，更是代表了顶级宗门在外的威严，非地仙境界圣人地界不能阻挡 。",
+  "aliases": [
+    "太平山祖师堂嫡传玉牌",
+    "太平山玉牌",
+    "祖师堂玉牌"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第353章 五千甲围山",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第354章 山上的腥风血雨",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助类 / 逃生",
+  "holder": "陈平安 (曾转交李宝瓶)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏晋",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为风雪庙与真武山特有物件，能够无视多数禁制传递讯息 。",
+  "supernatural_ability": "一旦遇到危险，持有者可灌注真气并言语，玉牌会**自行破空飞往山庙求救** 。",
+  "evolution": {
+    "current_form": "散发出羊脂莹润光彩的玉牌子 。",
+    "materials_consumed": [
+      "兵家秘制符文",
+      "地脉之气"
+    ],
+    "potential_evolution": "作为高级通关文牒使用 。"
+  },
+  "visual": {
+    "static": "温润如羊脂玉，手感细腻，刻有山庙特有的太平纹路 。",
+    "active": "飞掠途中，凡风雪庙修士皆可感应，并产生强大的心理震慑效果 。"
+  },
+  "provenance": {
+    "origin": "由风雪庙剑仙魏晋赠送给李宝瓶一行人 。",
+    "karma_link": "见证了陈平安在远游途中与顶级剑修的结缘与护道之旅 。"
+  },
+  "enriched": true
+}

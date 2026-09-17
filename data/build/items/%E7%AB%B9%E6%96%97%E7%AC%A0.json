@@ -1,0 +1,37 @@
+{
+  "name": "竹斗笠",
+  "original_name": "阿良的斗笠",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是剑气长城那位传奇剑客阿良的标志性物品 。它与那把竹刀一样，是阿良游戏人间、随性而行的真实写照，也是许多修士心中“猛人”的象征 [10-12]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第468章 御剑去往祖师堂",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "遮蔽类 / 身份类",
+  "holder": "阿良",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "虽然材质为竹木，但因常年沾染阿良的剑气与气运，已具备压胜寻常妖物的威能 。",
+  "supernatural_ability": "“遮风挡雨”。能一定程度上隔绝外界对持有者气息的感知，是走江湖的绝佳伪装 。",
+  "evolution": {
+    "current_form": "寻常的竹编斗笠，边缘可能略有破损 。",
+    "materials_consumed": [
+      "灵竹"
+    ],
+    "potential_evolution": "无。"
+  },
+  "visual": {
+    "static": "样式极其普通，甚至显得有些破旧，常被阿良戴在头上遮住半张脸 。",
+    "active": "在战斗中，斗笠随阿良的剑气震动，可弹开寻常的雨露或暗器 。"
+  },
+  "provenance": {
+    "origin": "阿良随手在山下市井或某一处渡口购得 。",
+    "karma_link": "它是阿良“斗笠汉子”形象的核心，象征着不拘小节、仗剑天涯的豪侠气概 。"
+  },
+  "enriched": true
+}

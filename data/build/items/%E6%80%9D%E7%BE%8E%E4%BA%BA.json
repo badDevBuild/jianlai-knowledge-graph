@@ -1,0 +1,44 @@
+{
+  "name": "思美人",
+  "original_name": "檀木梳子",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一件极富文雅气息的灵器。虽然品秩不高，但在落 魄山的特殊环境下，成了石柔修补自身道心缺憾的重要 物件 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第866章 山中何所有",
+      "owner": "石柔"
+    }
+  ],
+  "subtype": "饰品/辅助类",
+  "holder": "石柔",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "受女子灵气滋养后可孕育出通灵的“梳妆女官” 。",
+  "supernatural_ability": "能够梳理神魂乱序，宁心定神，对石柔这种身披遗蜕的 魂魄尤有稳固之效 。",
+  "evolution": {
+    "current_form": "刻有“思美人”三字铭文的精巧檀木梳子 。",
+    "materials_consumed": [
+      "千年檀木",
+      "女子闺阁之气"
+    ],
+    "potential_evolution": "可成为开启某种“云雨秘境”的引子 。"
+  },
+  "visual": {
+    "static": "色泽深红，包浆圆润，触手生香 。",
+    "active": "使用时会有淡淡的粉色光韵流转，散发出使人迷醉的草 木芬芳 。"
+  },
+  "provenance": {
+    "origin": "崔东山从某处遗迹搜集而来，作为小礼物送给石柔 。",
+    "karma_link": "体现了落魄山成员间细微的情感联系与护道之情 。"
+  },
+  "enriched": true
+}

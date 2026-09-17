@@ -1,0 +1,43 @@
+{
+  "name": "青花大罐",
+  "original_name": "大阵枢纽陶罐",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一件被陆沉高度评价的重宝，它是天地间最早用来确定容积的计量之物 。苗稼凭借此物与何洲的飞剑神通配合，在遗址内修行多年 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第407章 来者不善",
+      "owner": "大隋文庙"
+    }
+  ],
+  "subtype": "阵法枢纽类",
+  "holder": "苗稼",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "无名兵家修士",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为古代阵法的中枢，其内部蕴含的灵力可随着阵法的修缮而恢复 。",
+  "supernatural_ability": "能够驾驭秘境内的天地灵气，并作为度量衡的基准 。",
+  "evolution": {
+    "current_form": "质地粗糙的古老青花陶罐 。",
+    "materials_consumed": [
+      "兵家英灵之气"
+    ],
+    "potential_evolution": "陆沉猜测其可能是某位兵家修士的骨灰坛，具有通灵之妙 。"
+  },
+  "visual": {
+    "static": "外观极其简陋粗糙，容量约为一升 。",
+    "active": "能够牵引四周灵气汇聚，显化出阵法防御层 。"
+  },
+  "provenance": {
+    "origin": "得自某处远古仙府遗址 。",
+    "karma_link": "由落难修士苗稼在秘境中获得，并凭此掌握了主持大阵的权柄 。"
+  },
+  "enriched": true
+}

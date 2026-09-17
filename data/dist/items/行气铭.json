@@ -1,0 +1,48 @@
+{
+  "name": "行气铭",
+  "original_name": "三十六字古篆道诀",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "行气铭并非独立器物，而是镌刻在青竹杖上的无上道诀 。其中的“天几舂在上，地几舂在下”等语句，是数座天下至今未有定论的终极难题，象征着极高的 修行高度 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第780章 可规可矩谓之国士",
+      "owner": "崔东山"
+    },
+    {
+      "chapter": "第968章 抢徒弟",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "修持类",
+  "holder": "崔东山",
+  "holder_relation": "掌握",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为阐述“天几舂、地几舂”奥秘的古老道诀，是解析大道演化分支的关键 。",
+  "supernatural_ability": "包含极其古老的行气法门，能帮助修士勘破天关与地轴，调理人身阴阳 。",
+  "evolution": {
+    "current_form": "刻于青竹杖首青玉之上的三十六个古篆文字 。",
+    "materials_consumed": [
+      "远古神性",
+      "大道至理"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "青玉共有十二面，如一枚满月法印，上边密布细微的古篆文 。",
+    "active": "研读时文字会散发出淡淡的青光，指引气机运转 。"
+  },
+  "provenance": {
+    "origin": "远古时代辈分极高的古老道诀 。",
+    "karma_link": "吴霜降将其作为青竹杖的一部分赠予落魄山一脉，是对崔东山才智的认可 。"
+  },
+  "enriched": true
+}

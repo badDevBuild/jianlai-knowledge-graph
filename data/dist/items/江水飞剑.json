@@ -1,0 +1,44 @@
+{
+  "name": "江水飞剑",
+  "original_name": "曹曦本命飞剑",
+  "type": "本命飞剑",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这把飞剑是剑仙曹曦的本命至宝，其独到之处在于将自然界的江河伟力压缩为飞剑，杀力极大 。",
+  "aliases": [
+    "江水飞剑",
+    "碧绿细绳飞剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第199章 黄雀去又返",
+      "owner": "曹曦"
+    },
+    {
+      "chapter": "第243章 千军万马之前，我喝一口酒",
+      "owner": "曹曦"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "曹曦",
+  "holder_relation": "大炼",
+  "rank": "半仙兵",
+  "rank_potential": "由整条江水炼化而成，其杀力随持有者跻身上五境而具备开江断流之威 。",
+  "supernatural_ability": "由一整条大江之水炼化而来，蕴含磅礴的水属性灵气与剑意 。",
+  "evolution": {
+    "current_form": "系于手腕的飞剑 。",
+    "materials_consumed": [
+      "整条大江之水"
+    ],
+    "potential_evolution": "随剑修合道更进一步"
+  },
+  "visual": {
+    "static": "通常以细微形态系于剑仙手腕 。",
+    "active": "祭出时具有大江横流、水运滔天的宏大异象 。"
+  },
+  "provenance": {
+    "origin": "南婆娑洲剑仙曹曦在修行途中通过某种大机缘，将一条大江之水悉数炼化为本命物 。",
+    "karma_link": "是曹曦傲视宝瓶洲、跻身山巅剑仙的关键依仗 。"
+  },
+  "enriched": true
+}

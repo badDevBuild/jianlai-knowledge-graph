@@ -1,0 +1,38 @@
+{
+  "name": "天地回声符",
+  "original_name": "子母回音符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "虽然品阶不高，却是**计谋与兵法结合**的典型符箓，能产生意想不到 的迷惑效果 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第271章 宁姑娘，对不起",
+      "owner": "小道童"
+    }
+  ],
+  "subtype": "辅助/传讯类",
+  "holder": "陈平安 / 吕云岱",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "可记录并回放特定时空的声响气机，是大规模传讯的基础 。",
+  "supernatural_ability": "能在一定范围内记录声音并反复播发，常用于战场指挥或心理博弈 。",
+  "evolution": {
+    "current_form": "成对出现的黄纸符箓 。",
+    "materials_consumed": [
+      "云根纸",
+      "听妖灵气"
+    ],
+    "potential_evolution": "可进阶为跨越洲际的传音大符。"
+  },
+  "visual": {
+    "static": "符面绘有耳廓状纹路，成双成对出现 。",
+    "active": "激发时符纸振动，产生与原主一模一样的声音异象，干扰敌方判断 。"
+  },
+  "provenance": {
+    "origin": "市井散修及仙家门派通用的基础传讯手段 。",
+    "karma_link": "陈平安曾在朦胧山以此符配合剑光破阵，将敌手玩弄于股掌 。"
+  },
+  "enriched": true
+}

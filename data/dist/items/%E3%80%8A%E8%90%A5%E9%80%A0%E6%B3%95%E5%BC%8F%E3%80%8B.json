@@ -1,0 +1,48 @@
+{
+  "name": "《营造法式》",
+  "original_name": "南苑国工部库藏范书",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安带回送给朱敛的礼物，用于落魄山及下宗霁色峰祖师堂的营建 。书中记载了极其精妙的建筑法度和道场布局 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第569章 山主又要远游",
+      "owner": "朱敛"
+    }
+  ],
+  "subtype": "建筑/术法类",
+  "holder": "朱敛",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "南苑国皇室",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "书中十之二三的营造法规由朱敛前世编撰，蕴含某种规则之力 。",
+  "supernatural_ability": "指导兴建府邸、祖师堂等建筑，能让山水格局完美契合 。",
+  "evolution": {
+    "current_form": "一本厚重的专业建筑工程书籍 。",
+    "materials_consumed": [
+      "纸张",
+      "朱批"
+    ],
+    "potential_evolution": "以此书为指导，落魄山的每处宅子都各具仙家气象 。"
+  },
+  "visual": {
+    "static": "普通书籍样式，书页详尽记载了藻井、斗拱等规制 。",
+    "active": "按其法式建造时，可显化出山水格局的和谐意象 。"
+  },
+  "provenance": {
+    "origin": "陈平安从藕花福地南苑国京城工部带回 。",
+    "karma_link": "朱敛是书中部分内容的原创者，与此书有宿缘 。"
+  },
+  "enriched": true
+}

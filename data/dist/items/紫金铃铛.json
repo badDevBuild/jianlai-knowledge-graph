@@ -1,0 +1,43 @@
+{
+  "name": "紫金铃铛",
+  "original_name": "金色铃铛",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "金阙仙府嫡传仙师金缕的随身法宝。在对阵本土妖族时，通过摇晃铃铛，可瞬间破除大规模的纸符幻境，展现出正 宗道门的压胜威能。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第8章 稗草",
+      "owner": "宋集薪"
+    }
+  ],
+  "subtype": "攻伐/禁锢类",
+  "holder": "金缕",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "金阙仙府",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为金阙仙府嫡传信物，具有极强的压胜邪祟能力。",
+  "supernatural_ability": "震碎邪祟、显化金光。可瞬间击碎妖物的障眼法或法阵。",
+  "evolution": {
+    "current_form": "一串金色铃铛",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "悬挂于腰间的一串紫金（金色）铃铛。",
+    "active": "摇晃时绽放出璀璨金光，金光如流萤般旋转，带起经久不散的金色轨迹。"
+  },
+  "provenance": {
+    "origin": "来自金阙仙府道门传承。",
+    "karma_link": "与金阙派仙师的身份及战功挂钩。"
+  },
+  "enriched": true
+}

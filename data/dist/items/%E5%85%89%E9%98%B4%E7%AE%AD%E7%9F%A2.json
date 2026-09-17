@@ -1,0 +1,48 @@
+{
+  "name": "光阴箭矢",
+  "original_name": "光阴箭 / 墨家箭矢",
+  "type": "材料",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是由蛮荒天下墨家匠人与符师联手打造的**战略级消耗品**。 它在战场上是妖族修士的**噩梦**，每一箭都代表着对**时间法则**的野蛮切割。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第943章 推陈出新",
+      "owner": "黄粱派(娄山)"
+    }
+  ],
+  "subtype": "攻伐类 / 消耗类",
+  "holder": "黄粱派",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云纹王朝玉版城",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为蕴含**光阴真意**的重器，其飞行速度可无视常规空间防御。",
+  "supernatural_ability": "**“追踪破防”**。箭矢一旦射出，如**大野龙蛇**般游走，能撞碎各类**小天地屏障**。",
+  "evolution": {
+    "current_form": "一枝刻有**“光阴”**二字、缠绕有云纹符箓的特制箭矢。",
+    "materials_consumed": [
+      "光阴流水精粹",
+      "墨家机关术"
+    ],
+    "potential_evolution": "配合特定的**破山弓**，可发挥出毁山平海的威力。"
+  },
+  "visual": {
+    "static": "外表篆刻有繁复的云纹，透出一股**岁月流逝**的肃杀感。",
+    "active": "激射时化作一条**纤细黑线**，所过之处琉璃崩碎，产生**光阴涟漪**。"
+  },
+  "provenance": {
+    "origin": "来自蛮荒天下**云纹王朝玉版城**。",
+    "karma_link": "陈平安在大闹玉版城时将其作为**贺礼**收回，后转赠娄山祖师堂。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,51 @@
+{
+  "name": "蠃鱼",
+  "original_name": "金色蠃鱼 / 梦魇克星",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "蠃鱼是极其罕见的山上灵物，因其对“梦魇”的压胜作用，成为许多深陷瓶颈的地仙修士梦寐以求的药引 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第493章 千山万水，明月一轮",
+      "owner": "无"
+    },
+    {
+      "chapter": "第1056章 酒力不支吾",
+      "owner": "崇玄署 (目前)"
+    }
+  ],
+  "subtype": "补益类 / 滋养类",
+  "holder": "崇玄署 (目前豢养于水池)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "老鼋 (黑河大王)",
+      "relation": "原主 (豢养八百年)"
+    },
+    {
+      "name": "覆海元君 (小鼋)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "成对出现，价值极高（约2颗谷雨钱），是炼制高阶水属灵宝的绝佳媒介 。",
+  "supernatural_ability": "“驱逐梦魇”。食用或长期佩戴其灵性部分，可使修士不受世间任何梦幻、心魔与恶梦纠缠 。",
+  "evolution": {
+    "current_form": "金鳞、有翼、音如鸳鸯的游鱼 。",
+    "materials_consumed": [
+      "铜绿湖水运"
+    ],
+    "potential_evolution": "若得造化，可演化为具有飞行与破幻神通的水中仙禽 。"
+  },
+  "visual": {
+    "static": "体型约巴掌大小，鱼身覆盖着灿烂的金鳞，背生双翼 。",
+    "active": "游动时伴有如鸳鸯般的鸣叫声，周身散发出驱散迷雾的金光 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲铜绿湖 。",
+    "karma_link": "曾是老鼋为女儿准备的嫁妆，后卷入陈平安与杨凝性的鬼蜮谷之行，最终流转至崇玄署 [12-14]。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "竹刀竹剑",
+  "original_name": "绿竹兵刃",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是落魄山一脉独有的情感纽带。虽然起初只是木头削制的玩具，但在陈平安和裴钱手中，它们成了不 逊于名剑的强大意志载体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第389章 夫子气魄",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第402章 在书院",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第458章 入山登楼见故人",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "攻伐类 / 辅助类",
+  "holder": "裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "取材于落魄山奋勇竹，蕴含“迎刃而解”的兵家谶语，随裴钱武道境界提升而自生灵性 。",
+  "supernatural_ability": "**“心意契合”**。能随着裴钱的“疯魔剑法”运转而不毁，具有一定的压胜精怪效果，辅助持有者进入战 斗状态 。",
+  "evolution": {
+    "current_form": "一刀一剑，背负在裴钱身后，材质苍翠如玉 。",
+    "materials_consumed": [
+      "青神山绿竹子嗣 (奋勇竹)",
+      "陈平安手工雕琢"
+    ],
+    "potential_evolution": "随裴钱跻身止境，有望化为可承载磅礴拳意的本命兵刃 。"
+  },
+  "visual": {
+    "static": "通体翠绿，竹节分明，无明显金属光泽，古朴自然 。",
+    "active": "挥动时带有草木清香，能在大地激起层层涟漪，剑气隐约可见 。"
+  },
+  "provenance": {
+    "origin": "由陈平安亲手劈砍绿竹并雕琢而成 。",
+    "karma_link": "是裴钱早期“行走江湖”的标志性装备，见证了她从小黑炭到大宗师的成长轨迹 。"
+  },
+  "enriched": true
+}

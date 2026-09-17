@@ -1,0 +1,48 @@
+{
+  "name": "血色长剑",
+  "original_name": "猩红长剑",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**血色长剑是彩衣国事件中极具威慑力的邪道法宝**。其原主为城隍庙中作祟的白衣女鬼，此剑杀力极 大，能够配合鬼气施展邪异剑法，曾在城隍阁一战中带给陈平安不小的麻烦 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第228章 初一十五，随我除魔",
+      "owner": "白衣女子"
+    },
+    {
+      "chapter": "第230章 下 黑云压城",
+      "owner": "黄老"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "琉璃仙翁",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "枯骨艳鬼（白衣女子）",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "通过斩杀生灵并汲取鲜血精气，可不断增强剑身煞气与杀力 。",
+  "supernatural_ability": "剑身具有独特的饮血加持能力，穿透敌人心脏时，剑身会有红光流淌，汲取心血和灵气以温养品相 。",
+  "evolution": {
+    "current_form": "猩红长剑 。",
+    "materials_consumed": [
+      "修士心血",
+      "生灵精气"
+    ],
+    "potential_evolution": "可演化为具有更强煞气的魔道神兵。"
+  },
+  "visual": {
+    "static": "剑身呈现出如鲜血般的猩红色，透着浓郁的杀机 。",
+    "active": "出鞘时寒光盈室，剑光如胭脂流溢，伴随浓郁的肃杀之气 。"
+  },
+  "provenance": {
+    "origin": "彩衣国胭脂郡城隍庙事件中，由枯骨艳鬼持有的邪道重器 。",
+    "karma_link": "在胭脂郡大战后被琉璃仙翁收入囊中 。"
+  },
+  "enriched": true
+}

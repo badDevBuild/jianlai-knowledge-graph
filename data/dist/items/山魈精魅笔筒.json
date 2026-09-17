@@ -1,0 +1,58 @@
+{
+  "name": "山魈精魅笔筒",
+  "original_name": "山魈底款养心壶",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此物虽在民间仅值薄银，但在山上却是极其珍稀的‘养心壶’ , 。壶底‘山魈’款识揭示了其作为方寸物的特殊身份，能够通过其 内藏乾坤滋养修士的道心与神魂 。其价值极高，甚至被认为足以在世俗中换取一座城池 。",
+  "aliases": [
+    "山魈精魅笔筒",
+    "山魈壶"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第11章 少女和飞剑",
+      "owner": "苻南华（交易所得）"
+    },
+    {
+      "chapter": "第17章 不平则鸣",
+      "owner": "宋集薪 -> 苻南华"
+    },
+    {
+      "chapter": "第225章 夜路",
+      "owner": "苻南华"
+    }
+  ],
+  "subtype": "方寸物/滋养类",
+  "holder": "宋集薪",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "苻南华",
+      "relation": "曾持有"
+    },
+    {
+      "name": "宋集薪",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "可随持有者境界提升而更好地润泽气府 。",
+  "supernatural_ability": "滋养道心，润泽气府，内藏方寸天地可储存物件 。",
+  "evolution": {
+    "current_form": "小壶",
+    "materials_consumed": [
+      "天地灵气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "一只外形不起眼的小壶，壶底刻有‘山魈’二字 , 。",
+    "active": "灵光隐约，在转动时会产生温养神魂的微弱波动 。"
+  },
+  "provenance": {
+    "origin": "宋集薪在骊珠洞天泥瓶巷时期的私人珍藏 , 。",
+    "karma_link": "曾被宋集薪卖予苻南华换取机缘，后在老龙城被其设法收回 , 。"
+  },
+  "enriched": true
+}

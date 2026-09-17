@@ -1,0 +1,37 @@
+{
+  "name": "花灯",
+  "original_name": "本命飞剑“花灯”",
+  "type": "本命飞剑",
+  "grade": "本命飞剑",
+  "status": "活跃",
+  "description": "与“杏花天”配套的飞剑。它在防御和辅助侦测方面表现卓越，是纳兰玉牒护身的关键 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第756章 剑修如云",
+      "owner": "纳兰玉牒"
+    }
+  ],
+  "subtype": "攻守兼备",
+  "holder": "纳兰玉牒",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "随主人的财运与文运增长，可演变为定鼎山河的重器 。",
+  "supernatural_ability": "剑光可化为千百盏浮空花灯，具备照明虚妄和锁定气机之效 。",
+  "evolution": {
+    "current_form": "纳兰玉牒拥有的两把飞剑之一 。",
+    "materials_consumed": [
+      "月魄精元"
+    ],
+    "potential_evolution": "有望成为掌控“不夜城”禁制的核心 。"
+  },
+  "visual": {
+    "static": "色彩明艳，形似精致的小宫灯 。",
+    "active": "祭出后百灯齐明，剑气交织如网，照亮整片战场 。"
+  },
+  "provenance": {
+    "origin": "纳兰玉牒天赋异禀的产物 。",
+    "karma_link": "与其主人的“小财迷”性格呼应，具备聚财之气 。"
+  },
+  "enriched": true
+}

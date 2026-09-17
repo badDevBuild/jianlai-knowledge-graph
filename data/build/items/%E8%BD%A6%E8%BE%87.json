@@ -1,0 +1,44 @@
+{
+  "name": "车辇",
+  "original_name": "凤辇 / 帝辇",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这是蛮荒天下权贵和高阶修士身份的象征，不仅是跨越山河的代步工具，更是防御森严的移动府邸 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第491章 出拳与剑",
+      "owner": "范云萝"
+    }
+  ],
+  "subtype": "运输类 / 空间类",
+  "holder": "蛮荒天下女修",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大妖官巷后裔",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "由蛮荒大宗门打造，其材质涉及月魄与日精，具备演化为顶级飞行法宝的潜力 。",
+  "supernatural_ability": "能够无视常规禁制在云海中穿行；车帘具有极强的防御力，能抵御甚至吸收高位阶的雷法攻击 。",
+  "evolution": {
+    "current_form": "由数只白鹤、青鸾牵引的宏大车辇 。",
+    "materials_consumed": [
+      "月魄",
+      "日精"
+    ],
+    "potential_evolution": "若能获得真正的神鸟牵引，可跨越天下屏障 。"
+  },
+  "visual": {
+    "static": "形制极其豪奢，前垂一挂刻有“郁罗萧台、玉京丹阙”图案的车帘 。",
+    "active": "行驶时宝光流转，车轮散发出日月交辉的异象，即便在城头战场也显得雍容华贵 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下大宗门秘制，常为高位大妖后裔出行所用 。",
+    "karma_link": "曾搭载一群蛮荒女修前往剑气长城，只为远观年轻隐官陈平安 。"
+  },
+  "enriched": true
+}

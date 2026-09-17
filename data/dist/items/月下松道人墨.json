@@ -1,0 +1,48 @@
+{
+  "name": "月下松道人墨",
+  "original_name": "黑松使者墨",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "一件深受儒家弟子喜爱的文房雅玩。它不仅仅是墨，更是一种文运的具象化，极其稀罕 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第751章 十一境的拳",
+      "owner": "戴塬 -> 陈平安 -> 杨朴"
+    }
+  ],
+  "subtype": "文房/精灵类",
+  "holder": "杨朴",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "戴塬",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若由龙宾长久驻足，墨锭内蕴含的文气可助读书人出口成章 。",
+  "supernatural_ability": "每逢明月夜，墨锭上会出现一位自称“黑松使者”的小道人绕行 。",
+  "evolution": {
+    "current_form": "古色古香的精致墨锭 。",
+    "materials_consumed": [
+      "千年古松精华",
+      "月魄"
+    ],
+    "potential_evolution": "可孕育出真正的“墨精”神灵 。"
+  },
+  "visual": {
+    "static": "漆黑如玉，表面刻有精细的云纹和松树图案 。",
+    "active": "月光下，一粒小道人虚影在墨上似蝇而行，颇具灵气 。"
+  },
+  "provenance": {
+    "origin": "中土大王朝宫中旧物，赐予翰林院官员 。",
+    "karma_link": "由戴塬作为赔罪礼送给陈平安，陈平安转赠给杨朴用于修学 。"
+  },
+  "enriched": true
+}

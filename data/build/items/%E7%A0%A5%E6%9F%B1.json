@@ -1,0 +1,44 @@
+{
+  "name": "砥柱",
+  "original_name": "白玉京十二剑之一",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "大骊仿白玉京十二剑中最为精致小巧的一把，常年供奉在白玉京第三层。其“绣花针”的形态下隐藏着惊 人的密度与杀伤力。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第113章 气势如虹",
+      "owner": "大骊王朝"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "宋集薪",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊宋氏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为大骊仿白玉京的核心组件，其潜力与整座大阵的完整度挂钩。",
+  "supernatural_ability": "具体神通未完全展露，但作为“砥柱”之名，具备极强的稳定性与中流砥柱般的镇压杀力。",
+  "evolution": {
+    "current_form": "绣花针大小的袖珍飞剑",
+    "materials_consumed": [
+      "未知仙家矿石",
+      "大骊龙气温养"
+    ],
+    "potential_evolution": "阵法枢纽级重剑"
+  },
+  "visual": {
+    "static": "极小的飞剑，形若绣花针，配有灰白色剑鞘，镌刻“砥柱”二字。",
+    "active": "于白玉京三楼中化作流光，剑气沉稳，不可撼动。"
+  },
+  "provenance": {
+    "origin": "大骊王朝秘密炼制的十二柄配套重器飞剑之一。",
+    "karma_link": "见证了大骊崛起与对抗外敌的宿命，后在大战中随白玉京失势而一度气象受损。"
+  },
+  "enriched": true
+}

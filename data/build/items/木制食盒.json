@@ -1,0 +1,38 @@
+{
+  "name": "木制食盒",
+  "original_name": "豫章郡老木食盒",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不仅是一个装糕点的盒子，更是陈平安在大骊京城展 开**“问心局”**的定场道具，象征着泥瓶巷孤儿对皇权 的平等对峙 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第878章 十四两银子",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "道具/象征类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "作为大骊国师行使权力的象征物，承载了一段特殊的政 治因果 。",
+  "supernatural_ability": "无。但在陈平安与大骊太后的博弈中，其内藏的“灯火” 揭露了太后的真实根脚 , 。",
+  "evolution": {
+    "current_form": "由大骊洪州豫章郡名贵木材打造的普通食盒 。",
+    "materials_consumed": [
+      "豫章巨木",
+      "文房匠艺"
+    ],
+    "potential_evolution": "作为历史物证，可入藏落魄山文库 。"
+  },
+  "visual": {
+    "static": "形制庄重，木纹细腻，带有豫章郡特有的沉稳质感 。",
+    "active": "盖子揭开后，内里放置的挑灯符可映照出人心的黑白分 明 。"
+  },
+  "provenance": {
+    "origin": "陈平安在大骊京城为了约见太后特意置办 。",
+    "karma_link": "连接着陈平安对家乡恩怨的最终清算 。"
+  },
+  "enriched": true
+}

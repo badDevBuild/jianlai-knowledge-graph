@@ -1,0 +1,43 @@
+{
+  "name": "白玉咫尺物",
+  "original_name": "无字玉牌",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件品相极高的空间法宝，由郑大风相赠。其价值远胜一般的方寸物，即便是元婴境地仙也会视若 珍宝。陈平安一直将其作为随身的移动宝库，雪藏了许多落魄山的重大家底。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第673章 针线活",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间类 / 压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "郑大风",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为地仙亦会垂涎的重宝，具备极高的空间稳定性，可进一步刻画阵法进行加固。",
+  "supernatural_ability": "内部自成小天地，拥有巨大的储物空间。材质细腻如绸，能够隔绝外界对内部物品的天机感应。",
+  "evolution": {
+    "current_form": "方正素雅、毫无雕饰的白玉牌。",
+    "materials_consumed": [
+      "灵秀精气"
+    ],
+    "potential_evolution": "陈平安曾尝试在其上刻印，有望将其炼化为具备镇压功能的本命物。"
+  },
+  "visual": {
+    "static": "质地细腻通透的白玉牌，表面平滑无字，手感温润如玉。",
+    "active": "开启时会产生细微的空间涟漪，能够瞬间收取或取出大量体积巨大的重物。"
+  },
+  "provenance": {
+    "origin": "老龙城郑大风珍藏之物。",
+    "karma_link": "郑大风为了结清在灰尘药铺的笔墨钱与人情，将此物赠予陈平安。"
+  },
+  "enriched": true
+}

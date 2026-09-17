@@ -1,0 +1,44 @@
+{
+  "name": "神霄",
+  "original_name": "玉枢神霄",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "白玉京重要的武力和雷法枢纽。神霄城对剑气长城剑修 极佳，破格传授多种绝世剑法 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第760章 不对",
+      "owner": "裴旻"
+    }
+  ],
+  "subtype": "宗门/禁地类",
+  "holder": "白玉京 / 豪素 (暂居)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "道家圣人 (上任城主)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为白玉京五城之一，其雷法与剑道底蕴冠绝青冥天下 。",
+  "supernatural_ability": "城内桃林千里，盛产桃浆仙酿，掌握多种上乘雷法与飞 剑秘传 。",
+  "evolution": {
+    "current_form": "白玉京高耸入云的一座仙城 。",
+    "materials_consumed": [
+      "太虚道气",
+      "雷池精华"
+    ],
+    "potential_evolution": "可作为合道十四境甚至更高的神道/天道载体。"
+  },
+  "visual": {
+    "static": "云海环绕，桃花灼灼，城内建筑古朴威严，剑气雷鸣声 不绝于耳 。",
+    "active": "大阵开启时，雷光交织如网，整座城池如一团悬在天幕 的雷池 。"
+  },
+  "provenance": {
+    "origin": "白玉京核心道脉体系 。",
+    "karma_link": "剑气长城剑修（如董画符）在此修行，刑官豪素亦在此 闭关 。"
+  },
+  "enriched": true
+}

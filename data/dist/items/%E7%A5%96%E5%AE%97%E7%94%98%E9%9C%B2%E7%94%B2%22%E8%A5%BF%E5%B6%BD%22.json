@@ -1,0 +1,48 @@
+{
+  "name": "祖宗甘露甲\"西嶽\"",
+  "original_name": "神人承露甲“西嶽”",
+  "type": "重器",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "“西嶽”是兵家甲丸的始祖级存在。它虽不复巅峰时期的神性，但在魏羡这位纯粹武夫手中，依然展现出 了令地仙剑修都感到头疼的强横防御力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第464章 出拳并无区别",
+      "owner": "魏羡(暂借)"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "魏羡 (陈平安出借)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "灵芝斋",
+      "relation": "曾持有"
+    },
+    {
+      "name": "陈平安",
+      "relation": "购买自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "虽因年代久远禁制受损，但作为八副祖宗甲之一，恢复其远古神威后威力巨大 。",
+  "supernatural_ability": "**“金石屏障”**。披挂后如西岳压顶，身形稳固，能抵御寻常地仙的数次全力轰砸 。",
+  "evolution": {
+    "current_form": "表面破旧、布满划痕的黑色甲丸 。",
+    "materials_consumed": [
+      "远古神灵金身",
+      "西岳五色土"
+    ],
+    "potential_evolution": "若能重铸神性，可恢复为神灵巡狩时的辉煌形态 。"
+  },
+  "visual": {
+    "static": "一颗拳头大小的古朴丹丸，触手沉重且冰冷 。",
+    "active": "瞬间延展为覆盖全身的厚重甲胄，甲片上隐有山岳纹路浮现 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代铸造者仿照披甲者神甲而制的原始版本 。",
+    "karma_link": "陈平安在倒悬山灵芝斋低价捡漏所得，后成为魏羡的标志性装备 。"
+  },
+  "enriched": true
+}

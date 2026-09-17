@@ -1,0 +1,44 @@
+{
+  "name": "翻墨渡船",
+  "original_name": "龙舟翻墨",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“翻墨”是落魄山名下的第一艘龙舟渡船。它见证了落魄山从一个偏僻山头成长为宗字头仙府的过程，主 要负责经营宝瓶洲与周边地区的商贸路线 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第687章 落魄山上有剑仙",
+      "owner": "落魄山"
+    }
+  ],
+  "subtype": "渡船类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊王朝",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "落魄山早期的支柱性产业，承载着宗门在宝瓶洲与桐叶洲间的商贸物流气运 。",
+  "supernatural_ability": "龙舟制式，御风稳健，擅长承载大量仙家货物及乘客，是落魄山的重要财源 。",
+  "evolution": {
+    "current_form": "体型巨大的龙舟样式跨洲楼船 。",
+    "materials_consumed": [
+      "山水灵气",
+      "大骊工部秘法"
+    ],
+    "potential_evolution": "作为落魄山商贸航线的核心，未来可能融合更多空间法阵进行升级 。"
+  },
+  "visual": {
+    "static": "一艘雕梁画栋、带有典型龙舟特征的高耸楼船，常年漂浮于云海或停靠在牛角渡 。",
+    "active": "飞行时旗帜猎猎，阵法光晕笼罩船身，即便在恶劣气候下也能平稳穿行 。"
+  },
+  "provenance": {
+    "origin": "大骊龙泉郡 。",
+    "karma_link": "由大骊王朝拨给落魄山，在陈平安担任山主期间成为宗门往返各洲的主要交通工具 。"
+  },
+  "enriched": true
+}

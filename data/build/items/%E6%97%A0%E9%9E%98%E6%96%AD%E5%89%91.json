@@ -1,0 +1,48 @@
+{
+  "name": "无鞘断剑",
+  "original_name": "仙剑“太白”残片 / 夜游",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "它是陈平安在剑道一途最重要的外物。这把剑不仅代表了白也的剑道传承，更承载了剑气长城与浩然天 下的气运联结。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第614章 为何话多",
+      "owner": "离真"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "白也",
+      "relation": "赠予者"
+    },
+    {
+      "name": "孙怀中",
+      "relation": "借予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为四大仙剑之一“太白”杀力最强的剑尖部分，具备破碎空间、斩断因果的极致杀力。",
+  "supernatural_ability": "剑光极其锋锐，可一剑破万法；由于是仙剑残片，对妖族和高位神灵具有天然的压制作用。",
+  "evolution": {
+    "current_form": "以龙君灰袍作为剑鞘，炼化为适合陈平安持有的长剑“夜游”。",
+    "materials_consumed": [
+      "龙君灰袍",
+      "剑气长城剑意"
+    ],
+    "potential_evolution": "若能与其他三段太白残片重聚，可重现天下第一仙剑风采。"
+  },
+  "visual": {
+    "static": "起初是一截锈迹斑斑、无鞘的断剑残片，后来被陈平安打造成长剑形态。",
+    "active": "剑光雪亮如秋泓，出鞘时伴随大雾云烟，其光亮可照彻人间夜幕。"
+  },
+  "provenance": {
+    "origin": "四大仙剑之一的“太白”，在扶摇洲一役中一分为四。",
+    "karma_link": "其中杀力最大的一截剑尖选中了陈平安，成为其立身之本。"
+  },
+  "enriched": true
+}

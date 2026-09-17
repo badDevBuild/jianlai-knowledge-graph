@@ -1,0 +1,52 @@
+{
+  "name": "酒泉杯",
+  "original_name": "酒泉",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "酒泉杯是剑气长城顶级剑仙的身份象征。它代表了剑修“唯有饮者留其名”的狂放性格，也是长年守城生 涯中不可或缺的宽慰之物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第808章 心声",
+      "owner": "张夫子"
+    },
+    {
+      "chapter": "第1034章 雨过天晴",
+      "owner": "白登"
+    },
+    {
+      "chapter": "第1125章 二十人与候补们（七）",
+      "owner": "孙巨源（文中提及）"
+    }
+  ],
+  "subtype": "容器类 / 辅助类",
+  "holder": "孙巨源、晏溟、齐廷济",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "剑气长城历代大剑仙",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为天下酒徒梦寐以求的至宝，具备温养神魂与剑意的独特功效 。",
+  "supernatural_ability": "只要不惜代价痛饮，杯中酒水便喝之不尽、饮之不竭，犹如一口随身的微型酒窖 。",
+  "evolution": {
+    "current_form": "一只看似平常却价值连城的酒杯 。",
+    "materials_consumed": [
+      "上古酒泉精粹",
+      "剑意浸润"
+    ],
+    "potential_evolution": "若能凑齐一对，可提升为半仙兵，甚至产生“好事成双”的运势加持 。"
+  },
+  "visual": {
+    "static": "造型古雅，杯壁温润，常带有淡淡的酒香 。",
+    "active": "杯中会自行生发出灵气浓郁的美酒，酒液如泉涌动 。"
+  },
+  "provenance": {
+    "origin": "剑气长城历史上流传下来的极少数名器，总计仅有五只 。",
+    "karma_link": "见证了剑气长城无数剑仙的豪饮与风流事迹 。"
+  },
+  "enriched": true
+}

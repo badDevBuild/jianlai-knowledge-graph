@@ -1,0 +1,44 @@
+{
+  "name": "碧绿杆毛笔",
+  "original_name": "胸有成竹万里翠",
+  "type": "灵器",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是岁除宫宫主吴霜降的心爱之物。它不仅是一支笔， 更是大修士对“法”与“道”细微掌控的象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第810章 教拳",
+      "owner": "白发童子"
+    }
+  ],
+  "subtype": "文房/炼造类",
+  "holder": "吴霜降",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "岁除宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随持笔者文运壮大，可孕育出通灵的“龙宾”墨精 。",
+  "supernatural_ability": "下笔如有神，能够承载十四境道意，书写出的文字自带 法理力量 。",
+  "evolution": {
+    "current_form": "一支由青竹杆制成、篆刻有铭文的小锥笔 。",
+    "materials_consumed": [
+      "青神山神霄竹",
+      "大修士心血"
+    ],
+    "potential_evolution": "可进化为能够“画龙点睛、化虚为实”的仙家重宝 。"
+  },
+  "visual": {
+    "static": "杆身如翠玉，毫尖透明如锋颖，刻有细微小篆 。",
+    "active": "只需轻轻呵气即可产生灵气墨汁，落笔生花，字字生出 云烟异象 。"
+  },
+  "provenance": {
+    "origin": "吴霜降亲手炼制的随身文房之一 。",
+    "karma_link": "陈平安在夜航船获得白发童子代为绘制的摹本，补全了 自身的符箓道统 。"
+  },
+  "enriched": true
+}

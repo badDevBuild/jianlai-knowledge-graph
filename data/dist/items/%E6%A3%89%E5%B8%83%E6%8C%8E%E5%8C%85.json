@@ -1,0 +1,48 @@
+{
+  "name": "棉布挎包",
+  "original_name": "周米粒的兵力袋",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "周米粒最珍视的宝贝，用于存放她在巡山过程中收集的 各种“战利品” 。在战事紧绷的时刻，它是落魄山唯一的温情港湾 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1030章 江湖相逢道辛苦",
+      "owner": "小米粒"
+    },
+    {
+      "chapter": "第1058章 一片孤城彩云间",
+      "owner": "周米粒"
+    }
+  ],
+  "subtype": "收纳/生活类",
+  "holder": "周米粒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "朱敛",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "受护山供奉多年蕴养，已成为具备某种“气运收集”雏形 的特殊灵物 。",
+  "supernatural_ability": "内藏周米粒的“兵力”（小鱼干、瓜子），具备舒缓紧张 氛围、凝聚人心之神异 。",
+  "evolution": {
+    "current_form": "样式素雅的棉布小挎包 。",
+    "materials_consumed": [
+      "寻常棉布",
+      "朱敛的手艺"
+    ],
+    "potential_evolution": "可演化为能装载整座“哑巴湖”水运的袖珍洞天 。"
+  },
+  "visual": {
+    "static": "洗得发白的斜挎包，被小姑娘背得严严实实 。",
+    "active": "开启时会有阵阵诱人的咸鱼香气，是落魄山“友谊”的象 征 。"
+  },
+  "provenance": {
+    "origin": "由落魄山大管家朱敛亲手缝制 。",
+    "karma_link": "连接了周米粒与陈平安、裴钱等落魄山成员最质朴的情 感 。"
+  },
+  "enriched": true
+}

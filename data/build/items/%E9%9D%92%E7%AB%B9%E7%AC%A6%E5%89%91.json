@@ -1,0 +1,38 @@
+{
+  "name": "青竹符剑",
+  "original_name": "竹海洞天符剑",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是山上常见且珍稀的一种消耗型兵器，特别是在跨洲渡船防卫中被广泛使用 。其材质天然蕴藉道意，是符箓与剑道结合的产物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第747章 秉烛夜游",
+      "owner": "渡船护卫/乘客"
+    }
+  ],
+  "subtype": "压胜/斩妖类",
+  "holder": "跨洲渡船及各路练气士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "其价值主要取决于符剑材质是否源自青神山及其上载符文的精妙程度 。",
+  "supernatural_ability": "具备天然的压胜山川鬼魅与湖泽精怪之效，剑身上载有符箓派斩妖一支的丹书敕文 。",
+  "evolution": {
+    "current_form": "材质取自竹海洞天的青翠竹剑，剑身密布符图 。",
+    "materials_consumed": [
+      "竹海洞天青竹",
+      "丹书敕文"
+    ],
+    "potential_evolution": "若能由上五境符箓大修加持，可形成覆盖范围极大的剑阵 。"
+  },
+  "visual": {
+    "static": "剑身翠绿欲滴，绿意莹澈，可见细腻的竹丝纹理 。",
+    "active": "激发时符胆灵光大作，可分化出数以千计的符剑虚影拦截大妖 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲竹海洞天，多由青神山夫人外赠或贱卖 。",
+    "karma_link": "象征着竹海洞天在山上商贸与符箓道脉中的独特地位 。"
+  },
+  "enriched": true
+}

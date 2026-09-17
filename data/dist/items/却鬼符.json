@@ -1,0 +1,44 @@
+{
+  "name": "却鬼符",
+  "original_name": "绿筋金书",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "却鬼符是九都山的标志性产物，因其“绿筋金书”的独特外观和强大的驱邪能力而闻名。邓凉将三百张此 符赠予落魄山，极大增强了宗门针对阴冥鬼物的防御手段 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第707章 以一城争天下",
+      "owner": "邓凉(赠予泉府)"
+    }
+  ],
+  "subtype": "防御类 / 压胜类",
+  "holder": "落魄山泉府",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "邓凉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "源自皑皑洲九都山，是山上公认的珍贵符箓，具备极佳的镇宅与辟邪潜力 。",
+  "supernatural_ability": "具备“通灵门神”之效，能够像真实的神卫一样巡视并守护家宅，使外道鬼魅不敢近前 。",
+  "evolution": {
+    "current_form": "以九都山特有仙家树叶制成的符纸，色泽如玉。",
+    "materials_consumed": [
+      "九都山灵叶",
+      "金粉丹书"
+    ],
+    "potential_evolution": "可作为构建落魄山大型防御阵法“却鬼林”的基础核心。"
+  },
+  "visual": {
+    "static": "符纸表面呈现出天然的绿色筋络，文字如金书铭刻，宝光流转 。",
+    "active": "激发时会有微弱的浩然气升腾，产生一种如沐春风却威压邪祟的正道气象 。"
+  },
+  "provenance": {
+    "origin": "皑皑洲九都山 。",
+    "karma_link": "由九都山嫡传弟子邓凉在返回浩然天下后，作为贺礼赠予落魄山泉府，以全香火之情 。"
+  },
+  "enriched": true
+}

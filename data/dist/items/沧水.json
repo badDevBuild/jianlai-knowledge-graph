@@ -1,0 +1,54 @@
+{
+  "name": "沧水",
+  "original_name": "龙须河 / 铁符江水系",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "骊珠洞天内最重要的水系，本名龙须河，亦有“沧水”之称。它产出的蛇胆石是少年陈平安最早的营生， 也是整座洞天最后气运汇聚之所。",
+  "aliases": [
+    "沧水"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第241章 喝过剑仙的酒好吹牛",
+      "owner": "宋凤山"
+    },
+    {
+      "chapter": "第242章 月下打瀑，一挂彩虹",
+      "owner": "宋凤山"
+    }
+  ],
+  "subtype": "水脉类 / 气运类",
+  "holder": "杨花（铁符江神）",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "最后一条真龙",
+      "relation": "原主"
+    },
+    {
+      "name": "大骊王朝",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为真龙陨落之地，蕴含极高的龙气与水运，有潜力演化为一洲大渎之祖。",
+  "supernatural_ability": "“孕育蛇胆石”。河底产出极具灵气的蛇胆石，对蛟龙之属修行有奇效；同时承载骊珠洞天的根本水运。",
+  "evolution": {
+    "current_form": "流经骊珠洞天与落魄山的河流水系",
+    "materials_consumed": [
+      "真龙灵血",
+      "一洲气运"
+    ],
+    "potential_evolution": "走渎成功后可化为支撑一洲水德的“大渎”。"
+  },
+  "visual": {
+    "static": "河水蜿蜒，在小镇中穿行，水质清澈却蕴含阴沉重力。",
+    "active": "大潮时分波涛汹涌，隐约可见真龙尸骸留下的金光轨迹，震撼人心。"
+  },
+  "provenance": {
+    "origin": "最后一条真龙在骊珠洞天的陨落与化身。",
+    "karma_link": "与陈平安的家乡因果、稚圭的真龙身份以及大骊王朝的走渎大计息息相关。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "折柳",
+  "original_name": "柳七柳枝",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "柳七以“折柳”自况，其剑气与情愁一样悠长。这截柳枝见证了他在浩然与青冥两座天下的风流，是其挑 战巅峰权柄的独特标志。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第742章 打更巡夜",
+      "owner": "柳七"
+    }
+  ],
+  "subtype": "意境类 / 法器",
+  "holder": "柳七",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "虽看似寻常柳枝，却承载了“词宗”柳七的一生风流与大道气数，具备合道十四境的潜质。",
+  "supernatural_ability": "能以柳枝划拨山河，即便在大海之上亦能以术法碾压王座大妖的水法本命神通。",
+  "evolution": {
+    "current_form": "柳七腰间悬挂的一截青绿柳枝。",
+    "materials_consumed": [
+      "人间情愁",
+      "婉约词章"
+    ],
+    "potential_evolution": "随着柳七补全姻缘簿，可进化为能够牵引天下有情人因果的大道媒介。"
+  },
+  "visual": {
+    "static": "鲜嫩翠绿的一截柳条，看似纤细脆弱，却蕴含凛然风气。",
+    "active": "挥动时清光直透太虚，引动天地情思，令强敌如陷泥淖。"
+  },
+  "provenance": {
+    "origin": "柳七游历诗余福地时所折之枝。",
+    "karma_link": "象征着“离别”与“挽留”的儒家意气。"
+  },
+  "enriched": true
+}

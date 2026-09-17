@@ -1,0 +1,55 @@
+{
+  "name": "竹笛",
+  "original_name": "朱红色长笛 / 谪仙人竹笛",
+  "type": "法宝",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "此笛承载着万年之前的柔情与因果。它在陈平安手中不仅是杀敌的利刃，更是他游历蛮荒天下、见证大 时代变迁的物化缩影 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第136章 山下皆如此",
+      "owner": "谢谢"
+    },
+    {
+      "chapter": "第140章 千奇（下）",
+      "owner": "谢谢"
+    },
+    {
+      "chapter": "第673章 针线活",
+      "owner": "云卿"
+    }
+  ],
+  "subtype": "攻伐类 / 音律类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云卿",
+      "relation": "赠予者"
+    },
+    {
+      "name": "远古大妖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "若能修复受损的神意与材质，其威力足以重返仙兵等级 。",
+  "supernatural_ability": "“回响因果”。笛声可牵引远古大妖的大道气韵，对妖族神魂有天然压制，亦可辅助持有者领悟光阴真意 。",
+  "evolution": {
+    "current_form": "色泽如朱砂般红艳的老旧竹笛 。",
+    "materials_consumed": [
+      "远古火德神性"
+    ],
+    "potential_evolution": "进化为镇压一洲音律气运的终极重宝。"
+  },
+  "visual": {
+    "static": "长笛红如烈火，刻有“谪仙人”和“曾批给露支风券”的小楷 。",
+    "active": "吹奏时雷电缭绕，仿佛远古大妖在光阴中叹息，周遭灵气剧烈震荡 。"
+  },
+  "provenance": {
+    "origin": "曾是一位远古飞升境大妖的定情信物 。",
+    "karma_link": "陈平安在蛮荒天下游历时，大妖云卿将其赠予，象征着双方虽阵营各异却惺惺相惜的“投缘”因果 。"
+  },
+  "enriched": true
+}

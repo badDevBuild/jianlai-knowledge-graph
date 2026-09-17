@@ -1,0 +1,38 @@
+{
+  "name": "破城大戟",
+  "original_name": "金甲戟",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "破城大戟是大妖牛刀的标志性兵器，取材自曾经囚禁他的远古金甲 。它将原本的禁锢之力转化为极致的破坏力，是战场上攻坚克难的无双利刃 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第786章 那就打",
+      "owner": "牛刀"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "牛刀",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "由禁锢飞升境大妖万年的金甲牢笼炼化而成，具备破碎城池与大阵的霸道力量 。",
+  "supernatural_ability": "“破城”——对于防御性山水阵法与城池禁制具有毁灭性的打击效果，一戟之下可令重重禁制崩瓦解 。",
+  "evolution": {
+    "current_form": "大戟重兵器 。",
+    "materials_consumed": [
+      "远古金甲碎片",
+      "大妖本命道韵"
+    ],
+    "potential_evolution": "未知。"
+  },
+  "visual": {
+    "static": "戟身厚重，散发着内敛的暗金色光芒，透着一股不破不休的肃杀意气 。",
+    "active": "挥动时带有沉重的破空声，戟尖所指之处，虚空会产生肉眼可见的塌陷与震荡 。"
+  },
+  "provenance": {
+    "origin": "大妖牛刀在其身上的金甲牢笼破除后，将其残余材质炼化而成 。",
+    "karma_link": "见证了大妖牛刀从囚徒到蛮荒王座强者的身份转变 。"
+  },
+  "enriched": true
+}

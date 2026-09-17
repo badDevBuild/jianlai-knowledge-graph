@@ -1,0 +1,48 @@
+{
+  "name": "雷音塔",
+  "original_name": "仿白玉京宝塔",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此物又被称为**仿白玉京宝塔**，是陈平安极度重视的本命辅助器 物 。它被安置在陈平安的**山祠**气府内，用于镇压小天地并辅助 炼化五行之气 。该塔虽因曾遭重创而品秩下跌，但其蕴含的符箓法理依然深不 可测 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第40章 还礼",
+      "owner": "佛门"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "陈平安",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "玉符宫老宫主",
+      "relation": "原主"
+    },
+    {
+      "name": "离真",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "可通过吸收雷电精华和特定的符箓道意，尝试恢复其远古仙兵的完 整气象 。",
+  "supernatural_ability": "具备**镇压气府**、中和五行之能，可辅助修行者更高效地炼化天 地灵气 。",
+  "evolution": {
+    "current_form": "袖珍青铜宝塔",
+    "materials_consumed": [
+      "雷电精华",
+      "玉符宫符箓道意"
+    ],
+    "potential_evolution": "重返仙兵品秩的完全体白玉京宝塔"
+  },
+  "visual": {
+    "static": "外形为一座晶莹剔透、五城十二楼形制的**青铜小塔** 。",
+    "active": "激发时会散发出五彩氤氲的道气，呈现出“有伤极天之高”的宏大虚 影 。"
+  },
+  "provenance": {
+    "origin": "原为蛮荒天下玉符宫的镇山之宝，由开山祖师仿照白玉京炼制而成 。",
+    "karma_link": "陈平安在剑气长城战场上从离真的遗留物中获得此宝 。"
+  },
+  "enriched": true
+}

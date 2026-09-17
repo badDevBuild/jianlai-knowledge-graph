@@ -1,0 +1,38 @@
+{
+  "name": "藤条行山杖",
+  "original_name": "竹根游山之杖",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一根极具文人气质的木杖。在陈平安的远游中，它 代表了那份即便身在江湖亦不失儒雅的从容 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1179章 一幅飞升合道图",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "工具/修行类",
+  "holder": "儒衫文士 (陈平安化身)",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "长期承载负笈游学的浩然气，可演化为能“拨云见日”的 文房宝物 。",
+  "supernatural_ability": "能轻松拨开山路上的枯木与瘴气，持杖登山时步履轻盈 ，如与山川气机共鸣 。",
+  "evolution": {
+    "current_form": "一根由后山竹根制成的行山杖 。",
+    "materials_consumed": [
+      "老竹根",
+      "山间清气"
+    ],
+    "potential_evolution": "可大炼为支撑文人风骨的“节气杖” 。"
+  },
+  "visual": {
+    "static": "材质轻洁，色泽如玉，手感温润，常见于书生或老者手 中 。",
+    "active": "拨动草木时会有微弱的灵光闪烁，在雾气中能开辟出一 条清晰小路 。"
+  },
+  "provenance": {
+    "origin": "由修道之人或雅士亲自在深山中拣选竹根雕琢而成 。",
+    "karma_link": "伴随陈平安分身行走于古寺与群山之间，承载了“事功” 之外的闲适道意 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,54 @@
+{
+  "name": "金钗",
+  "original_name": "灵素清微、文卿神霄、太霞役鬼",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这三支金钗分别对应不同的雷法支脉（清微、神霄等），是隋景澄在修行初期的核心攻伐手段 。",
+  "aliases": [
+    "三支金钗"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第518章 世事如棋局局新",
+      "owner": "隋景澄"
+    },
+    {
+      "chapter": "第519章 答案就在青竹上",
+      "owner": "隋景澄"
+    },
+    {
+      "chapter": "第520章 久仰久仰",
+      "owner": "隋景澄"
+    }
+  ],
+  "subtype": "攻伐类 / 雷法类",
+  "holder": "隋景澄",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "世外高人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "三位一体的雷法法宝，涉及万法之首的雷法正宗，潜力巨大 。",
+  "supernatural_ability": "具备驱鬼镇邪之能，与雷法传承息息相关。未经授权者触碰会被金钗自带的灵光灼伤 。",
+  "evolution": {
+    "current_form": "三支金光流转、一模一样的金钗 。",
+    "materials_consumed": [
+      "雷电真意",
+      "庚金精华"
+    ],
+    "potential_evolution": "可随《上上玄玄集》的修行进阶为高阶雷法法器 。"
+  },
+  "visual": {
+    "static": "外表是三支普通的金钗，但其上铭刻有极其细微的小篆铭文 。",
+    "active": "相互敲击时会发出清脆金石声，并荡漾出一圈圈五彩光晕 。"
+  },
+  "provenance": {
+    "origin": "由一位道法玄妙的世外高人（疑似元婴或地仙）炼制 。",
+    "karma_link": "伴随隋景澄自幼成长，是其命中注定的本命物 。"
+  },
+  "enriched": true
+}

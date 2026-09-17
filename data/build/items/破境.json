@@ -1,0 +1,44 @@
+{
+  "name": "破境",
+  "original_name": "武道金丹 / 破境丹",
+  "type": "丹药",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "纯粹武夫梦寐以求的破境神药。对于停滞在五境瓶颈的 武人来说，它意味着“多出半条命” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第760章 不对",
+      "owner": "裴旻"
+    }
+  ],
+  "subtype": "突破/根基类",
+  "holder": "朱河 / 朱鹿",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "对于五境巅峰武夫具有逆天之效，助力稳破瓶颈 。",
+  "supernatural_ability": "帮助服药之人凝聚窍穴散落的魂魄，在体内结出一座“ 英雄胆”宅子，供阴神栖息 。",
+  "evolution": {
+    "current_form": "一颗泥封、散发着远古拳意气色的丹药 。",
+    "materials_consumed": [
+      "真武山独门药材",
+      "武运精华"
+    ],
+    "potential_evolution": "可助力纯粹武夫直升炼神三境。"
+  },
+  "visual": {
+    "static": "外表平平，被封在泥壳之中，内里蕴含磅礴的热力 。",
+    "active": "服用时气血沸腾，周身隐约有神人擂鼓声传出 。"
+  },
+  "provenance": {
+    "origin": "真武山独门丹药 。",
+    "karma_link": "魏檗将此药赠予朱河，成为朱鹿破境的关键 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "鬼面",
+  "original_name": "赤面夜叉面具",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "鬼面是王象晋担任碧螺湖水君的重要法器。它不仅是一件强大的防御与威慑工具，更见证了一段志怪小 说式的“乘龙快婿”佳话 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第930章 与诸君借取千山万水（十一）",
+      "owner": "王象晋"
+    }
+  ],
+  "subtype": "威慑类 / 辅助类",
+  "holder": "王象晋",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "碧螺湖老龙君",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为水府传承的重宝，具有压胜水族邪祟、稳固水君威信的潜力 。",
+  "supernatural_ability": "戴上后外貌变为赤面獠牙的凶恶夜叉，能极大增强对水怪的威慑力，并辅助水法修行 。",
+  "evolution": {
+    "current_form": "一张外表狰狞的赤红色面具 。",
+    "materials_consumed": [
+      "水精精华",
+      "远古神魂残片"
+    ],
+    "potential_evolution": "若与水君金身完全融合，可实现昼戴夜除的虚实转换 。"
+  },
+  "visual": {
+    "static": "一张赤面獠牙、神色狰狞的面具，带有阴沉的水属性波动 。",
+    "active": "佩戴后持有者身形会变得如神魔般伟岸，足以令湖泽中不服管教的精怪胆寒 。"
+  },
+  "provenance": {
+    "origin": "碧螺湖龙宫水府的旧藏 。",
+    "karma_link": "由老龙君赠予女婿王象晋，以弥补其文弱书生相貌不足以慑服水族的缺憾 。"
+  },
+  "enriched": true
+}

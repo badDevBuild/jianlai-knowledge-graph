@@ -1,0 +1,38 @@
+{
+  "name": "楠木匾额",
+  "original_name": "山头文房匾额",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "在一座山头或水府，匾额是规矩的象征。落魄山出品的 匾额，字字蕴含事功学问，是桐叶洲重建秩序的标杆。[ 15, 16]",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第967章 不是第二个余斗",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "象征/气运类",
+  "holder": "各大山头神府",
+  "holder_relation": "寄托",
+  "rank": "重器",
+  "rank_potential": "若得儒家圣人题字，可转化为镇压一方水土、凝聚香火 的礼器。",
+  "supernatural_ability": "能调理阴阳，稳固建筑风水。高等级匾额可具备“言出 法随”的压胜力。",
+  "evolution": {
+    "current_form": "用名贵金丝楠木打造的沉稳木匾。",
+    "materials_consumed": [
+      "千年楠木",
+      "圣贤墨迹"
+    ],
+    "potential_evolution": "可演化为沟通天地的“神道符玺”。"
+  },
+  "visual": {
+    "static": "色泽幽深，木纹如流水，字体或刚健或飘逸。",
+    "active": "每逢节日或庆典，金字会流溢紫气，声震山河。"
+  },
+  "provenance": {
+    "origin": "多由落魄山大管家朱敛亲自督造，陈平安亲笔题字。",
+    "karma_link": "连接大骊官方礼制与落魄山山水神灵的正统身份。"
+  },
+  "enriched": true
+}

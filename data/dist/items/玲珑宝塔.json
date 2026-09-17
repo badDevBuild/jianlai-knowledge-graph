@@ -1,0 +1,52 @@
+{
+  "name": "玲珑宝塔",
+  "original_name": "七彩琉璃宝塔",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是谢灵修行路上的核心道缘，最初陆沉谎称其仅为“半仙兵”，实则是为了保护尚且年幼的持有者 。它不仅是强大的兵器，更是龙泉剑宗法统传承的象征之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第465章 有没有陈平安的落魄山",
+      "owner": "谢灵"
+    },
+    {
+      "chapter": "第998章 酒杯换碗",
+      "owner": "谢灵"
+    },
+    {
+      "chapter": "第1116章 归拢群山作一山",
+      "owner": "谢灵"
+    }
+  ],
+  "subtype": "镇压类 / 辅助类",
+  "holder": "谢灵",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道祖亲传重宝，随持有者修为精进而能显化出更多层天的法理禁制 。",
+  "supernatural_ability": "能够镇压世间一切上五境之下的邪魔外道与阴灵鬼物 。",
+  "evolution": {
+    "current_form": "高九层、半尺高的袖珍琉璃塔 。",
+    "materials_consumed": [
+      "道门清气",
+      "琉璃精华"
+    ],
+    "potential_evolution": "若能与持有者的本命飞剑完全融合，可演化为镇压一地气运的宗门重器 。"
+  },
+  "visual": {
+    "static": "通体七彩琉璃色泽，精巧至极，每一层四面皆悬挂有细小的匾额 。",
+    "active": "塔身绽放出刺眼的彩色神光，匾额文字流转，产生巨大的吸摄与镇压力 。"
+  },
+  "provenance": {
+    "origin": "出自白玉京，是三掌教陆沉随身携带的至宝之一 。",
+    "karma_link": "由陆沉赠予谢灵，助其在修行路上顺遂破境，最终助其跻身玉璞境 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "青神山竹简",
+  "original_name": "神霄竹简",
+  "type": "灵物",
+  "grade": "杂物",
+  "status": "活跃",
+  "description": "陈平安极其看重的“精神寄托”，上边记录了他远游途中的感悟与先贤教诲 。在陈平安眼中，这些承载道理的竹简比寻常金银珍宝更为珍贵 。",
+  "aliases": [
+    "练拳竹简"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第282章 思无邪",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第328章 画中人",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "记录类 / 滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "竹简材质为天地名竹之祖，长期受浩然正气浸染可演化为圣贤手稿 。",
+  "supernatural_ability": "“道理显化”。可承载各种三教圣贤文字且神意经久不散，具有稳固持有者道心、辟除外魔之效 。",
+  "evolution": {
+    "current_form": "一堆刻满了名言警句、色泽青翠的竹片 。",
+    "materials_consumed": [
+      "青神山神霄竹",
+      "圣贤道理"
+    ],
+    "potential_evolution": "凑齐数量后可编纂成册，成为镇压山头文运的典籍 。"
+  },
+  "visual": {
+    "static": "苍翠欲滴，质感温润如玉，表面有陈平安亲手雕刻的蝇头小楷 。",
+    "active": "翻阅时文字隐现金光，隐约有诵读声传出，周遭灵气会随之变得祥和 。"
+  },
+  "provenance": {
+    "origin": "源自三十六小洞天之一的竹海洞天青神山 。",
+    "karma_link": "由魏檗建造竹楼剩余的边角料制成，赠予陈平安用于记录远游心得 。"
+  },
+  "enriched": true
+}

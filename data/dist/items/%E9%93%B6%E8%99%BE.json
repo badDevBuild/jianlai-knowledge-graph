@@ -1,0 +1,38 @@
+{
+  "name": "银虾",
+  "original_name": "银色细微物 / 溪间灵物",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "消耗",
+  "description": "这是《剑来》世界中极具生机的水底小精魅，常作为水运兴旺的征兆， 被水神和渔夫所看重 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第249章 姹紫嫣红开遍",
+      "owner": "无"
+    }
+  ],
+  "subtype": "精魅类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "常年受水运灵气浸润，可进化为能够寻找水底秘宝的“水灵” 。",
+  "supernatural_ability": "体型极小，能在水中甚至虚空之中游走，感知细微的灵气波动 。",
+  "evolution": {
+    "current_form": "通体透明如银，长不过指甲盖的小虾 。",
+    "materials_consumed": [
+      "水脉精粹",
+      "微量龙气"
+    ],
+    "potential_evolution": "若得真龙点化，可演化为守护水府的“银甲校尉”。"
+  },
+  "visual": {
+    "static": "在水中游动时带起一抹银色流光，极难察觉 。",
+    "active": "群聚时如银色绸缎在水中翻滚，灵气波动剧烈 。"
+  },
+  "provenance": {
+    "origin": "多见于龙须河、大渎等灵气充沛的水域 。",
+    "karma_link": "是陈平安在寻访龙宫或大渎期间经常遇见的自然灵物 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "酒泉",
+  "original_name": "酒泉杯",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "酒泉杯是天下酒徒心目中的第一等重宝。它不仅解决了行旅中的饮酒问题，更是极佳的补给辅助工具， 历史上常由剑气长城的高位剑仙持有 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第593章 有朋自远方来",
+      "owner": "孙巨源"
+    }
+  ],
+  "subtype": "补益类 / 滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "躁君 (白登)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "剑气长城历史上仅出现过五只，拥有源源不断产生灵酒的特质 。",
+  "supernatural_ability": "**“酒涌不绝”**。杯中酒水如泉眼般自生，且产生的酒液自带灵气，能够温养体魄、缓解疲劳 。",
+  "evolution": {
+    "current_form": "一只色泽温润、造型古雅的白瓷酒杯 。",
+    "materials_consumed": [
+      "上古月魄精华",
+      "大渎灵泉水"
+    ],
+    "potential_evolution": "可作为酒虫的终极栖息地，产出仙人醉等极品仙酿 。"
+  },
+  "visual": {
+    "static": "杯身细腻如脂，内壁隐约可见泉水喷涌的幻象 。",
+    "active": "摇晃杯身，美酒自动满溢，香气四溢，能让方圆之内如坠醉乡 。"
+  },
+  "provenance": {
+    "origin": "陈平安在桐叶洲龙宫遗址（躁君道场）中寻获 。",
+    "karma_link": "是躁君为了让陈平安带走其“负累”而主动赠予的三件宝物之一 。"
+  },
+  "enriched": true
+}

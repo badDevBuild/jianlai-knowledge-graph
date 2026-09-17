@@ -1,0 +1,38 @@
+{
+  "name": "芭蕉扇",
+  "original_name": "芭蕉花神扇",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是莲藕福地中一位位阶较低的小花神所持物件 。虽然名声不如顶级仙兵，却是福地气象变化与自然和谐的象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第810章 教拳",
+      "owner": "芭蕉花神"
+    }
+  ],
+  "subtype": "辅助类 / 气象类",
+  "holder": "芭蕉花神",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随着福地品秩提升，有望进化为能够扇动“消暑风”调节一州天候的法宝 。",
+  "supernatural_ability": "轻轻扇风即可产生沁人心脾的凉意，具备安抚躁动神魂的功效 。",
+  "evolution": {
+    "current_form": "一把袖珍可爱的芭蕉叶状小扇 。",
+    "materials_consumed": [
+      "福地草木精华",
+      "花神命格之气"
+    ],
+    "potential_evolution": "若得文人骚客题词，可大幅增加文运压胜力。"
+  },
+  "visual": {
+    "static": "翠绿如生，叶脉清晰，小巧玲珑 。",
+    "active": "扇动时有草木清香溢出，并带有微弱的灵光涟漪 。"
+  },
+  "provenance": {
+    "origin": "产自云窟福地花神山的一位小花神之手 。",
+    "karma_link": "是福地花神身份的信标，常随花神一同在山水间远游 。"
+  },
+  "enriched": true
+}

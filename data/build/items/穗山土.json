@@ -1,0 +1,52 @@
+{
+  "name": "穗山土",
+  "original_name": "万年土 / 五色土",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "穗山土是天下最名贵的土壤，老秀才评价其为“名副其 实的万年土”，对修士稳固地基、对抗天灾有神效 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1007章 观书喜夜长",
+      "owner": "老秀才(代陈平安取)"
+    }
+  ],
+  "subtype": "土属/镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老秀才（文圣）",
+      "relation": "赠予者"
+    },
+    {
+      "name": "白也",
+      "relation": "曾持有"
+    },
+    {
+      "name": "于玄",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为天下第一高山的息壤精华，具有演化为一方大陆或 镇压一洲山根的无限潜能 。",
+  "supernatural_ability": "能够稳固修士境界，夯实人身小天地内的山根，产出的 土壤对五行之土本命物有极大加持 。",
+  "evolution": {
+    "current_form": "一袋子约重十斤的五色土壤 。",
+    "materials_consumed": [
+      "穗山地脉精华",
+      "万年光阴磨砺"
+    ],
+    "potential_evolution": "炼化后可作为支撑“山祠”气府不朽的地基 。"
+  },
+  "visual": {
+    "static": "土壤呈现五种色彩，入手极其沉重，散发出一股厚重的 大地气息 。",
+    "active": "炼化时会有千山万水的异象在修士周身显现 。"
+  },
+  "provenance": {
+    "origin": "中土神洲穗山，老秀才在白也草堂旁捡取 。",
+    "karma_link": "老秀才以此物赠予于玄和陈平安，用于偿还因果并辅助 陈平安修道 。"
+  },
+  "enriched": true
+}

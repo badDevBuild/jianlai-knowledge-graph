@@ -1,0 +1,43 @@
+{
+  "name": "散雪",
+  "original_name": "信息缺失",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "提供的原始资料中未提及名为“散雪”的具体物品。源材料中相关的“雪”意象多指“雪花钱”或“大雪满山” 的气象描述 [14-16]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第543章 眼中万少年",
+      "owner": "孙清"
+    },
+    {
+      "chapter": "第544章 舟中之人尽敌国",
+      "owner": "白璧"
+    },
+    {
+      "chapter": "第815章 月色",
+      "owner": "白璧"
+    }
+  ],
+  "subtype": "信息缺失",
+  "holder": "信息缺失",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "信息缺失",
+  "supernatural_ability": "信息缺失",
+  "evolution": {
+    "current_form": "信息缺失",
+    "materials_consumed": [],
+    "potential_evolution": "信息缺失"
+  },
+  "visual": {
+    "static": "在提供的源材料中，未发现直接名为“散雪”的法宝细节描述 [无]。",
+    "active": "信息缺失"
+  },
+  "provenance": {
+    "origin": "信息缺失",
+    "karma_link": "信息缺失"
+  },
+  "enriched": true
+}

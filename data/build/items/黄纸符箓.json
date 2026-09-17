@@ -1,0 +1,57 @@
+{
+  "name": "黄纸符箓",
+  "original_name": "黄玺符纸 / 丹书符文",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是陈平安修行初期的重要辅助手段。通过书写黄纸符箓，他得以在灵气匮乏的情况下，施展出种种玄妙的神通 , , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第111章 斗笠",
+      "owner": "林守一 (阿良赠送)"
+    },
+    {
+      "chapter": "第223章 小街一战",
+      "owner": "老神仙"
+    },
+    {
+      "chapter": "第384章 下完棋抄完书",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第480章 先生学生，师父弟子",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "消耗类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽为基础材质，但若由画符高手落笔，仍能发挥惊人威力 , 。",
+  "supernatural_ability": "包含缩地符、阳气挑灯符等，能辅助远遁、破障或镇压低阶邪祟 , 。",
+  "evolution": {
+    "current_form": "质地粗糙的黄色纸张，上绘红色或黑色的咒文 , 。",
+    "materials_consumed": [
+      "符纸",
+      "朱砂",
+      "一口气机"
+    ],
+    "potential_evolution": "可进阶为金色材质的“镇剑符”或更高阶大符 。"
+  },
+  "visual": {
+    "static": "色泽泛黄，符文法度严谨，带有淡淡的香火或灵气波动 , 。",
+    "active": "激发时会迅速燃烧，释放出金色或白色的灵光屏障 。"
+  },
+  "provenance": {
+    "origin": "源自《丹书真迹》等道家正统或旁门符箓传承 , 。",
+    "karma_link": "见证了陈平安从武夫跨界修习符箓、以气画符的成长历程 , 。"
+  },
+  "enriched": true
+}

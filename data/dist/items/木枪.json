@@ -1,0 +1,43 @@
+{
+  "name": "木枪",
+  "original_name": "元家祖传长枪",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这杆木枪不仅是兵器，更是元宝在这个弱肉强食的世界 中坚守的“尊严” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第979章 教拳与续杯",
+      "owner": "陈平安 (临时使用)"
+    }
+  ],
+  "subtype": "Keepsake/Weapon",
+  "holder": "元宝 / 元来",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "元父 (镖师)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽是木质，但承载了江湖人的气节与血性，随持枪者武 道晋升可孕育拳意 。",
+  "supernatural_ability": "无。但作为元宝心中的武道象征，是她练拳不辍的精神 支柱 。",
+  "evolution": {
+    "current_form": "一杆普通的木柄长枪 。",
+    "materials_consumed": [
+      "老木"
+    ],
+    "potential_evolution": "若能融合武道气运，可演化为具备“破阵”神意的重器 。"
+  },
+  "visual": {
+    "static": "枪杆斑驳，带有长久握持留下的包浆，质朴沉稳 。",
+    "active": "斜背在背上，尽显江湖儿女的英锐之气 。"
+  },
+  "provenance": {
+    "origin": "由一位战死江湖的镖师留给子女的唯一遗物 。",
+    "karma_link": "是元宝、元来姐弟在落魄山修行时，对父亲唯一的怀念 。"
+  },
+  "enriched": true
+}

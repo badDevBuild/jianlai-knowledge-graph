@@ -1,0 +1,46 @@
+{
+  "name": "无字玉牌",
+  "original_name": "咫尺物玉牌",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安在中五境修行前获得的最珍贵的辅助法宝之一。虽然外表平凡，却是连地仙修士都垂涎的“ 咫尺物”，承载了陈平安远游途中的诸多重宝与回忆 。",
+  "aliases": [
+    "大风玉牌"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第358章 过桥登山",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间类 / 遮蔽类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "郑大风",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为顶级的“咫尺物”，内部空间巨大，具备随主人修为提升演化为真实秘境的可能 。",
+  "supernatural_ability": "具备极大的储物空间（约莫如泥瓶巷祖宅大小），且能隔绝与外界的感应，遮蔽内部宝物的气息 。",
+  "evolution": {
+    "current_form": "一块质地细腻、素雅无纹的方形白玉牌 。",
+    "materials_consumed": [
+      "高阶灵气",
+      "山根水精"
+    ],
+    "potential_evolution": "可进一步炼化为具备自我生息能力的“最小洞天” 。"
+  },
+  "visual": {
+    "static": "通体素白，无任何雕饰，手感温润如绸缎，材质极其稀罕 。",
+    "active": "开启时，玉牌表面会有微弱的灵气涟漪，将触碰之物迅速收入其中 。"
+  },
+  "provenance": {
+    "origin": "由郑大风在老龙城期间还债赠予陈平安 。",
+    "karma_link": "作为陈平安早期最重要的空间法宝之一，见证了他积攒家当、行走江湖的历程 。"
+  },
+  "enriched": true
+}

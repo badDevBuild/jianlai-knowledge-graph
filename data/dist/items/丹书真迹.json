@@ -1,0 +1,71 @@
+{
+  "name": "丹书真迹",
+  "original_name": "李希圣手书符箓秘籍",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安修行符箓之道的根本，其中文字被其炼化入气府后，能够极大增强神魂的稳定性 。",
+  "aliases": [
+    "《丹书真迹》",
+    "丹书"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第227章 出剑了",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第486章 不愧是老江湖",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第761章 老了江湖",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第855章 俯瞰",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第890章 下宗",
+      "owner": "蒋去"
+    },
+    {
+      "chapter": "第966章 桌上火锅桌外雪",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1023章 童年是个楔子",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "符箓/阵法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "书中记载了八十多种道门正宗符箓，炼化其中文字可支撑起一座庞大的罗天大醮护山大阵 。",
+  "supernatural_ability": "书中文字蕴含大道真意，书页本身即是绝佳符纸。记载有“长生桥”等可稳固大道根基的顶级神符 。",
+  "evolution": {
+    "current_form": "记录了分上中下三品符箓的薄册子 。",
+    "materials_consumed": [
+      "浩然正气",
+      "道家功德"
+    ],
+    "potential_evolution": "演化为具备独立灵性的符道本源道书 。"
+  },
+  "visual": {
+    "static": "看似平凡的线装书，实则纸张质地非凡，上边写满了李希圣的亲笔批注 。",
+    "active": "激发后文字金光熠熠，可幻化为神祇法相或雷霆威势 。"
+  },
+  "provenance": {
+    "origin": "李希圣在落魄山赠予陈平安的符箓之道传承 。",
+    "karma_link": "见证了陈平安从符箓门外汉到登堂入室的过程，是其人身小天地建设的基石 。"
+  },
+  "enriched": true
+}

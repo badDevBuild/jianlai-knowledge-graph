@@ -1,0 +1,62 @@
+{
+  "name": "霞满天",
+  "original_name": "霞满天",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "霞满天是大剑仙米裕的本命飞剑 。它在战场上不单是直接杀敌，更重要的是与兄长米祜的飞剑配合，通过剑气稳固并强化地形杀伤力 。这种大范围的剑气覆盖能力使其在防守战中具有极高的战略价值 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第617章 谁能与宁姚般配",
+      "owner": "米裕"
+    },
+    {
+      "chapter": "第630章 刺杀隐官",
+      "owner": "米裕"
+    },
+    {
+      "chapter": "第709章 白云送刘十六归山",
+      "owner": "米裕"
+    },
+    {
+      "chapter": "第710章 只驱龙蛇不驱蚊",
+      "owner": "米裕"
+    },
+    {
+      "chapter": "第719章 我是东山啊",
+      "owner": "米裕"
+    },
+    {
+      "chapter": "第918章 为何只有剑修",
+      "owner": "米裕"
+    },
+    {
+      "chapter": "第928章 与诸君借取千山万水（九）",
+      "owner": "米裕"
+    }
+  ],
+  "subtype": "攻伐类 / 辅助类",
+  "holder": "米裕",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为大剑仙米裕的本命飞剑，其品秩随主人的境界提升而增强 。",
+  "supernatural_ability": "祭出后能在战场沟壑中生出浓稠似水的霞光剑气 。这种剑气能够防止敌方大妖填平沟壑，并能有效碾杀落入其中的妖族 。",
+  "evolution": {
+    "current_form": "本命飞剑形态 。",
+    "materials_consumed": [
+      "剑意精华",
+      "天地灵气"
+    ],
+    "potential_evolution": "与兄长米祜的飞剑“鳌鱼”配合，可形成改变地形并熔炼敌人的复合剑阵 。"
+  },
+  "visual": {
+    "static": "蕴含浓郁霞光剑意的飞剑 。",
+    "active": "剑光如虹，能在地面制造出流淌浓稠霞光的剑气陷阱 。"
+  },
+  "provenance": {
+    "origin": "米裕本命孕育 。",
+    "karma_link": "米家兄弟在剑气长城合力守御的重要杀手锏 。"
+  },
+  "enriched": true
+}

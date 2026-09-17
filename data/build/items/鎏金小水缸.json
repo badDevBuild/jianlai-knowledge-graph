@@ -1,0 +1,48 @@
+{
+  "name": "鎏金小水缸",
+  "original_name": "门海 / 封印水缸",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一件极具神异的收纳法宝。通过答对青牛道士的问 题，邵宝卷从虬髯客处获得了此物，并计划前往垂拱城 将其彻底“点化”为实物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第769章 算计",
+      "owner": "邵宝卷 (原属包袱斋汉子)"
+    }
+  ],
+  "subtype": "滋养/收纳类",
+  "holder": "邵宝卷",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青牛道士 (封君)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "虬髯客 (张三)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "经过“垂拱城”皇帝封正后，可由虚转实，成为承载龙气 的重器 。",
+  "supernatural_ability": "“门海”异能，能以龙气为饵饲养天下水裔，并能收纳大 江大水于方寸之间 。",
+  "evolution": {
+    "current_form": "一只原本在夜航船条目城摊位上的小型鎏金水缸 。",
+    "materials_consumed": [
+      "龙气",
+      "帝王敕令"
+    ],
+    "potential_evolution": "可与“龙王篓”互补，形成完整的捕获与豢养水族系统 。"
+  },
+  "visual": {
+    "static": "外表鎏金，样式古朴，缸壁绘有海洋波涛纹路 。",
+    "active": "激活后缸内波涛汹涌，隐约可见各色水族精怪游曳其中 。"
+  },
+  "provenance": {
+    "origin": "源自远古宫廷用于防火和压胜的“门海”重器 。",
+    "karma_link": "涉及邵宝卷在夜航船上的机缘博弈与身份转化 。"
+  },
+  "enriched": true
+}

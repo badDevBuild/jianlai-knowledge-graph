@@ -1,0 +1,48 @@
+{
+  "name": "斩龙石",
+  "original_name": "斩龙台残片 / 磨剑石",
+  "type": "材料",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这不仅是石头，更是剑修的命根子。它的存在证明了远 古剑道杀伐一切神灵的辉煌历史 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第905章 长不大的家乡",
+      "owner": "胡沣/吴提京"
+    },
+    {
+      "chapter": "第1181章 合龙",
+      "owner": "陈平安/谢狗"
+    }
+  ],
+  "subtype": "砥砺/压胜类",
+  "holder": "陈平安 / 宁姚 / 墨家",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古天庭",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "随着本命飞剑不断在石上磨砺，飞剑杀力将无上限提升 ，石头本身亦可作为镇压兵器 。",
+  "supernatural_ability": "对一切龙族、蛇类具有绝对的大道压胜；能极大地加速 飞剑的锋锐程度 。",
+  "evolution": {
+    "current_form": "不规则的灰色石条或山崖 。",
+    "materials_consumed": [
+      "真龙之血",
+      "远古剑意"
+    ],
+    "potential_evolution": "重聚为“斩龙台” 。"
+  },
+  "visual": {
+    "static": "看似寻常的顽石，但靠近者会感到一股割裂皮肤的冷冽 剑气 。",
+    "active": "磨剑时火星如金龙咆哮，雷鸣阵阵 。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭两座行刑台之一的斩龙台，碎后坠落人间 。",
+    "karma_link": "是剑修赖以成名的最强砥砺之物，亦是陈平安与宁姚之 间的定情信物（其中一块） 。"
+  },
+  "enriched": true
+}

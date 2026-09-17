@@ -1,0 +1,44 @@
+{
+  "name": "古怪头颅",
+  "original_name": "大妖首级 / 战利品",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "**古怪头颅**是剑气长城最常见的**战功凭证**。陈平安曾通过展示大妖头颅来震慑蛮荒天下，展现了 其作为“隐官”的杀伐决断 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第693章 人间又有金丹客",
+      "owner": "宁姚"
+    }
+  ],
+  "subtype": "资粮类",
+  "holder": "宁姚 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蛮荒大妖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "可炼化为提升境界的极品仙药，或作为镇压山头的压胜物 。",
+  "supernatural_ability": "即便死亡仍蕴含恐怖威压，部分头颅可作为施展“降真”或“驱灵”术法的媒介 。",
+  "evolution": {
+    "current_form": "血迹干涸、似人非人、散发远古气息的首级 。",
+    "materials_consumed": [
+      "大妖精元",
+      "不灭神性"
+    ],
+    "potential_evolution": "极高阶者可炼化为如“白骨大妖”般的强大傀儡 。"
+  },
+  "visual": {
+    "static": "通常面容狰狞，双目圆睁，血液呈现金色或紫色，散发出令人不适的煞气 。",
+    "active": "受到刺激时会显现出原主生前的凶悍幻象，震慑低阶修士 。"
+  },
+  "provenance": {
+    "origin": "源自蛮荒天下被斩杀的高位妖族 。",
+    "karma_link": "是剑修换取战功、证明武力的唯一铁证，象征着杀伐与荣耀 。"
+  },
+  "enriched": true
+}

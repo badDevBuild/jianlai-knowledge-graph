@@ -1,0 +1,50 @@
+{
+  "name": "月宫旧址",
+  "original_name": "广寒宫遗迹 / 破碎小洞天",
+  "type": "方寸物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一件极具**因果分量**的重礼。它不仅展示了小陌 作为远古大妖的深厚底蕴，更体现了落魄山核心成员之 间“礼尚往来”的独特温情 。",
+  "aliases": [
+    "远古月宫"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第875章 跌境",
+      "owner": "陈平安(原属小陌)"
+    }
+  ],
+  "subtype": "秘境/收纳类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陌生 (小陌)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "远古月宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古月宫的一部分，内部规则完整，可支撑起飞升 境修士的道场 。",
+  "supernatural_ability": "内含百余座琼楼玉宇，月光皎洁，可隔绝一切外在因果 窥探，是极致的避暑与修道之所 。",
+  "evolution": {
+    "current_form": "一个收纳在袖中、呈现出雪白废墟形态的微缩洞天 。",
+    "materials_consumed": [
+      "月魄精华",
+      "远古神性"
+    ],
+    "potential_evolution": "可配合“皓彩”明月重新焕发生机，变为真正的广寒宫 。"
+  },
+  "visual": {
+    "static": "如同掌心大小的精致冰雕建筑群，散发着冷冽的银色清 辉 。",
+    "active": "开启后可将整座府邸投影至现实空间，周围瞬间入冬， 百花凋零 。"
+  },
+  "provenance": {
+    "origin": "远古天庭月宫的碎片，由小陌在长眠前搜集 。",
+    "karma_link": "小陌作为“回礼”赠予陈平安，陈平安打算将其作为刘羡 阳与赊月婚礼的“份子钱” 。"
+  },
+  "enriched": true
+}

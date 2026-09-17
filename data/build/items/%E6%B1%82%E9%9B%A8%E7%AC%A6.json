@@ -1,0 +1,48 @@
+{
+  "name": "求雨符",
+  "original_name": "五龙开罡符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "活跃",
+  "description": "这是道门高功法师擅长的一种高级符箓，旨在调节天地 阴阳 。陈平安通过此符与埋河水神、大伏书院建立了深厚 的大道渊源 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1027章 休要乱我道心",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助/天时类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "原主"
+    },
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "若能配合龙宫旧藏玉简炼化，可达到“天地晦冥，大雨 流淹”的极致威能 。",
+  "supernatural_ability": "属于坛符之一，可敕令风雨，引发天象变幻，对干旱之 地有起死回生之效 。",
+  "evolution": {
+    "current_form": "记载于《丹书真迹》中的上品符箓 。",
+    "materials_consumed": [
+      "五行之水精华",
+      "金精铜钱"
+    ],
+    "potential_evolution": "可进阶为能够调动一洲水运的“雨师法旨” 。"
+  },
+  "visual": {
+    "static": "符纸华美，云篆繁复，透出一股阴凉的水属性灵气 。",
+    "active": "祭出时有五龙开罡之象，天幕瞬间黑云压城，雷电交加 。"
+  },
+  "provenance": {
+    "origin": "源自三山九侯先生的道统，后由李希圣通过《丹书真迹 》传予陈平安 。",
+    "karma_link": "与大伏书院钟魁的江河道意遥相呼应 。"
+  },
+  "enriched": true
+}

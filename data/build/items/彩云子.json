@@ -1,0 +1,47 @@
+{
+  "name": "彩云子",
+  "original_name": "白帝城棋子",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是天下棋手梦寐以求的神品，早已失传，每一枚棋子都价值一枚小暑钱 。崔东山常以此棋教导学生，裴钱与李槐曾拿它玩抓石子游戏，令旁观者惊心动魄 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第408章 剑术",
+      "owner": "崔东山"
+    },
+    {
+      "chapter": "第412章 出城和上山",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "弈棋/道韵类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白帝城城主",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "每一枚棋子都蕴含极致的道意，对弈时可模拟天下大势 。",
+  "supernatural_ability": "对弈时，白子滚烫可灼烧神魂，黑子冰冷刺骨；能显化白帝城海市蜃楼奇景 。",
+  "evolution": {
+    "current_form": "琉璃质感的黑白棋子，白子如云，黑子透绿 。",
+    "materials_consumed": [
+      "滴制大炼秘法"
+    ],
+    "potential_evolution": "集齐整罐可演化为“彩云局”阵法 。"
+  },
+  "visual": {
+    "static": "圆润细腻，白子晶莹剔透显金光，黑子如墨玉带绿圈 。",
+    "active": "指尖捻动时云雾升腾，幻化出仙鹤、彩虹与楼阁景象 。"
+  },
+  "provenance": {
+    "origin": "中土白帝城琉璃阁，由楼主以独门“滴制”秘术大炼而成 。",
+    "karma_link": "崔东山（老崔瀺）与白帝城城主博弈获赠，后成为其随身心爱之物 。"
+  },
+  "enriched": true
+}

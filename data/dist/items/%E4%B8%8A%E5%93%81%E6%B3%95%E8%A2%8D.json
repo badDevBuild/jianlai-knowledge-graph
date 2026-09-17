@@ -1,0 +1,44 @@
+{
+  "name": "上品法袍",
+  "original_name": "老君巷法袍",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**莹然袍**是北俱芦洲最著名的上品法袍，由老君巷秘制。由于被琼林宗垄断且产量极低，其价格昂贵 ，被视为上五境练气士的**标志性装备** 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第510章 前辈我让你三拳吧",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "北俱芦洲上五境练气士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "琼林宗",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "被誉为北俱芦洲非剑修大修士的首选法袍，极难得手 。",
+  "supernatural_ability": "具备极强的防御力和灵气聚拢效果，能隔绝外界部分因果探查 。",
+  "evolution": {
+    "current_form": "华美异常的法袍",
+    "materials_consumed": [
+      "仙家蚕丝",
+      "天地气数"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "色泽如玉，光彩流转，纹理间隐有云篆浮现 。",
+    "active": "穿着时仙气十足，能自发产生防御涟漪 。"
+  },
+  "provenance": {
+    "origin": "由老君巷（琼林宗垄断）的织造大师宋腴亲手织就 。",
+    "karma_link": "每一甲子仅产一件，是山上财力与地位的终极体现 。"
+  },
+  "enriched": true
+}

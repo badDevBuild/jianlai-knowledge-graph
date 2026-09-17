@@ -1,0 +1,44 @@
+{
+  "name": "火符",
+  "original_name": "火部压箱底大符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此符是青同压箱底的五行大符之一，代表了符箓一途在火法造诣上的极致。它通过借取远古神灵的力量 ，实现了纯粹毁灭性杀力的具象化 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第984章 火符",
+      "owner": "陈暖树 (吕喦赠送)"
+    }
+  ],
+  "subtype": "攻伐类 / 召唤类",
+  "holder": "青同 (镇妖楼之主)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古火部神灵",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "具备演化为“焚尽一洲”禁制阵法的终极潜力 。",
+  "supernatural_ability": "祭出后可召唤出一尊身高千丈的火部神灵，法相交织千万道火焰，具备乱拳打碎剑阵的狂暴战力 。",
+  "evolution": {
+    "current_form": "一张散发着炽热气息、符文极其繁密的金色符箓 。",
+    "materials_consumed": [
+      "三昧真火精粹",
+      "远古火神神性"
+    ],
+    "potential_evolution": "若由十四境修士施展，可化作能够抗衡剑仙飞剑的“火海洞天” 。"
+  },
+  "visual": {
+    "static": "符纸表面有细微的火焰在跳跃，古篆文字透出一股毁灭性的热浪 。",
+    "active": "燃烧时天幕震动，火红色的法相拔地而起，将周遭数里地带化为熔浆火场 。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭火部的正统秘传符箓 。",
+    "karma_link": "青同作为飞升境大妖，以此作为对抗顶尖剑修的底牌之一 。"
+  },
+  "enriched": true
+}

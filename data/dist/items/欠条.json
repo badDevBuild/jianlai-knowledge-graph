@@ -1,0 +1,44 @@
+{
+  "name": "欠条",
+  "original_name": "借据 / 记账字据",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安作为“包袱斋”过客留下的独特遗物 。张直宁愿退还谷雨钱也要买下这些欠条，足见其非 凡的因果价值 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第972章 借东风",
+      "owner": "张直"
+    }
+  ],
+  "subtype": "因果类",
+  "holder": "张直",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "承载了年轻隐官的人情与因果，是包袱斋祖师爷最珍视 的收藏之一 。",
+  "supernatural_ability": "作为债务凭证，实则是连接落魄山与包袱斋关系的特殊 纽带，具备极强的因果压胜力 。",
+  "evolution": {
+    "current_form": "落款为“陈平安”的两张字据 。",
+    "materials_consumed": [
+      "宣纸",
+      "笔墨"
+    ],
+    "potential_evolution": "若能长期保存，将成为见证隐官崛起的重要历史文献 。"
+  },
+  "visual": {
+    "static": "质朴的纸张，字迹端正，列有购买折扇与盆景的金额 。",
+    "active": "在老祖师手中，纸张隐约散发出一种不容磨灭的定力 。"
+  },
+  "provenance": {
+    "origin": "陈平安在北俱芦洲鹦鹉洲包袱斋购买货物时欠下的欠条 。",
+    "karma_link": "代表了陈平安早期修行时经济拮据但讲求信用的处世态 度 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,58 @@
+{
+  "name": "神人承露甲",
+  "original_name": "兵家甲丸 / 西嶽",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "神人承露甲是兵家三大甲丸之一，陈平安所持的“西嶽”更是其源头级的八副祖宗甲之一。它不仅是强力 的防御法宝，更是兵家正宗传承的象征 。",
+  "aliases": [
+    "神人承露"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第502章 压下一条线",
+      "owner": "杜俞"
+    },
+    {
+      "chapter": "第538章 隔在远远乡",
+      "owner": "兵家"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "魏羡",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "兵家初祖",
+      "relation": "原主"
+    },
+    {
+      "name": "灵芝斋",
+      "relation": "曾持有"
+    },
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为八副“祖宗甲”之一，若能以远古神灵金身碎片不断修复，可重返仙兵品秩 。",
+  "supernatural_ability": "化为甲胄后坚不可摧，能抵御大修士的术法冲击，并对阴物具有天然的压胜作用 。",
+  "evolution": {
+    "current_form": "名为“西嶽”的破损甲丸 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "武运精华"
+    ],
+    "potential_evolution": "完全修复后的神人承露祖宗甲 。"
+  },
+  "visual": {
+    "static": "拳头大小的青白色丹丸 。",
+    "active": "穿戴时如同水银般覆盖全身，呈现出亮如白雪的光明铠形制，胸前护心镜精光闪闪 。"
+  },
+  "provenance": {
+    "origin": "由兵家初祖参考远古神灵甲胄，联手墨家机关师与道家符箓师共同打造 。",
+    "karma_link": "陈平安在倒悬山灵芝斋购得其中一副破损“西嶽”，后转借魏羡使用 。"
+  },
+  "enriched": true
+}

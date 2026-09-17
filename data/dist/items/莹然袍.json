@@ -1,0 +1,52 @@
+{
+  "name": "莹然袍",
+  "original_name": "老君巷秘制法袍",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "北俱芦洲名气最大的上品法袍，因其极高的获取难度和防御性能被视为身份与境界的象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第538章 隔在远远乡",
+      "owner": "老君巷"
+    },
+    {
+      "chapter": "第1055章 书生到此",
+      "owner": "老君巷"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "北俱芦洲高阶修士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宋腴",
+      "relation": "原主"
+    },
+    {
+      "name": "琼林宗",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为北俱芦洲法袍的巅峰之作，其地位由炼制大师宋腴的道艺背书 。",
+  "supernatural_ability": "极强的防御力与灵气亲和力，是剑修之外上五境练气士的护身首选 。",
+  "evolution": {
+    "current_form": "无瑕无垢的仙家法衣 。",
+    "materials_consumed": [
+      "秘传炼物手法",
+      "极品灵丝"
+    ],
+    "potential_evolution": "不详 。"
+  },
+  "visual": {
+    "static": "色泽温润莹然，透着不属于凡俗的仙气 。",
+    "active": "能够在大规模冲突中抵御剑仙级的飞剑冲击 。"
+  },
+  "provenance": {
+    "origin": "由老君巷开山祖师“雷同”宋腴亲手织就 。",
+    "karma_link": "每一甲子仅产一件，其产量和销路长期被琼林宗垄断 。"
+  },
+  "enriched": true
+}

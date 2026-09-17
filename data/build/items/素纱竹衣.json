@@ -1,0 +1,46 @@
+{
+  "name": "素纱竹衣",
+  "original_name": "兜率宫铢衣 / 铢衣",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "又称“铢衣”，这类法袍在当代几乎绝迹，不仅是极佳的护身之物，更是辅助感悟光阴之道的异宝 。",
+  "aliases": [
+    "法袍竹衣"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第519章 答案就在青竹上",
+      "owner": "隋景澄 (暂借隋新雨)"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "隋景澄",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "世外高人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为仙家铢衣，被誉为“百岁而一拂”，具备辅助练气士感悟光阴长河的能力 。",
+  "supernatural_ability": "具备极强的防御力，并能让持有者在一定程度上接触或稳固光阴流水 。",
+  "evolution": {
+    "current_form": "翠绿色的薄衫法袍 。",
+    "materials_consumed": [
+      "仙家蚕丝",
+      "光阴砂"
+    ],
+    "potential_evolution": "有望演化为具备光阴神通的顶尖道袍 。"
+  },
+  "visual": {
+    "static": "呈现为翠绿色，质地极为轻盈，仿佛由烟雾或蝉蜕制成 。",
+    "active": "穿着时周身会有淡淡的云雾缭绕，隔绝外界气机探查 。"
+  },
+  "provenance": {
+    "origin": "上古岁月陆地真人治所的遗留工艺 。",
+    "karma_link": "在隋景澄修行《上上玄玄集》后，法袍与神魂愈发契合 。"
+  },
+  "enriched": true
+}

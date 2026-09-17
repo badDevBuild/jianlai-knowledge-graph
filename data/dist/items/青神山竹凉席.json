@@ -1,0 +1,45 @@
+{
+  "name": "青神山竹凉席",
+  "original_name": "梅花园子凉席",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这件由青神山绿竹制成的凉席是陈平安在隐居牢狱期间的重要辅助法宝 。它能滋润脏腑，使修士在修行水法时事半功倍 。",
+  "aliases": [
+    "竹席"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第639章 一人喃喃，群山回响",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "修行辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "酡颜夫人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "来自竹海洞天，具有极佳的灵气传导性 。",
+  "supernatural_ability": "帮助修道之人静心，并能显著加快对水属性灵气的炼化速度 。",
+  "evolution": {
+    "current_form": "编织精美的青竹凉席 。",
+    "materials_consumed": [
+      "青神山绿竹"
+    ],
+    "potential_evolution": "可作为闭关修行的基座 。"
+  },
+  "visual": {
+    "static": "色泽清翠，触手生温且自带清香 。",
+    "active": "炼化灵气时，竹席表面会流转出淡淡的绿意 。"
+  },
+  "provenance": {
+    "origin": "倒悬山梅花园子，为酡颜夫人所有 。",
+    "karma_link": "陈平安在梅花园子旧址处“捡”回，实际承载了与酡颜夫人的交情 。"
+  },
+  "enriched": true
+}

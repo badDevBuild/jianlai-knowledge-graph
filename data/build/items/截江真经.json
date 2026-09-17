@@ -1,0 +1,46 @@
+{
+  "name": "截江真经",
+  "original_name": "刘志茂本命法诀",
+  "type": "典籍",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是书简湖枭雄刘志茂的大道根基。该功法极其契合书简湖的地理环境，使其在同境对敌中占尽优势 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第631章 淡淡风溶溶月",
+      "owner": "顾璨"
+    },
+    {
+      "chapter": "第654章 年轻朱敛",
+      "owner": "柳赤诚/顾璨"
+    },
+    {
+      "chapter": "第1190章 人间剑气近矣",
+      "owner": "柳赤诚(原)"
+    }
+  ],
+  "subtype": "水法/修行类",
+  "holder": "刘志茂 (截江真君)",
+  "holder_relation": "大炼",
+  "rank": "灵器",
+  "rank_potential": "随刘志茂跻身上五境，此经可演化出截断大渎水运的逆天神通。",
+  "supernatural_ability": "擅长于江河之中截取灵气脉络，制造幻象，使人如深陷水底泥潭 。",
+  "evolution": {
+    "current_form": "刘志茂在青峡岛闭关苦修的根本秘籍 。",
+    "materials_consumed": [
+      "书简湖水运",
+      "野修残魂"
+    ],
+    "potential_evolution": "可配合“阎王殿”形成完整的阴冥水法体系。"
+  },
+  "visual": {
+    "static": "书页湿润，散发着阵阵寒气，文字如游鱼动荡。",
+    "active": "施展时，江河之水逆流，金鱼幻化为遮天巨物，镇压四方 。"
+  },
+  "provenance": {
+    "origin": "书简湖野修一脉的独门传承。",
+    "karma_link": "刘志茂凭借此经在书简湖立足，并与陈平安有过多次较量。"
+  },
+  "enriched": true
+}

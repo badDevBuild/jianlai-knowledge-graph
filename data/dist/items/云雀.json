@@ -1,0 +1,38 @@
+{
+  "name": "云雀",
+  "original_name": "云雀在天",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是大剑仙岳青的两把本命飞剑之一，常与飞剑“百丈泉”配合使用，负责大规模杀伤和防御 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第617章 谁能与宁姚般配",
+      "owner": "岳青"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "岳青",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为大剑仙岳青的本命物，随主人境界提升具有极高杀力 。",
+  "supernatural_ability": "祭出后剑气如一场滂沱大雨落在战场上，具备大范围覆盖性杀伤力 。",
+  "evolution": {
+    "current_form": "飞剑形态 。",
+    "materials_consumed": [
+      "剑气",
+      "庚金精华"
+    ],
+    "potential_evolution": "随剑道突破可演化为遮天蔽日的剑气云海 。"
+  },
+  "visual": {
+    "static": "资料未详述其静态样貌 。",
+    "active": "剑气如一场滂沱大雨落在战场上，气势宏大 。"
+  },
+  "provenance": {
+    "origin": "岳青本命孕育 。",
+    "karma_link": "作为守护剑气长城的关键战力，曾多次用于打落妖族投掷的山峰 。"
+  },
+  "enriched": true
+}

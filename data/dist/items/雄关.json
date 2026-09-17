@@ -1,0 +1,35 @@
+{
+  "name": "雄关",
+  "original_name": "雄关",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是玉璞境剑仙司徒积雪的随身佩剑 。它虽然不像其本命飞剑“铁骑”那样作为核心神通，但其攻守兼备的特质使其在与蛮荒大妖的对阵中 表现稳健 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第622章 对峙",
+      "owner": "司徒积雪"
+    }
+  ],
+  "subtype": "攻伐类 / 防御类",
+  "holder": "司徒积雪",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为金甲洲野修司徒积雪的佩剑，随主人跻身玉璞境，具备极强的战场适应性 。",
+  "supernatural_ability": "与本命飞剑“铁骑”相配合，能够实现攻守兼备的战斗姿态，在战场上极难被针对 。",
+  "evolution": {
+    "current_form": "随身悬挂的长剑 。",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "通常由司徒积雪悬挂于腰间 。",
+    "active": "在战斗中展现出稳健的防御与凌厉的攻势，与“铁骑”剑意相呼应 。"
+  },
+  "provenance": {
+    "origin": "司徒积雪在金甲洲野修生涯中获得的佩剑 。",
+    "karma_link": "作为司徒积雪在剑气长城战场上的重要依仗之一 。"
+  },
+  "enriched": true
+}

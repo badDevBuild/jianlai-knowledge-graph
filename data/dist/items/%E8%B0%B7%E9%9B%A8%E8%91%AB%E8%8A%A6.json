@@ -1,0 +1,56 @@
+{
+  "name": "谷雨葫芦",
+  "original_name": "小龙湫镇山之宝",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "它是**小龙湫**名动天下的**镇山之宝**，曾由前任山主林蕙芷持有。 该宝物具有极高的**山上地位**，只有历任山主才有资格使用。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第895章 今宵爽快",
+      "owner": "小龙湫"
+    },
+    {
+      "chapter": "第903章 天地孤鹤",
+      "owner": "林蕙芷"
+    },
+    {
+      "chapter": "第990章 双喜临门",
+      "owner": "令狐蕉鱼"
+    }
+  ],
+  "subtype": "储物类 / 镇压类",
+  "holder": "令狐蕉鱼",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "林蕙芷",
+      "relation": "原主"
+    },
+    {
+      "name": "司徒梦鲸",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为**小龙湫**传承多年的重器，具备极强的**温养**与**压胜**潜力。",
+  "supernatural_ability": "具备极其强大的**灵气温养**能力，是山主历代传承的**信物**。",
+  "evolution": {
+    "current_form": "一枚色泽温润、品相极佳的碧绿葫芦。",
+    "materials_consumed": [
+      "上古灵萃",
+      "小龙湫水脉精华"
+    ],
+    "potential_evolution": "虽无法炼为本命物，但可随山门气运增长不断增强**镇山**威能。"
+  },
+  "visual": {
+    "static": "一只外表翠绿如玉、灵气内敛的小葫芦。",
+    "active": "祭出时可吞吐海量灵气，甚至能作为**大阵枢纽**镇压一方水土。"
+  },
+  "provenance": {
+    "origin": "源自桐叶洲**小龙湫**宗门。",
+    "karma_link": "由司徒梦鲸作为重礼赐予洞府境女修令狐蕉鱼。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,96 @@
+{
+  "name": "祖荫槐叶",
+  "original_name": "老槐树叶",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是骊珠洞天破碎前最后积淀的机缘之一，象征着儒家教化之功与祖辈福德。虽已枯黄，但在关键时刻 能抵御阴风煞气，保护持有者魂魄安稳 。",
+  "aliases": [
+    "翠绿槐叶",
+    "老旧槐叶",
+    "槐叶"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第5章 道破",
+      "owner": "无"
+    },
+    {
+      "chapter": "第11章 少女和飞剑",
+      "owner": "赵繇"
+    },
+    {
+      "chapter": "第13章 相逢",
+      "owner": "年轻道人"
+    },
+    {
+      "chapter": "第23章 槐荫",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第25章 离别",
+      "owner": "顾粲"
+    },
+    {
+      "chapter": "第34章 齐聚",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第45章 阳光",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第47章 独行",
+      "owner": "陈平安(已用)"
+    },
+    {
+      "chapter": "第72章 黑云",
+      "owner": "李宝瓶"
+    },
+    {
+      "chapter": "第76章 背对",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第84章 我有一剑",
+      "owner": "李宝瓶"
+    },
+    {
+      "chapter": "第1031章 摸鱼儿输一半",
+      "owner": "顾璨"
+    },
+    {
+      "chapter": "第1044章 道上不敢有郑",
+      "owner": "顾璨"
+    }
+  ],
+  "subtype": "护身类 / 延寿类",
+  "holder": "李宝瓶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "承载骊珠洞天万年祖荫气运，具备在死生关头“以此续命”的特殊功德 。",
+  "supernatural_ability": "“祖荫续命”。能够记载君子的功德与过失，并在危难时刻维持修行者的一线真灵不散 。",
+  "evolution": {
+    "current_form": "三张由于灵气损耗由绿转黄的枯萎槐叶 。",
+    "materials_consumed": [
+      "老槐树本源",
+      "齐静春神意"
+    ],
+    "potential_evolution": "作为开启文圣一脉部分遗留机缘的信物 。"
+  },
+  "visual": {
+    "static": "原本翠绿欲滴，现呈现枯黄色，叶面脉络隐隐有光华流转 。",
+    "active": "能让必死之人开口言事，叶片会瞬间燃尽转化为纯正的浩然气 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天那一棵荫覆亩地的老槐树 。",
+    "karma_link": "由齐静春求取并赠予李宝瓶等学生，曾在远游途中救下学塾马先生的一线生机 。"
+  },
+  "enriched": true
+}

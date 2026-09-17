@@ -1,0 +1,44 @@
+{
+  "name": "真龙之身",
+  "original_name": "真珠山遗骸 / 王朱真身",
+  "type": "灵物",
+  "grade": "至宝",
+  "status": "活跃",
+  "description": "这是世间真龙气运的终极载体。王朱（稚圭）目前仅是骊珠所化的神灵之躯，必须寻回此真身并由特定 之人“画龙点睛”才能真正功德圆满 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第655章 高处无人",
+      "owner": "稚圭 (王朱)"
+    }
+  ],
+  "subtype": "神道/根基类",
+  "holder": "王朱 (稚圭)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "三教圣人",
+      "relation": "封禁者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "取回后可助真龙直破元婴与玉璞境瓶颈，剑指十四境 。",
+  "supernatural_ability": "集结世间所有蛟龙之属的大道气运，掌控天下江河水法天道 。",
+  "evolution": {
+    "current_form": "被封禁在真珠山地底的远古龙尸 。",
+    "materials_consumed": [
+      "陈平安的点睛之笔",
+      "四海水运"
+    ],
+    "potential_evolution": "与王朱当前的骊珠体魄融合，恢复万年真龙之位 。"
+  },
+  "visual": {
+    "static": "被三教圣人以阵法压胜，埋藏于骊珠洞天真珠山下 。",
+    "active": "取回时将引发天地共鸣，令万千水族朝宗，龙气直冲云霄 。"
+  },
+  "provenance": {
+    "origin": "远古最后一条真龙陨落后的残骸 。",
+    "karma_link": "王朱（稚圭）为了寻找此真身，在泥瓶巷潜伏多年并与宋集薪签订契约 。"
+  },
+  "enriched": true
+}

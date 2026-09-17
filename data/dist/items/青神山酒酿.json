@@ -1,0 +1,44 @@
+{
+  "name": "青神山酒酿",
+  "original_name": "竹海洞天仙酿",
+  "type": "货币",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "**浩然天下公认的顶级仙酿** 。陈平安通过此酒在剑气长城建立了一份独特的“**文字缘**”，并将其作为酒铺的招牌资产 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第738章 转益多师是吾师",
+      "owner": "纯青"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青神山夫人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为天下头等仙酿，其水运精华对突破境界有极大助益。",
+  "supernatural_ability": "被誉为“饮我酒者可破境”，能够洗涤神魂并补足窍穴灵气 。",
+  "evolution": {
+    "current_form": "带有淡淡竹香的清冽酒水 。",
+    "materials_consumed": [
+      "神霄竹叶",
+      "灵泉水"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "装于朱红酒葫芦中，闻之使人神清气爽 。",
+    "active": "饮用时灵气喷薄，可化作浓郁的水属道韵滋养本命物 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲竹海洞天青神山 。",
+    "karma_link": "陈平安作为二掌柜将其引入剑气长城，成为连接剑仙情谊的重要媒介 。"
+  },
+  "enriched": true
+}

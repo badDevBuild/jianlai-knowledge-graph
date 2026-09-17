@@ -1,0 +1,97 @@
+{
+  "name": "竹刀",
+  "original_name": "绿竹刀",
+  "type": "匠器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安为裴钱练习剑术而特制的竹制兵器，虽然材质简单，却承载了深厚的师徒情谊与武学真意 。",
+  "aliases": [
+    "绿色竹刀"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第90章 大雨滂沱",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第91章 玉簪",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第92章 小竹箱",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第99章 山神和竹刀",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第100章 脚下河山",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第102章 白虹平地起",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第111章 斗笠",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第112章 强者",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第113章 气势如虹",
+      "owner": "用刀男子"
+    },
+    {
+      "chapter": "第190章 我是一名剑客",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第441章 飞鸟绝迹冰窟中",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第446章 风雪宜哉",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第785章 无话可说",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第842章 谁围杀谁",
+      "owner": "阿良"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "随持有者拳意温养，可逐渐沾染宗师气机 。",
+  "supernatural_ability": "配合“疯魔剑法”使用，具备极强的破坏力 。",
+  "evolution": {
+    "current_form": "手工劈砍而成的青翠竹刀 。",
+    "materials_consumed": [
+      "绿竹"
+    ],
+    "potential_evolution": "灵器"
+  },
+  "visual": {
+    "static": "色泽青翠的竹制长刀，配有手工劈砍的绿竹鞘 。",
+    "active": "由裴钱挥动时，刀势迅猛，常用于练习和防身 。"
+  },
+  "provenance": {
+    "origin": "陈平安在书简湖青峡岛期间亲手劈砍绿竹制成 。",
+    "karma_link": "见证了陈平安在书简湖砥砺心境与教导裴钱的岁月 。"
+  },
+  "enriched": true
+}

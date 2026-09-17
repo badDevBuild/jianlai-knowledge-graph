@@ -1,0 +1,44 @@
+{
+  "name": "瓦片",
+  "original_name": "碧绿琉璃瓦 / 仙都山碧瓦",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "损毁",
+  "description": "这些瓦片不仅是名贵的建筑材料，更是陈平安用来构建 自家宗门“仙气”与“底蕴”的基石，极其珍稀 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第49章 碎瓷",
+      "owner": "搬山猿"
+    }
+  ],
+  "subtype": "建筑/灵物类",
+  "holder": "陈平安 / 白帝城",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古道观 / 琉璃阁",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "取自远古仙府，蕴含浓厚的水运与天时道意，是营造顶 级仙家府邸的根本资粮 。",
+  "supernatural_ability": "能够自动吸纳云海精粹，铺盖在屋脊之上可形成“映彻 云海如碧波”的防御异象 。",
+  "evolution": {
+    "current_form": "色泽碧绿如玉、胎质细腻的琉璃瓦片 。",
+    "materials_consumed": [
+      "仙家泥土",
+      "万年灵气浸润"
+    ],
+    "potential_evolution": "万片汇聚可演化为抵御玉璞境以上攻伐的“琉璃镜天”阵 法 。"
+  },
+  "visual": {
+    "static": "流光溢彩，触之生温，表面隐约可见远古符文流转 。",
+    "active": "在阳光下会产生一圈圈柔和的光晕，能够折射并削弱修 士的神识探查 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的仙人道场，后被陈平安从废墟中搜刮捡 漏得来 。",
+    "karma_link": "作为陈平安“包袱斋”职业生涯的典型战利品，见证了其 收集天下灵秀的历程 。"
+  },
+  "enriched": true
+}

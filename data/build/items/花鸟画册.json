@@ -1,0 +1,50 @@
+{
+  "name": "花鸟画册",
+  "original_name": "不死方 / 李子树下白骨真人真迹",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "表面是一本普通的古董画册，实则是陆沉算计深远的‘赠药’之举。画册所载的道法被誉为天地间最纯正 的‘不死方’ 。",
+  "aliases": [
+    "不死方"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1019章 天地如界画",
+      "owner": "白茅"
+    }
+  ],
+  "subtype": "传承类",
+  "holder": "白茅",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白骨真人",
+      "relation": "原主"
+    },
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "画册内藏的道书直指玉璞境修行，是青冥天下候补十人之一的修行根本 。",
+  "supernatural_ability": "画册内藏有金字道书《不死方》，能随着投入神仙钱的数量递增显现更深奥的内容，上篇直指金丹，中 篇直指玉璞 。",
+  "evolution": {
+    "current_form": "一本严谨工整、带有阴气的花鸟画册 。",
+    "materials_consumed": [
+      "白骨真人生死道韵",
+      "金精灵气"
+    ],
+    "potential_evolution": "完全炼化后可掌握白骨真人完整的长生秘术 。"
+  },
+  "visual": {
+    "static": "得界画精髓，画工一丝不苟，但透着几分阴气，被评价为‘死画’ 。",
+    "active": "投入神仙钱后，画页上会浮现出金色的道家经文 。"
+  },
+  "provenance": {
+    "origin": "出自青冥天下白玉京三掌教陆沉的分身‘李子树下白骨真人’之手 。",
+    "karma_link": "陆沉在合欢山将其‘捡漏’卖给鬼物白茅，实为赠予一份天大道缘 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "鱼尾冠",
+  "original_name": "白玉京女冠冠冕",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "一种标志性的道家冠冕，通常由白玉京一脉的得道高真或名门女修佩戴，象征其道统的高贵 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第726章 真无敌",
+      "owner": "道老二一脉"
+    },
+    {
+      "chapter": "第940章 倚天万里须长剑",
+      "owner": "陆沉"
+    }
+  ],
+  "subtype": "饰品/神道类",
+  "holder": "陆芝 / 柔荑",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白玉京",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随修道者的道龄与功德提升，可蕴养出一份“跃龙门”的异象 。",
+  "supernatural_ability": "稳固神魂，接引星光，是身份与道法传承的正统标志 。",
+  "evolution": {
+    "current_form": "如鱼尾般分叉、造型高雅的道门冠冕 。",
+    "materials_consumed": [
+      "白玉",
+      "灵泉浸泡"
+    ],
+    "potential_evolution": "进阶为如意冠或更高等级的真仙之物 。"
+  },
+  "visual": {
+    "static": "通体莹白，边缘有细微的鳞片纹路，宝光内敛 。",
+    "active": "戴之可引动紫气东来，冠冕上方出现如鱼戏水的虚影 。"
+  },
+  "provenance": {
+    "origin": "源自青冥天下白玉京的道门礼制 。",
+    "karma_link": "区分高位道官与寻常修士的关键视觉符号 。"
+  },
+  "enriched": true
+}

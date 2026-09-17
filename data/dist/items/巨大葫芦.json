@@ -1,0 +1,48 @@
+{
+  "name": "巨大葫芦",
+  "original_name": "斗量",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“斗量”是天地间最珍稀的七枚养剑葫之一 。它不同于其他六枚专为养剑而生，而是演化出了独特的捕蛟与调理水运的神通，是神道与仙道交织 的重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1030章 江湖相逢道辛苦",
+      "owner": "于玄"
+    }
+  ],
+  "subtype": "捕获类 / 存储类",
+  "holder": "小道童 (姜云生)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "原主"
+    },
+    {
+      "name": "老观主",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道祖亲植葫芦藤上的最后一枚葫芦，具备承载整座东海水运的恐怖上限 。",
+  "supernatural_ability": "能够用来捕蛟、养蛟，内部空间巨大，曾装入无数东海之水导致海平面下降数尺 。",
+  "evolution": {
+    "current_form": "一只背在小道童身后的金黄色巨大葫芦 。",
+    "materials_consumed": [
+      "东海之水",
+      "远古龙族气运"
+    ],
+    "potential_evolution": "最终宿命是交还给文庙，并由特定之人（如姓李的姑娘）持有以补全大道脉络 。"
+  },
+  "visual": {
+    "static": "通体金黄，体型硕大，散发着沉稳的远古气息 。",
+    "active": "祭出时可产生巨大的吸力，将江河湖海之水连同水族精怪一并收入其中 。"
+  },
+  "provenance": {
+    "origin": "源自道祖亲手种植的一根先天葫芦藤，是藤上结出的七枚顶级养剑葫之一 。",
+    "karma_link": "由老观主转交给小道童代管，是未来解决水族因果的关键器物 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,43 @@
+{
+  "name": "绣袋",
+  "original_name": "锦囊 / 选定之人信物",
+  "type": "方寸物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "外乡豪阀进入小镇时携带的三个锦囊之一。它是交换本命瓷与机缘的“买路钱”载体，其内部装载的金精 铜钱足以让凡间王朝动容 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1章 惊蛰",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "存储类",
+  "holder": "宋集薪 / 稚圭",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "苻南华",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为开启洞天机缘的容器，其品秩固定，但内部空间取决于其主人的背景实力。",
+  "supernatural_ability": "“因果隔绝”。袋内自成方寸之地，能盛放不计其数的金精铜钱而不显重量，且能保护钱币灵气不外泄 。",
+  "evolution": {
+    "current_form": "做工极尽繁琐精美的锦绣袋子。",
+    "materials_consumed": [
+      "金精铜钱"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "外形为巴掌大小的精美锦囊，绣有仙家纹饰，质感非凡 。",
+    "active": "解开绳结时有宝光流露，可从中取出成袋的金精铜钱 。"
+  },
+  "provenance": {
+    "origin": "进入骊珠洞天的“选定之人”必备信物 。",
+    "karma_link": "每袋铜钱代表一次交换机缘的机会，是圣人订立的洞天规矩之载体 。"
+  },
+  "enriched": true
+}

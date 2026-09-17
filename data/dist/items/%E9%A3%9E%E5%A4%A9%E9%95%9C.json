@@ -1,0 +1,44 @@
+{
+  "name": "飞天镜",
+  "original_name": "奔月镜",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是锁云宗的底蕴象征。它不仅是一件强大的防御与幻术法宝，更是其山主魏精粹试图借此垄断宗门权 力的核心依仗，后在山巅厮杀中大受折损 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第947章 高处",
+      "owner": "无"
+    }
+  ],
+  "subtype": "阵法类 / 幻象类",
+  "holder": "魏精粹 (道号飞卿)",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "锁云宗历代山主",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为锁云宗镇山之宝，若能集齐特定月魄精华，可跻身仙兵之列 。",
+  "supernatural_ability": "“月神显化”：可凝聚深潭月魄，显化出一位身姿婀娜、御风乘月的远古神女虚影，对敌方产生大道压胜 。",
+  "evolution": {
+    "current_form": "一面被持有者金身法相托举的古老宝镜 。",
+    "materials_consumed": [
+      "漏月峰月魄精华",
+      "白玉碎屑"
+    ],
+    "potential_evolution": "若能彻底融入持有者金身，可演化为真正的月宫小天地 。"
+  },
+  "visual": {
+    "static": "镜面莹然，散发出清冷的银白色光泽，边缘刻有复杂云纹 。",
+    "active": "激发时如白龙汲水，汇聚方圆数里的月光，形成宏大的神女降世异象 。"
+  },
+  "provenance": {
+    "origin": "锁云宗漏月峰镇山重宝 。",
+    "karma_link": "在与刘景龙的问剑中被对方以“大工斩玉”剑术重创金身及镜面 。"
+  },
+  "enriched": true
+}

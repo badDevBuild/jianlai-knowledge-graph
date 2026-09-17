@@ -1,0 +1,45 @@
+{
+  "name": "四幅挂像",
+  "original_name": "画卷四人挂像",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这四幅挂像代表了陈平安在藕花福地最大的机缘。画中 四人原本皆是福地武道巅峰，如今在落魄山各自证道， 成为宗门的中流砥柱 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1015章 除非问取笼外莺雀",
+      "owner": "青泥"
+    }
+  ],
+  "subtype": "因果/守护类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "老观主",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随着画中人（魏羡、朱敛等）武道境界提升，挂像可作 为沟通福地与现世的大道桥梁 。",
+  "supernatural_ability": "挂像与藕花福地（莲藕福地）的四位绝世武夫性命相连 ，可显化出具有极强战力的武夫法相 。",
+  "evolution": {
+    "current_form": "悬挂在落魄山祖师堂内的四幅人物画卷 。",
+    "materials_consumed": [
+      "福地气运",
+      "纯粹武运",
+      "谷雨钱"
+    ],
+    "potential_evolution": "可演化为镇压宗门山头、具有独立神智的守护英灵 。"
+  },
+  "visual": {
+    "static": "画卷古朴，上绘魏羡、朱敛、卢白象、隋右边四人，面 容栩栩如生 。",
+    "active": "当主身召唤时，画中人物仿佛从书中走入人间，拳意与 剑气激荡整座山头 。"
+  },
+  "provenance": {
+    "origin": "出自观道观老观主的藕花福地，后被陈平安带回落魄山 。",
+    "karma_link": "是落魄山最核心的武力底蕴之一，承载了福地众生的因 果 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "《老莲佝偻图》",
+  "original_name": "叶老莲画卷",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此图由叶老莲所作，**完美诠释了剑来世界中那种“扎根大地的粗粝真实感”**。它不仅仅是一幅画，更 是儒家圣贤对众生百态的一种怜悯与记录 , , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第274章 剑气长城陈见陈",
+      "owner": "刘幽州(赠予大端皇帝)"
+    }
+  ],
+  "subtype": "艺术/意境类",
+  "holder": "温煜",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "叶老莲",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "蕴含儒家圣贤的“规矩”之意与“泥腿子”美学的本真力量 , 。",
+  "supernatural_ability": "通过画中的“意境”让人体悟大道。能将画中人物的魂魄与气韵与观者心境产生共鸣 , 。",
+  "evolution": {
+    "current_form": "充满质感的古老画卷 。",
+    "materials_consumed": [
+      "浩然正气",
+      "文运笔墨"
+    ],
+    "potential_evolution": "可演化为具备独立灵性的“书中世界” 。"
+  },
+  "visual": {
+    "static": "画中人物线条粗粝，呈现出一种“泥腿子”式的佝偻背影，充满烟火气 , 。",
+    "active": "观画时仿佛能听见风声，感受到那种“泥土中开出青莲”的神圣意境 。"
+  },
+  "provenance": {
+    "origin": "出自最后一位坐镇剑气长城的儒家圣贤叶老莲之手 。",
+    "karma_link": "体现了《剑来》世界观中凡俗与神性的辩证统一 。"
+  },
+  "enriched": true
+}

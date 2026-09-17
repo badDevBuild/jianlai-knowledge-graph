@@ -1,0 +1,52 @@
+{
+  "name": "大骊太平无事牌",
+  "original_name": "刑部无事牌",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "遗失",
+  "description": "大骊王朝招纳供奉的核心凭证。持有此牌意味着在大骊版图内拥有合法的修行与行走权，是身份与地位 的象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第455章 报道先生归也",
+      "owner": "陈平安(已上交)"
+    },
+    {
+      "chapter": "第457章 小巷祖宅一盏灯",
+      "owner": "清风城许氏"
+    },
+    {
+      "chapter": "第641章 朱敛有拳要问",
+      "owner": "朱敛"
+    }
+  ],
+  "subtype": "身份/信物类",
+  "holder": "大骊供奉/陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊刑部",
+      "relation": "制作方"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随功劳等级升迁，三等可升为二等，乃至一等",
+  "supernatural_ability": "作为大骊供奉的身份凭证，可享受王朝气运加持，遇险时可向附近官员求救",
+  "evolution": {
+    "current_form": "玉质或金属质地的牌子，刻有大骊刑部印章与等级",
+    "materials_consumed": [
+      "王朝气运",
+      "灵矿"
+    ],
+    "potential_evolution": "一等无事牌拥有者在大骊境内身份等同于王侯"
+  },
+  "visual": {
+    "static": "造型古朴，正面刻有等级（如三等或候补），反面有大骊官制纹路",
+    "active": "佩戴时可避开州县禁制，在特定阵法中显现官道气运"
+  },
+  "provenance": {
+    "origin": "由大骊刑部专门为招徕的山上修士和江湖武夫制作",
+    "karma_link": "标志着山上力量被纳入大骊皇权的管辖范围"
+  },
+  "enriched": true
+}

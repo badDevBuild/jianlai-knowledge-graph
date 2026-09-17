@@ -1,0 +1,52 @@
+{
+  "name": "五岳图集",
+  "original_name": "五岳真形图 / 三山五嶽符",
+  "type": "重器",
+  "grade": "秘籍",
+  "status": "活跃",
+  "description": "这是落魄山的镇山之宝，涵盖了“水路分阴阳”与“山岳定乾坤”的至高法则 。它使落魄山在名义上拥有了统辖周边山水、册封神灵的法统底蕴 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第325章 我见青山多妩媚",
+      "owner": "种秋"
+    },
+    {
+      "chapter": "第326章 小巷中",
+      "owner": "种秋"
+    }
+  ],
+  "subtype": "镇压类 / 阵法类",
+  "holder": "种秋 / 陈平安",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "老观主 (碧霄洞主)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "文圣 (老秀才)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为承载浩然天下五岳气运的源头图谱，具备演化一洲山河社稷的终极潜力 , 。",
+  "supernatural_ability": "“敕令群灵”。可压胜山鬼魑魅，稳固山根水脉 。轴头分别刻有“水箓”与“山符”，能召神劾鬼，使强梗者不得殊轨 , 。",
+  "evolution": {
+    "current_form": "带有牛角轴头的古老道图卷轴 。",
+    "materials_consumed": [
+      "五色土",
+      "三山真意"
+    ],
+    "potential_evolution": "可配合“大五嶽符”演化为覆盖全洲的防御大阵 , 。"
+  },
+  "visual": {
+    "static": "轴头为牛角质地，铭刻有百余位地仙及山神名号 。",
+    "active": "展开时山脉起伏，紫气升腾，有“天人授箓，永无水患”之象 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代，由三山九侯先生或同道高人炼制 。",
+    "karma_link": "老观主在落魄山喝茶后作为回礼赠予陈平安，由崔东山炼化 , 。"
+  },
+  "enriched": true
+}

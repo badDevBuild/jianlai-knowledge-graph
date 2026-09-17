@@ -1,0 +1,43 @@
+{
+  "name": "貂帽",
+  "original_name": "白景遗蜕之帽",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "谢狗（白景）的标志性装束。虽然看起来平平无奇，却 见证了一位远古大妖从蛮荒杀伐向浩然读书人的转折， 也是她与小陌情缘的载体之一 [5-7]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1142章 何日不是元宵",
+      "owner": "谢狗"
+    }
+  ],
+  "subtype": "身份/隐匿类",
+  "holder": "谢狗（白景）",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白景（真身）",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为远古大妖主动剥离的“渣滓”化身，随谢狗融入浩然 天下，有望演化为屏蔽天机的重要凭证。",
+  "supernatural_ability": "能够掩盖远古剑修的滔天杀意，使人难以从外表看破其 飞升境巅峰的真实身份 。",
+  "evolution": {
+    "current_form": "一顶看起来老旧、毛色略显杂乱的貂皮帽子。",
+    "materials_consumed": [
+      "大妖遗蜕气机"
+    ],
+    "potential_evolution": "可演化为能装载一方天地气运的“乾坤帽”。"
+  },
+  "visual": {
+    "static": "色泽深沉，质感粗粝，常年戴在名为“谢狗”的少女头上 。",
+    "active": "在谢狗战斗时，貂帽会随着剑气激荡而呈现出某种远古 荒凉的气象。"
+  },
+  "provenance": {
+    "origin": "白景为了“不务正业”地游戏人间，故意剥离出的一份性 格载体。",
+    "karma_link": "象征着白景在落魄山担任次席供奉的新身份。"
+  },
+  "enriched": true
+}

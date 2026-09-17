@@ -1,0 +1,38 @@
+{
+  "name": "黄梅天",
+  "original_name": "黄梅雨",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "指代大骊北岳地界特有的黄梅天意境。它不仅是自然的降水，更是大骊通过夜游宴与山水大阵凝聚而成 的文武气运显化，具有淬炼神祇金身之妙 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第915章 田垄上",
+      "owner": "蜀中暑"
+    }
+  ],
+  "subtype": "气象类",
+  "holder": "大骊王朝 / 披云山",
+  "holder_relation": "寄托",
+  "rank": "灵器",
+  "rank_potential": "随着北岳披云山升格为全洲大岳，该气象意境已转化为稳固一洲气运的动态阵法 。",
+  "supernatural_ability": "“润泽万物/连绵压胜”。其降水能够浸润金身，使得山君魏檗的金身愈发精纯，并对潜伏的妖邪产生持 续的迟滞效果 。",
+  "evolution": {
+    "current_form": "连绵不绝的雨水气象 。",
+    "materials_consumed": [
+      "五岳五色土精粹",
+      "大骊国运"
+    ],
+    "potential_evolution": "可配合“二十四节气大阵”演化为笼罩全洲的防御屏障 。"
+  },
+  "visual": {
+    "static": "披云山及其周边如烟如雾的细雨景象 。",
+    "active": "雨水呈现出淡淡的金色光彩，如丝线般交织，淬炼山根水脉 。"
+  },
+  "provenance": {
+    "origin": "宝瓶洲大骊王朝境内的自然气象与国运结合 。",
+    "karma_link": "见证了魏檗从棋墩山土地公跻身一洲大山君的身份转迁 。"
+  },
+  "enriched": true
+}

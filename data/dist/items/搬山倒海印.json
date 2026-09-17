@@ -1,0 +1,44 @@
+{
+  "name": "搬山倒海印",
+  "original_name": "山河印 (山字印/水字印)",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是齐静春留给陈平安最重要的护道法宝。水字印不仅是五行本命物，更是陈平安在山水官场中身份的 象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第634章 搬山倒海",
+      "owner": "刘羡阳"
+    }
+  ],
+  "subtype": "镇压/气运类",
+  "holder": "陈平安",
+  "holder_relation": "大炼 (水字印)",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "随持印者跻身上五境，可真正实现“指点江山，言出法随” 。",
+  "supernatural_ability": "能够镇压一洲山水气运，敕令水神山君，并具现化出大渎或大岳的威能 。",
+  "evolution": {
+    "current_form": "原本的山字印已碎，剩余水字印被陈平安炼化入水府 。",
+    "materials_consumed": [
+      "大渎水精玉简",
+      "神灵金身碎片"
+    ],
+    "potential_evolution": "与“五雷法印”结合，可演化为掌控天地秩序的“枢机印” 。"
+  },
+  "visual": {
+    "static": "印身碧绿莹润，底款文字法度森严，隐约可见江河奔流之势 。",
+    "active": "钤印时万顷波涛随之而生，或是群山震颤，压胜一切邪祟 。"
+  },
+  "provenance": {
+    "origin": "齐静春亲手雕琢，作为陈平安重建长生桥的根本物 。",
+    "karma_link": "见证了陈平安从泥腿子到剑客的转变，承载了儒家文脉的期许 。"
+  },
+  "enriched": true
+}

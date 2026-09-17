@@ -1,0 +1,42 @@
+{
+  "name": "鎏金火灵神印",
+  "original_name": "刘老成本命法印",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是刘老成最强横的攻伐利器。在水汽弥漫的书简湖，此印凭借极致的火法逆势而行，是刘老成能够在 众多岛主中脱颖而出的核心保障 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第437章 天亮了",
+      "owner": "刘老成"
+    },
+    {
+      "chapter": "第444章 世间人事皆芥子",
+      "owner": "刘老成"
+    }
+  ],
+  "subtype": "攻伐类 / 镇压类",
+  "holder": "刘老成",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为书简湖顶尖野修的大道根基，威力随持有者跻身仙人境而暴涨 。",
+  "supernatural_ability": "能召唤巨大的火焰金身法相，在水运浓厚之地强行逆转五行，以大火压制江河 。",
+  "evolution": {
+    "current_form": "一方鎏金质地的古朴法印 。",
+    "materials_consumed": [
+      "书简湖水运（逆向炼化）",
+      "大妖精血"
+    ],
+    "potential_evolution": "已成为刘老成步入上五境的关键本命物 。"
+  },
+  "visual": {
+    "static": "印身散发出沉重的火属压力，印文隐现雷火之色 。",
+    "active": "祭出后化作一团黑色或金色的火焰大旋涡，可具象化为手持巨斧、身披黑火甲胄的百丈法相 。"
+  },
+  "provenance": {
+    "origin": "由书简湖野修刘老成亲手炼制，旨在克制书简湖的群雄 。",
+    "karma_link": "见证了书简湖数十年的混乱与归一过程 。"
+  },
+  "enriched": true
+}

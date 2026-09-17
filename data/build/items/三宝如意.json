@@ -1,0 +1,44 @@
+{
+  "name": "三宝如意",
+  "original_name": "玉如意 / 柔荑随身法器",
+  "type": "法宝",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "这是一件极高品秩的半仙兵，由飞升境大妖柔荑持有。它是黄鸾遗留给她的核心至宝之一，具备极强的 神异色彩 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第269章 我有小事大如斗",
+      "owner": "灵芝斋"
+    }
+  ],
+  "subtype": "攻伐类 / 辅助类",
+  "holder": "柔荑 (道号硕人)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大妖黄鸾",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为远古大妖遗留的重宝，蕴含极强的神道压胜之力，可随持有者境界提升而威势倍增 。",
+  "supernatural_ability": "**“如意定音”**。能够定住方圆之内的灵气运转，甚至可配合琵琶神女的歌声进行神魂攻击 。",
+  "evolution": {
+    "current_form": "温润如玉的长柄如意，顶部常伴有灵气氤氲 。",
+    "materials_consumed": [
+      "上古玉精",
+      "远古神性碎片"
+    ],
+    "potential_evolution": "若能补全其中的神道法则，可升格为真正的仙兵重器 。"
+  },
+  "visual": {
+    "static": "样式古朴，通体碧绿或雪白，表面刻有复杂的云气纹路 。",
+    "active": "挥动时宝光焕然，可显化出类似“幻象天地”的禁制范围 。"
+  },
+  "provenance": {
+    "origin": "源自蛮荒天下旧王座大妖黄鸾的珍藏 。",
+    "karma_link": "由黄鸾赠予其道侣（或三尸余孽）柔荑，承载了蛮荒天下的古老秘术 。"
+  },
+  "enriched": true
+}

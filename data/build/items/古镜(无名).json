@@ -1,0 +1,44 @@
+{
+  "name": "古镜(无名)",
+  "original_name": "巫山古镜",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此镜是隋景澄在游历中偶然获得的奇物。虽然在凡夫眼中仅是普通的梳妆用具，实则内部别有洞天，是 极为罕见的辅助修行与空间秘境结合的法宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第923章 与诸君借取千山万水（四）",
+      "owner": "裘渎"
+    }
+  ],
+  "subtype": "空间类 / 辅助类",
+  "holder": "隋景澄",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "路边摊主",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为一处可进化的“云雨秘境”，其空间法度随持有者境界提升而增强 。",
+  "supernatural_ability": "内部藏有一处既可以是旖旎香艳、也可以是道法玄妙的“云雨秘境” 。",
+  "evolution": {
+    "current_form": "一把篆刻“巫山”二字的古铜梳妆镜 。",
+    "materials_consumed": [
+      "古铜精粹",
+      "云雨道韵"
+    ],
+    "potential_evolution": "可演化为具有完整大道压胜能力的洞天级法宝 。"
+  },
+  "visual": {
+    "static": "外表看似寻常的古铜梳妆镜，镜面略显陈旧 。",
+    "active": "激发后镜面波光粼粼，呈现出如梦似幻的云雨景象，能将修士神识拉入秘境 。"
+  },
+  "provenance": {
+    "origin": "隋景澄从路边摊捡漏买得 。",
+    "karma_link": "属于旁门左道的稀罕法器，承载着某种男女情爱的宿缘 。"
+  },
+  "enriched": true
+}

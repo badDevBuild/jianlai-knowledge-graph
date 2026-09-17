@@ -1,0 +1,41 @@
+{
+  "name": "青铜短剑",
+  "original_name": "赵匕首",
+  "type": "灵器",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "王珂在一处废墟遗址中发现的机缘。该剑虽小且残，但实为名剑后裔。陈平安对其“赵匕首”的身份确认 ，暗示了其在历史典故中的特殊地位 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1105章 一个新鲜故事",
+      "owner": "萧愻(转赠洛衫)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "王珂",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "徐夫人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽目前品级为灵器，但作为名剑仿制品，具备极高的锋锐度和成长上限 。",
+  "supernatural_ability": "能够产生惊人的剑光，对妖邪有显著的杀伤效果，其剑气中蕴含某种古老真意 。",
+  "evolution": {
+    "current_form": "锈迹斑斑的青铜短剑，刻有“赵”、“徐”二字 。",
+    "materials_consumed": [],
+    "potential_evolution": "通过名家淬炼可望重现上古神兵神采 。"
+  },
+  "visual": {
+    "static": "剑身锈迹斑斑，外表平庸，铭文模糊 。",
+    "active": "一旦激发，剑身流光溢彩，显现出超越凡俗的锋锐剑气 。"
+  },
+  "provenance": {
+    "origin": "桐叶洲北亭国丈人观废弃道院 。",
+    "karma_link": "由少年王珂偶然所得，陈平安指出其为“徐夫人”所制的“赵匕首” 。"
+  },
+  "enriched": true
+}

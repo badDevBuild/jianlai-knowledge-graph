@@ -1,0 +1,43 @@
+{
+  "name": "树枝",
+  "original_name": "坠有绿芽的古老树枝",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这根树枝在《剑来》中多次出现，既是官乙送给白景的“买命钱”，也是远古时代小夫子、白泽等十豪人 物共商大事时的“笔墨” [4-6]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第466章 收武运吃珠子",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "契机类 / 辅佐类",
+  "holder": "白景 (谢狗)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "官乙",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "带有远古气息的灵植残部，能在特定环境下演化出独特的山水气象 。",
+  "supernatural_ability": "能够作为“破财消灾”的重礼，说明其本身蕴含极深的因果和灵力 。",
+  "evolution": {
+    "current_form": "一根坠有绿芽的古老枯枝 。",
+    "materials_consumed": [
+      "远古灵气"
+    ],
+    "potential_evolution": "若得造化，可生发出类似小夫子在地画圈的规则力量 。"
+  },
+  "visual": {
+    "static": "看似寻常树枝，但带有生机勃勃的绿芽，透着一股苍茫的古意 。",
+    "active": "在圣人或高位修士手中，可以划地成阵，圈定规矩 。"
+  },
+  "provenance": {
+    "origin": "源自蛮荒天下的一处古老遗址，后为官乙持有 。",
+    "karma_link": "由官乙赠予白景以结清因果；小夫子亦曾持树枝在地上圈画，预示礼法之始 。"
+  },
+  "enriched": true
+}

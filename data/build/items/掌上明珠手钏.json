@@ -1,0 +1,37 @@
+{
+  "name": "掌上明珠手钏",
+  "original_name": "灵犀珠手钏",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是南簪随身佩戴的顶级灵物。珠串核心的灵犀珠能够锚定修士的宿命，对大宗门延续法脉香火具有极 高的战略价值，后被陈平安身边的陌生以剑术禁制压制 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1195章 定场诗",
+      "owner": "落魄山(制造方)"
+    }
+  ],
+  "subtype": "辅助类 / 记忆类",
+  "holder": "南簪",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "通过收集更多高品秩的灵犀珠可进一步提升其灵性 。",
+  "supernatural_ability": "帮助修士开悟心神，记起前世过往，并能令修行者“灵犀一点通”，找回遗忘的记忆画卷 。",
+  "evolution": {
+    "current_form": "由十二颗雪白灵犀珠串联而成的珠钏 。",
+    "materials_consumed": [
+      "灵犀珠"
+    ],
+    "potential_evolution": "可用于大规模牵引、重构转世祖师的宿命根脚 。"
+  },
+  "visual": {
+    "static": "由十二颗雪白珠子组成，明莹可爱 。",
+    "active": "珠子散发温润白光，能够与修士神魂产生共鸣，显化前世人事 。"
+  },
+  "provenance": {
+    "origin": "灵犀珠是有价无市的珍稀存在，常被各大宗门用于寻找并接回兵解转世的祖师爷 。",
+    "karma_link": "与大骊太后南簪的身份揭秘及其在光阴长河中的记忆复苏密切相关 。"
+  },
+  "enriched": true
+}

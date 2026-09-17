@@ -1,0 +1,45 @@
+{
+  "name": "竹揸酒",
+  "original_name": "竹海洞天酒 / 青神山酒",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "**竹揸酒**（即竹海洞天酒）是剑气长城酒铺的招牌酒水 。它因独特的竹香与“饮我酒者可破境”的噱头风靡城头，成为了剑修们在生死间难得的藉慰 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第319章 何为天下无敌",
+      "owner": "无"
+    }
+  ],
+  "subtype": "滋养类 / 消耗类",
+  "holder": "叠嶂酒铺",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因含有青神山竹叶与酒虫真意，具备洗涤道心、壮大气府的功效 。",
+  "supernatural_ability": "**“竹韵清心”**。酒缸中需搁放竹叶和竹枝，并由“酒虫”浸泡三天而成 。饮之可破除心魔，对剑修温养飞剑有辅助之效 。",
+  "evolution": {
+    "current_form": "分为不同等次的仙家酒酿，最高等为“青神山酒” 。",
+    "materials_consumed": [
+      "酒虫子",
+      "青神山竹叶",
+      "落魄山灵泉"
+    ],
+    "potential_evolution": "若以万年土封存，可演化为延年益寿的顶级药酒 。"
+  },
+  "visual": {
+    "static": "酒液澄澈，带有淡淡的竹叶清香 。",
+    "active": "倒入碗中时呲呲作响，有类似“擘萝”的爆裂声，异香扑鼻 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城与叠嶂合伙创办酒铺时的产物 。",
+    "karma_link": "借用了青神山夫人的名头（别名），是隐官陈平安生财有道的重要支柱 。"
+  },
+  "enriched": true
+}

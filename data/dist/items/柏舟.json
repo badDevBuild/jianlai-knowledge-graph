@@ -1,0 +1,46 @@
+{
+  "name": "柏舟",
+  "original_name": "一叶扁舟/仙槎",
+  "type": "其他",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "一种在江河湖泊中常见的**代步工具**，但在书中往往承载着极重的文学与意境价值 。陈平安曾多次在书简湖或大渎之上以此一叶扁舟经历心路转折 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1156章 天公作美",
+      "owner": "新天庭某位存在"
+    },
+    {
+      "chapter": "第1203章 开门见了新人间",
+      "owner": "未知"
+    },
+    {
+      "chapter": "第1217章 一叶落",
+      "owner": "阮秀"
+    }
+  ],
+  "subtype": "交通/意境类",
+  "holder": "隐逸修士",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "寄托儒道文运后可化为能够跨越江河的灵舟 。",
+  "supernatural_ability": "虽然杀力平平，却能隐匿气机，使人置身于“水长天作限”的静谧心境 。",
+  "evolution": {
+    "current_form": "一叶轻灵的小舟，常在湖面随波起伏 。",
+    "materials_consumed": [
+      "清风",
+      "明月"
+    ],
+    "potential_evolution": "可作为构建心相天地的雏形节点 。"
+  },
+  "visual": {
+    "static": "外表简朴甚至有些陈旧，常停靠在芦苇丛或古渡口 。",
+    "active": "随水而行，上下新月共映，散发淡淡的烟霞气 。"
+  },
+  "provenance": {
+    "origin": "书简湖、大渎或各大江河渡口 。",
+    "karma_link": "象征着修道之人的出世心境与“人生一传舍”的感怀 。"
+  },
+  "enriched": true
+}

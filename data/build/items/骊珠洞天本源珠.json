@@ -1,0 +1,44 @@
+{
+  "name": "骊珠洞天本源珠",
+  "original_name": "骊珠 / 真龙遗物",
+  "type": "灵物",
+  "grade": "神器",
+  "status": "损毁",
+  "description": "这是《剑来》开篇最重大的机缘。它不仅是**王朱重返巅峰的关键**，更是大骊王朝得以跻身“一国即 一洲”大局的底层气运来源 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第66章 抬头",
+      "owner": "齐静春 (暂时掌控)"
+    }
+  ],
+  "subtype": "气运类 / 水法类",
+  "holder": "王朱",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "最后一条真龙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为三十六小洞天之一的根基，其潜力等同于整座洞天的山水气运与真龙的大道神性 。",
+  "supernatural_ability": "**“龙抬头”**。蕴含至高无上的龙气，能够压胜天下万千蛟龙之属，并具备重塑肉身、让持有者合道大 海的权能 。",
+  "evolution": {
+    "current_form": "起初呈现为土黄色四脚蛇或稚圭身边的某种气运凝聚物，后演化为东海水君的权柄 。",
+    "materials_consumed": [
+      "真龙灵血",
+      "万年禁制灵气"
+    ],
+    "potential_evolution": "可助王朱恢复万年之前的完整真龙之身 。"
+  },
+  "visual": {
+    "static": "外表呈圆珠状，色泽深邃，内部仿佛有雷电与云雾翻涌 。",
+    "active": "激发时会散发出照彻江海的金色光芒，伴随震天动地的龙鸣声 。"
+  },
+  "provenance": {
+    "origin": "由最后一条真龙陨落后所衔的精华凝聚，埋藏于真珠山下 。",
+    "karma_link": "与陈平安的救命之恩及宋集薪的龙气窃取因果深度绑定 。"
+  },
+  "enriched": true
+}

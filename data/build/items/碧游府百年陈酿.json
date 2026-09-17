@@ -1,0 +1,45 @@
+{
+  "name": "碧游府百年陈酿",
+  "original_name": "水花酒 / 兰花酿",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "作为碧游府最为珍贵的酒酿，它不仅是仙家极品，更是埋河水运的具象 化。陈平安曾在此留下一段“讲顺序”的佳话 [17-19]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第344章 圣人驾临碧游府",
+      "owner": "埋河水神"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "埋河水神 (柳柔)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大泉王朝皇室",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "受大渎水运长期浸润，具备温养修士水属本命物的神效 。",
+  "supernatural_ability": "饮用后能极大程度扩充气府的灵气容积，对于重塑长生桥后的初期修行 大有裨益 。",
+  "evolution": {
+    "current_form": "装在封泥完好的陶罐中，酒香具有极致的穿透力 。",
+    "materials_consumed": [
+      "埋河江心水",
+      "皇家秘方",
+      "水神愿力"
+    ],
+    "potential_evolution": "可进阶为“万年金瓶水”，作为跻身上五境的药酒引子。"
+  },
+  "visual": {
+    "static": "酒液碧绿如玉，碗中涟漪自生，如明月倒影 。",
+    "active": "倾倒时会有类似龙吟的细微声响，灵气升腾如雾 。"
+  },
+  "provenance": {
+    "origin": "产自大泉王朝埋河碧游府，为水神私藏 。",
+    "karma_link": "见证了陈平安与埋河水神、钟魁之间的“宵夜情谊” 。"
+  },
+  "enriched": true
+}

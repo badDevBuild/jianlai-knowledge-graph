@@ -1,0 +1,38 @@
+{
+  "name": "杀蛟",
+  "original_name": "杀蛟",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**杀蛟**是林君璧的核心本命物。它在大战中表现出色，因其独特的神通，使得林君璧在面对任何具有 龙族血统的对手时都占据绝对优势 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第592章 境界于我无意思",
+      "owner": "林君璧"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "林君璧",
+  "holder_relation": "大炼",
+  "rank": "灵器",
+  "rank_potential": "在隐官一脉的评定中位列乙等，针对蛟龙水裔具有极高的成长性 。",
+  "supernatural_ability": "具备极其强大的血脉压胜，专门用于斩杀蛟龙之属；出剑轨迹难以捉摸，能直接威胁对手金丹 。",
+  "evolution": {
+    "current_form": "本命飞剑形态 。",
+    "materials_consumed": [
+      "蛟龙精血",
+      "剑道感悟"
+    ],
+    "potential_evolution": "成为能够震慑整座天下水裔的顶级杀伐飞剑 。"
+  },
+  "visual": {
+    "static": "平时隐匿于气府，无形无色 。",
+    "active": "祭出后剑光呈深紫色，对阵蛟龙时会产生龙吟般的剑鸣 。"
+  },
+  "provenance": {
+    "origin": "林君璧本命孕育 。",
+    "karma_link": "宁姚曾凭借此剑意在对垒中制造出同名仿剑 。"
+  },
+  "enriched": true
+}

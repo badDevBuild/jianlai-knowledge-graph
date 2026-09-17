@@ -1,0 +1,49 @@
+{
+  "name": "莲花灯",
+  "original_name": "续命灯 / 还魂荷花灯",
+  "type": "法宝",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是剑气长城用于保护核心剑仙战死的最后手段。它通 过极高代价的“烧钱”来维持灯火，是剑修在这方无法之 地追求“死而无坟、剑气长存”外的另一条退路 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1141章 兵家必争之地",
+      "owner": "陆沉"
+    }
+  ],
+  "subtype": "神魂/保命类",
+  "holder": "纳兰烧苇",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "剑气长城",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "可由魂魄拓碑之法演化为真正的不死身，随使用者境界 提升能稳固神魂根本。",
+  "supernatural_ability": "具备“魂魄拓碑”之法，能在死后重塑魂魄阴神与阳神真 身。即便在那万年刑徒之地，亦能以此灯续命，使得剑 仙在身死道消之际仍有一线生机 [1-3]。",
+  "evolution": {
+    "current_form": "藏于剑匣内的荷花状油灯。",
+    "materials_consumed": [
+      "修士魂魄",
+      "仙家秘术",
+      "神仙钱"
+    ],
+    "potential_evolution": "若能配合飞升境仙蜕，可重塑为完整的飞升境体魄 。"
+  },
+  "visual": {
+    "static": "形如白莲，灯芯明亮，散发出淡淡的光阴气息。",
+    "active": "点燃后灯火辉映，显化出修士的生平功过，火光中可见 神魂凝练之象。"
+  },
+  "provenance": {
+    "origin": "剑气长城秘传，由陈平安在离开前交予缝衣人。",
+    "karma_link": "连接了纳兰烧苇的转世因果与陈平安作为隐官的护道之 责。"
+  },
+  "enriched": true
+}

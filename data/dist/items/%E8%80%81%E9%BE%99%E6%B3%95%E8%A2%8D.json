@@ -1,0 +1,48 @@
+{
+  "name": "老龙法袍",
+  "original_name": "金醴",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "一件可以**“吃钱生长”**的传奇法袍。它曾是龙虎山的遗珍，因缘际会下成为陈平安的本命物，为其在 多次生死战中提供了不败金身级别的保护 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第794章 明白",
+      "owner": "南光照"
+    }
+  ],
+  "subtype": "防御类 / 气运类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "龙虎山天师府仙人",
+      "relation": "原主"
+    },
+    {
+      "name": "蛟龙沟老蛟",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "通过不断“进食”**金精铜钱**，已从法宝品秩晋升为仙兵，且仍有成长空间 。",
+  "supernatural_ability": "能收纳并转化海量天地灵气，对地仙以下的术法攻击具备近乎豁免的防御力 。",
+  "evolution": {
+    "current_form": "雪白色的长袍（施展了障眼法） 。",
+    "materials_consumed": [
+      "大量金精铜钱",
+      "飞升境琉璃金身碎片"
+    ],
+    "potential_evolution": "若能继续喂养顶级金精铜钱，可成为防御力冠绝一洲的终极重器 。"
+  },
+  "visual": {
+    "static": "本色为金光灿烂的龙袍样式，绣有金龙衔珠图案 。",
+    "active": "激发时金光万丈，龙睛火种复燃，灵气浓稠似水，形成坚不可摧的灵气屏障 。"
+  },
+  "provenance": {
+    "origin": "龙虎山一位与家族决裂的天师遗留在海外仙山的遗物 。",
+    "karma_link": "陈平安在蛟龙沟斩杀老蛟后获得此袍，成为其最重要的防御底牌 。"
+  },
+  "enriched": true
+}

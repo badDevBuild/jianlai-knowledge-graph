@@ -1,0 +1,52 @@
+{
+  "name": "浩然气",
+  "original_name": "大骊仿白玉京十二飞剑之一",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "浩然气是大骊仿白玉京十二飞剑之一，在剑气长城的少年剑修挑选飞剑时，被一名气质儒雅、被认为最 像读书人的少年选中 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第206章 月儿圆月儿弯",
+      "owner": "年长读书人剑修"
+    },
+    {
+      "chapter": "第253章 有人送剑有人等",
+      "owner": "学宫君子(原属阿良)"
+    },
+    {
+      "chapter": "第919章 只是朱颜改",
+      "owner": "顾旷"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "一个年纪最长、不像剑修更像读书人的少年",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊宋氏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为大骊王朝倾力打造的仿白玉京十二剑之一，承载了一洲之剑道气运 。",
+  "supernatural_ability": "具备极其宏大的儒家正气压胜之力 。",
+  "evolution": {
+    "current_form": "长剑",
+    "materials_consumed": [
+      "大骊国运",
+      "文运灵气"
+    ],
+    "potential_evolution": "与十二剑合流，构筑斩杀大妖的绝强杀阵 。"
+  },
+  "visual": {
+    "static": "剑身散发着纯正的儒家文气，气象森严 。",
+    "active": "激发时正气凛然，对阴物鬼魅有天然的压制效果 。"
+  },
+  "provenance": {
+    "origin": "由大骊王朝国师崔瀺主持，模仿青冥天下白玉京十二楼飞剑打造 。",
+    "karma_link": "是大骊王朝谋划多年、聚拢各方剑仙以对抗蛮荒天下的重器之一 。"
+  },
+  "enriched": true
+}

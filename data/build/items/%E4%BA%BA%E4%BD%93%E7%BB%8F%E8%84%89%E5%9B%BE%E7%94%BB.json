@@ -1,0 +1,38 @@
+{
+  "name": "人体经脉图画",
+  "original_name": "武夫人身山河图",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安为自己设计的“进化之路”。通过将自身山河 化为具体图景，他得以在多次跌境中保住大道根本 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1124章 二十人与候补们（六）",
+      "owner": "曹慈"
+    }
+  ],
+  "subtype": "记录/修行类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "rank": "法宝",
+  "rank_potential": "随陈平安对“我与我周旋”境界的理解，可演化为真实的 内景宇宙。",
+  "supernatural_ability": "将人身窍穴视为山岳，经脉视为河床，灵气为洪水。辅 助修士进行精准的内视与炼物 。",
+  "evolution": {
+    "current_form": "心相显化而生的全景人身视图。",
+    "materials_consumed": [
+      "三十万六千个山水记忆",
+      "纯粹武夫真气"
+    ],
+    "potential_evolution": "最终可演化为支撑“三千小千世界”规律的造化蓝图 。"
+  },
+  "visual": {
+    "static": "修士内视时，呈现为一片鸿蒙初开的寂静世界。",
+    "active": "运转气机时，金光灿烂，五行本命物各司其职，呈现出 山川湖海之异象 。"
+  },
+  "provenance": {
+    "origin": "陈平安结合缝衣术、武道巅峰心得及三教学问自创 。",
+    "karma_link": "体现了“人身即宇宙”的宏大叙事与微观修行的统一。"
+  },
+  "enriched": true
+}

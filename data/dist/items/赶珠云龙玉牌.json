@@ -1,0 +1,35 @@
+{
+  "name": "赶珠云龙玉牌",
+  "original_name": "赶珠云龙玉牌",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件利用空间压缩与压胜法则制造的召唤类法宝 。玉牌内部禁锢着具有成长性的蛟龙精魂，是蛮荒天下大妖在战场上常用的奇兵 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第623章 炼剑",
+      "owner": "蛮荒大妖"
+    }
+  ],
+  "subtype": "攻伐类 / 召唤类",
+  "holder": "蛮荒大妖",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "通过吸纳龙脉气运或水运，可进一步增强所召唤蛟龙的实力 。",
+  "supernatural_ability": "攥紧玉牌后，可释放出数条手指长度的黑色蛟龙；这些蛟龙离开玉牌压胜后会迅速变作庞然大物，绞杀 敌人 。",
+  "evolution": {
+    "current_form": "由墨玉雕刻而成的精美玉牌 。",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "墨玉质地，雕刻有双龙戏珠的古朴图案 。",
+    "active": "激活时绽放夺目光彩，小龙脱壳而出，瞬间充盈天地间化作恶蛟 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下顶级匠人以墨玉与蛟龙精魂合炼而成 。",
+    "karma_link": "在剑气长城攻城战中，被大妖用来突袭撤退中的剑修群体 。"
+  },
+  "enriched": true
+}

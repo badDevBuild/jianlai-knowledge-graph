@@ -1,0 +1,43 @@
+{
+  "name": "《泽被精怪图》",
+  "original_name": "精怪图",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是崔东山珍藏的顶级图册，不同于寻常版刻，图中的精魅使其成为有价无市的仙家重宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第133章 同行",
+      "owner": "崔瀺"
+    }
+  ],
+  "subtype": "灵物类",
+  "holder": "崔东山 (及其弟子)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为中五境修士游历天下的必备图谱，其版本极佳，具备极高的收藏与实战参考价值 。",
+  "supernatural_ability": "画册本身不仅是记录，更天然孕育出了五六种精魅，是极具灵性的活物典籍 。",
+  "evolution": {
+    "current_form": "一册文字精美、内藏生灵的图集 。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "不仅纸张名贵，且图画边缘可见细微精魅活动痕迹 。",
+    "active": "当精魅在字里行间穿梭时，画卷气象生动，文气与灵气交融 。"
+  },
+  "provenance": {
+    "origin": "崔东山作为拜师礼准备献给陈平安的“文人清供”之一 。",
+    "karma_link": "象征着崔东山渊博的学识与深厚的家底 。"
+  },
+  "enriched": true
+}

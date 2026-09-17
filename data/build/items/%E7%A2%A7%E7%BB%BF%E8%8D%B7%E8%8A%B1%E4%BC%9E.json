@@ -1,0 +1,44 @@
+{
+  "name": "碧绿荷花伞",
+  "original_name": "碧荷伞",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这把伞是崔东山标志性的随身法宝之一。它既是文雅的饰品，也是足以硬撼金丹乃至元婴修士的神奇兵 刃 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第768章 压压惊",
+      "owner": "姜尚真"
+    }
+  ],
+  "subtype": "防御类 / 阵法类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "扇面材质特殊，能随着持有者道法的提升演化出更高级的荷塘小天地 。",
+  "supernatural_ability": "能够抵挡强力的雷法冲击；收束时可以当作重型长剑或刀杖使用，一击之下可让地仙气血激荡 。",
+  "evolution": {
+    "current_form": "青竹材质伞柄，碧绿荷花瓣炼制而成的扇面 。",
+    "materials_consumed": [
+      "仙家荷花",
+      "灵气精华"
+    ],
+    "potential_evolution": "可配合特定的水法秘术，演化为能遮蔽天机的“步虚”至宝 。"
+  },
+  "visual": {
+    "static": "伞面娇翠如生，透着草木清香，伞柄温润如玉 。",
+    "active": "撑开后灵光氤氲，能够像屏障一般抵消法则压制，落地时可生出水纹涟漪 。"
+  },
+  "provenance": {
+    "origin": "由崔东山采集仙家材料亲自炼制或从某处秘境获赠 。",
+    "karma_link": "曾随崔东山游历多国，并在正阳山等战事中展露神异 。"
+  },
+  "enriched": true
+}

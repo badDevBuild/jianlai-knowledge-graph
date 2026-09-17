@@ -1,0 +1,43 @@
+{
+  "name": "山海图疏",
+  "original_name": "仙家地理志 / 补志",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一部囊括浩然天下地理与秘闻的神仙书。陈平安凭 借此书补全了对各大洲势力分布的认知，是其后期运筹 帷幄的知识基础 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第795章 酒中又过风波",
+      "owner": "郦先生(作者)"
+    }
+  ],
+  "subtype": "地理/风物类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "倒悬山书铺",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着陈平安游历四方，可作为其完善自身“山河画卷”的 核心参考资料 。",
+  "supernatural_ability": "记载浩然天下九洲风土概况，画面与文字如水似云，可 随心意缓缓流转 。",
+  "evolution": {
+    "current_form": "仙家版刻书籍，图文并茂 。",
+    "materials_consumed": [
+      "神仙钱"
+    ],
+    "potential_evolution": "可与其衍生出的《补志》共同构成详尽的天下形势图 。"
+  },
+  "visual": {
+    "static": "封面古朴，纸张质地非凡，内含大量动态插图 。",
+    "active": "研读时可呈现出栩栩如生的名胜古迹与剑仙挂像 。"
+  },
+  "provenance": {
+    "origin": "陈平安在倒悬山鹳雀客栈附近的商铺购买 。",
+    "karma_link": "是陈平安“行走天下、记录山河”心路的文字载体 。"
+  },
+  "enriched": true
+}

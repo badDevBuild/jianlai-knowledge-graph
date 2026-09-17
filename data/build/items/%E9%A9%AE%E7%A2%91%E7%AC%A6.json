@@ -1,0 +1,55 @@
+{
+  "name": "驮碑符",
+  "original_name": "龟驼碑符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "这是一种兼具防御与辅助移动功能的高级符箓。陈平安在鬼蜮谷和多处仙府遗址中曾凭借此符的神通化 险为夷。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第502章 压下一条线",
+      "owner": "鬼斧宫/陈平安"
+    },
+    {
+      "chapter": "第516章 山水迢迢",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第544章 舟中之人尽敌国",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1203章 开门见了新人间",
+      "owner": "杜俞"
+    }
+  ],
+  "subtype": "加持/防御类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "符箓于玄",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "若能获得真正的五岳山根加持，其镇压之力可大幅度提升。",
+  "supernatural_ability": "祭出后能使持有者气机沉稳如山，获得‘不动如山’的防御效果；亦可反向施展，使人轻灵如羽，掠行如 飞。",
+  "evolution": {
+    "current_form": "绘有特殊龟形负碑纹路的符箓。",
+    "materials_consumed": [
+      "法力精气"
+    ],
+    "potential_evolution": "可配合阵法演化为能够镇压整座城池气运的‘镇山大符’。"
+  },
+  "visual": {
+    "static": "符纸表面纹路厚重，透着一股古朴沉稳的气息。",
+    "active": "张贴在身上后，四周会泛起厚重的金光，身形掠动时快如虹光、无声无息。"
+  },
+  "provenance": {
+    "origin": "源自符箓宗师于玄或类似的高深道门传承。",
+    "karma_link": "陈平安曾多次使用此符在险峻环境中避险及作战。"
+  },
+  "enriched": true
+}

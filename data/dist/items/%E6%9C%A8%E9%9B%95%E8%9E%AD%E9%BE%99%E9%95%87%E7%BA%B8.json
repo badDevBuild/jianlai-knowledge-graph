@@ -1,0 +1,46 @@
+{
+  "name": "木雕螭龙镇纸",
+  "original_name": "骊珠洞天五大机缘之一",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**木雕螭龙镇纸是骊珠洞天五份顶级大道福缘之一** 。它不仅是珍贵的文房物件，更是能够反哺主人体魄、赋予持有者纯正龙气的绝世灵物 。",
+  "aliases": [
+    "木龙镇纸"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第415章 人间最得意",
+      "owner": "赵繇"
+    }
+  ],
+  "subtype": "镇压类 / 守护类",
+  "holder": "赵繇",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为骊珠洞天孕育的三千年机缘之一，具备随持有者进阶为真龙随从的潜质 。",
+  "supernatural_ability": "能够**压制气运流散**，并在特定条件下“点睛”化为真实的螭龙护法，其战力可直指元婴或玉璞境 。",
+  "evolution": {
+    "current_form": "一只看似休眠的木雕螭龙造型镇纸 。",
+    "materials_consumed": [
+      "真龙精血气韵",
+      "齐静春点睛之笔"
+    ],
+    "potential_evolution": "完全苏醒后可化为拥有强大防御力的山水守护神兽 。"
+  },
+  "visual": {
+    "static": "雕刻细腻，龙形生动，色泽古朴，透着一种被岁月浸染的灵气 。",
+    "active": "苏醒时会发出阵阵龙吟，木雕之身产生温润的光泽，甚至显化出龙形虚影 。"
+  },
+  "provenance": {
+    "origin": "出自骊珠洞天，是最后一条真龙陨落后积淀的福缘之一 。",
+    "karma_link": "齐静春作为书童赠礼交予赵繇，助其在大道争先中占据一席之地 。"
+  },
+  "enriched": true
+}

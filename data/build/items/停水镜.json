@@ -1,0 +1,43 @@
+{
+  "name": "停水镜",
+  "original_name": "停水境",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "停水镜是地支之巳苦手的立身之本，与其大道根脚“卖镜人”相契合。在特定的小天地内，它能将对手的 虚影转化为具有实感的战斗力，是地支一脉中极具战术价值的重器 。",
+  "aliases": [
+    "停水境"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第839章 青出于蓝而胜于蓝",
+      "owner": "苦手"
+    },
+    {
+      "chapter": "第1211章 演武",
+      "owner": "苦手"
+    }
+  ],
+  "subtype": "空间类 / 压胜类",
+  "holder": "苦手",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为针对高位修士的特殊重器，其上限在于通过“纠错”与“修正”来无限趋近于大道真相 。",
+  "supernatural_ability": "能够摹拓出一位玉璞境修士的“实境” 。",
+  "evolution": {
+    "current_form": "一把被大炼为本命物的古镜 。",
+    "materials_consumed": [
+      "地支一脉资源"
+    ],
+    "potential_evolution": "可通过不断摹拓强者的气机来完善镜内世界 。"
+  },
+  "visual": {
+    "static": "形制古雅的镜子 。",
+    "active": "在战斗中可映射出敌方的身形气机，通过不断的“虚实转换”使对手防不胜防 。"
+  },
+  "provenance": {
+    "origin": "由大骊国师崔瀺为地支一脉苦手量身选定或培育的本命物 。",
+    "karma_link": "曾协助陈平安共同对付十四境鬼物，通过摹拓对方“实境”寻找破绽 。"
+  },
+  "enriched": true
+}

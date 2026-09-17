@@ -1,0 +1,72 @@
+{
+  "name": "剑经",
+  "original_name": "卢氏剑经",
+  "type": "典籍",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是改变刘羡阳命格的神奇书籍。它打破了“醒时方能练剑”的铁律，让他在虚实交替间继承了极其古老 且纯粹的剑道法统 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第7章 碗水",
+      "owner": "刘羡阳(传闻)"
+    },
+    {
+      "chapter": "第34章 齐聚",
+      "owner": "刘羡阳(潜在)"
+    },
+    {
+      "chapter": "第42章 天才",
+      "owner": "刘羡阳"
+    },
+    {
+      "chapter": "第43章 少年和老狗",
+      "owner": "刘羡阳"
+    },
+    {
+      "chapter": "第44章 水落石出",
+      "owner": "刘羡阳(原主)"
+    },
+    {
+      "chapter": "第45章 阳光",
+      "owner": "刘羡阳 (潜在)"
+    },
+    {
+      "chapter": "第47章 独行",
+      "owner": "刘羡阳"
+    },
+    {
+      "chapter": "第61章 过河卒",
+      "owner": "刘姓少年(原)"
+    }
+  ],
+  "subtype": "传承类",
+  "holder": "刘羡阳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘氏先祖",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "在小镇三千年历史中排名前列，具备让凡俗夫子“梦中练剑”并跻身上五境的极高上限 。",
+  "supernatural_ability": "“梦中练剑”。持有者可在梦境中穿越时空，在古战场遗址砥砺剑锋，从而在现实中反馈出惊世骇俗的剑 道修为 。",
+  "evolution": {
+    "current_form": "由黄油纸包裹的泛黄古籍 。",
+    "materials_consumed": [
+      "卢氏千年气运",
+      "上古剑意残余"
+    ],
+    "potential_evolution": "配合“水田洞天”或“烟霞福地”，可造就出一洲剑道魁首 。"
+  },
+  "visual": {
+    "static": "书页古朴，文字多为难懂的古篆，封面无名 。",
+    "active": "梦境开启时，书中文字化作万千剑光，引领神识进入诸神陨落的远古战场 。"
+  },
+  "provenance": {
+    "origin": "卢氏家族代代秘藏的镇山之宝 。",
+    "karma_link": "引起清风城许氏与正阳山觊觎的导火索，直接导致刘羡阳遭遇老猿截杀 。"
+  },
+  "enriched": true
+}

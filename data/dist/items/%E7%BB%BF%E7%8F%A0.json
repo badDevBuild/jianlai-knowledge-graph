@@ -1,0 +1,52 @@
+{
+  "name": "绿珠",
+  "original_name": "古榆国剑尊佩剑",
+  "type": "灵器",
+  "grade": "佩剑",
+  "status": "活跃",
+  "description": "古榆国“剑尊”的佩剑，被誉为宝瓶洲中部最著名的四把名剑之一。由于剑尊行踪不定且武德较差，此剑 往往伴随着极重的血腥气。",
+  "aliases": [
+    "绿珠"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第237章 小暑过后，春风犹在",
+      "owner": "古榆国剑尊"
+    },
+    {
+      "chapter": "第247章 就此一别，山高水长",
+      "owner": "苏琅"
+    },
+    {
+      "chapter": "第471章 听说你要问剑",
+      "owner": "苏琅"
+    },
+    {
+      "chapter": "第841章 新剑修",
+      "owner": "苏琅"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "古榆国剑尊",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为江湖散仙“剑尊”的兵刃，虽武德评价不高，但杀力在周边十数国中难觅敌手。",
+  "supernatural_ability": "“杀力无匹”。剑气中带有古榆国的木属灵秀与江湖散仙的桀骜杀意，擅长破开练气士的法力护盾。",
+  "evolution": {
+    "current_form": "名剑实物",
+    "materials_consumed": [
+      "古榆木精髓",
+      "深山寒铁"
+    ],
+    "potential_evolution": "若得古榆国皇室龙气滋养，可升格为法宝品秩。"
+  },
+  "visual": {
+    "static": "剑身隐现碧绿流光，宛如翡翠雕琢，剑柄刻有“绿珠”二字。",
+    "active": "挥动时绿芒漫天，带有浓郁的木属性灵压，能够阻断一般练气士的灵气流转。"
+  },
+  "provenance": {
+    "origin": "古榆国江湖散仙“剑尊”所得。",
+    "karma_link": "与古榆国皇帝关系紧密，是该国武力与权力的重要象征。"
+  },
+  "enriched": true
+}

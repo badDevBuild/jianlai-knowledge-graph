@@ -1,0 +1,38 @@
+{
+  "name": "桶饼",
+  "original_name": "夜航船点心",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是夜航船上最具有烟火气的食物。即便身为神仙，登 船后也难免想要尝一尝这带有岁月滋味的饼 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1057章 原来是护道",
+      "owner": "谢狗"
+    }
+  ],
+  "subtype": "食材类",
+  "holder": "老妪 (条目城卖饼人)",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "虽是凡俗点心，但在夜航船这种地方，每块饼都蕴含了 一份特定的光阴道理 。",
+  "supernatural_ability": "食之可充饥，并能平复在光阴长河中远游带来的心神躁 动 。",
+  "evolution": {
+    "current_form": "盛放在桶中的普通油炸面食 。",
+    "materials_consumed": [
+      "光阴面粉",
+      "灵泉油"
+    ],
+    "potential_evolution": "若能得圣人加持，可化为“画饼充饥”的言灵之物 。"
+  },
+  "visual": {
+    "static": "色泽金黄，香气朴实，热气腾腾 。",
+    "active": "撕开时有金光内敛，口感酥脆 。"
+  },
+  "provenance": {
+    "origin": "产自夜航船条目城的市井摊位 。",
+    "karma_link": "涉及僧人周金刚在渡船上的问道公案 。"
+  },
+  "enriched": true
+}

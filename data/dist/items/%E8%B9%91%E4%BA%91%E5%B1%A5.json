@@ -1,0 +1,48 @@
+{
+  "name": "蹑云履",
+  "original_name": "蹑云步虚履",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是小陌赠予落魄山众人的见面礼之一。它代表了远古修士对“虚实转换”和“御风远游”的精妙理解，是 极为实用的仙家履鞋 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第976章 炼剑即远游",
+      "owner": "仙尉"
+    },
+    {
+      "chapter": "第1047章 梧桐更兼细雨",
+      "owner": "赵著"
+    }
+  ],
+  "subtype": "位移类 / 辅助类",
+  "holder": "陈平安 (分身)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "小陌",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由远古巅峰剑修编织，虽当下为灵器，但具备承载登天步虚之意境的潜力 。",
+  "supernatural_ability": "赋予持有者身轻如燕、御风蹑景的能力。能在云端行走如履平地，气态清灵 。",
+  "evolution": {
+    "current_form": "雪白色泽，质地细腻，编织纹理如云气缠绕 。",
+    "materials_consumed": [
+      "远古藕丝",
+      "太虚意境"
+    ],
+    "potential_evolution": "若配合上乘道法，可演化出缩地成寸或跨越小天地屏障的神通 。"
+  },
+  "visual": {
+    "static": "鞋履色泽洁白，不染纤尘，散发出淡淡的道门清正之气 。",
+    "active": "行走时脚下会有细微的灵气涟漪漾开，即便在雪地亦不留足迹 。"
+  },
+  "provenance": {
+    "origin": "由远古大妖小陌在蛮荒时代亲手编织 。",
+    "karma_link": "陈平安的各具分身中，代表“地仙资质”的一位分身经常穿戴此履 。"
+  },
+  "enriched": true
+}

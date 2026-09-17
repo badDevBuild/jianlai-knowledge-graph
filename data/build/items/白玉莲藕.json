@@ -1,0 +1,48 @@
+{
+  "name": "白玉莲藕",
+  "original_name": "莲藕福地 / 紫金莲",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "白玉莲藕之名源自“莲藕福地”。此物是落魄山由贫转富的关键，它承载了无数战死剑仙与圣贤的残余气 运，在陈平安的经营下，成为一座充满生机的“新天下” , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第325章 我见青山多妩媚",
+      "owner": "云泥和尚"
+    }
+  ],
+  "subtype": "空间类 / 滋养类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "老观主",
+      "relation": "赠予者"
+    },
+    {
+      "name": "齐静春",
+      "relation": "因果关联者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "福地升为上等品秩后，白玉莲藕化作的紫金莲将成为一洲气运的化身 , 。",
+  "supernatural_ability": "“再造乾坤”。荷塘中生发的紫金莲花可润泽福地人间，使灵气满溢而不外泄 , 。",
+  "evolution": {
+    "current_form": "落魄山竹楼后池塘中的紫金莲花 。",
+    "materials_consumed": [
+      "谷雨钱",
+      "水运精华"
+    ],
+    "potential_evolution": "若能吸引足够多的“飞升”气数，可演化为独立的小世界 。"
+  },
+  "visual": {
+    "static": "一朵紫金色的花苞，荷叶大如数亩地 。",
+    "active": "花开之时，金色灵气如雨落人间，润泽山河千万里 。"
+  },
+  "provenance": {
+    "origin": "老观主赠予陈平安的种子，经由崔东山在落魄山培育 , 。",
+    "karma_link": "与陈平安的本命物“水字印”及其作为福地主人的身份深度绑定 , 。"
+  },
+  "enriched": true
+}

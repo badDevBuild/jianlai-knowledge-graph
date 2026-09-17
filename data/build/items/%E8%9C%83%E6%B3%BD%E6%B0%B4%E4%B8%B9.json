@@ -1,0 +1,44 @@
+{
+  "name": "蜃泽水丹",
+  "original_name": "仙家水丹 / 龙宫补药",
+  "type": "丹药",
+  "grade": "灵丹",
+  "status": "消耗",
+  "description": "这是修习水法者梦寐以求的补剂。陈平安凭借此丹，在北归途中迅速稳定了摇摇欲坠的水府气象。 ,",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第552章 不唯有与他人告别",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养/补给类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "火龙真人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为极品水运凝聚之物，是修补水属气府的顶级神药。",
+  "supernatural_ability": "能够快速补益干涸的水府灵气，修缮受损的本命水字印。",
+  "evolution": {
+    "current_form": "通体碧绿、水气蒸腾的丹丸。",
+    "materials_consumed": [
+      "大渎龙宫精华",
+      "蜃泽真水"
+    ],
+    "potential_evolution": "可在气府中化为源头活水，甚至孕育出水法精魅。"
+  },
+  "visual": {
+    "static": "盛放在特制小瓷瓶中，散发出丝丝凉意。",
+    "active": "服用后，体内如久旱逢甘霖，在气府中化作一条浓稠的水运蛟龙。"
+  },
+  "provenance": {
+    "origin": "产自中土神洲蜃泽，由火龙真人作为人情转赠。",
+    "karma_link": "用于解决陈平安在书简湖一役后本命气府灵气枯竭的危机。"
+  },
+  "enriched": true
+}

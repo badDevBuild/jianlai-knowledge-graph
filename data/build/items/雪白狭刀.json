@@ -1,0 +1,48 @@
+{
+  "name": "雪白狭刀",
+  "original_name": "神水国压胜狭刀",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "李宝瓶最为珍视的防身武器。它不仅是一把锋利无比的狭刀，更是承载着远古王朝兴衰的一件“山河至 宝”，由于杀力过大，李宝瓶平时多将其藏于绿竹书箱内 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第652章 立在明月中",
+      "owner": "李宝瓶"
+    }
+  ],
+  "subtype": "攻伐/压胜类",
+  "holder": "李宝瓶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "曾持有"
+    },
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为远古蜀国遗物，具有聚集一洲武运并进阶为仙兵的潜力 。",
+  "supernatural_ability": "天然压胜龙族及水裔，能够镇压和聚拢磅礴武运，出鞘时如白虹贯日 。",
+  "evolution": {
+    "current_form": "雪白狭长的战刀，常被棉布严密包裹隐藏于书箱 。",
+    "materials_consumed": [
+      "古蜀残余龙气",
+      "一洲武运"
+    ],
+    "potential_evolution": "可成为兵家修士或纯粹武夫证道的本命神兵 。"
+  },
+  "visual": {
+    "static": "刀身雪白剔透，寒气逼人，即便不出鞘也能让人感到刺骨杀意 。",
+    "active": "劈砍时剑气森严，可破开中五境练气士的山水禁制 。"
+  },
+  "provenance": {
+    "origin": "古蜀地界神水国的镇国至宝 。",
+    "karma_link": "由魏檗在棋墩山机缘所得，后经由阿良指点送予李宝瓶 。"
+  },
+  "enriched": true
+}

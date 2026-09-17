@@ -1,0 +1,48 @@
+{
+  "name": "彩云信笺",
+  "original_name": "桃花信笺 / 岁除宫彩笺",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "消耗品",
+  "description": "这是一种极其雅致的文房用品。在青冥天下和中土神洲，常被用作道侣间的定情信物或高修间的书信往 来 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第602章 年纪轻轻二掌柜",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第604章 与谁问拳，向谁问剑",
+      "owner": "裴钱(赠予宁姚)"
+    }
+  ],
+  "subtype": "文房/传讯类",
+  "holder": "白纸福地/吴霜降",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老秀才",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "因其材质稀缺且蕴含文运，可作为绘制高级符箓的载体 。",
+  "supernatural_ability": "具有良好的灵气承载力，能有效保存书写者的道韵与情感，防腐防蛀 。",
+  "evolution": {
+    "current_form": "带有淡淡色彩与花纹的精美信纸 。",
+    "materials_consumed": [
+      "桃花瓣",
+      "万年土"
+    ],
+    "potential_evolution": "多张信笺叠加可结成临时幻境 [无]。"
+  },
+  "visual": {
+    "static": "如薄纱般轻盈，表面云纹波动，自带草木芬芳 。",
+    "active": "书写文字后，字迹如在云雾中游走，隐现宝光 。"
+  },
+  "provenance": {
+    "origin": "白纸福地制造，老秀才曾在白也草堂捡取花瓣用于打造此类信笺 。",
+    "karma_link": "是读书人与仙家高士之间雅谈、结缘的重要媒介 。"
+  },
+  "enriched": true
+}

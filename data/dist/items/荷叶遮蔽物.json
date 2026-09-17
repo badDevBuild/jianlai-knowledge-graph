@@ -1,0 +1,47 @@
+{
+  "name": "荷叶遮蔽物",
+  "original_name": "荷叶",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是吴霜降用于构建防御屏障与空间阵法的核心灵物，能够以柔克刚，抵挡海量飞剑的攒射 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第149章 约战",
+      "owner": "高大女子"
+    },
+    {
+      "chapter": "第665章 不是书中人",
+      "owner": "鹿角宫"
+    }
+  ],
+  "subtype": "防御/阵法类",
+  "holder": "吴霜降",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "岁除宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "可随主人心意无限扩充，甚至大如城池，用以构建或稳固小天地 [8-10]。",
+  "supernatural_ability": "可用于缝补小天地窟窿，阻隔大规模飞剑阵的冲击，具备极强的空间加固功能 。",
+  "evolution": {
+    "current_form": "翠绿的巨大荷叶",
+    "materials_consumed": [
+      "莲花小洞天灵气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "通常以一片普通荷叶的形式存在 。",
+    "active": "激发时可瞬间铺展开来，承载整座星宿小天地的运转，并能绞碎袭来的剑气长河 。"
+  },
+  "provenance": {
+    "origin": "源自吴霜降炼化的莲花小洞天胜景 。",
+    "karma_link": "在与陈平安的“笼中雀”切磋中作为关键防御手段出现 。"
+  },
+  "enriched": true
+}

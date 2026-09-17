@@ -1,0 +1,44 @@
+{
+  "name": "水炼",
+  "original_name": "水炼法 / 仙人祈雨碑仙诀",
+  "type": "典籍",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是陈平安在书简湖绝境中获得的顶级道法传承 。它详尽阐述了“水”作为生命与大道之源的真谛，是陈平安能在战后通过炼化水字印重返巅峰的关键 所在 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第956章 有人敲鼓",
+      "owner": "清嘉"
+    }
+  ],
+  "subtype": "修行类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "埋河水神 (柳柔)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "源自远古大渎龙宫的至高水法，是炼化五行之水本命物的终极指南 。",
+  "supernatural_ability": "万物可炼。通过“一滴天上金瓶水”调理五脏，使人身小天地经脉如机杼般紧密衔接 。",
+  "evolution": {
+    "current_form": "篆刻于古老玉简之上的五千余字道诀 。",
+    "materials_consumed": [
+      "大渎水精",
+      "雨师真意"
+    ],
+    "potential_evolution": "修至大成可化作四天清凉，镇压一切心魔妄念 。"
+  },
+  "visual": {
+    "static": "玉简晶莹剔透，文字流转金光，带有浓郁的江河水汽 。",
+    "active": "修炼时会有无数碧绿衣裳的灵性小人现身，在持有人气府中忙碌修缮、描绘大渎水图 。"
+  },
+  "provenance": {
+    "origin": "桐叶洲埋河碧游府遗址的远古龙宫秘传 。",
+    "karma_link": "埋河水神报答陈平安再造之恩的重礼，助其重塑修行根基 。"
+  },
+  "enriched": true
+}

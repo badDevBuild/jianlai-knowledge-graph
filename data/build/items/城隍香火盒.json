@@ -1,0 +1,52 @@
+{
+  "name": "城隍香火盒",
+  "original_name": "青色小木盒",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**城隍香火盒是专门用来封存和保护城隍印的特殊方寸物**。它不仅是神灵权柄的载体，更在胭脂郡城 隍庙中起到了压制外界乱葬岗煞气、保卫一方风水的重要作用 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第228章 初一十五，随我除魔",
+      "owner": "沈温 (原主) / 陈平安 (拾取)"
+    },
+    {
+      "chapter": "第230章 上 降服",
+      "owner": "沈温 -> 陈平安"
+    }
+  ],
+  "subtype": "储物/压胜类",
+  "holder": "张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "沈温（胭脂郡城隍）",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为封印龙虎山天师印的容器，随内部法印的温养，其屏蔽天机之能会随之增强 。",
+  "supernatural_ability": "具备方寸物的储物空间，能够封禁并温养内部法宝的气机，防止神光外泄 。",
+  "evolution": {
+    "current_form": "古朴无华的青色小木盒 。",
+    "materials_consumed": [
+      "城隍香火",
+      "龙虎山雷法真意"
+    ],
+    "potential_evolution": "成为具备独立禁制的小洞天容器。"
+  },
+  "visual": {
+    "static": "外表极为平凡的青色木盒，大小刚好能被五指握住 。",
+    "active": "开启时会有淡淡的灵光流溢，内部自成方寸空间 。"
+  },
+  "provenance": {
+    "origin": "胭脂郡城隍庙的镇庙之宝，用于盛放天师法印 。",
+    "karma_link": "由城隍沈温赠予陈平安，后陈平安转赠给好友张山峰 。"
+  },
+  "enriched": true
+}

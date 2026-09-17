@@ -1,0 +1,52 @@
+{
+  "name": "芙蓉冠",
+  "original_name": "莲花冠 / 芙蓉道冠",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这是白玉京高层道官的标志性法宝。在陈平安合道剑气长城期间，他曾头戴此冠，展现出超越元婴境界 的仙人姿态，象征着其在青冥天下亦有一份极深的道缘 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第356章 道争毫厘，左右徘徊",
+      "owner": "年轻道士"
+    },
+    {
+      "chapter": "第357章 雨停",
+      "owner": "白猿(窃取)"
+    }
+  ],
+  "subtype": "道统象征 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    },
+    {
+      "name": "王勍",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为白玉京三掌教一脉的身份象征，承载着青冥天下的极高道统气运 。",
+  "supernatural_ability": "能够稳固佩戴者的道心，抵御心魔侵袭，并在特定环境下接引天地感应，辅助修行 。",
+  "evolution": {
+    "current_form": "一顶造型古雅、类似芙蓉盛开状的道冠 。",
+    "materials_consumed": [
+      "道门清气",
+      "天时气运"
+    ],
+    "potential_evolution": "随持有者境界提升，可演化为具备“言出法随”威能的道门仪轨重器 。"
+  },
+  "visual": {
+    "static": "质地通透，造型如一朵重瓣芙蓉，颜色或金或青，宝光内敛 。",
+    "active": "佩戴者施展术法时，冠上会有霞光流转，隐约有莲花虚影浮现 。"
+  },
+  "provenance": {
+    "origin": "源自青冥天下白玉京，是高位道官的标志性冠冕 。",
+    "karma_link": "陆沉将其暂借给陈平安，使其在剑气长城和蛮荒天下行走时具备特殊的道门气象 。"
+  },
+  "enriched": true
+}

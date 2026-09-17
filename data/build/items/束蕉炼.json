@@ -1,0 +1,52 @@
+{
+  "name": "束蕉炼",
+  "original_name": "束蕉炼",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是蛮荒天下新王座大妖、飞升境剑仙绶臣所穿的仙兵品秩法袍。它不仅提供强大的防护，更是周密这 一法脉的重要传承象征。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第645章 取金丹",
+      "owner": "绶臣"
+    },
+    {
+      "chapter": "第786章 那就打",
+      "owner": "绶臣"
+    },
+    {
+      "chapter": "第842章 谁围杀谁",
+      "owner": "绶臣"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "绶臣",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文海周密",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为蛮荒天下王座大妖的专属法袍，具有极高的防御上限和气运加持。",
+  "supernatural_ability": "具体神通不详，但在战场上表现出极强的剑气豁免能力 。",
+  "evolution": {
+    "current_form": "翠绿色的华美法袍",
+    "materials_consumed": [
+      "天材地宝",
+      "蛮荒天下气运"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "通体翠绿，质地坚韧，散发着草木长青的灵光 。",
+    "active": "法袍表面流溢出浓郁的绿芒，能够抵御同阶剑修的凌厉斩杀 。"
+  },
+  "provenance": {
+    "origin": "由蛮荒天下顶级炼师打造，后由周密赐予其首徒绶臣 。",
+    "karma_link": "绶臣作为文海一脉首徒，此法袍象征其在蛮荒天下极高的身份地位。"
+  },
+  "enriched": true
+}

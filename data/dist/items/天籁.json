@@ -1,0 +1,56 @@
+{
+  "name": "天籁",
+  "original_name": "飞剑天籁",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一把来自蛮荒天下峥嵘宗剑修的本命飞剑。虽然在后续战事中曾被大妖元凶的枪尖击中化作灰烬， 但在陈平安的人身小天地温养记录中，它曾是其重要的攻伐手段之一。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第674章 好好消受",
+      "owner": "陈平安（原属峥嵘宗剑修）"
+    },
+    {
+      "chapter": "第675章 承载真名",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1117章 先后问剑白玉京",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1146章 毫无还手之力",
+      "owner": "陈平安（原属峥嵘宗剑修）"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "峥嵘宗妖族剑修",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为妖族剑修本命物，被夺取后在陈平安手中展现出极强的适应性，虽曾受创但仍具温养空间。",
+  "supernatural_ability": "具备极速穿梭与隐匿之能，配合剑阵可发挥出远超同阶的杀力。",
+  "evolution": {
+    "current_form": "温养于养剑葫内的袖珍飞剑。",
+    "materials_consumed": [
+      "天地灵气",
+      "养剑葫剑意"
+    ],
+    "potential_evolution": "重回剑修本命物序列，配合大阵演化万千。"
+  },
+  "visual": {
+    "static": "剑身细小，通体流转着微弱的妖异灵光。",
+    "active": "祭出时快若雷电，剑光清越，如天籁之音掠过战场。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下峥嵘宗。",
+    "karma_link": "陈平安在鬼蜮谷战场击杀原主后收缴，长期温养于“姜壶”中。"
+  },
+  "enriched": true
+}

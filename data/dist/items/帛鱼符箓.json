@@ -1,0 +1,45 @@
+{
+  "name": "帛鱼符箓",
+  "original_name": "《帛鱼符箓》",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一本极其珍稀且专门针对剑修的符书，其记载的枯井符曾让陈平安的本命飞剑陷入僵局，具备极高 的实战和研究价值 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第291章 山上山下",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "符箓类/压胜类",
+  "holder": "陆台",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "符箓老道人",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为桐叶洲符箓派旁门的秘符之书，通过研习可掌握针对剑修的极高阶禁制。",
+  "supernatural_ability": "记载了核心符箓“枯井符”，祭出后可使本命飞剑如立井中，动弹不得 。",
+  "evolution": {
+    "current_form": "一本厚重的符箓秘籍 。",
+    "materials_consumed": [
+      "雷击木小钉",
+      "不周风飞土",
+      "特殊符纸"
+    ],
+    "potential_evolution": "作为陆氏藏书楼的立功之物，可演化出更强的封禁手段 。"
+  },
+  "visual": {
+    "static": "书籍封面上可能有古老的符号，内部记载了各种针对剑修的阴险符式 。",
+    "active": "激发时，符文会显现出剑困井中、背书“不动”二字的异象 。"
+  },
+  "provenance": {
+    "origin": "出自桐叶洲符箓派旁门 。",
+    "karma_link": "陆台在扶乩宗一战中斩杀老道人后缴获，其目的是带回家族藏书楼 。"
+  },
+  "enriched": true
+}

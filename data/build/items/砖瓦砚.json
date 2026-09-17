@@ -1,0 +1,44 @@
+{
+  "name": "砖瓦砚",
+  "original_name": "永受嘉福瓦当砚 / 道观青砖砚",
+  "type": "匠器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这不只是一方砚台，更是陈平安对“故物”的珍惜。通过 这些蕴含水运的青砖与瓦当，陈平安在细微处夯实了落 魄山的道统基石 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1152章 箭跺",
+      "owner": "毛锥"
+    }
+  ],
+  "subtype": "文房/重器类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "野云渡小包袱斋",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "取材自远古道观或宫廷瓦当，因承载多年水运与文气， 有望演化为镇压文脉的文宝。",
+  "supernatural_ability": "能够滋养墨汁灵性，书写文字时隐约有金石之声。从道 观扒来的青砖砚更能稳固山根水脉 [14-16]。",
+  "evolution": {
+    "current_form": "一方刻有“永受嘉福”四字的瓦当形砚台。",
+    "materials_consumed": [
+      "远古青砖",
+      "水运精华"
+    ],
+    "potential_evolution": "可大炼为“山河砚”，作为落魄山书房的定海神针 。"
+  },
+  "visual": {
+    "static": "质地细腻坚韧，呈苍青色，表面有明显的岁月剥蚀痕迹 。",
+    "active": "研磨时，砚池内仿佛有云雾升腾，文字与墨香相融，产 生淡淡的宝光。"
+  },
+  "provenance": {
+    "origin": "陈平安在北俱芦洲野云渡以十二颗雪花钱买下的三样小 东西之一。",
+    "karma_link": "见证了陈平安从包袱斋捡漏到构建自家文脉的过程。"
+  },
+  "enriched": true
+}

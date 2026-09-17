@@ -1,0 +1,48 @@
+{
+  "name": "五彩峰法袍",
+  "original_name": "草木庵祖传法袍",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这件法袍虽然样式略显脂粉气，但防御力极佳。 它是陈平安在桐叶洲游历期间获得的重要防御支柱，也是他与大泉王朝及周边门派因果关联的见证。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第354章 山上的腥风血雨",
+      "owner": "徐桐"
+    }
+  ],
+  "subtype": "防御类 / 滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "徐桐",
+      "relation": "原主"
+    },
+    {
+      "name": "孙清",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "接近半仙兵品秩，具有极强的山气亲和力，能自动修补损耗。 ,",
+  "supernatural_ability": "“云雾障目”。灵气流泻时能焕发出五彩云箓的雾霭画面，让敌人看不真切身形。 具有稳固神魂、压胜山精鬼魅之效。",
+  "evolution": {
+    "current_form": "华美的仙家披风式法袍。",
+    "materials_consumed": [
+      "五彩峰灵气",
+      "上古云锦"
+    ],
+    "potential_evolution": "若能融入五岳社稷土，有潜力跻身为真正的半仙兵重器。"
+  },
+  "visual": {
+    "static": "质地轻盈，色彩斑斓，如同一幅彩绘山水画卷覆盖在肩。",
+    "active": "运转气机时，法袍表面的五彩云气会缓缓流动，产生如临仙境的视觉特效。"
+  },
+  "provenance": {
+    "origin": "大泉境内第一仙家门派草木庵的镇山祖传之宝。",
+    "karma_link": "由于陈平安解决了云上城的藻井买卖，彩雀府孙清良心难安，将其作为补偿赠予陈平安。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,39 @@
+{
+  "name": "风雹酒",
+  "original_name": "风雹",
+  "type": "其他",
+  "grade": "未知",
+  "status": "消耗品",
+  "description": "这是《剑来》世界中一种极具地缘特色的仙家酒酿，与“春困酒”、“月色 酒”并提，常作为修士远游时的消暑或调息之物。注：此项部分信息源自 原著设定，非直接源自本笔记片段。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第500章 有些遇见",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "消耗/滋养类",
+  "holder": "浩然天下修士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为山上仙家酒水，长期饮用可微弱改善体质，并在特定术法催动下产 生冰属寒气。",
+  "supernatural_ability": "饮用后能瞬间平复因斗法引起的气息紊乱，并在口鼻间呼出阵阵寒霜， 对火属神通有一定压制作用。",
+  "evolution": {
+    "current_form": "盛放在特定瓷瓶内的冷冽酒液。",
+    "materials_consumed": [
+      "冰川雪水",
+      "山上五谷",
+      "极寒之气"
+    ],
+    "potential_evolution": "若由水部神灵酿造，可演化为具有冰冻江河威力的“寒冰泉”。"
+  },
+  "visual": {
+    "static": "酒液色泽清亮，摇晃时可见微小的碎冰闪烁。",
+    "active": "倾倒时寒气逼人，酒杯边缘会瞬间结出一层薄薄的白霜。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲或宝瓶洲北方的高寒之地。",
+    "karma_link": "见证了山上修士在极寒之地的修行与社交文化。"
+  },
+  "enriched": true
+}

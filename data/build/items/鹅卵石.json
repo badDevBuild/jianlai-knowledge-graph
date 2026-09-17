@@ -1,0 +1,47 @@
+{
+  "name": "鹅卵石",
+  "original_name": "玉莹崖灵泉石",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这些石子是天然的修行资粮。陈平安计划将其加工后置于落魄山铺子，通过“玉莹崖老坑”的名号换取巨 额神仙钱。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第564章 先生学生山水间",
+      "owner": "陈平安/崔东山"
+    },
+    {
+      "chapter": "第1205章 云深处",
+      "owner": "小米粒(推测)"
+    }
+  ],
+  "subtype": "文房/炼材类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "玉莹崖 (柳质清)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "受玉莹崖灵泉浸染数千年，质地已脱凡入灵，可加工为顶级印材或砚石。",
+  "supernatural_ability": "天生温润，能自发洗涤笔尖火气，镇守书房心境。",
+  "evolution": {
+    "current_form": "数十颗晶莹剔透、质地如羊脂美玉的溪边石子。",
+    "materials_consumed": [
+      "玉莹崖灵泉水"
+    ],
+    "potential_evolution": "由名家雕琢后，可成为具备压胜气运能力的文玩重器。"
+  },
+  "visual": {
+    "static": "外表莹澈，色彩内敛，毫无山间玉石的火气。",
+    "active": "握在手心温润如玉，灵气缓慢通过掌心滋养体魄。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲金乌宫柳质清的私宅玉莹崖。",
+    "karma_link": "陈平安在陪同柳质清观石时顺手捡漏，充分体现了其“不走空”的包袱斋本色。"
+  },
+  "enriched": true
+}

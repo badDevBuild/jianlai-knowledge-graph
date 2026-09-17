@@ -1,0 +1,43 @@
+{
+  "name": "夜明珠",
+  "original_name": "大渎龙宫夜明珠",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件出产自**上古大渎龙宫**的珍稀宝物，属于龙宫秘境中少数幸存的旧藏之一 。其价值不仅在于照明，更是修炼水法修士梦寐以求的辅佐灵物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1066章 几人著眼到青衫",
+      "owner": "周姝真"
+    }
+  ],
+  "subtype": "照明/储灵类",
+  "holder": "裘渎",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大渎龙宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为上古大渎龙宫的珍藏，其蕴含的水运精华极度纯粹 。",
+  "supernatural_ability": "能够产生恒定的纯净光源，并具备**温养神魂**和凝聚水运的神效 。",
+  "evolution": {
+    "current_form": "大如拳头的宝珠",
+    "materials_consumed": [
+      "万年水精"
+    ],
+    "potential_evolution": "可作为高阶水法本命物的核心材料或龙宫阵法枢纽 。"
+  },
+  "visual": {
+    "static": "大如拳头，通体晶莹，散发出柔和的宝光 。",
+    "active": "在黑暗或水中能照亮大范围区域，水气萦绕不散 。"
+  },
+  "provenance": {
+    "origin": "上古大渎龙宫旧藏 。",
+    "karma_link": "由原大渎龙宫教习嬷嬷裘渎从遗址中取出，计划作为胡楚菱的嫁妆或赠予陈平安 , 。"
+  },
+  "enriched": true
+}

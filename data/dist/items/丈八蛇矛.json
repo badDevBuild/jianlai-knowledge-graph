@@ -1,0 +1,44 @@
+{
+  "name": "丈八蛇矛",
+  "original_name": "燕国神兵",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "该矛是剑气长城传说中“燕国”的标志性武器。在历史上多次攻城战中，它是守护人族的最后一线锋刃 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第264章 大道之上",
+      "owner": "舟子老汉"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "燕国 (燕兄)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "剑气长城祭官",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古英灵的战斗伙伴，其杀力随战功与英灵金身同步增长 。",
+  "supernatural_ability": "破阵杀妖：对妖族真身具有极强的破甲与粉碎神效；附带“猛”字剑气，杀伐之气惊人 。",
+  "evolution": {
+    "current_form": "蛇形矛头的长杆神兵",
+    "materials_consumed": [
+      "战功煞气",
+      "香火金身"
+    ],
+    "potential_evolution": "可作为斩杀飞升境大妖的最终神兵"
+  },
+  "visual": {
+    "static": "矛尖蜿蜒如蛇，通体散发着冷冽的金属光泽，隐约有雷鸣声传出 。",
+    "active": "挥动时带起大片金色涟漪，如蛟龙出海，气吞万里 。"
+  },
+  "provenance": {
+    "origin": "源自剑气长城祭官一脉，承载了万年战功与英灵意志 。",
+    "karma_link": "是大髯汉子“燕国”在蛮荒天下纵横驰骋的依仗 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "老烟杆",
+  "original_name": "杨老头旱烟杆",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安受杨老头影响而继承的器物。它不仅是一件烟具，更是他在复杂局势中隐匿自身意图、对抗大道 演算的利器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第712章 时来天地皆同力",
+      "owner": "杨老头 -> 阮秀 -> 陈平安"
+    }
+  ],
+  "subtype": "遮蔽/神道类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "承载香火愿力，可随持有者对“规矩”的掌控而增强 。",
+  "supernatural_ability": "吞云吐雾之间可产生香火云雾，具备遮蔽天机、搅乱光阴长河脉络的神通 。",
+  "evolution": {
+    "current_form": "由于常年摩挲而质地油亮、充满包浆的旱烟杆 。",
+    "materials_consumed": [
+      "人间香火",
+      "远古神性"
+    ],
+    "potential_evolution": "作为开启某些古老天庭遗迹的信物 。"
+  },
+  "visual": {
+    "static": "普通木质或玉质烟杆，烟斗处有金石声，带有一种沧桑古感 。",
+    "active": "吸食时烟雾缭绕，形成如山雾般的迷障，使得上五境修士亦难看穿 。"
+  },
+  "provenance": {
+    "origin": "药铺杨老头（青童天君）的随身之物 。",
+    "karma_link": "象征着从小镇少年到隐官的某种传承与“习惯成自然” 。"
+  },
+  "enriched": true
+}

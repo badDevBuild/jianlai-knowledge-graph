@@ -1,0 +1,47 @@
+{
+  "name": "锦绣地衣",
+  "original_name": "登船地衣 / 缩地符阵",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是大型跨洲渡船“吞宝鲸”的标配。它通过将高阶符箓实体化为地毯， 实现了优雅且高效的空间跨越 。",
+  "aliases": [
+    "地毯"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第295章 远望",
+      "owner": "待收集"
+    }
+  ],
+  "subtype": "空间/传送类",
+  "holder": "吞宝鲸渡船 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "打醮山 / 墨家匠人",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为大型空间传送阵的一环，能够承载上五境修士的跨空位移。",
+  "supernatural_ability": "本质上是品秩极高的缩地符，能够帮助乘客在登船时直通渡船内部分布 的小秘境 。",
+  "evolution": {
+    "current_form": "铺设在渡口与船舱间的华丽地毯，铭刻有传送阵纹 。",
+    "materials_consumed": [
+      "云根纤维",
+      "虚空石",
+      "高级朱砂"
+    ],
+    "potential_evolution": "可配合渡船核心，演化为能跨洲瞬间传送的“天门阵”。"
+  },
+  "visual": {
+    "static": "锦缎材质，图案繁复美观，脚踏其上会感到轻微的灵气反震 。",
+    "active": "当乘客踏上地衣，会引发琉璃状的阵法涟漪，身形瞬间消散并出现在目 标阁楼 。"
+  },
+  "provenance": {
+    "origin": "由墨家机关师与符箓大家联手为顶级渡船定制 。",
+    "karma_link": "陈平安与陆台在登船时通过不同地衣去往各自住所，见证了其身份差异 。"
+  },
+  "enriched": true
+}

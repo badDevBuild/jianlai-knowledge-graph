@@ -1,0 +1,38 @@
+{
+  "name": "天书",
+  "original_name": "秘书灵笈 / 云纹雷函",
+  "type": "典籍",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "天书是《剑来》中对最高级、最原始道法传承的统称。 它不假人手，是天地意志的体现，也是后世符箓与术法 的总源头 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1128章 二十人与候补们（十）",
+      "owner": "文庙/麟台"
+    }
+  ],
+  "subtype": "传承/法理类",
+  "holder": "远古女修 (相关道脉) / 白玉京",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为天地大道的直接显化，是所有符箓与雷法、水法、 火法的根源 。",
+  "supernatural_ability": "包含大地上自然形成的各种道痕、雷函、云纹，能够通 达天地运行的本源规律 。",
+  "evolution": {
+    "current_form": "散布于人间山川大泽之间的自然道痕 。",
+    "materials_consumed": [
+      "天地灵气",
+      "远古神性"
+    ],
+    "potential_evolution": "可由顶尖修士汇总提炼，演化为完整的修道大经 。"
+  },
+  "visual": {
+    "static": "通常表现为崖壁上天然形成的纹路或极其生涩的古篆文 字 。",
+    "active": "被参悟时会显现出风雨雷电等天地异象，甚至改变一地 的气运走势 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代天地自然生成的道法痕迹 。",
+    "karma_link": "曾被远古女修搜集编撰，由此演化出十数条直指大道的 道脉 。"
+  },
+  "enriched": true
+}

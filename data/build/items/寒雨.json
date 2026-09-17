@@ -1,0 +1,44 @@
+{
+  "name": "寒雨",
+  "original_name": "寒雨紫砂壶",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是落魄山霁色峰用于款待贵客的精致茶具，每一处细 节都体现了老厨子朱敛对生活美学的极致追求 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第765章 老子婆娑",
+      "owner": "柳瑰宝"
+    }
+  ],
+  "subtype": "文房/生活类",
+  "holder": "霁色峰宅邸",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "朱敛",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着落魄山文运的积累，可孕育出通灵的水魅或茶灵 。",
+  "supernatural_ability": "专门用于饮用冰茶，能够保持水质清冽，具有安神解暑 之效 。",
+  "evolution": {
+    "current_form": "一只底款为“寒雨”、花押“不言侯”的紫砂茶壶 。",
+    "materials_consumed": [
+      "紫砂矿土",
+      "文人意气"
+    ],
+    "potential_evolution": "可演化为承载“山中消暑图”的阵眼 。"
+  },
+  "visual": {
+    "static": "质朴厚重，色泽如雨后深巷之石 。",
+    "active": "壶中茶水即便在酷暑时分也如寒雨过境，沁人心脾 。"
+  },
+  "provenance": {
+    "origin": "由落魄山大管家朱敛在霁色峰亲自设计并督造 。",
+    "karma_link": "体现了落魄山“闲看流水落花”的隐逸家风 。"
+  },
+  "enriched": true
+}

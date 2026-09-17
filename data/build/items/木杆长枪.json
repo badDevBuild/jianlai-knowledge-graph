@@ -1,0 +1,43 @@
+{
+  "name": "木杆长枪",
+  "original_name": "元家祖传长枪",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这杆长枪见证了一个江湖家庭的兴衰。虽然目前仅是凡俗兵器之姿，但在落魄山的武学氛围下，它已成 为元宝磨砺枪术的根本。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第556章 山上何物最动人",
+      "owner": "元宝"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "元宝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "元家镖师 (元宝之父)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "随元宝在落魄山的修行与喂拳，可逐渐灌注兵家煞气与纯粹武夫真意。",
+  "supernatural_ability": "暂无显赫神通，但在纯粹武夫手中具备极强的破阵能力。",
+  "evolution": {
+    "current_form": "一杆质地坚韧的普通木杆长枪。",
+    "materials_consumed": [
+      "武夫拳意"
+    ],
+    "potential_evolution": "若能更换为金石枪头并融入杀伐之气，可晋升为重器。"
+  },
+  "visual": {
+    "static": "杆身因常年摩挲而发亮，透着一种江湖镖行的沉稳感。",
+    "active": "枪扎一线，出如蛟龙，伴随武夫罡气产生剧烈的破空声。"
+  },
+  "provenance": {
+    "origin": "元宝之父作为镖师时的唯一遗物。",
+    "karma_link": "承载了元家姐弟的家学传承与江湖血性，是元宝视若珍宝的武道寄托。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,63 @@
+{
+  "name": "静心得意印",
+  "original_name": "静心得意印",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "齐静春赠予陈平安的最重要印章之一，印文寓意深远。它是陈平安踏上修行路、保持“心静”的重要法宝 。",
+  "aliases": [
+    "静心得意印章",
+    "齐静春印章",
+    "私印",
+    "静字印",
+    "静字印章",
+    "静心得意",
+    "蛇胆石印章"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第148章 少年有事问春风",
+      "owner": "陈平安 (齐静春赠)"
+    },
+    {
+      "chapter": "第149章 约战",
+      "owner": "崔瀺（原持有者）"
+    },
+    {
+      "chapter": "第152章 高出天外",
+      "owner": "李宝瓶"
+    },
+    {
+      "chapter": "第277章 城头两人四境三战",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "印文蕴含齐静春的大道神意，是炼化五行本命物的关键信物 。",
+  "supernatural_ability": "镇压心境，辅助温养神魂，其文字神意可在大道感悟中提供重要导引 。",
+  "evolution": {
+    "current_form": "由蛇胆石雕凿而成的私人印章",
+    "materials_consumed": [
+      "蛇胆石"
+    ],
+    "potential_evolution": "作为本命物的一部分融入陈平安的小天地"
+  },
+  "visual": {
+    "static": "由上等蛇胆石刻就，印文为古朴篆体，其中“静”字神意最盛，包罗万象 。",
+    "active": "在关键时刻会流露出莹润光彩，帮助持有者在复杂的因果和天劫中保持本心 。"
+  },
+  "provenance": {
+    "origin": "由齐静春在骊珠洞天期间亲自雕琢送给陈平安 。",
+    "karma_link": "承载了齐静春对陈平安的期许，也是陈平安在多次心境动荡时的定心丸 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "婵娟",
+  "original_name": "婵娟",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "剑气长城末代刑官豪素的本命飞剑。其神通不仅限于物理层面的斩杀，更涉及到了对规则与联系的极致 切割，是搬迁明月行动的关键力量 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第858章 拔河",
+      "owner": "豪素"
+    },
+    {
+      "chapter": "第868章 干架",
+      "owner": "豪素"
+    },
+    {
+      "chapter": "第1060章 明月中酒还行",
+      "owner": "豪素"
+    }
+  ],
+  "subtype": "攻伐类 / 空间类",
+  "holder": "豪素",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "作为飞升境剑修（刑官）的本命飞剑，具备干涉天体运行的大道权柄 。",
+  "supernatural_ability": "具备“道化”明月的能力，能够斩断明月与大地之间的因果牵引与大道联系 。",
+  "evolution": {
+    "current_form": "豪素的两把本命飞剑之一 。",
+    "materials_consumed": [
+      "飞升境剑意",
+      "月魄精华"
+    ],
+    "potential_evolution": "随豪素在青冥天下白玉京的修行，杀力将进一步接近十四境上限。"
+  },
+  "visual": {
+    "static": "隐匿于剑修窍穴中。",
+    "active": "出剑时伴随明月异象，剑光如练，能够精准切割时空与因果 。"
+  },
+  "provenance": {
+    "origin": "刑官豪素本命孕育。",
+    "karma_link": "在蛮荒天下“搬月”行动中立下奇功，配合宁姚等剑修将明月“皓彩”拖入青冥天下 。"
+  },
+  "enriched": true
+}

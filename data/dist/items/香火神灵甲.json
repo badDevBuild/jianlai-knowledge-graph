@@ -1,0 +1,44 @@
+{
+  "name": "香火神灵甲",
+  "original_name": "神人承露甲 (祖宗甲)",
+  "type": "仙兵",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是兵家修士梦寐以求的至宝，被称为“行走的武库” 。它不仅仅是一件防御护具，更是人身小天地与远古神道沟通的桥梁 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第544章 舟中之人尽敌国",
+      "owner": "怀潜"
+    }
+  ],
+  "subtype": "防御类 / 显化类",
+  "holder": "怀潜",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "蛮荒天下军帐",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古神甲的衍生之作，通过炼化更高阶的神灵金身，其防御力几乎无上限 。",
+  "supernatural_ability": "能够赋予持有者如同远古神灵般的坚韧体魄，无视大多数术法冲击；且能作为魂魄的栖息之地 。",
+  "evolution": {
+    "current_form": "金色材质的兵家甲丸 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "雷电精华"
+    ],
+    "potential_evolution": "可演化为具有神道权柄的“万神殿”防御形态 。"
+  },
+  "visual": {
+    "static": "通常呈现为一颗流光溢彩的金色丹丸，内里气象万千 。",
+    "active": "披挂后化为金光璀璨的全身甲胄，铠甲上流淌着浓稠如油的金光 。"
+  },
+  "provenance": {
+    "origin": "兵家初祖参考远古五至高之一“披甲者”的神甲仿制而成 。",
+    "karma_link": "每一副神灵甲的锻造都伴随着一尊远古神灵金身的破碎 。"
+  },
+  "enriched": true
+}

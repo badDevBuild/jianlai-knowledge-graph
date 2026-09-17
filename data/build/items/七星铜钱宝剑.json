@@ -1,0 +1,38 @@
+{
+  "name": "七星铜钱宝剑",
+  "original_name": "铜钱剑 / 斩妖剑",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一件专门克制妖魔的道门重物。即便品相不全，只 要其蕴含的阵法不灭，依然是鬼魅的克星 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1009章 年少曾学登山法",
+      "owner": "纪小蘋"
+    }
+  ],
+  "subtype": "压胜/斩妖类",
+  "holder": "道门子弟 / 柴御",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为典型的道门辟邪法宝，浸染雷法真意后可升级为重 器 。",
+  "supernatural_ability": "对阴物邪祟具有天然压胜，投入水井中可驱逐潜伏的大 妖 。",
+  "evolution": {
+    "current_form": "由数十枚古老铜钱编织而成的长剑，锈迹斑斑 。",
+    "materials_consumed": [
+      "古钱币",
+      "金线"
+    ],
+    "potential_evolution": "若换以金精铜钱编制，威力可成倍增加。"
+  },
+  "visual": {
+    "static": "通体由铜钱交错而成，剑身略显陈旧，带有干裂的剑气 。",
+    "active": "激发时铜钱会嗡嗡作响，散发出刺眼的雷光，宛如烈日 临头 。"
+  },
+  "provenance": {
+    "origin": "常见于浩然天下道门法脉及某些仙府遗址 。",
+    "karma_link": "作为辟邪之物，常出现在各类降妖除魔的场景中。"
+  },
+  "enriched": true
+}

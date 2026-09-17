@@ -1,0 +1,38 @@
+{
+  "name": "雪花钱/小暑钱/金元宝",
+  "original_name": "神仙钱 / 世俗通宝",
+  "type": "货币",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这些钱币是修行的“电池”，也是衡量修士家底最直观的 标尺。陈平安通过它们完成了多笔改变命运的交易 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第886章 有事相求",
+      "owner": "通用"
+    }
+  ],
+  "subtype": "消耗类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "不仅是货币，更是灵气结晶，可直接用于破境后的灵气 补给 。",
+  "supernatural_ability": "雪花钱蕴含杂灵气，小暑钱蕴含精纯灵气，金元宝则无 灵气，仅限山下流通 , 。",
+  "evolution": {
+    "current_form": "雪花钱剔透如冰，小暑钱带有温热感，金元宝为沉重金 属 , 。",
+    "materials_consumed": [
+      "灵石矿脉",
+      "天地初生之气"
+    ],
+    "potential_evolution": "一万枚雪花钱可兑换一枚谷雨钱，达成质的变化 。"
+  },
+  "visual": {
+    "static": "雪花钱边缘带霜气；小暑钱内部仿佛封印着热浪；金元 宝黄澄澄，质地敦实 , 。",
+    "active": "碾碎后灵气四溢，形成可被吸纳的微型灵气潮汐 。"
+  },
+  "provenance": {
+    "origin": "雪花钱多产自皑皑洲刘氏；小暑钱需福地凝聚 。",
+    "karma_link": "构建了《剑来》世界严密的双轨制经济体系 。"
+  },
+  "enriched": true
+}

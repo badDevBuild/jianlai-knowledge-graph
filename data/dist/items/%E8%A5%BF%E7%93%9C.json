@@ -1,0 +1,44 @@
+{
+  "name": "西瓜",
+  "original_name": "岛屿沙地瓜",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是陈平安从海岛顺来的消暑之物。对于落魄山众人而 言，它不仅是零食，更是山头温情与“包袱斋”文化的物 化符号 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1115章 写一部少年书",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "食材/滋养类",
+  "holder": "陈平安 / 周米粒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "某仙府小门派",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽是凡俗之物，但在灵气浓郁处滋养，可具备清心、止 渴及平复气血之效。",
+  "supernatural_ability": "无。但能缓解高位武夫练拳后的燥热，象征“今日无事” 的平淡生活 。",
+  "evolution": {
+    "current_form": "普通或稍具灵气的瓜果。",
+    "materials_consumed": [
+      "海岛沙土养分",
+      "山间清冽溪水"
+    ],
+    "potential_evolution": "若经落魄山灵气长期浸染，可成为款待贵客的仙家供果 。"
+  },
+  "visual": {
+    "static": "表皮翠绿，个头硕大。由于刚从溪水中取出，表面带有 阵阵凉意 。",
+    "active": "切开后红瓤黑子，汁水充足，散发出质朴的清香。"
+  },
+  "provenance": {
+    "origin": "陈平安远游途中，从某处仙府岛屿沙地中“顺手牵羊”得 来 。",
+    "karma_link": "体现了陈平安即便身在高位，仍不失“泥腿子”本色的市 井趣向。"
+  },
+  "enriched": true
+}

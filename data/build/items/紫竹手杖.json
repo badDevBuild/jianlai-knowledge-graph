@@ -1,0 +1,45 @@
+{
+  "name": "紫竹手杖",
+  "original_name": "鱼竿 / 行山杖",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安随身携带的行走工具，既是支撑身体的行山杖，也曾短暂作为鱼竿使用，在不断的中炼过程中逐 渐具备了灵性 。",
+  "aliases": [
+    "紫竹手杖"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第96章 山水有神怪",
+      "owner": "妇人 (原属稚童妖物)"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "紫竹岛岛主",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "吸收雷池脉络后可进化为具有天威震慑力的顶级法器 。",
+  "supernatural_ability": "可用于跋山涉水拨开枯木，亦能通过小炼雷电脉络后具有压胜地底精怪的神通 。",
+  "evolution": {
+    "current_form": "质地坚韧的紫竹手杖",
+    "materials_consumed": [
+      "积霄山雷池脉络金鞭"
+    ],
+    "potential_evolution": "具有雷法加持的金色行山杖"
+  },
+  "visual": {
+    "static": "由上等紫竹制成，色泽深邃，竹节分明，表面有密密麻麻的刻痕 。",
+    "active": "挥动时隐隐有雷鸣震动之感，可驱散周边的阴晦之气 。"
+  },
+  "provenance": {
+    "origin": "陈平安在书简湖紫竹岛向岛主讨要竹材自制而成 。",
+    "karma_link": "承载了陈平安在书简湖以及之后游历各洲的磨砺记忆 。"
+  },
+  "enriched": true
+}

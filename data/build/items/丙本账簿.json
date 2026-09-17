@@ -1,0 +1,46 @@
+{
+  "name": "丙本账簿",
+  "original_name": "地仙剑修名录",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是隐官一脉针对中坚战力的精密管理工具。陈平安通过此书将“各自为战”的剑修整合为“精密运转”的 剑阵 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第628章 万一",
+      "owner": "隐官一脉"
+    },
+    {
+      "chapter": "第629章 处处杀机",
+      "owner": "隐官一脉"
+    },
+    {
+      "chapter": "第1071章 水中青山花欲燃",
+      "owner": "徐续缘"
+    }
+  ],
+  "subtype": "战略/调度类",
+  "holder": "隐官一脉 (陈平安)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "通过对地仙剑修的精细化搭配，可形成规模化的攻伐合阵。",
+  "supernatural_ability": "详细记载了剑气长城所有地仙剑修（金丹、元婴）的本命飞剑属性及其最适宜的战场位置 。",
+  "evolution": {
+    "current_form": "由陈平安亲自完善，并由王忻水、郭竹酒共同打理的动态名录。",
+    "materials_consumed": [
+      "地仙精血感应",
+      "战损数据"
+    ],
+    "potential_evolution": "可进一步演化为“杀妖诱饵名单”，用于针对性猎杀敌方高位妖族 。"
+  },
+  "visual": {
+    "static": "线装空白书籍，由陈平安以蝇头小楷实时填补内容 。",
+    "active": "配合战场长卷使用时，书页内容会随剑修位移而产生灵光感应 。"
+  },
+  "provenance": {
+    "origin": "陈平安任隐官后创立的“天干地支”系列改革账簿之一 。",
+    "karma_link": "直接关系到中五境剑修在持久战中的存活率与战功分配 。"
+  },
+  "enriched": true
+}

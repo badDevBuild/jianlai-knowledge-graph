@@ -1,0 +1,48 @@
+{
+  "name": "十二境妖丹",
+  "original_name": "大妖金丹 / 飞升境妖丹",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是一枚极为罕见的十二境大妖金丹。陈平安曾打算用它换取郑大风的性命，最终被野心勃勃的杜懋在 梧桐小洞天内彻底炼化，直接导致了洞天的破碎与大妖金丹的毁灭 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第364章 无解之局",
+      "owner": "陈平安(后被桐叶宗老祖夺走)"
+    }
+  ],
+  "subtype": "核心类 / 消耗类",
+  "holder": "杜懋 (已损毁)",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    },
+    {
+      "name": "某十二境大妖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "由于源自飞升境大妖，本身蕴含的力量足以撼动一洲气运，是冲击更高境界的终极资粮 。",
+  "supernatural_ability": "**“逆天改命”**。可作为重塑肉身、支撑洞天运转的能量核心。杜懋曾以此作为飞升的最后底牌 。",
+  "evolution": {
+    "current_form": "已在梧桐小洞天被杜懋强行炼化导致形迹消散 。",
+    "materials_consumed": [
+      "飞升境妖物本元",
+      "洞天灵气"
+    ],
+    "potential_evolution": "最终崩裂为多块五彩琉璃金身碎片 。"
+  },
+  "visual": {
+    "static": "原本盛放在半臂高的瓷瓶中，丹药本身大如拳头，金光灿烂 。",
+    "active": "炼化时引发天地变色，形成五彩琉璃状的巨大异象 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下某头身负重任的十二境大妖 。",
+    "karma_link": "陈平安于倒悬山获得此重宝，后在大泉驿馆作为换取郑大风性命的筹码交给杜懋 。"
+  },
+  "enriched": true
+}

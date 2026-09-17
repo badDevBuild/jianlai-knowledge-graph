@@ -1,0 +1,52 @@
+{
+  "name": "天部霆司符",
+  "original_name": "雷部符箓",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "陈平安在远游途中通过复盘战事习得的实用符箓。虽然材质寻常，但因其法门正宗且由于陈平安本人对 雷法的理解，此符在同阶中杀力卓著 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第533章 那家伙敢来正阳山吗",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第539章 相逢偶然，离别悄然",
+      "owner": "陈平安(制造者)"
+    },
+    {
+      "chapter": "第540章 别有洞天",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安 (出售)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "割鹿山阵师",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为雷部杀伐符箓，由金身境武夫以真气绘制时可增强破防能力 。",
+  "supernatural_ability": "引动天部雷霆之威，专门用于对阵厮杀，对阴物和练气士均有极大威慑力 。",
+  "evolution": {
+    "current_form": "落笔繁琐、蕴含雷光气机的黄纸符箓 。",
+    "materials_consumed": [
+      "仙家丹砂",
+      "纯粹真气"
+    ],
+    "potential_evolution": "若能以金色材质符纸绘制，威力可比拟金丹地仙倾力一击 。"
+  },
+  "visual": {
+    "static": "符文呈现纠缠的雷电形状，底纹隐有云气起伏 。",
+    "active": "祭出后伴随隐隐雷鸣，能瞬间炸裂小范围内的天地灵气 。"
+  },
+  "provenance": {
+    "origin": "陈平安在山谷遇袭后，从割鹿山刺客阵师留下的笔札中习得 。",
+    "karma_link": "陈平安在云上城集市以此符作为“包袱斋”的招牌货，深受野修欢迎 。"
+  },
+  "enriched": true
+}

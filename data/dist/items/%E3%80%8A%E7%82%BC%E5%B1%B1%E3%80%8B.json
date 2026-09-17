@@ -1,0 +1,44 @@
+{
+  "name": "《炼山》",
+  "original_name": "炼山诀 (上半部)",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是兵家与地仙共用的顶级禁忌秘术。它将整座大山视 为丹炉，炼化山根为己身资粮，是修行“搬山”一道的巅 峰之作 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第939章 桃叶见到桃花",
+      "owner": "嫩道人"
+    }
+  ],
+  "subtype": "修行/搬山类",
+  "holder": "嫩道人 (桃亭)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老瞎子",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "若能觅得下半部，可助修士炼化整座洲陆的龙脉，成就 十四境 。",
+  "supernatural_ability": "记载了撵山、控山与炼化山岳龙脉的秘术，使修士能吞 噬山根精气以自补 。",
+  "evolution": {
+    "current_form": "一本残破、由老瞎子随手丢弃的古老秘籍 。",
+    "materials_consumed": [
+      "地脉龙气",
+      "古老道韵"
+    ],
+    "potential_evolution": "修行圆满后可演化出“搬山老祖”般的法天象地神通 。"
+  },
+  "visual": {
+    "static": "书页泛黄，触手沉重如负山岳，文字带有金石崩裂之声 。",
+    "active": "研读时周身会产生重力场，隐约可见群山万岳在指尖缩 小的异象 。"
+  },
+  "provenance": {
+    "origin": "十万大山老瞎子的私人收藏 。",
+    "karma_link": "嫩道人凭此在桐叶洲建立功勋，并在与搬山老祖袁首的 竞争中不落人后 。"
+  },
+  "enriched": true
+}

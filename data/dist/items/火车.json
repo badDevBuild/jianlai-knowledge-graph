@@ -1,0 +1,44 @@
+{
+  "name": "火车",
+  "original_name": "仙兵火车",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "火车是蛮荒天下大岳青山的仙兵重器，蕴含极其霸道的火部与雷部神通。它既是极其高效的远游工具， 也是一件能够在沙场上横冲直撞的战争兵器。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第861章 开山",
+      "owner": "碧梧"
+    }
+  ],
+  "subtype": "运输类 / 攻伐类",
+  "holder": "瘦梅 (借用)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "碧梧 (大岳青山山神)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古遗留下来的顶级重宝，具有镇压山岳与跨越天地的极高上限。",
+  "supernatural_ability": "能够承载修士在短时间内跨越蛮荒天下的广袤版图，行进时火焰升腾、电光交织，具有毁灭性的冲阵能 力。",
+  "evolution": {
+    "current_form": "一辆巴掌大小、雕刻精美的袖珍车辆。",
+    "materials_consumed": [
+      "雷电真意",
+      "大岳山根精气"
+    ],
+    "potential_evolution": "未知。"
+  },
+  "visual": {
+    "static": "巴掌大小的袖珍车驾，外形古朴，隐有电芒闪烁。",
+    "active": "体型骤然变大，被熊熊火焰与奔雷包裹，在天幕中划过时声势动地，如同一轮移动的雷池火海。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下大岳青山祠庙的镇山之宝。",
+    "karma_link": "陈平安通过与山神碧梧的约定，促使此宝由瘦梅驾驭前往托月山送信。"
+  },
+  "enriched": true
+}

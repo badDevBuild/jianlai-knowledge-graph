@@ -1,0 +1,52 @@
+{
+  "name": "胭脂郡城隍显佑伯印",
+  "original_name": "小天师印",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件象征着**龙虎山天师府**正统法统的重宝。它秉持着“唯有德者持之”的教诲，是陈平安送给挚 友**张山峰**的护道大礼。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第379章 前兆",
+      "owner": "张山峰"
+    }
+  ],
+  "subtype": "压胜类 / 雷法类",
+  "holder": "张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "沈温",
+      "relation": "原主 / 赠予者"
+    },
+    {
+      "name": "龙虎山大天师",
+      "relation": "制造者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "若由修习正统五雷正法的道士驱使，可发挥出号令雷部的惊人威势。",
+  "supernatural_ability": "具有极其强大的镇压邪祟、破除阴煞的能力。曾镇守胭脂郡，令城外乱葬岗的厉鬼不敢逾越半步。",
+  "evolution": {
+    "current_form": "藏于青色木盒中的精铁官印。",
+    "materials_consumed": [
+      "龙虎山雷法真意",
+      "众生香火灵光"
+    ],
+    "potential_evolution": "配合特定的五雷心法，可成为掌握天地枢机的雷部至宝。"
+  },
+  "visual": {
+    "static": "四四方方的印章，印文由龙虎山大天师亲手篆刻，气象森严。",
+    "active": "激发时如雷鸣炸裂，金光绽放，能产生天然的雷电屏障压制妖鬼。"
+  },
+  "provenance": {
+    "origin": "由龙虎山某代大天师亲手篆刻并赐予彩衣国胭脂郡。",
+    "karma_link": "城隍爷沈温感念其恩将其赠予陈平安，陈平安后将其作为临别赠礼转交给张山峰。"
+  },
+  "enriched": true
+}

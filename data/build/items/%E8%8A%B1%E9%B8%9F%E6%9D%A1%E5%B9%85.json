@@ -1,0 +1,46 @@
+{
+  "name": "花鸟条幅",
+  "original_name": "打醮山花鸟长幅",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是打醮山鲲船上标志性的景观灵器。除了观赏价值，它最具实力的功能是能够拓印下如剑仙问剑等震 撼场景，并制成可供二次观看的白纸副件 。",
+  "aliases": [
+    "花鸟条幅"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第210章 山水相逢也重逢",
+      "owner": "打醮山"
+    }
+  ],
+  "subtype": "景观/辅助类",
+  "holder": "打醮山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "打醮山祖师",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为大型空间法宝的附属部件，可随承载物升级。",
+  "supernatural_ability": "具象化：画卷上的彩墨飞禽可飞出画轴发声；拓碑：可利用类似拓碑的手法将特定场景保存并进行白纸 拓印 。",
+  "evolution": {
+    "current_form": "长五六丈、宽两丈的巨大丝绸卷轴",
+    "materials_consumed": [
+      "天地灵气",
+      "水墨精华"
+    ],
+    "potential_evolution": "演化为自成一体的灵禽洞天"
+  },
+  "visual": {
+    "static": "极其巨大的长卷，绘有各种姿态的神采飞禽，气象空灵 。",
+    "active": "悬挂于船头高空，画中鸟雀飞旋，鸣叫声清脆动人 。"
+  },
+  "provenance": {
+    "origin": "打醮山宗门祖传重宝 。",
+    "karma_link": "常用于跨洲渡船展示，作为赚取神仙钱的媒介 。"
+  },
+  "enriched": true
+}

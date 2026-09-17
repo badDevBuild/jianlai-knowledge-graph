@@ -1,0 +1,56 @@
+{
+  "name": "皓彩",
+  "original_name": "明月精魄 / 皓彩月",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "蛮荒明月的精魂。这不仅是资源，更是两座天下大道博 弈的筹码。陈平安的“搬月”之举改变了几座天下的格局 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第868章 干架",
+      "owner": "无主"
+    },
+    {
+      "chapter": "第873章 刻字",
+      "owner": "青冥天下 (即将)"
+    },
+    {
+      "chapter": "第948章 白玉京，师兄弟",
+      "owner": "赊月(原主)/青冥天下"
+    }
+  ],
+  "subtype": "洞天/本源类",
+  "holder": "余斗 / 青冥天下",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "蛮荒天下",
+      "relation": "原主"
+    },
+    {
+      "name": "赊月",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "其月魄精华可支撑起数位飞升境修士的合道基石 。",
+  "supernatural_ability": "自带极其阴柔精纯的月光道意，能压制一切火法与浮躁 之气 。",
+  "evolution": {
+    "current_form": "蛮荒天下三轮明月之一，现已被搬迁至青冥天下 。",
+    "materials_consumed": [
+      "远古神性",
+      "虚空清辉"
+    ],
+    "potential_evolution": "可演化为白玉京道统中代表“太阴”的最高场域 。"
+  },
+  "visual": {
+    "static": "洁白皎洁，散发着让人心神安宁的冷冽光辉 。",
+    "active": "被大修士驾驭时，月光如银河倒灌，能瞬间洗刷万里山 河的灵气 。"
+  },
+  "provenance": {
+    "origin": "远古明月碎片，蛮荒天下核心气运载体 。",
+    "karma_link": "由陈平安一剑斩断因果后，交付陆沉带回白玉京 。"
+  },
+  "enriched": true
+}

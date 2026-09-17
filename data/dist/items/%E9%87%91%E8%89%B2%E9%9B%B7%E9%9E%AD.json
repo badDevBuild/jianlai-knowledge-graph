@@ -1,0 +1,54 @@
+{
+  "name": "金色雷鞭",
+  "original_name": "金雷竹鞭 / 雷池脉络",
+  "type": "材料",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "金色雷鞭蕴含纯阳雷电真意，是天下间少见的天然雷法重宝材质，具有极高的实战与收藏价值 。",
+  "aliases": [
+    "积霄山金色雷鞭"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第499章 源头活水入心田",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第500章 有些遇见",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第520章 久仰久仰",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "压胜类 / 雷法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "积霄山敕雷神将",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "源自远古雷部遗迹，若能得倒悬山级别雷池电浆淬炼，可进阶为先天法宝 。",
+  "supernatural_ability": "天然压胜一切生长于地底的精怪鬼魅，威力不亚于青神山绿竹打造的打鬼鞭 。",
+  "evolution": {
+    "current_form": "五截长短不一的金色雷鞭 。",
+    "materials_consumed": [
+      "积霄山雷池电浆",
+      "雷电真意"
+    ],
+    "potential_evolution": "陈平安计划将其炼化为一根行山杖送给弟子裴钱，作为顶级压胜武器 。"
+  },
+  "visual": {
+    "static": "色泽金黄，竹节清晰，表面隐约有电光游走，触之有微弱的雷鸣声 。",
+    "active": "挥动时电光交织，雷声隆隆，能瞬间震散中五境鬼物的魂魄 。"
+  },
+  "provenance": {
+    "origin": "产自鬼蜮谷积霄山雷池（斗枢院洗剑池）周边，是雷池灵气外溢的脉络显化 。",
+    "karma_link": "陈平安在积霄山挖掘所得，是克制阴物邪祟的极品灵物 。"
+  },
+  "enriched": true
+}

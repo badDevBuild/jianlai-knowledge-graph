@@ -1,0 +1,39 @@
+{
+  "name": "粉丝砂锅",
+  "original_name": "老厨子独家伙食",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是落魄山“泥腿子”美学的饮食体现。虽然只是一道普 通饭菜，却因为朱敛的用心，成为了整座山头最能安稳 道心的力量 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1140章 这天公",
+      "owner": "老秀才"
+    }
+  ],
+  "subtype": "食材/滋养类",
+  "holder": "朱敛 (老厨子) / 落魄山众人",
+  "holder_relation": "持有",
+  "rank": "其他",
+  "rank_potential": "作为极具烟火气的食物，随烹饪者心境提升，可具备微 弱的安神补气之效 。",
+  "supernatural_ability": "味道绝佳，能极大缓解修士因常年闭关或厮杀带来的疲 惫感与孤寂感 。",
+  "evolution": {
+    "current_form": "朱敛亲手慢炖、热气腾腾的家常菜肴 。",
+    "materials_consumed": [
+      "火腿肉",
+      "山间春笋",
+      "人间烟火气"
+    ],
+    "potential_evolution": "作为落魄山团圆夜的标志性菜肴，凝聚一门的人心气运 。"
+  },
+  "visual": {
+    "static": "砂锅古拙，汤汁浓稠，香气扑鼻，给人一种极致的归属 感 。",
+    "active": "热气氤氲，能让围坐者不由自主地放松心境，产生“家” 的幻象 。"
+  },
+  "provenance": {
+    "origin": "源自落魄山大管家朱敛的世俗厨艺 。",
+    "karma_link": "连接了落魄山成员间超越师门的家人情感 。"
+  },
+  "enriched": true
+}

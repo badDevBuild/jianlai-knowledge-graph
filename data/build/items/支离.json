@@ -1,0 +1,38 @@
+{
+  "name": "支离",
+  "original_name": "炼物之道 / 吾洲状态",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是十四境大修士吾洲独创的修行道路。她将自己炼成了一件容量无限的容器，不仅是天下第一炼师， 更以此身承载了无数上古重器，战力极其恐怖 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第843章 共斩蛮荒",
+      "owner": "张禄"
+    }
+  ],
+  "subtype": "炼物类 / 领域类",
+  "holder": "吾洲",
+  "holder_relation": "寄托",
+  "rank": "仙兵",
+  "rank_potential": "作为青冥天下十四境大修士的合道方式，具备承载万物而不朽的上限 。",
+  "supernatural_ability": "将自身道心、皮囊、筋骨血肉悉数炼化为太虚境地，以自身之“无”承载众多本命物之“有” 。",
+  "evolution": {
+    "current_form": "吾洲所处的“人貌而天虚”的合道状态 。",
+    "materials_consumed": [
+      "远古神兵遗物",
+      "十四境道果"
+    ],
+    "potential_evolution": "通过不断收集、更换更高品级的神兵，可无限增强自身实力 。"
+  },
+  "visual": {
+    "static": "表面看是一位气质英气的女冠 。",
+    "active": "显化六臂法相，每条手臂各持一件远古神兵，气象森严 。"
+  },
+  "provenance": {
+    "origin": "吾洲继承了远古十二高位神灵之一“铸造者”的传承 。",
+    "karma_link": "陆沉评价这种合道方式为“支离”，寓意肉身与法宝的极致融合 。"
+  },
+  "enriched": true
+}

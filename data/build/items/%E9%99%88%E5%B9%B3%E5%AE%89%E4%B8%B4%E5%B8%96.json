@@ -1,0 +1,44 @@
+{
+  "name": "陈平安临帖",
+  "original_name": "《初稿本》/《抄录本》",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安的人生底稿。三十余万言，字字无错，记录 了其从泥腿子到隐官的所有转折与道理 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第933章 吾为东道主（三）",
+      "owner": "吴懿"
+    }
+  ],
+  "subtype": "记录/心境类",
+  "holder": "落魄山藏书楼",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因其承载了陈平安的“事功”学问与拳意，有望演化为镇 压道心的“本命书” 。",
+  "supernatural_ability": "每个字都蕴含微弱剑意与浩然气，能让翻阅者宁神入定 ，感悟其游历山河时的心路历程 。",
+  "evolution": {
+    "current_form": "厚如山岳的整齐手稿，以古板楷体写就 。",
+    "materials_consumed": [
+      "千万里足迹",
+      "纯粹拳意"
+    ],
+    "potential_evolution": "最终可演化为涵盖数座天下所有真相的“山海全志” 。"
+  },
+  "visual": {
+    "static": "字迹法度严谨，规矩如楷，纸张质地由普通宣纸逐渐转 为灵气纸张 。",
+    "active": "指尖划过文字，会有金色流萤闪现，显化出如梦似幻的 山水异象 。"
+  },
+  "provenance": {
+    "origin": "陈平安在一次次远游、当学塾先生及守夜时分亲笔撰写 。",
+    "karma_link": "是其“见微知著”修行方式的文字载体，连接了其凡俗心 境与神道视野 。"
+  },
+  "enriched": true
+}

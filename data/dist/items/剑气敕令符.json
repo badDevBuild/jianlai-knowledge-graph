@@ -1,0 +1,51 @@
+{
+  "name": "剑气敕令符",
+  "original_name": "山河剑敕符 / 剑符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是符箓一脉与剑道结合的巅峰产物，被称为**“让神鬼礼敬，主动让道 ”**的护身重器 。",
+  "aliases": [
+    "临摹符箓"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第285章 一盒胭脂",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1027章 休要乱我道心",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "压胜/攻伐类",
+  "holder": "陈平安 / 剑气长城剑修",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "钟魁",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由大剑仙或圣贤落笔，其剑意可劈山断流，让神鬼主动让道 。",
+  "supernatural_ability": "蕴含极端凌厉的剑气，能针对一切邪祟产生**法理压制**，甚至威胁元 婴级阴物 。",
+  "evolution": {
+    "current_form": "绘有三山图景与敕令金文的高阶符箓 。",
+    "materials_consumed": [
+      "风雷纸",
+      "纯粹剑意",
+      "圣人浩然气"
+    ],
+    "potential_evolution": "在大修士手中可演化为类似“剑舟”的一线攻伐阵法 。"
+  },
+  "visual": {
+    "static": "符胆处剑意森森，笔触如刀刻，常伴有金石颤鸣之声 。",
+    "active": "激发时剑气冲天而起，化作巨大长剑虚影，破开一切邪祟迷障 。"
+  },
+  "provenance": {
+    "origin": "源自《丹书真迹》高阶篇章，与三山九侯先生有深远渊源 。",
+    "karma_link": "钟魁以此符助陈平安在战场上占据先手，体现了儒道兼修的杀伐力 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,53 @@
+{
+  "name": "隔音玉佩",
+  "original_name": "清心佩 / 辟秽佩",
+  "type": "灵器",
+  "grade": "法器",
+  "status": "消耗",
+  "description": "一种常见的仙家辅助器物，不仅能隔绝外界干扰，更重要的是能稳定心境。苻南华曾以此类“老龙布雨” 佩作为与宋集薪交易的见面礼 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第116章 人间有个老秀才（中）",
+      "owner": "宋正醇"
+    },
+    {
+      "chapter": "第210章 山水相逢也重逢",
+      "owner": "陈平安(暂时借给年轻道士)"
+    },
+    {
+      "chapter": "第334章 人间路窄酒杯宽",
+      "owner": "年轻扈从"
+    },
+    {
+      "chapter": "第431章 岛上来了个账房先生",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第447章 这么巧，我也是剑客",
+      "owner": "韩靖信"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "远游修士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随佩戴者气机滋养，可增强辟除阴秽的能力。",
+  "supernatural_ability": "隔绝杂音，并具有避暑、清心、避秽之效，对冥想坐忘大有裨益 。",
+  "evolution": {
+    "current_form": "小巧的玉质佩饰 。",
+    "materials_consumed": [
+      "温润灵玉"
+    ],
+    "potential_evolution": "若配合道家上宗秘传口诀，可达到事半功倍的修心效果 。"
+  },
+  "visual": {
+    "static": "通体通透，带有次表面散射感，触手冰凉 。",
+    "active": "散发出微弱的清凉涟漪，在佩戴者周身形成一层隔绝尘嚣的气场 。"
+  },
+  "provenance": {
+    "origin": "多产自老龙城苻家或其他擅长金石炼制的世家 。",
+    "karma_link": "常作为长辈赐予晚辈的入门护身礼 。"
+  },
+  "enriched": true
+}

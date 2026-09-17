@@ -1,0 +1,44 @@
+{
+  "name": "江渎",
+  "original_name": "大渎龙宫玉简 / 祈雨道诀",
+  "type": "典籍",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是埋河水神对陈平安的“必死之报”，不仅提供了强大的炼物法门，更让陈平安拥有了对话白玉京高位 大道的资格。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第676章 终于远游境",
+      "owner": "白发童子"
+    }
+  ],
+  "subtype": "传承/炼物类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "柳柔（埋河水神）",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "内容涉及白玉京第四层大道，是跻身飞升境的关键道统。",
+  "supernatural_ability": "记录了“万物可炼”的仙家道诀，能让修道者开辟四条通天道路，压制心魔。",
+  "evolution": {
+    "current_form": "一枚记录了五千余字道诀的水运玉简。",
+    "materials_consumed": [
+      "水精精华",
+      "上古龙王真意"
+    ],
+    "potential_evolution": "其内文字可化为绿衣童子，辅助修缮气府。"
+  },
+  "visual": {
+    "static": "温润如玉，散发出淡淡的碧绿光华。",
+    "active": "文字脱离载体，化作米粒大小的绿衣小人，在气府壁画上点睛画龙。"
+  },
+  "provenance": {
+    "origin": "源自上古时代某座被废弃的大渎龙宫，由柳柔所得。",
+    "karma_link": "见证了陈平安在书简湖与大泉王朝最艰难的修心岁月。"
+  },
+  "enriched": true
+}

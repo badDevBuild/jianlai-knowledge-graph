@@ -1,0 +1,44 @@
+{
+  "name": "太清轻身符",
+  "original_name": "白日举形宝箓 / 上尸解符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "**太清轻身符**是修道之人梦寐以求的保命符与破境符 。它对于无望上五境的修士而言，等同于再造之恩。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第780章 可规可矩谓之国士",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "飞升/突破类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "能助地仙稳破玉璞境关隘，是辅助证道飞升的终极灵符 。",
+  "supernatural_ability": "能让生人转为“鬼仙之姿”避开死劫，或助修士“轻身举 形”，与天地同生。",
+  "evolution": {
+    "current_form": "以珍稀青绿箓材质绘制的大符。",
+    "materials_consumed": [
+      "太清道气",
+      "降真灵光"
+    ],
+    "potential_evolution": "配合其他大符可达成“功德圆满、肉身飞升”。"
+  },
+  "visual": {
+    "static": "符纸流光溢彩，触手生温，文字具有极强的引渡感。",
+    "active": "激发后身生白云，祥光护体，可硬抗元婴境修士的致命 打击。"
+  },
+  "provenance": {
+    "origin": "脱胎于道祖亲制的“太玄清生符”，为吴霜降得意之作。",
+    "karma_link": "吴霜降以此符作为陈平安体魄受损的补偿，象征着某种 大道的认可。"
+  },
+  "enriched": true
+}

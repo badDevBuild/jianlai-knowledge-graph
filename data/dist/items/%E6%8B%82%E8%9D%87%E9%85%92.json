@@ -1,0 +1,44 @@
+{
+  "name": "拂蝇酒",
+  "original_name": "市井土烧 / 薏酒",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "**拂蝇酒**指代那些具烟火气的**廉价酒水**。它见证了陈平安从泥腿子到剑客的转变，象征着“人间 路窄酒杯宽”的从容 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第698章 要问拳",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "消耗类",
+  "holder": "陈平安 / 山下酒客",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "家乡酒铺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为寄托乡愁之物，可作为磨砺武道心境的“药引” 。",
+  "supernatural_ability": "酒性极烈，饮后能瞬间激发武夫气血，虽非仙酿却极具烟火气，能消解心中郁气 。",
+  "evolution": {
+    "current_form": "装在寻常酒坛或养剑葫中的透明烈酒 。",
+    "materials_consumed": [
+      "五谷精华",
+      "岁月感悟"
+    ],
+    "potential_evolution": "若由剑仙点睛，可成为感悟“江上斩蚊”剑意的媒介 。"
+  },
+  "visual": {
+    "static": "酒色清亮，带有浓郁的麦香或果香，闻之微醺 。",
+    "active": "倒入碗中时波纹荡漾，入喉如吞刀片，随后生出一股暖意 。"
+  },
+  "provenance": {
+    "origin": "源自陈平安家乡小镇及远游途中的市井坊间 。",
+    "karma_link": "连接了陈平安“窑工少年”的卑微过去与“年轻隐官”的显赫现状 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "金色头颅神像",
+  "original_name": "落魄山宋山神像",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是落魄山山神庙的核心神像。宋煜章死后受封神祇，这尊具有金色头颅的奇特神像成为了其金身的物 理承载物 。",
+  "aliases": [
+    "金色头颅神像"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第118章 天地有气",
+      "owner": "宋煜章"
+    }
+  ],
+  "subtype": "镇压类",
+  "holder": "宋煜章",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "大骊礼部",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为落魄山早期的山水气运核心，其品秩随大骊国运及落魄山兴旺而提升 。",
+  "supernatural_ability": "“摄魂镇山”。金色头颅能够聚拢山水灵气，并作为神祇金身的中枢，协助大骊宋氏监控地方气数 。",
+  "evolution": {
+    "current_form": "泥塑神像，头部专门打造为金色，身躯则为普通彩绘 。",
+    "materials_consumed": [
+      "大骊秘制金粉",
+      "龙泉郡山水香火"
+    ],
+    "potential_evolution": "可进化为拥有完整金身的“正神法相”。"
+  },
+  "visual": {
+    "static": "一颗熠熠生辉的金色头颅，在昏暗的祠庙内尤为醒目 。",
+    "active": "当山神显灵时，头颅会散发出淡金色的神性光芒，笼罩整座山岳 。"
+  },
+  "provenance": {
+    "origin": "根据大骊王朝密旨打造，专属于落魄山首任山神 。",
+    "karma_link": "与大骊宋氏、圣人杨老头对骊珠洞天的长远布局密切相关 。"
+  },
+  "enriched": true
+}

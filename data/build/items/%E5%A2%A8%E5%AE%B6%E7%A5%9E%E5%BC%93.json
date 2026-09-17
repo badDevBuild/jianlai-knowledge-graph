@@ -1,0 +1,47 @@
+{
+  "name": "墨家神弓",
+  "original_name": "墨家强弓 / 破山弓",
+  "type": "重器",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "大骊王朝的顶级军备，代表了墨家机关术与军阵威势的结合。它让纯粹 武夫在战场上拥有了“射杀神仙”的资本 。",
+  "aliases": [
+    "墨家神弓"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第244章 大骊陈平安在此",
+      "owner": "梳水国军队"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "徐远霞 / 大骊将领",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊兵部",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "配合墨家特制箭矢，杀力可威胁中五境乃至金丹境地仙 。",
+  "supernatural_ability": "弓身铭刻有特定的辅助符文，极大增强箭矢破甲力。由武夫以罡气挽弓 ，威力倍增 。",
+  "evolution": {
+    "current_form": "以龙脊木及特种合金打造的重型强弓 。",
+    "materials_consumed": [
+      "龙脊木",
+      "精铁符金",
+      "墨家秘术"
+    ],
+    "potential_evolution": "可升级为安置在剑舟上的大型“攻仙弩” 。"
+  },
+  "visual": {
+    "static": "弓身漆黑如铁，缠绕金丝，透露出浓郁的军中肃杀气机 。",
+    "active": "拉满时弓弦嗡嗡作响，产生细微的空气涡流，箭矢破空伴有尖啸 。"
+  },
+  "provenance": {
+    "origin": "出自大骊工部，由墨家巨子监制 。",
+    "karma_link": "徐远霞曾在大战中获赠此物，象征着凡俗武夫对神仙的致命威胁 。"
+  },
+  "enriched": true
+}

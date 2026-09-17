@@ -1,0 +1,38 @@
+{
+  "name": "大紫皮葫芦",
+  "original_name": "星河葫芦",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "大紫皮葫芦是于玄行走天外的重器，不仅是承载灵气的容器，更是他法天象地、合道星辰的重要依仗 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第977章 相亲相爱师兄弟",
+      "owner": "王琼琚"
+    }
+  ],
+  "subtype": "空间类 / 位移类",
+  "holder": "于玄",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "内部蕴含一整条摹拓而入的天上银河，已达法宝巅峰位格 。",
+  "supernatural_ability": "持有者可坐于葫芦之上，于星汉中远游 。内部藏有瑰丽异象，可将不计其数的星光攒簇成河，镇压四方 。",
+  "evolution": {
+    "current_form": "一个晶莹剔透的大型紫皮葫芦，内部可见流动的星辰光辉 。",
+    "materials_consumed": [
+      "远古星辰精华",
+      "光阴流水"
+    ],
+    "potential_evolution": "随着于玄合道星河，此葫芦可演化为掌控一洲天象的重器 。"
+  },
+  "visual": {
+    "static": "葫芦材质如玉，皮质泛紫，通体晶莹，可清晰看见内部的银河景象 。",
+    "active": "在天外天现身时，宝光流转，与漫天星斗相互辉映，气象万千 。"
+  },
+  "provenance": {
+    "origin": "中土符箓宗师于玄在天外星河采集精华炼制而成 。",
+    "karma_link": "作为于玄的标志性随身法宝，见证了其合道十四境的巅峰时刻 。"
+  },
+  "enriched": true
+}

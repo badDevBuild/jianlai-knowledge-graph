@@ -1,0 +1,39 @@
+{
+  "name": "本命灯",
+  "original_name": "魂魄灯",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是山上宗门为重要成员准备的最后手段 。打造过程极其痛苦，且后续维护成本高昂，属于“不得已而为之”的无奈之举 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第590章 连雨不知春将去",
+      "owner": "宗字头仙家嫡传"
+    }
+  ],
+  "subtype": "保命/续命类",
+  "holder": "宗字头仙家嫡传弟子",
+  "holder_relation": "寄托",
+  "rank": "法宝",
+  "rank_potential": "通过消耗大量神仙钱维持，可作为重塑肉身与魂魄的根基 。",
+  "supernatural_ability": "在修士战死于战场后，能凭借此灯多出半条命，重塑阴神与阳神真身 , 。",
+  "evolution": {
+    "current_form": "在祖师堂内点燃的特殊长明灯 。",
+    "materials_consumed": [
+      "魂魄拓碑之法",
+      "仙家秘术打造的灯芯",
+      "海量神仙钱"
+    ],
+    "potential_evolution": "虽能续命，但往往会伤及大道根本，导致未来成就受限 。"
+  },
+  "visual": {
+    "static": "供奉于宗门祖师堂内，灯火常年不熄 。",
+    "active": "以修士魂魄作为灯芯点燃，散发出持久的灵光 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的保命秘术，后被各大洲顶级宗门收录 。",
+    "karma_link": "宁府曾考虑为陈平安点燃本命灯，以应对大战中的万一情况 。"
+  },
+  "enriched": true
+}

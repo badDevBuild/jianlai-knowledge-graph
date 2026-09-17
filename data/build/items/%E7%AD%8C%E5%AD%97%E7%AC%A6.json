@@ -1,0 +1,38 @@
+{
+  "name": "筌字符",
+  "original_name": "筌蹄符 / 言筌大符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "活跃",
+  "description": "筌字符是《剑来》中极具哲学意味的法术载体。它告诉 修士，言语文字皆为工具，若不能忘掉“筌”，便永远无 法得到“鱼” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1005章 他们围坐篝火",
+      "owner": "三山九侯先生"
+    }
+  ],
+  "subtype": "收束/禁锢类",
+  "holder": "陈平安 / 陈缉",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "意在“得鱼忘筌”，若能修成，可让受术者陷入无法自拔 的认知障壁中 。",
+  "supernatural_ability": "制造出一种名为“言筌”的意识陷阱，拘押受术者的念头 ，使其心神无法脱离特定逻辑 。",
+  "evolution": {
+    "current_form": "笔迹繁复、层层叠叠如渔网的符箓 。",
+    "materials_consumed": [
+      "蜃气精华",
+      "因果丝线"
+    ],
+    "potential_evolution": "可进阶为足以困住阴神远游的“真意笼” 。"
+  },
+  "visual": {
+    "static": "图案如捕鱼之筌，线条连绵不断，给人一种沉溺之感 。",
+    "active": "笼罩目标时，周围会浮现出如海市蜃楼般的文字迷宫 。"
+  },
+  "provenance": {
+    "origin": "涉及白玉京大掌教与三山九侯先生共同探讨的某种法理 。",
+    "karma_link": "与陈缉身边的侍女陈言筌真名呼应，揭示了“名实”之争 的深层内幕 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,45 @@
+{
+  "name": "桃花马",
+  "original_name": "桃花色符马",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "桃花马是一种典型的仙家符马，主要通过消耗灵气或神 仙钱来维持奔行速度。它是陈平安在远游途中常用的代 步方式，象征着修行路上踏遍山河的从容 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1014章 坐井观天复少年",
+      "owner": "小眉"
+    }
+  ],
+  "subtype": "符箓/坐骑类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊军方",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为仙家坐骑符，随画符者道力提升可演化为真正具有 灵性的龙种神骏。",
+  "supernatural_ability": "由符箓化形而成，奔走如电，蹄间带有春草清香，可日 行千里、夜游八百而不觉疲惫 [1-3]。",
+  "evolution": {
+    "current_form": "一张绘有骏马图案、散发淡淡桃花色泽的符纸 。",
+    "materials_consumed": [
+      "云根纸",
+      "仙家朱砂",
+      "春季灵气"
+    ],
+    "potential_evolution": "若融合真龙灵血，可进化为拥有龙族血脉的“照夜玉狮 子” 。"
+  },
+  "visual": {
+    "static": "一张折叠整齐的青色或淡红色符纸，上有细腻的走马纹 路 。",
+    "active": "化作一匹神俊非凡的粉白色或雪白色骏马，奔跑时身形 模糊，如一道白练划过驿路 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝或中土神洲的符箓宗门，常用作修道之人远游 的代步工具 。",
+    "karma_link": "见证了陈平安从大骊南下桐叶洲的求学与修行之路 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,41 @@
+{
+  "name": "竹篮",
+  "original_name": "竹编篮筐",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这件重宝由桐叶洲一处遗迹中手挽竹篮的模糊女子持有 。其真正用途是在光阴长河中搜集神灵金身碎片，是具备极高位格的远古遗物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第396章 竹篮打水捞明月",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "遗迹模糊女子",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古神灵",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "能够承载远古神灵碎片",
+  "supernatural_ability": "竹篮打水未必一场空，可在长河中打捞神灵金身碎片 。",
+  "evolution": {
+    "current_form": "竹编篮筐",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "一只平凡的竹编篮筐，由一模糊女子身影手挽 。",
+    "active": "在桐叶洲遗迹中触碰铜钱剑时会引发漫天火海 。"
+  },
+  "provenance": {
+    "origin": "远古时代",
+    "karma_link": "与光阴长河中漂浮的神灵遗物有关"
+  },
+  "enriched": true
+}

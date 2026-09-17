@@ -1,0 +1,42 @@
+{
+  "name": "结丹符",
+  "original_name": "直指金丹符 / 结丹契机",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "对于苦于瓶颈无法突破的练气士而言，这是足以让他们倾家荡产去求取的“敲门砖” 。它能以符箓之力模拟金丹运转，让修士提前感知中五境的风景 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第653章 谁可奉饶天下先",
+      "owner": "魏本源"
+    },
+    {
+      "chapter": "第1083章 将进酒",
+      "owner": "魏本源(转赠桃芽)"
+    }
+  ],
+  "subtype": "辅助修行类",
+  "holder": "下五境练气士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为辅助结丹的捷径，其价值随符胆真意的精纯度而定 。",
+  "supernatural_ability": "帮助练气士在龙门境冲关时凝聚灵气，提高结出高品相金丹的概率 。",
+  "evolution": {
+    "current_form": "记载于《丹书真迹》等古籍中的辅助类符箓 。",
+    "materials_consumed": [
+      "仙家丹砂",
+      "龙虎山雷局意蕴"
+    ],
+    "potential_evolution": "若由仙人执笔，可演化为“白日举形宝箓”，助人脱胎换骨 。"
+  },
+  "visual": {
+    "static": "符文布局紧凑，如金丹圆转，隐约有紫金之气 。",
+    "active": "祭出后会产生一层光幕笼罩修士，引动天地灵气形成小规模灌顶之势 。"
+  },
+  "provenance": {
+    "origin": "源自道门丹鼎派与符箓派的跨界融合技艺 。",
+    "karma_link": "陈平安曾利用此类符箓的真意，帮助下宗弟子稳固境界 。"
+  },
+  "enriched": true
+}

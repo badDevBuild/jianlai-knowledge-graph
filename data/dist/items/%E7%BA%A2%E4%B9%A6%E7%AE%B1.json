@@ -1,0 +1,52 @@
+{
+  "name": "红书箱",
+  "original_name": "朱漆书箱",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是李宝瓶随身携带的标志性器物。它不仅是一件实用的负笈工具，更承载了齐静春对弟子“求学当知 先后”的殷切嘱托 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第154章 老先生坐而论道",
+      "owner": "李宝瓶"
+    },
+    {
+      "chapter": "第156章 少年肩头挑着草长莺飞",
+      "owner": "李宝瓶"
+    },
+    {
+      "chapter": "第612章 敌已至，剑仙在",
+      "owner": "裴钱(暂借郭竹酒)"
+    }
+  ],
+  "subtype": "传承类 / 储存类",
+  "holder": "李宝瓶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "制作者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为落魄山门风的象征，承载着“读万卷书行万里路”的宏大文运 。",
+  "supernatural_ability": "“文气护身”。能够温养存放在其中的儒家典籍与灵物（如名刀祥符），并在风雪游学途中散发安神气息 。",
+  "evolution": {
+    "current_form": "材质坚固、色泽红润的小巧书箱 。",
+    "materials_consumed": [
+      "红漆",
+      "灵木"
+    ],
+    "potential_evolution": "可演化为承载一洲文运精粹的“圣贤笈” 。"
+  },
+  "visual": {
+    "static": "色泽鲜红夺目，常由红棉袄小姑娘背负，书箱中露出的书脊显得绵软陈旧 。",
+    "active": "在关键时刻能作为存放重器（如祥符、养剑葫）的移动府邸 。"
+  },
+  "provenance": {
+    "origin": "陈平安在远游求学途中为李宝瓶亲手打造 。",
+    "karma_link": "见证了骊珠洞天少年子弟从“泥腿子”向真正读书人的心境转折 。"
+  },
+  "enriched": true
+}

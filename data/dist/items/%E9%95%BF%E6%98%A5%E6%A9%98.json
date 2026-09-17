@@ -1,0 +1,46 @@
+{
+  "name": "长春橘",
+  "original_name": "木奴 / 仙家橘果",
+  "type": "灵物",
+  "grade": "灵果",
+  "status": "消耗",
+  "description": "长春橘不仅是珍稀的灵果，更是水龙宗数千年底蕴的体 现。它的存在，让木奴渡成为了著名的访仙之地 。",
+  "aliases": [
+    "长春橘"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第209章 也是木剑",
+      "owner": "陈平安(赠予春水秋实)"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "水龙宗 / 远游仙师",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "水龙宗开山老祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "长期受龙宫洞天灵气滋养，服用可增益甲子寿元并稳固 神魂 。",
+  "supernatural_ability": "口感甘甜清冽，蕴含充沛的生机灵力，是练气士闭关时 维持神识清明的佳品 。",
+  "evolution": {
+    "current_form": "色泽金黄、皮薄肉厚的仙家橘子。",
+    "materials_consumed": [
+      "龙宫洞天灵气",
+      "万年水运"
+    ],
+    "potential_evolution": "若得长春宫泉水灌溉，可炼制成名为“长春丹”的驻颜神 药 。"
+  },
+  "visual": {
+    "static": "果实圆润，表面隐约有道纹闪烁，即便摘下多日仍香气 袭人 。",
+    "active": "食用时会有温热感传遍四肢百骸，让修士容光焕发 。"
+  },
+  "provenance": {
+    "origin": "产自龙宫洞天木奴渡，由水龙宗祖师亲手栽种 。",
+    "karma_link": "是水龙宗馈赠贵客的重要礼品，象征着长青与不朽 。"
+  },
+  "enriched": true
+}

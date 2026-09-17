@@ -1,0 +1,50 @@
+{
+  "name": "青杏国玉玺",
+  "original_name": "青杏国三方玉玺",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是青杏国柳氏政权的法统载体。在桐叶洲战乱后，这批玉玺的失而复得象征着皇权对土地与神祇掌控 力的重新确立 。",
+  "aliases": [
+    "三方宝玺"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1014章 坐井观天复少年",
+      "owner": "青杏国 (已失落)"
+    },
+    {
+      "chapter": "第1037章 天公作美",
+      "owner": "赵浮阳 (需归还青杏国)"
+    }
+  ],
+  "subtype": "礼器 / 国祚镇压",
+  "holder": "青杏国柳氏",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "合欢山府君",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为“天子十二宝”的核心，其品秩与一国国运强弱深度绑定，在一洲气运洗牌中具有极高的象征权柄 , 。",
+  "supernatural_ability": "镇压一国山河气数，若遗失则可能导致国祚断绝、香火不稳 。",
+  "evolution": {
+    "current_form": "作为青杏国皇室正统象征的玉质印章。",
+    "materials_consumed": [
+      "一国文武气运",
+      "皇室龙气"
+    ],
+    "potential_evolution": "若能随王朝晋升为大国，可升格为镇压一洲山水的重器 。"
+  },
+  "visual": {
+    "static": "形制古朴，质地温润，印文法度森严，散发着浓郁的人间王朝气象 。",
+    "active": "在祭祀或封正典礼上，可引动山水灵气共鸣，显化出王朝疆域的虚影 。"
+  },
+  "provenance": {
+    "origin": "青杏国皇室世代传承的镇国宝物 。",
+    "karma_link": "曾因乱世流落于合欢山，后由大泉姚氏等势力参与追寻并复归 , 。"
+  },
+  "enriched": true
+}

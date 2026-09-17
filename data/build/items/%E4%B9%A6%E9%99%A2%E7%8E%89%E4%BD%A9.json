@@ -1,0 +1,46 @@
+{
+  "name": "书院玉佩",
+  "original_name": "君子玉佩 / 护身玉",
+  "type": "灵物",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是儒家门生的标配，不仅是身份的证明，更是修心养性的辅佐重宝。 它代表了浩然天下的规矩与斯文 。",
+  "aliases": [
+    "书院玉佩"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第246章 一团乱麻，既见君子",
+      "owner": "周矩"
+    }
+  ],
+  "subtype": "身份 / 辅助类",
+  "holder": "曹晴朗 / 钟魁 / 书院子弟",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土文庙 / 各大书院",
+      "relation": "发放者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着持有人学问精深，玉佩可凝聚浩然正气，演化为“言出法随”的法印 。",
+  "supernatural_ability": "书籍可以养气、养目、养心 ；玉佩则能稳定心境，隔绝寻常阴物侵袭 。",
+  "evolution": {
+    "current_form": "质地温润的白玉或青玉佩饰，常刻有书院名称或圣贤训诫 。",
+    "materials_consumed": [
+      "上乘玉髓",
+      "浩然正气"
+    ],
+    "potential_evolution": "可炼化为支撑“君子小天地”的根本枢纽 。"
+  },
+  "visual": {
+    "static": "莹澈通透，自带一股读书人的浩然清气 。",
+    "active": "感知到邪祟时会泛起温和的白光，文字显化金芒进行压制 。"
+  },
+  "provenance": {
+    "origin": "由儒家七十二书院颁发给合格的君子贤人 。",
+    "karma_link": "是陈平安学生曹晴朗身份的象征，见证了文圣一脉的传承 。"
+  },
+  "enriched": true
+}

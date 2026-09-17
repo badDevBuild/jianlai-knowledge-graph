@@ -1,0 +1,52 @@
+{
+  "name": "玉镯",
+  "original_name": "回文诗玉镯",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "不仅仅是首饰，更是一件融合了符箓、阵法与金石学问的杰作。即便不开高价售卖，摆在店中也能彰显 山头底蕴。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第546章 剑客行事",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第563章 忽如远行客",
+      "owner": "陈平安(交予王庭芳)"
+    }
+  ],
+  "subtype": "防御/阵法类",
+  "holder": "蚍蜉铺子 (王庭芳代管)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    },
+    {
+      "name": "黄师",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "因其刻有符箓阵法性质的回文诗，其灵力储备可随年份自动增长。",
+  "supernatural_ability": "具备“水中火”之气象，能形成微型循环阵法，辟除外感风寒。",
+  "evolution": {
+    "current_form": "篆刻有回文诗的精美玉镯，镯内有点点萤火。",
+    "materials_consumed": [
+      "星辰精华",
+      "诗词文气"
+    ],
+    "potential_evolution": "可作为大型聚灵阵法的节点使用。"
+  },
+  "visual": {
+    "static": "玉质剔透，文字流丽，透出一种书香门第的雅致。",
+    "active": "灵气流转时，文字似火在水中跳跃，呈现出幻梦般的光效。"
+  },
+  "provenance": {
+    "origin": "黄师在遗址中获得的法宝之一。",
+    "karma_link": "被陈平安作为落魄山旗下的“镇店之宝”，用于在春露圃招徕高阶修士。"
+  },
+  "enriched": true
+}

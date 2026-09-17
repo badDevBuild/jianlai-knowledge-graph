@@ -1,0 +1,43 @@
+{
+  "name": "大雪球",
+  "original_name": "倒悬山之雪",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "一个看似不值钱却分量极重的礼物 。陈平安在指挥若定的间隙，仍记挂着弟子对雪的向往，体现了隐官温情的一面 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第637章 远游人皆是蒲公英",
+      "owner": "郭竹酒"
+    }
+  ],
+  "subtype": "纪念品",
+  "holder": "郭竹酒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵物",
+  "rank_potential": "作为寄托师徒情谊之物，其文化意义远大于实战价值 。",
+  "supernatural_ability": "能够在酷热的剑气长城保持长久不化 。",
+  "evolution": {
+    "current_form": "纯白干净的雪球 。",
+    "materials_consumed": [
+      "倒悬山积雪"
+    ],
+    "potential_evolution": "可被郭竹酒制作为袖珍雪人 。"
+  },
+  "visual": {
+    "static": "被收纳在咫尺物中，洁白无瑕 。",
+    "active": "取出时散发阵阵清凉之气 。"
+  },
+  "provenance": {
+    "origin": "陈平安在倒悬山春幡斋闲逛时亲手揉捏而成 。",
+    "karma_link": "因剑气长城冬日无雪，陈平安特意为弟子带回的异乡风景 。"
+  },
+  "enriched": true
+}

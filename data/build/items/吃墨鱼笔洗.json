@@ -1,0 +1,44 @@
+{
+  "name": "吃墨鱼笔洗",
+  "original_name": "十六字吉语笔洗 / 墨精笔洗",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一款极其罕见的文房灵物，体现了山上练气士的雅致生活方式，也是刘羡阳作为顶级天才的福缘体 现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第249章 姹紫嫣红开遍",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "温养 / 辅助类",
+  "holder": "刘羡阳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "颍阴陈氏掌宝老祖",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "笔洗中豢养的吃墨鱼百年可生金丝脊线，五百年有望成墨龙 。",
+  "supernatural_ability": "吃墨鱼以墨为生，能清洁笔尖，且其所产之墨被誉为“墨宝”，对书画有加持作用 。",
+  "evolution": {
+    "current_form": "饲养有吃墨鱼的文房笔洗 。",
+    "materials_consumed": [
+      "名贵墨汁",
+      "文运灵气"
+    ],
+    "potential_evolution": "温养出真正的墨龙，成为顶级文房法宝 。"
+  },
+  "visual": {
+    "static": "质地细腻的笔洗，内有一条细小的黑鱼游弋 。",
+    "active": "洗笔时，墨鱼会迅速吸食墨汁，鱼身隐现神异光彩 。"
+  },
+  "provenance": {
+    "origin": "源自中土神洲颍阴陈氏 。",
+    "karma_link": "刘羡阳在中土求学期间，由陈氏老祖赠予，象征其在儒家学脉中的身份 。"
+  },
+  "enriched": true
+}

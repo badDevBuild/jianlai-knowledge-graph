@@ -1,0 +1,52 @@
+{
+  "name": "夜游神",
+  "original_name": "日夜游神真身符 / 降真符",
+  "type": "符箓",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是符箓一脉中的顶级重宝，具有极强的护卫与镇压功能。在陈平安游历途中，此符多次在关键时刻起 到威慑强敌的作用，也是李家兄弟情分的重要见证 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第394章 水落石出小钱堆",
+      "owner": "蒙珑"
+    }
+  ],
+  "subtype": "召唤类 / 护卫类",
+  "holder": "李宝瓶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "李宝箴",
+      "relation": "夺取自"
+    },
+    {
+      "name": "李希圣",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为《丹书真迹》倒数第三页记载的高阶大符，若能由飞升境以上修士重绘，威力可达仙兵级 。",
+  "supernatural_ability": "**“敕召神将”**。祭出符箓后可显化出法力高强的日夜游神真身，身高数丈，威严如山，能驱散阴气并 镇压鬼魅 。",
+  "evolution": {
+    "current_form": "品秩极高、绘有复杂云篆的珍稀符箓 。",
+    "materials_consumed": [
+      "金色符纸",
+      "圣人真意"
+    ],
+    "potential_evolution": "完全激发后可作为两尊独立作战的元婴境傀儡，且能在一定时间内遮蔽天机 。"
+  },
+  "visual": {
+    "static": "符纸质地非凡，符文散发着淡淡的威严神光 。",
+    "active": "符箓燃烧后，虚空中会有金甲神人凭空降临，手持重器，声势惊人 。"
+  },
+  "provenance": {
+    "origin": "出自李希圣所赠的《丹书真迹》秘传 。",
+    "karma_link": "陈平安在青鸾国战胜李宝箴后夺得此宝，后将其送回给小宝瓶 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "阮邛新剑",
+  "original_name": "“剑仙”",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这把剑不仅是顶级的仙兵，更是陈平安与宁姚情感的纽带。它曾随陈平安斩杀飞升境大妖杜懋，被视为 剑气长城最后一位刻字者的标志性佩剑 。",
+  "aliases": [
+    "阮邛新剑",
+    "无鞘长剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第198章 少年想要远游",
+      "owner": "预定给宁姚"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安（暂持） / 宁姚（原定主）",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "阮邛",
+      "relation": "制作者"
+    },
+    {
+      "name": "宁姚",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为阮邛开宗立派的第一把神兵，具备一鸣惊人、压胜一洲剑修的杀力 。",
+  "supernatural_ability": "**“斩神行刑”**。剑尖蕴含太白锋芒，能直接斩杀高位神灵或飞升境大妖，拥有天然的压胜之威 。",
+  "evolution": {
+    "current_form": "白鞘长剑，由大块斩龙台磨砺而成 。",
+    "materials_consumed": [
+      "三成斩龙台",
+      "神兵遗物",
+      "剑气长城遗泽"
+    ],
+    "potential_evolution": "完全炼化后可与持剑者神魂合一，成为支撑一洲剑道气运的法统之剑 。"
+  },
+  "visual": {
+    "static": "鞘外剑光如月，古朴且杀意内敛 。",
+    "active": "拔剑时剑气如长虹贯日，剑光照彻十方，呈现出极为纯粹的雪白色彩 。"
+  },
+  "provenance": {
+    "origin": "圣人阮邛在龙须河畔为宁姚精心打造的开山之作 。",
+    "karma_link": "承载了宁姚的剑道意志与陈平安对宁姚的守护承诺 。"
+  },
+  "enriched": true
+}

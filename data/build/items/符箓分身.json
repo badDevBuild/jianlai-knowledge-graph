@@ -1,0 +1,43 @@
+{
+  "name": "符箓分身",
+  "original_name": "北斗九分身 / 陈平安分身",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是陈平安作为隐官的巅峰手段之一。九尊分身各司其 职，不仅是战力延伸，更是其梳理整座天下脉络的“笔墨 ” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1011章 斜阳落山万紫青",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1023章 童年是个楔子",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "心境/防御类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "随陈平安对“三千小千世界”的构建，分身可演化为不同 天地的天道化身 。",
+  "supernatural_ability": "九尊分身（七显二隐）各自独立存在，能替主身行走天 下、搜集情报并砥砺道心 。",
+  "evolution": {
+    "current_form": "九张高品相符纸，包括极其珍稀的青色符纸 。",
+    "materials_consumed": [
+      "陈平安的心神芥子",
+      "金精铜钱",
+      "降真青绿箓"
+    ],
+    "potential_evolution": "最终可助陈平安跻身武道第十一境“我与我周旋” 。"
+  },
+  "visual": {
+    "static": "平时为符纸或特定形象的化身（如书生、道士、莽夫等 ） 。",
+    "active": "分身之间可通过心意互通，能在关键时刻祭出飞剑或雷 法，气象各异 。"
+  },
+  "provenance": {
+    "origin": "陈平安结合《丹书真迹》与自身本命飞剑神通独创 。",
+    "karma_link": "是陈平安“算计天下”与“闭关修行”两不误的核心手段 。"
+  },
+  "enriched": true
+}

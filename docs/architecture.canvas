@@ -1,0 +1,398 @@
+{
+  "nodes": [
+    {
+      "id": "title_node_main",
+      "type": "text",
+      "x": 400,
+      "y": -200,
+      "width": 400,
+      "height": 80,
+      "text": "# 剑来知识图谱\n## 项目架构图",
+      "color": "5"
+    },
+    {
+      "id": "group_data_source",
+      "type": "group",
+      "x": -100,
+      "y": 0,
+      "width": 300,
+      "height": 300,
+      "label": "数据源",
+      "color": "1"
+    },
+    {
+      "id": "node_chapters",
+      "type": "text",
+      "x": -80,
+      "y": 50,
+      "width": 260,
+      "height": 100,
+      "text": "## /chapters/\n\n**1200+ 章节文件**\n\n原始小说文本 (.txt)"
+    },
+    {
+      "id": "node_excel",
+      "type": "text",
+      "x": -80,
+      "y": 170,
+      "width": 260,
+      "height": 100,
+      "text": "## 人物设计图/\n\n**Excel 视觉设定档**\n\n人物外貌参考资料"
+    },
+    {
+      "id": "group_extract",
+      "type": "group",
+      "x": 280,
+      "y": 0,
+      "width": 350,
+      "height": 400,
+      "label": "1. 提取阶段 (Extract)",
+      "color": "2"
+    },
+    {
+      "id": "node_extract_pipeline",
+      "type": "text",
+      "x": 300,
+      "y": 50,
+      "width": 310,
+      "height": 120,
+      "text": "## extract_pipeline.py\n\n**核心提取脚本**\n\n- 调用 Gemini API\n- 双端点容错机制\n- 动态上下文注入"
+    },
+    {
+      "id": "node_gemini_api",
+      "type": "text",
+      "x": 300,
+      "y": 190,
+      "width": 310,
+      "height": 100,
+      "text": "## Gemini API\n\n**本地 LLM 服务**\n\n`http://127.0.0.1:7861`",
+      "color": "6"
+    },
+    {
+      "id": "node_prompt_template",
+      "type": "text",
+      "x": 300,
+      "y": 310,
+      "width": 310,
+      "height": 70,
+      "text": "## prompt_template.md\n\nAI 提示词模板 (7个模块)"
+    },
+    {
+      "id": "group_raw_data",
+      "type": "group",
+      "x": 710,
+      "y": 0,
+      "width": 280,
+      "height": 180,
+      "label": "原始数据",
+      "color": "3"
+    },
+    {
+      "id": "node_data_raw",
+      "type": "text",
+      "x": 730,
+      "y": 50,
+      "width": 240,
+      "height": 110,
+      "text": "## /data/raw/\n\n**JSON 结构化数据**\n\n- characters\n- relations\n- items, locations..."
+    },
+    {
+      "id": "group_clean",
+      "type": "group",
+      "x": 710,
+      "y": 220,
+      "width": 500,
+      "height": 380,
+      "label": "2. 清洗阶段 (Clean)",
+      "color": "4"
+    },
+    {
+      "id": "node_character_merger",
+      "type": "text",
+      "x": 730,
+      "y": 270,
+      "width": 220,
+      "height": 90,
+      "text": "## character_merger.py\n\n**人物合并**\n\n300+ 别名映射"
+    },
+    {
+      "id": "node_relation_merger",
+      "type": "text",
+      "x": 970,
+      "y": 270,
+      "width": 220,
+      "height": 90,
+      "text": "## relation_merger.py\n\n**关系合并**\n\n去重与归一化"
+    },
+    {
+      "id": "node_normalizers",
+      "type": "text",
+      "x": 730,
+      "y": 380,
+      "width": 460,
+      "height": 80,
+      "text": "## 归一化脚本\n\n`cultivation_normalizer.py` | `faction_normalizer.py` | `item_normalizer.py` | `location_normalizer.py`"
+    },
+    {
+      "id": "node_three_step",
+      "type": "text",
+      "x": 730,
+      "y": 480,
+      "width": 460,
+      "height": 100,
+      "text": "## 三步处理流程\n\n```\nstep1_aggregate.py → step2_ai_process.py → step3_finalize.py\n```\n\n聚合 → AI 处理 → 最终输出"
+    },
+    {
+      "id": "group_processed",
+      "type": "group",
+      "x": 1290,
+      "y": 0,
+      "width": 300,
+      "height": 280,
+      "label": "处理后数据",
+      "color": "5"
+    },
+    {
+      "id": "node_data_processed",
+      "type": "text",
+      "x": 1310,
+      "y": 50,
+      "width": 260,
+      "height": 100,
+      "text": "## /data/processed/\n\n**归一化数据**\n\n- characters_merged.json\n- relations_merged.json"
+    },
+    {
+      "id": "node_data_images",
+      "type": "text",
+      "x": 1310,
+      "y": 165,
+      "width": 260,
+      "height": 90,
+      "text": "## /data/images/\n\n**人物图片资源**\n\nAI 生成的人物头像"
+    },
+    {
+      "id": "group_frontend",
+      "type": "group",
+      "x": 1290,
+      "y": 320,
+      "width": 300,
+      "height": 300,
+      "label": "3. Web 前端",
+      "color": "5"
+    },
+    {
+      "id": "node_frontend",
+      "type": "text",
+      "x": 1310,
+      "y": 370,
+      "width": 260,
+      "height": 110,
+      "text": "## /frontend/\n\n**React + Vite**\n\n- 知识图谱可视化\n- 人物关系展示\n- 搜索与筛选"
+    },
+    {
+      "id": "node_frontend_tech",
+      "type": "text",
+      "x": 1310,
+      "y": 500,
+      "width": 260,
+      "height": 100,
+      "text": "### 技术栈\n\n- React 18\n- Vite\n- TypeScript\n- Navigation 组件"
+    },
+    {
+      "id": "group_taro",
+      "type": "group",
+      "x": 1640,
+      "y": 320,
+      "width": 320,
+      "height": 400,
+      "label": "4. 微信小程序",
+      "color": "4"
+    },
+    {
+      "id": "node_taro_app",
+      "type": "text",
+      "x": 1660,
+      "y": 370,
+      "width": 280,
+      "height": 100,
+      "text": "## /taro-app/\n\n**Taro 3.x 框架**\n\n跨端微信小程序"
+    },
+    {
+      "id": "node_taro_pages",
+      "type": "text",
+      "x": 1660,
+      "y": 490,
+      "width": 280,
+      "height": 210,
+      "text": "### 页面模块\n\n- **characters** - 人物列表\n- **character-detail** - 人物详情\n- **factions** - 势力组织\n- **artifacts** - 物品法宝\n- **locations** - 地点\n- **quotes** - 经典语录\n- **graph** - 关系图谱 (F6)\n- **map** - 地图\n- **timeline** - 时间线"
+    },
+    {
+      "id": "group_openspec",
+      "type": "group",
+      "x": -100,
+      "y": 350,
+      "width": 300,
+      "height": 250,
+      "label": "架构文档",
+      "color": "6"
+    },
+    {
+      "id": "node_openspec",
+      "type": "text",
+      "x": -80,
+      "y": 400,
+      "width": 260,
+      "height": 180,
+      "text": "## /openspec/\n\n**变更管理**\n\n- project.md\n- changes/\n  - optimize-data-extraction/\n  - implement-graph-f6/\n  - migrate-taro-native/"
+    },
+    {
+      "id": "node_json_schema",
+      "type": "text",
+      "x": 280,
+      "y": 450,
+      "width": 350,
+      "height": 200,
+      "text": "## JSON Schema\n\n```json\n{\n  \"characters\": [...],\n  \"relations\": [...],\n  \"items\": [...],\n  \"locations\": [...],\n  \"factions\": [...],\n  \"quotes\": [...],\n  \"events\": [...]\n}\n```"
+    },
+    {
+      "id": "node_aliases",
+      "type": "text",
+      "x": 1640,
+      "y": 100,
+      "width": 320,
+      "height": 180,
+      "text": "## 别名解析系统\n\n**CHARACTER_ALIASES**\n\n```\n\"草鞋少年\" → \"陈平安\"\n\"齐先生\" → \"齐静春\"\n\"姜上真\" → \"姜尚真\"\n```\n\n三步实体解析:\n上下文匹配 → 推理判断 → 缓存待定"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_chapters_extract",
+      "fromNode": "node_chapters",
+      "fromSide": "right",
+      "toNode": "node_extract_pipeline",
+      "toSide": "left",
+      "label": "读取章节"
+    },
+    {
+      "id": "edge_extract_gemini",
+      "fromNode": "node_extract_pipeline",
+      "fromSide": "bottom",
+      "toNode": "node_gemini_api",
+      "toSide": "top",
+      "label": "API 调用"
+    },
+    {
+      "id": "edge_prompt_gemini",
+      "fromNode": "node_prompt_template",
+      "fromSide": "top",
+      "toNode": "node_gemini_api",
+      "toSide": "bottom",
+      "label": "提示词"
+    },
+    {
+      "id": "edge_extract_raw",
+      "fromNode": "node_extract_pipeline",
+      "fromSide": "right",
+      "toNode": "node_data_raw",
+      "toSide": "left",
+      "label": "输出 JSON",
+      "color": "2"
+    },
+    {
+      "id": "edge_raw_merger",
+      "fromNode": "node_data_raw",
+      "fromSide": "bottom",
+      "toNode": "node_character_merger",
+      "toSide": "top",
+      "label": "输入"
+    },
+    {
+      "id": "edge_char_relation",
+      "fromNode": "node_character_merger",
+      "fromSide": "right",
+      "toNode": "node_relation_merger",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_merger_norm",
+      "fromNode": "node_character_merger",
+      "fromSide": "bottom",
+      "toNode": "node_normalizers",
+      "toSide": "top"
+    },
+    {
+      "id": "edge_norm_step",
+      "fromNode": "node_normalizers",
+      "fromSide": "bottom",
+      "toNode": "node_three_step",
+      "toSide": "top"
+    },
+    {
+      "id": "edge_clean_processed",
+      "fromNode": "node_three_step",
+      "fromSide": "right",
+      "toNode": "node_data_processed",
+      "toSide": "left",
+      "label": "输出",
+      "color": "4"
+    },
+    {
+      "id": "edge_processed_frontend",
+      "fromNode": "node_data_processed",
+      "fromSide": "bottom",
+      "toNode": "node_frontend",
+      "toSide": "top",
+      "label": "加载数据",
+      "color": "5"
+    },
+    {
+      "id": "edge_processed_taro",
+      "fromNode": "node_data_processed",
+      "fromSide": "right",
+      "toNode": "node_taro_app",
+      "toSide": "left",
+      "label": "加载数据",
+      "color": "4"
+    },
+    {
+      "id": "edge_images_frontend",
+      "fromNode": "node_data_images",
+      "fromSide": "bottom",
+      "toNode": "node_frontend",
+      "toSide": "right"
+    },
+    {
+      "id": "edge_images_taro",
+      "fromNode": "node_data_images",
+      "fromSide": "right",
+      "toNode": "node_taro_app",
+      "toSide": "top"
+    },
+    {
+      "id": "edge_openspec_prompt",
+      "fromNode": "node_openspec",
+      "fromSide": "right",
+      "toNode": "node_prompt_template",
+      "toSide": "left",
+      "label": "定义提示词",
+      "color": "6"
+    },
+    {
+      "id": "edge_excel_images",
+      "fromNode": "node_excel",
+      "fromSide": "right",
+      "toNode": "node_data_images",
+      "toSide": "left",
+      "label": "生成图片",
+      "color": "1"
+    },
+    {
+      "id": "edge_merger_aliases",
+      "fromNode": "node_character_merger",
+      "fromSide": "right",
+      "toNode": "node_aliases",
+      "toSide": "left",
+      "label": "使用别名表",
+      "color": "4"
+    }
+  ]
+}

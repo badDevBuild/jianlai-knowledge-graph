@@ -1,0 +1,38 @@
+{
+  "name": "版刻粗劣的道书",
+  "original_name": "《素问》乙本",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是姚清修行之路的起点。尽管材质极其普通，甚至被 视为旁门左道的底本，但它承载了一位修士最初的求道 之心 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1169章 此山无敌手",
+      "owner": "仙尉"
+    }
+  ],
+  "subtype": "传承/修行类",
+  "holder": "姚清",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "虽是版刻粗劣的普及本，但因承载古老道脉，悟性极高 者可凭此窥探金丹大道 。",
+  "supernatural_ability": "包含基础的养生与炼气秘诀，能够引导修士梳理经脉气 机 。",
+  "evolution": {
+    "current_form": "一部版刻粗劣的纸质书本 。",
+    "materials_consumed": [
+      "寻常纸张",
+      "三钱银子"
+    ],
+    "potential_evolution": "可作为参悟更高级别“天书”的基石 。"
+  },
+  "visual": {
+    "static": "纸质泛黄，印刷模糊，边缘有明显的磨损痕迹 。",
+    "active": "研读时，文字间隐约有清气流转，助人进入入定状态 。"
+  },
+  "provenance": {
+    "origin": "姚清年少求学时省吃俭用积攒三钱银子买下的书籍 。",
+    "karma_link": "见证了姚清从寒门学子到一洲强者的心路历程 。"
+  },
+  "enriched": true
+}

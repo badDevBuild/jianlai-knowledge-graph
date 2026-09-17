@@ -1,0 +1,60 @@
+{
+  "name": "剑仙幡子",
+  "original_name": "古怪幡子",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是隐官陈平安持有的一件高端攻伐重宝。它曾作为离真围剿陈平安的核心阵法枢纽，如今被陈平安安 置在人身小天地的山祠之中，成为其多重天象防御与进攻体系的一部分 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第677章 试试看",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第681章 辛苦修行为哪般",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第714章 出两剑",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1146章 毫无还手之力",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    },
+    {
+      "name": "离真",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为离真在托月山布阵的十八件重宝之一，在大炼后可进一步增强对小天地的镇压杀力 。",
+  "supernatural_ability": "能够产生剑灵（幡子剑灵），在阵法中巡游并向敌人递出相当于地仙剑修倾力一击的飞剑 。",
+  "evolution": {
+    "current_form": "矗立在陈平安人身小天地“山祠”之巅的幡子 。",
+    "materials_consumed": [
+      "离真遗留道意",
+      "山岳气运"
+    ],
+    "potential_evolution": "可作为下宗青萍剑宗祖师堂剑阵的攻伐枢纽 。"
+  },
+  "visual": {
+    "static": "一杆猎猎作响的幡子，宝光灿烂 。",
+    "active": "激发时罡风阵阵，会从中掠出英灵姿态的剑仙剑灵，剑气森森 。"
+  },
+  "provenance": {
+    "origin": "源自蛮荒天下托月山的底蕴收藏 。",
+    "karma_link": "陈平安在战场击杀离真后获得，后由吴霜降在夜航船指点其开启与炼化之法 。"
+  },
+  "enriched": true
+}

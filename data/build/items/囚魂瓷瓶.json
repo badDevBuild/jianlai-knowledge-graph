@@ -1,0 +1,46 @@
+{
+  "name": "囚魂瓷瓶",
+  "original_name": "银白色瓷瓶",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一种邪异的灵器，被山下野修视为发迹的根本。它不仅可以作为储藏阴物的容器，更是**炼化阴兵 阴将**的核心工具 。",
+  "aliases": [
+    "养鬼瓶"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第290章 入土为安",
+      "owner": "邪道修士"
+    }
+  ],
+  "subtype": "收纳类/邪道类",
+  "holder": "邪道修士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "邪道家族",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若能收拢高境界武夫或练气士的魂魄，可炼化出战力惊人的阴兵 。",
+  "supernatural_ability": "能够收拢死后尚未散去的**修士魂魄**，并将其拘押在瓶内进行残酷炼化 。",
+  "evolution": {
+    "current_form": "高一尺，窄口大肚的银白色瓷瓶 。",
+    "materials_consumed": [
+      "阴煞之气",
+      "修士精血"
+    ],
+    "potential_evolution": "通过不断吸收阴魂，可进化为具备鬼王气息的法宝 。"
+  },
+  "visual": {
+    "static": "瓷面不断有狰狞面孔游曳而过，阴气阵阵 。",
+    "active": "开启瓶塞时，会产生巨大的吸力，针对神魂进行剥离 。"
+  },
+  "provenance": {
+    "origin": "邪道修士的传家宝，来源不明 。",
+    "karma_link": "在飞鹰堡一战中，被用于企图掠夺红衣剑客的魂魄 。"
+  },
+  "enriched": true
+}

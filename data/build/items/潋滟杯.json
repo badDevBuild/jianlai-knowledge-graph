@@ -1,0 +1,43 @@
+{
+  "name": "潋滟杯",
+  "original_name": "酒泉杯 / 躁君酒杯",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这只杯子不仅是价值连城的重宝，更是陈平安作为“性情中人”与剑气长城传统接轨的象征之一 [14-16]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第501章 有些道理很天经地义",
+      "owner": "渠主夫人"
+    }
+  ],
+  "subtype": "辅助类 / 饮酒类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白登 (道号躁君)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为剑气长城历史上仅有的五只酒泉杯之一，是天下名士追求的顶级风雅物 。",
+  "supernatural_ability": "名为酒泉，杯内可自行生发醇香美酒，令饮者如入梦境，滋味无穷 [14-16]。",
+  "evolution": {
+    "current_form": "质地温润、色泽动人的仙家酒杯 。",
+    "materials_consumed": [
+      "水脉灵气"
+    ],
+    "potential_evolution": "若能配合特定的仙家酒酿长期温养，可提升持有者的神魂韧性 。"
+  },
+  "visual": {
+    "static": "杯身莹澈，常带有细微的波纹异象，光彩内敛却极其耐看 。",
+    "active": "倒入酒水后，杯中涟漪如月华流转，清香瞬间弥漫四周 。"
+  },
+  "provenance": {
+    "origin": "出自北俱芦洲陆地龙宫遗址 。",
+    "karma_link": "陈平安在龙宫中通过与躁君白登的对话获赠，代表了其在北俱芦洲的非凡际遇 。"
+  },
+  "enriched": true
+}

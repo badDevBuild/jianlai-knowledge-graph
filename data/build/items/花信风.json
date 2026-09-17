@@ -1,0 +1,38 @@
+{
+  "name": "花信风",
+  "original_name": "花信风",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "花信风是剑气长城年轻一辈天才剑修岳顶的立身之本。它的独特性在于其真名与实力的微妙平衡，若能 精简其道意，将引发质的飞跃 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1109章 此山从此便姓陈",
+      "owner": "岳顶"
+    }
+  ],
+  "subtype": "攻伐类 / 气象类",
+  "holder": "岳顶",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "具备极高的成长上限。若能从目前的“二十四番”演化为传说中的“十二花信风”，持有者的剑道成就将不 可估量 。",
+  "supernatural_ability": "本命神通与节气花期相关，剑气中蕴含着某种能沟通天地时令的神异力量 。",
+  "evolution": {
+    "current_form": "剑气长城剑修岳顶的本命飞剑 。",
+    "materials_consumed": [
+      "剑修自身神魂",
+      "天地剑道气运"
+    ],
+    "potential_evolution": "有望晋升为单字飞剑“花”，达到某种沟通神明的至高境界 。"
+  },
+  "visual": {
+    "static": "在剑修窍穴中呈现为凝聚的一点剑光 。",
+    "active": "祭出时剑气如花开时节的信风吹拂，声势宏大且带有特定的节气气韵 。"
+  },
+  "provenance": {
+    "origin": "孕育于剑气长城本土剑修岳顶之手 。",
+    "karma_link": "被隐官一脉列为重点关注的特殊飞剑，认为其真名的字数与品阶直接关系到剑修的大道极限 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,35 @@
+{
+  "name": "梦字碑",
+  "original_name": "梦字石碑",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "梦字碑是随驾城内一处古老遗迹的残存，象征着此处曾作为重要道门祠庙的历史，是勘验吕公祠根脚的 关键线索 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第937章 吾为东道主（七）",
+      "owner": "吕公祠旧址"
+    }
+  ],
+  "subtype": "其他",
+  "holder": "随驾城 / 吕公祠遗址",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为吕公祠遗址的重要组成部分，蕴含上古道门的梦境道意 。",
+  "supernatural_ability": "与八卦亭共同镇压此地风水气运，可能与“回禄”道人的某些神通相呼应 。",
+  "evolution": {
+    "current_form": "矗立在鬼宅遗址内的古老石碑 。",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "刻有巨大“梦”字的古老石碑，古意盎然 。",
+    "active": "未知"
+  },
+  "provenance": {
+    "origin": "源自上古吕公祠（风雷宫）遗址 。",
+    "karma_link": "见证了此处地界的多次神异变迁 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "光流素月铭镜",
+  "original_name": "四兽纹古镜",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此镜是倒悬山四大私宅之一的重要遗存。它不仅是一件高品秩的照妖镜类法宝，更是大剑仙用来经营洞 府、稳固山根水运的重要器物。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第682章 一线之上",
+      "owner": "剑仙私宅"
+    }
+  ],
+  "subtype": "压胜类 / 阵法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "种榆仙馆 (或梅花园子)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为剑仙私宅的镇宅重宝，其光影覆盖之处即为禁地，具备极强的防御与压制能力。",
+  "supernatural_ability": "镜面浮现后，可作为剑仙私宅的阵法枢纽，映照四周，使得隐匿气机者纤毫毕现，并产生强大的压胜剑 气。",
+  "evolution": {
+    "current_form": "悬于宅邸上空的铭文古镜。",
+    "materials_consumed": [
+      "剑意",
+      "日月精华"
+    ],
+    "potential_evolution": "随陈平安炼物造诣提升，可演化为掌控一方小天地的核心法镜。"
+  },
+  "visual": {
+    "static": "镜面光滑如月，镜钮周围雕刻有四头瑞兽飞奔之形，镜背刻有“光流素月”金色古篆。",
+    "active": "激发时宝光盈澈，月华流转，如同一轮明月悬于高空照耀八方。"
+  },
+  "provenance": {
+    "origin": "源自倒悬山剑仙私宅（种榆仙馆/梅花园子）的秘藏。",
+    "karma_link": "由隐官一脉在搬迁倒悬山私宅底蕴时收缴，归陈平安所有。"
+  },
+  "enriched": true
+}

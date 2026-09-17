@@ -1,0 +1,44 @@
+{
+  "name": "皑皑洲北方堪舆图",
+  "original_name": "北境地势图",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是针对**皑皑洲极端地貌**制作的战略地图。它对于落魄山开展跨洲贸易及寻找修行资粮具有重大意 义 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第702章 数座天下第十一",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "地理类",
+  "holder": "皑皑洲刘氏 / 裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文庙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随地理发现的完善，可演化为定位天材地宝的“探幽录” 。",
+  "supernatural_ability": "详细记录了皑皑洲北方寒冷之地的灵脉走向、洞天福地遗址及隐藏妖族势力 。",
+  "evolution": {
+    "current_form": "材质极其名贵、绘有山川走势的精美长卷 。",
+    "materials_consumed": [
+      "山水点检谍报",
+      "墨家测绘术"
+    ],
+    "potential_evolution": "可配合“缩地符”实现对图中地点的快速引渡 。"
+  },
+  "visual": {
+    "static": "画面辽阔，墨色深浅不一，重点区域常有灵光闪烁 。",
+    "active": "注入灵气后，图中景物会显现出实时的天象变化（如降雪或风暴） 。"
+  },
+  "provenance": {
+    "origin": "由大骊刑部与皑皑洲刘氏合力搜集整理 。",
+    "karma_link": "记录了裴钱独自行走皑皑洲时打熬筋骨的心路历程 。"
+  },
+  "enriched": true
+}

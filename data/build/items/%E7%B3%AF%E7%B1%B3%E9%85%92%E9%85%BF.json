@@ -1,0 +1,48 @@
+{
+  "name": "糯米酒酿",
+  "original_name": "乡邻酒酿",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗品",
+  "description": "一种极具生活气息的**普通饮食** 。陈平安常备此类酒酿以怀念家乡味道，甚至将其赠予过**刘飨**等大人物，象征着修行不忘本心 的从容 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第580章 老秀才居中坐",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第619章 没我刘羡阳便不行",
+      "owner": "董水井"
+    }
+  ],
+  "subtype": "生活类",
+  "holder": "刘飨 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "乡邻",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为凡俗之物，重在寄托的人情味与市井气 。",
+  "supernatural_ability": "无特殊神通，主要用于日常饮食与待客 。",
+  "evolution": {
+    "current_form": "盛放在白瓷碗或瓦罐中的发酵糯米汁 。",
+    "materials_consumed": [
+      "糯米",
+      "酒曲"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "洁白软糯，香气甜润 。",
+    "active": "入口甘甜，带有一丝微弱的暖意 。"
+  },
+  "provenance": {
+    "origin": "大骊京城周边的乡野市井 。",
+    "karma_link": "连接了山巅圣贤与平民百姓之间的“烟火情” 。"
+  },
+  "enriched": true
+}

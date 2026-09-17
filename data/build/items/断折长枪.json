@@ -1,0 +1,44 @@
+{
+  "name": "断折长枪",
+  "original_name": "破阵长枪 / 兵家神兵",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这杆长枪曾贯穿远古神灵头颅，蕴含着极致的毁灭意志。在书简湖及桐叶洲战局中，它多次作为决定胜 负的关键重器出现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第901章 山巅问拳",
+      "owner": "裴钱 (陈平安借用)"
+    }
+  ],
+  "subtype": "攻伐类 / 破阵类",
+  "holder": "顾璨 / 姜赦",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "兵家初祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为兵家初祖的随身神兵，具备刺破一切法御、贯穿神灵金身的极限威能 。",
+  "supernatural_ability": "能够无视空间阻隔直刺敌方本命窍穴，枪尖蕴含雷电真意，对蛟龙及邪祟有天然压制力 。",
+  "evolution": {
+    "current_form": "一杆看似锈迹斑斑、实则气势雄浑的长枪 。",
+    "materials_consumed": [
+      "远古神灵尸骸",
+      "不朽神性"
+    ],
+    "potential_evolution": "由兵家大修士执掌可恢复巅峰杀力，枪身可道化为雷霆大阵 。"
+  },
+  "visual": {
+    "static": "枪身满刻金色纹路，即便处于断折或受损状态，依然散发令人心悸的杀气 。",
+    "active": "出枪时如白虹贯日，枪尖溅起黑色光阴涟漪，可轻易撕裂小天地屏障 。"
+  },
+  "provenance": {
+    "origin": "兵家初祖参考远古神兵打造，曾供奉于藕神祠 。",
+    "karma_link": "在桐叶洲大渎与蛮荒大妖厮杀中现世，是顾璨一脉的重要战力依托 。"
+  },
+  "enriched": true
+}

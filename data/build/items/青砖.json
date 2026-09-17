@@ -1,0 +1,58 @@
+{
+  "name": "青砖",
+  "original_name": "水运青砖",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗品",
+  "description": "这些青砖不仅包含浓郁的水运，更有着“阴阳之精”的真土之意。陈平安利用火龙真人传授的《炼制三山 》口诀将其炼化，作为落魄山的练拳基石。",
+  "aliases": [
+    "三十六块青砖"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第541章 得宝",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第565章 还乡",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1038章 有失远迎",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1119章 二十人与候补们（上）",
+      "owner": "老观主"
+    }
+  ],
+  "subtype": "练拳/镇宅类",
+  "holder": "陈平安 (落魄山)",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "远古道观主人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为三十六天罡之数的整体，其坚韧程度不输斩龙台。",
+  "supernatural_ability": "蕴含极其精纯的水运精华与远古道意，可作为山岳“山根”稳固气府。",
+  "evolution": {
+    "current_form": "三十六块带有水润之色的古朴青砖。",
+    "materials_consumed": [
+      "江河水脉精华",
+      "道门天罡真意"
+    ],
+    "potential_evolution": "陈平安将其铺在落魄山，供裴钱、朱敛等六人练习六步走桩，每块砖底铭刻真言。"
+  },
+  "visual": {
+    "static": "质地极沉，湿气极重，表面平整且严丝合缝。",
+    "active": "中炼入水府后，可作为地基稳固人身小天地，焕发出润泽金光的道气。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲仙府遗址山顶道观的地面铺砖。",
+    "karma_link": "陈平安在遗址中带走三十六块，契合道家天罡之数。"
+  },
+  "enriched": true
+}

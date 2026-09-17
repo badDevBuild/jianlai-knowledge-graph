@@ -1,0 +1,43 @@
+{
+  "name": "云霞山玉佩",
+  "original_name": "韩靖信玉佩",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "遗失",
+  "description": "这枚玉佩是简明的修行起点。它不仅是一件御寒的灵物，更承载了云霞山的法统，使简明被曾先生相中 并走上修道之路 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第448章 驱马上丘垅",
+      "owner": "少年樵夫"
+    }
+  ],
+  "subtype": "传承类 / 补给类",
+  "holder": "简明 (越人歌)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "韩靖信",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "蕴含云霞山道诀，可作为修士踏入修行之路的敲门砖 。",
+  "supernatural_ability": "常年散发暖意，玉佩背面篆刻有一段云霞山的独门道诀诗歌 。",
+  "evolution": {
+    "current_form": "一枚质地细腻、带有温度的古朴玉佩 。",
+    "materials_consumed": [
+      "云霞山灵气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "玉佩正面篆刻有“云霞山”三字，背面则是一篇如诗歌般的道诀 。",
+    "active": "在风雪中能自发产生温热感，指引持有者修行 。"
+  },
+  "provenance": {
+    "origin": "原为韩靖信的心爱之物 。",
+    "karma_link": "简明在逃难的风雪中从一具无头尸体（韩靖信）身上捡到此物，从此改变命运 。"
+  },
+  "enriched": true
+}

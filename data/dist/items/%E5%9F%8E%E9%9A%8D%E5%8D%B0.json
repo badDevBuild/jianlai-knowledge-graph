@@ -1,0 +1,52 @@
+{
+  "name": "城隍印",
+  "original_name": "彩衣国胭脂郡城隍显佑伯印",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“神器唯有德者持之”，它是陈平安与张山峰之间深厚友谊的象征，也是道门压胜类器物的极品 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第227章 出剑了",
+      "owner": "彩衣国皇帝/沈温"
+    },
+    {
+      "chapter": "第231章 又见城隍爷",
+      "owner": "沈温 (赠予陈平安)"
+    }
+  ],
+  "subtype": "压胜/雷法类",
+  "holder": "张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "沈温",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "若配合龙虎山嫡传的五雷正法使用，其威力足以震慑一洲阴冥邪祟 。",
+  "supernatural_ability": "具备极其浩荡的天威，能够压制阴煞戾气，保护一方风水，令鬼魅不敢近前 。",
+  "evolution": {
+    "current_form": "密封在青色木盒之中的法印 。",
+    "materials_consumed": [
+      "龙虎山大天师神意",
+      "胭脂郡三百年香火"
+    ],
+    "potential_evolution": "成为镇压一方地界幽冥秩序的礼器 。"
+  },
+  "visual": {
+    "static": "古朴厚重的法印，放置在带有淡淡灵光的青色木盒内 。",
+    "active": "激发时会产生宏大的雷鸣声，释放出令妖魔战栗的纯正道气 。"
+  },
+  "provenance": {
+    "origin": "由龙虎山天师府某代大天师亲自篆刻赐予 。",
+    "karma_link": "胭脂郡城隍沈温认为陈平安是有德者而赠予，陈平安后转赠张山峰 。"
+  },
+  "enriched": true
+}

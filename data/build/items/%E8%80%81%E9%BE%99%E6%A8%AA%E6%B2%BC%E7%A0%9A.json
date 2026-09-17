@@ -1,0 +1,44 @@
+{
+  "name": "老龙横沼砚",
+  "original_name": "老蛟砚 / 伏龙观镇山之宝",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "老蛟砚是宝瓶洲著名的文人雅玩，也是极具实效的修行法器 。砚上栖息的小蛟是远古时代的活化石，其存在赋予了此砚独特的灵性。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第774章 文圣一脉的学生们",
+      "owner": "李槐"
+    }
+  ],
+  "subtype": "文房类 / 辅助类",
+  "holder": "伏龙观修士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "伏龙观历代祖师",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "位列宝瓶洲十大名砚之一，具有极高的文化与修行价值 。",
+  "supernatural_ability": "砚台边缘有一条微小高龄的瘦蛟，盘踞而眠，可辅佐修士采集天地精华 。",
+  "evolution": {
+    "current_form": "古色古香的石砚 。",
+    "materials_consumed": [
+      "上古遗留蛟龙精血",
+      "名贵砚石"
+    ],
+    "potential_evolution": "若砚上小蛟化形成功，此砚可升格为法宝品秩 。"
+  },
+  "visual": {
+    "static": "砚身材质古朴，边缘可见一条栩栩如生的袖珍瘦蛟，甚至能听到微弱的鼾声 。",
+    "active": "研墨时，小蛟会有所感应，使得墨汁蕴含灵气，经久不枯 。"
+  },
+  "provenance": {
+    "origin": "上古蜀国蛟龙四伏之地，该砚为躲过斩龙一役的遗留古种所化 。",
+    "karma_link": "作为伏龙观的传承重器，见证了该门派试图由“观”升格为“宫”的努力 。"
+  },
+  "enriched": true
+}

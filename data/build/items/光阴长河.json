@@ -1,0 +1,52 @@
+{
+  "name": "光阴长河",
+  "original_name": "时间之流",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "在《剑来》世界观中，时间被具象化为一条真实的河流 。它是连接古今的唯一通道，也是大修士博弈的终极战 场 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第808章 心声",
+      "owner": "离真"
+    },
+    {
+      "chapter": "第951章 见麒麟",
+      "owner": "观照"
+    },
+    {
+      "chapter": "第1128章 二十人与候补们（十）",
+      "owner": "观照"
+    }
+  ],
+  "subtype": "规则/道场类",
+  "holder": "陈平安 (局部炼化) / 高位神灵",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "天道",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "随着炼化的金精铜钱增多，可演化为承载三千小千世界 的根本道场 。",
+  "supernatural_ability": "可观测过去、干涉未来，使局部光阴停滞或倒流 [27-29]。",
+  "evolution": {
+    "current_form": "在陈平安心相中初具雏形的金色河流 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "飞升境琉璃碎块"
+    ],
+    "potential_evolution": "成就大千世界，使得持有者掌握绝对的光阴权柄 。"
+  },
+  "visual": {
+    "static": "虚无缥缈，呈现出七彩琉璃色的微弱光晕 。",
+    "active": "河水滚滚，波光粼粼，每一滴水珠皆是众生的一段人生 故事 。"
+  },
+  "provenance": {
+    "origin": "宇宙底层的基本运行机制 。",
+    "karma_link": "陈平安将其作为“算计整座天下”的基石，以此炼剑与修 心 。"
+  },
+  "enriched": true
+}

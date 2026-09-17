@@ -1,0 +1,58 @@
+{
+  "name": "桃符",
+  "original_name": "李希圣的桃符",
+  "type": "灵物",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "一份极其沉重的临别赠礼。李希圣坚信陈平安值得拥有此物，它不仅能保护居所，更是陈平安后来探寻 大道真理的重要依托 。",
+  "aliases": [
+    "桃符"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第189章 猛字楼外说剑之二三事",
+      "owner": "李希圣"
+    },
+    {
+      "chapter": "第191章 做买卖也是修行",
+      "owner": "李希圣 -> 陈平安"
+    },
+    {
+      "chapter": "第192章 下笔如有神",
+      "owner": "李希圣"
+    },
+    {
+      "chapter": "第653章 谁可奉饶天下先",
+      "owner": "李宝瓶"
+    }
+  ],
+  "subtype": "修心/传承类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "涉及“三山九侯先生”的秘密传承，是打开骊珠洞天深层机缘的钥匙 。",
+  "supernatural_ability": "辟邪镇宅，且隐约与小镇福禄街、桃叶巷的大道脉络相连 。",
+  "evolution": {
+    "current_form": "两块质地古朴的桃木板，刻有神荼、郁垒神号 。",
+    "materials_consumed": [
+      "万年桃木精华",
+      "圣贤道理"
+    ],
+    "potential_evolution": "可作为构建人身小天地“木德”的根本载体之一 。"
+  },
+  "visual": {
+    "static": "看起来就像寻常百姓家春节悬挂的桃木板，但木纹细密，透着一股清馨 。",
+    "active": "在危急时刻会散发出淡淡的金光，能抵御极强的邪祟侵袭 。"
+  },
+  "provenance": {
+    "origin": "由李希圣亲自制作，涉及上古符箓真意 。",
+    "karma_link": "李希圣专程赶赴远方送交此物，承载了两人的深厚情谊 。"
+  },
+  "enriched": true
+}

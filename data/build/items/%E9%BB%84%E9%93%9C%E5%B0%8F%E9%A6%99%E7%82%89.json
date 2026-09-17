@@ -1,0 +1,52 @@
+{
+  "name": "黄铜小香炉",
+  "original_name": "神仙窟香炉",
+  "type": "灵器",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "一件流传有序的文房重宝。虽然在鬼蜮谷众妖手中只是个摆设，但在懂行的唐锦绣眼中却是可遇不可求 的镇店之宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第541章 得宝",
+      "owner": "黄师"
+    }
+  ],
+  "subtype": "修行辅助类",
+  "holder": "唐锦绣 (金粉坊坊主)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "夺取自"
+    },
+    {
+      "name": "避暑娘娘 (剥落山)",
+      "relation": "曾持有"
+    },
+    {
+      "name": "清德宗大隐仙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽然目前仅为灵器，但因其承载上古隐仙道韵，价值堪比普通法宝 。",
+  "supernatural_ability": "点燃山水香后，可助人（无论是修士还是鬼物）瞬间进入禅定坐忘之境，静心效果极佳 。",
+  "evolution": {
+    "current_form": "底部篆文“神仙窟”的古朴小香炉 。",
+    "materials_consumed": [
+      "山水香",
+      "文运熏染"
+    ],
+    "potential_evolution": "长期陪伴大修士可孕育出炉灵 。"
+  },
+  "visual": {
+    "static": "黄铜质地，样式高古，表面有一层内敛的宝光油性 。",
+    "active": "燃香时青烟形成微缩的山川洞府异象，令人见之心境澄明 。"
+  },
+  "provenance": {
+    "origin": "曾是清德宗一位大隐仙年轻时的常伴之物 。",
+    "karma_link": "陈平安在剥落山宝库中将其搜刮，后以一谷雨钱的天价卖给识货的唐锦绣 。"
+  },
+  "enriched": true
+}

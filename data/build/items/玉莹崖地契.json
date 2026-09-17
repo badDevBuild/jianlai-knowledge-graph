@@ -1,0 +1,48 @@
+{
+  "name": "玉莹崖地契",
+  "original_name": "玉莹崖地契",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这份地契象征着对北俱芦洲名胜玉莹崖的所有权。 它是陈平安作为“山头主人”在异乡扎根的重要标志，也是与金乌宫结下深厚道缘的见证 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第514章 先生包袱斋，学生造瓷人",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "凭证类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "柳质清",
+      "relation": "赠予者"
+    },
+    {
+      "name": "春露圃",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "地契本身即是价值连城的金玉笺，其价值随玉莹崖水运的壮大而提升 。",
+  "supernatural_ability": "持有此地契即可掌控玉莹崖的山水阵法，自由调动其间的灵气与水运。",
+  "evolution": {
+    "current_form": "一张写有古篆、盖有宗门玉玺印章的金玉笺。",
+    "materials_consumed": [
+      "金玉精华",
+      "剑仙墨迹"
+    ],
+    "potential_evolution": "作为落魄山在北俱芦洲的飞地凭证，具备长期的商贸与修行价值 。"
+  },
+  "visual": {
+    "static": "质地坚韧，其上“春”字古篆与剑仙亲笔“柳”字交相辉映。",
+    "active": "展开时会有微妙的剑意和山水灵气波动 。"
+  },
+  "provenance": {
+    "origin": "由北俱芦洲春露圃祖师堂颁发，柳质清出资购买。",
+    "karma_link": "柳质清因悟道之恩，将剩余三百年的地契转赠给陈平安 。"
+  },
+  "enriched": true
+}

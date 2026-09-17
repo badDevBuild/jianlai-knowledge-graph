@@ -1,0 +1,38 @@
+{
+  "name": "斗彩",
+  "original_name": "斗彩瓷器",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "一种极具工艺价值的**瓷器风格**，常用于制作仙家文房清供，如笔架、瓷轴等 。在大骊及周边版图内，它是展现门第底蕴与雅趣的标志性器物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1070章 隔岸观大火燎原",
+      "owner": "朱某人"
+    }
+  ],
+  "subtype": "装饰/工艺类",
+  "holder": "山上仙家/权贵",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "融合灵材后可作为法宝载体 。",
+  "supernatural_ability": "无显著神通，多作为灵器表征或工艺风格 。",
+  "evolution": {
+    "current_form": "青白或斗彩的瓷质器物，如瓷轴、笔架等 。",
+    "materials_consumed": [
+      "灵泥",
+      "釉料"
+    ],
+    "potential_evolution": "可炼制成承载禁制或文字的仙家文房 。"
+  },
+  "visual": {
+    "static": "色彩明艳，釉下青花与釉上五彩相结合，工艺精湛 。",
+    "active": "在灵气激发下可显现出流光溢彩的纹饰 。"
+  },
+  "provenance": {
+    "origin": "处州龙泉郡龙窑或大骊造办处 。",
+    "karma_link": "大骊王朝作为御用贡献与商贸物资 。"
+  },
+  "enriched": true
+}

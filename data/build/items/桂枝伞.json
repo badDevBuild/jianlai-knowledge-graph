@@ -1,0 +1,43 @@
+{
+  "name": "桂枝伞",
+  "original_name": "梧桐伞 / 桐叶伞",
+  "type": "其他",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "它是**莲藕福地**进出的核心枢纽，原本属于老观主。此伞不仅是一件开启门户的工具，更因其遮蔽天 机的特性，是陈平安在纷杂因果中隐藏行踪的重要保障。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第379章 前兆",
+      "owner": "金桂观/裴钱(拒收)/陈平安等人"
+    }
+  ],
+  "subtype": "枢纽类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "东海观道观老观主",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为进入莲藕福地的核心枢纽，承载着一方天地的山水气运与因果。",
+  "supernatural_ability": "能够开启通往莲藕福地的入口；具有极强的屏蔽天机作用，可遮蔽持有者的因果气象。",
+  "evolution": {
+    "current_form": "一把梧桐木为柄的普通油纸伞。",
+    "materials_consumed": [
+      "山水气运"
+    ],
+    "potential_evolution": "作为福地进出的法统核心，其稳固程度随福地品秩提升而增强。"
+  },
+  "visual": {
+    "static": "外表是一把形制古朴、略显陈旧的油纸伞，伞柄为珍贵的梧桐木制成。",
+    "active": "撑开后如花绽放，悬在空中缓缓旋转，产生空间涟漪，可供人进入福地。"
+  },
+  "provenance": {
+    "origin": "由东海观道观老观主（陆沉师兄）赠予陈平安。",
+    "karma_link": "作为陈平安接管莲藕福地的关键信物，曾由落魄山管家暖树代为掌管。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,45 @@
+{
+  "name": "春衫",
+  "original_name": "本命飞剑“春衫”",
+  "type": "本命飞剑",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "姚小妍三把本命飞剑之一。虽然不以攻伐见长，但其温养体魄和神魂的神通，使其成为长期修行的完美 基石 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第756章 剑修如云",
+      "owner": "姚小妍"
+    },
+    {
+      "chapter": "第828章 自由自在",
+      "owner": "姚小妍"
+    },
+    {
+      "chapter": "第898章 未来",
+      "owner": "姚小妍"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "姚小妍",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "三剑同出时，能让姚小妍立于不败之地，具备跻身飞升境的防御底蕴 。",
+  "supernatural_ability": "飞剑可贴身环绕，形成一层类似仙家法袍的防御气幕，反哺肉身 。",
+  "evolution": {
+    "current_form": "姚小妍拥有的三把同类飞剑之一 。",
+    "materials_consumed": [
+      "草木清气"
+    ],
+    "potential_evolution": "可炼化为“不灭真衣”的一部分 。"
+  },
+  "visual": {
+    "static": "轻盈如纱，色泽翠绿 。",
+    "active": "出剑时如春风拂面，在周身交织出密不透风的防护层 。"
+  },
+  "provenance": {
+    "origin": "剑气长城姚家剑道胚子姚小妍的本命物 。",
+    "karma_link": "体现了姚小妍内敛自持的性格特点 。"
+  },
+  "enriched": true
+}

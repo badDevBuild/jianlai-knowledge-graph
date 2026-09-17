@@ -1,0 +1,37 @@
+{
+  "name": "夏雷",
+  "original_name": "四时法门 / 一万零一法",
+  "type": "其他",
+  "grade": "法术",
+  "status": "消耗",
+  "description": "李希圣所持“一万零一法”之一，是夏季气象的极致压缩，用于在战斗中从微观角度瓦解对手的攻势 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第183章 他有春叶夏雷秋风冬雪",
+      "owner": "李希圣"
+    }
+  ],
+  "subtype": "道意类 / 攻伐类",
+  "holder": "李希圣",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "能够接引天地正雷，具有演化为雷法枢纽的潜力 。",
+  "supernatural_ability": "“雷霆震慑”。蕴含夏季雷鸣真意，可用于震碎敌方飞剑轨迹并稳固自身小天地气机 。",
+  "evolution": {
+    "current_form": "指甲盖大小的雷光颗粒 。",
+    "materials_consumed": [
+      "雷电真意"
+    ],
+    "potential_evolution": "可演化为支撑天地循环的“五雷正法”构件 。"
+  },
+  "visual": {
+    "static": "内敛于气府之中，似有电光微动 。",
+    "active": "一粒粒指甲盖大小，光芒刺眼，在空中炸裂时带有春雷震动般的声响 。"
+  },
+  "provenance": {
+    "origin": "源自李希圣对“一年四季二十四节气递进”的大道感悟 。",
+    "karma_link": "在骊珠洞天之战中作为防御曹峻杀招的关键手段 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "山海龟",
+  "original_name": "老龙城孙氏渡船",
+  "type": "其他",
+  "grade": "灵兽",
+  "status": "活跃",
+  "description": "老龙城孙氏家族的核心资产。与范家的桂花岛齐名，虽然舒适度稍逊，但胜在负重能力强，是宝瓶洲与 外洲物资交换的重要纽带 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第252章 泥菩萨踩剑过河",
+      "owner": "老龙城孙氏"
+    },
+    {
+      "chapter": "第571章 浩然天下陈平安来找人",
+      "owner": "老龙城孙家"
+    }
+  ],
+  "subtype": "跨洲渡船 / 灵物",
+  "holder": "孙嘉树",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "孙氏老祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为具有万年修为的巨龟，若能进一步炼化其龟丹，可晋升为半仙兵级别的移动堡垒 。",
+  "supernatural_ability": "**“沉水避波”**。能够沉入深海远游，通过自身神通与护山阵法在背脊形成静谧的小天地，隔绝海水侵 扰 。",
+  "evolution": {
+    "current_form": "背脊大如山岳的巨大海龟，上方建有繁华的小镇与宅邸 。",
+    "materials_consumed": [
+      "万年修行",
+      "山水大阵"
+    ],
+    "potential_evolution": "可作为跨洲贸易的终极载体，支撑起一个家族数千年的气运 。"
+  },
+  "visual": {
+    "static": "体型极其庞大，在海面上如同移动的岛屿，背部建筑鳞次栉比 。",
+    "active": "下沉时边缘会漾开一圈圈阵法涟漪，在大海深处破开水路，稳定前行 。"
+  },
+  "provenance": {
+    "origin": "由老龙城孙氏先祖捕获并驯服，是孙家跻身五大姓氏的根本 。",
+    "karma_link": "与倒悬山的跨洲商贸紧密相连，是陈平安远游途中的关键交通工具 。"
+  },
+  "enriched": true
+}

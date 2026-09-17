@@ -1,0 +1,50 @@
+{
+  "name": "长明灯",
+  "original_name": "续命灯 / 魂灯",
+  "type": "重器",
+  "grade": "宝物",
+  "status": "活跃",
+  "description": "这是剑修应对身死道消的最后手段。纳兰烧苇凭借此灯转世为稚童，获得岁除宫飞升境仙蜕进行重塑 。",
+  "aliases": [
+    "长明灯"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第140章 千奇（下）",
+      "owner": "寒食江水神"
+    }
+  ],
+  "subtype": "魂魄类 / 续命类",
+  "holder": "纳兰烧苇",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    },
+    {
+      "name": "捻芯",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为承载剑仙转世的关键器物，其稳定性决定了转世后神魂的完整度 。",
+  "supernatural_ability": "“续命转世”。能护住剑仙残余魂魄，在特定条件下实现夺舍或重塑肉身 。",
+  "evolution": {
+    "current_form": "一盏蕴含微弱灵光的古老油灯，藏于剑匣之内 。",
+    "materials_consumed": [
+      "剑仙残魂",
+      "长明灯油"
+    ],
+    "potential_evolution": "待纳兰烧苇完全恢复巅峰剑道境界，此灯可转化为护佑神魂的本命重器 。"
+  },
+  "visual": {
+    "static": "灯火摇曳，火苗呈淡青色或暗金色，散发着幽幽的生机 。",
+    "active": "在转世过程中，灯光会大放异彩，牵引天地气机为宿主重塑筋骨 。"
+  },
+  "provenance": {
+    "origin": "源自剑气长城巅峰十剑仙之一的纳兰烧苇 。",
+    "karma_link": "陈平安曾代为保管，后转交给缝衣人捻芯带往第五座天下，最终助其在岁除宫转世 。"
+  },
+  "enriched": true
+}

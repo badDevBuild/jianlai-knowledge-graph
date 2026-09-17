@@ -1,0 +1,50 @@
+{
+  "name": "青曈法袍",
+  "original_name": "青曈",
+  "type": "法宝",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "由剑气长城女子大剑仙陆芝赠予其弟子吴曼妍的重宝。在郑居中的安排下，由擅长炼制法袍的清嘉进行 了全面升级和修缮 。",
+  "aliases": [
+    "青曈"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1161章 就怕题外话",
+      "owner": "吴曼妍"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "吴曼妍",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆芝",
+      "relation": "赠予者"
+    },
+    {
+      "name": "郑居中/清嘉",
+      "relation": "曾持有/修缮者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "经由白帝城郑居中安排、金翠城城主清嘉修缮并锦上添花，已具备极高的道蕴 。",
+  "supernatural_ability": "“水路分阴阳”。具备极强的防御力，并能通过特殊编织手法辅助持有者接触光阴长河余韵 。",
+  "evolution": {
+    "current_form": "一件质地精美的深青色法袍 。",
+    "materials_consumed": [
+      "金翠城缂丝秘术",
+      "龙宫珍珠"
+    ],
+    "potential_evolution": "若能配合水路道法，可演化为能规避因果探查的顶级法衣 。"
+  },
+  "visual": {
+    "static": "呈深青色，法袍表面有晶莹的瞳状纹路 。",
+    "active": "激发时宝光流转，有云水烟霞气萦绕，能抵御同境剑修的倾力一击 。"
+  },
+  "provenance": {
+    "origin": "取材于蛮荒天下金翠城的压箱底技艺 。",
+    "karma_link": "陆芝在蛮荒战场缴获后赠予弟子吴曼妍 。"
+  },
+  "enriched": true
+}

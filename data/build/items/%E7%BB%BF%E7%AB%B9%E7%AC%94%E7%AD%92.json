@@ -1,0 +1,44 @@
+{
+  "name": "绿竹笔筒",
+  "original_name": "青神山竹笔筒",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一个由陈平安亲手雕刻的文房物件，材质极为珍贵。虽然雕工尚显匠气，但其蕴含的“山水有重逢” 之意使其极具灵性 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第349章 埋河封正，武庙借刀，白猿背剑",
+      "owner": "陈平安 (制作中，赠予姚镇)"
+    }
+  ],
+  "subtype": "文房类 / 滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "落魄山竹楼（材质来源）",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因材质源于青神山绿竹，随文气浸染可升格为具有“笔墨生辉”神通的法宝 。",
+  "supernatural_ability": "“稳固文气”。笔筒能够滋养存放在其中的毛笔，使其落笔时自带一股山水清气，对书写符箓有微弱的加 持作用 。",
+  "evolution": {
+    "current_form": "由落魄山竹楼剩余绿竹边角料亲手雕刻而成的笔筒 。",
+    "materials_consumed": [
+      "青神山绿竹",
+      "陈平安刻字真意"
+    ],
+    "potential_evolution": "若能承载圣贤亲笔文字，可演化为稳固一山文运的案头重器 。"
+  },
+  "visual": {
+    "static": "筒身刻有工整小楷文字，色泽翠绿如玉，透着淡淡的草木清香 。",
+    "active": "月色下文字隐有荧光，散发出令修道者灵台清明的气场 。"
+  },
+  "provenance": {
+    "origin": "取材于魏檗为陈平安建造的青神山绿竹楼 。",
+    "karma_link": "陈平安以此寄托对家乡落魄山及山中旧人的思念 。"
+  },
+  "enriched": true
+}

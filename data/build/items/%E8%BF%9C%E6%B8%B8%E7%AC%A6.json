@@ -1,0 +1,38 @@
+{
+  "name": "远游符",
+  "original_name": "神行符 / 疾行方",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "这是下五境修士最常用的符箓之一 。虽然杀力为零，但却是保命与远游的头等功臣 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第731章 仰天大笑，夫复何言",
+      "owner": "老秀才"
+    }
+  ],
+  "subtype": "遁法/辅助类",
+  "holder": "陈平安 / 赶路修士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随着画符者境界提升，可缩减数千里的山水路程 。",
+  "supernatural_ability": "贴在腿上后，能够日行千里，身轻如燕，无视寻常地形阻碍 。",
+  "evolution": {
+    "current_form": "黄纸材质，笔画简单而有力，带有风雷之势 。",
+    "materials_consumed": [
+      "云根石粉末",
+      "练气士的一口气"
+    ],
+    "potential_evolution": "可升级为“缩地方寸符”，实现瞬移效果 。"
+  },
+  "visual": {
+    "static": "符文状若飞鸟，两侧有细微的羽毛纹理 。",
+    "active": "奔跑时脚下会生出微弱的旋风，带起一阵阵残影 。"
+  },
+  "provenance": {
+    "origin": "山上常见的辅助类符箓，是大多数练气士出门的必备品 。",
+    "karma_link": "陈平安在寻找离乡好友的过程中，经常使用此符来赶时间 。"
+  },
+  "enriched": true
+}

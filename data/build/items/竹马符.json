@@ -1,0 +1,38 @@
+{
+  "name": "竹马符",
+  "original_name": "纸马驮水符/甲马符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "**竹马符**（常指甲马类符箓）是神灵巡视辖境常用的 辅助手段。其独特的“驮水”神通使其在江河大渎中拥有 极高的机动性 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第783章 邀请",
+      "owner": "阿良"
+    }
+  ],
+  "subtype": "辅助/疾行类",
+  "holder": "山水神灵/陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "受不同神职与香火加持，可具备破开阴阳屏障的神效 。",
+  "supernatural_ability": "具备“纸钱甲马果通玄，万里近在眼前”的神通，让神灵 能无视地理限制巡查水路 。",
+  "evolution": {
+    "current_form": "绘有金甲神人骑乘骏马图案的特殊符纸。",
+    "materials_consumed": [
+      "金箔冥纸",
+      "大渎水运"
+    ],
+    "potential_evolution": "若得真龙点睛，可演化为真实的“龙驹”坐骑。"
+  },
+  "visual": {
+    "static": "符纸厚重，上绘骑马武将，金碧辉煌且透着一股肃穆感 。",
+    "active": "燃烧后化为一匹金色虚幻骏马，踏水而行，足生涟漪 。"
+  },
+  "provenance": {
+    "origin": "源自水府秘传，结合了神灵职守与符箓派的遁法 。",
+    "karma_link": "是区分山水正神与野修遁法的重要标志之一 。"
+  },
+  "enriched": true
+}

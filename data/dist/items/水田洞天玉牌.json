@@ -1,0 +1,48 @@
+{
+  "name": "水田洞天玉牌",
+  "original_name": "青秧洞天",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是李柳送给阮秀的两件重宝之一，属于极高规格的洞天信物，因其独特的“水田”意象而得名 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第530章 他的本命瓷和弟子们",
+      "owner": "阮秀 (暂管)"
+    }
+  ],
+  "subtype": "空间类 / 传承类",
+  "holder": "阮秀",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李二",
+      "relation": "原主"
+    },
+    {
+      "name": "李柳",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为三十六小洞天之一，具备演化为完整世界的终极潜力 。",
+  "supernatural_ability": "具有“镜花水月”的奇妙特质，能够辅助剑修进行梦中练剑，在虚幻中磨砺真意 。",
+  "evolution": {
+    "current_form": "刻有特定诗文的玉牌 。",
+    "materials_consumed": [
+      "山水气运",
+      "上古道意"
+    ],
+    "potential_evolution": "可与烟霞福地联合，构建出更为宏大的道场格局 。"
+  },
+  "visual": {
+    "static": "质地通透的玉牌，正面篆刻“不是青龙任水监，陆成沟壑水成田” 。",
+    "active": "激活时会有水光涟漪泛起，显现出水田交错的洞天幻象 。"
+  },
+  "provenance": {
+    "origin": "源自李二（其父）的私人珍藏，由李柳代为赠予阮秀 。",
+    "karma_link": "与刘羡阳的梦中练剑经书存在大道关联，是为其准备的修行福缘 。"
+  },
+  "enriched": true
+}

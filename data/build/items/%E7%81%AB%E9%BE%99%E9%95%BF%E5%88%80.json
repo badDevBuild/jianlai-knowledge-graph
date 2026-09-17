@@ -1,0 +1,52 @@
+{
+  "name": "火龙长刀",
+  "original_name": "名泉",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "名刀“名泉”是大泉王朝的国之重器。在经历了丢失与找回的波折后，它成为了高简行走江湖及辅佐大泉 姚氏的重要依仗 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第236章 一山还有一山高",
+      "owner": "徐远霞"
+    },
+    {
+      "chapter": "第343章 谨遵法旨",
+      "owner": "埋河水神娘娘"
+    }
+  ],
+  "subtype": "气运/攻伐类",
+  "holder": "简明 (高简/越人歌)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姚岭之",
+      "relation": "原主"
+    },
+    {
+      "name": "曾先生",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由于曾手刃前朝末代皇帝并浸染皇室龙气，具备进化为斩杀高阶水裔之神兵的潜力 。",
+  "supernatural_ability": "对蛟龙之属有天然压胜效果，可斩断龙脉国祚，刀身自带龙气余韵 。",
+  "evolution": {
+    "current_form": "装饰华丽、蕴含浓郁肃杀之气的战刀 。",
+    "materials_consumed": [
+      "天外飞石",
+      "大泉姚氏龙气"
+    ],
+    "potential_evolution": "成为真正的斩龙利刃 。"
+  },
+  "visual": {
+    "static": "木质刀鞘蒙绿鲨皮，刀柄嵌满珍宝，外表极其华贵 。",
+    "active": "出鞘时寒光盈室，伴随红光流溢与沉闷的龙吟声 。"
+  },
+  "provenance": {
+    "origin": "大泉王朝宝库秘藏两百余年的镇国重器，由天外飞石铸造 。",
+    "karma_link": "与大泉王朝的国祚更迭及姚氏家族的武力象征深度绑定 。"
+  },
+  "enriched": true
+}

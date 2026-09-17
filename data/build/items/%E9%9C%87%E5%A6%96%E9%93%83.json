@@ -1,0 +1,49 @@
+{
+  "name": "震妖铃",
+  "original_name": "紫金铃铛",
+  "type": "灵物",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "专为对付妖魔而炼制的压胜法器。虽然品秩在仙家法宝中不算极高，但在防备精怪偷袭方面极具实用价 值 。",
+  "aliases": [
+    "震妖铃"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第93章 墙上有个字",
+      "owner": "朱河"
+    },
+    {
+      "chapter": "第96章 山水有神怪",
+      "owner": "朱河"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "朱河",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李家老祖宗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为专门针对妖物的法具，在灵气充沛环境下可保持长久灵性 。",
+  "supernatural_ability": "每有幻化人形的妖魅精怪靠近，铃铛便会无风自响，震荡出阵阵清音以示警 。",
+  "evolution": {
+    "current_form": "锈迹斑斑的小铃铛",
+    "materials_consumed": [
+      "香火气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "看起来极不起眼，表面布满锈迹，由于长期被宋集薪把玩，显得古拙 。",
+    "active": "遇见妖物时会传出清越的铃声，具有凝神清心之效 。"
+  },
+  "provenance": {
+    "origin": "由李家老祖宗赏赐，作为朱河父女远行护道的宝物 。",
+    "karma_link": "曾在泥瓶巷宋集薪的宝箱中出现，后归还或重新由朱河持有 。"
+  },
+  "enriched": true
+}

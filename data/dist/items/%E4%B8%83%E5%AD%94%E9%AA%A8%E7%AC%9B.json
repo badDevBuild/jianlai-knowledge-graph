@@ -1,0 +1,37 @@
+{
+  "name": "七孔骨笛",
+  "original_name": "老鹤骨笛",
+  "type": "灵器",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是《剑来》中代表远古传承的一件奇物。它不仅是一 件乐器，更是那位神秘少年穿梭于各座废弃古驿与山市 之间的信物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1090章 家有良邻",
+      "owner": "余时务"
+    }
+  ],
+  "subtype": "音律/压胜类",
+  "holder": "上古少年 (无名)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为远古仙人的随身之物，若配合上古曲谱，可引动天 地异象。",
+  "supernatural_ability": "笛声悠扬，能引起空间涟漪，辅助修士在不同秘境间进 行定位或穿梭 。",
+  "evolution": {
+    "current_form": "以老鹤尺骨磨制而成的古朴骨笛 。",
+    "materials_consumed": [
+      "远古仙鹤遗骨"
+    ],
+    "potential_evolution": "若能融入神灵真灵，可升格为具有“言灵”威力的重器。"
+  },
+  "visual": {
+    "static": "质地如玉，表面温润，透着淡淡的岁月沧桑感 。",
+    "active": "吹奏时，笛孔散发出微弱的灵光，音节似歌似吟，能让 躁动的天地气机归于平静 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的仙人道场 。",
+    "karma_link": "见证了远古时代修士远游山河、探索万法源头的孤寂历 程 。"
+  },
+  "enriched": true
+}

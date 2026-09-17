@@ -1,0 +1,39 @@
+{
+  "name": "黄梅雨",
+  "original_name": "灵气甘露 / 封正异象",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "在书中，**黄梅雨**常指代**灵气潮汐**或**封正异象**，如北岳披云山的多次夜游宴所引发的灵雨 。它不仅是自然景观，更是**山水官场气运**的具象化，能显著提升一方水土的修行环境 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1182章 接任且接手",
+      "owner": "蜀中暑"
+    }
+  ],
+  "subtype": "滋养/气运类",
+  "holder": "宝瓶洲山川神祇",
+  "holder_relation": "寄托",
+  "rank": "重器",
+  "rank_potential": "随王朝国祚与文庙封正品秩提升而增强 。",
+  "supernatural_ability": "润泽山水，提升一地灵气浓度，甚至能直接通过“描金”提升神灵金身品秩 。",
+  "evolution": {
+    "current_form": "如黄梅时节般连绵且蕴含灵气的雨水 。",
+    "materials_consumed": [
+      "天地气数",
+      "文运",
+      "香火愿力"
+    ],
+    "potential_evolution": "极致处可化为如水银般浓稠的天地精华，助神祇重塑金身 。"
+  },
+  "visual": {
+    "static": "表现为天地间水雾升腾，云海翻涌，气象瑰丽 。",
+    "active": "雨滴呈现淡金色或七彩琉璃色，落地瞬间草木生发，灵气四溢 。"
+  },
+  "provenance": {
+    "origin": "源自文庙对山川神祇的正式封正典礼及天地气运的汇聚 。",
+    "karma_link": "见证了落魄山与大骊北岳地界神祇的集体晋升 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "瘦梅酒",
+  "original_name": "瘦梅",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗品",
+  "description": "这是五陵国江湖圣地洒扫山庄的招牌名酒。 外界传闻此酒是仙人遗留下来的酿酒方子，武人喝上一坛就能增长数年功力，实则是庄主王钝的心血之 作。 陈平安在远游途中对其亦有耳闻，将其视为舒缓身心的佳酿。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第521章 江湖酒一口闷",
+      "owner": "洒扫山庄/陈平安"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "王钝",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "传闻中为仙人遗留的方子，武人饮之可增长功力。",
+  "supernatural_ability": "能帮助武夫增长功力，使人百窍清凉，通体舒泰。,",
+  "evolution": {
+    "current_form": "秘制仙家酒水。",
+    "materials_consumed": [
+      "梅花精华",
+      "秘制酒曲"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "通常装于酒坛中，酒香清幽，带有淡淡的梅花香气。",
+    "active": "饮用后周身气机流转加快，具有驱寒与安定心神的效果。"
+  },
+  "provenance": {
+    "origin": "五陵国洒扫山庄庄主王钝亲手酿制。",
+    "karma_link": "王钝的嫡传弟子多以此酒打熬筋骨，在五陵国江湖声名赫赫。"
+  },
+  "enriched": true
+}

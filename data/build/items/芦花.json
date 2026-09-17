@@ -1,0 +1,44 @@
+{
+  "name": "芦花",
+  "original_name": "芦花岛灵草",
+  "type": "其他",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "**芦花在书中象征着“藏锋”与“隐士”的意境** 。它不仅是芦花岛的地理特征，更是陈平安多次重返浩然、隐匿身份 的切入点 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第469章 剑气如虹人在天",
+      "owner": "吕听蕉"
+    }
+  ],
+  "subtype": "天象/阵法类",
+  "holder": "芦花岛修士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "上古大妖",
+      "relation": "曾占据"
+    }
+  ],
+  "rank": "其他",
+  "rank_potential": "漫山遍野的芦花可作为大型幻阵的天然遮掩物 。",
+  "supernatural_ability": "芦花深处藏有空间缝隙，能通过特定秘法接引外客进入“造化窟” 。",
+  "evolution": {
+    "current_form": "随风摇曳、洁白如雪的普通芦苇花 。",
+    "materials_consumed": [
+      "岛屿灵气",
+      "海气"
+    ],
+    "potential_evolution": "受大妖剑气砥砺，部分可演化为“剑毫”级炼器材料。"
+  },
+  "visual": {
+    "static": "白茫茫一片，遮蔽视线，带有浓郁的海盐气息 。",
+    "active": "当山水禁制开启时，芦花会随气机流动，幻化出重重迷障 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲南方的芦花岛 。",
+    "karma_link": "见证了陈平安与陆芝、左右等剑仙在海上合围大妖的序幕 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "葫芦藤",
+  "original_name": "春幡斋葫芦藤 / 仙家至宝藤",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是浩然天下最顶级的资源产出物。其结出的七枚上品养剑葫（如“三”、“立即”、“心事”等）皆是剑修 梦寐以求的神物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第633章 落座主位的那个年轻人",
+      "owner": "邵云岩"
+    },
+    {
+      "chapter": "第1181章 合龙",
+      "owner": "邵云岩(水经山)"
+    }
+  ],
+  "subtype": "生产/造化类",
+  "holder": "水经山 (北俱芦洲)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "邵云岩",
+      "relation": "原持有方"
+    },
+    {
+      "name": "道祖 (传说中)",
+      "relation": "播种者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "每隔千年结出一串养剑葫胚子，其中必有半仙兵甚至仙兵级重宝 。",
+  "supernatural_ability": "能够自主聚拢天地灵气，滋养所结葫芦，使其天然具备温养飞剑、压胜气运之效 。",
+  "evolution": {
+    "current_form": "扎根于水经山风水宝地的古老藤蔓，结有数颗灵光内敛的葫芦 。",
+    "materials_consumed": [
+      "数千年的灵气灌溉",
+      "仙人精血"
+    ],
+    "potential_evolution": "若得道祖真传，可孕育出带有“大道”前缀的顶级法器。"
+  },
+  "visual": {
+    "static": "藤蔓如龙盘踞，色泽苍翠或带金丝，葫芦大小不一，排列有序 。",
+    "active": "成熟时宝光冲天，引发天地异象，每一枚葫芦脱落皆伴随雷鸣 。"
+  },
+  "provenance": {
+    "origin": "传闻是道祖亲自栽种在浩然天下的幼苗，历经数千年才成活 。",
+    "karma_link": "邵云岩带其隐居倒悬山多年，最后归还北俱芦洲，由刘景龙护送 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,43 @@
+{
+  "name": "袖珍小剑",
+  "original_name": "青苍 / 青肠",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这把小剑在远古岁月里拥有赫赫凶名，因其杀伤力巨大而被称为“青肠” 。它是白景最重要的底牌之一，即便是面对同等级的远古神灵或大妖，也具有极强的震慑力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1134章 都曾少年游",
+      "owner": "甘兴"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "谢狗（白景）",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古道士",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为白景在远古岁月豪取道号的杀手锏，其品秩足以威胁飞升境甚至更高层次的存在 。",
+  "supernatural_ability": "“见光悔青肠”。此剑剑光极为凌厉，能让见识过此剑剑光的道士感到神魂战栗，产生极致的悔意 。",
+  "evolution": {
+    "current_form": "平时藏于怀中，秘不示人，或纳于袖珍剑匣内 。",
+    "materials_consumed": [
+      "远古剑道精粹"
+    ],
+    "potential_evolution": "出匣即化为一线形状，与龙无二，具备开天辟地的威势 。"
+  },
+  "visual": {
+    "static": "体型极小，平时隐匿于白景怀中，气息完全收敛 。",
+    "active": "祭出时如同一条若有若无的青色长线，剑光一闪即逝 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代，曾随白景纵横天下 。",
+    "karma_link": "与白景的剑道真意紧密相连，是其战力的核心体现 。"
+  },
+  "enriched": true
+}

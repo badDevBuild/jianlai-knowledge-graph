@@ -1,0 +1,45 @@
+{
+  "name": "殿试卷秘档",
+  "original_name": "状元闱墨真迹",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这一批秘档不仅是历史的见证，更是实打实的文运载体 ，包含了众多名臣硕儒的亲笔真迹 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第894章 天下皆知",
+      "owner": "陈平安 (后赠予渡口老人)"
+    }
+  ],
+  "subtype": "文运/气运类",
+  "holder": "裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大盈王朝内库",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "汇总了历代状元的策论，蕴含极其浓郁的文气，可镇压 书房风水 。",
+  "supernatural_ability": "考卷上有皇帝朱笔御批，带有帝王龙气，能压制邪祟并 滋养持有者的才气 。",
+  "evolution": {
+    "current_form": "一捆由裴钱在渡口书摊捡漏得来的书籍考卷 。",
+    "materials_consumed": [
+      "宣纸",
+      "朱砂墨",
+      "文运"
+    ],
+    "potential_evolution": "若能集齐一洲之闱墨，可演化为掌控一洲文脉的“金书 玉牒” 。"
+  },
+  "visual": {
+    "static": "纸张略显陈旧，但上面的“第一甲第一名”等字样极其显 眼 。",
+    "active": "翻阅时，文字间仿佛有龙气流转，文气扑面而来 。"
+  },
+  "provenance": {
+    "origin": "大盈王朝等地的宫廷秘档，在战乱中流落民间 。",
+    "karma_link": "裴钱在野云渡捡漏得手，由于其中涉及某位尚书大人的 名字而产生因果 , 。"
+  },
+  "enriched": true
+}

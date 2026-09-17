@@ -1,0 +1,38 @@
+{
+  "name": "黑色飞剑",
+  "original_name": "拓碑飞剑",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**黑色飞剑**以其诡异的“拓碑”神通著称。虽然主人境界仅为观海境，但凭借此剑的虚幻莫测，足以让 地仙之下甚至初入金丹的修士感到棘手 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第375章 山泽散修路子野",
+      "owner": "老剑修"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "观海境老剑修",
+  "holder_relation": "大炼",
+  "rank": "灵器",
+  "rank_potential": "凭借独特的拓碑神通，在刺客伏击和群战中具有极高上限 。",
+  "supernatural_ability": "“**拓碑秘术**”：能化出一十二把一模一样的飞剑残影，真假难辨，从多角度封锁敌人气府 。",
+  "evolution": {
+    "current_form": "一抹长约寸余、通体漆黑、裹挟风雷声的流萤 。",
+    "materials_consumed": [
+      "灵气",
+      "剑气"
+    ],
+    "potential_evolution": "随境界提升可增加分化飞剑的数量及幻象真实度 。"
+  },
+  "visual": {
+    "static": "平时隐于剑修窍穴内，即便现世也由于体积微小且附带阴煞气息而不易察觉 。",
+    "active": "激发后化为数十道黑色剑光，在战场上纵横交错，轨迹诡谲 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲鬼蜮谷某位观海境老剑修所有 。",
+    "karma_link": "陈平安曾在大战中凭借极快身法夹住此剑，并将其短暂拘押于养剑葫中 。"
+  },
+  "enriched": true
+}

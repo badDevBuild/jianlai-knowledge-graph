@@ -1,0 +1,42 @@
+{
+  "name": "黄玉钺",
+  "original_name": "元婴佩钺 (黄玉)",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是大妖“元婴”腰间悬挂的另一半对持兵器。它以厚重的镇压能力闻名，常与其木讷的形貌和手中的招 魂灯笼形成鲜明对比 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第889章 何谓披星戴月",
+      "owner": "魏檗"
+    },
+    {
+      "chapter": "第934章 吾为东道主（四）",
+      "owner": "魏檗"
+    }
+  ],
+  "subtype": "攻伐类 / 镇压类",
+  "holder": "元婴 (蛮荒大妖)",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "与青玉斧配合使用时，可构建微型“阴冥阵法”，镇压金丹境及以下修士的灵气流转 。",
+  "supernatural_ability": "具备极其厚重的土属性镇压之力，每一击都如重山压顶，可迟滞对手的反应速度 。",
+  "evolution": {
+    "current_form": "黄玉材质的小巧钺器 。",
+    "materials_consumed": [
+      "五色土精粹",
+      "万年厚土之精"
+    ],
+    "potential_evolution": "通过不断吸收土属精华，可演化为具备“镇地”之能的重器 。"
+  },
+  "visual": {
+    "static": "质地温润厚重，呈土黄色，雕刻有古朴的凶兽纹路 。",
+    "active": "激发后黄光漫天，产生类似重力领域的压制效果，令对手身陷泥泞 。"
+  },
+  "provenance": {
+    "origin": "产自蛮荒天下土属灵气充沛的矿脉 。",
+    "karma_link": "与青玉斧合称“双钺”，代表了天干修士“元婴”的身份权柄 。"
+  },
+  "enriched": true
+}

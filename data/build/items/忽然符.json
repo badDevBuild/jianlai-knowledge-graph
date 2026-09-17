@@ -1,0 +1,48 @@
+{
+  "name": "忽然符",
+  "original_name": "白驹过隙符 / 月符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "陆沉远游浩然途中闲暇所绘，以光阴为水。此符不仅是 保命重宝，更蕴含了白玉京对时间法则的深刻理解 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第924章 与诸君借取千山万水（五）",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1118章 金榜题名",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "逃遁类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆尾",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "脱胎于道祖大符，虽为简化版，但在十四境修士手中可 发挥顶级光阴遁术之威 。",
+  "supernatural_ability": "祭出此符可化出与真身无异的化身，能在瞬息间脱离十 四境修士的锁定，使施术者在跌境代价下替死脱劫 。",
+  "evolution": {
+    "current_form": "材质稀缺的青色符纸或金精铜钱熔铸符箓 。",
+    "materials_consumed": [
+      "光阴长河之水",
+      "金精铜钱"
+    ],
+    "potential_evolution": "配合“忽然”意境，可演化为无视光阴阻滞的“万年桥”真 迹 。"
+  },
+  "visual": {
+    "static": "符纸呈现暗金色或青色，上有繁密云篆，散发如月魄般 的清凉神性 。",
+    "active": "燃烧殆尽时，会有一匹白驹虚影跳跃一闪而逝，带走施 术者气机 。"
+  },
+  "provenance": {
+    "origin": "白玉京三掌教陆沉首创，脱胎于道祖“万年桥”大符 。",
+    "karma_link": "陈平安从陆尾处夺取，作为应对高位修士截杀的底牌 。"
+  },
+  "enriched": true
+}

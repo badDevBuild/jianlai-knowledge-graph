@@ -1,0 +1,48 @@
+{
+  "name": "小泥鳅(炭雪)",
+  "original_name": "泥瓶巷小泥鳅 / 东海水君",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "她是骊珠洞天三千年积淀的福缘核心。从泥瓶巷的小泥鳅到书简湖的炭雪，再到如今的东海水君，她的 命运始终与陈平安紧密相连 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第657章 再来一碗阳春面",
+      "owner": "顾璨"
+    }
+  ],
+  "subtype": "神道/龙族类",
+  "holder": "王朱",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    },
+    {
+      "name": "顾粲",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "拥有真龙骊珠，是浩然天下唯一的一条真龙，未来可登十四境 。",
+  "supernatural_ability": "掌控四海水运，能够走江化龙，双眼呈粹然金色，能识破一切虚妄 。",
+  "evolution": {
+    "current_form": "已化为人形，被赐名为炭雪，贵为东海水君 。",
+    "materials_consumed": [
+      "书简湖水运",
+      "蛟龙之属精血"
+    ],
+    "potential_evolution": "取回真身并点睛后，成为完整的远古真龙形态 。"
+  },
+  "visual": {
+    "static": "最初是陈平安在田垄垂钓得来的土黄色小蛇/泥鳅 。",
+    "active": "显化真身时为身长三百余丈、鳞甲熠熠的金色巨龙 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天最后的一份大机缘，真龙骊珠所化 。",
+    "karma_link": "陈平安因将其送给顾粲，牵扯出书简湖的一场天大因果 。"
+  },
+  "enriched": true
+}

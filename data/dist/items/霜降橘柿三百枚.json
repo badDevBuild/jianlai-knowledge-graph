@@ -1,0 +1,44 @@
+{
+  "name": "霜降橘柿三百枚",
+  "original_name": "叶老莲印章",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安作为“二掌柜”时期最负盛名的印章之一，印 文寓意丰收与安稳，深受浩然天下读书人的青睐。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第907章 浩荡百川流",
+      "owner": "温煜"
+    }
+  ],
+  "subtype": "艺术/铭刻类",
+  "holder": "王宰 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽由陈平安随手雕琢，但被名家叶老莲赏识，具备极高 的文运溢价。",
+  "supernatural_ability": "印文内容契合深秋意境，具备稳定心境、祛除修行燥气 之效，长期佩戴可养文心 。",
+  "evolution": {
+    "current_form": "一方石质细腻的素章。",
+    "materials_consumed": [
+      "普通玉石",
+      "陈平安剑意"
+    ],
+    "potential_evolution": "可配合相关诗词卷轴演化为“寒林秋思”小天地。"
+  },
+  "visual": {
+    "static": "色泽微红如落叶，印面刻有八字，线条简练古拙。",
+    "active": "钤印时会有淡淡的橘柿清香，显化出漫山红遍的虚影 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城期间雕琢的百余方印章之一。",
+    "karma_link": "因王宰的喜爱而由陈平安赠予，见证了两洲文人的交情 。"
+  },
+  "enriched": true
+}

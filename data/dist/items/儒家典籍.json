@@ -1,0 +1,50 @@
+{
+  "name": "儒家典籍",
+  "original_name": "圣贤遗墨 / 书院教案",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是**浩然天下的秩序基石**。每一本典籍都是一份大 道理的物化，在《剑来》中，它们是读书人对抗漫长修 行岁月的最后依靠,。",
+  "aliases": [
+    "儒家入门典籍"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第175章 敕令",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第266章 磨损心中万古刀",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "教化/传承类",
+  "holder": "书院夫子 / 负笈学子",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文庙",
+      "relation": "编纂者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随着书院香火的延续，文字可演化为具有“敕令”威力的 金玉谱牒,。",
+  "supernatural_ability": "包含圣贤的根本学问，研读可让修士在突破元婴瓶颈时 保持神魂稳固，免受心魔干扰,。",
+  "evolution": {
+    "current_form": "书页整齐、版刻精良的重装书册，常有大儒的朱笔批注 ,。",
+    "materials_consumed": [
+      "万卷书香",
+      "圣贤文运"
+    ],
+    "potential_evolution": "可进阶为言出法随的“浩然天书”。"
+  },
+  "visual": {
+    "static": "墨香沉郁，书页表面隐约有文气流转，非有缘人不得开 卷,。",
+    "active": "翻阅时会有金色文字透纸而出，照亮读书人的整座识海 ，安魂定心,。"
+  },
+  "provenance": {
+    "origin": "由文庙或各大书院（如观湖、山崖）历代山长修撰,。",
+    "karma_link": "连接了陈平安对“规矩”的理解与他对齐静春志向的继承 ,。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,47 @@
+{
+  "name": "金色文字",
+  "original_name": "圣贤真言 / 符箓金书",
+  "type": "其他",
+  "grade": "神通",
+  "status": "消耗",
+  "description": "**金色文字是浩然天下权柄的具象化**。它不仅是学问 ，更是克敌制胜的重器，代表了“道理”对“蛮力”的绝对 压胜,。",
+  "aliases": [
+    "金色文字"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第147章 请破阵",
+      "owner": "崔明皇/老蛟"
+    }
+  ],
+  "subtype": "压胜类/教化类",
+  "holder": "齐静春 / 陈平安",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "至圣先师",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "承载了整座浩然天下的文运，可随儒家教化范围的扩大 而增强压胜力,。",
+  "supernatural_ability": "口含天宪，言出法随。文字现世即可定住天地气机，对 妖魔产生先天的血脉压制，甚至能重塑一洲规矩,。",
+  "evolution": {
+    "current_form": "悬浮在空中、熠熠生辉的金色的篆、楷或行书文字,。",
+    "materials_consumed": [
+      "浩然气",
+      "香火功德",
+      "圣人神识"
+    ],
+    "potential_evolution": "汇聚成“道典”或“儒家金科玉律”，成为天道运行的一部 分。"
+  },
+  "visual": {
+    "static": "存于圣贤书册之中，字迹金黄如铸，笔画间有紫气升腾 ,。",
+    "active": "如金雨落下，字大如斗或小如芥子，文字环绕成阵，将 目标囚禁或镇杀,。"
+  },
+  "provenance": {
+    "origin": "源自儒家三圣对世界规则的注疏与定义,。",
+    "karma_link": "齐静春曾在骊珠洞天以此护道，陈平安在多种符阵中亦 以金字点睛,。"
+  },
+  "enriched": true
+}

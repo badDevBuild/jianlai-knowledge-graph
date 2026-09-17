@@ -1,0 +1,44 @@
+{
+  "name": "彩鸾",
+  "original_name": "青鸾符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是金阙仙府嫡传弟子的标志性法宝。它将符箓之道与坐骑功能完美结合，体现了山上神仙出行时御风 凌空、超凡脱俗的气派 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第872章 天下地上",
+      "owner": "黄钟侯"
+    }
+  ],
+  "subtype": "坐骑类 / 辅助类",
+  "holder": "金阙仙府嫡传女修",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "金阙仙府",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为高级仙家符箓，具备在陆地与云海间快速穿梭的能力，属于顶尖的代步法宝 。",
+  "supernatural_ability": "“符箓化形”。能够由一张薄薄的符箓幻化为真实的彩鸾坐骑，速度快若流光，落地后可重新化为符箓便 于携带 。",
+  "evolution": {
+    "current_form": "一张被捻在指尖、随身收纳的仙家符箓 。",
+    "materials_consumed": [
+      "云气精华",
+      "飞升道韵"
+    ],
+    "potential_evolution": "若能融入远古真凤残魂，有望进阶为具备战斗能力的实体灵兽 , 。"
+  },
+  "visual": {
+    "static": "一张流光溢彩、铭刻有复杂鸾鸟纹路的符箓 。",
+    "active": "祭出后化作身披五彩羽毛、体态优美的青鸾，在天幕中划出漂亮的流萤轨迹 , 。"
+  },
+  "provenance": {
+    "origin": "产自宝瓶洲金阙仙府 。",
+    "karma_link": "在战场遗址一役中，随金阙仙府嫡传仙师现身，展现了非凡的仙家身家 , 。"
+  },
+  "enriched": true
+}

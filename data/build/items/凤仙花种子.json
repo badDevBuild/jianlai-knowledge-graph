@@ -1,0 +1,38 @@
+{
+  "name": "凤仙花种子",
+  "original_name": "指甲花种",
+  "type": "材料",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这种种子不仅是封姨用来美化的工具，亦代表了远古神 灵对自然造化的微观掌控 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1198章 锦上添花",
+      "owner": "吴睬"
+    }
+  ],
+  "subtype": "滋养/神道类",
+  "holder": "封姨",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "受远古神灵气机滋养，生长后可作为采集“染指甲”素材 的灵草，甚至孕育出草木精魅 。",
+  "supernatural_ability": "种子本身蕴含微弱火属灵气。生长后的花朵捣烂可染指 甲，具有遮蔽修士指尖杀气的作用 。",
+  "evolution": {
+    "current_form": "细小如尘的褐色种子，表皮带有淡淡的灵气纹路 。",
+    "materials_consumed": [
+      "山川灵气",
+      "神性土壤"
+    ],
+    "potential_evolution": "若能种在百花福地核心地带，可成长为具备仙人境界的 “凤仙神女” 。"
+  },
+  "visual": {
+    "static": "种子外壳坚韧，带有古老草木的枯寂气息 。",
+    "active": "播种时会产生微弱的火光涟漪，生长速度远超凡俗花卉 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的火神道场或百花福地 。",
+    "karma_link": "与封姨作为远古神灵的审美情趣及身份象征相关联 。"
+  },
+  "enriched": true
+}

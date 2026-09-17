@@ -1,0 +1,58 @@
+{
+  "name": "屹然",
+  "original_name": "无名神兵",
+  "type": "重器",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "梳水国剑圣宋雨烧的成名兵刃。此剑在江湖上名声赫赫，不仅是一把神兵，更是宋老前辈侠骨柔肠与剑 道气节的寄托 。",
+  "aliases": [
+    "屹然"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第244章 大骊陈平安在此",
+      "owner": "宋雨烧"
+    },
+    {
+      "chapter": "第245章 林间簌簌，风雨如晦",
+      "owner": "宋雨烧"
+    },
+    {
+      "chapter": "第474章 江湖还有陈平安",
+      "owner": "宋雨烧"
+    },
+    {
+      "chapter": "第806章 青白之争",
+      "owner": "宋前辈"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "宋雨烧",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "别洲武神",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为武神所造之剑，对山上练气士具有极大的压胜效果，可断山裂石 。",
+  "supernatural_ability": "**“裂岳斩渎”**。拥有磨砺极久的惊人剑气，能无视一般地仙的防御术法 。",
+  "evolution": {
+    "current_form": "长剑配以泛黄的特殊青竹剑鞘 。",
+    "materials_consumed": [
+      "上古金精",
+      "武神神意"
+    ],
+    "potential_evolution": ""
+  },
+  "visual": {
+    "static": "剑鞘质朴泛黄，材质为青竹；剑身光亮如雪，寒气逼人 。",
+    "active": "递剑时剑气重霄，如中流砥柱屹立不倒，威势惊人 。"
+  },
+  "provenance": {
+    "origin": "远古时代别洲武神亲手铸造，遗落在宝瓶洲梳水国瀑布中的“砥柱石墩”机关内 。",
+    "karma_link": "宋雨烧凭借此剑成就剑圣名号，但在其子宋高风死后一度将其尘封在巨石中长达三十年 。"
+  },
+  "enriched": true
+}

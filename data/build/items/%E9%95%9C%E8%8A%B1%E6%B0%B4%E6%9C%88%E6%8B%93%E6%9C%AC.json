@@ -1,0 +1,44 @@
+{
+  "name": "镜花水月拓本",
+  "original_name": "白纸拓片",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "一种山上流行的“神仙录像带”。通过特殊手法将昂贵的镜花水月影像保存下来，是囊中羞涩的低阶修士 了解山上动向的主要途径 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第548章 有事当如何",
+      "owner": "李柳(转交陈平安)"
+    }
+  ],
+  "subtype": "影像/记录类",
+  "holder": "山上修士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "打醮山 (船主)",
+      "relation": "制作方"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "受限于拓印次数，灵气会逐层递减，属于消耗品 。",
+  "supernatural_ability": "能够将镜花水月长卷中的场景重复播放，让修士无需亲临现场即可瞻仰神仙风采 。",
+  "evolution": {
+    "current_form": "如薄纱般的白纸拓片 。",
+    "materials_consumed": [
+      "镜花水月灵气",
+      "特制白纸"
+    ],
+    "potential_evolution": "高品相拓本可被炼入本命物作为观想辅助 。"
+  },
+  "visual": {
+    "static": "层层叠叠的白纸，画面朦胧 。",
+    "active": "展开时纸上景象如云水流动，虽然越往后的副本越模糊，但仍能看清大概轮廓 。"
+  },
+  "provenance": {
+    "origin": "打醮山鲲船利用秘法对仙家画卷进行大规模摹拓 。",
+    "karma_link": "陈平安曾在鲲船上目睹春水、秋实姐妹帮船主叫卖此类低配版机缘 。"
+  },
+  "enriched": true
+}

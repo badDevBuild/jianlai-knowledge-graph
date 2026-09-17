@@ -1,0 +1,38 @@
+{
+  "name": "青玉斧",
+  "original_name": "元婴佩斧 (青玉)",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "蛮荒天干修士“元婴”的专属兵器。这一对斧钺虽然形制小巧，却在实战中阴毒无比，专门针对修士的神 魂体魄，是其收拢魂魄的重要工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第889章 何谓披星戴月",
+      "owner": "魏檗"
+    }
+  ],
+  "subtype": "攻伐类 / 牵引类",
+  "holder": "元婴 (蛮荒大妖)",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为蛮荒天干修士的傍身利刃，具备斩断魂魄与牵引阴冥之气的潜力 。",
+  "supernatural_ability": "配合“元婴”的灯笼神通，可精准劈砍敌对修士的魂魄，并将其强制牵引至阴冥之地 。",
+  "evolution": {
+    "current_form": "小巧玲珑的青玉材质斧钺 。",
+    "materials_consumed": [
+      "蛮荒地脉精金",
+      "阴冥煞气"
+    ],
+    "potential_evolution": "若能吞噬足够的强大英灵，可进阶为具备“开山”权柄的半仙兵 。"
+  },
+  "visual": {
+    "static": "形制小巧，色泽青翠，挂于“元婴”腰间的蹀躞带上 。",
+    "active": "挥动时带起森森鬼气，斧刃处隐约可见无数冤魂挣扎的虚影 。"
+  },
+  "provenance": {
+    "origin": "产自蛮荒天下深渊地界 。",
+    "karma_link": "见证了天干修士“元婴”在战局中的阴险伏击与收割 。"
+  },
+  "enriched": true
+}

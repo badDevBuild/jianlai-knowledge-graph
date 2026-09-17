@@ -1,0 +1,38 @@
+{
+  "name": "三官符箓",
+  "original_name": "天、地、水三官大符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "活跃",
+  "description": "未在素材中提及“三官符箓”的具体合称细节。通常作为 护道之物，帮助练气士渡劫或对敌 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1009章 年少曾学登山法",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御/敕令类",
+  "holder": "落魄山子弟 / 陈平安",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为道门正统符箓，随画符者境界提升，可敕令神灵护 卫 。",
+  "supernatural_ability": "未在素材中提及三官符的合称，但分散提及了天部、水 部及地祖宫等相关大符 。",
+  "evolution": {
+    "current_form": "金色或青色材质的符纸。",
+    "materials_consumed": [
+      "金精铜钱",
+      "朱砂"
+    ],
+    "potential_evolution": "若能三符合一，可构筑完整的“三才大阵”。"
+  },
+  "visual": {
+    "static": "符纸华美，云篆繁复，散发出浩然正气 。",
+    "active": "祭出时会有金甲神人或光阴流水降临，声势惊人 。"
+  },
+  "provenance": {
+    "origin": "源自《丹书真迹》或白玉京、龙虎山等正统法脉 。",
+    "karma_link": "是大修士用于平衡一方因果、庇护弟子的手段。"
+  },
+  "enriched": true
+}

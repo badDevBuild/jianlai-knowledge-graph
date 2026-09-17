@@ -1,0 +1,52 @@
+{
+  "name": "寸金符",
+  "original_name": "光阴符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "**寸金符**是世间罕见的“光阴之符”，因其能够干预光阴流水的玄妙特性而被称为**寸金** 。白璧以此符作为本命物，可破开多种时空禁制 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第541章 得宝",
+      "owner": "白璧"
+    },
+    {
+      "chapter": "第550章 可惜下雨不下钱",
+      "owner": "孙结(欲赠白璧)"
+    }
+  ],
+  "subtype": "光阴类 / 辅助类",
+  "holder": "白璧",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "水龙宗祖师",
+      "relation": "赠予者"
+    },
+    {
+      "name": "济渎古祠遗址",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "属于道门高阶符箓，涉及光阴长河的大道规则，潜力随持有者境界提升而增长 。",
+  "supernatural_ability": "裨益水法修行；能够作为钥匙开启某些禁制森严的仙府遗址或光阴通道 。",
+  "evolution": {
+    "current_form": "一张纹路如流水潺潺的青色符箓 。",
+    "materials_consumed": [
+      "济渎精华",
+      "光阴砂"
+    ],
+    "potential_evolution": "若能补全符胆真意，可演化为缩减寿元损耗的神通。"
+  },
+  "visual": {
+    "static": "符纸呈现青色，其上绘有简单的流水图案，却能让人感受到流动之感 。",
+    "active": "激活时会有明显的流水声响起，仿佛在虚空中截断一段光阴 。"
+  },
+  "provenance": {
+    "origin": "出自济渎三大古老祠庙之一的遗址 。",
+    "karma_link": "由水龙宗老祖机缘巧合所得，后传给嫡传弟子白璧，曾因此引发宗门内部纷争 。"
+  },
+  "enriched": true
+}

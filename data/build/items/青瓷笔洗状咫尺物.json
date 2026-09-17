@@ -1,0 +1,44 @@
+{
+  "name": "青瓷笔洗状咫尺物",
+  "original_name": "春秋笔洗 / 春水笔洗",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此物是一件极其雅致的空间法宝。其特殊的“活物寄存”功能和充满文气的文字流转效果，使其在同类法 宝中独树一帜 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第977章 相亲相爱师兄弟",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "存储类 / 空间类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蛇蝎夫人",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "具备容纳活物的特殊空间，且自带水运温养效果，上限为洞天级储物重器 。",
+  "supernatural_ability": "笔洗外壁刻有十六字流转文字。其内部不仅可存死物，还可作为小白蛇、小黑蝎等灵物的栖息水府 。",
+  "evolution": {
+    "current_form": "一只古色古香的青瓷笔洗，底部刻有流转的字符 。",
+    "materials_consumed": [
+      "青瓷精粹",
+      "四季水运道韵"
+    ],
+    "potential_evolution": "若能补齐缺失的“秋实”等字符，可演化为完整的四季循环小天地 。"
+  },
+  "visual": {
+    "static": "青瓷釉色如雨过天青，外壁刻有“春花秋月，春风秋树”等十六字 。",
+    "active": "底部文字如蝌蚪般缓缓流转，内部水汽氤氲，如现深潭异象 。"
+  },
+  "provenance": {
+    "origin": "陈平安在北俱芦洲从刺客蛇蝎夫人手中缴获 。",
+    "karma_link": "陈平安曾感叹此物若送给春水秋实两姐妹最为合适 。"
+  },
+  "enriched": true
+}

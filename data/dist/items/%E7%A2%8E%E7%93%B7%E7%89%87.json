@@ -1,0 +1,73 @@
+{
+  "name": "碎瓷片",
+  "original_name": "本命瓷碎片",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "陈平安出生时烧制的本命瓷残片。碎片流散四方是其修道途中的最大隐患与动力来源 , 。",
+  "aliases": [
+    "破碎瓷片",
+    "利器",
+    "碎瓷",
+    "碎瓷片"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第18章 五去其三",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第20章 横生枝节",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第21章 捕蛇鹰",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第46章 压衣刀",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第77章 进山",
+      "owner": "青衫少年"
+    },
+    {
+      "chapter": "第830章 练练",
+      "owner": "大骊太后"
+    },
+    {
+      "chapter": "第832章 国师陈平安",
+      "owner": "大骊太后"
+    }
+  ],
+  "subtype": "魂魄类 / 命运类",
+  "holder": "陈平安 (及其余碎片持有者)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姚老头 (龙窑师傅)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "拼凑齐全后可补全魂魄缺漏，是冲击飞升境乃至合道十四境的关键 , 。",
+  "supernatural_ability": "“魂魄牵引”。与持有者的灵魂与气运绑定，掌握碎片即可通过秘法汲取其气运甚至将其隔空咒杀 , 。",
+  "evolution": {
+    "current_form": "破碎的瓷器裂片 。",
+    "materials_consumed": [
+      "龙泉官窑瓷土",
+      "孩童灵魂精华"
+    ],
+    "potential_evolution": "碎片重聚可象征打破枷锁、命由己造 。"
+  },
+  "visual": {
+    "static": "普通瓷片模样，但底款或纹路可能带有独特的吉语或符文 。",
+    "active": "在特定的寻亲或追踪秘法下会散发微光，与主身产生气机共鸣 。"
+  },
+  "provenance": {
+    "origin": "烧造于骊珠洞天三十六龙窑之一 , 。",
+    "karma_link": "连接了陈平安的身世之谜与大骊国祚的底层布局 , 。"
+  },
+  "enriched": true
+}

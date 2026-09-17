@@ -1,0 +1,48 @@
+{
+  "name": "养剑壶",
+  "original_name": "姜壶 / 斗量",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "剑修视若性命的重宝。陈平安的这只“姜壶”不仅伴随他走过千万里路，还见证了他在剑气长城和蛮荒腹 地的多次死战 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第579章 最讲道理的来了",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "温养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    },
+    {
+      "name": "姜姓剑修",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随着持续喂养金精铜钱，能够从法宝晋升为半仙兵品秩 。",
+  "supernatural_ability": "内含稳定空间，不仅能温养飞剑，还能装载十数斤酒水，高阶者甚至能“斗量”东海之水 。",
+  "evolution": {
+    "current_form": "色泽温润、样式古朴的朱红色小葫芦 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "斩龙石"
+    ],
+    "potential_evolution": "最终形态可成为能拘押仙人魂魄或作为剑冢的仙兵重宝 。"
+  },
+  "visual": {
+    "static": "底款刻有“姜壶”二字，寓意行走江湖。外观呈现紫金或朱红色泽，带有一丝金属玉石混合的质感 。",
+    "active": "温养飞剑时会有微光闪烁，葫芦口产生细微的气流旋涡或“吞吐感” 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝的密库旧藏 。",
+    "karma_link": "由魏檗作为买山的彩头赠送，是陈平安剑道之路的最重要伙伴之一 。"
+  },
+  "enriched": true
+}

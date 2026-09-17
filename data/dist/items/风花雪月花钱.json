@@ -1,0 +1,38 @@
+{
+  "name": "风花雪月花钱",
+  "original_name": "四景民俗钱",
+  "type": "货币",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一类典型的“大开门”物件，常见于倒悬山或老龙城 的古玩铺子。虽然杀力有限，却最能体现《剑来》中凡 俗与仙气的辩证统一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1152章 箭跺",
+      "owner": "女子(习俗)"
+    }
+  ],
+  "subtype": "灵物/民俗类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "作为寄托了人间美好愿景的物件，若受圣人点睛，可演 化为掌控节气的法器。",
+  "supernatural_ability": "承载山水风月之趣，能在微观尺度上调理一室之内的小 天候，平复心神 。",
+  "evolution": {
+    "current_form": "青铜质地的花钱，正面刻有风、花、雪、月四字。",
+    "materials_consumed": [
+      "精铜",
+      "人间烟火气"
+    ],
+    "potential_evolution": "若能融入金精铜钱，可进阶为“二十四节气压胜钱”。"
+  },
+  "visual": {
+    "static": "外圆内方，纹饰繁复，带有厚重的包浆和书卷气。",
+    "active": "摩挲时隐约有清风拂面或花香散发的幻感。"
+  },
+  "provenance": {
+    "origin": "源于浩然天下山下百姓对美好生活的祈愿。",
+    "karma_link": "连接了陈平安对“雅物”的收集偏好与人间情怀。"
+  },
+  "enriched": true
+}

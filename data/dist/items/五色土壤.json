@@ -1,0 +1,49 @@
+{
+  "name": "五色土壤",
+  "original_name": "穗山五色土 / 五岳山河社稷土",
+  "type": "材料",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "陈平安修行路上的核心材料之一，象征着他在宝瓶洲立足的山河底蕴。炼化此土为本命物，使其哪怕跌 境后，体魄坚韧程度依然能够冠绝同辈 。",
+  "aliases": [
+    "大骊五色土"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第481章 天下月色，此山最多",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "炼物材料",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老秀才 / 崔瀺",
+      "relation": "赠予者"
+    },
+    {
+      "name": "穗山大神",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵物",
+  "rank_potential": "是炼化五行之土本命物的极致资粮，其品相会随五岳正式封正而产生质变 。",
+  "supernatural_ability": "蕴含一洲山川气数。炼化后可成为人身小天地内的“山根”，使修士金身稳固，并能先天压制一切地底阴 晦之物 。",
+  "evolution": {
+    "current_form": "取自天下最高山穗山及大骊新五岳山根处的五色泥土 。",
+    "materials_consumed": [
+      "五岳山根精华"
+    ],
+    "potential_evolution": "由陈平安通过“炼三山”法诀炼化为第二件本命物，坐镇山祠窍穴 。"
+  },
+  "visual": {
+    "static": "呈现青、赤、白、黑、黄五种色彩，质地沉重，散发出厚重沧桑的大地气息 。",
+    "active": "炼化时有大岳虚影从丹炉中拔地而起，伴随山川律动之声 。"
+  },
+  "provenance": {
+    "origin": "源自浩然天下中土穗山及宝瓶洲各大名山山脉 。",
+    "karma_link": "是大骊国师崔瀺为留住魏羡等四位“武运载体”而与陈平安进行的利益交换 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "新国师印",
+  "original_name": "大骊新国师印",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安正式就任大骊国师的权力象征。它不仅是世俗权力的载体，更是陈平安用来实践事功学问、 补全自身人身天地缺漏的关键法器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1196章 飞升见余斗",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "权柄类 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "随大骊国运昌盛与持印者功德积累，有望晋升为仙兵级重器 。",
+  "supernatural_ability": "具备“敕令封正”之威，通过在大骊国书与公文上钤印，建立“人天感应”，可决定武将升迁与山水神灵位 次 。",
+  "evolution": {
+    "current_form": "底款篆刻有大骊法度文字，具备浓厚金石气象的官印 。",
+    "materials_consumed": [
+      "大骊国运",
+      "山水气韵"
+    ],
+    "potential_evolution": "可进一步炼化为陈平安人身小天地的法理核心 。"
+  },
+  "visual": {
+    "static": "形制肃穆，散发着沉沉且厚重的金石气息 。",
+    "active": "钤印时国运金光流转，每一道印痕都如在山河地脉中钉下锚点 。"
+  },
+  "provenance": {
+    "origin": "大骊朝廷为新任国师陈平安特制，作为行使国师权力的凭证 。",
+    "karma_link": "象征着大骊事功学问的新旧交替与法统传承 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "大红法袍",
+  "original_name": "沉彩 (又称墨色龙袍)",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "蛮荒王座大妖持有的顶级防御重器，能无视阴阳界限，并在战争中通过吞噬魂魄不断增强防御杀力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第645章 取金丹",
+      "owner": "官巷"
+    }
+  ],
+  "subtype": "防御类 / 气运类",
+  "holder": "仰止",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "金翠城",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "位列数座天下**十大法袍**之一，具备再造“幽明光阴”并辅助合道十四境的潜质 。",
+  "supernatural_ability": "能够炼化并储存**数百万战场魂魄**，将其转化为粘稠的血海防御；具备“水路分阴阳”的避邪神通 。",
+  "evolution": {
+    "current_form": "鲜红至极的华美长袍（因炼化魂魄而显色） 。",
+    "materials_consumed": [
+      "数百万战场魂魄",
+      "大河气运"
+    ],
+    "potential_evolution": "若能彻底炼化一洲气运，可显化为**幽明光阴长河** 。"
+  },
+  "visual": {
+    "static": "墨色底纹，表面泛起**金翠两色涟漪**，波光粼粼 。",
+    "active": "法袍表面鲜红欲滴，血海滚动，无数狰狞面孔在袍影中若隐若现 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下金翠城以“**通经断纬**”秘法织造 。",
+    "karma_link": "作为王座大妖的立身之本，是其掠夺浩然天下气运的容器 。"
+  },
+  "enriched": true
+}

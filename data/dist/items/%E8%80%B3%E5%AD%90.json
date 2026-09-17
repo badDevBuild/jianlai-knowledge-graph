@@ -1,0 +1,46 @@
+{
+  "name": "耳子",
+  "original_name": "儿子 (谐音) / 耳精",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "一种功能极其独特的寄生类精怪，能与主人相辅相成，是保护体弱者免 受鬼魅侵扰的佳品 。",
+  "aliases": [
+    "耳中精魅"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第287章 北行",
+      "owner": "无"
+    }
+  ],
+  "subtype": "精魅/压胜类",
+  "holder": "山下豪门 / 练气士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吞宝鲸店铺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "可培养为守护神魂的“守门灵”，防止一切针对入睡者的神识偷袭。",
+  "supernatural_ability": "生活在耳朵中，以耳膜为鼓面，在人入睡时悄然擂鼓，壮大主人的阳气 散发，震慑夜间邪魅 。",
+  "evolution": {
+    "current_form": "小如米粒、性格活泼的精魅小人 。",
+    "materials_consumed": [
+      "人气香火",
+      "纯阳之气"
+    ],
+    "potential_evolution": "多只耳子可组合形成“万鼓雷鸣阵”，专门克制音律类攻击。"
+  },
+  "visual": {
+    "static": "微型的人形精怪，皮肤呈现肉粉色，极难察觉 。",
+    "active": "入睡时在耳窍旁跳跃，普通人不可闻见其鼓声，唯有阴物会感到阳气逼 人 。"
+  },
+  "provenance": {
+    "origin": "多诞生于山下豪门的百年书房或仙家洞府。",
+    "karma_link": "是山下显贵中邪后重金购买的辟邪圣物 。"
+  },
+  "enriched": true
+}

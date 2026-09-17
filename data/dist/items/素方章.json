@@ -1,0 +1,44 @@
+{
+  "name": "素方章",
+  "original_name": "老观主赠石对章",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安在修行仙人境期间的重要创作。通过这对印 章，他将道门真意、儒家家训以及自身剑意熔于一炉， 是其“物尽其用”哲学的体现 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第874章 后手对后手",
+      "owner": "陈平安/陆沉"
+    }
+  ],
+  "subtype": "篆刻/信物类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老观主",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随陈平安境界升至十四境，可成为镇压整座落魄山文脉 的礼器 。",
+  "supernatural_ability": "印文内容与持有者心境相通，具备稳固道场、感通天地 的神效，边款记录了蛮荒之行的山水见闻 , 。",
+  "evolution": {
+    "current_form": "两枚质地坚韧逾磨剑石、纤长古朴的素面方章 。",
+    "materials_consumed": [
+      "远古玉石",
+      "太白剑气"
+    ],
+    "potential_evolution": "可演化为承载“言出法随”神通的个人法印 。"
+  },
+  "visual": {
+    "static": "无雕饰，色泽素雅，质地细腻如玉，印面分别为“剑仙” 与“国手” , 。",
+    "active": "钤印时会有紫金道气升腾，显现出“精神一到何事不成” 的金色大字 。"
+  },
+  "provenance": {
+    "origin": "由老观主赠送原石，陈平安以“太白剑尖”为刻刀亲手雕 琢 。",
+    "karma_link": "象征着陈平安作为“剑客”与“读书人”双重身份的合流 。"
+  },
+  "enriched": true
+}

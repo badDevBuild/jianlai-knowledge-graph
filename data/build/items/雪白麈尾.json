@@ -1,0 +1,50 @@
+{
+  "name": "雪白麈尾",
+  "original_name": "拂尘",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件品秩极高的仙兵级拂尘 。其原主为归灵湘，后流落至大妖琼瓯之手，尽管琼瓯持有了两千年之久，却因真身限制始终无法 将其大炼 。该法宝以其“不染尘埃”的特性闻名，是修道之人稳固道心的绝佳利器 。",
+  "aliases": [
+    "麈尾"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第621章 学剑",
+      "owner": "道家圣人"
+    }
+  ],
+  "subtype": "压胜类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "琼瓯",
+      "relation": "夺取自"
+    },
+    {
+      "name": "归灵湘",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为上等仙兵品秩的重宝，具备震慑阴冥万鬼的极致潜力 。",
+  "supernatural_ability": "即便身处阴冥之地多年，也完全不沾染任何阴煞污秽之气 。其丝线具备洁净天地、调理灵气波动的神效 。",
+  "evolution": {
+    "current_form": "绯紫色长木柄，由三千六百余根雪白丝线组成，缀有一枚小金环 。",
+    "materials_consumed": [
+      "纯净灵气",
+      "天材地宝"
+    ],
+    "potential_evolution": "若能由高位道官大炼，可成为执掌一方天地的教化法物 。"
+  },
+  "visual": {
+    "static": "质地古朴的拂尘，木柄色泽绯紫，丝线洁白如雪且极其纤细 。",
+    "active": "挥动时宝光流转，能够瞬间驱散方圆数里内的迷雾与瘴气 。"
+  },
+  "provenance": {
+    "origin": "仙簪城开山祖师归灵湘的遗物 。",
+    "karma_link": "在陈平安攻打仙簪城时，从大妖琼瓯处收缴而来 。"
+  },
+  "enriched": true
+}

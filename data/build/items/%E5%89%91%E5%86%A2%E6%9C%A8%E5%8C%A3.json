@@ -1,0 +1,48 @@
+{
+  "name": "剑冢木匣",
+  "original_name": "三山四海五嶽十渎图剑匣",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一个被称为“剑冢”的恐怖法宝。它承载了远古的山川真意，能够让持有者在瞬间化身为掌握九种神 通的绝代剑客，是绶臣登顶蛮荒的关键 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第451章 过桥",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "温养类 / 阵法类",
+  "holder": "绶臣",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "制造者"
+    },
+    {
+      "name": "周密",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "匣内可温养九把具备本命神通的飞剑，且匣身图卷具备演化世界之能 。",
+  "supernatural_ability": "“剑冢”：能温养九把飞剑并赋予九种不同神通，使非剑修也能具备大剑仙的战力 。",
+  "evolution": {
+    "current_form": "绘有远古山川地理真形图的古朴剑匣 。",
+    "materials_consumed": [
+      "九洲山水气运",
+      "大妖神魂"
+    ],
+    "potential_evolution": "可作为支撑一座天下剑道气运的法统核心 。"
+  },
+  "visual": {
+    "static": "匣身绘有一幅宏大的远古真形图，三山神人尸坐，气象森严 。",
+    "active": "开启时九剑齐发，图卷中的山川虚影显现，压制四方阴阳造化 。"
+  },
+  "provenance": {
+    "origin": "最早由三山九侯先生铸造，后流落至蛮荒文海周密手中 。",
+    "karma_link": "作为周密送给开山大弟子绶臣的拜师回礼，是蛮荒天下极具威慑力的杀器 。"
+  },
+  "enriched": true
+}

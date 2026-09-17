@@ -1,0 +1,48 @@
+{
+  "name": "五嶽符",
+  "original_name": "五岳真形祖宗符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是符箓界公认的“符皇”候选之一。它融合了山岳的厚重与飞剑的凌厉，是真正的大道重宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第750章 万年山巅十一人",
+      "owner": "韩玉树/姜尚真"
+    },
+    {
+      "chapter": "第997章 酒，剑，明月",
+      "owner": "陈平安 (临摹)"
+    }
+  ],
+  "subtype": "压胜/山岳类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "韩玉树",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "因为涉及已失踪的“东山”气数，每一张都属于不可再生的绝品 。",
+  "supernatural_ability": "五山倒悬，峰如剑尖，不仅能镇压神魂，还兼具极其强悍的剑符杀力 。",
+  "evolution": {
+    "current_form": "金色材质符纸，绘有五座古老山岳图案 。",
+    "materials_consumed": [
+      "五色土丹砂",
+      "上古剑诀真意"
+    ],
+    "potential_evolution": "无法再生产，只能通过搜集残余纸张来勉强维持威势 。"
+  },
+  "visual": {
+    "static": "符胆以剑诀书写“五嶽”二字，给人一种山岳压顶的沉重感 。",
+    "active": "激发后天幕会出现五座虚幻山峰，伴随雷鸣直指大地 。"
+  },
+  "provenance": {
+    "origin": "万瑶宗秘密传承的远古符箓，包含部分失传剑脉 。",
+    "karma_link": "因“东山”消逝，此符在浩然山巅的价格已达天价 。"
+  },
+  "enriched": true
+}

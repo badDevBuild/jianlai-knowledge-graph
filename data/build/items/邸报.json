@@ -1,0 +1,46 @@
+{
+  "name": "邸报",
+  "original_name": "仙家邸报 / 山上邸报",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "消耗品",
+  "description": "邸报是《剑来》中修士掌握天下动态的核心媒介，承载了众生的野望与 名声。曾因战事被文庙禁绝五年 。",
+  "aliases": [
+    "山水邸报"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第510章 前辈我让你三拳吧",
+      "owner": "黑衣小姑娘"
+    }
+  ],
+  "subtype": "信息/记录类",
+  "holder": "浩然天下各宗门",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "山海宗 / 各洲书院",
+      "relation": "编纂者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着记载信息的增加，可作为某种特定因果推演的底本。",
+  "supernatural_ability": "记录天下名胜、宗门变迁、武评名次、爱恨情仇等 [3-5]。",
+  "evolution": {
+    "current_form": "多分为《大小五岳篇》、《帝王将相篇》、《人间美艳篇》等章节 。",
+    "materials_consumed": [
+      "云根纸",
+      "山河文运"
+    ],
+    "potential_evolution": "高阶版本可与“镜花水月”联动，实时显化远方景象。"
+  },
+  "visual": {
+    "static": "质地较厚的仙家纸张，文字带有微弱的灵光 。",
+    "active": "阅读时内容如云烟流转，甚至能展现出工笔绘制的女子画像 。"
+  },
+  "provenance": {
+    "origin": "由中土神洲山海宗等专门机构定期发布 。",
+    "karma_link": "连接了山上世界的名声与现实利益，也是修士了解大势的窗口。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "雪压青松图",
+  "original_name": "巨嶂山水图 / 范氏手笔山水画",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是落魄山霁色峰三十六处待客宅邸中的重要装饰，画作气魄宏大，展现了老厨子朱敛在丹青造诣上的 巅峰水平 。",
+  "aliases": [
+    "雪压青松图"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第181章 不值得",
+      "owner": "李希圣"
+    }
+  ],
+  "subtype": "观赏类 / 收藏类",
+  "holder": "落魄山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "朱敛",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽是模仿名家手笔，但因朱敛笔墨神意极高，具备滋养屋舍文气的潜力 。",
+  "supernatural_ability": "“乱真”。画作技法精妙，即便识货行家也难以辨认出其非中土丹青圣手真迹 。",
+  "evolution": {
+    "current_form": "悬挂于霁色峰待客宅邸中堂的巨幅山水画 。",
+    "materials_consumed": [
+      "名家画谱",
+      "文房四宝"
+    ],
+    "potential_evolution": "若得圣人点睛，可演化为具备山水灵气的实境画卷 。"
+  },
+  "visual": {
+    "static": "尺幅极大，长达两丈，气象雄阔，画中青山远岫，云水缥缈 。",
+    "active": "落笔生花，画中意境疑似天边仙家景致飞入彩屏，观之令人神往 。"
+  },
+  "provenance": {
+    "origin": "由落魄山大管家朱敛参考名家画谱随手画就 。",
+    "karma_link": "用于装点霁色峰仙家府邸，体现了落魄山深藏不露的底蕴 。"
+  },
+  "enriched": true
+}

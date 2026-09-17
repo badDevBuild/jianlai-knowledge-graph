@@ -1,0 +1,44 @@
+{
+  "name": "紫芝白鸾遁法符",
+  "original_name": "蝉蜕符 / 替身符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "**大骊朝廷与道门合力研发的顶级逃生符箓**。通过模 拟仙禽飞升的意境，帮助修士在必死之局中一线觅活 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第793章 很绣虎",
+      "owner": "云杪"
+    }
+  ],
+  "subtype": "逃遁/防御类",
+  "holder": "陈平安 / 大骊修士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若以青色符纸绘制，可瞒过玉璞境甚至仙人境的感知 。",
+  "supernatural_ability": "能够瞬间实现“蝉蜕”效果，真身遁走，留下一个极难分 辨的符箓替身 。",
+  "evolution": {
+    "current_form": "一张散发紫气与鹤鸣声的灵符 。",
+    "materials_consumed": [
+      "白鸾精血",
+      "紫芝灵气"
+    ],
+    "potential_evolution": "进阶为无视禁制的“无距离遁走”大符 。"
+  },
+  "visual": {
+    "static": "符纸表面有白鸾环绕紫芝飞翔的动态纹路 。",
+    "active": "激发时如同一场紫色烟雾炸开，真身瞬间出现在数百里 外 。"
+  },
+  "provenance": {
+    "origin": "大骊禺州将军驻地常用的一种高阶遁地手段 。",
+    "karma_link": "陈平安多次死里逃生、戏耍强敌的关键保命符 。"
+  },
+  "enriched": true
+}

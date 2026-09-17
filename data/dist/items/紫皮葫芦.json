@@ -1,0 +1,46 @@
+{
+  "name": "紫皮葫芦",
+  "original_name": "捉放",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "少年王琼琚斜背的宝物。虽非养剑葫，但其涉及水运捕获的古老神通在东海水域名声极大，见证了泥瓶 巷旧人的命运转迁 。",
+  "aliases": [
+    "大紫皮葫芦"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第973章 太平年",
+      "owner": "王琼琚"
+    }
+  ],
+  "subtype": "捕获类 / 存储类",
+  "holder": "王琼琚",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "东海水府",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为远古遗物，其“捉放”神通在处理大江大河中的孽龙恶兽时具有极高上限 。",
+  "supernatural_ability": "“捉放自如”。能够收纳多种水裔精魅，并以此养灵，亦可作为承载龙气的水运容器 。",
+  "evolution": {
+    "current_form": "一只包浆油亮、样式古朴的紫皮小葫芦 。",
+    "materials_consumed": [
+      "深海月华精髓",
+      "万年龙涎"
+    ],
+    "potential_evolution": "若能收集到上古龙王神性，可进化为能够“捉放”四海大妖的顶级法宝 。"
+  },
+  "visual": {
+    "static": "葫芦表面呈现出莹润的紫色，底部或侧面铭刻有古篆“捉放”二字 。",
+    "active": "开启时葫芦口会泛起如水波般的涟漪，产生巨大的吸力，将目标物摄入其中 。"
+  },
+  "provenance": {
+    "origin": "真龙王朱从大海深处捞取的远古遗物 。",
+    "karma_link": "由王朱赐予扈从王琼琚（寒酥），是其在东海水府担任要职的身份标识 。"
+  },
+  "enriched": true
+}

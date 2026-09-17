@@ -1,0 +1,42 @@
+{
+  "name": "黄流巨津图",
+  "original_name": "黄流巨津图",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是儒家圣人持有的一件威力巨大的仙兵。在剑气长城攻守战中，圣人以此图显化大水，直接将蚁附攻 城的妖族大军淹没，造成了极大的杀伤效果 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第682章 一线之上",
+      "owner": "儒家圣人"
+    },
+    {
+      "chapter": "第683章 何处不问剑",
+      "owner": "儒家圣人"
+    }
+  ],
+  "subtype": "镇压类 / 攻伐类",
+  "holder": "儒家圣人",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "儒家圣人随身携带的重宝，具备镇压一洲山水气运的极致品秩 。",
+  "supernatural_ability": "“黄河之水天上来”，长卷铺开后可显化滚滚洪流，将大军撞回大地并瞬间将其溺杀 。",
+  "evolution": {
+    "current_form": "卷轴画轴形态 。",
+    "materials_consumed": [
+      "浩然气",
+      "大河水运"
+    ],
+    "potential_evolution": "随圣人合道程度加深而增强压胜威能"
+  },
+  "visual": {
+    "static": "一轴质地古朴、书卷气浓郁的长卷，由圣人置于袖中 。",
+    "active": "长卷从城头坠落悬挂天地间，画中黄河真意具象化为汹涌大水，气势磅礴 。"
+  },
+  "provenance": {
+    "origin": "中土文庙 。",
+    "karma_link": "由坐镇城头的儒家圣人于剑气长城战事中祭出，作为分割战场的关键手段 。"
+  },
+  "enriched": true
+}

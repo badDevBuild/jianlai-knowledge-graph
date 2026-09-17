@@ -1,0 +1,48 @@
+{
+  "name": "金字书页",
+  "original_name": "杨老头赠予佛经",
+  "type": "本命物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "陈平安的**五行本命物**（金）。 此书页源自古老佛经，经由**茅小冬**指点在大隋东华山炼化，是其**一身正气**的具体显化 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第591章 宁姚出剑会如何",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "加持/防御类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "李槐",
+      "relation": "赠予者"
+    },
+    {
+      "name": "杨老头",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为五行之金的本命物，其本身即为佛法正宗，可随佛性深厚而无限增强。",
+  "supernatural_ability": "金光照耀，诸邪避让。 能让修道者“道德当身，故不以外物惑”，提供绝对的心理与气府防御 。",
+  "evolution": {
+    "current_form": "一张写满金色文字、材质如丝绸般的古老书页 。",
+    "materials_consumed": [
+      "西方佛国金身血",
+      "文庙祭器文运"
+    ],
+    "potential_evolution": "最终炼化为一位金色儒衫背剑小人儿，坐镇“肺腑”气府 。"
+  },
+  "visual": {
+    "static": "字迹法度严谨，每一个字都像是在呼吸，散发着神圣的宝光 。",
+    "active": "炼化时产生金色瀑布般的异象，融入气府后变为金色小人骑乘真气火龙 。"
+  },
+  "provenance": {
+    "origin": "杨老头赠予李槐，后再由李槐转赠给陈平安 。",
+    "karma_link": "是陈平安重建**长生桥**后的关键本命物之一，承载了极大的因果 。"
+  },
+  "enriched": true
+}

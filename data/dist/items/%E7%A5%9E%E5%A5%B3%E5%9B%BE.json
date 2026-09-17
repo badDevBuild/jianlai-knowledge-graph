@@ -1,0 +1,68 @@
+{
+  "name": "神女图",
+  "original_name": "骸骨滩壁画城神女图",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "壁画城神女图共九位，象征着远古时代的不同神职，是北俱芦洲著名的修道机缘之一 。",
+  "aliases": [
+    "灵芝",
+    "行雨",
+    "挂砚",
+    "骑鹿",
+    "春官",
+    "斩勘",
+    "宝盖"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第498章 天地无拘束",
+      "owner": "庞山岭/庞兰溪"
+    },
+    {
+      "chapter": "第500章 有些遇见",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第515章 琢磨",
+      "owner": "陈平安/柳质清"
+    },
+    {
+      "chapter": "第565章 还乡",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "传承类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "骸骨滩壁画城",
+      "relation": "原主"
+    },
+    {
+      "name": "庞兰溪",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "原画为上古真迹，临摹本（硬黄本/廊填本）随灵气滋养可显现神女真灵 。",
+  "supernatural_ability": "每幅图对应一位神女，拥有不同神通（如“春官”掌生机、“斩勘”掌雷电法刑、“行雨”掌水法） 。",
+  "evolution": {
+    "current_form": "硬黄本白描画卷或廊填本彩绘 。",
+    "materials_consumed": [
+      "灵气",
+      "文运"
+    ],
+    "potential_evolution": "神女可从画卷中“走出”，化为实体真灵侍奉主人或结为道侣 。"
+  },
+  "visual": {
+    "static": "工笔细腻的壁画摹本，或为白描，或为彩绘 。",
+    "active": "激活时画卷灵光流溢，神女形象栩栩如生，甚至有异香或雷鸣等异象 。"
+  },
+  "provenance": {
+    "origin": "出自北俱芦洲骸骨滩壁画城地宫壁画 。",
+    "karma_link": "陈平安获赠多幅摹本，是其“包袱斋”收藏中极具文气和道缘的灵物 。"
+  },
+  "enriched": true
+}

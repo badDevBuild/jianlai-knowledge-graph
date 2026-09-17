@@ -1,0 +1,38 @@
+{
+  "name": "彩衣渡船",
+  "original_name": "乌孙栏渡船",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "彩衣渡船是浩然天下的明星渡船之一，以其**极高的安全系数**和精美的神女彩绘为人熟知 。它在海上贸易中扮演重要角色，曾多次在危险海域凭借阵法化险为夷 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第747章 秉烛夜游",
+      "owner": "乌孙栏"
+    }
+  ],
+  "subtype": "辅助类 / 运输类",
+  "holder": "乌孙栏",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "通过向皑皑洲刘氏借贷并引入先进阵法，其防御与航行能力均达顶级 。",
+  "supernatural_ability": "配备由**竹海青竹**打造的强大防御剑阵，外壁彩绘神女可显化为**符箓傀儡**御敌 。",
+  "evolution": {
+    "current_form": "大型跨洲楼船 。",
+    "materials_consumed": [
+      "谷雨钱",
+      "青神山青竹"
+    ],
+    "potential_evolution": "可进一步通过文庙封正，提升其在危险海域的通行权柄 。"
+  },
+  "visual": {
+    "static": "船身外壁彩绘有神态各异的**龙女与水仙**，旗帜飘扬，气势宏伟 。",
+    "active": "遭遇强敌时，数以千计的**青竹符剑**会如雨落般形成防御圈，彩绘女子会持剑现身 。"
+  },
+  "provenance": {
+    "origin": "由中土神洲乌孙栏门派向皑皑洲刘氏筹资建造 。",
+    "karma_link": "是连接金甲洲、南婆娑洲与桐叶洲的重要空中商路 。"
+  },
+  "enriched": true
+}

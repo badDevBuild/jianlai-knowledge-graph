@@ -1,0 +1,38 @@
+{
+  "name": "粗胚白瓷碗",
+  "original_name": "无形白碗 / 烧瓷泥胚",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安在心相天地中以神性与记忆具象化的器物。它将烧瓷的“泥胚”意象与“真名压胜”结合，是其探究 万物本质与大道轨迹的独特工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1162章 （1） 第四把飞剑",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "镇压类 / 封印类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为陈平安结合烧瓷记忆与上古秘术的尝试，具备演化为新型“本命瓷”系统的潜力 。",
+  "supernatural_ability": "“文字压胜”。碗内壁可由文字排列成阵，拘押神灵或大妖的鲜血元神，并以此推演其大道根脚 。",
+  "evolution": {
+    "current_form": "一只胎薄如纸、晶莹剔透的无形瓷碗 。",
+    "materials_consumed": [
+      "神灵鲜血",
+      "武道真意"
+    ],
+    "potential_evolution": "若能经过“炼物真火”烧造，可成为永久囚禁高位魂魄的禁忌法宝 。"
+  },
+  "visual": {
+    "static": "袖珍且晶莹剔透的白瓷碗胚 。",
+    "active": "碗内出现朱笔题写的文字或鲜血漩涡，文字排列如阵，光彩流转 。"
+  },
+  "provenance": {
+    "origin": "由陈平安感悟三山九侯先生秘术结合龙窑烧瓷技艺自行悟出 。",
+    "karma_link": "在与姜赦对阵时首次用于解析兵家初祖的内景气象 。"
+  },
+  "enriched": true
+}

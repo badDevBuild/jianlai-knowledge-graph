@@ -1,0 +1,46 @@
+{
+  "name": "紫管笔",
+  "original_name": "",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是崔东山早期赠予陈平安的文房四宝之一。它不仅是一支笔，更因为**“吃墨鱼”**的存在，体现了山 上仙家生活的精致与神异 。",
+  "aliases": [
+    "紫管笔"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第133章 同行",
+      "owner": "崔瀺"
+    }
+  ],
+  "subtype": "文房类 / 豢养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "笔内寄居之灵物随文运滋养，具备成长为“墨龙”的潜力 。",
+  "supernatural_ability": "**“吃墨鱼”**。笔杆内藏有一条袖珍小鱼，专门吸食残墨，使用后无需清洗，笔头始终保持明净 。",
+  "evolution": {
+    "current_form": "紫竹材质的毛笔，笔端篆刻有文人吉语 。",
+    "materials_consumed": [
+      "名贵紫竹",
+      "灵气墨汁"
+    ],
+    "potential_evolution": "内藏鱼儿若能生出金丝脊线，可演化为读书人梦寐以求的**“墨宝”** 。"
+  },
+  "visual": {
+    "static": "色泽深紫，质感古朴，笔杆上有细微的小篆铭文 。",
+    "active": "书写时灵动异常，笔尖似有游鱼之态，墨香持久不散 。"
+  },
+  "provenance": {
+    "origin": "崔东山珍藏的文房清供，作为拜师礼赠予陈平安 。",
+    "karma_link": "体现了陈平安从“泥腿子”向“读书人”转变的物质象征 。"
+  },
+  "enriched": true
+}

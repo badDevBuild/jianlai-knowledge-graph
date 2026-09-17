@@ -1,0 +1,43 @@
+{
+  "name": "祖传马槊",
+  "original_name": "元家长枪",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这杆马槊曾随元家父辈走镖天下，现在成为了落魄山弟子磨砺武道的根本，象征着纯粹武夫“向内求”的 刚毅精神 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第447章 这么巧，我也是剑客",
+      "owner": "许茂 (后被曾先生取走)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "元宝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "元家镖师",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "随纯粹武夫的拳意喂养，可进化为具备破神神通的重宝",
+  "supernatural_ability": "在武夫手中力大无穷，具备极强的物理穿透力，能破开中五境防御",
+  "evolution": {
+    "current_form": "杆身因常年摩挲而发亮的木杆长槊",
+    "materials_consumed": [
+      "武夫真气"
+    ],
+    "potential_evolution": "若能融入金石灵材，可跻身法宝之列"
+  },
+  "visual": {
+    "static": "质朴无华，充满市井江湖的铁血气息",
+    "active": "枪出如龙，拳意如瀑，带起惊人的破空雷鸣"
+  },
+  "provenance": {
+    "origin": "出身江湖镖师世家的元家遗物",
+    "karma_link": "承载了落魄山弟子对家族荣耀的坚守与武道的执着"
+  },
+  "enriched": true
+}

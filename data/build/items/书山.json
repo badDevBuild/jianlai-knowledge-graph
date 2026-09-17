@@ -1,0 +1,39 @@
+{
+  "name": "书山",
+  "original_name": "心湖书楼 / 书楼",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安在自身心境中开辟的知识宝库。它将他一生所见所闻转化为有形之书，是其作为“隐官”进行 谋略推演的基础工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第484章 北俱芦洲无奇怪",
+      "owner": "大骊王朝"
+    }
+  ],
+  "subtype": "记忆 / 传承类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "rank": "灵器",
+  "rank_potential": "随陈平安阅历增加而无限扩张，可演化为承载三教百家学问的智慧源泉 。",
+  "supernatural_ability": "能够将所有读过的书籍、见过的文字分门别类储存。检索记忆时如同“钓鱼”，心神微动即可提取所需学 问 。",
+  "evolution": {
+    "current_form": "在心湖之畔辛苦搭建而成的虚拟书楼 。",
+    "materials_consumed": [
+      "神识",
+      "灵气",
+      "万卷书籍"
+    ],
+    "potential_evolution": "可与“道树”结合，使万物在其间皆有脉络可循 。"
+  },
+  "visual": {
+    "static": "存在于心湖畔的一座古色古香的高楼，书架林立 。",
+    "active": "翻检记忆时，书籍如同池中游鱼般飞出，文字在空中凝结 。"
+  },
+  "provenance": {
+    "origin": "陈平安融合了崔东山与裴钱的记忆管理之法自创而成 。",
+    "karma_link": "见证了陈平安从“余家贫，无从致书以观”到博采众长的求学转变 。"
+  },
+  "enriched": true
+}

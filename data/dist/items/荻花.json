@@ -1,0 +1,42 @@
+{
+  "name": "荻花",
+  "original_name": "荻花",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "荻花是蛮荒天下甲申帐天才剑修涒滩的本命飞剑。其神通极为适合大规模沙场厮杀，通过模拟蛮荒大地 的山川气韵，能造就出无可匹敌的重装骑兵幻象。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第819章 问剑做客两不误",
+      "owner": "柳玉"
+    },
+    {
+      "chapter": "第995章 有限杯长少年",
+      "owner": "柳玉"
+    }
+  ],
+  "subtype": "攻伐类 / 阵法类",
+  "holder": "涒滩",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为蛮荒天下“百剑仙”种子的本命飞剑，具备跻身仙兵品秩的成长空间。",
+  "supernatural_ability": "“铁骑大军”：出剑时能幻化出大规模的甲骑重装大军，枪矟皆附有五彩小幡，可演化蛮荒五岳山根真意 进行沙场破阵。",
+  "evolution": {
+    "current_form": "本命飞剑。",
+    "materials_consumed": [
+      "蛮荒五岳山根土壤",
+      "剑修本命真元"
+    ],
+    "potential_evolution": "随着持有者破境，飞剑显化出的军阵规模与五行压胜之力将成倍增长。"
+  },
+  "visual": {
+    "static": "飞剑本体藏于本命窍穴内。",
+    "active": "剑光掠过，地面升起泥土高台，四周出现密密麻麻的五彩甲骑，气势雄浑，横扫战场。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下天才剑修涒滩本命孕育。",
+    "karma_link": "在剑气长城战场上作为甲申帐的核心战力，曾与陈平安及齐狩所在的战区近距离对峙。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "螭虎钮玉玺",
+  "original_name": "凝运神宝 / 巡狩天下之宝",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这枚玉玺是文景国的传国重宝，曾在史书中有明确记载。它不仅是一件贵重的古董，更是承载着某种“ 亡国气运”的神秘法器，曾被多方势力窥探 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第374章 他乡遇故知",
+      "owner": "刘杆子"
+    }
+  ],
+  "subtype": "气运类 / 压胜类",
+  "holder": "陈平安 / 崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文景国皇室",
+      "relation": "原主"
+    },
+    {
+      "name": "陆台",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为文景国十七宝之一，若集齐整套可掌控一国乃至一洲的部分气运 。",
+  "supernatural_ability": "**“气运压胜”**。玺文篆刻“范围天地，幽赞神明”，具备极强的因果压胜之力，甚至能影响周边山水神 灵的神位 。",
+  "evolution": {
+    "current_form": "黄金质地，方二寸的螭虎钮玉玺 。",
+    "materials_consumed": [
+      "国运龙气",
+      "上古金精"
+    ],
+    "potential_evolution": "可作为重建一国太庙的法理根基 。"
+  },
+  "visual": {
+    "static": "金光灿烂，钮部雕刻有一尊栩栩如生的螭虎，透着威严古意 。",
+    "active": "祭出时伴有龙吟声，能够镇压四方，使邪祟不可近身 。"
+  },
+  "provenance": {
+    "origin": "源自宝瓶洲南部已覆灭的大王朝文景国 。",
+    "karma_link": "崔东山在蜂尾渡从“刘杆子”手中捡漏获得，后用于桐叶洲的复国谋划 。"
+  },
+  "enriched": true
+}

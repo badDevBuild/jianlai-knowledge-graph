@@ -1,0 +1,72 @@
+{
+  "name": "仿白玉京",
+  "original_name": "玉符宫青铜宝塔",
+  "type": "法宝",
+  "grade": "仙家重宝",
+  "status": "活跃",
+  "description": "此物是陈平安通过战场缴获获得的高端法宝。它不仅是提升修为的辅助工具，更是他构建“心相天地”中 防卫体系的核心建筑之一 [4-6]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第714章 出两剑",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第731章 仰天大笑，夫复何言",
+      "owner": "崔瀺"
+    },
+    {
+      "chapter": "第867章 剑斩飞升巅峰",
+      "owner": "陈平安 (炼化)"
+    },
+    {
+      "chapter": "第1146章 毫无还手之力",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1164章 人间压胜",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1209章 凛然气",
+      "owner": "大骊王朝/陈平安"
+    }
+  ],
+  "subtype": "镇压类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "离真",
+      "relation": "曾持有"
+    },
+    {
+      "name": "荷花庵主",
+      "relation": "赠予者"
+    },
+    {
+      "name": "玉符宫祖师",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "本为仙兵品秩，虽因变故跌境为法宝，但可通过大炼恢复其“五城十二楼”的巅峰气象 。",
+  "supernatural_ability": "能够炼化人身小天地自行孕育的五行之气，辅助温养本命物；并可显化为巍峨宝塔镇压一方气府 。",
+  "evolution": {
+    "current_form": "袖珍青铜宝塔，目前大炼后坐镇于陈平安的山祠气府 。",
+    "materials_consumed": [
+      "五行精华",
+      "神灵金身碎片"
+    ],
+    "potential_evolution": "完全恢复后可重现远古白玉京的部分大道规则 。"
+  },
+  "visual": {
+    "static": "晶莹剔透，造型参照上古白玉京五城十二楼，古意盎然 。",
+    "active": "祭出时可变幻为百丈高的巍峨建筑，道气宏大，五彩云雾升腾 。"
+  },
+  "provenance": {
+    "origin": "原为玉符宫镇山之宝，后落入蛮荒天下荷花庵主之手 。",
+    "karma_link": "作为离真围剿陈平安时的阵法枢纽，在离真战死后被陈平安捡漏所得 。"
+  },
+  "enriched": true
+}

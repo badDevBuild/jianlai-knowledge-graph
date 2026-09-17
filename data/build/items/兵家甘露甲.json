@@ -1,0 +1,48 @@
+{
+  "name": "兵家甘露甲",
+  "original_name": "神人承露甲",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是兵家梦寐以求的护身重宝。陈平安持有的这副（如‘西嶽’）是传说中的八副祖宗甲之一，不仅防御 力惊人，还承载了某种古老的神道因果 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第490章 肤腻城的下马威",
+      "owner": "壮硕男子"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "魏羡/高陵",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    },
+    {
+      "name": "灵芝斋",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为兵家祖宗甲之一，若能重新炼化完整，杀力与防御力均可媲美仙兵",
+  "supernatural_ability": "可收缩为甲丸，灌注真气后化为覆盖全身的重甲，对水火雷电具有极强的抗性",
+  "evolution": {
+    "current_form": "银色或金色的全身宝甲，护心镜处精光闪闪",
+    "materials_consumed": [
+      "远古神灵金身碎片",
+      "香火"
+    ],
+    "potential_evolution": "集齐特定甲丸可获得远古神灵的法相真意"
+  },
+  "visual": {
+    "static": "平时为一颗青白色或金色的珠子（甲丸），触手生温",
+    "active": "化为粘稠的水银流淌全身，形成坚不可摧的光明铠，具有威严的神灵气象"
+  },
+  "provenance": {
+    "origin": "由墨家机关师与道家符箓派联手仿造远古神甲而制",
+    "karma_link": "陈平安在倒悬山捡漏得之，后分别赠予或暂借给心腹武夫"
+  },
+  "enriched": true
+}

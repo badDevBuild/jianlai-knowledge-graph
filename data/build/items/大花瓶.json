@@ -1,0 +1,48 @@
+{
+  "name": "大花瓶",
+  "original_name": "龙窑制青瓷花瓶",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不仅仅是一件珍贵的瓷器。它是大骊太后隐藏真实身 份的媒介，也是陈平安找回自身命运碎片的重要突破口 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第832章 国师陈平安",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第835章 十四",
+      "owner": "陈平安 (购买)"
+    }
+  ],
+  "subtype": "因果类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "客栈掌柜",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为陈平安本命瓷的载体，是其大道圆满不可或缺的一 环 。",
+  "supernatural_ability": "底部的吉语款识包含隐秘的封禁阵法，能完美隐藏其内 部的本命灯火 。",
+  "evolution": {
+    "current_form": "外形魁梧、瓷质温润的大型龙窑瓷器 。",
+    "materials_consumed": [
+      "龙窑瓷土",
+      "古老咒印"
+    ],
+    "potential_evolution": "碎裂后显化为陆绛（大骊太后）的真名与本命灯 。"
+  },
+  "visual": {
+    "static": "高约半人，施粉白釉，瓶身绘有仕女图，底款字迹古怪 。",
+    "active": "碎裂时伴随着水汽蒸腾，文字离瓷飞升，显现异象 。"
+  },
+  "provenance": {
+    "origin": "产自大骊龙泉郡（原骊珠洞天）的老龙窑 。",
+    "karma_link": "被陈平安从大骊京城的一处客栈中寻见并买下 。"
+  },
+  "enriched": true
+}

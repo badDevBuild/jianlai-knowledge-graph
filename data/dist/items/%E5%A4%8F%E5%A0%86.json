@@ -1,0 +1,44 @@
+{
+  "name": "夏堆",
+  "original_name": "夏堆竹剑 / 近知佩剑",
+  "type": "匠器",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是陆台送给唯一关门弟子的礼物。在陆台口中，虽称 其“不值一提”，实则寄予了极高的期望 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1068章 碧波万顷客眼青",
+      "owner": "近知"
+    }
+  ],
+  "subtype": "武器/信物类",
+  "holder": "近知 (陆台弟子)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆台",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽然目前材质普通，但因承载陆台的剑道感悟与“近道” 因果，有望孕育剑灵 。",
+  "supernatural_ability": "虽为竹剑，却有庚金之气，能断凡俗铁石，具备“夏日 消融”之意 。",
+  "evolution": {
+    "current_form": "一把由陆台亲手刻字、送给关门弟子的竹剑 。",
+    "materials_consumed": [
+      "藕花福地老竹",
+      "陆台剑气"
+    ],
+    "potential_evolution": "随近知武道登顶，可演化为法宝品秩的“青竹飞仙剑” 。"
+  },
+  "visual": {
+    "static": "竹色沉稳，剑身上以小楷刻有“夏堆”二字 。",
+    "active": "出剑时青气缭绕，虽然杀力不显，却法度森严 。"
+  },
+  "provenance": {
+    "origin": "由陆台在藕花福地芙蓉山为弟子量身打造 。",
+    "karma_link": "连接了陆台的散淡心性与后辈的修行愿景 。"
+  },
+  "enriched": true
+}

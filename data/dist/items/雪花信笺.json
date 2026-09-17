@@ -1,0 +1,38 @@
+{
+  "name": "雪花信笺",
+  "original_name": "岁除宫信纸",
+  "type": "材料",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "**雪花信笺**是岁除宫的特产。它不仅是文房雅玩，更 是吴霜降施展通天手段、追踪因果的媒介。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第776章 落魄山待客之道",
+      "owner": "吴霜降"
+    }
+  ],
+  "subtype": "书信/符箓类",
+  "holder": "吴霜降",
+  "holder_relation": "持有",
+  "rank": "灵物",
+  "rank_potential": "随书写者道力提升，可作为承载天道感应的姻缘秘符。",
+  "supernatural_ability": "自带岁除宫特有的清凉之气，最宜道侣间传递情丝，具 有“千里追踪”与“因果牵引”的隐秘效果。",
+  "evolution": {
+    "current_form": "质地细腻、散发冷冽气息的洁白信纸。",
+    "materials_consumed": [
+      "岁除宫寒泉水",
+      "云海精华"
+    ],
+    "potential_evolution": "可被炼化为无视小天地禁制的传讯符。"
+  },
+  "visual": {
+    "static": "洁白无瑕，表面隐约可见细微的冰晶纹路。",
+    "active": "书写后可化为折纸白蛇等形态游走虚空，即便被斩断也 能留下线索。"
+  },
+  "provenance": {
+    "origin": "青冥天下岁除宫自制。",
+    "karma_link": "吴霜降曾以此纸追踪陈平安，代表了岁月流逝中“当时 只道是寻常”的眷恋。"
+  },
+  "enriched": true
+}

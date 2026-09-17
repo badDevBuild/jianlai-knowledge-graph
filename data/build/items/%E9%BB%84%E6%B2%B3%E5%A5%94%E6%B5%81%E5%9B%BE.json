@@ -1,0 +1,38 @@
+{
+  "name": "黄河奔流图",
+  "original_name": "光阴走马图",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不只是一幅画，而是陈平安对天地脉络的深刻解构。 它承载了其在剑气长城和浩然天下的全部心路历程。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第962章 陌上又花开",
+      "owner": "果然(龙门前辈)"
+    }
+  ],
+  "subtype": "记录/道场类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为陈平安构建“三千小千世界”的蓝图，具有演化为真 实位面的潜力。",
+  "supernatural_ability": "通过复刻心湖所见山水，能够在人身小天地内搭建出无 限接近真实的地基，用于炼剑与合道。",
+  "evolution": {
+    "current_form": "陈平安识海中彩绘与白描交织的画卷。",
+    "materials_consumed": [
+      "千万里足迹",
+      "光阴流水"
+    ],
+    "potential_evolution": "演化为支撑十四境大道的“山河册”。"
+  },
+  "visual": {
+    "static": "纸上景象繁复，人物与河流跃然纸上，仿佛时刻都在变 幻。",
+    "active": "当主身翻阅时，画中人物会“自觉”流转，构建出真实幻 境。"
+  },
+  "provenance": {
+    "origin": "由陈平安在游历途中凭借记忆与剑意感悟而成。",
+    "karma_link": "是陈平安将学问与剑道结合，算计蛮荒天下的重要工具 。"
+  },
+  "enriched": true
+}

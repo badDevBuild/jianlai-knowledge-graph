@@ -1,0 +1,48 @@
+{
+  "name": "神仙窟古砚",
+  "original_name": "双螭龙古砚",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件承载了**“神仙”名实**的顶级文玩。砚中螭龙代表了古老的水法真意，是落魄山家底中最为** 雅致且神秘**的重器之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第853章 猜错的谜底",
+      "owner": "陈灵均"
+    }
+  ],
+  "subtype": "文房类 / 辅助类",
+  "holder": "陈灵均",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "原主"
+    },
+    {
+      "name": "周米粒",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "砚体自成洞府，若长期温养，砚中螭龙有希望演化为真实的守护神灵 。",
+  "supernatural_ability": "“螭龙点睛”。砚台侧面有“神仙窟”铭文，通过敲击螭龙头颅，可唤醒金瞳，生发出神异的金色涟漪 。",
+  "evolution": {
+    "current_form": "一方趴有一对袖珍螭龙的古旧石砚 。",
+    "materials_consumed": [
+      "远古神灵金身碎屑",
+      "大渎水运精华"
+    ],
+    "potential_evolution": "可作为炼化“外丹”或“水法本命物”的中枢鼎炉 。"
+  },
+  "visual": {
+    "static": "质地深邃如渊，螭龙雕刻栩栩如生，散发出淡淡的神圣气息 。",
+    "active": "金色涟漪弥漫，砚池内的墨汁如同融化的金液，显现出星辰坠落或大江横流的幻象 。"
+  },
+  "provenance": {
+    "origin": "吴霜降在夜航船上赠予周米粒的重宝之一 。",
+    "karma_link": "现由陈灵均持有，常被其带往骑龙巷草头铺子与贾老神仙交流“鉴宝”心得 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "折纸乌衣燕子",
+  "original_name": "九嶷山信物",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是由九嶷山神亲自赠送给文圣一脉的珍贵礼品，与千年菖蒲等物齐名 。它代表了中土顶级山神对文圣一脉复位的礼敬 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第805章 白衣与青衫",
+      "owner": "老秀才(转赠)"
+    },
+    {
+      "chapter": "第816章 大鱼如龙",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文运类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "九嶷山神",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为中土大山君赠予圣贤的礼品，具备极高的文运加持潜力 。",
+  "supernatural_ability": "能够承载并指引一地的文脉走向，是极其罕见的文运显化之物 。",
+  "evolution": {
+    "current_form": "一只形态生动的折纸燕子 。",
+    "materials_consumed": [
+      "中土九嶷山文气",
+      "秘制符纸"
+    ],
+    "potential_evolution": "可演化为具有灵性的文脉守护精魅。"
+  },
+  "visual": {
+    "static": "乌衣样式的纸折燕子，质地厚重且透着一股书卷气 。",
+    "active": "激活时燕子如同活物，羽翼间隐约有金色文字流转。"
+  },
+  "provenance": {
+    "origin": "中土神洲九嶷山神祠的秘藏信物 。",
+    "karma_link": "九嶷山神在中土文庙功德林向文圣道贺时赠送的礼物 。"
+  },
+  "enriched": true
+}

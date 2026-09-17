@@ -1,0 +1,44 @@
+{
+  "name": "关牒",
+  "original_name": "通关文牒 / 行走符",
+  "type": "其他",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "**关牒在书中是“规矩”二字的具象化载体** 。它标志着修士被纳入了世俗与山上的双重秩序系统 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第478章 山中鹧鸪声",
+      "owner": "龙泉剑宗"
+    }
+  ],
+  "subtype": "身份类",
+  "holder": "远游修士 / 谍子",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊礼部",
+      "relation": "发放者"
+    }
+  ],
+  "rank": "其他",
+  "rank_potential": "可演化为获得天地认可的“山水谱牒” 。",
+  "supernatural_ability": "允许持有者合法出入各国关隘，高阶关牒可免受地方山水神祇的恶意盘 查 。",
+  "evolution": {
+    "current_form": "盖有官方大印和特定年号的纸质或木质文书 。",
+    "materials_consumed": [
+      "特制宣纸",
+      "王朝官气"
+    ],
+    "potential_evolution": "可升级为带有圣人护持之力的“无事牌”。"
+  },
+  "visual": {
+    "static": "字体工整，法度严密，散发着一股肃穆的案牍香气 。",
+    "active": "通过阵法检测时，关牒上的文字会泛起微弱红光 。"
+  },
+  "provenance": {
+    "origin": "由各世俗王朝礼部或大骊刑部统一颁发 。",
+    "karma_link": "连接了山下朝廷对山上修士的管辖，也是陈平安掩护身份的必备物 。"
+  },
+  "enriched": true
+}

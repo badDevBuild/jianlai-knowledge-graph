@@ -1,0 +1,44 @@
+{
+  "name": "十二月青花五彩花神杯",
+  "original_name": "五彩十二月花神酒杯",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是人间爱酒之人的终极心头好。不仅是顶级的文房杂 项，更是承载了浩然天下的才情与香火 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1202章 既然事功何为回报",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养/气运类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "豪素 (刑官)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "集齐一套后可作为开辟“百花园”道场的根基，辅助领悟 百花意境 。",
+  "supernatural_ability": "每只杯子对应一位月度花神，杯身写有应景诗。饮酒时 可引动百花福地之文运，净化神魂 。",
+  "evolution": {
+    "current_form": "制作极尽精美的五彩瓷杯，绘有神态各异的女子花神 。",
+    "materials_consumed": [
+      "百花福地文运",
+      "仙家瓷泥"
+    ],
+    "potential_evolution": "若能获得对应花神法相降真，可升格为半仙兵 。"
+  },
+  "visual": {
+    "static": "胎薄如纸，釉色莹润，青花与五彩交相辉映，充满人间 雅趣 。",
+    "active": "倒入美酒后，杯中花神仿佛活过来，呈现出“花间夜游” 的虚幻奇景 。"
+  },
+  "provenance": {
+    "origin": "产自百花福地，由历代命主花神亲自加持 。",
+    "karma_link": "见证了陈平安在剑气长城劳狱中与豪素的一段杯酒因缘 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,40 @@
+{
+  "name": "白杨木柄刀",
+  "original_name": "白杨刃",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一把**低调而致命**的兵器，其主人虽然在文庙议 事期间名声不显，但在陈平安眼中，其用刀法度已臻化 境 。",
+  "aliases": [
+    "乌鞘长刀"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第879章 动我心弦者",
+      "owner": "秦不疑"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "中土女修",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随持刀者战功积累，可晋升为具备“斩青空”意境的重器 。",
+  "supernatural_ability": "刀柄由特殊白杨木制成，刀锋极薄且韧性极佳，能在水 汽弥漫之地保持极致的锋锐 。",
+  "evolution": {
+    "current_form": "一把装饰简朴、白木柄身、刀影如月的战刀 。",
+    "materials_consumed": [
+      "白杨精魄",
+      "北俱百炼金"
+    ],
+    "potential_evolution": "若能获得“名泉”法刀的洗练，可进阶为半仙兵 。"
+  },
+  "visual": {
+    "static": "刀柄苍白，质感温润，刀身无光，杀意内敛 。",
+    "active": "挥动时带起一线白虹，具有切割水脉、断绝灵气的效果 。"
+  },
+  "provenance": {
+    "origin": "中土神洲某座兵家道场 。",
+    "karma_link": "陈平安在七里泷远游途中偶遇此刀主人，感叹天下卧虎 藏龙 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "大骊石碑",
+  "original_name": "界记碑 / 镇妖碑",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这些石碑是大骊王朝对自然地理进行“科层化”管理的物 化标志。它们不仅是地理界标，更是承载王朝法度与圣 贤道理的镇压之物 [9-11]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第939章 桃叶见到桃花",
+      "owner": "大骊王朝"
+    }
+  ],
+  "subtype": "镇压/气运类",
+  "holder": "大骊王朝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊工部/礼部",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着大骊国力扩张与山水神灵归位，石碑可升格为镇压 一洲气运的礼器 。",
+  "supernatural_ability": "石碑篆文带有王朝威严，能稳固地脉，镇压潜伏的阴物 与煞气 。",
+  "evolution": {
+    "current_form": "矗立在交通要冲或秘境入口的厚重石碑 。",
+    "materials_consumed": [
+      "大骊国运",
+      "名家笔墨"
+    ],
+    "potential_evolution": "可演化为沟通大骊京城“白玉京”的中枢节点。"
+  },
+  "visual": {
+    "static": "刻工规矩，字迹带有金石气息，正面多书写“奉官立禁” 等语 。",
+    "active": "当邪祟靠近时，碑文会泛起微弱金光，形成屏障 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝为了规范山下秩序、掌控山水气运而推行 。",
+    "karma_link": "陈平安在远游途中多次参考此类石碑确定地理与禁忌 。"
+  },
+  "enriched": true
+}

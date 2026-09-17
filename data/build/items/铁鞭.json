@@ -1,0 +1,44 @@
+{
+  "name": "铁鞭",
+  "original_name": "金色雷鞭 / 金雷竹鞭",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是由雷电精华凝练而成的天然兵器，对阴性生物具有致命的克制作用。陈平安对其极为看重，视其为 赠予弟子的重礼。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第288章 对敌",
+      "owner": "手持铁鞭的壮汉"
+    }
+  ],
+  "subtype": "压胜类 / 攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "小炼",
+  "previous_holders": [
+    {
+      "name": "敕雷神将",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "产自积霄山雷池，是炼制“打鬼鞭”的绝佳核心，未来可升格为法宝。",
+  "supernatural_ability": "**“驱邪镇煞”**。天然压胜成道于地底的精怪与鬼魅，挥动间带有雷电真意。",
+  "evolution": {
+    "current_form": "手臂长短、状若青竹的金色雷池脉络。",
+    "materials_consumed": [
+      "雷池电浆",
+      "天地威权"
+    ],
+    "potential_evolution": "陈平安打算将其炼化为一根给大弟子（裴钱）使用的行山杖。"
+  },
+  "visual": {
+    "static": "金灿灿的竹鞭形状，表面布满密密麻麻的雷击刻痕，沉甸甸且触手生威。",
+    "active": "挥舞时伴有震耳欲聋的雷鸣声，能激发出的金色闪电锁链。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲鬼蜮谷积霄山雷池外溢的脉络显化之物。",
+    "karma_link": "陈平安在鬼蜮谷历练时从敕雷神将领地挖掘得手，被姜尚真评价为“品秩极好的先天灵器”。"
+  },
+  "enriched": true
+}

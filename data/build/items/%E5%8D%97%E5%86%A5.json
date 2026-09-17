@@ -1,0 +1,60 @@
+{
+  "name": "南冥",
+  "original_name": "陆沉八剑之一",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陆沉八剑之一，是一把极具功能性的道剑。它能够改变战场空间尺度，使陆芝在面对重型法宝攻伐或飞 剑攒射时，拥有极强的周旋空间 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第856章 两三事",
+      "owner": "陆芝"
+    },
+    {
+      "chapter": "第861章 开山",
+      "owner": "陆芝"
+    },
+    {
+      "chapter": "第876章 各有渡口",
+      "owner": "陆芝"
+    },
+    {
+      "chapter": "第1164章 人间压胜",
+      "owner": "陆芝"
+    }
+  ],
+  "subtype": "阵法类 / 空间类",
+  "holder": "陆芝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "拥有白玉京顶级空间道法加持，具备极强的防御与困敌潜力 。",
+  "supernatural_ability": "握剑在手即可开启一座“天心方丈”大阵，使持剑者仿佛置身于天池大水中央，产生空间折叠效果，令敌 方难以近身 。",
+  "evolution": {
+    "current_form": "袖珍长剑，藏于陆沉剑盒 。",
+    "materials_consumed": [
+      "南华城道韵",
+      "空间法则精华"
+    ],
+    "potential_evolution": "可作为大型剑阵的核心空间枢纽，承载更高级别的太虚意境 。"
+  },
+  "visual": {
+    "static": "细如丝线，微缩于剑盒之中，剑身晶莹 。",
+    "active": "激发时会显化出广袤的天池大水幻象，将持剑者与外界隔绝开来 。"
+  },
+  "provenance": {
+    "origin": "白玉京三掌教陆沉亲手炼制 。",
+    "karma_link": "陆沉以此剑寓意其对《南华经》中“南冥者，天池也”之道的理解 。"
+  },
+  "enriched": true
+}

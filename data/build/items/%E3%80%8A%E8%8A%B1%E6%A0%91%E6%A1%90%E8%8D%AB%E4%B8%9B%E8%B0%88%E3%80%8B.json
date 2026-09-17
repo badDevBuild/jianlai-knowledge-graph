@@ -1,0 +1,44 @@
+{
+  "name": "《花树桐荫丛谈》",
+  "original_name": "桐叶洲山水档案",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是下宗**青萍剑宗**用来统筹山河的核心典籍。 它通过**崔东山**的精妙布局，将破碎的桐叶洲脉络重新串联，具有重大的**战略与大道**意义 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第590章 连雨不知春将去",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "记录/气运类",
+  "holder": "青萍剑宗",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "编撰者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随下宗对桐叶洲山河的缝补与经营，此书将成为一洲气运的总纲。",
+  "supernatural_ability": "详细记载了桐叶洲各处仙府遗址、龙宫秘境及山水神灵的脉络 。",
+  "evolution": {
+    "current_form": "汇集了一洲风土与仙家内幕的厚重册子 。",
+    "materials_consumed": [
+      "大理史书",
+      "山水点检谍报"
+    ],
+    "potential_evolution": "可演化为用于管理下宗所有镜花水月与邸报的“花月局”核心 。"
+  },
+  "visual": {
+    "static": "封面古朴，内页文字细密，夹杂有大量的标注与画图 。",
+    "active": "翻阅时可感知整座桐叶洲的山河律动，甚至能定位隐匿的妖族 。"
+  },
+  "provenance": {
+    "origin": "由崔东山在桐叶洲建立下宗期间整合各方资源编撰 。",
+    "karma_link": "是落魄山“缝补一洲人心”计划的具体体现 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "白瓷洞天",
+  "original_name": "天谣乡下宗道场",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "白瓷洞天不仅是修道圣地，更是财源广进的聚宝盆。其 独特的瓷玉矿脉是维持其超然地位的关键 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1204章 大匠示人以规矩",
+      "owner": "刘蜕"
+    }
+  ],
+  "subtype": "地理/洞天类",
+  "holder": "刘蜕 (天谣乡)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古龙宫遗址",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为三十六小洞天之一，其产出的如瓷美石是炼制顶级 仙器和货币的根本资粮 。",
+  "supernatural_ability": "出产一种天然如瓷如玉、蕴藉沛然灵气的矿产，可源源 不断产生“白瓷神仙钱” 。",
+  "evolution": {
+    "current_form": "位于流霞洲的一座大型小洞天秘境 。",
+    "materials_consumed": [
+      "地脉龙气",
+      "万年水运"
+    ],
+    "potential_evolution": "可成为两洲商贸往来的核心枢纽 。"
+  },
+  "visual": {
+    "static": "洞天内山川皆呈现出莹白的瓷器质感，灵气浓郁成雾 。",
+    "active": "当修士在其中修行时，四周山河会显现出类似于“官窑 点睛”的神异流光 。"
+  },
+  "provenance": {
+    "origin": "由天谣乡占据并经营多年，是该派在一洲立身之本 。",
+    "karma_link": "涉及刘蜕由飞升境跌落后的养伤因果及宗门气运重塑 。"
+  },
+  "enriched": true
+}

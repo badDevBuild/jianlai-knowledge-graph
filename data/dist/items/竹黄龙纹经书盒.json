@@ -1,0 +1,43 @@
+{
+  "name": "竹黄龙纹经书盒",
+  "original_name": "娇黄阴沉木木匣",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是李槐远游求学路上的重要收获，虽然李槐并不常看里面的书，但它保护了多件珍贵的仙家机缘 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第565章 还乡",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "存储类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "木材质地经久不衰，内部空间极其稳固，适合存放各类仙家秘笈 。",
+  "supernatural_ability": "自带异香，能够保护内部书籍、傀儡等物不朽不坏 。",
+  "evolution": {
+    "current_form": "长条形的阴沉木木匣 。",
+    "materials_consumed": [
+      "岁月灵气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "由于埋在泥土中无数年，色泽由黄转红，表面有天然或雕琢的纹路 。",
+    "active": "开启时伴有淡雅异香，内部装满了李槐的“家底” 。"
+  },
+  "provenance": {
+    "origin": "源自棋墩山地底，由魏檗赠予李槐 。",
+    "karma_link": "李槐将其视为最重要的宝箱，存放着包括彩绘木偶在内的所有机缘 。"
+  },
+  "enriched": true
+}

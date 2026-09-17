@@ -1,0 +1,35 @@
+{
+  "name": "横星斗",
+  "original_name": "资料不足",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "在提供的资料中，未发现名为“横星斗”的特定法宝、飞剑或道具。资料中虽提及了与“星宿”、“星斗”相 关的阵法及其对应方位 ，但并未包含此项单品的具体背景细节。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第592章 境界于我无意思",
+      "owner": "某仙人境老剑仙"
+    }
+  ],
+  "subtype": "未知",
+  "holder": "未知",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "资料不足",
+  "supernatural_ability": "资料不足",
+  "evolution": {
+    "current_form": "未知",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "无详细描述",
+    "active": "无详细描述"
+  },
+  "provenance": {
+    "origin": "资料不足",
+    "karma_link": "无"
+  },
+  "enriched": true
+}

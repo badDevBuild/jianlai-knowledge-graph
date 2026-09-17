@@ -1,0 +1,50 @@
+{
+  "name": "雪白法袍",
+  "original_name": "金醴 / 龙女仙衣",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此法袍真名为金醴，是大数之祖遗落在人间的至宝 。陈平安在大骊京城为了掩人耳目，请剑仙将其伪装成普通的雪白法袍，并通过后期的大量投入使其 重返仙兵品秩 。",
+  "aliases": [
+    "雪花法袍"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第490章 肤腻城的下马威",
+      "owner": "陈平安(战利品)"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "龙虎山天师府贵人",
+      "relation": "原主"
+    },
+    {
+      "name": "蛟龙沟元婴老蛟",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "通过喂食大量的金精铜钱与炼化神灵金身碎块，该法袍具备从半仙兵晋升为顶级仙兵的潜质 [1-3]。",
+  "supernatural_ability": "能够自行汲取并转化天地灵气，滋养持有者的气府与神魂 ；具备强大的防御禁制，能抵御大修士的直接攻击 。",
+  "evolution": {
+    "current_form": "由剑仙施加障眼法后的雪白色长袍 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "琉璃金身碎块"
+    ],
+    "potential_evolution": "可成长为品秩极高的防守重器 。"
+  },
+  "visual": {
+    "static": "常态下是一件质地细腻、一尘不染的雪白长袍 。",
+    "active": "当灵气饱满或禁制全开时，显现出金光流溢的团龙衔珠图案 。"
+  },
+  "provenance": {
+    "origin": "源自龙虎山天师府的一位仙人遗物 。",
+    "karma_link": "由陈平安从蛟龙沟老蛟处获得，是其远游历练的重要助力 。"
+  },
+  "enriched": true
+}

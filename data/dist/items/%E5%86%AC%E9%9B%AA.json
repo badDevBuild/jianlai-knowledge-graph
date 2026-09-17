@@ -1,0 +1,37 @@
+{
+  "name": "冬雪",
+  "original_name": "四时法门 / 一万零一法",
+  "type": "其他",
+  "grade": "法术",
+  "status": "消耗",
+  "description": "李希圣四时法门中的最后一道防线，代表冬季的收藏与寂灭，是其道法圆融、不留余地的体现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第183章 他有春叶夏雷秋风冬雪",
+      "owner": "李希圣"
+    }
+  ],
+  "subtype": "道意类 / 镇压类",
+  "holder": "李希圣",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "可演化为冻结光阴长河的极致禁制 。",
+  "supernatural_ability": "“寒意冻结”。鹅毛大小的雪片可瞬间冰封敌方气机，使飞剑轨迹变得滞缓沉重 。",
+  "evolution": {
+    "current_form": "一片片鹅毛大小的晶莹雪花 。",
+    "materials_consumed": [
+      "冬季寂灭意"
+    ],
+    "potential_evolution": "在大全境地中可显化为“琉璃仙境”级别的防御屏障 。"
+  },
+  "visual": {
+    "static": "洁白无暇，触之生寒 。",
+    "active": "漫天飞舞，雪落之处天地陷入寂静，强行压制一切灵力波动 。"
+  },
+  "provenance": {
+    "origin": "李希圣通过观测“万物归位”的冬寂规律炼化而成 。",
+    "karma_link": "见证了李希圣以“万法”围困“一剑”的经典战例 。"
+  },
+  "enriched": true
+}

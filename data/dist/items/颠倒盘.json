@@ -1,0 +1,44 @@
+{
+  "name": "颠倒盘",
+  "original_name": "阴阳颠倒阵盘",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "涉及“颠倒乾坤”之理的阵法中枢。强大的阵师能以此在小范围内改天换地。陆沉曾提及这种“颠倒”之意 是操纵光阴长河的关键之一 。",
+  "aliases": [
+    "颠倒盘"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第122章 雷法捉妖",
+      "owner": "老道人"
+    },
+    {
+      "chapter": "第123章 狭路相逢",
+      "owner": "目盲老道"
+    }
+  ],
+  "subtype": "阵法类",
+  "holder": "阵师 / 算命道士",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "高阶者可颠倒乾坤、逆转小天地内的阴阳五行 。",
+  "supernatural_ability": "混淆天机，遮蔽身形，使阵中之人方向感丧失，阴阳位置置换 。",
+  "evolution": {
+    "current_form": "刻有八卦或天干地支的罗盘 。",
+    "materials_consumed": [
+      "星辰精华",
+      "地脉气数"
+    ],
+    "potential_evolution": "可演化为能够逆转光阴长河的恐怖阵法 。"
+  },
+  "visual": {
+    "static": "铜制或玉制圆盘，中心有指针，四周密布复杂铭文 。",
+    "active": "盘面旋转时，周围空间产生琉璃崩碎般的视觉扭曲 。"
+  },
+  "provenance": {
+    "origin": "源自阴阳家或术家，涉及复杂的星象观测技术 。",
+    "karma_link": "代表了对天地规矩的一种模拟与操纵 。"
+  },
+  "enriched": true
+}

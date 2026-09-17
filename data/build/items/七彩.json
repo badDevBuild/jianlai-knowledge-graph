@@ -1,0 +1,38 @@
+{
+  "name": "七彩",
+  "original_name": "七彩",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "七彩是女子剑仙周澄的本命飞剑 。该剑以其独特的“七色分化”神通著称，虽然外表绚烂夺目，但在战场上的杀伤力极其恐怖 。陈平安曾感叹该剑分化出的七色剑光，就如同让周澄一人拥有了七把本命飞剑 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第617章 谁能与宁姚般配",
+      "owner": "周澄"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "周澄",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为女子剑仙周澄的本命物，杀力位列剑气长城顶尖水平 。",
+  "supernatural_ability": "剑光可以同时分化出七种色彩，每一道剑光都如同一把独立的本命飞剑 。",
+  "evolution": {
+    "current_form": "本命飞剑形态 。",
+    "materials_consumed": [
+      "七色剑意",
+      "纯粹真气"
+    ],
+    "potential_evolution": "随着周澄在城头不断历练，其分化出的七色剑光威力更加凝聚 。"
+  },
+  "visual": {
+    "static": "剑身周围环绕着若隐若现的七彩丝线 。",
+    "active": "在战场之上疯狂游走，分化出七色绚烂剑光，所过之处残肢断骸飞溅 。"
+  },
+  "provenance": {
+    "origin": "周澄本命孕育 。",
+    "karma_link": "因周澄在城头荡秋千的独特姿态，其飞剑亦带有一种灵动而残酷的美感 。"
+  },
+  "enriched": true
+}

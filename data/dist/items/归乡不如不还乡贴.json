@@ -1,0 +1,44 @@
+{
+  "name": "归乡不如不还乡贴",
+  "original_name": "谢狗游记 / 归乡不如不还乡",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是谢狗（白景）在浩然天下游历期间，尝试以“正经读书人”身份写就的游记开篇，其中包含了老秀才 对故乡与他乡的大道感悟。其文辞虽质朴，却因承载了飞升境大妖的剑意与圣贤之思而显得非同寻常。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第640章 愿挽天倾者请起身",
+      "owner": "大骊皇室"
+    }
+  ],
+  "subtype": "纪实类 / 意境类",
+  "holder": "谢狗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老秀才",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "其他",
+  "rank_potential": "作为记载飞升境剑修心路历程与浩然文脉感悟的载体，具有独特的文运价值。",
+  "supernatural_ability": "字里行间蕴含着对世道变迁的深刻洞察，能引起大道共鸣，遮蔽天机 。",
+  "evolution": {
+    "current_form": "写有游记内容的文字记录",
+    "materials_consumed": [
+      "白纸信笺",
+      "飞升境剑气"
+    ],
+    "potential_evolution": "演化为具备镇压心境、抵御迷障作用的传世字帖。"
+  },
+  "visual": {
+    "static": "书页上以蝇头小楷写就，内容记载了“归乡不如不还乡”的感悟 。",
+    "active": "阅读时似有山水气象浮现，文字间透出一种“落叶西风、人共青山都瘦”的寂寥感 。"
+  },
+  "provenance": {
+    "origin": "由谢狗在远游途中写就，核心辞句源自老秀才对家乡与乱世的感叹 。",
+    "karma_link": "与文圣一脉的家国情怀及剑气长城剑修的归乡情结深刻交织。"
+  },
+  "enriched": true
+}

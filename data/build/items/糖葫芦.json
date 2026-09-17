@@ -1,0 +1,55 @@
+{
+  "name": "糖葫芦",
+  "original_name": "市井零食",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "糖葫芦在《剑来》中具有强烈的隐喻意义，它既是陈平 安年少贫寒时唯一的奢侈品，也是阴阳家邹子布下天下 大局的微观棋子 。",
+  "aliases": [
+    "糖葫芦"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第72章 黑云",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第212章 道高一尺",
+      "owner": "卖糖葫芦的汉子"
+    },
+    {
+      "chapter": "第1199章 万山奉朝请",
+      "owner": "陈平安/宁姚"
+    }
+  ],
+  "subtype": "生活/社交类",
+  "holder": "陈平安 / 裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "邹子",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽是凡俗之物，但承载了主角最初的少年心性与人间温 情 。",
+  "supernatural_ability": "无。但在特定心境下，能让持有者在乱世中守住一份难 得的天真 。",
+  "evolution": {
+    "current_form": "红彤彤的裹糖山楂串 。",
+    "materials_consumed": [
+      "山楂",
+      "麦芽糖",
+      "市井烟火气"
+    ],
+    "potential_evolution": "作为“今日无事”意境的物化，可稳固纯粹武夫的向道之 心 。"
+  },
+  "visual": {
+    "static": "晶莹剔透，红红火火，带有泥瓶巷少年贫寒岁月的印记 。",
+    "active": "无特殊视觉变化，但在阴阳家眼中，它象征着某种大势 的起点 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天骑龙巷的街头摊位 。",
+    "karma_link": "连接了陈平安与邹子之间的因果博弈，也是他作为“教 书先生”安抚弟子的工具 。"
+  },
+  "enriched": true
+}

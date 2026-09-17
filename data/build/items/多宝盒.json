@@ -1,0 +1,52 @@
+{
+  "name": "多宝盒",
+  "original_name": "姚近之赠礼盒 / 九宫格木匣",
+  "type": "方寸物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是姚近之赠送给裴钱的九宫格木匣，是裴钱极其珍视的宝贝。里面装满了她在远游途中搜刮或获赠的 各种奇巧灵器，如灵官牌和木灵芝等 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第363章 谁能借我一剑",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第383章 彩云局",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第405章 山巅斗法",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "收纳类",
+  "holder": "裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姚近之",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为精致的文房玩物，内部空间虽小但胜在分层精巧，可滋养内部灵物的灵性 。",
+  "supernatural_ability": "**“藏珍聚宝”**。九宫格制式，能够隔绝气息，使得盛放在内的灵官牌、木灵芝等灵物始终保持神采 。",
+  "evolution": {
+    "current_form": "装满小玩意儿的多层小匣 。",
+    "materials_consumed": [
+      "沉香木",
+      "大泉宫廷工艺"
+    ],
+    "potential_evolution": "若作为落魄山账房序列的传承，可承载更多气运 。"
+  },
+  "visual": {
+    "static": "做工精美绝伦，每一格都整齐码放着裴钱珍爱的宝贝 。",
+    "active": "裴钱经常在夜深人静时取出欣赏，引动盒内灵物微光流转 。"
+  },
+  "provenance": {
+    "origin": "大泉王朝皇室珍藏 。",
+    "karma_link": "由姚近之在孩儿巷游历时赠予裴钱，成为裴钱行走江湖的第一份“厚实家当” 。"
+  },
+  "enriched": true
+}

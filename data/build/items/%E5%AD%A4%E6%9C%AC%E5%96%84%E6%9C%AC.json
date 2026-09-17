@@ -1,0 +1,49 @@
+{
+  "name": "孤本善本",
+  "original_name": "名家真迹 / 秘藏典籍",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这些书籍是落魄山最厚重的底蕴之一。陈平安极度重视 搜集此类物品，因为他深知“书声琅琅”才是最强的护山 大阵 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1000章 阵容",
+      "owner": "高酿 -> 陈平安"
+    }
+  ],
+  "subtype": "传承/气运类",
+  "holder": "落魄山刻书局 / 种秋 / 韦文龙",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "袁氏家族",
+      "relation": "曾持有"
+    },
+    {
+      "name": "各废弃府邸",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "集齐某一流派的全部原本，可令该道统法脉在宗门重生 。",
+  "supernatural_ability": "包含先贤道意，能自行聚拢文运，防止纸张腐朽或虫蛀 ，部分书籍甚至能产生“文灵” 。",
+  "evolution": {
+    "current_form": "存放在落魄山刻书局或各处宅邸书架上的珍贵书籍 。",
+    "materials_consumed": [
+      "宣纸/皮纸",
+      "经年墨香",
+      "气运"
+    ],
+    "potential_evolution": "作为宗门底蕴，可支撑起如“愿闻吾过斋”这般的文脉道 场 。"
+  },
+  "visual": {
+    "static": "封面古朴，多有藏书印与名家题跋，翻开时有陈年纸墨 的清凉气息 。",
+    "active": "研读至精妙处，文字会浮空放光，映照出先贤讲学的虚 影 。"
+  },
+  "provenance": {
+    "origin": "多从各州郡府志、荒废私宅或山上拍卖会搜求而来 。",
+    "karma_link": "见证了王朝兴衰与文化血脉的断续 。"
+  },
+  "enriched": true
+}

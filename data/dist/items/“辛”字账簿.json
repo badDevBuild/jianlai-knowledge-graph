@@ -1,0 +1,38 @@
+{
+  "name": "“辛”字账簿",
+  "original_name": "蛮荒战损录",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安任隐官期间设立的十本核心账簿之一。专门负责 统计敌方损失，是剑气长城最重要的情报资产 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第901章 山巅问拳",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "记录/计算类",
+  "holder": "避暑行宫 (隐官一脉)",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "随着对蛮荒天下底蕴挖掘的深入，将成为测算一界国力 的根本依据 。",
+  "supernatural_ability": "详细统计蛮荒天下大妖、修士及军阵的战损情况，具备 推演未来战争走向的神异 。",
+  "evolution": {
+    "current_form": "十本名为“天干”的账本之一 。",
+    "materials_consumed": [
+      "战场密报",
+      "修士神识"
+    ],
+    "potential_evolution": "可与其余九本合并为“天地大数册”。"
+  },
+  "visual": {
+    "static": "封面写有古朴的“辛”字，内页写满了密密麻麻的人名与 数字 。",
+    "active": "翻阅时可映射出蛮荒天下的实时战损动态。"
+  },
+  "provenance": {
+    "origin": "由陈平安在剑气长城避暑行宫亲自订立规矩并开始撰写 。",
+    "karma_link": "体现了隐官陈平安以“算账”手段对抗蛮荒大势的策略 。"
+  },
+  "enriched": true
+}

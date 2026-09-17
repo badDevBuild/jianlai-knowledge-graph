@@ -1,0 +1,49 @@
+{
+  "name": "陆沉药方",
+  "original_name": "陆道长药方",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陆沉药方是陈平安接触**白玉京道统**的第一个引子。它不仅提供了实用的医疗手段，更是陆沉在陈平 安身上布下的众多“**随缘先手**”之一，旨在引导其窥见大道的无限广阔 。",
+  "aliases": [
+    "药方"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第70章 天亮",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第175章 敕令",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "医道/道法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "看似是治病救人的药方，实则蕴含**白玉京三掌教**的道门至理，可推演长生大道 。",
+  "supernatural_ability": "“道法接引”。通过临摹药方上的字迹，可以帮助武夫或修士**梳理气机**，破除内心的知障与迷茫 。",
+  "evolution": {
+    "current_form": "几张字迹飘逸、神神道道的黄色纸张 。",
+    "materials_consumed": [
+      "道门玄妙真意"
+    ],
+    "potential_evolution": "若能完全参透，可演化为白玉京一脉的**顶级符箓或禁制** 。"
+  },
+  "visual": {
+    "static": "纸张略显陈旧，但墨色历久弥新，字里行间透着一股逍遥气 。",
+    "active": "研习时文字仿佛会跃然纸上，在识海中演练各种天地运行的轨迹 。"
+  },
+  "provenance": {
+    "origin": "由白玉京三掌教陆沉在骊珠洞天摆摊期间赠予陈平安 。",
+    "karma_link": "与陈平安的**书法修行**以及早期对道门术法的认知启蒙深度绑定 。"
+  },
+  "enriched": true
+}

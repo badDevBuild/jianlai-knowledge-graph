@@ -1,0 +1,45 @@
+{
+  "name": "兜率法衣",
+  "original_name": "兜率宫铢衣",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "一件来自三山福地万瑶宗的顶级法宝，曾由韩绛树穿戴。此衣是典型的“古法”炼制，能够帮助练气士感 悟光阴变迁，甚至能作为跨越天下禁制的凭借。其价值极高，甚至被认为足以作为某些山头开宗立派的 底蕴 [12-14]。",
+  "aliases": [
+    "翠绿色法袍"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1065章 江湖寂寥一百年",
+      "owner": "宫花"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "韩绛树",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "上古陆地真人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "极耗物力，被视为某种程度上的“无字道书”",
+  "supernatural_ability": "能助练气士接触到光阴长河，具有“百岁而一拂”的神通，可用于抵御大修干扰",
+  "evolution": {
+    "current_form": "翠绿法袍",
+    "materials_consumed": [
+      "上古珍稀材料"
+    ],
+    "potential_evolution": "若完全掌握其中禁制，品秩可达仙兵"
+  },
+  "visual": {
+    "static": "呈现翠绿颜色的法袍，样式古老 。",
+    "active": "展现出天象右旋、阴阳两气升降飞扬的瑰丽景象，法衣本身就是一部天书 。"
+  },
+  "provenance": {
+    "origin": "上古岁月产物，极有年月",
+    "karma_link": "与白玉京、岁除宫等道门高层势力相关"
+  },
+  "enriched": true
+}

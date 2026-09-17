@@ -1,0 +1,44 @@
+{
+  "name": "中岳崖刻榜书碑帖",
+  "original_name": "中岳崖刻汇总",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此碑帖承载了中岳山脉数千年的文治功德，相比普通书肆版刻，其文字蕴含的道气极重，是陈平安夯实 “文字”修为的关键物件 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第934章 吾为东道主（四）",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "意境类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "晋青 (中岳山君)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "汇总了旧朱荧王朝中岳所有山头的精华崖刻，具备转化为实质文运的潜力 。",
+  "supernatural_ability": "蕴含两千余片崖刻榜书与碑文石刻的道意，是“炼字”一途的上乘资粮 。",
+  "evolution": {
+    "current_form": "厚重沉稳的碑帖册子 。",
+    "materials_consumed": [
+      "中岳山河道气",
+      "前朝文运"
+    ],
+    "potential_evolution": "炼化后可将文字神意融入本命气府，壮大儒家门生的大道根基 。"
+  },
+  "visual": {
+    "static": "古朴厚重的帖册，字迹厚重，由于摹拓了崖刻神意，显得精气神十足 。",
+    "active": "翻阅时文气流转，仿佛能见千山万水之势 。"
+  },
+  "provenance": {
+    "origin": "由大骊新中岳山君晋青搜集汇总而成 。",
+    "karma_link": "晋青赠予陈平安，用于支持落魄山下宗的文脉底蕴 。"
+  },
+  "enriched": true
+}

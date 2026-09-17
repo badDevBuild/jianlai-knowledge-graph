@@ -1,0 +1,38 @@
+{
+  "name": "云海袈裟",
+  "original_name": "袈裟",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是佛门圣人的一件随身重器。它在大战中被抛掷而出，能够遮蔽方圆十数里的战场，不仅具有强大的 防御力，更能净化邪祟，展现出佛门的无上庄严 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第683章 何处不问剑",
+      "owner": "佛门圣人"
+    }
+  ],
+  "subtype": "防御类 / 镇压类",
+  "holder": "佛门圣人",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "佛门至高重宝，内蕴西方佛国的大道慈悲与圆满法性 。",
+  "supernatural_ability": "可无限张大，遮覆广袤战场，并能显化出清净水面、荷花等祥瑞意境，镇压凶秽 。",
+  "evolution": {
+    "current_form": "僧人所披之袈裟 。",
+    "materials_consumed": [
+      "佛法愿力",
+      "信仰香火"
+    ],
+    "potential_evolution": "可演化为独立的无垢世界"
+  },
+  "visual": {
+    "static": "一件原本穿在佛门圣人身上的寻常袈裟 。",
+    "active": "掷出后蓦然变大如遮天云海，袈裟之上浮现出“水面清圆，一一风荷举”的曼妙景观 。"
+  },
+  "provenance": {
+    "origin": "西方佛国 。",
+    "karma_link": "由僧人圣人带往剑气长城，在战事中保护城头不被侵蚀 。"
+  },
+  "enriched": true
+}

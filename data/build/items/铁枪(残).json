@@ -1,0 +1,48 @@
+{
+  "name": "铁枪(残)",
+  "original_name": "玉璞境妖族铁枪",
+  "type": "灵器",
+  "grade": "半仙兵",
+  "status": "损毁",
+  "description": "这杆残枪是裴钱实力的证明。她以力拔山河之姿将半仙兵级别的兵器强行拆解，使其由死板的重型兵器 演化为灵巧多变的组合利刃，伴随其在金甲洲战场斩妖除魔。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第730章 万事俱备只欠风雪",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "于玄 (符箓于仙)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "玉璞境妖族修士",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "经过雷公山雷法淬炼，虽已断裂，但材质极为纯粹，具备重塑为神兵的底蕴。",
+  "supernatural_ability": "枪意沉重如山，两端锋利如狭刀。对妖族具有天然的雷法压胜效果 。",
+  "evolution": {
+    "current_form": "被裴钱强行打断为三截，变为“双刀一棍”形态 。",
+    "materials_consumed": [
+      "十境武夫拳意",
+      "雷公山雷池精华"
+    ],
+    "potential_evolution": "若能以兵家秘法重新熔铸，可成就一件真正的杀伐仙兵。"
+  },
+  "visual": {
+    "static": "原本是一杆百炼精铁打造的长枪，断裂处切口如斩，透着森冷寒芒 。",
+    "active": "挥动时雷鸣阵阵，拳意与枪意共振，可轻易撕裂同境修士的防护 。"
+  },
+  "provenance": {
+    "origin": "金甲洲战场，由老神仙于玄从妖族尸体上捡获并赠予裴钱 。",
+    "karma_link": "裴钱以“神人擂鼓式”拳意亲手将其打断，成就了其独特的战法路数 。"
+  },
+  "enriched": true
+}

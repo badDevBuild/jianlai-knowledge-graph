@@ -1,0 +1,51 @@
+{
+  "name": "太平供奉牌",
+  "original_name": "山庙太平无事牌",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这种玉牌是山上正统势力的身份标识。在宝瓶洲，它不 仅是求救工具，更是行走江湖的护身符 [10-12]。",
+  "aliases": [
+    "二等供奉牌",
+    "刑部无事牌"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第827章 夜游京城",
+      "owner": "陈平安、宁姚"
+    }
+  ],
+  "subtype": "信物/庇护类",
+  "holder": "落魄山众弟子 / 大骊修士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "风雪庙 (魏晋)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "大骊刑部",
+      "relation": "发布者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "受封正等级影响，最高级无事牌可获得圣人级别的直接 关注 。",
+  "supernatural_ability": "持有者遭遇危险时灌注真气即可求救；能在一定程度上 震慑宵小，象征背景雄厚 。",
+  "evolution": {
+    "current_form": "羊脂玉质地的牌子，散发着温润光泽 。",
+    "materials_consumed": [
+      "玉石精粹",
+      "宗门气运"
+    ],
+    "potential_evolution": "可进阶为具有传送功能的“缩地玉牌” 。"
+  },
+  "visual": {
+    "static": "素雅无暇，仅刻有简单的符文或机构名称 。",
+    "active": "激发时会散发出极快的一线流光，穿越空间禁制去往师 门 。"
+  },
+  "provenance": {
+    "origin": "由大骊风雪庙与真武山特制 。",
+    "karma_link": "魏晋赠予陈平安一行，作为他们前往野夫关的护身符 。"
+  },
+  "enriched": true
+}

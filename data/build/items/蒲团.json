@@ -1,0 +1,38 @@
+{
+  "name": "蒲团",
+  "original_name": "三郎庙蒲团",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是由北俱芦洲最大的兵器铺子**三郎庙**秘制的修行重器 。由于其性价比极高，在北俱芦洲剑修及各路练气士中极受欢迎，甚至吸引了如**小陌**等大修士拆 解研究其构造法式 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1066章 几人著眼到青衫",
+      "owner": "周姝真"
+    }
+  ],
+  "subtype": "辅助/修行类",
+  "holder": "练气士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "长期在清净地温养可增强聚灵效果 。",
+  "supernatural_ability": "帮助修道之人极速进入禅定坐忘境，成倍提升呼吸吐纳与汲取天地灵气的效率 。",
+  "evolution": {
+    "current_form": "编织细密、质地冰凉的圆形垫子 。",
+    "materials_consumed": [
+      "特殊灵草",
+      "秘制禁制"
+    ],
+    "potential_evolution": "若能配合上古道诀，可演化为小型的灵气漩涡核心 。"
+  },
+  "visual": {
+    "static": "色泽素雅，带有某种令人安定的草木清馨 。",
+    "active": "修士落座后，周身会泛起微弱的灵气涟漪，形成保护层 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲三郎庙 。",
+    "karma_link": "被誉为“一颗小暑钱能当两颗用”的修行重宝 。"
+  },
+  "enriched": true
+}

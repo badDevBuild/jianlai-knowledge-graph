@@ -1,0 +1,37 @@
+{
+  "name": "赤练蛇书",
+  "original_name": "赵府邪道秘籍",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是彩衣国赵府公子持有的诡异法宝。通过操控书中的**赤练蛇精魅**，可针对敌人的神魂与体魄进行 多重压制，最终在城隍阁战役中被陈平安以飞剑摧毁 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第231章 又见城隍爷",
+      "owner": "赵府公子哥"
+    }
+  ],
+  "subtype": "召唤/精魅类",
+  "holder": "赵府公子哥",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "依赖于内部封印的精魅神异程度。",
+  "supernatural_ability": "能够从书页间召唤出数十条名为**赤练**的猩红小蛇，进行大范围侵蚀攻击 。",
+  "evolution": {
+    "current_form": "一卷充满脂粉气与邪异气息的古书 。",
+    "materials_consumed": [
+      "精魅神魂"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "看似寻常的厚重书籍，书页间隐约有红光闪烁 。",
+    "active": "翻书时红光汇聚成粗绳状，随后化作无数赤色小蛇冲天而起 。"
+  },
+  "provenance": {
+    "origin": "彩衣国胭脂郡赵府书楼 。",
+    "karma_link": "在城隍阁一战中被赵府公子用于截杀陈平安 。"
+  },
+  "enriched": true
+}

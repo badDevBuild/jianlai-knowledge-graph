@@ -1,0 +1,44 @@
+{
+  "name": "锁剑符(仿)",
+  "original_name": "地祖宫锁剑符 / 旁支秘符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**锁剑符的仿品**是山间野修或阵师用来对付剑修的**保命符** 。刘老成等大修士曾以此类符箓配合阵法，成功困住本命飞剑，展现了符箓一道的玄妙 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1201章 也姓陈",
+      "owner": "刘老成"
+    }
+  ],
+  "subtype": "禁锢类",
+  "holder": "刘老成 / 阵师",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "于玄",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随画符者道行提升，可短暂困住玉璞境甚至仙人境剑修的飞剑 。",
+  "supernatural_ability": "专门针对剑修，能够禁锢飞剑轨迹，使其神魂牵连受阻，陷入“枯井”之境 。",
+  "evolution": {
+    "current_form": "碧绿或金色的符纸，绘有复杂的禁锢纹路 。",
+    "materials_consumed": [
+      "剑气碎片",
+      "特殊丹砂"
+    ],
+    "potential_evolution": "若得真传，可演化为真正剥夺飞剑生机的“镇剑符” 。"
+  },
+  "visual": {
+    "static": "符纸表面灵光闪烁，带有冷冽的压抑气息 。",
+    "active": "祭出时形成半圆形的禁锢气场，使飞剑如陷泥潭，发出嗡嗡颤鸣 。"
+  },
+  "provenance": {
+    "origin": "仿自中土神洲符箓于玄的真传，在书简湖等野修聚集地多有流传 。",
+    "karma_link": "是练气士对抗剑修杀力的重要反制手段 。"
+  },
+  "enriched": true
+}

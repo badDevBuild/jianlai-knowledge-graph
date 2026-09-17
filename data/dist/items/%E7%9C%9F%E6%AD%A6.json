@@ -1,0 +1,47 @@
+{
+  "name": "真武",
+  "original_name": "青蚨坊古剑",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "真武剑是一把典型的“大开门”古剑，刘羡阳曾评价此剑极其沉重且蕴含玄机。它是张山峰在远游途中的 主要仗胆兵刃 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第536章 一洲大地皆起剑",
+      "owner": "张山峰"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "青蚨坊",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "剑身蕴含极其沉重的大道气机，一旦被高阶剑修修复，杀力不可估量 。",
+  "supernatural_ability": "具备某种未完全激发的本命神通，剑身漾起的细微涟漪可震慑邪祟 。",
+  "evolution": {
+    "current_form": "一把剑身有细微裂纹、锈迹斑斑的古剑 。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "若能由名师修缮并重铸剑气，可晋升为法宝甚至半仙兵 。"
+  },
+  "visual": {
+    "static": "外表平平，锈迹斑斑，显得饱经风霜且极其老旧 。",
+    "active": "拔剑出鞘时异常沉重，剑身会散发出微妙而厚重的剑气波动 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲地龙山渡口青蚨坊内的货架之物 。",
+    "karma_link": "陈平安在青蚨坊以高价买下，将其作为临别赠礼送给张山峰，全了这一份仗剑同行的情谊 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "山岳玉牌",
+  "original_name": "山水印 / 五岳真形图印",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是齐静春留给陈平安的关键遗物之一，实则是**控制山河气运的 重器**。它不仅是身份的象征，更是陈平安后期在落魄山及其下宗 建立法统、经营山头的重要法具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第40章 还礼",
+      "owner": "儒家"
+    }
+  ],
+  "subtype": "镇压/法阵类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "承载山河气运，配合五岳真形图可演化为**护山大阵的中枢** 。",
+  "supernatural_ability": "能够**镇压山水气数**，通过印章捺印可稳固地利，甚至能在大地 龙脉上“开门” [3-5]。",
+  "evolution": {
+    "current_form": "由上等蛇胆石篆刻而成的法印",
+    "materials_consumed": [
+      "蛇胆石",
+      "圣人神意"
+    ],
+    "potential_evolution": "与“五岳真形图”融合为仙兵级法阵"
+  },
+  "visual": {
+    "static": "质地细腻、蕴含灵气的玉质印章，其中一枚刻有“**静心得意**” 。",
+    "active": "捺印时显化山川起伏之象，金光流转，能够强行平定紊乱的地脉气 机 。"
+  },
+  "provenance": {
+    "origin": "由圣人齐静春亲手篆刻，作为文圣一脉的传承机缘赠予陈平安 。",
+    "karma_link": "涉及骊珠洞天破碎后的山河重组与落魄山的立身之本 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "雨落",
+  "original_name": "上古遗剑",
+  "type": "仙剑",
+  "grade": "半仙兵",
+  "status": "损毁",
+  "description": "这把剑是北俱芦洲著名的“道侣剑”之一。由于伤及根本且修缮不易，目前被视为高价的鸡肋之物，仅售 予有缘的剑修 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第484章 北俱芦洲无奇怪",
+      "owner": "披麻宗渡船店铺"
+    },
+    {
+      "chapter": "第686章 一些个典故",
+      "owner": "虚恨坊(待售)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "披麻宗 (待售)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "北俱芦洲某剑仙道侣",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "曾为半仙兵，若能以顶级仙材修复，有望重回巅峰品秩 。",
+  "supernatural_ability": "与“灯鸣”剑有道侣感应，双剑合璧时可产生共鸣，杀力倍增 。",
+  "evolution": {
+    "current_form": "剑刃开卷严重的残损遗剑 。",
+    "materials_consumed": [
+      "剑气",
+      "磨剑石"
+    ],
+    "potential_evolution": "修复后可重新凝聚上古剑仙的浩荡剑意 。"
+  },
+  "visual": {
+    "static": "剑身古朴，带有明显的岁月侵蚀痕迹 。",
+    "active": "剑光一闪，仿佛有细雨飘落，内蕴凌厉杀机 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲一对剑仙道侣的佩剑 。",
+    "karma_link": "由披麻宗在骸骨滩某处遗址获悉并安置在跨洲渡船“虚恨”铺子中 。"
+  },
+  "enriched": true
+}

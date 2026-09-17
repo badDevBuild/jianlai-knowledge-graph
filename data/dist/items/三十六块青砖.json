@@ -1,0 +1,44 @@
+{
+  "name": "三十六块青砖",
+  "original_name": "水运青砖",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "消耗",
+  "description": "这些青砖并非凡石，而是蕴含了极其罕见的真土之意。它们被陈平安带回落魄山，成为了整座山头武学 传承的物质载体。 , ,",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第552章 不唯有与他人告别",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "练拳/镇宅类",
+  "holder": "陈平安",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "远古道观主人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "契合三十六天罡之数，铺设后可聚拢整座山头的山水气运。",
+  "supernatural_ability": "蕴含极其精纯的水运精华，站立其上可稳固武夫拳意与练气士道心。",
+  "evolution": {
+    "current_form": "三十六块带有润泽之色的古朴青砖。",
+    "materials_consumed": [
+      "上古道门道意",
+      "地脉水气"
+    ],
+    "potential_evolution": "可配合落魄山阵法，演化为“天悬水印、地铺青砖”的顶级道场。"
+  },
+  "visual": {
+    "static": "质地极沉，湿气极重，表面平整，内里隐有流云水纹。",
+    "active": "中炼入水府后，可作为地基稳固人身小天地，焕发出莹润的道光。"
+  },
+  "provenance": {
+    "origin": "来自北俱芦洲某处远古仙府遗址山顶的道观遗迹。",
+    "karma_link": "陈平安以其为基石，教导落魄山子弟练习六步走桩。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "兵器库存",
+  "original_name": "大骊武库残留",
+  "type": "材料",
+  "grade": "法器",
+  "status": "消耗",
+  "description": "大骊王朝在战事结束后遗留在各国的军事资产。这些兵 器由于带有山上手段，价值昂贵且具备极强的二次倒卖 利润 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1022章 山水有重复",
+      "owner": "各国朝廷"
+    }
+  ],
+  "subtype": "战争/攻伐类",
+  "holder": "大骊朝廷 / 藩属各国",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊工部",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽有使用年限限制，但通过符箓修缮，可作为组建精锐 军队的核心资源 。",
+  "supernatural_ability": "每件兵器都附带有山上符箓或铸造秘法，具有极强的破 甲与杀伤练气士之能 。",
+  "evolution": {
+    "current_form": "堆积如山的枪矛剑戟，散落在各国武库中 。",
+    "materials_consumed": [
+      "精铁",
+      "符箓之力"
+    ],
+    "potential_evolution": "若能整体回购并重炼，可打造出镇压一洲的“剑舟”大阵 。"
+  },
+  "visual": {
+    "static": "寒气逼人，即便在库房中亦有金石相错之意 。",
+    "active": "祭出时符箓亮起，杀气冲天，能够瞬间改变战场格局 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝为了应对蛮荒大战而举国之力打造的军备 。",
+    "karma_link": "是大骊宋氏吞并宝瓶洲半壁江山的实物见证 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "万寿灯",
+  "original_name": "续命灯",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "万寿灯是剑气长城最珍贵的续命宝物。正是凭借此灯，重伤的巅峰剑仙纳兰烧苇得以在岁除宫成功转世 为稚童，保全了剑气长城的关键战力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1127章 二十人与候补们（九）",
+      "owner": "张脚"
+    }
+  ],
+  "subtype": "转世类 / 延寿类",
+  "holder": "纳兰烧苇",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "宁府",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为能够保全飞升境神魂并引导转世的异宝，其涉及的因果与复生道法已达极致 。",
+  "supernatural_ability": "“薪火续命”。在修士身死道消之际，可收拢其残余魂魄并寄居于灯火之中，在特定地点（如岁除宫）引 导其完美转世，重获新生 。",
+  "evolution": {
+    "current_form": "原本藏于宁府剑匣内的一盏古灯，现已助力纳兰烧苇完成转世 。",
+    "materials_consumed": [
+      "飞升境修士精魂",
+      "岁除宫仙人遗蜕"
+    ],
+    "potential_evolution": "可用作镇压神魂的小天地枢纽 。"
+  },
+  "visual": {
+    "static": "样式古旧，灯芯处的火焰呈微弱的青金色，仿佛蕴含着无尽的时间感 。",
+    "active": "转世时灯火暴涨，金光映彻云霄，在光阴长河中强行截留一抹生机 。"
+  },
+  "provenance": {
+    "origin": "源自剑气长城宁府密藏，曾是宁府保护核心剑仙的长命灯 。",
+    "karma_link": "纳兰烧苇凭此得救，其因果由宁府、岁除宫及陈平安共同承载 [11-13]。"
+  },
+  "enriched": true
+}

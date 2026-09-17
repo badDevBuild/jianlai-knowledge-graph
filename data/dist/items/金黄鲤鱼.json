@@ -1,0 +1,44 @@
+{
+  "name": "金黄鲤鱼",
+  "original_name": "金色鲤鱼 / 龙种",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "骊珠洞天“五大福缘”之一，对应五行之金。它不仅是一尾罕见的水中灵物，更是大隋皇子高煊在大骊求 学期间保命与证道的根本重器 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1章 惊蛰",
+      "owner": "锦衣少年"
+    }
+  ],
+  "subtype": "气运类 / 水族",
+  "holder": "高煊",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李二",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为骊珠洞天最后一条真龙陨落后留下的五大机缘之一，具备化蛟甚至重塑龙道的极高上限。",
+  "supernatural_ability": "“兵戈压胜”。象征五行之金与人间武运，能够滋养持有者的体魄，并与大隋王朝的国运产生共鸣 , 。",
+  "evolution": {
+    "current_form": "被豢养在龙王篓中、受小暑钱灵气滋养的灵鱼。",
+    "materials_consumed": [
+      "小暑钱灵气",
+      "龙气"
+    ],
+    "potential_evolution": "一旦成功跃过龙门，可化为元婴境界以上的蛟龙 , 。"
+  },
+  "visual": {
+    "static": "通体金黄，鱼鳞灿灿，鱼目有神 。",
+    "active": "游动时带起金色涟漪，生出两缕货真价实的金色龙须，光华夺目 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天龙须河，实为真龙遗留的灵性具现 。",
+    "karma_link": "由李二捕获后卖给大隋皇子高煊，与高煊未来的帝王之路深度绑定 。"
+  },
+  "enriched": true
+}

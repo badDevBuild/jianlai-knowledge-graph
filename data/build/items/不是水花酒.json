@@ -1,0 +1,38 @@
+{
+  "name": "不是水花酒",
+  "original_name": "水花酒 (埋河特产)",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是埋河水神柳柔引以为傲的家乡酒，常与“爆炒鳝鱼 面”一同出现，代表了埋河最正宗的烟火与灵气 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第894章 天下皆知",
+      "owner": "柳柔"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "埋河水神柳柔",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随着埋河升格为大渎，此酒蕴含的水运精华将成倍增长 。",
+  "supernatural_ability": "饮用后可清凉脏腑，祛除修士在干燥火土环境下的火气 。",
+  "evolution": {
+    "current_form": "大碗盛放的清冽酒水 。",
+    "materials_consumed": [
+      "埋河灵水",
+      "五行之水精华"
+    ],
+    "potential_evolution": "可演化为“水仙酿”。"
+  },
+  "visual": {
+    "static": "酒液如碎银落水，清澈透明。",
+    "active": "入喉如冰丝，能感应到埋河水脉的激荡。"
+  },
+  "provenance": {
+    "origin": "产自桐叶洲埋河碧游宫（原碧游府） 。",
+    "karma_link": "水神柳柔以此酒款待陈平安，象征双方生死交情 。"
+  },
+  "enriched": true
+}

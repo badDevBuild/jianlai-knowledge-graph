@@ -1,0 +1,46 @@
+{
+  "name": "月华瓶",
+  "original_name": "采撷瓶",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "一种极受练气士欢迎的雅致灵器。陈灵均曾向陈平安展示过这种小瓶，能将五岳月华倾泻而出，供人赏 玩或修行 。",
+  "aliases": [
+    "月华瓶"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第173章 逆旅",
+      "owner": "青衣小童 (交易给陈平安)"
+    }
+  ],
+  "subtype": "滋养/收集类",
+  "holder": "青衣小童 (陈灵均)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "御江水神",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "通过收集特定地点的月光（如五岳之巅），可提升瓶中月光的品位 。",
+  "supernatural_ability": "能从天地间采撷月光精华并储存其中，倾倒时可形成美丽的月光瀑布，滋养修士神魂 。",
+  "evolution": {
+    "current_form": "粉绿色或莹白色的精美小瓷瓶 。",
+    "materials_consumed": [
+      "日月精华",
+      "天地灵气"
+    ],
+    "potential_evolution": "成套使用（配合日光瓶、云霞瓶）可营造出极佳的修道场 。"
+  },
+  "visual": {
+    "static": "色彩明丽，质地如玉，瓶身常有云月纹路 。",
+    "active": "拔出瓶塞后，会有大片柔和月光如流水般溢出，场景如梦如幻 。"
+  },
+  "provenance": {
+    "origin": "多产自擅长采集天地灵秀的山头，如云霞山 。",
+    "karma_link": "代表了修道之人对“风光”与“自然灵气”的追求 。"
+  },
+  "enriched": true
+}

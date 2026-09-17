@@ -1,0 +1,54 @@
+{
+  "name": "嗣天子宝玺",
+  "original_name": "金质绞龙纽嗣天子宝玺",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是大梁国专门用于册立太子的重宝，其不仅是身份的证明，更是储君能够与山水神祇平等对话的器物 凭证 。",
+  "aliases": [
+    "金质绞龙纽嗣天子宝玺"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1015章 除非问取笼外莺雀",
+      "owner": "赵浮阳(暂有)"
+    },
+    {
+      "chapter": "第1020章 目击而道存",
+      "owner": "赵浮阳 (暂有)"
+    },
+    {
+      "chapter": "第1084章 高两境",
+      "owner": "青杏国皇室"
+    }
+  ],
+  "subtype": "礼器 / 储君象征",
+  "holder": "青杏国太子",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青杏国皇室",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "专门用以册立储君，其气数与皇太子命理相连，具备成为一国守护神物的潜力 。",
+  "supernatural_ability": "具备极其强大的法理权威，可辅助持有者感应并调动部分国运龙气 。",
+  "evolution": {
+    "current_form": "一枚精美的金质印章。",
+    "materials_consumed": [
+      "赤金精粹",
+      "储君文武气数"
+    ],
+    "potential_evolution": "在储君登基后，可转化为真龙天子玺，品秩大幅提升 。"
+  },
+  "visual": {
+    "static": "金质地，上方刻有栩栩如生的绞龙纽，气势威严 。",
+    "active": "激发时金光璀璨，隐有龙吟之声，可压制一般阴冥鬼物的气机 。"
+  },
+  "provenance": {
+    "origin": "青杏国柳氏天子十二宝之一 。",
+    "karma_link": "在合欢山战后由太子亲自带队寻回，确立了其在朝堂的稳固地位 。"
+  },
+  "enriched": true
+}

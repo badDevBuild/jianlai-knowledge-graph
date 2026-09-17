@@ -1,0 +1,44 @@
+{
+  "name": "蒌蒿",
+  "original_name": "水边灵植 / 春季草木",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "蒌蒿是《剑来》地理环境中常见的野生灵植。虽然品秩 极低，但在特定季节（如惊蛰）常被用于调理气机 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第982章 谜底",
+      "owner": "无"
+    }
+  ],
+  "subtype": "滋养/食材类",
+  "holder": "陈平安 / 陆沉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "野外山水",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽为凡俗水边植物，但在灵气浓郁处受浸染后可具备清 心去火之效 。",
+  "supernatural_ability": "具备极其微弱的节气道韵，能与“春分”或“惊蛰”天时产 生共鸣 。",
+  "evolution": {
+    "current_form": "翠绿的水生植物，多见于河滩 。",
+    "materials_consumed": [
+      "时令雨水",
+      "山水清气"
+    ],
+    "potential_evolution": "可作为炼制低阶滋补丹药的配料 。"
+  },
+  "visual": {
+    "static": "长势茂盛的青绿草木，叶片修长，带有河泥香气 。",
+    "active": "烹饪或入药时会散发出淡淡的清苦气息，能平抑修士心 火 。"
+  },
+  "provenance": {
+    "origin": "多产于宝瓶洲及桐叶洲水网密集的平原地带 。",
+    "karma_link": "常出现在陈平安远游途中的山水诗意描写中，象征生机 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,43 @@
+{
+  "name": "草鞋",
+  "original_name": "",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是陈平安标志性的器物之一，不仅是贫穷的象征，更是一种大道隐喻。它代表了主角在充满既定规矩 的世界中，一步步走出自己道路的艰辛与坚定 。",
+  "aliases": [
+    "草鞋"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第168章 世间父亲皆英雄",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第279章 抬手杀剑仙",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "服饰类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "作为陈平安最显著的视觉符号，象征着其“脚踏实地”的修行方式 。",
+  "supernatural_ability": "无。但在视觉设定中，粗糙的植物纤维编织纹理和脚后跟的磨损泥点，映射了其扎根大地的粗粝真实美 学 。",
+  "evolution": {
+    "current_form": "由粗糙植物纤维编织而成的简陋鞋履，常伴有泥点和磨损痕迹 。",
+    "materials_consumed": [
+      "植物纤维"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "编织纹理粗糙，脚后跟处可见断草，常带有泥点 。",
+    "active": "与周围身着丝履云靴的修士形成强烈的视觉阶级反差，体现了“泥腿子”出身的质感 。"
+  },
+  "provenance": {
+    "origin": "陈平安作为市井贫民的日常生活物品 。",
+    "karma_link": "与陈平安的出身紧密相连，代表了文圣一脉“向内求”的纯粹武夫意志 。"
+  },
+  "enriched": true
+}

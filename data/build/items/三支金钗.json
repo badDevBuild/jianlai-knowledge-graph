@@ -1,0 +1,44 @@
+{
+  "name": "三支金钗",
+  "original_name": "灵素清微、文卿神霄、太霞役鬼",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这三支金钗是隋景澄的本命法宝，分别对应雷法的不同支脉。其工艺之精湛，连见多识广的陈平安都感 到惊艳，是隋景澄跻身中五境的关键 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第524章 陈平安和齐景龙的道理",
+      "owner": "隋景澄"
+    }
+  ],
+  "subtype": "攻伐类 / 雷法类",
+  "holder": "隋景澄",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "某位世外高人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "三位一体的雷法重宝，与《上上玄玄集》配合可直通上五境大道 。",
+  "supernatural_ability": "具备驱鬼、镇邪、炼雷之能。若非本人触碰，会被金钗自带的灵光烫伤神魂 。",
+  "evolution": {
+    "current_form": "三支金光流转、刻有微小铭文的金钗 。",
+    "materials_consumed": [
+      "雷电真意",
+      "精纯灵气"
+    ],
+    "potential_evolution": "完全炼化后可作为本命飞剑的替代物，杀力惊人 。"
+  },
+  "visual": {
+    "static": "外表是三支普通的金钗，但其上铭刻有极其细微的古篆铭文 。",
+    "active": "相互敲击时发出清脆金石声，并荡漾出一圈圈五彩光晕 。"
+  },
+  "provenance": {
+    "origin": "由一位道法玄妙的世外高人为隋景澄量身打造 。",
+    "karma_link": "伴随隋景澄自幼成长，是其重建道心的核心依仗 。"
+  },
+  "enriched": true
+}

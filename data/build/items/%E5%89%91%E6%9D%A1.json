@@ -1,0 +1,62 @@
+{
+  "name": "剑条",
+  "original_name": "持剑者 / 老剑条",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "剑条不仅仅是一把武器，它是远古持剑者的意志载体，象征着人间剑道的源头与极致杀力 [5-7]。",
+  "aliases": [
+    "阮邛铸造的长剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第204章 故人来送剑去",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第258章 群山之巅，上有武神",
+      "owner": "女子武神"
+    },
+    {
+      "chapter": "第271章 宁姑娘，对不起",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第730章 万事俱备只欠风雪",
+      "owner": "落魄山(拟赠徐杏酒)"
+    }
+  ],
+  "subtype": "神兵类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "曾持有"
+    },
+    {
+      "name": "阮邛",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "实为远古五至高神灵之一“持剑者”的化身，具备斩杀高位神灵及开天的无上威能 [5-7]。",
+  "supernatural_ability": "能够压制一切剑器，剑气极浓，可将近身之物化为己用或齑粉 [8-10]。",
+  "evolution": {
+    "current_form": "锈迹斑斑的老剑条，后部分炼化为长剑“夜游” 。",
+    "materials_consumed": [
+      "斩龙台",
+      "龙君灰袍"
+    ],
+    "potential_evolution": "恢复“持剑者”真身 。"
+  },
+  "visual": {
+    "static": "最初挂在小镇石拱桥下，看起来是一根生锈、不起眼的金属条 。",
+    "active": "剑光如虹，其锋芒可以斩开天幕，令王座大妖心惊胆裂 。"
+  },
+  "provenance": {
+    "origin": "远古天庭五至高神灵之一，曾传授人间剑术 。",
+    "karma_link": "因“甲子之约”跟随陈平安，是其修行道路上最重要的守护者 。"
+  },
+  "enriched": true
+}

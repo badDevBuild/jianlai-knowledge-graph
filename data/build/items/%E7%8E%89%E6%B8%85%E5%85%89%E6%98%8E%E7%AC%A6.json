@@ -1,0 +1,52 @@
+{
+  "name": "玉清光明符",
+  "original_name": "云霄宫秘制符箓",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是云霄宫秘传的三张大符之一，虽杀力不及斩勘符，但在破阵与净化环境方面具有独到神效 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第504章 剑仙在剑仙之手",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第505章 二月二",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "破障类 / 压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崇玄署云霄宫",
+      "relation": "原主"
+    },
+    {
+      "name": "杨凝性",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "需特定“开门”秘诀才能发挥最大威力 。",
+  "supernatural_ability": "炤幽冥，震妖鬼，具备大范围破阵解围之功，能瞬间照彻方圆数里天地 。",
+  "evolution": {
+    "current_form": "金色材质的古老符箓 。",
+    "materials_consumed": [
+      "云篆丹砂",
+      "雷电神光"
+    ],
+    "potential_evolution": "激活后化作净世之光 。"
+  },
+  "visual": {
+    "static": "金色符纸上绘有复杂的玉清云篆，灵气流溢 。",
+    "active": "丢掷而出后金光万丈，驱散方圆数里内的瘴气与鬼祟 。"
+  },
+  "provenance": {
+    "origin": "大源王朝崇玄署云霄宫杨氏家族秘传 。",
+    "karma_link": "陈平安在鬼蜮谷从杨凝性手中缴获，后由姜尚真传授开门秘诀 。"
+  },
+  "enriched": true
+}

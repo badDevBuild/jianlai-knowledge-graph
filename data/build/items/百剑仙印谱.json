@@ -1,0 +1,56 @@
+{
+  "name": "百剑仙印谱",
+  "original_name": "隐官手书印谱",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是浩然天下与剑气长城公认的**文化瑰宝**。 它不仅是一部艺术作品，更是**隐官陈平安**用以凝聚人心、传承剑道精神的神圣之书 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第591章 宁姚出剑会如何",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1048章 此间山水如贼窟",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1106章 家在此山中",
+      "owner": "曹耕心"
+    }
+  ],
+  "subtype": "文化/传承类",
+  "holder": "落魄山/晏家",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    },
+    {
+      "name": "晏家铺子",
+      "relation": "代售方"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由于承载了众多已逝剑仙的最后真意，具有不可思议的文武气运。",
+  "supernatural_ability": "收录了百余位剑仙的印蜕与边款，具有极强的压胜阴邪与温养道心之力 。",
+  "evolution": {
+    "current_form": "装订精良、墨色浓郁的印章汇编书籍 。",
+    "materials_consumed": [
+      "精良版刻",
+      "剑仙心力"
+    ],
+    "potential_evolution": "可进一步扩编为《皕剑仙印谱》，名动九洲 。"
+  },
+  "visual": {
+    "static": "纸张考究，字迹法度森严，每一页都散发着淡淡的剑意 。",
+    "active": "诵读其中内容，可令人心潮澎湃，仿佛置身于城头之上 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城避暑行宫期间亲笔撰写 。",
+    "karma_link": "是剑气长城剑修们“明志”与“交代遗言”的重要载体 。"
+  },
+  "enriched": true
+}

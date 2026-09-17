@@ -1,0 +1,37 @@
+{
+  "name": "水龙砚",
+  "original_name": "浩然十大名砚",
+  "type": "灵器",
+  "grade": "珍品",
+  "status": "活跃",
+  "description": "这是浩然天下公认的十大名砚之一，其原材料砚石在云窟福地被开采了数千年 。它是文人雅士心目中的顶级清供，也是落魄山与姜氏合伙经营的重要财源 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第752章 无巧不成书",
+      "owner": "无"
+    }
+  ],
+  "subtype": "文房类",
+  "holder": "浩然天下文人/修士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为浩然顶级名砚，若能汲取大渎水运，可提升品秩 。",
+  "supernatural_ability": "其石材天然亲水，能聚拢山水清气 。",
+  "evolution": {
+    "current_form": "由云窟福地砚山石材雕琢而成的精美砚台 。",
+    "materials_consumed": [
+      "砚山石材"
+    ],
+    "potential_evolution": "可孕育出砚灵或墨龙 。"
+  },
+  "visual": {
+    "static": "石质细腻，纹理如龙鳞，散发出清凉的水汽 。",
+    "active": "研墨时隐约可见云雾升腾，墨色如龙游动 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲云窟福地的储君之山——砚山 。",
+    "karma_link": "与大龙湫、水龙宗等亲水门派有深厚渊源 。"
+  },
+  "enriched": true
+}

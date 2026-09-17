@@ -1,0 +1,50 @@
+{
+  "name": "金色缠丝佩刀",
+  "original_name": "斩勘 / 行刑刀 / 停雪",
+  "type": "法宝",
+  "grade": "兵器",
+  "status": "活跃",
+  "description": "这是陈平安最重要的攻伐兵刃之一。它不沾因果，专斩 大恶，是其在剑气长城与蛮荒天下立威的神兵 。",
+  "aliases": [
+    "金色缠丝佩刀"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第79章 迎春印",
+      "owner": "吴鸢的武秘书郎"
+    }
+  ],
+  "subtype": "攻伐/压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "上古行刑台",
+      "relation": "原主"
+    },
+    {
+      "name": "化外天魔 (霜降)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为上古斩龙台的行刑利刃，具备斩断万物气数、甚至 伤及十四境修士魂魄的潜力 。",
+  "supernatural_ability": "天生压胜龙族与水裔。刀身具有“光流素月，澄空鉴水” 的莹澈道意，能破除一切障眼法 。",
+  "evolution": {
+    "current_form": "刀柄裹缠金色丝线，刀鞘刻有精美纹路的狭刀 。",
+    "materials_consumed": [
+      "斩龙台寒铁",
+      "神灵之血"
+    ],
+    "potential_evolution": "若能与“行刑”佩刀合一，可重现远古行刑台的完整权柄 。"
+  },
+  "visual": {
+    "static": "外表极沉，刀身狭长，刀鞘古朴却透着令人心悸的寒芒 。",
+    "active": "出鞘时五彩光芒绽放，绚烂似丹霞，伴有龙吟与雷鸣交 织之声 。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭刑狱司，买自徐夫人或交换自化外天魔 。",
+    "karma_link": "连接了陈平安作为“刽者”与“守关人”的双重身份职责 。"
+  },
+  "enriched": true
+}

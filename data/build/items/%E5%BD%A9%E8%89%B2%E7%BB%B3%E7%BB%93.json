@@ -1,0 +1,58 @@
+{
+  "name": "彩色绳结",
+  "original_name": "封姨绳结",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是大骊京城火神庙内那位神秘“封姨”的随身信物。它极小却极其玄妙，体现了远古神灵在光阴流逝中 依然保持独立与纯粹的能力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第830章 练练",
+      "owner": "封姨"
+    },
+    {
+      "chapter": "第840章 家乡",
+      "owner": "封姨 -> 陈平安(预定)"
+    },
+    {
+      "chapter": "第887章 春山",
+      "owner": "陈平安 (暂持)"
+    },
+    {
+      "chapter": "第979章 教拳与续杯",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第989章 醉得不知人间第几天",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1196章 飞升见余斗",
+      "owner": "陈平安(代管)"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "封姨",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为远古神灵的随身信物，蕴含着天下色彩的原始气机 。",
+  "supernatural_ability": "只需系挽青丝即可完美遮蔽自身气机，使持有者在光阴长河中呈现出一种超脱物外的“游食”姿态 。",
+  "evolution": {
+    "current_form": "由百余条不同颜色丝线拧缠而成的绳结 。",
+    "materials_consumed": [
+      "天下色彩精华",
+      "远古神性丝线"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "铜钱大小，由颜色各异的纤细丝线精巧拧缠而成 。",
+    "active": "散发出迷离的彩色流光，仿佛将世间所有颜色尽数收拢其中 。"
+  },
+  "provenance": {
+    "origin": "远古神灵封姨的随身饰物 。",
+    "karma_link": "陈平安在大骊京城火神庙见证了其神异，代表了封姨不属于人间的超然身份 。"
+  },
+  "enriched": true
+}

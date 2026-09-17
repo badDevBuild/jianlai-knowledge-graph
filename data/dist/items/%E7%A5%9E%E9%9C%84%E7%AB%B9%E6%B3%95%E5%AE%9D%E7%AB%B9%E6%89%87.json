@@ -1,0 +1,44 @@
+{
+  "name": "神霄竹法宝竹扇",
+  "original_name": "青神山神霄竹折扇",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这把竹扇由世间最珍稀的竹子制成，是刘羡阳身份与实力的象征之一，也是其行走江湖、克制邪魔外道 的得力助手。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第483章 好久不见",
+      "owner": "顾璨"
+    }
+  ],
+  "subtype": "压胜类 / 驱邪类",
+  "holder": "刘羡阳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "颍阴陈氏",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "神霄竹为青神山特产，是天底下的绝佳法器材质，对阴物有天然位阶压制 。",
+  "supernatural_ability": "**降服鬼魅**：天然压胜所有生长于地底的精怪鬼魅，威力不亚于顶级的打鬼鞭 。",
+  "evolution": {
+    "current_form": "由青神山神霄竹精工打造而成的折扇 。",
+    "materials_consumed": [
+      "神霄竹",
+      "青神山灵气"
+    ],
+    "potential_evolution": "若能得神人点睛，可化为具备灵智的护法精魅。"
+  },
+  "visual": {
+    "static": "扇骨质地坚韧，隐隐有紫金色泽，散发出淡雅的竹香 。",
+    "active": "挥动时清光熠熠，可轻易挥散聚拢的阴煞之气 。"
+  },
+  "provenance": {
+    "origin": "出自竹海洞天青神山，后归中土颍阴陈氏收藏 。",
+    "karma_link": "刘羡阳在南婆娑洲求学时，陈氏掌宝老祖赠予其作为见面礼 。"
+  },
+  "enriched": true
+}

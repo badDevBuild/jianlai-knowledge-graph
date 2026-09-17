@@ -1,0 +1,45 @@
+{
+  "name": "金色竹鞭",
+  "original_name": "金雷竹鞭 / 雷池脉络",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是从积霄山雷池中生发出来的天地灵物，含有极致的雷法真意。陈平安对其评价极高，认为其非常适 合作为开山大弟子的护道之物。",
+  "aliases": [
+    "积霄山金色雷鞭"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第495章 好人兄",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "压胜/教鞭类",
+  "holder": "陈平安",
+  "holder_relation": "持有 (待炼化)",
+  "previous_holders": [
+    {
+      "name": "积霄山雷池",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随雷法温养，可进化为先天法宝，作为宗门压胜重宝。",
+  "supernatural_ability": "雷池外溢脉络显化之物，天生压胜成道于地底的精怪鬼魅，威力和材质可与青神山绿竹媲美。",
+  "evolution": {
+    "current_form": "手臂长短、金灿灿的竹节状重宝。",
+    "materials_consumed": [
+      "积霄山雷电精华"
+    ],
+    "potential_evolution": "陈平安计划将其炼化为一根名为‘薪火’的行山杖，送给弟子裴钱。"
+  },
+  "visual": {
+    "static": "通体金黄，质地坚硬，外表布满细微的雷纹刻痕。",
+    "active": "挥动时会有细微雷声鸣响，绽放出夺目的金色电光。"
+  },
+  "provenance": {
+    "origin": "得自北俱芦洲鬼蜮谷积霄山雷池深处。",
+    "karma_link": "由陈平安在雷池异变期间挖掘所得，代表了极致的纯阳正气。"
+  },
+  "enriched": true
+}

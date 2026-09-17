@@ -1,0 +1,48 @@
+{
+  "name": "不死方",
+  "original_name": "白骨真人秘传道诀",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此方被誉为天地间最正宗的**长生秘术**。它将**生死之道**转化为具体的文字传承，是白骨真人在青 冥天下立足的根本 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1037章 天公作美",
+      "owner": "白茅"
+    }
+  ],
+  "subtype": "传承类",
+  "holder": "白茅",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白骨真人",
+      "relation": "原主"
+    },
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为白骨真人的修道根本，是跻身玉璞境甚至飞升境的直指大道之法 。",
+  "supernatural_ability": "投入神仙钱可显现金字道书，内容随念头深度逐步解锁，上篇直指金丹，中篇可达玉璞 。",
+  "evolution": {
+    "current_form": "隐藏在《花鸟画册》中的金字秘籍 。",
+    "materials_consumed": [
+      "雪花钱",
+      "小暑钱"
+    ],
+    "potential_evolution": "完全习得后可成就“不死”之身，转化为完整的白骨道统 。"
+  },
+  "visual": {
+    "static": "外表是一本严谨工整、略带阴气的古代花鸟画册 。",
+    "active": "画页上浮现出流光溢彩的金字经文 。"
+  },
+  "provenance": {
+    "origin": "源自白玉京三掌教陆沉的分身“李子树下白骨真人” 。",
+    "karma_link": "由陆沉作为“捡漏”机缘赠予鬼物白茅，实为结下护道善缘 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,40 @@
+{
+  "name": "石敢当",
+  "original_name": "泰山石敢当 / 压胜石",
+  "type": "重器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "石敢当是《剑来》中代表“规矩”与“镇守”的视觉符号。 它不仅是山下的避邪物，更是山上修士用来缝补山河气 运的重宝 [6-8]。",
+  "aliases": [
+    "石敢当"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第48章 放纸鸢",
+      "owner": "李家"
+    }
+  ],
+  "subtype": "压胜/防御类",
+  "holder": "小镇百姓 / 各地祠庙",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "受人间香火万年浸染，具备成为镇压一洲地脉“定海神 针”的潜力 。",
+  "supernatural_ability": "具备极其强大的驱邪、避灾及镇宅功效，能压胜四方阴 物，稳固山根水脉 。",
+  "evolution": {
+    "current_form": "刻有“石敢当”字样的古朴石碑，常见于街口或桥头 。",
+    "materials_consumed": [
+      "泰山精石",
+      "众生愿力"
+    ],
+    "potential_evolution": "可由圣人点睛，演化为能够言灵护道的石神法相。"
+  },
+  "visual": {
+    "static": "质地坚硬，字迹苍劲有力，自带一股厚重的威严感 。",
+    "active": "遭遇极重阴邪气机时，石碑会发出沉闷的轰鸣声，并产 生金色的气机屏障 。"
+  },
+  "provenance": {
+    "origin": "源于浩然天下古代民俗与儒家、道教压胜术的结合 。",
+    "karma_link": "在骊珠洞天作为稳固“养蛊皿”边界的重要规矩载体 。"
+  },
+  "enriched": true
+}

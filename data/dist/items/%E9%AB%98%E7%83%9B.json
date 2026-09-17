@@ -1,0 +1,65 @@
+{
+  "name": "高烛",
+  "original_name": "魏晋佩剑",
+  "type": "仙剑",
+  "grade": "神兵",
+  "status": "活跃",
+  "description": "风雪庙魏晋的标志性佩剑 。此剑曾在剑气长城和宝瓶洲战场上立下无数赫赫战功，是魏晋问剑天下强者的底气所在 。",
+  "aliases": [
+    "高烛"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第126章 陆地剑仙",
+      "owner": "魏晋"
+    },
+    {
+      "chapter": "第127章 对视",
+      "owner": "魏晋"
+    },
+    {
+      "chapter": "第128章 奇观",
+      "owner": "魏晋"
+    },
+    {
+      "chapter": "第576章 拳与飞剑我皆有",
+      "owner": "齐狩"
+    },
+    {
+      "chapter": "第577章 观战剑仙何其多",
+      "owner": "齐狩"
+    },
+    {
+      "chapter": "第1047章 梧桐更兼细雨",
+      "owner": "邢云"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "魏晋",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "风雪庙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为宝瓶洲顶尖剑修的佩剑，随魏晋跻身仙人境及后续飞升，其杀力将直追上古名剑 。",
+  "supernatural_ability": "“破开夜幕”。剑光如烛火通明，可轻易劈开高阶修士的山水禁制 。",
+  "evolution": {
+    "current_form": "剑身雪亮，气象庄严的名家仙剑 。",
+    "materials_consumed": [
+      "风雪庙神仙台剑气"
+    ],
+    "potential_evolution": "有望炼化为支撑一洲剑道气运的法理载体 。"
+  },
+  "visual": {
+    "static": "悬于魏晋腰侧，锋芒内敛却透着一股凛然之气 。",
+    "active": "出鞘时剑气如长虹贯日，照亮方圆百里，声震天地 。"
+  },
+  "provenance": {
+    "origin": "出自宝瓶洲兵家祖庭风雪庙神仙台 。",
+    "karma_link": "见证了魏晋从天才剑修到一洲剑道魁首的转型过程 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "火龙镯",
+  "original_name": "火龙手镯",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是阮秀最为强大的攻伐手段，能够随主人心意在饰物与神龙之间 自由转换。它不仅是法宝，更是远古火德的本命象征 。",
+  "aliases": [
+    "火龙手镯",
+    "火蛟镯子",
+    "赤红手镯"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第74章 火龙走水",
+      "owner": "阮秀"
+    },
+    {
+      "chapter": "第80章 出山",
+      "owner": "阮秀"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "阮秀",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "阮邛",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古五至高神灵之一‘火神’神性的承载物，已达到上五境战力 等级 。",
+  "supernatural_ability": "火龙走水：可化现为体型巨大的赤红火焰蛟龙，焚江煮海，压胜天 下水族 。",
+  "evolution": {
+    "current_form": "衔尾状的鲜红手镯",
+    "materials_consumed": [
+      "阮秀打铁时迸发的星火神意",
+      "天外火部神光"
+    ],
+    "potential_evolution": "远古火神法相"
+  },
+  "visual": {
+    "static": "平时为一只晶莹剔透、色泽赤红的手镯，环绕在阮秀手腕 。",
+    "active": "激活时手镯会瞬间“液化”并急剧膨胀，化身为周身缠绕烈焰的太古 火龙 。"
+  },
+  "provenance": {
+    "origin": "阮秀在龙泉郡铁匠铺通过无数次锤炼火星感悟而自生 。",
+    "karma_link": "作为骊珠洞天“五行之火”的显化，与阮秀真实的神灵身份完美契合 。"
+  },
+  "enriched": true
+}

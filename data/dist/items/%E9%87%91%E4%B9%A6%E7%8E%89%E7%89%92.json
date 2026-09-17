@@ -1,0 +1,44 @@
+{
+  "name": "金书玉牒",
+  "original_name": "山水谱牒 / 金玉书牒",
+  "type": "典籍",
+  "grade": "礼器",
+  "status": "活跃",
+  "description": "这是文庙用来确立山水正统地位的最高法典。它不仅记 录了如“东海水君”王朱等高位神灵的出身 ，更是山巅修士衡量自身道行的镜鉴 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第764章 祖师堂内",
+      "owner": "落魄山"
+    }
+  ],
+  "subtype": "神道/管理类",
+  "holder": "礼圣 / 文庙",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古天庭",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "随浩然天下山河秩序的稳固而增强，具有裁定神位正统 的至高威权 。",
+  "supernatural_ability": "记录天下高位神灵与巅峰修士的真名与功德，是考核山 水神灵政绩的根本依据 。",
+  "evolution": {
+    "current_form": "记录有天下山水神祇与“十豪”候补名单的金色玉册 。",
+    "materials_consumed": [
+      "天地气运",
+      "众生香火"
+    ],
+    "potential_evolution": "可演化为掌控整座天下因果律的“功德簿” 。"
+  },
+  "visual": {
+    "static": "宝光焕然，文字如有神助，非得道之士不可见其内容 。",
+    "active": "翻阅时金光冲天，能够感应到册上记录者的即时气运涨 落 。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭对万神录的册封遗法 。",
+    "karma_link": "涉及文庙对“天下十豪”与山水官场的最终解释权 。"
+  },
+  "enriched": true
+}

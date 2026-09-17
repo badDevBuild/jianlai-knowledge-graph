@@ -1,0 +1,39 @@
+{
+  "name": "薜荔酒",
+  "original_name": "香草美酒",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "薜荔酒是《剑来》中极具文化底蕴的消耗品，象征着山 野清供与文字缘分。虽在提供的片段中未直接描述，但 符合陈平安收集“雅物”的逻辑。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1097章 是谁",
+      "owner": "韦玉殿"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "山中隐士 / 陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为文人雅士推崇的香草酿造，承载文运，可净化修士 心境。",
+  "supernatural_ability": "（非源自文本）根据文化背景及小说逻辑，此酒通常具 备祛除心魔、提升精神感知的奇效。",
+  "evolution": {
+    "current_form": "香气扑鼻、色泽清冽的草本酿造酒。",
+    "materials_consumed": [
+      "薜荔果",
+      "山泉水",
+      "书卷气"
+    ],
+    "potential_evolution": "可进阶为“兰膏酒”，用于招待儒家圣贤。"
+  },
+  "visual": {
+    "static": "盛放在素色瓷罐中，揭开泥封后香气四溢，久久不散。",
+    "active": "饮用后，修士周身会隐约泛起草本绿意，双目愈发神采 奕奕。"
+  },
+  "provenance": {
+    "origin": "源于楚辞意境，多由书院或儒家山头酿造。",
+    "karma_link": "代表了浩然天下读书人追求高洁品质的处世哲学。"
+  },
+  "enriched": true
+}

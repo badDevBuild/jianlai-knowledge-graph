@@ -1,0 +1,44 @@
+{
+  "name": "藕丝步云履",
+  "original_name": "步云履",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是远古大妖小陌赠予落魄山众人的见面礼之一。贾老神仙对其极为珍视，在下船参加庆典前特意换上 此履，以符合其“世外高人”的身份定位 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第920章 与诸君借取千山万水（一）",
+      "owner": "贾晟"
+    }
+  ],
+  "subtype": "位移类 / 辅助类",
+  "holder": "贾晟",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "小陌",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由远古巅峰大妖随手编织，虽当下品级为灵器，但具备承载高位修士御风凌空的潜力 。",
+  "supernatural_ability": "赋予持有者御风远游、踏云而行的能力，使步履轻盈且能无视寻常山水阻隔 。",
+  "evolution": {
+    "current_form": "一双质地轻盈、通体由灵性藕丝编织而成的仙家履鞋。",
+    "materials_consumed": [
+      "远古藕丝",
+      "月魄精华"
+    ],
+    "potential_evolution": "若由地仙以上修士长期温养，可演化出缩地成寸的神通。"
+  },
+  "visual": {
+    "static": "履身洁白如雪，编织纹理细腻，隐约散发出清正的道家仙气 。",
+    "active": "行走时脚下生出淡淡云雾，气象缥缈，能够让持有者即便在禁空之地亦能自如行走。"
+  },
+  "provenance": {
+    "origin": "源自远古巅峰剑修小陌在漫长岁月中的随手编织 。",
+    "karma_link": "作为小陌赠予落魄山众人的礼物之一，现由落魄山供奉贾老神仙穿戴，用以彰显门派底蕴 。"
+  },
+  "enriched": true
+}

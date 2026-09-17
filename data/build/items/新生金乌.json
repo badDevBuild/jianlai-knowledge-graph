@@ -1,0 +1,48 @@
+{
+  "name": "新生金乌",
+  "original_name": "禺州地脉金乌 / 远古大日残余",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是远古时代极致阳气的化身。它的出现不仅是一次夺 宝风波，更代表了远古神性在浩然天下的再次觉醒 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第999章 春山花开如火",
+      "owner": "无主"
+    }
+  ],
+  "subtype": "火属/本源类",
+  "holder": "谢狗 (白景) / 大骊地支",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古火殿",
+      "relation": "原主"
+    },
+    {
+      "name": "大骊密库",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古大日的精魄残余，成年后可重现焚山煮海之天 威 。",
+  "supernatural_ability": "天然压胜一切阴寒鬼道，能牵引地脉阳气，其神性道痕 可助持有者冲击更高境界 。",
+  "evolution": {
+    "current_form": "一只在铁匣中处于“清醒”边缘、神智尚幼的金乌精魄 。",
+    "materials_consumed": [
+      "日精",
+      "地脉龙气"
+    ],
+    "potential_evolution": "若得火神敕令点化，可化为巡天大日 。"
+  },
+  "visual": {
+    "static": "身处布满古老禁制的铁匣内，散发出透过缝隙的刺眼金 光 。",
+    "active": "现世时热浪滔天，宛如一轮坠落大地的旭日，引动百里 地脉震颤 。"
+  },
+  "provenance": {
+    "origin": "禺州地脉深处，源自远古火殿坠落人间的旧物 。",
+    "karma_link": "由大骊地支一脉通过精密演算寻得，最终被白景（谢狗 ）截获 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,54 @@
+{
+  "name": "掣电",
+  "original_name": "日月同壁抄手砚",
+  "type": "方寸物",
+  "grade": "飞剑",
+  "status": "活跃",
+  "description": "这原是白帝城的珍藏，名为“掣电”，实则是一件**空间与阵法合一**的重宝 。陈平安在闭关期间将其彻底炼化，使其在自身小天地内形成了一座运转有序的星河大阵 。",
+  "aliases": [
+    "掣电"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第222章 有些离别可以再会",
+      "owner": "鲲船上的年轻女子"
+    },
+    {
+      "chapter": "第486章 不愧是老江湖",
+      "owner": "壁画神女"
+    },
+    {
+      "chapter": "第495章 好人兄",
+      "owner": "火铃"
+    }
+  ],
+  "subtype": "阵法类 / 储存类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "郑居中",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为“上古龙宫旧藏”，具备炼化为一座独立小洞天的无限可能 。",
+  "supernatural_ability": "**“星图化阵”**。砚背刻有二十八星宿眼柱，可配合秘法接引星光，构建出法天象地的星图大阵 [7-9]。",
+  "evolution": {
+    "current_form": "一方篆刻有“日月同壁”字样的古砚 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "炼物道诀"
+    ],
+    "potential_evolution": "在大全境地下可演化为承载“光阴长河”的一方天地 。"
+  },
+  "visual": {
+    "static": "材质莹澈，砚背凿有眼柱，按二十八星宿排列 。",
+    "active": "激活时星光璀璨，神灵归位，在天幕处显化出恢弘的二十八星宿图 。"
+  },
+  "provenance": {
+    "origin": "白帝城郑居中在天外战场抛出，后留给陈平安 。",
+    "karma_link": "作为陈平安研究“炼物”与“小千世界”搭建的基石，承载了极重的算计与机缘 。"
+  },
+  "enriched": true
+}

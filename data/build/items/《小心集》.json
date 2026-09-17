@@ -1,0 +1,44 @@
+{
+  "name": "《小心集》",
+  "original_name": "野修生存指南",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "遗失",
+  "description": "曾是北俱芦洲野修人手一本的神书，记录了如“不可招惹带仙子的年轻宗门子弟”等金玉良言。后因“泄 露天机”太多，被各大宗门联手查禁。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第540章 别有洞天",
+      "owner": "无(已禁绝)"
+    }
+  ],
+  "subtype": "处世/经验类",
+  "holder": "北俱芦洲野修 (广为流传后被禁)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姜姓外乡修士 (姜尚真)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为野修心目中的“圣经”，其价值在于对人心鬼蜮的深刻洞察，而非灵力强弱。",
+  "supernatural_ability": "记载了大量针对大宗门子弟、山上仙子的应对策略及江湖禁忌，能助野修趋吉避凶。",
+  "evolution": {
+    "current_form": "纸质集子，曾风靡一洲，后被琼林宗带头封禁毁去。",
+    "materials_consumed": [
+      "江湖阅历",
+      "人心算计"
+    ],
+    "potential_evolution": "虽无实物进阶，但在野修口耳相传中演化为各种生存铁律。"
+  },
+  "visual": {
+    "static": "寻常书册模样，但因内容惊世骇俗，常被野修私下传阅并视为珍宝。",
+    "active": "阅读时常能令野修冷汗直流，因其精准预判了各种杀身之祸。"
+  },
+  "provenance": {
+    "origin": "由一名姜姓外乡修士撰写，因泄露太多山上内幕被大宗门忌惮。",
+    "karma_link": "与北俱芦洲的江湖风气变迁息息相关，影响了整整一代野修的行事风格。"
+  },
+  "enriched": true
+}

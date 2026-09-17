@@ -1,0 +1,52 @@
+{
+  "name": "剑气过桥符",
+  "original_name": "过桥符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "这种符箓在常规符箓流派外另辟蹊径，因其蕴含的剑仙真意而极具分量，被陈平安视为珍贵的资产 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第539章 相逢偶然，离别悄然",
+      "owner": "陈平安(制造者)"
+    },
+    {
+      "chapter": "第541章 得宝",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第624章 剑修",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "破障类 / 压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐景龙",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "因其内含剑意，随画符者剑道造诣提升而威力剧增 。",
+  "supernatural_ability": "在破开山水迷障的同时，对障碍内的精怪具有强大的震慑和杀伤力 。",
+  "evolution": {
+    "current_form": "黄纸材质，符胆神意饱满 。",
+    "materials_consumed": [
+      "剑气",
+      "仙家丹砂"
+    ],
+    "potential_evolution": "可演化为成规模的符阵，针对中五境修士产生压胜 。"
+  },
+  "visual": {
+    "static": "符箓图案犹如一座横跨江河的长桥，内里灵光流溢 。",
+    "active": "祭出时剑气森严，金石声起，能瞬间在迷雾中切开通道 。"
+  },
+  "provenance": {
+    "origin": "太徽剑宗齐景龙传授给陈平安，融合了剑意与符道 。",
+    "karma_link": "陈平安在剑气长城和北俱芦洲多次以此符作为辅助战斗手段 。"
+  },
+  "enriched": true
+}

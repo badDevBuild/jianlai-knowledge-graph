@@ -1,0 +1,44 @@
+{
+  "name": "翠绿小葫芦",
+  "original_name": "养剑葫",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此葫芦看似寻常礼物，实则是极具底蕴的养剑重器，被正阳山陶家老祖视为孙女的大道屏障 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第533章 那家伙敢来正阳山吗",
+      "owner": "陶紫"
+    }
+  ],
+  "subtype": "滋养类 / 存储类",
+  "holder": "陶紫",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "宋集薪",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "极佳的养剑容器，能够极大加速飞剑开窍与化形的进度 。",
+  "supernatural_ability": "能够温养本命飞剑，且在雷雨天气会嗡嗡作响，具有某种预警或感应天时的能力 。",
+  "evolution": {
+    "current_form": "小巧玲珑的翠绿色葫芦 。",
+    "materials_consumed": [
+      "剑气",
+      "灵泉"
+    ],
+    "potential_evolution": "可作为陶紫跻身中五境甚至上五境的本命法器核心 。"
+  },
+  "visual": {
+    "static": "色泽碧绿如玉，光泽莹润，常年被主人佩戴在腰间 。",
+    "active": "养剑时葫芦口会有微弱剑气吞吐，通体泛起青翠神采 。"
+  },
+  "provenance": {
+    "origin": "宋集薪（搬柴哥哥）早年在小镇将其作为礼物赠予陶紫 。",
+    "karma_link": "是陈平安眼中“不小心被带离家乡”的一桩大机缘，对陶紫意义非凡 。"
+  },
+  "enriched": true
+}

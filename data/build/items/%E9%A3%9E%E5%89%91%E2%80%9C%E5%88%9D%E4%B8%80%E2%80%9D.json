@@ -1,0 +1,67 @@
+{
+  "name": "飞剑“初一”",
+  "original_name": "小酆都",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安极其珍视的本命飞剑之一，灵智成熟且性格略显暴躁，早期曾多次以剑气砥砺陈平安体魄 。它是剑气长城隐官权柄与个人实力的核心体现 。",
+  "aliases": [
+    "初一",
+    "银色剑胚"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第158章 吃掉",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第512章 出剑与否",
+      "owner": "未知"
+    },
+    {
+      "chapter": "第854章 一只笼中雀",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第935章 吾为东道主（五）",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第956章 有人敲鼓",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1146章 毫无还手之力",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "至圣先师",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "通过喂食**金精铜钱**与**斩龙石**，分化飞剑数量可达百万，最终有望跻身仙兵 。",
+  "supernatural_ability": "具备**极致的速度**或**破甲属性**，能以绝对的力量密度击穿复杂的法术结构 。",
+  "evolution": {
+    "current_form": "具有明亮正大轨迹的流光飞剑 。",
+    "materials_consumed": [
+      "斩龙石",
+      "金精铜钱"
+    ],
+    "potential_evolution": "井口月或天上月形态"
+  },
+  "visual": {
+    "static": "微缩如针，藏于养剑葫中，展现出极高的金属密度感 。",
+    "active": "化为长虹或丝线，轨迹清晰且明亮正大 。"
+  },
+  "provenance": {
+    "origin": "陈平安于正月初一获得，故名“初一” 。",
+    "karma_link": "由文圣一脉传承，象征陈平安剑修之路的开端 。"
+  },
+  "enriched": true
+}

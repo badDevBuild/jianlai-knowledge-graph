@@ -1,0 +1,35 @@
+{
+  "name": "锁云匣",
+  "original_name": "资料不足",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "在提供的资料中，仅提及了位于北俱芦洲的锁云宗（Suoyun Sect）及其内部的权力纷争和地理风貌，并未包含名为“锁云匣”的特定器物细节 [12-14]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第539章 相逢偶然，离别悄然",
+      "owner": "桓云"
+    }
+  ],
+  "subtype": "未知",
+  "holder": "未知",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "资料不足",
+  "supernatural_ability": "资料不足",
+  "evolution": {
+    "current_form": "未知",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "无详细描述",
+    "active": "无详细描述"
+  },
+  "provenance": {
+    "origin": "资料不足",
+    "karma_link": "可能与锁云宗（Suoyun Sect）有关"
+  },
+  "enriched": true
+}

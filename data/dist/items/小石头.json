@@ -1,0 +1,43 @@
+{
+  "name": "小石头",
+  "original_name": "路边石子 / 溪涧卵石",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "在《剑来》中，小石头常作为高人随性而为的载体。它既是阿良指点江山的媒介，也是陈灵均等少年心性不改的玩伴 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第94章 秀色可餐",
+      "owner": "阮秀"
+    }
+  ],
+  "subtype": "杂项",
+  "holder": "陈灵均",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "阿良",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽为凡物，但在高人手中可以气机牵引，发挥意想不到的威慑力 , 。",
+  "supernatural_ability": "常被用作投石问路或戏耍同僚，在大修手中可化作击穿气府的暗器 , 。",
+  "evolution": {
+    "current_form": "从山间溪流或泥地里随手捡起的普通石子 , 。",
+    "materials_consumed": [
+      "自然山石"
+    ],
+    "potential_evolution": "若长期受灵气浸染，可演化为蛇胆石等灵物。"
+  },
+  "visual": {
+    "static": "形状不一，质地坚硬，带有天然的泥土或水渍气息 , 。",
+    "active": "被掷出时，可划破虚空产生细微的尖啸声，精准击中目标 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天各处山川或落魄山溪涧 , 。",
+    "karma_link": "阿良曾捡起石子丢入水潭，陈灵均常以此物投掷同僚屋顶 , 。"
+  },
+  "enriched": true
+}

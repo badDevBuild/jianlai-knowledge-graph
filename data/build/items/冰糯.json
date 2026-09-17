@@ -1,0 +1,50 @@
+{
+  "name": "冰糯",
+  "original_name": "碧绿镯子 / 冰糯翡翠镯",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "一件极具灵性的防御类法宝。虽然在与飞剑十五的对抗中略有受损，但其天生具备的防御能力仍属一流 ，被陈平安视为重要的家底之一。",
+  "aliases": [
+    "冰糯"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第228章 初一十五，随我除魔",
+      "owner": "白衣女子"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "肤腻城彩衣女子",
+      "relation": "夺取自"
+    },
+    {
+      "name": "老祖宗 (其背后的妖族大佬)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "属于灵器中的“上等货色”，即便面对飞剑十五的连续撞击也能支撑许久。",
+  "supernatural_ability": "**“流萤自动防御”**。祭出后会围绕主人飞速旋转，速度之快甚至连残影都不可见，能抵御各种仙家杀 招。",
+  "evolution": {
+    "current_form": "一只色泽润透、绿意盈然的翡翠镯子。",
+    "materials_consumed": [
+      "水属灵气",
+      "冰寒地脉气"
+    ],
+    "potential_evolution": "若能继续在水气浓郁处温养，可演化为锁拿蛟龙的缚妖环。"
+  },
+  "visual": {
+    "static": "质地温润，如糯种翡翠般细腻，带有淡淡的寒意。",
+    "active": "激活后化作一阵阵碧绿色的流萤，在周身交织出密不透风的灵气防护层。"
+  },
+  "provenance": {
+    "origin": "由妖族老祖宗赐予门下嫡传。",
+    "karma_link": "陈平安在城隍阁一役中击败彩衣女子后获得的战利品，后曾计划将其放在“蚍蜉”铺子招徕顾客。"
+  },
+  "enriched": true
+}

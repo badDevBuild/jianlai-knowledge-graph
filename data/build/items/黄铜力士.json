@@ -1,0 +1,51 @@
+{
+  "name": "黄铜力士",
+  "original_name": "符箓金师 / 机关傀儡",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "大骊王朝的特产重器。它们既是建设落魄山和仙都山的苦力，也是战场 上抵御蛮荒大军的钢铁洪流，象征着工业与符道的完美结合 。",
+  "aliases": [
+    "黄铜力士"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第229章 趋之若鹜",
+      "owner": "崇妙道人"
+    },
+    {
+      "chapter": "第231章 又见城隍爷",
+      "owner": "崇妙道人"
+    }
+  ],
+  "subtype": "防御/劳作类",
+  "holder": "崔东山 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊工部",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "若能融入神灵金身碎片，可进化为具备元婴境战力的“神人承露偶” 。",
+  "supernatural_ability": "力大无穷且不畏生死，能根据敕令进行开山、造屋、搬运或担任陷阵步 卒。由于是死物，极难被寻常精神类法术干扰 。",
+  "evolution": {
+    "current_form": "身高丈余、全身覆盖黄铜装甲的庞大傀儡 。",
+    "materials_consumed": [
+      "黄铜精粹",
+      "墨家机关术",
+      "符箓灵光"
+    ],
+    "potential_evolution": "可由崔东山点睛开窍，成为具备自主心智的“瓷人” 。"
+  },
+  "visual": {
+    "static": "外表呈古旧的黄铜色，刻满复杂的禁制纹路，沉重且威严 。",
+    "active": "行动时关节处发出低沉的金属摩擦声，符文闪烁，能够在瞬息间撞碎山 石 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝联合墨家机关师大批量打造的战争工具 。",
+    "karma_link": "体现了大骊“人尽其力、物尽其用”的国家策略 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "绣花针",
+  "original_name": "缝衣人本命针",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "缝衣人的核心本命物，代表了其“剥衣”与“穿衣”的通天手段，是能够直接干预修士大道根基的禁忌之器 。",
+  "aliases": [
+    "绣花针"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第163章 终成师生",
+      "owner": "崔瀺"
+    },
+    {
+      "chapter": "第673章 针线活",
+      "owner": "捻芯"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "捻芯",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "缝衣人老祖",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随缝衣人所剥离的大妖真名数量增多，其压胜杀力会持续暴涨 。",
+  "supernatural_ability": "能**缝补三魂七魄**，并在修士骨骼、肌肤上铭刻神诰青词与大妖真名 。",
+  "evolution": {
+    "current_form": "极细微、拖曳七彩莹光的本命物 。",
+    "materials_consumed": [
+      "大妖真名",
+      "修士精血"
+    ],
+    "potential_evolution": "禁锢神灵的秩序之锁"
+  },
+  "visual": {
+    "static": "微小如芥子，肉眼极难察觉，散发出诡谲的彩色光芒 。",
+    "active": "针尖极其纤细，能在脊柱关节上进行九叠篆、鸟虫篆等精密刻划 。"
+  },
+  "provenance": {
+    "origin": "缝衣人一脉秘传，曾用于在龙虎山施展五雷正法 。",
+    "karma_link": "由捻芯持有，在剑气长城牢狱中为陈平安重塑体魄时发挥关键作用 。"
+  },
+  "enriched": true
+}

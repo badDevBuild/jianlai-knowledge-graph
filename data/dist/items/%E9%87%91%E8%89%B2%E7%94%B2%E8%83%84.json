@@ -1,0 +1,44 @@
+{
+  "name": "金色甲胄",
+  "original_name": "神人承露甲 / 金乌甲",
+  "type": "法宝",
+  "grade": "神兵",
+  "status": "活跃",
+  "description": "被誉为“行走的武库”的兵家利器。其真正的核心在于通 过炼化神灵金身来达到极致的防御 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第831章 文圣请你落座",
+      "owner": "老车夫"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "马苦玄 / 魏羡",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古神灵",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "若能不断“喂食”金精铜钱，可成长为抵挡飞升境攻击的 终极防具 。",
+  "supernatural_ability": "防御力惊人，水火不侵，能极大地反哺穿戴者的肉身体魄 。",
+  "evolution": {
+    "current_form": "外表呈金色的兵家重型甲胄 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "金精铜钱"
+    ],
+    "potential_evolution": "可彻底蜕变为远古“披甲者”形态的次一等真迹 。"
+  },
+  "visual": {
+    "static": "通体金黄，鳞片密集，甲胄表面隐约有神灵咆哮的暗纹 。",
+    "active": "穿戴后会有浓郁的金色流光在缝隙间穿行，如同一团燃烧的烈日 。"
+  },
+  "provenance": {
+    "origin": "远古十二高位神灵“铸造者”仿照披甲者所制 。",
+    "karma_link": "是兵家修士赖以生存的根基，亦是诸多天之骄子的标配 重宝 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,43 @@
+{
+  "name": "陨铁",
+  "original_name": "春雷陨铁",
+  "type": "材料",
+  "grade": "灵材",
+  "status": "消耗",
+  "description": "这块陨铁非同凡响，是从第一声春雷中凝结坠落人间的异物。体积虽小却重达六斤，因其独特的雷法属 性，被视为炼制上乘兵器的神品 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第424章 御剑而去云海中",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "炼物材料",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴懿 (紫阳府)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵物",
+  "rank_potential": "从第一声春雷中凝结孕育而成的天材地宝，是炼制攻伐类法宝的绝佳核心 。",
+  "supernatural_ability": "**“雷霆真意”**。蕴含精纯的雷电法则，对阴晦之物有天然的压制作用，且密度极大 。",
+  "evolution": {
+    "current_form": "拇指大小，重达六斤的漆黑金属块 。",
+    "materials_consumed": [
+      "天地雷浆精华"
+    ],
+    "potential_evolution": "可作为重铸剑身或炼制五行之金本命物的辅佐重料 。"
+  },
+  "visual": {
+    "static": "体积微小但质地极沉，色泽冷硬，透着金属光泽 。",
+    "active": "在丹炉中熔炼时会迸发出细微的雷鸣声，伴有电弧闪烁 。"
+  },
+  "provenance": {
+    "origin": "由紫阳府老祖吴懿多年珍藏，源自一次上古遗址的意外所得 。",
+    "karma_link": "作为四件贺礼之一赠予陈平安，见证了落魄山与黄庭国蛟龙一脉的结缘 。"
+  },
+  "enriched": true
+}

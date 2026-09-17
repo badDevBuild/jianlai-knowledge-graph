@@ -1,0 +1,60 @@
+{
+  "name": "竹黄裁纸刀",
+  "original_name": "“贞松堂制”裁纸刀",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这不仅是一把裁纸刀，更是裴钱行走江湖的“大口袋”。它帮裴钱收纳了无数来自战场和遗迹的战利品， 是落魄山家底的重要载体之一。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第729章 人生好像一直在陋巷徘徊",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第730章 万事俱备只欠风雪",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第791章 横着走",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第1010章 谁不是黄雀",
+      "owner": "竹皇赠予鸡足山女修"
+    }
+  ],
+  "subtype": "空间类 / 文房类",
+  "holder": "裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文圣 (老秀才)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "郁家老祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为顶级的咫尺物，内部空间稳固，不仅能装载死物，甚至能滋养文气。",
+  "supernatural_ability": "咫尺千里。内部空间广阔，可纳千万物，极大缓解了负笈远游的负担 。",
+  "evolution": {
+    "current_form": "贴竹黄材质的小巧裁纸刀，刀鞘铭文“贞松堂制” 。",
+    "materials_consumed": [
+      "浩然文运",
+      "中土郁氏气数"
+    ],
+    "potential_evolution": "作为文脉传承物，可随持有者学问精进而扩大内部空间。"
+  },
+  "visual": {
+    "static": "精致古朴，刀柄色泽温润如玉，宛如一件凡俗间的文房清供 。",
+    "active": "开启时气机流转无声，可瞬间收放如山岳般沉重的重物 。"
+  },
+  "provenance": {
+    "origin": "中土神洲豪阀郁氏家族。由郁家老祖赠予文圣，后由文圣转交给徒孙裴钱 。",
+    "karma_link": "见证了裴钱从“小黑炭”成长为武道大宗师的跨洲远游历程 。"
+  },
+  "enriched": true
+}

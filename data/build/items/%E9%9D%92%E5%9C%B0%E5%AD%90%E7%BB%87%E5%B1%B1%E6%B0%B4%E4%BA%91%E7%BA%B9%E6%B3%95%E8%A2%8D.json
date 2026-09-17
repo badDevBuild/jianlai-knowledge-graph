@@ -1,0 +1,44 @@
+{
+  "name": "青地子织山水云纹法袍",
+  "original_name": "仙女缂丝春水云纹法袍",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这件法袍不仅是极佳的防御法宝，更承载着云窟福地独特的织造法统。它能调理穿戴者的气机，对于中 五境修士稳固神魂有着显著效果 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第762章 归乡之返，开天之去",
+      "owner": "郭淳熙"
+    }
+  ],
+  "subtype": "防御类 / 气运类",
+  "holder": "郭淳熙",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姜尚真",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为云窟福地顶尖织造工艺的产物，具备通过“通经断纬”秘术不断吸收山水灵气进阶为半仙兵的潜力 。",
+  "supernatural_ability": "具备“抽丝”神通，能够在大地山河中强行抽取灵气融入经纬丝线中，若无阵法阻拦，可瞬间吸纳一山半 数灵气 。",
+  "evolution": {
+    "current_form": "饰有春水云纹的精美青色法袍 。",
+    "materials_consumed": [
+      "仙女缂丝",
+      "山水灵气"
+    ],
+    "potential_evolution": "若能完全掌控其“通经断纬”之法，可演化为具备大范围压胜之能的重器 。"
+  },
+  "visual": {
+    "static": "质地轻盈，表面布满细腻的春水云纹，散发着淡淡的仙家道气 。",
+    "active": "激发后云纹如水流转，袍身流光溢彩，能够形成厚重的防御灵光挡住地仙攻击 。"
+  },
+  "provenance": {
+    "origin": "出自云窟福地十八景之一的刻色坊 。",
+    "karma_link": "由落魄山首席供奉姜尚真转赠给弟子郭淳熙，是落魄山家底雄厚的体现 。"
+  },
+  "enriched": true
+}

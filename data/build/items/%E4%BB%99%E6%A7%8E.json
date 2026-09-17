@@ -1,0 +1,44 @@
+{
+  "name": "仙槎",
+  "original_name": "醴泉渡船",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "仙槎是灵飞宫的标志性渡船，以其极速闻名于世。它是远古仙人行走天地的代步工具，保留了极强的神 异性能 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1020章 目击而道存",
+      "owner": "湘君"
+    }
+  ],
+  "subtype": "跨洲渡船",
+  "holder": "湘君",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "灵飞宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为远古遗物，其承载力和御风性能随灵飞宫气运加持而保持巅峰 。",
+  "supernatural_ability": "拥有极速御风之能，快若奔雷，被评价为比任何一艘渡船都要快捷，甚至不逊色于流霞舟 。",
+  "evolution": {
+    "current_form": "一条形制古怪、像是一截凿空木桩子的渡船 。",
+    "materials_consumed": [
+      "远古灵木",
+      "奔雷阵法"
+    ],
+    "potential_evolution": "若能通过神道手段祭炼，可演化为能穿梭部分光阴屏障的仙家重器 。"
+  },
+  "visual": {
+    "static": "外观像是一截极其巨大的、被掏空的古朴木桩 。",
+    "active": "航行时在云海中穿梭，带起风雷之声，气势极其惊人 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的仙家遗物 。",
+    "karma_link": "由灵飞宫宫主湘君祖师亲自掌舵，用于接待重要宾客 。"
+  },
+  "enriched": true
+}

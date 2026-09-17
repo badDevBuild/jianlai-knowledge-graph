@@ -1,0 +1,44 @@
+{
+  "name": "圣人教诲书",
+  "original_name": "儒家典籍 / 圣贤笔札",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "承载儒家大道真意的书籍。陈平安将其视为“养气”之基，常在远游途中翻阅摘抄。其文字在特定条件下 能化为通往阴冥的坦途 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第166章 先生有事当如何",
+      "owner": "山崖书院"
+    }
+  ],
+  "subtype": "修心/文化类",
+  "holder": "文圣一脉弟子",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老秀才",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "书中文字随儒家气运流转，可化为言出法随的神通 。",
+  "supernatural_ability": "文字蕴含浩然正气，诵读时可镇压邪祟，炼化文字可构建坚固的道心屏障 。",
+  "evolution": {
+    "current_form": "版刻精良、带有墨香的古旧书卷 。",
+    "materials_consumed": [
+      "读书人的精气神",
+      "天地文运"
+    ],
+    "potential_evolution": "文字可脱离纸张，化为金色长河，引领英灵走向光明 。"
+  },
+  "visual": {
+    "static": "纸张绵软陈旧，多有朱批和注解，字迹法度严谨 。",
+    "active": "翻阅时金光点点，内容可化作漫天繁星或铺设在大地上的金色莲花路 。"
+  },
+  "provenance": {
+    "origin": "多来自文庙、各大学宫及七十二书院 。",
+    "karma_link": "“书上道理，书外做人”，是陈平安一脉的立身之本 。"
+  },
+  "enriched": true
+}

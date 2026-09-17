@@ -1,0 +1,88 @@
+{
+  "name": "隐官玉牌",
+  "original_name": "隐官令",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "隐官一脉的象征，持有者即为剑气长城的中枢谋主。它不仅是一件身份证明，更是一件能定夺千万人生 死的因果重器，记载了万年战争中所有的禁忌档案 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第626章 新一任隐官",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第627章 算账整座天下",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第629章 处处杀机",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第633章 落座主位的那个年轻人",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第634章 搬山倒海",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第635章 日就月将",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第638章 代大匠斫者",
+      "owner": "庞元济(代管)/陈平安"
+    },
+    {
+      "chapter": "第672章 人生梦复梦",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第690章 看门狗",
+      "owner": "捻芯"
+    },
+    {
+      "chapter": "第913章 龙门对",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第927章 与诸君借取千山万水（八）",
+      "owner": "浩然天下各船主/宗门"
+    }
+  ],
+  "subtype": "权柄类 / 阵法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "萧愻",
+      "relation": "曾持有"
+    },
+    {
+      "name": "剑气长城",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "承载半座剑气长城的合道契机，其地位等同于飞升城城主之印 , 。",
+  "supernatural_ability": "一言而定人生死；在剑气长城禁地内通行无碍，可调动避暑、躲寒两座行宫的所有秘录档案与剑修权限 , 。",
+  "evolution": {
+    "current_form": "篆刻有“隐官”二字的素雅玉牌。",
+    "materials_consumed": [
+      "剑气长城气运",
+      "十四境神性"
+    ],
+    "potential_evolution": "与剑气长城合道后，成为掌控整座天下剑道气运的枢纽 。"
+  },
+  "visual": {
+    "static": "质地细腻的古玉，其上“隐官”二字笔画苍劲 。",
+    "active": "激发时散发出森严剑气，能短暂隔绝一方小天地，压制敌方神识 , 。"
+  },
+  "provenance": {
+    "origin": "剑气长城隐官一脉历代传承 。",
+    "karma_link": "由陈清都属意传给陈平安，使其掌握抗衡蛮荒天下的最高智略权柄 , 。"
+  },
+  "enriched": true
+}

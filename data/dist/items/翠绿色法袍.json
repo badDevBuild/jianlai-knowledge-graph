@@ -1,0 +1,44 @@
+{
+  "name": "翠绿色法袍",
+  "original_name": "大貌 / 兜率宫铢衣",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是蛮荒女修萧形的**保命重器**。其名为“大貌”，寓意**大道容貌**，是极其罕见的辅助跨越光阴屏 障的仙家衣物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1040章 报道梅花消息",
+      "owner": "灵验 (春宵)"
+    }
+  ],
+  "subtype": "防御类 / 位移类",
+  "holder": "萧形 (许娇切)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蛮荒大妖",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "具备“水路分阴阳”之效，随持有者修为可进阶为真正的仙家铢衣 。",
+  "supernatural_ability": "能够衔火飞掠，并辅助练气士接触光阴长河，具备极强的防御与避世之效 。",
+  "evolution": {
+    "current_form": "一件质地轻盈、如翠绿羽毛织就的法衣 。",
+    "materials_consumed": [
+      "远古仙蜕",
+      "翠绿羽毛"
+    ],
+    "potential_evolution": "若能补全经纬丝线，可演化为能无视空间距离的“天仙洞衣” 。"
+  },
+  "visual": {
+    "static": "色泽青翠，质感柔顺，衣袂处有淡淡的烟霞流转 。",
+    "active": "激发时如同一丛翠绿云雾，持有者身形随之缥缈，似在水云间穿梭 。"
+  },
+  "provenance": {
+    "origin": "由远古神灵遗留的仙蜕炼制而成 。",
+    "karma_link": "此袍代表了远古道脉中关于“天人法相”的一种传承 。"
+  },
+  "enriched": true
+}

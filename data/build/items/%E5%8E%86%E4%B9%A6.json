@@ -1,0 +1,46 @@
+{
+  "name": "历书",
+  "original_name": "黄历 / 节气录",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不仅是记录日期的书册，更是修道之人感应天地节律 的重要参考，是“规矩”在时间维度的具象化。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第911章 来者何人",
+      "owner": "五彩天下"
+    },
+    {
+      "chapter": "第916章 此间事了",
+      "owner": "吴霜降(制作者)"
+    },
+    {
+      "chapter": "第1093章 雪光",
+      "owner": "顾璨/顾灵验"
+    }
+  ],
+  "subtype": "天时/修行类",
+  "holder": "陈平安 / 陆沉",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "随陈平安对“二十四节气大阵”的掌握，可演变为掌控小 天地天时的纲目。",
+  "supernatural_ability": "记载四时流转、阴阳更替。特殊版本如北俱芦洲黄历， 可判定“宜问剑”等特有天时 。",
+  "evolution": {
+    "current_form": "纸质或玉版材质的历本。",
+    "materials_consumed": [
+      "光阴流水",
+      "节气精华"
+    ],
+    "potential_evolution": "与“二十四节气阵图”融合，成就半仙兵级“春秋册” 。"
+  },
+  "visual": {
+    "static": "红黑两色印刷，质地厚重，翻开有岁月的陈腐香气。",
+    "active": "指尖滑过特定日期，可短暂感应到当天的气运走势 。"
+  },
+  "provenance": {
+    "origin": "多产自钦天监或大型道门仙府。",
+    "karma_link": "陈平安通过此物厘清自身修行次第，配合剑阵运转 。"
+  },
+  "enriched": true
+}

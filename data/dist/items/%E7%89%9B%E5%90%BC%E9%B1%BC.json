@@ -1,0 +1,47 @@
+{
+  "name": "牛吼鱼",
+  "original_name": "深潭灵鱼",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "牛吼鱼是水龙宗的独有灵物，雌雄成对，极为稀少 。它们不仅是观赏雅玩，更是能在关键时刻让敌人神魂受损的奇兵 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第540章 别有洞天",
+      "owner": "白璧"
+    },
+    {
+      "chapter": "第815章 月色",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐/警示类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "水龙宗孙结",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "百年一遇的灵物，其吼声威力可随年份增长不断拔高 。",
+  "supernatural_ability": "体型虽小，发出的吼声却如雷鸣，威力堪比地仙全力一击 。",
+  "evolution": {
+    "current_form": "手指长短、青绿如玉的小鱼 。",
+    "materials_consumed": [
+      "龙宫深潭精华"
+    ],
+    "potential_evolution": "若能成功炼形，可成为强力护道灵兽 。"
+  },
+  "visual": {
+    "static": "外观通体翠绿，质感温润如玉，十分讨喜 。",
+    "active": "张嘴怒吼时声震百里，能直接重创敌对修士的肉身与金身 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲水龙宗深潭禁地 。",
+    "karma_link": "由水龙宗宗主孙结赠予陈平安，作为庆贺落魄山下宗建成的重礼 。"
+  },
+  "enriched": true
+}

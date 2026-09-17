@@ -1,0 +1,35 @@
+{
+  "name": "阴阳鱼灵器",
+  "original_name": "“紫气”法袍",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "**“紫气”法袍是道门顶尖的防御重器**。它不仅是身份的象征，更是于玄施展符箓大阵、稳固人身小天 地的关键依托，在天外阻拦蛮荒天下冲撞的战役中发挥了巨大作用 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第276章 最强之间",
+      "owner": "宁姚"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "于玄",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为数座天下的十大法袍之一，其防御上限极高，能够辅助十四境大修士合道星河",
+  "supernatural_ability": "绘有一幅黑白两色阴阳鱼的太极图，具备调理阴阳、稳固自身小天地气机的神效",
+  "evolution": {
+    "current_form": "极为宽松的紫色长袍",
+    "materials_consumed": [],
+    "potential_evolution": "与持有者合道后，成为承载诸天星斗道意的法理外衣"
+  },
+  "visual": {
+    "static": "一件极为宽松的紫色长袍，背部绘有清晰的黑白阴阳鱼太极图",
+    "active": "在天外星河中，随于玄法相显化，道气萦绕，星光点点汇聚成河"
+  },
+  "provenance": {
+    "origin": "道门高深法脉传承之物，名列数座天下十大法袍",
+    "karma_link": "与于玄合道十四境的过程深度绑定"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "青虎宫炼丹书",
+  "original_name": "陆雍炼丹秘籍",
+  "type": "典籍",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是青虎宫的立身之本，详细记载了各种能直接裨益神魂、协助破境的丹药炼制方法，是落魄山极为珍 视的医疗库藏 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第383章 彩云局",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "炼丹类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆雍",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由炼丹宗师陆雍亲笔书写，记载了多种独门灵药的炼制法门，具有极高的实用价值 。",
+  "supernatural_ability": "“金丹大道”。详细记载了如何配合五彩金匮灶炼制“坐忘丹”、“火龙丹”等上乘灵药的火候与材料秘诀 , 。",
+  "evolution": {
+    "current_form": "一本材质不明、由陆雍亲笔手写的厚重秘籍 。",
+    "materials_consumed": [
+      "清境山灵气",
+      "宗师心血"
+    ],
+    "potential_evolution": "可配合仙家道诀演化为一套完整的炼丹、炼物体系 。"
+  },
+  "visual": {
+    "static": "书页质感特殊，字迹苍劲，记载了极其详尽的开炉与采药时辰 。",
+    "active": "翻阅时隐约有药香溢出，文字间隐有雷火道意流转 。"
+  },
+  "provenance": {
+    "origin": "产自桐叶洲天阙峰青虎宫，由宫主陆雍总结毕生心得而成 。",
+    "karma_link": "因姜尚真的缘故，由陆雍随同五彩金匮灶一并赠予陈平安 。"
+  },
+  "enriched": true
+}

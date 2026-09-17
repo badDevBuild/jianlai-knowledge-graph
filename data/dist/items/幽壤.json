@@ -1,0 +1,47 @@
+{
+  "name": "幽壤",
+  "original_name": "采芝山幽壤",
+  "type": "材料",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "**采芝山独有的一种万年土** 。是山上英灵、阴物开辟道场小天地的**根本奠基之物**，在宝瓶洲极负盛名 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第736章 问我春风",
+      "owner": "采芝山"
+    },
+    {
+      "chapter": "第890章 下宗",
+      "owner": "采芝山/南岳"
+    }
+  ],
+  "subtype": "土属/奠基类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "王眷",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵物",
+  "rank_potential": "是开辟洞天福地、稳固山水气运的核心材料。",
+  "supernatural_ability": "能够自行聚拢并稳固地脉灵气，使阴灵英灵具备开辟道场的“立锥之地” 。",
+  "evolution": {
+    "current_form": "深褐色、质地沉重的土壤 。",
+    "materials_consumed": [
+      "万年地脉精华"
+    ],
+    "potential_evolution": "若数量达到万斤以上，可自我培育并延展为洞天基石 。"
+  },
+  "visual": {
+    "static": "看似寻常的泥土，实则重若金石，蕴含浓郁的土属道意 。",
+    "active": "铺设于道场后，可使小天地气机严密，外魔难入 。"
+  },
+  "provenance": {
+    "origin": "大骊南岳储君之山采芝山的特产 。",
+    "karma_link": "陈平安通过与王眷的交易获得，用于缝补莲藕福地的江山脉络 。"
+  },
+  "enriched": true
+}

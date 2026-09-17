@@ -1,0 +1,54 @@
+{
+  "name": "天下迎春印",
+  "original_name": "迎春钱 / 皇家压胜印",
+  "type": "货币",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "骊珠洞天三种核心信物之一。这种名为“钱”的印记实为金精铜钱中的极美品，代表了皇家对春季与生机 的掌控，是寻找传家宝的重要筹码 。",
+  "aliases": [
+    "天下迎春"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第79章 迎春印",
+      "owner": "眉心有痣的清秀少年"
+    },
+    {
+      "chapter": "第146章 靠山和帮手",
+      "owner": "崔瀺"
+    },
+    {
+      "chapter": "第161章 山水终有一别",
+      "owner": "赵繇"
+    }
+  ],
+  "subtype": "气运/象征类",
+  "holder": "进入骊珠洞天的寻宝者",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊皇室",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为汇聚一国气运的压胜之物，具有极高的神道价值 。",
+  "supernatural_ability": "作为骊珠洞天寻宝的“入场券”，可购买同等级的仙家机缘 。",
+  "evolution": {
+    "current_form": "金精质地的特殊钱币，对应皇宫每年悬挂于桃符上的节气气运 。",
+    "materials_consumed": [
+      "金精",
+      "大骊国运"
+    ],
+    "potential_evolution": "三钱合一可窥探骊珠洞天最高机缘 。"
+  },
+  "visual": {
+    "static": "金光灿灿，形制特殊，篆刻有迎春等吉祥文字，质地极沉 。",
+    "active": "散发浓郁的国运灵气，能够引动小镇阵法的特殊感应 。"
+  },
+  "provenance": {
+    "origin": "大骊皇室专供，由墨家巨子参与铸造 。",
+    "karma_link": "对应骊珠洞天“以物易物”的古老契约规矩 。"
+  },
+  "enriched": true
+}

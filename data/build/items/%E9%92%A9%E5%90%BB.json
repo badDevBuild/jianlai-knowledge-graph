@@ -1,0 +1,40 @@
+{
+  "name": "钩吻",
+  "original_name": "春宵本命飞剑",
+  "type": "本命飞剑",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "资料中并未提及钩吻的具体器物描述 [无资料]。根据小说背景，它是蛮荒天下大妖、现顾璨婢女“春宵”的本命飞剑 。因“钩吻”本为剧毒之草，此剑象征着极度的危险与杀机 [无资料]。",
+  "aliases": [
+    "毒飞刀"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第313章 驭剑",
+      "owner": "笑脸儿"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "子午梦 (春宵)",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为蛮荒天干修士的本命物，随持有者修为提升可跻身仙兵品秩 。",
+  "supernatural_ability": "具备极强的毒性杀伤力，能够腐蚀修士的神魂与气府 [无资料]。",
+  "evolution": {
+    "current_form": "本命飞剑",
+    "materials_consumed": [
+      "自身精血",
+      "蛮荒灵气"
+    ],
+    "potential_evolution": "可随子午梦跻身上五境而进一步蜕变 。"
+  },
+  "visual": {
+    "static": "资料中并未详细描述其静态外观 [无资料]。",
+    "active": "祭出时带有剧毒气机，能化作毒雾或流光攻敌 [无资料]。"
+  },
+  "provenance": {
+    "origin": "源自蛮荒天下，由天干修士子午梦（道号春宵）孕育而成 。",
+    "karma_link": "与顾璨的随从身份紧密相连，在浩然天下游历期间常作为杀手锏使用 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,40 @@
+{
+  "name": "虎兕",
+  "original_name": "",
+  "type": "仙剑",
+  "grade": "佩剑",
+  "status": "活跃",
+  "description": "此剑是墨家游侠、大骊首席剑客许弱的佩剑。虽然在现有的详细档案中关于其具体神通记录较少，但在 多次重大战役及倒悬山悬赏中，其名声足以与宋长镜等并列 。",
+  "aliases": [
+    "虎兕"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第213章 憧憬",
+      "owner": "前任主人（女子剑修祖辈）"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "许弱",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "作为墨家游侠许弱的佩剑，具备极高的杀力上限，在一洲战事中足以震慑飞升境妖族 。",
+  "supernatural_ability": "“问剑山河”。具备极致的搬山剑术，剑气雄厚，可阻断天地气机 。",
+  "evolution": {
+    "current_form": "一柄由墨家游侠许弱随身佩戴的长剑 。",
+    "materials_consumed": [
+      "墨家机关术",
+      "至纯剑气"
+    ],
+    "potential_evolution": "有望进阶为能够斩断天下龙脉的镇国神兵 。"
+  },
+  "visual": {
+    "static": "剑身古拙，不显锋芒，常年悬挂于腰间 。",
+    "active": "出鞘时剑光如虹，其势可让周围空间出现微妙的崩碎感 。"
+  },
+  "provenance": {
+    "origin": "由大骊国师崔瀺与墨家钜子联手为其谋划而得 。",
+    "karma_link": "承载着大骊王朝“以武止戈”的国运与墨家豪侠的意气 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "碧绿抄手砚",
+  "original_name": "星宿抄手砚",
+  "type": "方寸物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是落魄山极具代表性的**文房重器**。 它不仅是一件**方寸物**，更承载了**白帝城**与陈平安之间的复杂因果，现为**郭竹酒**的随身至宝 。",
+  "aliases": [
+    "抄手砚"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第583章 还不过来挨打",
+      "owner": "郭竹酒"
+    }
+  ],
+  "subtype": "空间/储存类",
+  "holder": "郭竹酒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    },
+    {
+      "name": "郑居中",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "内部空间稳定，且具备星宿阵法的加持，可逐步演化为小洞天。",
+  "supernatural_ability": "砚背凿有眼柱，契合二十八星宿排列方式，能稳固神魂并作为跨洲飞剑的信号点 。",
+  "evolution": {
+    "current_form": "一方碧绿莹润、形制古朴的抄手砚 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "星辰精华"
+    ],
+    "potential_evolution": "可炼化为一座包含星宿阵法的小型洞天 。"
+  },
+  "visual": {
+    "static": "质地如玉，背面眼柱星罗棋布，透着深沉的古意 。",
+    "active": "开启时会有阵阵涟漪，星光流转，内部空间宏大 。"
+  },
+  "provenance": {
+    "origin": "白帝城郑居中赠予陈平安，用于盛放金精铜钱 。",
+    "karma_link": "后作为信物传予陈平安的嫡传弟子郭竹酒 。"
+  },
+  "enriched": true
+}

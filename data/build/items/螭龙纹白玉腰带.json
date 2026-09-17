@@ -1,0 +1,44 @@
+{
+  "name": "螭龙纹白玉腰带",
+  "original_name": "白玉带",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是王朱跻身东海水君后佩戴的礼器腰带。它不仅象征着她的水神高位，更是她汇聚四海水运、对抗大 道宿敌的重要凭证。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第736章 问我春风",
+      "owner": "柴伯符"
+    }
+  ],
+  "subtype": "气运类 / 礼器类",
+  "holder": "王朱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊皇室",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为真龙王朱担任东海水君的礼制配饰，承载着一部分四海水运权柄，随其龙族阶位提升而增强。",
+  "supernatural_ability": "凝聚龙气，压胜周边水裔。能够与主人的龙袍、冠冕共鸣，形成一个微缩的水德气场。",
+  "evolution": {
+    "current_form": "质地通透的白玉带，饰有精美的螭龙纹路。",
+    "materials_consumed": [
+      "东海水运",
+      "大骊国祚龙气"
+    ],
+    "potential_evolution": "若王朱取回真龙全身，此腰带可进化为具备实质束缚神灵之能的“捆龙索”。"
+  },
+  "visual": {
+    "static": "莹白如脂，纹路古雅，螭龙仿佛随时会破玉而出，自带一股尊贵的皇室气息。",
+    "active": "在王朱显化龙威时，腰带会散发出阵阵金光，龙纹游走，强行压制周边的水法波动。"
+  },
+  "provenance": {
+    "origin": "大骊王朝作为扶持东海水君的礼赠。",
+    "karma_link": "见证了王朱（稚圭）从泥瓶巷婢女到四海水君的身份蜕变。"
+  },
+  "enriched": true
+}

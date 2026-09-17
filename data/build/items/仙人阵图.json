@@ -1,0 +1,44 @@
+{
+  "name": "仙人阵图",
+  "original_name": "俞真意阵图",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是俞真意在离开福地前，为保湖山派万全而留下的**最后屏障**。该阵图并非即刻生效的死物，而是 需要修士体悟天时并配合福地升位后的灵气甘露才能真正开启的大手笔 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第991章 山青花欲燃",
+      "owner": "湖山派（高君）"
+    }
+  ],
+  "subtype": "防御类 / 阵法类",
+  "holder": "高君",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "俞真意",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为湖山派**护山大阵**的基础，其威力随天时变化及灵气灌注而增强 。",
+  "supernatural_ability": "是一幅用于构建护山大阵的**亲笔手绘图卷**，需静待“天降甘露”的异象方可付诸实施 。",
+  "evolution": {
+    "current_form": "由俞真意在“飞升”前留给湖山派的阵法底本 。",
+    "materials_consumed": [
+      "天地灵气",
+      "天时感应"
+    ],
+    "potential_evolution": "若能配合完整的山水脉络，可演化为稳固一地的**顶级防御禁制** 。"
+  },
+  "visual": {
+    "static": "一幅绘有精密阵法线条与山水走向的古老图卷 。",
+    "active": "激发后能引动一地之**山水气运**，形成笼罩山门的巨大灵气屏障 。"
+  },
+  "provenance": {
+    "origin": "由藕花福地首位修仙成功的**俞真意**亲手手绘 。",
+    "karma_link": "作为湖山派的传承底蕴，交予嫡传弟子高君保管 。"
+  },
+  "enriched": true
+}

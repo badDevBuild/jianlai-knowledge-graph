@@ -1,0 +1,50 @@
+{
+  "name": "替身傀儡符",
+  "original_name": "真相符 / 忽然符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗",
+  "description": "这是山上公认的最强**保命手段**之一。它通过消耗极高昂的材质，强制为持有者换取“多出一条命”的 容错率，是陈平安应对十四境偷袭的核心底牌 。",
+  "aliases": [
+    "替死符"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第304章 低头观井，抬头看天",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "替死/逃生类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆尾",
+      "relation": "原主"
+    },
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为中土陆氏和岁除宫的顶尖符箓，具备欺瞒天机、代主受过的无上因果律潜力 。",
+  "supernatural_ability": "祭出后化作与真身无异的傀儡。在遭受必死一击时可以“替死”，代价仅为持有者跌落一个境界 。",
+  "evolution": {
+    "current_form": "金色材质的特殊符纸，符胆蕴含神性光芒 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "神灵金身碎片"
+    ],
+    "potential_evolution": "与“忽然符”叠加，形成多重生命保障，令仙人境也无法捕捉真身 。"
+  },
+  "visual": {
+    "static": "看似寻常的金色符箓，实则以金精铜钱熔化炼制而成 。",
+    "active": "激活后身形瞬间如“蝉蜕”消失，原地留下一张被斩断的符纸，真身已在百里之外 。"
+  },
+  "provenance": {
+    "origin": "中土神洲阴阳家陆氏首创的大符 。",
+    "karma_link": "陈平安在京城与陆尾斗法及吴霜降的赠予中获得多张此类保命神符 。"
+  },
+  "enriched": true
+}

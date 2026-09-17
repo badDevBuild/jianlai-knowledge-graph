@@ -1,0 +1,52 @@
+{
+  "name": "回阳丹",
+  "original_name": "百日仙 / 第四方",
+  "type": "丹药",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是世间罕见的续命神药。它不同于修道之人的补给，而是专门针对魂魄受损或大限将至者的救命仙丹 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第214章 风雨夜行",
+      "owner": "张山"
+    },
+    {
+      "chapter": "第215章 画眉",
+      "owner": "张山"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "于禄",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白裳",
+      "relation": "赠予者"
+    },
+    {
+      "name": "葛仙君 (淮南)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为葛仙君不传世的秘方，具备起死回生、重塑神魂的极致潜力 。",
+  "supernatural_ability": "“返魄还魂”。能让油尽灯枯之人回光返照，增添一年阳寿，具备起死回生之神效 。",
+  "evolution": {
+    "current_form": "珍藏在锦盒中的珍稀丹药 。",
+    "materials_consumed": [
+      "天地至阳之精",
+      "葛氏宝方"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "丹丸色泽圆润，隐约有异香，封存在特制的丹炉遗址锦盒中 。",
+    "active": "服用后可使人金身重塑，精气神如江河入海，瞬间达到巅峰状态 。"
+  },
+  "provenance": {
+    "origin": "出自荆山丹炉遗址，由葛仙君亲自炼制 。",
+    "karma_link": "通过白裳之手赠予于禄，用于延缓姚老将军等凡俗英雄的寿命 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,73 @@
+# === Dependencies ===
+node_modules/
+__pycache__/
+*.pyc
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Sensitive / Credentials ===
+*.pem
+*.key
+*.crt
+.env
+.env.*
+!.env.example
+*.p12
+*.pfx
+*.jks
+.env.local
+.env.production
+.env.test
+.env.development
+shushu.host_nginx*/
+shushu.host_nginx*.zip
+
+# === Generated Images (too large for git) ===
+item_images/
+data/build/character_images/
+images/
+
+# === Large Files (local only) ===
+剑来 (烽火戏诸侯).md
+人物设计图/
+chapters/
+
+# === Runtime Data (local only) ===
+scripts/ugc_data/
+*.db
+*.sqlite
+*.sqlite3
+
+# === Unused / Obsolete Directories ===
+merged_chapters/
+data/v2/
+data/backup/
+
+# === Build Artifacts & Logs ===
+*.log
+*.raw
+
+# === IDE / Editor ===
+.agent/
+.agents/
+.claude/skills/
+.obsidian/
+.cursor/
+
+# === Frontend Build Output ===
+frontend/dist/
+frontend/.vite/
+taro-app/dist/
+
+# === Nested Git Repos (managed separately) ===
+taro-app/
+
+# === Temp / Debug Files ===
+temp_images/
+
+# === Duplicate local assets (canonical copies live in taro-app/src/assets) ===
+/card-bg-v2.jpg
+/card-template.jpg
+/qrcode.png

@@ -1,0 +1,46 @@
+{
+  "name": "谪仙人竹笛",
+  "original_name": "鱼虫笛 (注：云卿持有时称谪仙人)",
+  "type": "灵物",
+  "grade": "半仙兵",
+  "status": "损毁",
+  "description": "这支刻有“谪仙人”字样的竹笛虽为半仙兵，却承载了极高的情感与因果。它是大妖云卿的随身物，见证 了蛮荒大妖与人间风流的碰撞。",
+  "aliases": [
+    "谪仙人"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第676章 终于远游境",
+      "owner": "云卿"
+    }
+  ],
+  "subtype": "意境类 / 契约类",
+  "holder": "云卿",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蛮荒飞升境大妖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "若能寻得合适材料进行修缮，有望恢复为完整的仙兵重宝。",
+  "supernatural_ability": "笛身刻有“曾批给露支风券”，具备调理风水、作为某种古老契约信物的特殊权柄。",
+  "evolution": {
+    "current_form": "骨制或竹制古笛，刻有“谪仙人”三字。",
+    "materials_consumed": [
+      "露支风券",
+      "大妖精血"
+    ],
+    "potential_evolution": "成为能够引动天地异象的绝世乐器或杀伐之兵。"
+  },
+  "visual": {
+    "static": "笛身古朴，文字刻痕苍劲，透着一股孤傲脱俗的意境。",
+    "active": "吹奏时笛声悠扬，能让听者心境通透，甚至能引动云水异象环绕。"
+  },
+  "provenance": {
+    "origin": "曾是蛮荒天下一头飞升境大妖的定情物。",
+    "karma_link": "云卿在剑气长城与陈平安叙旧时曾展示此物，象征着一种遗憾与故人情谊。"
+  },
+  "enriched": true
+}

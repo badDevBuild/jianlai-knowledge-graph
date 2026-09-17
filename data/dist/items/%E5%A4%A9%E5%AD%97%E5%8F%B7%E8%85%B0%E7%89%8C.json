@@ -1,0 +1,44 @@
+{
+  "name": "天字号腰牌",
+  "original_name": "大骊刑部天字号无事牌",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "大骊王朝颁发给最高阶供奉的身份凭证，不仅是荣誉的象征，更是行走山水官场的“通天绿卡”，能在此 间天地享有多项特权 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第207章 天上掉下个......人",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "身份类 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊刑部",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为大骊最高等级的供奉信物，可动用一国部分山水权限 。",
+  "supernatural_ability": "“太平无事”。能压胜阴邪鬼魅，出示时可敕令地方山水神灵、城隍冥官协助，具备极高的法理威压 。",
+  "evolution": {
+    "current_form": "材质细腻、无雕饰的素雅玉牌，上刻有“天”字编号 。",
+    "materials_consumed": [
+      "一洲气运",
+      "法家真意"
+    ],
+    "potential_evolution": "可演化为大骊国师的权柄印信 。"
+  },
+  "visual": {
+    "static": "质地温润，色泽素洁，正面刻“天”字，反面有刑部钤印 。",
+    "active": "催动时泛起金色灵光，显化大骊王朝律法威势 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝刑部秘制 。",
+    "karma_link": "代表持有者在大骊王朝及藩属国境内的超然地位，常发给“地支”一脉及顶尖供奉 。"
+  },
+  "enriched": true
+}

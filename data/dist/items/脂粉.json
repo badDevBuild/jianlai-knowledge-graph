@@ -1,0 +1,41 @@
+{
+  "name": "脂粉",
+  "original_name": "脂粉",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这是一把名声极其糟糕的蛮荒飞剑。其主人蕙庭嗜好以此剑猎杀同道女修，最终在剑气长城一战中受损 ，并在陈平安的远游中彻底成为历史 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第867章 剑斩飞升巅峰",
+      "owner": "蕙庭"
+    },
+    {
+      "chapter": "第916章 此间事了",
+      "owner": "蕙庭"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "蕙庭 (已碎)",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "曾是蛮荒玉璞境剑修的本命飞剑，具备极高的隐蔽杀力 。",
+  "supernatural_ability": "专门针对并偷袭女子剑修，借此炼剑，温养出独特的致盲或迷惑类神通 。",
+  "evolution": {
+    "current_form": "飞剑残片 (实则本体已在百年前碎裂) 。",
+    "materials_consumed": [
+      "女子剑修精血"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "不见实物，仅存剑意余韵 。",
+    "active": "出剑时带有浓郁的脂粉气息，迷惑对手心神 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下红叶剑宗剑修蕙庭本命飞剑 。",
+    "karma_link": "持剑者因多次偷袭女子剑修而名声狼藉，后被陈平安在蛮荒腹地顺手斩杀 。"
+  },
+  "enriched": true
+}

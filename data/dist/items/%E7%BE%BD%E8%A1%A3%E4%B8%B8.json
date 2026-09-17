@@ -1,0 +1,44 @@
+{
+  "name": "羽衣丸",
+  "original_name": "青虎宫坐忘丹",
+  "type": "丹药",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "名动桐叶洲的顶级灵丹，因炼制时需消耗清境山独有的 山水灵气，产量极低，是有价无市的重宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第895章 今宵爽快",
+      "owner": "蒲山云草堂"
+    }
+  ],
+  "subtype": "神魂滋养类",
+  "holder": "陈平安 / 叶芸芸",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆雍",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为陆雍的看家本领，对元婴境修士打破神魂瓶颈有极 大助力 。",
+  "supernatural_ability": "能够温补心窍，让修士在突破瓶颈时“心扉生门神”，防 御外魔侵扰 。",
+  "evolution": {
+    "current_form": "盛放在古朴瓷瓶中的灵丹 。",
+    "materials_consumed": [
+      "清境山灵气",
+      "太虚真火"
+    ],
+    "potential_evolution": "结合“不老药”可炼制出“白日飞升丹”。"
+  },
+  "visual": {
+    "static": "丹药圆润，带有如羽毛般的细微纹路，散发冷香 。",
+    "active": "服下后周身生出如白羽般的雾气，神识瞬间清明。"
+  },
+  "provenance": {
+    "origin": "由桐叶洲青虎宫宫主陆雍亲手炼制 。",
+    "karma_link": "陆雍为报陈平安护道之恩，不计成本炼制并赠送给落魄 山与蒲山 。"
+  },
+  "enriched": true
+}

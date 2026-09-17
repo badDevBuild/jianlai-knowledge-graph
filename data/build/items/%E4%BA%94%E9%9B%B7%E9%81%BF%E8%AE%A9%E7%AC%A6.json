@@ -1,0 +1,38 @@
+{
+  "name": "五雷避让符",
+  "original_name": "避雷符 / 雷部敕令",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "这是一种非常实用的防御符箓，特别是在面对那些擅长雷法的练气士时，往往能起到出奇制胜的效果 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第698章 要问拳",
+      "owner": "韦太真"
+    }
+  ],
+  "subtype": "防御/避祸类",
+  "holder": "陈平安 / 远游修士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随修士对雷法领悟的加深，能抵御更高阶位的天劫雷法 。",
+  "supernatural_ability": "让使用者在天雷激荡之地如履平地，使得狂暴雷电主动绕道而行 。",
+  "evolution": {
+    "current_form": "黄纸或金色材质的符箓，刻有复杂的雷符云篆 。",
+    "materials_consumed": [
+      "雷击木粉末",
+      "天威灵光"
+    ],
+    "potential_evolution": "可进一步演化为“雷神宅秘传”大符，具备部分敕令神灵的威能 。"
+  },
+  "visual": {
+    "static": "符纸表面微凉，带有淡淡的硝烟味，文字扭曲如雷纹 。",
+    "active": "激发后周身会出现一层透明的电光膜，将袭来的雷霆悉数引向大地 。"
+  },
+  "provenance": {
+    "origin": "源自龙虎山或类似精通雷法宗门的入门秘符 。",
+    "karma_link": "陈平安在鬼蜮谷等险恶之地曾利用此类符箓保护自身 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,54 @@
+{
+  "name": "方寸物/咫尺物",
+  "original_name": "最小洞天",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "被山上人誉为“最小洞天”的珍稀器物，其价值往往让地仙之下的修士感到绝望 。陈平安拥有数件此类重宝，包括飞剑“十五”及多枚玉牌 。",
+  "aliases": [
+    "道家令牌咫尺物",
+    "白玉簪",
+    "竹黄笔筒",
+    "七里泷",
+    "咫尺物玉牌"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第581章 陋巷处又有学塾",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间/储存类",
+  "holder": "陈平安 (持有多件)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "郑大风",
+      "relation": "赠予者"
+    },
+    {
+      "name": "孙清 (彩雀府)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随主人的气机滋养，内部空间可逐渐稳固，甚至演化为真正的小洞天 。",
+  "supernatural_ability": "内含稳定的小天地空间，能隔绝外界气机感应，储存海量天材地宝 。",
+  "evolution": {
+    "current_form": "如白玉素牌、青色木牌或碧玉短剑等各种形制 。",
+    "materials_consumed": [
+      "空间碎片",
+      "阵法加持"
+    ],
+    "potential_evolution": "极高阶者可演化为能装载山岳渡船的“袖里乾坤”载体 。"
+  },
+  "visual": {
+    "static": "看上去只是不起眼的佩饰、令牌或小剑，质地细腻如绸缎 。",
+    "active": "开启时伴随灵气涟漪，庞大物体可瞬间凭空取放 。"
+  },
+  "provenance": {
+    "origin": "多由洞天福地碎裂后的空间残片炼化而成 。",
+    "karma_link": "是修行者行走江湖、积攒家底的基础载体，象征着修士的身家厚薄 。"
+  },
+  "enriched": true
+}

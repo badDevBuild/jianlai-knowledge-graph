@@ -1,0 +1,37 @@
+{
+  "name": "白玉盘",
+  "original_name": "灵气珠托盘",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是飞升境剑修白景用于盛放战利品的法宝。在陈平安开启灵气大潮供其吸纳后，白景以此盘将气机凝 结成珠，展现了其作为远古大妖的深厚底蕴 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第731章 仰天大笑，夫复何言",
+      "owner": "孙怀中"
+    }
+  ],
+  "subtype": "容器类 / 储存",
+  "holder": "白景 (谢狗)",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为远古大妖的随身物，能承载精粹至极的灵气而不发生道韵流散 。",
+  "supernatural_ability": "能够将散乱的天地灵气与道气凝练为固态的“精粹珠子”，并进行分类存储 。",
+  "evolution": {
+    "current_form": "白净无暇的白玉盘子 。",
+    "materials_consumed": [
+      "天外灵气大潮"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "两个通体晶莹剔透的白玉盘子，散发出淡淡的清凉气息 。",
+    "active": "当灵气珠子落入盘中时，会发出极为悦耳、如同“大珠小珠落玉盘”的清脆声响 。"
+  },
+  "provenance": {
+    "origin": "白景在蛮荒天下的私家珍藏 。",
+    "karma_link": "见证了白景在天外星河掠夺灵气大潮的“勤俭持家”行为 。"
+  },
+  "enriched": true
+}

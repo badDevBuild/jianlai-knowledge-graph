@@ -1,0 +1,48 @@
+{
+  "name": "天字剑匣",
+  "original_name": "天字匣",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "天字剑匣是大骊朝廷专门为方便与陈平安联系而准备的通讯工具。它与荀趣手中的“地字匣”成对使用， 体现了大骊官场在处理山上事务时的精密协作能力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第841章 新剑修",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1040章 报道梅花消息",
+      "owner": "曾掖"
+    }
+  ],
+  "subtype": "通讯类 / 工具类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "荀趣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为官办的精密通讯器物，其价值在于与特定子母匣的感应能力 。",
+  "supernatural_ability": "能够与对应的“地字匣”进行感应，专门用于双方飞剑传信 。",
+  "evolution": {
+    "current_form": "一只篆刻有“天”字的古朴小巧剑匣 。",
+    "materials_consumed": [
+      "特殊灵木",
+      "感应符阵"
+    ],
+    "potential_evolution": "未知。"
+  },
+  "visual": {
+    "static": "古朴、小巧玲珑，大小仅如巴掌 。",
+    "active": "开启时可接纳或发出传讯飞剑，盒身会有微弱的灵光感应 。"
+  },
+  "provenance": {
+    "origin": "由大骊鸿乐寺制作，用于官员与重要人物间的机密联络 。",
+    "karma_link": "由鸿乐寺序班荀趣交给陈平安，以便随时对接朝廷事务 。"
+  },
+  "enriched": true
+}

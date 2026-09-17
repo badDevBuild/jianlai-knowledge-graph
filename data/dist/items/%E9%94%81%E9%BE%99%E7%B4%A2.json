@@ -1,0 +1,51 @@
+{
+  "name": "锁龙索",
+  "original_name": "铁锁井铁链",
+  "type": "灵物",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这是曾垂挂在**铁锁井**中禁锢真龙万年的锁链。它凝聚了极重的因果，现已成为姜韫的大道根基，专 门克制一切水中蛟龙。",
+  "aliases": [
+    "铁链",
+    "锁龙铁链"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第379章 前兆",
+      "owner": "姜韫"
+    }
+  ],
+  "subtype": "禁锢类 / 压胜类",
+  "holder": "姜韫",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "布置者"
+    },
+    {
+      "name": "骊珠洞天铁锁井",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "完全解除所有秘术禁制并重塑神性后，可升格为足以屠龙的“斩龙索”。",
+  "supernatural_ability": "天然压胜蛟龙之属，能将人身小天地淬炼为“铁山丛林”与“莹澈道场”，提供极强的防御力。",
+  "evolution": {
+    "current_form": "曾浸泡在铁锁井底万年，外表锈迹斑斑的粗重铁链。",
+    "materials_consumed": [
+      "真龙气运",
+      "神灵遗骸精华"
+    ],
+    "potential_evolution": "进化为“斩龙索”，可对天下水族进行位阶压制，随手一抖即可分尸蛟龙。"
+  },
+  "visual": {
+    "static": "百丈长的沉重铁索，散发出古老且冰冷的气息。",
+    "active": "激发后金光灿烂，产生恐怖的封禁力场，对龙族后裔有绝对的血脉威压。"
+  },
+  "provenance": {
+    "origin": "由三山九侯先生在骊珠洞天设置，用于束缚世间最后一条真龙王朱。",
+    "karma_link": "见证了真龙时代的终结，后被云林姜氏子弟姜韫炼化为本命物。"
+  },
+  "enriched": true
+}

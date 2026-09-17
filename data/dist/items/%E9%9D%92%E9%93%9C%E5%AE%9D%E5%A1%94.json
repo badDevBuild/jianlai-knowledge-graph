@@ -1,0 +1,51 @@
+{
+  "name": "青铜宝塔",
+  "original_name": "仿白玉京宝塔",
+  "type": "法宝",
+  "grade": "仙家至宝",
+  "status": "活跃",
+  "description": "这是一件极具历史沉淀的重宝。它不仅是强力的镇压法器，更是陈平安用来推衍“白玉京”大道及构建自 身精神世界的核心工具。",
+  "aliases": [
+    "仿白玉京",
+    "仿白玉京青铜宝塔"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第614章 为何话多",
+      "owner": "离真"
+    }
+  ],
+  "subtype": "镇压类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "离真",
+      "relation": "夺取自"
+    },
+    {
+      "name": "荷花庵主",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "曾为仙兵，受损后跌境。大炼后可作为“心相天地”的枢纽，辅助炼化五行之气。",
+  "supernatural_ability": "能够显化出五城十二楼的虚像，辅助修士温养本命物，并在战斗中镇压敌方气机。",
+  "evolution": {
+    "current_form": "造型古朴的青铜质地袖珍宝塔。",
+    "materials_consumed": [
+      "五行精气",
+      "符箓道意"
+    ],
+    "potential_evolution": "大炼后可演化为支撑小千世界的大道支柱。"
+  },
+  "visual": {
+    "static": "塔身满布风霜痕迹，虽然袖珍却透着一股“有伤极天之高”的威严感。",
+    "active": "光芒绽放时显现为千丈高的巍峨白玉京，楼阁叠嶂，气象庄严。"
+  },
+  "provenance": {
+    "origin": "玉符宫老宫主秘密炼制的镇山之宝，后因道祖出手而流落蛮荒。",
+    "karma_link": "陈平安视其为“捡漏”得来的最心仪宝贝，用于完善自身的人身小天地。"
+  },
+  "enriched": true
+}

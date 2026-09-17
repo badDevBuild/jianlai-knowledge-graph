@@ -1,0 +1,48 @@
+{
+  "name": "鱼龙",
+  "original_name": "飞剑“游刃”之灵",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陆沉“八剑”中最具灵性的飞剑之一。它将枯燥的剑招化为游刃有余的鱼龙之态，不仅能杀敌，更能 在战斗中源源不断地为持有者窃取天地水气 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第716章 贾生让人失望",
+      "owner": "岁鱼"
+    },
+    {
+      "chapter": "第946章 棋高无输",
+      "owner": "年酒"
+    }
+  ],
+  "subtype": "辅助类 / 气运类",
+  "holder": "陆芝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为陆沉亲手铸造的“八剑”之一，具备通过汲取外部水运持续自我进化的特质 。",
+  "supernatural_ability": "能够显化为青色鱼龙幻象，从虚幻的大水（如南冥天池大阵）中汲取真实水运壮大自身 。",
+  "evolution": {
+    "current_form": "长剑“游刃”，持剑时身边会出现一条摇头摆尾的青色游鱼 。",
+    "materials_consumed": [
+      "天下水运",
+      "大理石水精"
+    ],
+    "potential_evolution": "完全吸纳江河水脉后，可演化为真正的水族主宰之姿 。"
+  },
+  "visual": {
+    "static": "袖珍精致的长剑，藏于名为“陆沉”的剑盒中 。",
+    "active": "出剑时青色大鱼悬空围绕主人游走，身姿灵动，伴有天池异象 。"
+  },
+  "provenance": {
+    "origin": "由白玉京三掌教陆沉亲手铸造，寓意其对剑道的理解 。",
+    "karma_link": "由陈平安从陆沉处“借”得后转赠陆芝，用于补足其防御短板 。"
+  },
+  "enriched": true
+}

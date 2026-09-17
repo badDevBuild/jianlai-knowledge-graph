@@ -1,0 +1,55 @@
+{
+  "name": "朝露",
+  "original_name": "符刀",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安在桐叶洲游历期间，于山谷伏击战中从割鹿山刺客手中缴获的重宝。 此刀与“暮霞”本为一套，是失传已久的仙家遗物，因原主人未能掌握精髓而明珠蒙尘。",
+  "aliases": [
+    "逐鹿",
+    "曹子匕首"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第523章 大河之畔遇陆地蛟龙",
+      "owner": "陈平安(战利品)"
+    },
+    {
+      "chapter": "第525章 击掌",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第561章 两破境",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "割鹿山女刺客",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "属于失传已久的仙家兵器，具有极高的炼化潜质和杀伐杀力。",
+  "supernatural_ability": "具有极强的杀伐之气，对敌时可作为出其不意的致命手段。,",
+  "evolution": {
+    "current_form": "篆刻有“朝露”二字的符刀。",
+    "materials_consumed": [
+      "上古金石精华",
+      "修士心血"
+    ],
+    "potential_evolution": "配合“暮霞”双刀合璧，可演化出更为恐怖的刺杀领域。"
+  },
+  "visual": {
+    "static": "刀身短小精悍，材质特殊，铭刻有古朴的“朝露”文字。",
+    "active": "出鞘时刀光如晨露般清亮，实则暗藏汹涌杀机。"
+  },
+  "provenance": {
+    "origin": "源自桐叶洲割鹿山刺客组织。",
+    "karma_link": "陈平安在山谷遇袭后反杀刺客，从而缴获此刀，并在齐景龙的指点下获悉其真实品级。,"
+  },
+  "enriched": true
+}

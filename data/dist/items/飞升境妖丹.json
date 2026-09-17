@@ -1,0 +1,47 @@
+{
+  "name": "飞升境妖丹",
+  "original_name": "大妖内丹",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是剑气长城末代隐官在蛮荒腹地远游时的战利品之一 。它代表了一位飞升境大修的道果，具有极高的战略价值 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第637章 远游人皆是蒲公英",
+      "owner": "陈平安 (暂管)"
+    }
+  ],
+  "subtype": "资粮类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "玄圃",
+      "relation": "原主"
+    },
+    {
+      "name": "乌啼",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "蕴含飞升境大妖毕生修为，可作为重塑金身或炼制顶级仙丹的核心材料 。",
+  "supernatural_ability": "包含极其纯粹的灵气与部分大道本源 。",
+  "evolution": {
+    "current_form": "圆润、散发恐怖威压的内丹 。",
+    "materials_consumed": [
+      "大妖精元"
+    ],
+    "potential_evolution": "可被炼化为提升境界的极品仙药 。"
+  },
+  "visual": {
+    "static": "光华流转，蕴含的力量足以让寻常修士心惊胆战 。",
+    "active": "被提取灵气时会显化出原主大妖的残余气象 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下仙簪城，大妖玄圃被斩杀后所得 。",
+    "karma_link": "乌啼按照约定将此物交还给陈平安，用于交给刑官豪素 。"
+  },
+  "enriched": true
+}

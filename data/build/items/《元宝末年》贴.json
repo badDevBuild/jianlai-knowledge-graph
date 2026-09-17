@@ -1,0 +1,48 @@
+{
+  "name": "《元宝末年》贴",
+  "original_name": "元宝年号字帖",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**《元宝末年》贴**是记载了特殊年号变迁的**艺术瑰宝** 。它不仅是书法巅峰之作，更承载了“当时坐上皆豪逸”的时代气数 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第710章 只驱龙蛇不驱蚊",
+      "owner": "杨老头 (由老秀才转赠)"
+    }
+  ],
+  "subtype": "文运类",
+  "holder": "落魄山 / 读书人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老秀才",
+      "relation": "赠予者"
+    },
+    {
+      "name": "苏子 / 柳七",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随读书人的学问精进，文字可产生“定风波”或“辟兵”的神通 。",
+  "supernatural_ability": "蕴含浓厚的王朝气运与儒家文气，诵读可稳固道心，抵御心魔侵扰 。",
+  "evolution": {
+    "current_form": "版刻严谨、钤印众多的古代名家字帖 。",
+    "materials_consumed": [
+      "金精铜钱灵气",
+      "圣贤道韵"
+    ],
+    "potential_evolution": "文字可脱离纸张，化为“金色文字长河”进行防御或攻伐 。"
+  },
+  "visual": {
+    "static": "字体美若秋蝉遗蜕，笔画间隐隐有金石声，墨香经年不散 。",
+    "active": "激发时文字熠熠生辉，显现出“气象宜清宜高”的圣贤境界 。"
+  },
+  "provenance": {
+    "origin": "出自浩然天下著名的书法名家之手，多为文庙祭器之一 。",
+    "karma_link": "见证了落魄山一脉“尊师重道”的家风与文脉传承 。"
+  },
+  "enriched": true
+}

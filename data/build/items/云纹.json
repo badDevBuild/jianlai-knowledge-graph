@@ -1,0 +1,64 @@
+{
+  "name": "云纹",
+  "original_name": "大骊仿白玉京十二飞剑之一",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "云纹飞剑是大骊仿白玉京系列之一，曾一度借给好友范大澈。它是陈三秋最重要的武器，剑身云纹不仅 美观，更蕴含深厚的道门真意 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第206章 月儿圆月儿弯",
+      "owner": "俊美少年"
+    },
+    {
+      "chapter": "第253章 有人送剑有人等",
+      "owner": "董画符"
+    },
+    {
+      "chapter": "第271章 宁姑娘，对不起",
+      "owner": "俊美少年"
+    },
+    {
+      "chapter": "第572章 心上人",
+      "owner": "陈三秋"
+    },
+    {
+      "chapter": "第617章 谁能与宁姚般配",
+      "owner": "陈三秋(借给范大澈)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈三秋",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊宋氏",
+      "relation": "原主"
+    },
+    {
+      "name": "范大澈",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为大骊仿白玉京系列的镇国重器，具备斩杀上五境修士的潜质 。",
+  "supernatural_ability": "剑身自带云水真意，出剑轨迹飘忽不定，令人难以捉摸 。",
+  "evolution": {
+    "current_form": "长剑",
+    "materials_consumed": [
+      "云气精华",
+      "大骊国运"
+    ],
+    "potential_evolution": "与“白鹿”本命飞剑神通契合，可大幅增强文运与剑气的融合 。"
+  },
+  "visual": {
+    "static": "剑身布满细腻云纹，一度失去剑鞘，被陈三秋用剑坊制式剑鞘收纳 。",
+    "active": "剑出如云烟过眼，轨迹莫测且剑气沛然 。"
+  },
+  "provenance": {
+    "origin": "大骊朝廷倾国之力仿制白玉京十二楼飞剑而得 。",
+    "karma_link": "被陈家少爷陈三秋选中，是他行走江湖并参与剑气长城攻守战的主要依仗 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,45 @@
+{
+  "name": "辟兵莫当铜镜",
+  "original_name": "辟邪镜",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此镜是典型的“宫家营造”仿古镜，属于山上收藏界公认的尖货。其防御和压胜功能在同类灵器中出类拔 萃 , 。",
+  "aliases": [
+    "青铜古镜"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第543章 眼中万少年",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "压胜类 / 防御类",
+  "holder": "陈平安 (存放在蚍蜉铺子)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "黄师",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为“宫家营造”的珍稀作品，具有通过汲取月华不断提升压胜上限的潜力 , 。",
+  "supernatural_ability": "具备极其强大的辟邪功效，正面可避兵刃，背面可除央灾，能有效震慑邪祟 。",
+  "evolution": {
+    "current_form": "带有岁月痕迹的青铜古镜",
+    "materials_consumed": [
+      "月魄精华"
+    ],
+    "potential_evolution": "若能完全激发“宫家”铭文威力，可跻身法宝之列"
+  },
+  "visual": {
+    "static": "青铜质地，正面微刻“辟兵莫当”，背面刻“御凶除央”，侧面有细微“宫家营造”字样 。",
+    "active": "激活后镜面光洁如满月，照射之处邪祟辟易 , 。"
+  },
+  "provenance": {
+    "origin": "由著名的“宫家”工匠打造，后被黄师在仙府遗址中获得 , 。",
+    "karma_link": "黄师在遗址中分宝时赠予陈平安，后陈平安将其作为店铺镇店之宝 , 。"
+  },
+  "enriched": true
+}

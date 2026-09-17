@@ -1,0 +1,55 @@
+{
+  "name": "正阳山剑经",
+  "original_name": "刘氏祖传剑经",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这部剑经是刘羡阳跻身玉璞境剑仙的核心依赖。它不立文字，讲究 神遇，能让修行者在梦境中无视光阴流逝，经历千万场实战，被称 为“**天下第一等练剑作弊法**” 。",
+  "aliases": [
+    "刘氏剑经",
+    "著名剑经"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第49章 碎瓷",
+      "owner": "刘羡阳"
+    },
+    {
+      "chapter": "第58章 先生",
+      "owner": "刘羡阳（家传）"
+    }
+  ],
+  "subtype": "剑术/神识类",
+  "holder": "刘羡阳",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "刘家祖上",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "代为保管"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "直指剑道高位，可让修习者在梦中开辟战场，其上限不可估量 。",
+  "supernatural_ability": "**梦中练剑**。即便在现实中休息，神魂亦可在梦中跨越时空，与 远古剑仙虚影厮杀砥砺 。",
+  "evolution": {
+    "current_form": "记载精妙剑术的古老经书",
+    "materials_consumed": [
+      "剑意",
+      "光阴流水"
+    ],
+    "potential_evolution": "剑道真解"
+  },
+  "visual": {
+    "static": "看似寻常的古旧书籍，唯有剑道天赋极高者方能看出其中剑意流转 。",
+    "active": "翻阅时神识会被吸入古战场遗址，现出“梦中飞剑取头颅”的诡谲气 象 。"
+  },
+  "provenance": {
+    "origin": "刘羡阳祖传之物，实为正阳山失传已久的镇山之宝 。",
+    "karma_link": "引发了正阳山搬山猿对刘羡阳的杀机，是刘、陈二人走出小镇的因 果起点 。"
+  },
+  "enriched": true
+}

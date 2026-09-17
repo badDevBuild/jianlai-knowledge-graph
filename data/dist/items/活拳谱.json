@@ -1,0 +1,48 @@
+{
+  "name": "活拳谱",
+  "original_name": "无字拳谱",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这并非传统的纸质书籍，而是武道极致的意境化身。它象征着武夫向神灵挑战的“不平事”之胆魄，是陈 平安跻身山巅境后的根本依仗 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第982章 谜底",
+      "owner": "陈平安 (原属白发童子)"
+    }
+  ],
+  "subtype": "传承类 / 意境类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "兵家初祖",
+      "relation": "原主"
+    },
+    {
+      "name": "韩玉树",
+      "relation": "曾持有 (半部)"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为十一境武夫拳理的具象，它是武夫打破凡俗躯壳、肉身成神的最终指南 , 。",
+  "supernatural_ability": "拳谱不立文字，直接嵌在修行者的人身山河中；可让修行者在举手投足间皆符合天地大道，实现真正的 “力压诸神” , 。",
+  "evolution": {
+    "current_form": "一分为二，半部在陈平安体内，半部由其斩杀仙人后获得 。",
+    "materials_consumed": [
+      "远古武运精华",
+      "止境拳意"
+    ],
+    "potential_evolution": "合二为一后可开启通往武道第十一境的唯一出口 。"
+  },
+  "visual": {
+    "static": "内观时呈现为人身小天地内波澜壮阔的拳意龙卷与山水格局 , 。",
+    "active": "出拳时如同天地崩塌，一拳之威可破碎重重小天地禁制，具备极致的物理打击感 。"
+  },
+  "provenance": {
+    "origin": "兵家初祖留在人身山河中的十一境一拳真意 。",
+    "karma_link": "陈平安通过在剑气长城的死战与在桐叶洲斩杀韩玉树，最终补全了这份拳意传承 。"
+  },
+  "enriched": true
+}

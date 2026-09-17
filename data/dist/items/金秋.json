@@ -1,0 +1,54 @@
+{
+  "name": "金秋",
+  "original_name": "金穗飞剑",
+  "type": "仙剑",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是崔东山极具代表性的本命飞剑之一。它不仅在战场上杀力惊人，更是他在棋盘上博弈天下的延伸， 寓意“秋收而待万物生” 。",
+  "aliases": [
+    "金秋"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第164章 近朱者赤",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第167章 我法宝多啊",
+      "owner": "崔瀺"
+    },
+    {
+      "chapter": "第410章 有些事情必须知道",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "柳洲 (中土剑仙)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为崔东山通过棋局赢来的重宝，其品相接近圆满，具备演化为“一洲剑道气运”载体的潜力 。",
+  "supernatural_ability": "“金秋洗剑”。剑光如金色麦穗，能够强行剥离对手飞剑的灵性，甚至在对弈棋盘上显化杀机 。",
+  "evolution": {
+    "current_form": "一柄形若金色麦穗、散发着成熟秋意气息的飞剑。",
+    "materials_consumed": [
+      "白帝城棋道神意",
+      "仙人境界灵气"
+    ],
+    "potential_evolution": "有望成为镇压落魄山下宗——青萍剑宗的头等阵宝 。"
+  },
+  "visual": {
+    "static": "通体金黄，剑身两侧有细微的锯齿状，宛如真实的麦穗 。",
+    "active": "祭出时金光漫天，如秋风扫落叶般斩断一切阻碍，带有堂堂正正的压胜气息 。"
+  },
+  "provenance": {
+    "origin": "由中土神洲大剑仙柳洲亲手炼制，后因在白帝城棋局输给崔瀺而易主 。",
+    "karma_link": "见证了绣虎与柳洲的巅峰对弈，承载了“胜半子”的霸道学问 。"
+  },
+  "enriched": true
+}

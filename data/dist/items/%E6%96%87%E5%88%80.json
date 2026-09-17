@@ -1,0 +1,44 @@
+{
+  "name": "文刀",
+  "original_name": "陈平安自制刻刀",
+  "type": "匠器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "**文刀**即陈平安的随身刻刀，常被用于篆刻印章、记录“山水有重逢”等心境感悟。它在陈平安的修行 生涯中，象征着“读书识字、格物致知”的安静时光 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第376章 君子武备",
+      "owner": "韦谅"
+    }
+  ],
+  "subtype": "文房类 / 工具类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大隋京城店铺",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为文人刻章、砥砺心境的工具，长久随主人磨砺可生灵性 。",
+  "supernatural_ability": "**“金石铭刻”**。虽无强大杀力，却因陈平安注入的剑气与武意，可轻易在坚韧的竹简与玉石上雕琢铭 文 。",
+  "evolution": {
+    "current_form": "普通材质、由陈平安在仙都山重新炼制过的刻刀 。",
+    "materials_consumed": [
+      "精铁",
+      "落魄山灵气"
+    ],
+    "potential_evolution": "若长期雕刻圣贤道理，有望升格为文道重宝 。"
+  },
+  "visual": {
+    "static": "样式普通，刀身磨损严重，被陈平安随手搁置在书案笔架上 。",
+    "active": "刻字时刀尖剑气流溢，能发出铿锵金石声，文字入木三分 。"
+  },
+  "provenance": {
+    "origin": "最早是大隋京城买玉簪时的附赠品，后由陈平安在仙都山亲手重炼 。",
+    "karma_link": "见证了陈平安从泥腿子少年到学习篆刻边款、书写圣贤道理的转变 。"
+  },
+  "enriched": true
+}

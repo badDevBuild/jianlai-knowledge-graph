@@ -1,0 +1,79 @@
+{
+  "name": "兵家甲丸",
+  "original_name": "神人承露甲",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是兵家梦寐以求的顶级护身重器，能够极大地提升武夫在面对高阶练气士时的生还率，是“行走武库” 的核心配置 。",
+  "aliases": [
+    "甲丸",
+    "兵家甲丸"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第217章 剑仙",
+      "owner": "楚姓书生"
+    },
+    {
+      "chapter": "第218章 仙师驾到",
+      "owner": "陈平安 (拾取)"
+    },
+    {
+      "chapter": "第219章 道士吟诗",
+      "owner": "张山峰 (陈平安赠送)"
+    },
+    {
+      "chapter": "第302章 分道",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第410章 有些事情必须知道",
+      "owner": "刺客（假赵轼）"
+    },
+    {
+      "chapter": "第672章 人生梦复梦",
+      "owner": "无"
+    },
+    {
+      "chapter": "第869章 次第花开",
+      "owner": "楚茂"
+    },
+    {
+      "chapter": "第1076章 总是拿事补人心",
+      "owner": "武夫"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "魏羡",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "持有者"
+    },
+    {
+      "name": "楚姓书生",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为“西嶽”祖宗甲之一，通过汲取神灵金身碎片，防御力可向半仙兵甚至仙兵靠拢 。",
+  "supernatural_ability": "甲丸可瞬间化为液态覆盖全身，形成神人承露铠甲，具备不败金身般的防御力 。",
+  "evolution": {
+    "current_form": "西嶽版神人承露甲 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "兵家战功气运"
+    ],
+    "potential_evolution": "重回远古大霜神甲品级"
+  },
+  "visual": {
+    "static": "平时为一颗青白色的圆球，流光溢彩，触感如冰 。",
+    "active": "激活后如水银蔓延，显化为一件洁白如雪、精光闪闪的光明铠 。"
+  },
+  "provenance": {
+    "origin": "由墨家机关师与道家符箓派根据远古神甲“大霜”仿造而成 。",
+    "karma_link": "陈平安在彩衣国一战中捡漏所得，后成为其麾下武夫魏羡的根本防具 。"
+  },
+  "enriched": true
+}

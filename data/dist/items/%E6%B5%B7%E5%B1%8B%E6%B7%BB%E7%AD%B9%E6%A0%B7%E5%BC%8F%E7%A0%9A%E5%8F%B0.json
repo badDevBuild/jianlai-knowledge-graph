@@ -1,0 +1,35 @@
+{
+  "name": "海屋添筹样式砚台",
+  "original_name": "资料不足",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "在提供的资料中，未发现名为“海屋添筹样式砚台”的特定法宝。资料中提及了多种传世名砚，如“老蛟 砚”和“水龙砚”，但并无此项单品的背景记录。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第637章 远游人皆是蒲公英",
+      "owner": "山水窟 (现归隐官一脉)"
+    }
+  ],
+  "subtype": "未知",
+  "holder": "未知",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "资料不足",
+  "supernatural_ability": "资料不足",
+  "evolution": {
+    "current_form": "未知",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "资料不足",
+    "active": "资料不足"
+  },
+  "provenance": {
+    "origin": "资料不足",
+    "karma_link": "资料中仅提及“海屋添筹”这一典故，以及陈平安持有或见过的“日月同壁抄手砚”、“永受嘉福瓦当砚”等，未见以此命名的特定砚台。"
+  },
+  "enriched": true
+}

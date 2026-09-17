@@ -1,0 +1,44 @@
+{
+  "name": "谪仙人",
+  "original_name": "青神山竹笛",
+  "type": "灵物",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "一支名为“谪仙人”的传奇竹笛，虽然目前品秩受损，但其承载的神道权柄极高。它不只是一件乐器，更 是掌控山川水运审批权的信物。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第733章 持剑者",
+      "owner": "云卿（已故）"
+    }
+  ],
+  "subtype": "权柄类 / 音律类",
+  "holder": "云卿",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蛮荒飞升境大妖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "若能补全“露支风券”的残缺道韵，有望重回仙兵品秩。",
+  "supernatural_ability": "“批给露支风券”——具备某种古老神道的审批权柄，能调理一方风水，并作为特定神道契约的信用凭证。",
+  "evolution": {
+    "current_form": "刻有“谪仙人”三字及“曾批给露支风券”小字的古朴竹笛。",
+    "materials_consumed": [
+      "青神山万年灵竹精华",
+      "大妖情缘气运"
+    ],
+    "potential_evolution": "可演化为能够敕令四时风雨、主掌一方生机的神道圣器。"
+  },
+  "visual": {
+    "static": "竹质细腻，色泽泛黄如古玉，铭文苍劲，透着一股出尘的仙家清气。",
+    "active": "吹奏时笛声悠扬，能引动天地灵气的和谐共振，并在虚空中浮现风雨走电的敕令幻象。"
+  },
+  "provenance": {
+    "origin": "选材自青神山万年灵竹，由远古大妖炼制。",
+    "karma_link": "曾是蛮荒大妖的定情物，承载了极重的因果，现为大妖云卿的傍身之物。"
+  },
+  "enriched": true
+}

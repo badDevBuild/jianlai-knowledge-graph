@@ -1,0 +1,48 @@
+{
+  "name": "取水镜",
+  "original_name": "龙宫嫁妆镜",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "取水镜不仅是一件辅助修行的法宝，更因其铸造者是传说中的纯阳真人，而带有一份极其罕见的道门法 统传承意义 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第923章 与诸君借取千山万水（四）",
+      "owner": "裘渎"
+    }
+  ],
+  "subtype": "辅助类 / 水法类",
+  "holder": "裘渎",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大渎龙宫",
+      "relation": "原主"
+    },
+    {
+      "name": "纯阳真人",
+      "relation": "曾持有 / 铸造者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由纯阳真人吕喦亲手炼制，具备辅助修士直接汲取太阴月华精华、炼化高品阶本命物的潜力 。",
+  "supernatural_ability": "“向太阴取水”。持有者持镜对月，可将明月精华凝为实质水运，极大地裨益修行水法的练气士 。",
+  "evolution": {
+    "current_form": "一面镜面泛起银白色冷光的古老铜镜 。",
+    "materials_consumed": [
+      "月魄精髓",
+      "纯阳道门真火"
+    ],
+    "potential_evolution": "若能与“取日镜”合璧，可演化出日月同辉的禁忌阵法 。"
+  },
+  "visual": {
+    "static": "镜面如冰，触手生寒，镜背刻有复杂的古老云纹 。",
+    "active": "对月时会射出一道清冷的银色光柱，源源不断地牵引月光注入持有者气府 。"
+  },
+  "provenance": {
+    "origin": "由纯阳真人吕喦作为做客大渎龙宫的礼物亲手铸造 。",
+    "karma_link": "曾是大渎龙宫某位小姐的嫁妆，后由裘渎代为看管，是落魄山下宗庆典上的重礼之一 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "水田洞天",
+  "original_name": "青秧洞天 / 玉牌洞天",
+  "type": "方寸物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "水田洞天是李柳赠予刘羡阳的重宝，与其所修剑经相得益彰。它将空间法则化作“水田”意象，为剑修提 供了绝佳的隐秘修行之地 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1101章 随手斩飞升",
+      "owner": "刘羡阳"
+    }
+  ],
+  "subtype": "空间类 / 修行类",
+  "holder": "刘羡阳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李柳 (水神)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为承载特定大道规则的袖珍洞天，具备演化为真实世界中枢的潜力 。",
+  "supernatural_ability": "“梦中淬剑”。内部空间具备“镜花水月”的奇妙特性，极其适合刘羡阳在梦境中推演剑术，无视光阴流转 。",
+  "evolution": {
+    "current_form": "一块篆刻有“不是青龙任水监，陆成沟壑水成田”的玉牌 。",
+    "materials_consumed": [
+      "江河水精",
+      "光阴砂"
+    ],
+    "potential_evolution": "可进一步炼化为包含完整山水脉络的私人道场 。"
+  },
+  "visual": {
+    "static": "玉质温润的牌子，上刻古雅篆文，隐约有水汽氤氲 。",
+    "active": "激发时可将人引入一处水汽充沛、水田连绵的虚幻世界，此处光阴流逝与外界不同 。"
+  },
+  "provenance": {
+    "origin": "由李柳（远古水神）转赠，是其积攒的远古遗存之一 。",
+    "karma_link": "与刘羡阳的梦中练剑之路及陆成沟壑、水成田的大道契合 。"
+  },
+  "enriched": true
+}

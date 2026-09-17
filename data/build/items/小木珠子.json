@@ -1,0 +1,38 @@
+{
+  "name": "小木珠子",
+  "original_name": "心神颗粒",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安为了在无法亲自现身的情况下，依旧能巡视山河、砥砺道心而制造出的“心神种子” 。每一粒木珠都代表了一份特定的情感（如喜、怒、哀等） 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第607章 大师伯出剑，小师弟下棋",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "操控类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "rank": "匠器",
+  "rank_potential": "随修士心神分化能力的增强，可操控的分身数量与强度亦随之提升 。",
+  "supernatural_ability": "由修士分化出的微小精魂，可附着于符箓分身上，使其具备独立行动与思考能力 。",
+  "evolution": {
+    "current_form": "大小不一、分量轻微的金色或木质颗粒 。",
+    "materials_consumed": [
+      "修士心神",
+      "灵气积蓄"
+    ],
+    "potential_evolution": "可配合北斗阵法，演化为七显二隐的高阶分身阵法 。"
+  },
+  "visual": {
+    "static": "如同一粒粒金色的木珠，微小如芥子 。",
+    "active": "融入符箓后，符纸化作人形，木珠则坐镇识海，散发微弱神光 。"
+  },
+  "provenance": {
+    "origin": "陈平安参照郑居中的提醒，自行分化心神而成 。",
+    "karma_link": "是陈平安在担任隐官期间，同时在多处远游、闭关的关键法门 。"
+  },
+  "enriched": true
+}

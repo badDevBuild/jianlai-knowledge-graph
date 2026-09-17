@@ -1,0 +1,37 @@
+{
+  "name": "倒影",
+  "original_name": "抱朴飞剑神通之一",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是大剑仙陆芝最令敌人头疼的手段之一。它针对修士的大道根本——阴神进行打击，配合其恐怖的杀力 ，往往能在一瞬间分出胜负 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第843章 共斩蛮荒",
+      "owner": "张禄"
+    }
+  ],
+  "subtype": "禁锢类 / 攻伐类",
+  "holder": "陆芝",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "作为剑气长城巅峰大剑仙的本命神通，其优先级极高，甚至能禁锢飞升境大妖 。",
+  "supernatural_ability": "能够禁锢住修士的影子，瞬间伤及阴神。阴神倒影如同被飞剑钉在原地的一块黑布，使修士移形换位受 阻 。",
+  "evolution": {
+    "current_form": "陆芝本命飞剑“抱朴”的本命神通 。",
+    "materials_consumed": [
+      "陆芝剑意"
+    ],
+    "potential_evolution": "若能配合飞剑“北斗”，杀力可更进一步 。"
+  },
+  "visual": {
+    "static": "平时隐匿于陆芝的本命飞剑“抱朴”之中 。",
+    "active": "出剑时，剑意如同将敌人的影子钉死在虚空，呈现出一种无法移动的诡谲姿态 。"
+  },
+  "provenance": {
+    "origin": "陆芝本命飞剑所自带的天赋神通 。",
+    "karma_link": "在战场上专门配合“抱朴”的第二种神通“穷其精微”使用，重创大妖阳神 。"
+  },
+  "enriched": true
+}

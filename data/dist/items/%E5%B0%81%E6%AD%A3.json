@@ -1,0 +1,39 @@
+{
+  "name": "封正",
+  "original_name": "敕封",
+  "type": "其他",
+  "grade": "仙兵",
+  "status": "损毁",
+  "description": "浩然天下的**山水官场核心制度** 。通过“描金”与“画龙点睛”，将山精鬼怪转化为正统神灵，使其受法律与道德的双重约束 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1104章 教拳传道两不误",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "律令/神道类",
+  "holder": "浩然天下正统神祇",
+  "holder_relation": "寄托",
+  "rank": "重器",
+  "rank_potential": "随王朝国祚兴旺可加持更高神位，由淫祠升格为正神 。",
+  "supernatural_ability": "赋予神祇合法性，使其能汲取香火重塑金身，掌控一地山水气运 。",
+  "evolution": {
+    "current_form": "体现为神像上的“描金”异象及金玉谱牒中的名录 。",
+    "materials_consumed": [
+      "人间香火",
+      "王朝气运",
+      "圣贤金字"
+    ],
+    "potential_evolution": "由地方土地升迁为大岳山君或大渎水神 。"
+  },
+  "visual": {
+    "static": "金身神像庄严稳固，祠庙上空有祥云汇聚 。",
+    "active": "神光流溢，口含天宪，能言出法随控制辖境内灵气走势 。"
+  },
+  "provenance": {
+    "origin": "中土文庙或世俗皇权 。",
+    "karma_link": "连接儒家礼制与山水神灵的法律契约，是考核山水官场的标准 。"
+  },
+  "enriched": true
+}

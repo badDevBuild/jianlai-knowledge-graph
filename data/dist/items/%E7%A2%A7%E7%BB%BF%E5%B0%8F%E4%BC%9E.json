@@ -1,0 +1,51 @@
+{
+  "name": "碧绿小伞",
+  "original_name": "竹柄油纸伞 / 遮蔽气机之伞",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "损毁",
+  "description": "这是一件极具实用价值的隐匿法宝，帮助陈平安在多次险境中避开强敌的观测。它代表了陈平安作为“ 隐官”低调慎行的修行特质 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第492章 西山老狐乱嫁女",
+      "owner": "红衣少女"
+    },
+    {
+      "chapter": "第493章 千山万水，明月一轮",
+      "owner": "韦太真"
+    }
+  ],
+  "subtype": "遮蔽类 / 辅佐类",
+  "holder": "陈平安 / 隋右边 (曾持有)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "凫水岛",
+      "relation": "原主"
+    },
+    {
+      "name": "老观主",
+      "relation": "赠予者 (通过机缘)"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随着持有者对空间与气机理解的加深，其隐匿效果可屏蔽更高境界的查探 。",
+  "supernatural_ability": "“遮蔽气机”。只要伞在身边，就能有效隔绝外界对持有者修为与魂魄的感知 。",
+  "evolution": {
+    "current_form": "竹柄油纸小伞，色泽碧绿 。",
+    "materials_consumed": [
+      "山水灵秀之气"
+    ],
+    "potential_evolution": "可作为避雨、遮荫并融入山水环境的顶级隐匿工具 。"
+  },
+  "visual": {
+    "static": "样式素雅，伞柄温润如玉，伞面呈现出淡雅的碧绿色泽 。",
+    "active": "撑开时，周身会出现一层透明的涟漪，将使用者的存在感降至最低 。"
+  },
+  "provenance": {
+    "origin": "陈平安在北俱芦洲龙宫洞天的凫水岛寻得 。",
+    "karma_link": "由白发童子代为转述老观主的教诲，要求陈平安务必妥善保管，不可随意丢弃 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,45 @@
+{
+  "name": "大阅甲",
+  "original_name": "皇帝礼服甲 / 绣花衣裳",
+  "type": "匠器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "大阅甲虽然被山上修士讥讽为“中看不中用的绣花衣裳”，但在世俗王朝 中却是最高权力的物化，是身份的最佳注脚 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第538章 隔在远远乡",
+      "owner": "人间君主"
+    }
+  ],
+  "subtype": "防御/礼仪类",
+  "holder": "世俗王朝皇帝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老君巷",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "主要追求华美与身份象征，实战潜力有限 。",
+  "supernatural_ability": "极尽华美，能彰显君王威严，并有一定的避尘、避水功效 。",
+  "evolution": {
+    "current_form": "装饰繁复、金碧辉煌的仪式用甲胄 。",
+    "materials_consumed": [
+      "金银丝线",
+      "灵禽羽毛",
+      "凡俗铁精"
+    ],
+    "potential_evolution": "若得国祚气运加持，可产生微弱的王朝气运屏障。"
+  },
+  "visual": {
+    "static": "甲片如鳞，镶嵌有大量珠宝，丝线编织极其精细 。",
+    "active": "在阳光下夺人眼目，行走时发出清脆的金石碰撞声。"
+  },
+  "provenance": {
+    "origin": "由北俱芦洲老君巷专门为各国皇室定制 。",
+    "karma_link": "体现了山下王权对山上工艺的尊崇与追求。"
+  },
+  "enriched": true
+}

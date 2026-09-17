@@ -1,0 +1,49 @@
+{
+  "name": "老蛟砚",
+  "original_name": "伏龙观镇山之宝",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "名动宝瓶洲的顶级砚台。其特殊之处在于那条与其伴生的小蛟，它并非单纯的雕刻，而是具有灵性的真 灵古种 。",
+  "aliases": [
+    "古砚",
+    "老蛟砚",
+    "古老砚台",
+    "砚台"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第142章 百怪（中）",
+      "owner": "伏龙观"
+    }
+  ],
+  "subtype": "文房类",
+  "holder": "伏龙观",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "伏龙观开山老祖",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为宝瓶洲十大名砚之一，蕴含古蜀国遗留的龙族气韵 , 。",
+  "supernatural_ability": "砚台边缘寄宿有一条微小且高龄的瘦蛟，盘踞而眠，鼾声轻微，能够助长修行者灵性 , 。",
+  "evolution": {
+    "current_form": "一方古朴名砚",
+    "materials_consumed": [
+      "龙气",
+      "日月精华"
+    ],
+    "potential_evolution": "化蛟入海"
+  },
+  "visual": {
+    "static": "石质温润古旧，砚台边缘有一条形态生动、正处于酣睡状态的小老蛟 。",
+    "active": "使用时小蛟鼾声微响，砚台四周道韵流转，水气氤氲 。"
+  },
+  "provenance": {
+    "origin": "相传是上古蜀国斩龙一役后躲过一劫的遗留古种 , 。",
+    "karma_link": "属于伏龙观的道统传承之物，象征门派的底蕴 , 。"
+  },
+  "enriched": true
+}

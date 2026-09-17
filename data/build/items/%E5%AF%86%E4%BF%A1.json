@@ -1,0 +1,58 @@
+{
+  "name": "密信",
+  "original_name": "书斋密信",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这封信是**齐静春留给陈平安最重要的精神遗产**。它 不仅记录了圣人对学生的期许，更通过杨老头的转交， 定下了陈平安此后远游四方的“道理”基调 。",
+  "aliases": [
+    "密信"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第131章 书生弟子",
+      "owner": "崔瀺"
+    },
+    {
+      "chapter": "第312章 变故",
+      "owner": "周肥/俞真意/丁婴"
+    },
+    {
+      "chapter": "第675章 承载真名",
+      "owner": "云签"
+    }
+  ],
+  "subtype": "因果/记录类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "原主"
+    },
+    {
+      "name": "杨老头",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "承载了圣人临终前的气运布局与教化意愿 。",
+  "supernatural_ability": "包含关于骊珠洞天真相的隐秘线索，能在文字间稳定陈 平安的心境 。",
+  "evolution": {
+    "current_form": "一封泛黄的、笔迹法度严谨的书信 。",
+    "materials_consumed": [
+      "圣人浩然气",
+      "金石笺纸"
+    ],
+    "potential_evolution": "可演化为揭开万年因果的“道统总纲” 。"
+  },
+  "visual": {
+    "static": "字迹筋骨极壮，神意极长，透着一股寂寞与坚守的气息 。",
+    "active": "阅读时文字隐约有金光流动，仿佛圣人在耳畔叮咛 。"
+  },
+  "provenance": {
+    "origin": "齐静春在骊珠洞天碎裂前夕于学塾书斋写就 。",
+    "karma_link": "连接了文圣一脉的传承与陈平安“护道人”的命运起始 。"
+  },
+  "enriched": true
+}

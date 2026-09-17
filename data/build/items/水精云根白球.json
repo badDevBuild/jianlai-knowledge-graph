@@ -1,0 +1,46 @@
+{
+  "name": "水精云根白球",
+  "original_name": "水精珠 / 龙睛火种",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是世间最顶级的补养灵物。它承载着江河湖海的原始气数，对于修行水法或追求人身无垢的修士而言 ，是可遇不可求的造化 。",
+  "aliases": [
+    "水精云根白球"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第190章 我是一名剑客",
+      "owner": "杨花 (魏檗赠送)"
+    }
+  ],
+  "subtype": "滋养类 / 演化类",
+  "holder": "李柳 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大渎龙宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为大渎水脉的根本精华，具备重塑一洲水利格局的潜力 。",
+  "supernatural_ability": "**“润泽五脏”**。能瞬间补给气府内的灵气亏空，修缮受损的水属本命物，并可化为“骊珠”形态护航走 江 [13-15]。",
+  "evolution": {
+    "current_form": "一颗晶莹剔透、如同微缩明月的白球/珠子 。",
+    "materials_consumed": [
+      "大渎水运",
+      "月魄精华"
+    ],
+    "potential_evolution": "可在人身小天地内演化为双龙夺珠的“龙池”格局 。"
+  },
+  "visual": {
+    "static": "洁白无瑕，内部有丝丝缕缕的云气流转，光亮柔和 。",
+    "active": "激发时水汽升腾，如坠云雾，四周天地灵气会液化为甘露 。"
+  },
+  "provenance": {
+    "origin": "源自大渎龙宫水脉凝聚而成的“水精”，后被炼化为玉简或宝珠 。",
+    "karma_link": "见证了李柳对天下水裔的掌控，也是陈平安重建长生桥的关键补给 。"
+  },
+  "enriched": true
+}

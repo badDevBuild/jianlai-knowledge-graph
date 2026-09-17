@@ -1,0 +1,60 @@
+{
+  "name": "火龙手镯",
+  "original_name": "真龙之镯 / 阮秀手镯",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "它是阮秀作为**远古火神**转世的身份象征。, 该手镯拥有极强的压胜之力，曾在芙蓉山一役中吞噬金丹地仙的修为，展现出吞噬万物的恐怖神性。[10 ]",
+  "aliases": [
+    "火龙手镯",
+    "火蛟镯子",
+    "赤红手镯"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第181章 不值得",
+      "owner": "阮秀"
+    },
+    {
+      "chapter": "第427章 人生不是书上的故事",
+      "owner": "阮秀"
+    },
+    {
+      "chapter": "第657章 再来一碗阳春面",
+      "owner": "阮秀"
+    },
+    {
+      "chapter": "第1083章 将进酒",
+      "owner": "阮秀"
+    }
+  ],
+  "subtype": "神道/防御类",
+  "holder": "阮秀",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古火神",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为远古五至高神灵之一的证道载体，具备演化为至高神性的潜力。",
+  "supernatural_ability": "由一条**火龙真身**盘踞而成，能自动绕手臂游走，具备焚山煮海的恐怖火法威能。,",
+  "evolution": {
+    "current_form": "龙衔尾状的鲜红镯子。",
+    "materials_consumed": [
+      "芙蓉山武运",
+      "地仙金身精华"
+    ],
+    "potential_evolution": "彻底觉醒为远古火神神格。,"
+  },
+  "visual": {
+    "static": "缠绕在阮秀手腕上的鲜红镯子，色泽明亮且带有温润的龙鳞纹路。,",
+    "active": "激活时化作一条**数十丈长的火龙**，喷吐三昧真火，声势动天。,"
+  },
+  "provenance": {
+    "origin": "阮秀在自家的铁匠铺内通过打铁“天成”而得，实为神性回归的显化。",
+    "karma_link": "与骊珠洞天最后一条真龙的陨落及神道复兴计划深度绑定。,"
+  },
+  "enriched": true
+}

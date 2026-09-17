@@ -1,0 +1,45 @@
+{
+  "name": "青纸佛经",
+  "original_name": "金字佛经",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这页佛经是陈平安五行本命物中极具灵性的一件。它不仅协助陈平安重建了长生桥，更在其心相天地中 演化为具有自主意识的金色小人，是其抵御心魔、梳理气机的核心 [11-13]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第524章 陈平安和齐景龙的道理",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "五行之金 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "杜俞",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为陈平安人身小天地的五行之金本命物，潜力随其佛道造诣同步增长 。",
+  "supernatural_ability": "能够降服心猿意马，镇压气府。炼化后可显化为骑乘火龙的背剑小人儿，巡视识海 。",
+  "evolution": {
+    "current_form": "一张写满金字的古老佛经书页 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "五彩金匮灶之火",
+      "浩然正气"
+    ],
+    "potential_evolution": "演化为坐镇肺腑窍穴、身穿金色儒衫的小儒士 。"
+  },
+  "visual": {
+    "static": "一张古旧的书页，上面的金字熠熠生辉，自带神圣威压 。",
+    "active": "散发出浓厚的金色灵光，佛音重重，可洗涤持有人神魂中的沉疴 。"
+  },
+  "provenance": {
+    "origin": "杜俞在北俱芦洲一处破败古寺地道中偶然获得 。",
+    "karma_link": "杜俞为报答陈平安的护道之恩，将其作为以物易物的筹码赠出 。"
+  },
+  "enriched": true
+}

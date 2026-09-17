@@ -1,0 +1,48 @@
+{
+  "name": "佩刀",
+  "original_name": "名泉",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "大泉姚氏的镇国之刀，在丢失后由简明在曾先生的指引下取回，是人间君主极其推崇的重宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第225章 夜路",
+      "owner": "徐远霞"
+    }
+  ],
+  "subtype": "气运/压胜类",
+  "holder": "高简 (越人歌)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姚岭之",
+      "relation": "原主"
+    },
+    {
+      "name": "曾先生",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "蕴含大泉王朝皇室龙气，对蛟龙之属有天然压胜效果，可作为斩龙利刃 。",
+  "supernatural_ability": "能够斩断龙脉国祚，天然压胜鬼怪神异，斩杀身负龙气之人可进一步提升其杀力 。",
+  "evolution": {
+    "current_form": "大泉王朝镇国重器，装饰极尽华丽的战刀 。",
+    "materials_consumed": [
+      "天外飞石",
+      "皇室龙气"
+    ],
+    "potential_evolution": "演化为具备完整龙魂的斩龙神兵 。"
+  },
+  "visual": {
+    "static": "木质刀鞘蒙绿鲨皮，刀柄嵌满珍宝，外表看起来更像是一件华贵的装饰品 。",
+    "active": "出鞘时寒光盈室，伴随浓郁的肃杀之气与龙气余韵 。"
+  },
+  "provenance": {
+    "origin": "由天外飞石铸造，大泉王朝宝库秘藏两百余年的至宝 。",
+    "karma_link": "曾被用于手刃前朝末代皇帝，是承载大泉国祚兴衰的政治象征 。"
+  },
+  "enriched": true
+}

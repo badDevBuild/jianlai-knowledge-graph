@@ -1,0 +1,46 @@
+{
+  "name": "斋戒玉牌",
+  "original_name": "福地头等斋戒牌",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是云窟福地内最高等级的通行令牌。它不仅象征着持有者作为姜氏贵客的身份，更是获取福地珍稀资 源（如水龙砚石材）的万能钥匙 。",
+  "aliases": [
+    "斋戒牌"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第752章 无巧不成书",
+      "owner": "姜尚真赠予孩子们"
+    }
+  ],
+  "subtype": "功能类 / 权限类",
+  "holder": "白玄、纳兰玉牒、程朝露、姚小妍",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姜尚真",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为云窟福地顶级的身份凭证，其权限价值极高，能开启多处秘境权限 。",
+  "supernatural_ability": "持有者可自由出入云窟福地的老君山等禁地，并拥有在砚溪山随意拣选名贵砚石的特权 。",
+  "evolution": {
+    "current_form": "带有特定制式和禁制的头等斋戒牌。",
+    "materials_consumed": [
+      "福地水土气运",
+      "仙家美玉"
+    ],
+    "potential_evolution": "可随着福地品秩提升而获得更广阔的位面通行权。"
+  },
+  "visual": {
+    "static": "玉色通透，触手冰凉，刻有复杂的符文禁制与云林姜氏的族徽标志。",
+    "active": "在通过山水大门时会散发柔和的引导光芒，以此抵消阵法的排斥力 。"
+  },
+  "provenance": {
+    "origin": "云林姜氏云窟福地定制的顶级身份信物 。",
+    "karma_link": "由落魄山供奉姜尚真赠予剑气长城的孩子们，用于在福地内历练捡漏 。"
+  },
+  "enriched": true
+}

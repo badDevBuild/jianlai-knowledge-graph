@@ -1,0 +1,43 @@
+{
+  "name": "破剑",
+  "original_name": "荒冢古剑",
+  "type": "灵器",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一把极具古风的压胜之剑，虽然在拾荒者眼中是件值钱灵器，但在陈平安看来是维持当地太平的功 臣。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第510章 前辈我让你三拳吧",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "压胜类 / 镇邪类",
+  "holder": "梅釉国荒冢",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "不知名道士",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽然岁月悠久且已经到了崩碎边缘，但其剑气依旧森冷。",
+  "supernatural_ability": "作为镇压地界风水的法器，能够压制阴煞戾气不外泄。",
+  "evolution": {
+    "current_form": "没入墓碑、唯有剑柄显露在外的古剑。",
+    "materials_consumed": [
+      "岁月磨损"
+    ],
+    "potential_evolution": "若经高人磨砺修缮，有望恢复灵器威能。"
+  },
+  "visual": {
+    "static": "在荒草丛生的废墟中，剑柄斑驳，剑身深埋石中。",
+    "active": "靠近时可感应到微弱但纯粹的斩杀剑意。"
+  },
+  "provenance": {
+    "origin": "由一位道士为了镇压荒冢内的阴煞之气而留下。",
+    "karma_link": "陈平安在远游梅釉国途中偶遇，因其镇邪之功未允许同行的马笃宜将其拔除。"
+  },
+  "enriched": true
+}

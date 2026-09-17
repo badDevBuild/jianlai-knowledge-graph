@@ -1,0 +1,38 @@
+{
+  "name": "渡口符",
+  "original_name": "蒙学入道符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "这是条目城蒙学中常见的“顺口溜”符箓之一，陈平安曾 考虑是否将这类带有仙家色彩的文字从蒙学中删除，以 免误导稚童 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第757章 满座皆故友",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助/引渡类",
+  "holder": "条目城众生",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "作为基础符箓，随画符者笔力提升可具备穿梭小型秘境 的能力 。",
+  "supernatural_ability": "辅助凡俗或初学者感知天地灵气脉络，指引跨越小型藩 篱 。",
+  "evolution": {
+    "current_form": "寻常黄纸书写的入门级符箓 。",
+    "materials_consumed": [
+      "凡俗朱砂",
+      "微量灵纸"
+    ],
+    "potential_evolution": "可进阶为具备定点传送功能的“缩地符” 。"
+  },
+  "visual": {
+    "static": "纸张质地一般，符文简单易读，常作为蒙学读物出现 。",
+    "active": "激发时散发微弱光芒，形成一道指引虚线的幻象 。"
+  },
+  "provenance": {
+    "origin": "起源于条目城普及性的蒙学教案 。",
+    "karma_link": "象征着修行的起点，即“渡口”之意 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "玉团团",
+  "original_name": "避暑 (团扇)",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此物又名“避暑”扇，是一件极为罕见的月宫遗物。其文字中蕴含的“老痴顽，梦游月宫”等内容，预示了 它与高位神灵之间的隐秘关联 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第638章 代大匠斫者",
+      "owner": "郭竹酒(保管)"
+    }
+  ],
+  "subtype": "压胜类 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "山水窟 (白溪)",
+      "relation": "夺取自"
+    },
+    {
+      "name": "月宫主 (明月共主)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古月宫旧藏，其上限随月魄精华的补充而不断恢复 。",
+  "supernatural_ability": "“明月生凉”。能够吸纳世间月色，镇压山水气运，并具备在大暑时节生发清凉境地的神通 。",
+  "evolution": {
+    "current_form": "一把刻有“金涟涟，玉团团”字样的宝光团扇 。",
+    "materials_consumed": [
+      "月魄精华",
+      "大渎水运"
+    ],
+    "potential_evolution": "若能重返明月皓彩进行温养，可完全恢复远古仙兵威能 。"
+  },
+  "visual": {
+    "static": "扇面洁白如玉，文字秀气，钤有“见风月来”等匾额式样 。",
+    "active": "扇动时金涟涟、玉团团的异象丛生，仿佛有千万家灯火映照其中 。"
+  },
+  "provenance": {
+    "origin": "远古时代由明月共主亲手炼制，后流落至扶摇洲山水窟 。",
+    "karma_link": "陈平安在夜航船一战后通过算计所得，象征其在“算账整座天下”中的收获 。"
+  },
+  "enriched": true
+}

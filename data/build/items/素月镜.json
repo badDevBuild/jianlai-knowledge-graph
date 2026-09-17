@@ -1,0 +1,44 @@
+{
+  "name": "素月镜",
+  "original_name": "照妖镜",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "素月镜是山上修士行走江湖的必备重器，以其**精准的照妖能力**和正统的道法底蕴著称 。它不仅是防身利器，更是破除幻境、洞察真相的大道媒介 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第746章 夜归人",
+      "owner": "虎臣"
+    }
+  ],
+  "subtype": "压胜类 / 辅助类",
+  "holder": "虎臣 (大瀼水剑修)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大瀼水宗门",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为**浩然天下六大照妖镜门类**之一，具备极高的名望和压胜上限 。",
+  "supernatural_ability": "**“乘月反真”**。能够照见神灵真容，识破绝大多数妖族及山泽精魅的障眼法 。",
+  "evolution": {
+    "current_form": "古青铜镜 。",
+    "materials_consumed": [
+      "精纯月华",
+      "雷法道意"
+    ],
+    "potential_evolution": "可升级为更高级别的“猕猴观古捞月镜” 。"
+  },
+  "visual": {
+    "static": "镜面光洁如水，边缘镌刻有**“体素储洁，乘月反真”**等古老铭文 。",
+    "active": "激发时激射出**澄莹洞彻的白色镜光**，笼罩之处万象显形，令妖邪胆寒 。"
+  },
+  "provenance": {
+    "origin": "浩然天下正统符箓与炼物一脉的传承法器 。",
+    "karma_link": "由南婆娑洲大瀼水嫡传剑修持有，曾用于在倒悬山附近勘验身份 。"
+  },
+  "enriched": true
+}

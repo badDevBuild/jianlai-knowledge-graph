@@ -1,0 +1,44 @@
+{
+  "name": "太平山阵图",
+  "original_name": "太平山护山阵图",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是太平山在遭逢大劫前留下的珍贵火种。陈平安在通过玉版城得来的十二把飞剑将其补全后，使得这 套本就名动一洲的阵法重现了远古时代的恐怖杀力 [10-12]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第997章 酒，剑，明月",
+      "owner": "落魄山"
+    }
+  ],
+  "subtype": "阵法类 / 攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "太平山老天君",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "配合特定名剑与英灵后，杀力可由“杀玉璞”升华为“重伤不知名仙人” 。",
+  "supernatural_ability": "极意攻伐。阵图完全开启后，可接引多位剑仙英灵镜像，以纯粹的剑阵威力镇压一方天地 。",
+  "evolution": {
+    "current_form": "一幅记载了太平山传承剑阵轨迹的古老图卷 。",
+    "materials_consumed": [
+      "太平山残余道韵",
+      "玉版城十二飞剑"
+    ],
+    "potential_evolution": "在融入陈平安的“剑仙画卷”英灵后，演化为落魄山下宗的镇山攻伐大阵 。"
+  },
+  "visual": {
+    "static": "图卷上绘有繁密的剑道走势，透出一股不平则鸣的凛烈剑气 。",
+    "active": "激活后十二把飞剑各居其位，与剑仙英灵镜像虚实呼应，剑光纵横交错覆盖整座祖师堂 。"
+  },
+  "provenance": {
+    "origin": "桐叶洲太平山老天君赠予陈平安的护身重礼 。",
+    "karma_link": "由刘景龙协助修补并圆满，成为落魄山与青萍剑宗的防御底牌 。"
+  },
+  "enriched": true
+}

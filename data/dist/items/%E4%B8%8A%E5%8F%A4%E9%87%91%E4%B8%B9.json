@@ -1,0 +1,43 @@
+{
+  "name": "上古金丹",
+  "original_name": "远古仙鹤金丹",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这颗金丹由天地间第一只仙鹤遗留，是其闭关失败后的道产显化 。它目前被封存在云窟福地的黄鹤矶，由老舟子倪元簪看守 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第754章 选址",
+      "owner": "倪元簪"
+    }
+  ],
+  "subtype": "传承/本源类",
+  "holder": "倪元簪 (代管)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "天地间第一只仙鹤",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "蕴含半步十四境大修士的毕生道果，可助修士直上青云 。",
+  "supernatural_ability": "具备极其恐怖的灵气密度，可作为重塑金身或开辟洞天的核心 。",
+  "evolution": {
+    "current_form": "澄澈无瑕的浑圆金丹，藏于黄鹤矶崖壁内 , 。",
+    "materials_consumed": [
+      "远古大修道意"
+    ],
+    "potential_evolution": "可被炼化为提升境界的极品大药，或传承给嫡传弟子 。"
+  },
+  "visual": {
+    "static": "珠圆玉润，宝光流转，四周空间因其灵压而微微扭曲 。",
+    "active": "开启时金光冲天，显现出远古仙鹤高飞星辰的异象 。"
+  },
+  "provenance": {
+    "origin": "由一位合道失败的远古大修留存于碧霄洞落宝滩 。",
+    "karma_link": "由老观主代为看管，静待有缘人隋右边 , 。"
+  },
+  "enriched": true
+}

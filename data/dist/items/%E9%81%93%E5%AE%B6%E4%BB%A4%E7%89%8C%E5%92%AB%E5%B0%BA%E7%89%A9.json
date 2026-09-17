@@ -1,0 +1,47 @@
+{
+  "name": "道家令牌咫尺物",
+  "original_name": "道家木质令牌",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安凭借过人的体魄与商业眼光，从彩雀府换取的咫尺物。它见证了陈平安作为‘包袱斋’和‘账房先 生’的奋斗史，是其通过平等交换获得的重要家当之一。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第673章 针线活",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "孙清",
+      "relation": "赠予者"
+    },
+    {
+      "name": "彩雀府",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随陈平安对道家炼物法的钻研深入，可提升其作为阵法枢纽的功效。",
+  "supernatural_ability": "内部具备显著的空间存储能力，且作为道教信物，能产生微妙的道门气息压制。",
+  "evolution": {
+    "current_form": "刻有道门云篆的木质令牌。",
+    "materials_consumed": [
+      "灵气精华"
+    ],
+    "potential_evolution": "可配合落魄山的护山大阵，作为其中一个移动的阵脚节点。"
+  },
+  "visual": {
+    "static": "古朴沉稳的木制令牌，表面铭文深奥，透着一股道家威严。",
+    "active": "使用时会有淡淡的青紫色道气萦绕，存储与取出物件极度丝滑。"
+  },
+  "provenance": {
+    "origin": "彩雀府（孙清）收藏的重宝。",
+    "karma_link": "陈平安靠搬运巨大的藻井、并与孙清达成生意协议后，辛苦凭本事挣来的报酬。"
+  },
+  "enriched": true
+}

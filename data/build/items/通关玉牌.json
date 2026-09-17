@@ -1,0 +1,37 @@
+{
+  "name": "通关玉牌",
+  "original_name": "通关文牒",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "修行者行走于各洲名山大川及小洞天的必需品。例如进入龙宫洞天就需要缴纳神仙钱换取特定的通行牌 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第490章 肤腻城的下马威",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "信物类",
+  "holder": "远游修士/商旅",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "涉及大型洞天或秘境的通行权，价值随禁制强度变化",
+  "supernatural_ability": "破开特定的山水屏障或阵法门扉，确保持有者不受由于身份触发的攻击",
+  "evolution": {
+    "current_form": "刻有特定禁制与通行期限的玉质牌子",
+    "materials_consumed": [
+      "阵法灵力"
+    ],
+    "potential_evolution": "若得圣人法旨，可成为跨洲而行的通天令牌"
+  },
+  "visual": {
+    "static": "通常刻有山川或云雾图案，质地温润",
+    "active": "靠近禁制时，玉牌会产生共鸣光亮，指引通过的道路"
+  },
+  "provenance": {
+    "origin": "由管理特定地界（如龙宫洞天）的宗门或王朝发放",
+    "karma_link": "是修行界有序往来与利益划分的见证"
+  },
+  "enriched": true
+}

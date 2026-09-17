@@ -1,0 +1,44 @@
+{
+  "name": "归乡帖",
+  "original_name": "归乡字帖",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是吴霜降对其道侣思念的具象化，也是一份极其珍贵的道法传承。它不仅仅是一幅字帖，更是一份沉 重的人生感悟 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第745章 想搬山",
+      "owner": "大骊先帝(收藏)"
+    }
+  ],
+  "subtype": "文运/意境类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随持有人对光阴长河的领悟，可演化为干扰时光流速的禁制 。",
+  "supernatural_ability": "字帖内蕴含吴霜降的十四境道韵，具备“心如世上青莲色”的特殊花押保护 。",
+  "evolution": {
+    "current_form": "行书字帖，由吴霜降亲笔书写 。",
+    "materials_consumed": [
+      "岁除宫万年红纸张",
+      "七宝泥"
+    ],
+    "potential_evolution": "可作为构建“光阴长河”幻象的关键枢纽 。"
+  },
+  "visual": {
+    "static": "书法如龙蛇游走，字里行间有墨香溢出，钤有“戎马书生”印章 。",
+    "active": "激发时文字熠熠生辉，可显现出“当时只道是寻常”的人生幻境 。"
+  },
+  "provenance": {
+    "origin": "岁除宫宫主吴霜降在夜航船上赠予陈平安 。",
+    "karma_link": "见证了陈平安与吴霜降之间的“问道”因果，挂于落魄山竹楼一楼 。"
+  },
+  "enriched": true
+}

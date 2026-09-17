@@ -1,0 +1,63 @@
+{
+  "name": "翻墨",
+  "original_name": "龙舟渡船",
+  "type": "其他",
+  "grade": "仙家重宝",
+  "status": "活跃",
+  "description": "落魄山名下的重要跨洲渡船，由贾晟和张嘉贞负责日常管事和账目 。它连接了宝瓶洲与桐叶洲，是下宗营建的重要保障 。",
+  "aliases": [
+    "翻墨龙舟",
+    "翻墨渡船"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第568章 落魄山祖师堂",
+      "owner": "落魄山"
+    },
+    {
+      "chapter": "第659章 居中武夫",
+      "owner": "落魄山"
+    },
+    {
+      "chapter": "第825章 太上宗主",
+      "owner": "落魄山"
+    },
+    {
+      "chapter": "第924章 与诸君借取千山万水（五）",
+      "owner": "落魄山"
+    },
+    {
+      "chapter": "第983章 愁者解自愁",
+      "owner": "落魄山(刘重润管理)"
+    }
+  ],
+  "subtype": "跨洲渡船 / 运输类",
+  "holder": "落魄山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘重润 (珠钗岛)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随着落魄山下宗青萍剑宗的商贸往来，其承载气运不断壮大 。",
+  "supernatural_ability": "能够载人运货跨越三洲，途径十七座渡口 。",
+  "evolution": {
+    "current_form": "庞大的龙舟渡船，甲板下有三层船舱 。",
+    "materials_consumed": [
+      "神仙钱",
+      "灵气积蓄"
+    ],
+    "potential_evolution": "通过不断修缮，可成为承载两宗贸易的枢纽重宝 。"
+  },
+  "visual": {
+    "static": "体型巨大，如蛟龙巡游，装饰有落魄山及原珠钗岛标志 。",
+    "active": "航行时灵气涟漪剧烈，气势惊人，带动阵阵山风 。"
+  },
+  "provenance": {
+    "origin": "原为珠钗岛刘重润名下的产业 。",
+    "karma_link": "刘重润将珠钗岛迁往落魄山后，龙舟转交由陈平安打理 。"
+  },
+  "enriched": true
+}

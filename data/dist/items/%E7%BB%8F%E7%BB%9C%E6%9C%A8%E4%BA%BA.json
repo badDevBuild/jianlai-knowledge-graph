@@ -1,0 +1,48 @@
+{
+  "name": "经络木人",
+  "original_name": "劈开的木人",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "损毁",
+  "description": "陈平安学拳初期的核心辅助工具。它补全了《撼山拳谱》文字之外的视觉盲区，帮助他在长生桥断裂的 情况下，精准把握体魄淬炼的每一个节点 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第73章 木人",
+      "owner": "无主 (原稚圭劈砍之物)"
+    }
+  ],
+  "subtype": "传承类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "稚圭 (王朱)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "宋集薪",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为纯粹武夫入门的至宝，其刻画的穴位经络包含神道真意，可支撑武夫打下最强根基 。",
+  "supernatural_ability": "“演武导引”。木人上密密麻麻的穴位（如神庭、巨阙、太渊）与真气运行路径可直观展示修行的“必争 之地” 。",
+  "evolution": {
+    "current_form": "被陈平安重新拼凑而成的木质人体模型 。",
+    "materials_consumed": [
+      "神灵遗迹材质",
+      "蛟龙真意"
+    ],
+    "potential_evolution": "可演化为陈平安识海中观想拳法的“拳意真迹”。"
+  },
+  "visual": {
+    "static": "原本被劈开成数截，重组后表面刻满复杂经络，木质古朴 。",
+    "active": "在内视观想时，木人经络会随呼吸泛起微光，指引真气流转顺序 。"
+  },
+  "provenance": {
+    "origin": "由稚圭故意留在宋集薪宅子灶房，利用陈平安捡破烂的习惯赠予 。",
+    "karma_link": "陈平安武道修行的启蒙工具，也是他与稚圭、宋集薪因果缠绕的见证 。"
+  },
+  "enriched": true
+}

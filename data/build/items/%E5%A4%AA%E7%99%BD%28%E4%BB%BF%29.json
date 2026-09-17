@@ -1,0 +1,48 @@
+{
+  "name": "太白(仿)",
+  "original_name": "仿仙剑太白",
+  "type": "仙剑",
+  "grade": "飞剑",
+  "status": "活跃",
+  "description": "吴霜降所制四仿剑中最具灵性的一把。它虽然是赝品， 却足以让一般仙人感到窒息。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第777章 还礼",
+      "owner": "吴霜降"
+    },
+    {
+      "chapter": "第779章 剑斩十四",
+      "owner": "吴霜降"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "若能与陈平安手中的太白剑尖产生共鸣，杀力将不可限 量。",
+  "supernatural_ability": "继承了“诗无敌”的部分剑意，锋芒无匹，能在某种程度 上模仿白也的杀招。",
+  "evolution": {
+    "current_form": "品秩跌落后的仿制长剑，剑气依旧宏大。",
+    "materials_consumed": [
+      "剑仙遗物",
+      "庚金精粹"
+    ],
+    "potential_evolution": "可作为重塑仙剑太白的重要参考胚子。"
+  },
+  "visual": {
+    "static": "剑光雪亮，带有浓郁的酒气与诗意，剑意昂然。",
+    "active": "挥动间如明月坠地，剑光一斩为二，具有撕裂小天地的 威能。"
+  },
+  "provenance": {
+    "origin": "吴霜降针对白也所持仙剑仿制。",
+    "karma_link": "连接了浩然天下最得意之人与岁除宫宫主的大道博弈。"
+  },
+  "enriched": true
+}

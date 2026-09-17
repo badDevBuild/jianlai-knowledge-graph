@@ -1,0 +1,44 @@
+{
+  "name": "三郎庙蒲团",
+  "original_name": "山上蒲团",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "被誉为“一颗小暑钱能当两颗用”的修行重宝。广泛用于骸骨滩等地的茅屋道场，是地仙之下修士梦寐以 求的利器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1055章 书生到此",
+      "owner": "多方持有"
+    }
+  ],
+  "subtype": "修行辅助类",
+  "holder": "练气士 / 落魄山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三郎庙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "其制造法门极其精妙，即便剥离也难以完美仿制其功效 。",
+  "supernatural_ability": "帮助修道之人极速进入禅定坐忘境，成倍提升呼吸吐纳与汲取天地灵气的效率 。",
+  "evolution": {
+    "current_form": "编制细密、质地冰凉的圆形垫子 。",
+    "materials_consumed": [
+      "特殊灵草",
+      "秘制禁制"
+    ],
+    "potential_evolution": "若能配合上古道诀，可演化为小型的灵气漩涡核心。"
+  },
+  "visual": {
+    "static": "色泽素雅，带有某种令人安定的草木清馨 。",
+    "active": "修士落座后，周身会泛起微弱的灵气涟漪，形成保护层 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲三郎庙，因其对练气士极高的性价比而闻名 。",
+    "karma_link": "小陌曾拆解一张蒲团研究其制造法式 。"
+  },
+  "enriched": true
+}

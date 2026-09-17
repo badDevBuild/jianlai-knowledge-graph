@@ -1,0 +1,40 @@
+{
+  "name": "书简湖乌啼酒",
+  "original_name": "池水城乌啼酒",
+  "type": "丹药",
+  "grade": "灵酒",
+  "status": "消耗",
+  "description": "这是书简湖著名的仙酿，名字与池水城的文化渊源紧密相连，常作为山头会盟或待客的必备良品 。",
+  "aliases": [
+    "乌啼酒"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第459章 都在有酒的江湖",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "补益类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为书简湖名酒，随酿造技艺的补全可作为高阶修士破境的辅助资粮 。",
+  "supernatural_ability": "饮用后能温养经脉并滋补神魂，口感在桐叶洲亦属顶尖 。",
+  "evolution": {
+    "current_form": "具有灵气的仙家美酒 。",
+    "materials_consumed": [
+      "书简湖水运精华",
+      "池水城特产原料"
+    ],
+    "potential_evolution": "若加入“酒虫”进行温养，可进化为能够修补道心瑕疵的圣品 。"
+  },
+  "visual": {
+    "static": "盛放在古朴的瓷罐中，酒液清澈 。",
+    "active": "开坛后异香扑鼻，在寒冷地界饮用能引发气血热涌 。"
+  },
+  "provenance": {
+    "origin": "产自书简湖池水城，是当地最具代表性的山上特产 。",
+    "karma_link": "见证了陈平安在书简湖那段复杂的“账房先生”岁月，是他与当地势力博弈的社交媒介 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,59 @@
+{
+  "name": "绿鞘狭刀",
+  "original_name": "翠微",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此刀是一件品秩极高的仙兵，其刀鞘呈现出独特的嫩绿颜色，被称 为‘翠微’ , 。刀身刻有详细的炼制渊源铭文，原为吴霜降之物，后作为礼物 送给了落魄山的箜篌 , 。此刀不仅美观，且在实战中具有极强的压胜神通 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第11章 少女和飞剑",
+      "owner": "黑衣少女"
+    },
+    {
+      "chapter": "第12章 小巷",
+      "owner": "黑衣少女"
+    },
+    {
+      "chapter": "第17章 不平则鸣",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第52章 晃了晃",
+      "owner": "宁姚"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "箜篌",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安/小陌",
+      "relation": "赠予者"
+    },
+    {
+      "name": "吴霜降",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "已是顶级仙兵，其内蕴含上古炼师的道意 。",
+  "supernatural_ability": "斩鬼驱邪，压胜阴物，刀锋极其锐利 , 。",
+  "evolution": {
+    "current_form": "嫩绿刀鞘腰刀",
+    "materials_consumed": [
+      "上古金石"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "刀鞘呈现嫩绿颜色，名为‘翠微’，造工极其漂亮 , 。",
+    "active": "刀身篆刻有一串铭文，记载了上古炼师名讳及渊源，杀力惊人 。"
+  },
+  "provenance": {
+    "origin": "上古真人炼制，后由岁除宫吴霜降收藏 , 。",
+    "karma_link": "由吴霜降托付小陌带回落魄山，转赠予编谱官箜篌 , 。"
+  },
+  "enriched": true
+}

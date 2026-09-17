@@ -1,0 +1,52 @@
+{
+  "name": "桃叶",
+  "original_name": "剑仙遗物“桃叶”",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这口飞剑是谢灵跨越多个境界、战力远超同辈的关键保障 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第528章 宝瓶洲的现在和未来",
+      "owner": "谢灵"
+    },
+    {
+      "chapter": "第641章 朱敛有拳要问",
+      "owner": "谢灵"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "谢灵",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "北俱芦洲某剑仙",
+      "relation": "原主"
+    },
+    {
+      "name": "谢实",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为大剑仙遗留的本命飞剑，虽然被后人炼化，但杀力依然足以媲美地仙 。",
+  "supernatural_ability": "作为炼化后的本命物，能发挥出原主剑仙的部分杀伐真意，增强持有者的战力 。",
+  "evolution": {
+    "current_form": "一口被炼化为本命物的本命飞剑 。",
+    "materials_consumed": [
+      "剑仙精血",
+      "庚金精华"
+    ],
+    "potential_evolution": "可随持有者跻身玉璞境而重焕剑仙风采。"
+  },
+  "visual": {
+    "static": "形制纤细，如桃叶般灵动，剑身蕴含不散的剑气。",
+    "active": "出鞘时剑光如火，带有北俱芦洲剑修特有的刚猛气息。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲一位兵解剑仙的遗物。",
+    "karma_link": "由谢氏老祖、天君谢实赠予家族天才谢灵 。"
+  },
+  "enriched": true
+}

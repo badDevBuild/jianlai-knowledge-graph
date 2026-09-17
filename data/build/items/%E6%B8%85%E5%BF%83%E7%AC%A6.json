@@ -1,0 +1,45 @@
+{
+  "name": "清心符",
+  "original_name": "安神符 / 涤尘符",
+  "type": "符箓",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是**修行路上的避风港**。在《剑来》中，‘心定’是最高明的道法， 而清心符则是通往此境的最初台阶 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第451章 过桥",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "陈平安 / 远游练气士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "传授者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "随着绘制者境界提升，可演化为能够照彻神魂瑕疵的‘本心大符’ 。",
+  "supernatural_ability": "用于平复心境，排除修行过程中的心猿意马，辅助修士在入定或练拳时 保持灵台清明 。",
+  "evolution": {
+    "current_form": "黄纸朱砂绘制，符文线条圆润柔和 。",
+    "materials_consumed": [
+      "清心丹砂",
+      "黄纸",
+      "平稳真气"
+    ],
+    "potential_evolution": "可进阶为具有安魂、定魄效果的金色材质符箓。"
+  },
+  "visual": {
+    "static": "符纸散发出微弱的凉意，符胆处有若隐若现的白光 。",
+    "active": "激发后化作一圈圈柔和的波纹，瞬间抚平周遭的躁动气机 。"
+  },
+  "provenance": {
+    "origin": "源自《丹书真迹》基础篇章 。",
+    "karma_link": "陈平安在经历多次生死战或心境动荡（如书简湖时期）时，常以此符稳 固道心 。"
+  },
+  "enriched": true
+}

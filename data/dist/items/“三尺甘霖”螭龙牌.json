@@ -1,0 +1,48 @@
+{
+  "name": "“三尺甘霖”螭龙牌",
+  "original_name": "螭龙玉佩 / 万里传音重宝",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是书简湖乃至宝瓶洲水运流转的重要信物。它代表了真龙后裔的传承，并在陈平安管理各路水神、经 营落魄山水权时发挥了重要作用 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第553章 大渎入海处遇故人",
+      "owner": "李柳"
+    }
+  ],
+  "subtype": "水法类 / 传音类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李柳",
+      "relation": "赠予者"
+    },
+    {
+      "name": "张响道",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为龙王庙秘藏的重宝，具备凝聚一洲水运、辅助水裔走江化龙的潜质 。",
+  "supernatural_ability": "具备“万里传音”的妙用。能够感应水脉动向，引动大范围的降雨异象 。",
+  "evolution": {
+    "current_form": "刻有螭龙纹路的玉牌，由于是龙宫旧藏，水气极其浓郁 。",
+    "materials_consumed": [
+      "真龙气运",
+      "江河水运精华"
+    ],
+    "potential_evolution": "若在灵气充沛之地开启禁制，可显化出龙神跨海的壮观景象 。"
+  },
+  "visual": {
+    "static": "玉色通透，雕刻有一尊螭龙，玉佩表面常有水雾萦绕，入手温润 。",
+    "active": "激活时会发出低沉的龙吟嗡鸣声，在水面上行走可如履平地 。"
+  },
+  "provenance": {
+    "origin": "源自龙王庙秘藏，是张响道最为珍视的传家宝 。",
+    "karma_link": "李柳将此牌作为谢礼赠予陈平安，用于陈平安在书简湖及后续的水道布局 。"
+  },
+  "enriched": true
+}

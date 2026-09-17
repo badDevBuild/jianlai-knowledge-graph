@@ -1,0 +1,44 @@
+{
+  "name": "帝姬",
+  "original_name": "白云佩刀 / 秋官遗物",
+  "type": "其他",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "蛮荒天干修士秋云的兵刃。由于出身高位神灵麾下，其 杀力在同品阶法宝中堪称无敌 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第864章 单挑",
+      "owner": "秋云"
+    }
+  ],
+  "subtype": "攻伐/刑罚类",
+  "holder": "秋云",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "秋官白云",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "承载着雷池行刑的权柄，对神魂具有极强的压胜力 。",
+  "supernatural_ability": "具备远古刑狱权能，能斩落修士三魂七魄，尤其针对违 禁精怪 。",
+  "evolution": {
+    "current_form": "狭长的金属性佩刀，气息古老而冷冽 。",
+    "materials_consumed": [
+      "天雷精华",
+      "斩龙台残片"
+    ],
+    "potential_evolution": "可演化为执掌一界刑罚的“天典”实体 。"
+  },
+  "visual": {
+    "static": "刀身修长，样式简朴，外壳常覆有象征秋官身份的云纹 。",
+    "active": "挥动时雷光暴涨，伴随远古雷池的轰鸣声 。"
+  },
+  "provenance": {
+    "origin": "远古天庭刑狱四官中秋官白云的随身兵刃 。",
+    "karma_link": "其辈分与陈平安手中的“斩勘”相当，皆是刑台遗物 。"
+  },
+  "enriched": true
+}

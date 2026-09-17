@@ -1,0 +1,44 @@
+{
+  "name": "大骊斥候精骑腰牌",
+  "original_name": "边军巡狩腰牌",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是大骊王朝为了规范山下秩序和斥候行动而制定的身 份标识。陈平安持有此类腰牌，使他在穿越战乱地带时 能获得必要的官家庇护 [17-19]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1015章 除非问取笼外莺雀",
+      "owner": "青泥"
+    }
+  ],
+  "subtype": "身份/通行类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊边军",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "受王朝气运加持，在一洲范围内具有极高的特权等级。",
+  "supernatural_ability": "在大骊版图及藩属国内部具有合法的军事通行权，可调 动地方驿站资源 。",
+  "evolution": {
+    "current_form": "质地坚硬的木质或铁质腰牌，刻有官职与编号 。",
+    "materials_consumed": [
+      "精铁",
+      "大骊国运"
+    ],
+    "potential_evolution": "若累积足够军功，可更换为带有“太平无事”禁制的重器 玉牌 。"
+  },
+  "visual": {
+    "static": "外表粗犷，正面刻有大骊官署名号，反面有“出京不用” 等禁忌文字 。",
+    "active": "向山水神灵出示时，会引发官场规矩的共鸣，获得礼遇 与通行 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝工部或兵部监制 。",
+    "karma_link": "连接陈平安与大骊宋氏在老龙城及南方战场的深度合作 。"
+  },
+  "enriched": true
+}

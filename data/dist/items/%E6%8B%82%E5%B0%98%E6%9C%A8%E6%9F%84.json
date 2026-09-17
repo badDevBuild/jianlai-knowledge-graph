@@ -1,0 +1,48 @@
+{
+  "name": "拂尘木柄",
+  "original_name": "麈尾木柄 / 远古遗物",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不仅是一截木头，更是连接远古法统的重要信物 。它的现世预示着某些古老道脉在第五座天下的延续 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第974章 一家团圆",
+      "owner": "方艾"
+    }
+  ],
+  "subtype": "仙家/重器类",
+  "holder": "少年剑修 (飞升城)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大天君 (张禄)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "琼瓯",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为远古仙兵的一部分，若能补全丝线，可重现仙兵之 威 。",
+  "supernatural_ability": "自带远古神灵或真人的清净道意，能天然压制部分邪祟 。",
+  "evolution": {
+    "current_form": "一截质地非凡、包浆深厚的木柄 。",
+    "materials_consumed": [
+      "绯紫色长木木材",
+      "岁月道韵"
+    ],
+    "potential_evolution": "配合上古龙须或特殊丝线，可炼制成仙兵级别的拂尘 。"
+  },
+  "visual": {
+    "static": "木柄通体绯紫，表面有细腻的纹路，触手温润 。",
+    "active": "握住木柄时，隐约有天籁声响起，能定神安魂 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代，曾是仙簪城城主等人的随身之物 。",
+    "karma_link": "在倒悬山遗址由张禄转赠给一位少年剑修，被视为一桩 天大的仙缘 。"
+  },
+  "enriched": true
+}

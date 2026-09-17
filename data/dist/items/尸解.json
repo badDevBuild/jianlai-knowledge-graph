@@ -1,0 +1,48 @@
+{
+  "name": "尸解",
+  "original_name": "佩剑“尸解”",
+  "type": "仙剑",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "此剑得名于道家的假死脱身之术，象征着一种舍弃凡蜕、证道长生的决绝剑意 。在第五座天下的争夺中，它因极高的灵性而让多位试图杀人夺宝的地仙不敢轻举妄动 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第699章 天下第一人",
+      "owner": "蹑云"
+    },
+    {
+      "chapter": "第1184章 连破三境",
+      "owner": "蹑云"
+    }
+  ],
+  "subtype": "攻伐类 / 灵性类",
+  "holder": "蹑云",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "仙卿派祖师",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "拥有极强的自主意识，能随主人的生死大劫进行“尸解”式的涅槃升华 。",
+  "supernatural_ability": "自行认主且具备极高灵性，在主人遭遇危险时无需驱动即可自发护主；剑气中蕴含“假死脱身”的玄妙意 境 。",
+  "evolution": {
+    "current_form": "剑身如虹，剑鞘外溢五彩霞光 。",
+    "materials_consumed": [
+      "仙卿派道韵",
+      "五彩精粹"
+    ],
+    "potential_evolution": "若能完全契合“尸解”真意，有望晋升为真正的仙兵 。"
+  },
+  "visual": {
+    "static": "剑鞘覆盖着流溢不定的五彩霞光，即便在夜色中也极为瞩目 。",
+    "active": "出鞘时剑光如雷霆，能够穿透空间，甚至能让对手感应不到其出剑轨迹 。"
+  },
+  "provenance": {
+    "origin": "桐叶洲仙卿派的镇派重宝之一 。",
+    "karma_link": "因感应到蹑云的剑道资质而主动认主，伴随其在第五座天下历练 。"
+  },
+  "enriched": true
+}

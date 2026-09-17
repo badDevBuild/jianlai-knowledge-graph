@@ -1,0 +1,51 @@
+{
+  "name": "金字佛经",
+  "original_name": "一页经书",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "消耗",
+  "description": "这页金字佛经承载了佛家圣贤的正气与无上妙理，被陈平安大炼为五行之金本命物，是其修行道路上最 重要的防御与镇压枢纽 。",
+  "aliases": [
+    "金字书页"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第502章 压下一条线",
+      "owner": "陈平安 (原属杜俞)"
+    }
+  ],
+  "subtype": "五行之金 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "远古高僧",
+      "relation": "原主"
+    },
+    {
+      "name": "杜俞",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为陈平安人身小天地的五行之金本命物，潜力随陈平安佛道修养及境界同步提升 。",
+  "supernatural_ability": "能够降服心猿意马，镇压气府，先天压制阴邪与外魔 。",
+  "evolution": {
+    "current_form": "一张写满金字的古老佛经书页 。",
+    "materials_consumed": [
+      "五彩金匮灶之火",
+      "文运精华",
+      "香火愿力"
+    ],
+    "potential_evolution": "演化为坐镇肺腑窍穴、身穿金色儒衫、骑乘火龙的背剑小人儿 。"
+  },
+  "visual": {
+    "static": "质地古旧的金色书页，文字自带神圣金光，虽经岁月折叠却无损毁 。",
+    "active": "炼化后显化为金色小儒士，在其人身小天地内巡视，口诵真言 。"
+  },
+  "provenance": {
+    "origin": "得自北俱芦洲一处破败古寺地道 。",
+    "karma_link": "由杜俞为抵消救命之恩送予陈平安，成为其重建长生桥的核心本命物之一 。"
+  },
+  "enriched": true
+}

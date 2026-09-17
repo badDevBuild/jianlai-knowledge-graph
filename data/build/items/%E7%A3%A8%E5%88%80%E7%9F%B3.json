@@ -1,0 +1,54 @@
+{
+  "name": "磨刀石",
+  "original_name": "斩龙台碎片、天真",
+  "type": "材料",
+  "grade": "异宝",
+  "status": "活跃",
+  "description": "剑修眼中的终极至宝，决定了剑修能否走到大道尽头 。",
+  "aliases": [
+    "磨刀石"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第99章 山神和竹刀",
+      "owner": "陈平安(藏于李宝瓶行囊)"
+    },
+    {
+      "chapter": "第348章 有些想你了",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "砥砺类 / 炼金类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宁姚",
+      "relation": "赠予者"
+    },
+    {
+      "name": "远古天庭",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古天庭行刑台残片，是重塑仙剑杀力的**终极基材** 。",
+  "supernatural_ability": "**“砥砺锋芒”**。能无限制磨砺飞剑，使其具备斩断大道因果、重塑杀力上限的能力 。",
+  "evolution": {
+    "current_form": "长条形黑色石块，表面刻有“天真”与“宁姚”二字 。",
+    "materials_consumed": [
+      "远古剑气",
+      "神灵遗泽"
+    ],
+    "potential_evolution": "完全融入本命飞剑后可实现“一剑开天”的绝对力量 。"
+  },
+  "visual": {
+    "static": "质地沉重且冰冷，呈现深邃的幽黑色，字符笔画中隐有金光 。",
+    "active": "飞剑其上磨砺时，火星如烈日迸发，龙吟声响彻神魂 。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭两座行刑台之一的碎片 。",
+    "karma_link": "宁姚赠予陈平安的定情信物，是他在剑气长城立足的根基 。"
+  },
+  "enriched": true
+}

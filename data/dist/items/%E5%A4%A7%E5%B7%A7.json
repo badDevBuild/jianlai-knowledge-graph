@@ -1,0 +1,49 @@
+{
+  "name": "大巧",
+  "original_name": "信息缺失",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "注：提供的素材中未包含名为“大巧”的具体器物详细描述。仅在涉及“大工斩玉”及“大写其意”等语境中 存在关联提及 。",
+  "aliases": [
+    "大巧刀"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第335章 庙堂与山野的对峙",
+      "owner": "许轻舟"
+    },
+    {
+      "chapter": "第354章 山上的腥风血雨",
+      "owner": "许轻舟"
+    },
+    {
+      "chapter": "第356章 道争毫厘，左右徘徊",
+      "owner": "许轻舟"
+    },
+    {
+      "chapter": "第757章 满座皆故友",
+      "owner": "许轻舟"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "信息缺失",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "信息缺失",
+  "supernatural_ability": "基于“大巧若拙”的意境，可能具备极致的剑道压胜或破法能力 。",
+  "evolution": {
+    "current_form": "信息缺失",
+    "materials_consumed": [],
+    "potential_evolution": "信息缺失"
+  },
+  "visual": {
+    "static": "信息缺失",
+    "active": "信息缺失"
+  },
+  "provenance": {
+    "origin": "信息缺失",
+    "karma_link": "信息缺失"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "哑巴湖酒",
+  "original_name": "土酿烧酒",
+  "type": "货币",
+  "grade": "凡物",
+  "status": "消耗品",
+  "description": "这是陈平安“生财有道”的见证，为了解决剑修缺钱喝酒的难题而推出的实惠酒水，也是他作为“隐官”深 入人心的一个符号。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第671章 天寒加衣",
+      "owner": "叠嶂酒铺"
+    },
+    {
+      "chapter": "第1049章 陈清都剑术一般",
+      "owner": "无"
+    },
+    {
+      "chapter": "第1079章 人间半部书",
+      "owner": "落魄山"
+    }
+  ],
+  "subtype": "消耗/滋养类",
+  "holder": "叠嶂",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "若浸入“酒虫”，可迅速提升口感与灵气储备。",
+  "supernatural_ability": "酒性极烈，被剑修调侃为喝了真会变成“哑巴”。每百壶含有一枚竹海洞天竹叶。",
+  "evolution": {
+    "current_form": "陈平安与叠嶂在剑气长城经营的低端酒水。",
+    "materials_consumed": [
+      "粗劣酒水",
+      "竹海洞天竹叶"
+    ],
+    "potential_evolution": "作为落魄山与各洲贸易的低阶物资广泛流通。"
+  },
+  "visual": {
+    "static": "装于普通酒坛中，酒色微黄。",
+    "active": "倒在碗中嘶嘶作响，带有淡淡的竹林清香。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城二铺子自创品牌。",
+    "karma_link": "连接了陈平安与剑气长城底层剑修的烟火情。"
+  },
+  "enriched": true
+}

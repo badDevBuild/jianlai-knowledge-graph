@@ -1,0 +1,46 @@
+{
+  "name": "棉布小挎包",
+  "original_name": "护法小包 / 瓜子袋",
+  "type": "方寸物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是落魄山右护法最珍视的家当。它见证了小水怪从哑 巴湖到剑气长城，再到落魄山的快乐成长之路 。",
+  "aliases": [
+    "棉布挎包"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第847章 龙蛇起陆",
+      "owner": "小米粒"
+    }
+  ],
+  "subtype": "收纳类",
+  "holder": "周米粒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "朱敛",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着周米粒“巡山”功德积累，空间可无限延展 。",
+  "supernatural_ability": "内含方寸乾坤，主要用于装载瓜子、小鱼干以及各类捡 漏回来的“大宝贝”。亦可作为掩护，藏匿飞剑 。",
+  "evolution": {
+    "current_form": "质朴的棉布挎包，背带较长，颜色素雅 。",
+    "materials_consumed": [
+      "落魄山灵气",
+      "朱敛的手艺"
+    ],
+    "potential_evolution": "可演化为承载一山水运的“乾坤袋”。"
+  },
+  "visual": {
+    "static": "外表平平无奇，甚至有些土气，侧面可能绣有“落魄山” 标识 。",
+    "active": "小米粒伸手入内时，可见灵光微漾，能从中掏出远超包 身体积的物品 。"
+  },
+  "provenance": {
+    "origin": "老厨子朱敛为落魄山右护法量身打造。",
+    "karma_link": "是周米粒身为“巡山使节”的标志性装备 。"
+  },
+  "enriched": true
+}

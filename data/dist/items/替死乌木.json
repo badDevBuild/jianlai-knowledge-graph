@@ -1,0 +1,19 @@
+{
+  "name": "替死乌木",
+  "original_name": "乌木",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "损毁",
+  "description": "一小截焦炭似的乌木，极有分量，疑似刺客施展替死之法后的残骸。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第224章 才子佳人",
+      "owner": "陈平安 (原属刺客)"
+    },
+    {
+      "chapter": "第248章 神仙买卖，后会有期",
+      "owner": "青蚨坊 (原属陈平安)"
+    }
+  ]
+}

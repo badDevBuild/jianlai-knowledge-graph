@@ -1,0 +1,65 @@
+{
+  "name": "兵书",
+  "original_name": "《尉子兵法》/ 军阵秘录",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "**兵书在《剑来》中是“事功学问”的文字总结** 。对于陈平安而言，它是平衡心中感性道理与理性权衡的重要工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第498章 天地无拘束",
+      "owner": "陈平安(搜刮自羊肠宫)"
+    },
+    {
+      "chapter": "第976章 炼剑即远游",
+      "owner": "白落(原)"
+    },
+    {
+      "chapter": "第1013章 风雨桃李荠菜花",
+      "owner": "合欢山(传闻)"
+    },
+    {
+      "chapter": "第1044章 道上不敢有郑",
+      "owner": "落魄山/青同"
+    },
+    {
+      "chapter": "第1168章 台阶上的他们",
+      "owner": "卓成仙 (原主)"
+    },
+    {
+      "chapter": "第1192章 任你万山围栏",
+      "owner": "小米粒"
+    }
+  ],
+  "subtype": "谋略类",
+  "holder": "陈平安 / 兵家修士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土兵家祖庭",
+      "relation": "源自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "研读大成后可指挥千军万马，甚至影响一洲之地的武运 。",
+  "supernatural_ability": "书中自有肃杀之气，能平定修士由于过度安逸而产生的怠惰心魔 。",
+  "evolution": {
+    "current_form": "纸张略显陈旧、字迹古朴厚重的重装书册 。",
+    "materials_consumed": [
+      "宣纸",
+      "万军杀气",
+      "先贤智慧"
+    ],
+    "potential_evolution": "可由兵家圣人批注演化为具有“纸上谈兵”实战效能的重器 。"
+  },
+  "visual": {
+    "static": "墨迹厚重如铁，封面上隐约有金戈铁马的幻象闪过 。",
+    "active": "翻阅时会有金石之声响起，使人百窍清凉，神清气爽 。"
+  },
+  "provenance": {
+    "origin": "产自中土神洲，部分流散于浩然各地的战场遗址 。",
+    "karma_link": "崔瀺曾通过研读此类书籍制定出大骊一统宝瓶洲的通盘计划 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "文景国玉玺",
+  "original_name": "螭虎钮玉玺 / 凝运神宝",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是文景国亡国后流散民间的传国至宝。它不仅是历史的见证，更是蕴含着大量残余国运，对建立或稳 固山上山下势力具有极大意义 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第535章 天上纸鸢有分别",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "镇压 / 气运类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘杆子及其祖辈",
+      "relation": "曾持有"
+    },
+    {
+      "name": "文景国皇室",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为文景国“交泰殿十七宝”之一，若能集齐整套，可镇压一洲气运 。",
+  "supernatural_ability": "被称为“凝运神宝”，能够感应并汇聚一国之国运龙气 。",
+  "evolution": {
+    "current_form": "方二寸的螭虎钮黄金玉玺 。",
+    "materials_consumed": [
+      "龙气",
+      "文运"
+    ],
+    "potential_evolution": "在崔东山赢下其余十六宝后，可演化为支撑宗门气运的核心重器 。"
+  },
+  "visual": {
+    "static": "黄金质地，螭虎纽，制式古老且威严 。",
+    "active": "激活时会有龙气盘旋，能够震慑山精水怪 。"
+  },
+  "provenance": {
+    "origin": "前朝文景国交泰殿的镇国重器 。",
+    "karma_link": "最初由刘杆子在蜂尾渡向陈平安兜售，后被崔东山以赌局赢下整套十七宝 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,37 @@
+{
+  "name": "醴水之鱼",
+  "original_name": "四眼红鳖",
+  "type": "灵物",
+  "grade": "灵兽",
+  "status": "活跃",
+  "description": "这是夜航船上特有的一种水生灵物。它虽无极强杀力，却因能产出高品相明珠而备受各洲练气士青睐 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第747章 秉烛夜游",
+      "owner": "无"
+    }
+  ],
+  "subtype": "资粮类",
+  "holder": "山上修士",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "若能长期喂养灵气，足部缀珠的品相会逐年提升 。",
+  "supernatural_ability": "足部生有明珠，可剥下作为神仙钱或炼药材料，价值约一颗小暑钱 。",
+  "evolution": {
+    "current_form": "红色大鳖形状，拥有四眼六脚 。",
+    "materials_consumed": [
+      "江河灵气"
+    ],
+    "potential_evolution": "极少数可演化为通灵的水中精魅 。"
+  },
+  "visual": {
+    "static": "背甲火红，足部缀有晶莹剔透的珠子 。",
+    "active": "在水中游动极快，受到惊吓时会喷吐出白色水汽 。"
+  },
+  "provenance": {
+    "origin": "产自夜航船环境内的醴水区域 。",
+    "karma_link": "是夜航船上一种常见的机缘捕捉对象，常被渡船女修购买饰珠 。"
+  },
+  "enriched": true
+}

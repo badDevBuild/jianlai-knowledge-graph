@@ -1,0 +1,63 @@
+{
+  "name": "白碗",
+  "original_name": "五岳真形碗",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "一种能够产出五色土的特殊生财灵器。碗面图案与对应国家的国祚稳固程度息息相关。陈平安在游历途中意识到其 价值，将其用于稳固落魄山的山水地利。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第8章 稗草",
+      "owner": "托碗老人"
+    },
+    {
+      "chapter": "第24章 相赠",
+      "owner": "刘志茂"
+    },
+    {
+      "chapter": "第234章 夜宿古寺有妖气",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第949章 让道",
+      "owner": "秦湖君"
+    },
+    {
+      "chapter": "第1012章 白云生处有人家",
+      "owner": "陆沉(临时使用)"
+    },
+    {
+      "chapter": "第1143章 谁敢立教称祖",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "生财/辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "说书老人（陆沉分身）",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "生财速度随碗面所绘五岳的品秩动态提升。",
+  "supernatural_ability": "聚沙成塔。可定期产出珍贵的五色社稷土，并能观照山河气象。",
+  "evolution": {
+    "current_form": "绘有古榆国五岳真形图的白瓷碗",
+    "materials_consumed": [
+      "对应山岳之土壤"
+    ],
+    "potential_evolution": "大王朝五岳真形碗"
+  },
+  "visual": {
+    "static": "看似普通的白釉瓷碗，内壁或外壁绘有古朴的五岳真形图线条。",
+    "active": "碗中可生出云雾，显化对应的山河异象。"
+  },
+  "provenance": {
+    "origin": "陆沉在骊珠洞天行骗（引导）顾粲时所用的物件。",
+    "karma_link": "关联大隋与古榆国等地的社稷运势。"
+  },
+  "enriched": true
+}

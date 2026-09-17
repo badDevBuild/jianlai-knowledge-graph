@@ -1,0 +1,44 @@
+{
+  "name": "金色玉牌",
+  "original_name": "浩然气玉佩",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此玉牌是大礼圣亲赐的重宝，不仅是身份的象征，更是陈平安补充灵气、稳固道心的关键法宝。它内部 的小天地甚至能暂时容纳并压制高阶修士的灵气溢出 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第414章 那些心尖上摇曳的悲欢离合",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "补益类 / 空间类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土文庙",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "承载着极其浓郁的文庙文运，其空间会随着主人浩然气的增长而扩张 。",
+  "supernatural_ability": "**“吾善养浩然气”**。玉牌能自行汲取天地灵气，其内部如同一座可随身携带的小洞天，灵气浓郁度极 高 。",
+  "evolution": {
+    "current_form": "篆刻有“吾善养浩然气”字样的金色玉佩 。",
+    "materials_consumed": [
+      "大理石精",
+      "中土文庙文运"
+    ],
+    "potential_evolution": "可作为合道一洲山河的根本物 。"
+  },
+  "visual": {
+    "static": "金光灿烂，质地温润，篆文笔触充满浩然之气 。",
+    "active": "激发时会产生巨大的灵气漩涡，疯狂吞噬方圆百里的云海水精 。"
+  },
+  "provenance": {
+    "origin": "在老秀才的争取下，由文庙高位圣人赠予陈平安 。",
+    "karma_link": "是大礼圣对陈平安在剑气长城功绩的变相补偿 。"
+  },
+  "enriched": true
+}

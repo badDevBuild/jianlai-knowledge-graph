@@ -1,0 +1,44 @@
+{
+  "name": "割雪",
+  "original_name": "蛮荒余孽佩剑 / 豆蔻之剑",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "损毁",
+  "description": "此剑原为敌手之物，陈平安收缴后为其改名“割雪”。它 代表了年轻隐官在战后清扫余孽的决绝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1065章 江湖寂寥一百年",
+      "owner": "青仙田灵娥(原主) -> 丁婴"
+    }
+  ],
+  "subtype": "攻伐/因果类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "豆蔻 (蛮荒余孽)",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为陈平安“拿来祭剑”的对象，若能融合太白剑意，杀 力可直逼仙兵 。",
+  "supernatural_ability": "剑身狭长，能够无视部分空间阻隔，具备“割雪断流”的 极速与锋芒 。",
+  "evolution": {
+    "current_form": "陈平安斩杀豆蔻后缴获的长剑，现已炼入其剑鞘 。",
+    "materials_consumed": [
+      "蛮荒剑意",
+      "太白碎剑"
+    ],
+    "potential_evolution": "可演化为陈平安本命飞剑的辅佐利器。"
+  },
+  "visual": {
+    "static": "剑身清冷，光亮如雪，散发着阵阵令人胆寒的凉意 。",
+    "active": "递剑时如白虹贯日，不仅能割裂实物，亦能斩断因果丝 线 。"
+  },
+  "provenance": {
+    "origin": "夺自藏身于桐叶洲的蛮荒剑修“豆蔻” 。",
+    "karma_link": "是陈平安对阵蛮荒余孽的重要战利品，见证了其隐官身 份的威严 。"
+  },
+  "enriched": true
+}

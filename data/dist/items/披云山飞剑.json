@@ -1,0 +1,43 @@
+{
+  "name": "披云山飞剑",
+  "original_name": "隐官传讯飞剑",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这类飞剑是剑气长城最高规格的通讯工具。陈平安在任隐官期间，曾用刻有自己名字的飞剑向各大洲剑 修下达军令 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第449章 先生的剑在何方",
+      "owner": "陈平安(暂存)"
+    }
+  ],
+  "subtype": "传讯类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "剑坊",
+      "relation": "制造者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "专为隐官一脉打造，其传递信息的隐蔽性极高 。",
+  "supernatural_ability": "能够无视两洲之隔的山水屏障，往返速度极快且极难被拦截 。",
+  "evolution": {
+    "current_form": "小巧玲珑，剑身刻有持有者名字 。",
+    "materials_consumed": [
+      "剑气长城特有铁矿"
+    ],
+    "potential_evolution": "可配合特定的剑房阵法增强传讯距离 。"
+  },
+  "visual": {
+    "static": "造型古朴，剑身一侧篆刻“隐官”二字，另一侧则刻有持有者姓名 。",
+    "active": "飞行时如同一道纤细流萤，瞬息万里 。"
+  },
+  "provenance": {
+    "origin": "由剑气长城剑坊专门为新任隐官一脉剑修铸造 。",
+    "karma_link": "象征着陈平安在剑气长城的指挥权，是联络各大洲剑修的关键信物 。"
+  },
+  "enriched": true
+}

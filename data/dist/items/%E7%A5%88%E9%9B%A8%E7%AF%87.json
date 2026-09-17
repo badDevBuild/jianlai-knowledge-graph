@@ -1,0 +1,44 @@
+{
+  "name": "祈雨篇",
+  "original_name": "祈雨碑仙诀 / 碧游宫仙人祈雨碑仙诀",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一门极其珍稀的炼物与修心法门。它源自上古大渎龙宫的遗存，被埋河水神从石碑中领悟并传于陈 平安，是其构建人身小天地水系根基的核心 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第862章 后手",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "炼化类 / 水法类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "埋河水神娘娘",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "涉及上五境仙人的证道根本，具备演化为通天大道的潜力 。",
+  "supernatural_ability": "“万物可炼” 。能炼化金身、香火，并辅助修士在人身小天地开辟“四天”凉爽境地，有效降服心魔 。",
+  "evolution": {
+    "current_form": "玉简形式，记载五千余字道诀 。",
+    "materials_consumed": [
+      "大渎水精",
+      "江河水运精华"
+    ],
+    "potential_evolution": "完全炼化后可将金丹化为水精，润泽百骸 。"
+  },
+  "visual": {
+    "static": "质地温润的玉简，其上篆刻有五千余字道诀与旁注 。",
+    "active": "激发时，文字可化为碧绿衣裳的小人儿，在水府内绘画门神、描绘大渎水图 。"
+  },
+  "provenance": {
+    "origin": "源自大泉王朝埋河水神庙外的古老祈雨石碑 。",
+    "karma_link": "陈平安与埋河水神因果深厚，得此赠礼后在剑气长城通过此诀磨砺神魂 。"
+  },
+  "enriched": true
+}

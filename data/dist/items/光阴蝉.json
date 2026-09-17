@@ -1,0 +1,46 @@
+{
+  "name": "光阴蝉",
+  "original_name": "蝉蜕符 / 替身符箓",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "一种涉及高深时间法则的灵物或符箓化身。它能够让修士在遭遇不可抗力的重创时，像蝉脱去旧壳一般 重获新生，是大骊“地支”死士的标配重宝 。",
+  "aliases": [
+    "光阴蝉"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第208章 去也",
+      "owner": "打醮山"
+    }
+  ],
+  "subtype": "辅助类 / 时间类",
+  "holder": "大骊“地支”修士 (如后觉、宋续)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊钦天监",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "涉及光阴长河的某种大道碎片，是当世最顶尖的保命秘宝 。",
+  "supernatural_ability": "“金蝉脱壳”。在必死之局中瞬间将神魂转移至符纸载体，真身脱离战场并干扰光阴因果，使敌方无法追 溯 。",
+  "evolution": {
+    "current_form": "如薄翼蝉蜕般的金色符纸 。",
+    "materials_consumed": [
+      "光阴流水精华",
+      "金精粉末"
+    ],
+    "potential_evolution": ""
+  },
+  "visual": {
+    "static": "形似蝉蜕，质地轻薄如蝉翼，其上布满暗金色的时间律动纹路 。",
+    "active": "发动瞬间，身形如蝉蜕般破碎消散，残留气息瞬间归于死寂 。"
+  },
+  "provenance": {
+    "origin": "源自对“光阴长河”法则的模拟与截取 。",
+    "karma_link": "大骊皇室为护卫核心天才，不计成本炼制的保命之物 。"
+  },
+  "enriched": true
+}

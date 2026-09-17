@@ -1,0 +1,46 @@
+{
+  "name": "雪白剑鞘长剑",
+  "original_name": "长气",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此剑名为长气，是陈清都赠予陈平安的一把珍贵佩剑 。剑鞘与剑身虽轻，但其内含剑气极重，足以帮助背负者在日常 行走中淬炼神魂 。此剑代表了剑气长城领袖对陈平安的某种认可与期许 , 。",
+  "aliases": [
+    "白鞘长剑",
+    "雪白剑鞘飞剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第11章 少女和飞剑",
+      "owner": "黑衣少女（曾持有）"
+    }
+  ],
+  "subtype": "攻伐/磨砺类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈清都",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为老大剑仙随身佩剑，其剑意可随持有者修为精进而不断显化 。",
+  "supernatural_ability": "负剑之人，可以日夜淬炼神魂 。",
+  "evolution": {
+    "current_form": "带鞘长剑",
+    "materials_consumed": [
+      "远古剑气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "连剑带鞘重七斤的普通长剑 。",
+    "active": "剑气浓郁，重量会激增至八十斤，剑意磅礴 。"
+  },
+  "provenance": {
+    "origin": "剑气长城老大剑仙陈清都 。",
+    "karma_link": "陈清都以此剑换取租借陈平安的槐木剑匣十年，以此了结因果 , 。"
+  },
+  "enriched": true
+}

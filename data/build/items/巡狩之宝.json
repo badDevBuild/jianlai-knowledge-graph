@@ -1,0 +1,41 @@
+{
+  "name": "巡狩之宝",
+  "original_name": "巡狩天下之宝",
+  "type": "法宝",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "此物即为“巡狩天下之宝”的简称 。它不仅是世俗王朝的玺宝，更因长久放置于狮子园而吸收了浓郁的柳氏文运，是修道之人梦寐以求 的炼物素材 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第394章 水落石出小钱堆",
+      "owner": "柳氏 (陈平安拒绝)"
+    }
+  ],
+  "subtype": "气运类",
+  "holder": "柳清山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "柳老侍郎",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为本命物炼化可达事半功倍之效",
+  "supernatural_ability": "蕴含柳氏文运，有助于读书人砥砺心境",
+  "evolution": {
+    "current_form": "金印",
+    "materials_consumed": [],
+    "potential_evolution": "可作为五行之金的本命物炼化"
+  },
+  "visual": {
+    "static": "小巧的黄金印章，置于青色木盒内 。",
+    "active": "激发后会有文运瑞气升腾 。"
+  },
+  "provenance": {
+    "origin": "狮子园柳氏旧藏",
+    "karma_link": "与柳老侍郎的承诺有关"
+  },
+  "enriched": true
+}

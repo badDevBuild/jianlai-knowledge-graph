@@ -1,0 +1,56 @@
+{
+  "name": "素章",
+  "original_name": "随形章",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是由陈平安亲自操刀篆刻的文房雅器 。其中一对素章，一方边款刻有道祖三千言，底款为“精神一到何事不成”，另一方则刻有陈平安自创 的打油诗 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第605章 世间人人心独坐",
+      "owner": "曹晴朗"
+    },
+    {
+      "chapter": "第669章 今天明天后天",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第1118章 金榜题名",
+      "owner": "陈平安(制作者)"
+    }
+  ],
+  "subtype": "篆刻/文房类",
+  "holder": "傅玄介",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "老观主",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随刻印者心境与所用材质品格提升而增强 。",
+  "supernatural_ability": "边款可承载道祖三千言或圣贤诗词，具备稳固文运、辟除外魔之效 。",
+  "evolution": {
+    "current_form": "材质坚韧的随形玉石素章 。",
+    "materials_consumed": [
+      "随形章石材",
+      "道法真意"
+    ],
+    "potential_evolution": "若能补全印谱，可演化为具有法则压胜之力的文房重宝 。"
+  },
+  "visual": {
+    "static": "大如壮汉拳头，形制随性自然，质地坚韧远超磨剑石 。",
+    "active": "篆刻时火星四溅，印成后金光点点，字迹法度森严 。"
+  },
+  "provenance": {
+    "origin": "老观主赠予陈平安的一块稀世随形章石材 。",
+    "karma_link": "陈平安受托为青神王朝剑修傅玄介篆刻，以此结下文字缘 。"
+  },
+  "enriched": true
+}

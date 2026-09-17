@@ -1,0 +1,46 @@
+{
+  "name": "门神木雕",
+  "original_name": "水府守护神",
+  "type": "灵物",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是**陈平安本命水府的守护神**。虽然面容模糊，却 代表了远古神职对后世修士的某种形式的“归附”与“护持 ” 。",
+  "aliases": [
+    "门神木雕"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第138章 拔河",
+      "owner": "秋芦客栈"
+    }
+  ],
+  "subtype": "防御/镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老龙城 (范氏)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "承载了远古雨师的神位残余，可演化为具有自主战斗能 力的金身神将 。",
+  "supernatural_ability": "张贴或安放于府门，可压制邪祟入侵，并辅助调理一室 之内的灵气运转 。",
+  "evolution": {
+    "current_form": "两幅面容模糊、一男一女的彩绘木雕门神 。",
+    "materials_consumed": [
+      "远古神木",
+      "香火灵气"
+    ],
+    "potential_evolution": "与“雨师敕令”符箓合一，可显化为玉璞境战力的护法神 。"
+  },
+  "visual": {
+    "static": "色彩斑驳，带有明显的古旧气息，线条苍劲有力 。",
+    "active": "遭遇邪祟时，木雕会产生实质性的波纹，显化出高大的 虚像进行拦截 。"
+  },
+  "provenance": {
+    "origin": "陈平安在老龙城炼化水字印时获得的辅佐灵物 。",
+    "karma_link": "作为陈平安“水府”的第一道防线，见证了他对本命窍穴 的精心营建 。"
+  },
+  "enriched": true
+}

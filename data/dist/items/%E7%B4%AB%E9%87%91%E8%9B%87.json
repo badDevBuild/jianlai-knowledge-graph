@@ -1,0 +1,44 @@
+{
+  "name": "紫金蛇",
+  "original_name": "风雷园密库佩剑",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "紫金蛇是风雷园剑术与雷法结合的代表作。它不仅是一把利刃，更是南宫星衍作为风雷园新一代天之骄 子的身份标识，象征着风雷园法统的延续 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第989章 醉得不知人间第几天",
+      "owner": "南宫星衍"
+    }
+  ],
+  "subtype": "攻伐类 / 雷法类",
+  "holder": "南宫星衍",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "黄河 (风雷园园主)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随持有者雷法造诣精进而杀力翻番，有望晋升为半仙兵 。",
+  "supernatural_ability": "能够与雷法产生强烈共鸣，出剑时伴有雷鸣电闪，专门克制阴冥之物与水裔精魅 。",
+  "evolution": {
+    "current_form": "一把通体泛紫、造型奇异的法剑 。",
+    "materials_consumed": [
+      "风雷园秘制紫金",
+      "万年雷池精华"
+    ],
+    "potential_evolution": "若能得雷部神灵精魄洗礼，可演化为真正的“紫金雷龙”法相 。"
+  },
+  "visual": {
+    "static": "剑身细长，色泽紫金相间，隐约可见蛇形纹理，透出森然雷意 。",
+    "active": "祭出后剑气如蛇游走，带起漫天霹雳，威势惊人 。"
+  },
+  "provenance": {
+    "origin": "出自宝瓶洲兵家重地风雷园的密库收藏 。",
+    "karma_link": "是园主黄河对嫡传弟子南宫星衍跻身洞府境的嘉奖 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "长短双剑",
+  "original_name": "上古名剑",
+  "type": "灵器",
+  "grade": "兵器",
+  "status": "活跃",
+  "description": "中年道人作为收徒礼赠予弟子的上古遗物，长剑杀力巨大，短剑利于养气，是极佳的修行法宝 。",
+  "aliases": [
+    "长短剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第182章 道理就在剑鞘里",
+      "owner": "曹峻"
+    },
+    {
+      "chapter": "第194章 降妖和除魔",
+      "owner": "曹峻"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "中年道人的少年少女弟子",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中年道人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随着持有者道气温养，可激发出上古名剑的真正杀力 。",
+  "supernatural_ability": "“削铁如泥”。长剑剑气森森，短剑可供人在睡梦中温养剑气 。",
+  "evolution": {
+    "current_form": "一柄长三尺四寸的长剑及一柄短剑 。",
+    "materials_consumed": [
+      "大道真气",
+      "修士道韵"
+    ],
+    "potential_evolution": "大成后可作为跻身上五境剑仙的本命物 。"
+  },
+  "visual": {
+    "static": "长剑剑囊古旧，雕饰华美；短剑形制小巧，常被置于枕下 。",
+    "active": "长剑出鞘时晶莹射目，剑气森森，令人毛骨悚然 。"
+  },
+  "provenance": {
+    "origin": "长剑出自一座大岳某位陆地真人亲手铸炼 。",
+    "karma_link": "曾是中年道人登山炼气之初的防身利器 。"
+  },
+  "enriched": true
+}

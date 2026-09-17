@@ -1,0 +1,47 @@
+{
+  "name": "大骊五色土",
+  "original_name": "五岳山河社稷土 / 穗山五色土",
+  "type": "材料",
+  "grade": "灵物",
+  "status": "消耗",
+  "description": "这是大骊王朝最核心的战略资源之一，蕴含了一洲山河的根本气数。陈平安以此土炼化为本命物，使其 体魄坚韧程度足以在同境中称雄 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第536章 一洲大地皆起剑",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "炼物材料 / 气运类",
+  "holder": "陈平安",
+  "holder_relation": "大炼 (第二件本命物)",
+  "previous_holders": [
+    {
+      "name": "大骊宋氏",
+      "relation": "原主"
+    },
+    {
+      "name": "崔瀺",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵物",
+  "rank_potential": "作为一洲五岳山根精华，随大骊版图扩张和五岳封正，品级将质变提升 。",
+  "supernatural_ability": "炼化后坐镇人身小天地内的“山祠”，稳固身躯山根，并能先天压制一切地底阴晦与不法神灵 。",
+  "evolution": {
+    "current_form": "取自五岳山根、色分五彩的厚重土壤 。",
+    "materials_consumed": [
+      "大骊新五岳山根精华"
+    ],
+    "potential_evolution": "随陈平安境界攀升，可在气府中显化出巍峨大岳虚影，镇压气运 。"
+  },
+  "visual": {
+    "static": "呈现青、赤、白、黑、黄五种色彩，质地极其沉重，散发着古老的大地气息 。",
+    "active": "炼化时伴有雷鸣山响，五彩霞光萦绕人身，展现出山川拱卫之象 。"
+  },
+  "provenance": {
+    "origin": "产自宝瓶洲大骊新五岳及中土穗山的山根深处 。",
+    "karma_link": "大骊国师崔瀺以五岳之壤作为交换，将魏羡等人的籍贯迁入大骊，旨在稳固国运与陈平安的大道 。"
+  },
+  "enriched": true
+}

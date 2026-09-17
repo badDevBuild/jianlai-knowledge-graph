@@ -1,0 +1,50 @@
+{
+  "name": "大白碗",
+  "original_name": "五岳真形碗",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "一件极其特殊的生财灵器。碗面所绘的五岳真形图与相应国家的社稷稳固程度息息相关，可定期产出珍贵的五色社稷 土。",
+  "aliases": [
+    "白碗"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第7章 碗水",
+      "owner": "说书先生"
+    },
+    {
+      "chapter": "第18章 五去其三",
+      "owner": "刘志茂"
+    }
+  ],
+  "subtype": "生财/辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉（说书老人分身）",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若能集齐浩然天下各大五岳之土，其生财速度和气运聚拢能力将大幅抬升。",
+  "supernatural_ability": "聚沙成塔。放入对应山岳土壤后可产出五色社稷土，并具备观照山河气象的神通。",
+  "evolution": {
+    "current_form": "绘有古老王朝（古榆国）五岳真形图的白瓷碗。",
+    "materials_consumed": [
+      "五岳土壤",
+      "灵气水运"
+    ],
+    "potential_evolution": "随五岳图之品秩与社稷稳固程度动态提升。"
+  },
+  "visual": {
+    "static": "普通的白釉瓷碗，内壁或外壁绘有古朴的五岳真形线条。",
+    "active": "碗中云雾升腾，能显化山河异象，产出带有五色光彩的社稷土。"
+  },
+  "provenance": {
+    "origin": "陆沉（说书老人）在骊珠洞天用于引导顾粲的物件。",
+    "karma_link": "与大隋等国祚运势及陈平安未来建设落魄山地利相关联。"
+  },
+  "enriched": true
+}

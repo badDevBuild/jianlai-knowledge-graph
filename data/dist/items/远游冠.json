@@ -1,0 +1,44 @@
+{
+  "name": "远游冠",
+  "original_name": "白玉冠",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "**远游冠**是《剑来》中标志性的**道门服饰** 。它不仅能加持修士的道气，更是陈平安分身行走江湖、掩饰真实身份的关键道具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第693章 人间又有金丹客",
+      "owner": "田山青"
+    }
+  ],
+  "subtype": "饰品类",
+  "holder": "姜尚真 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "岁除宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随佩戴者境界提升，可作为存储本命神灵或飞剑的“小型洞天” 。",
+  "supernatural_ability": "具备“步虚蹑景”之效，能辅助修士在太虚境界中稳固身形，隔绝外邪 。",
+  "evolution": {
+    "current_form": "白玉莹然或紫金材质的道门冠冕 。",
+    "materials_consumed": [
+      "精纯道气",
+      "星辰精华"
+    ],
+    "potential_evolution": "若作为“白玉京”仿制体系的一部分，可演化为执掌一城的权柄信物 。"
+  },
+  "visual": {
+    "static": "形制古雅，常伴有紫气或宝光萦绕，材质呈现出细腻的玉石质感 。",
+    "active": "在战斗中可显化出“三花聚顶”或“金色光轮”的庄严法相 。"
+  },
+  "provenance": {
+    "origin": "多产自中土神洲或青冥天下白玉京、岁除宫等道门重地 。",
+    "karma_link": "是高阶修士彰显身份与“脱胎换骨”境界的重要视觉符号 。"
+  },
+  "enriched": true
+}

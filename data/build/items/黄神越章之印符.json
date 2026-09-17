@@ -1,0 +1,45 @@
+{
+  "name": "黄神越章之印符",
+  "original_name": "山河剑敕符 / 剑敕",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "损毁",
+  "description": "一种极其罕见且古老的护身符，重点在于其“山”与“河”的真意。虽在现代符箓流派中显得冷门，但对阴 物鬼魅有极强的压胜作用。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第293章 鹰不飞",
+      "owner": "黄尚"
+    }
+  ],
+  "subtype": "护身类 / 震慑类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随绘制者神意与符纸材质提升，若使用金色符纸绘制，威力可震慑高阶鬼神。",
+  "supernatural_ability": "**“神鬼礼敬”**。练气士手持此符，可让山川神鬼心生礼敬，主动让道。",
+  "evolution": {
+    "current_form": "记载于《丹书真迹》中的古老符箓。",
+    "materials_consumed": [
+      "黄纸/金纸",
+      "仙家丹砂",
+      "剑气神意"
+    ],
+    "potential_evolution": "若能完全领悟三山真意，可演化为真正镇压山河的重器。"
+  },
+  "visual": {
+    "static": "符纸之上笔画繁密，呈现出一种返璞归真的纯粹古意。",
+    "active": "激发时符胆灵光流溢，符面上有丝丝缕缕的剑气流转，产生威慑性的气场。"
+  },
+  "provenance": {
+    "origin": "源自远古时代司职斩邪灭煞的神人，记载于《丹书真迹》。",
+    "karma_link": "与三山九侯先生有微妙联系，是陈平安早期护身的底牌之一。"
+  },
+  "enriched": true
+}

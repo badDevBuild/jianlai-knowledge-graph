@@ -1,0 +1,44 @@
+{
+  "name": "竹叶",
+  "original_name": "灵水竹叶",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是陈平安作为**包袱斋**时最珍视的收集物之一。 这些竹叶不仅能凝聚**水运灵气**，还是炼制顶级仙酿的关键材料，常被储存在**养剑葫**中 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第583章 还不过来挨打",
+      "owner": "张嘉贞"
+    }
+  ],
+  "subtype": "滋养/辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "竹海洞天",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵物",
+  "rank_potential": "作为极佳的水法辅助材料，可用于炼制高阶酒水或丹药。",
+  "supernatural_ability": "竹叶尖端能凝聚天地灵气化为精纯水滴，具有清心明目、提升道行的功效 。",
+  "evolution": {
+    "current_form": "层层叠叠、灵光隐现的青翠叶片 。",
+    "materials_consumed": [
+      "云海精华",
+      "龙宫水运"
+    ],
+    "potential_evolution": "若作为“青神山酒”的引子，可提升酒水品相至仙家头等 。"
+  },
+  "visual": {
+    "static": "苍翠且带有某种天然的道意，即便摘下多日依旧不枯萎 。",
+    "active": "晃动时会有如小雨降落的水滴，汇聚成线，香气清远 。"
+  },
+  "provenance": {
+    "origin": "源自北俱芦洲鬼蜮谷或青神山特定灵竹 。",
+    "karma_link": "是陈平安酒铺中“竹海洞天酒”价值核心所在 。"
+  },
+  "enriched": true
+}

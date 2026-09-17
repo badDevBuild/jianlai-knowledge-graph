@@ -1,0 +1,56 @@
+{
+  "name": "三窟",
+  "original_name": "三窟",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "三窟是一柄拥有深厚历史背景的**名剑**。它不仅是剑修黄陵的标志性武器，其附带的**捆妖绳**更是 天地间罕见的重宝，象征着持有者在斩妖一途的卓越地位 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1049章 陈清都剑术一般",
+      "owner": "黄陵"
+    },
+    {
+      "chapter": "第1161章 就怕题外话",
+      "owner": "黄陵"
+    },
+    {
+      "chapter": "第1190章 人间剑气近矣",
+      "owner": "黄陵"
+    },
+    {
+      "chapter": "第1191章 太阳和野草",
+      "owner": "黄陵"
+    }
+  ],
+  "subtype": "攻伐类 / 压胜类",
+  "holder": "黄陵",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "太平老人 (冯姓剑客)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远游剑气长城的名剑，其道蕴极深，且附带顶尖压胜灵物，具有极高的实战权重 。",
+  "supernatural_ability": "缠绕在剑柄上的长绳是一条天地间品秩最高的“捆妖绳”，可用于斩妖除魔并限制大妖行动 。",
+  "evolution": {
+    "current_form": "一柄带有“日月行天，神州旧主”铭文的古剑 。",
+    "materials_consumed": [
+      "上古神金",
+      "顶级捆妖绳索"
+    ],
+    "potential_evolution": "随持有者晋升飞升境，剑气凝结可进一步强化捆妖绳的压胜位阶 。"
+  },
+  "visual": {
+    "static": "剑身铭文“日月行天，神州旧主”，剑柄缠绕有极具灵气的长绳 。",
+    "active": "出剑时剑气激荡，剑柄长绳可显化为捆妖索进行大范围禁锢 。"
+  },
+  "provenance": {
+    "origin": "传自浩然天下游历剑气长城的冯姓剑客“太平老人” 。",
+    "karma_link": "由隐居蛮荒的私剑黄陵持有，承载了太平老人斩妖除魔的遗志 。"
+  },
+  "enriched": true
+}

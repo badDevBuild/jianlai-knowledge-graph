@@ -1,0 +1,43 @@
+{
+  "name": "绿竹刀鞘",
+  "original_name": "竹鞘",
+  "type": "匠器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安在书简湖期间为练习与防身之用连夜赶制的竹制器具 。它体现了陈平安即便在困顿之中仍坚持本心的细微习惯 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第88章 粉墨登场",
+      "owner": "阿良"
+    }
+  ],
+  "subtype": "配饰类",
+  "holder": "陈平安 / 裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "随持有者拳意温养，可逐渐沾染宗师气机 。",
+  "supernatural_ability": "无特殊神通，主要用于收纳竹刀 。",
+  "evolution": {
+    "current_form": "青翠竹制刀鞘",
+    "materials_consumed": [
+      "绿竹"
+    ],
+    "potential_evolution": "灵器"
+  },
+  "visual": {
+    "static": "手工劈砍而成的绿竹鞘，样式质朴 。",
+    "active": "与竹刀配合，常被裴钱悬挂腰间练习疯魔剑法 。"
+  },
+  "provenance": {
+    "origin": "陈平安在书简湖青峡岛期间亲手劈砍绿竹制成 。",
+    "karma_link": "见证了陈平安在书简湖砥砺心境与教导裴钱的岁月 。"
+  },
+  "enriched": true
+}

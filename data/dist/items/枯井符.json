@@ -1,0 +1,47 @@
+{
+  "name": "枯井符",
+  "original_name": "帛鱼符箓/压胜飞剑符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗",
+  "description": "这是一道专门针对剑修的杀手锏。制作过程极其繁琐且耗时费钱，曾让陈平安的飞剑初一和十五陷入僵 局，是极具威慑力的**特殊符箓** , 。",
+  "aliases": [
+    "困剑符"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第289章 千里送人头",
+      "owner": "符箓派道人"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "陆台",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "符箓老道人",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为桐叶洲符箓派旁门的**上品秘符**，具备困杀中五境剑修的潜力 。",
+  "supernatural_ability": "专门用于**压胜本命飞剑**，祭出后可使飞剑如立井中，动弹不得 。",
+  "evolution": {
+    "current_form": "符纸背书“不动”二字，图案为剑困井中 。",
+    "materials_consumed": [
+      "雷击木小钉",
+      "不周风飞土",
+      "特殊符纸"
+    ],
+    "potential_evolution": "演化为足以封禁上五境剑仙飞剑的“封山符” 。"
+  },
+  "visual": {
+    "static": "以黄纸绘制，符文复杂，隐约可见北斗状的木钉痕迹 。",
+    "active": "施展时灵光一现，能在方圆十丈内形成一个无形锁链阵法，禁锢飞剑 。"
+  },
+  "provenance": {
+    "origin": "出自桐叶洲符箓派旁门，陆台在扶乩宗一战中斩杀老道人后缴获 , 。",
+    "karma_link": "陆台将其带回家族藏书楼以立一功 。"
+  },
+  "enriched": true
+}

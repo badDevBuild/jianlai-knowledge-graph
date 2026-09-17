@@ -1,0 +1,64 @@
+{
+  "name": "法袍",
+  "original_name": "龙虎山天师府贵人遗物",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安最重要的防身重器，不仅见证了他的成长，更是一件能够自我进化的罕见仙家衣物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第567章 何谓从容",
+      "owner": "陈如初(暖树)"
+    },
+    {
+      "chapter": "第708章 圆脸姑娘",
+      "owner": "雨四"
+    },
+    {
+      "chapter": "第973章 太平年",
+      "owner": "仰止(暂借甘州)"
+    },
+    {
+      "chapter": "第1148章 休要略过不提",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1149章 野田黄雀行",
+      "owner": "毛锥"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "蛟龙沟老蛟",
+      "relation": "夺取自"
+    },
+    {
+      "name": "天师府某仙人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "通过不断吞食金精铜钱和琉璃金身碎片，品秩已成功跨越至仙兵级别 。",
+  "supernatural_ability": "拥有极强的防御力，能作为灵气储备的“蓄水池”，帮助主人在境界尚低时承受海量灵气冲击 。",
+  "evolution": {
+    "current_form": "饰有金龙衔珠图案的法袍 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "琉璃金身碎块"
+    ],
+    "potential_evolution": "具备承载至高神性的潜力"
+  },
+  "visual": {
+    "static": "原本金光灿灿，后被大剑仙施加障眼法，平时显现为普通的白袍或青衫 。",
+    "active": "面临重压时会绽放浓郁金光，金龙图案活灵活现，骊珠内蕴灵气如液 。"
+  },
+  "provenance": {
+    "origin": "龙虎山天师府一位客死海外的仙人遗物，流落至蛟龙沟后被陈平安斩妖所得 。",
+    "karma_link": "是陈平安多次死战不退、重塑长生桥的核心辅助工具 。"
+  },
+  "enriched": true
+}

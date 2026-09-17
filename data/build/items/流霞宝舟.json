@@ -1,0 +1,44 @@
+{
+  "name": "流霞宝舟",
+  "original_name": "流霞舟",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "名动浩然天下的顶级跨洲渡船，原本存放在白帝城无人看管的密库中，后由顾璨以失传的上古炼物秘术 小炼后带出，是极为珍稀的空间重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第696章 破境不需要等的",
+      "owner": "姜氏/玉圭宗"
+    }
+  ],
+  "subtype": "渡船类 / 空间类",
+  "holder": "顾璨",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白帝城",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为白帝城密库珍藏的跨洲渡船，其品相极高且具备进一步大炼的可能 。",
+  "supernatural_ability": "具备极致的御风速度，其航行速度在浩然天下同类渡船中名列前茅 。",
+  "evolution": {
+    "current_form": "可随心意大炼化虚，缩小为巴掌大小的袖珍渡船，方便随身携带 。",
+    "materials_consumed": [
+      "白帝城上古秘术",
+      "大量灵气"
+    ],
+    "potential_evolution": "可进一步通过秘法解开禁制，增加承载量与防御阵法品秩 。"
+  },
+  "visual": {
+    "static": "即便作为庞然大物，其外形依旧精致如仙家楼阁 。",
+    "active": "祭出后展现为宏大的楼船鬼魅，悬浮于半空，周身常伴随流霞异象 。"
+  },
+  "provenance": {
+    "origin": "源自中土神洲白帝城的密库，由郑居中亲手采集并存放 。",
+    "karma_link": "由顾璨作为“家贼”从白帝城私自取走并炼化，见证了其在师门中的特殊地位 。"
+  },
+  "enriched": true
+}

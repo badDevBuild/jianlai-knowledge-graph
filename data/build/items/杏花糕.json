@@ -1,0 +1,44 @@
+{
+  "name": "杏花糕",
+  "original_name": "骑龙巷糕点",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "**落魄山压岁铺子特产的糕点** 。陈平安远游时会随身携带，崔东山也常以此待客，寓意温馨与重逢 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第740章 书信",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "食物类",
+  "holder": "陈平安 / 崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "压岁铺子",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为寄托乡愁与情谊的载体，具象化落魄山的烟火气。",
+  "supernatural_ability": "无",
+  "evolution": {
+    "current_form": "精致甜美的杏花糕点 。",
+    "materials_consumed": [
+      "精制米粉",
+      "杏花精华"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "色泽洁白，带有淡淡的杏花香，常盛放于竹编食盒中 。",
+    "active": "无"
+  },
+  "provenance": {
+    "origin": "落魄山骑龙巷压岁铺子 。",
+    "karma_link": "陈平安在山上独处时的心头好，见证了落魄山师徒间的生活点滴 。"
+  },
+  "enriched": true
+}

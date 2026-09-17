@@ -1,0 +1,48 @@
+{
+  "name": "戒尺",
+  "original_name": "红木戒尺 / 圣人戒尺",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "茅小冬随身佩戴的法宝，既是惩戒弟子、维持学风的工具，也是其施展儒家法门的神兵，体现了“戒在 当下，尺度乾坤”的深意 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第169章 来个能打的",
+      "owner": "茅小冬"
+    },
+    {
+      "chapter": "第409章 有些故事不用知道",
+      "owner": "茅小冬"
+    }
+  ],
+  "subtype": "镇压类 / 储存类",
+  "holder": "茅小冬",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为儒家书院圣人的信物，其威能随持有人文运和书院法统的稳固而增强 。",
+  "supernatural_ability": "“立规矩”。挥动时可定住天地气机，使敌方术法无法施展；同时具备极大的内部储物空间 。",
+  "evolution": {
+    "current_form": "通体朱红、质地沉重的红木长尺 。",
+    "materials_consumed": [
+      "千年红木",
+      "儒家浩然正气"
+    ],
+    "potential_evolution": "可成为镇压一洲山河异变的重器 。"
+  },
+  "visual": {
+    "static": "色泽红润，悬挂于腰间，虽不显锋芒却气象肃穆 。",
+    "active": "拍动或挥舞时金光流溢，可显化儒家律令镇压强敌，或从中取出收纳的天材地宝 。"
+  },
+  "provenance": {
+    "origin": "山崖书院儒家道统的传承物 。",
+    "karma_link": "连接着齐静春与茅小冬两任山长的传承，代表了书院的纪律与规矩 。"
+  },
+  "enriched": true
+}

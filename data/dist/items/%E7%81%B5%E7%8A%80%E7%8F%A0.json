@@ -1,0 +1,52 @@
+{
+  "name": "灵犀珠",
+  "original_name": "断代记忆珠",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "有价无市的珍稀宝物，是许多门派寻回“祖师爷”转世、重续道缘的根本依托 。",
+  "aliases": [
+    "灵犀珠 (手钏)"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第881章 眼神",
+      "owner": "南簪"
+    },
+    {
+      "chapter": "第1039章 醉里挑灯看剑",
+      "owner": "南簪"
+    },
+    {
+      "chapter": "第1043章 头顶三尺有谁",
+      "owner": "宋和/余勉"
+    },
+    {
+      "chapter": "第1175章 此句压轴",
+      "owner": "宋韩洪"
+    }
+  ],
+  "subtype": "传承/记忆类",
+  "holder": "南簪 / 白玉京修士",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "集齐十二颗可形成完整的隔世传承，辅助修士重拾前世记忆 。",
+  "supernatural_ability": "帮助兵解离世或转世的修士记起前世的刻骨记忆与修行感悟 。",
+  "evolution": {
+    "current_form": "晶莹剔透的宝珠，串联成手钏 。",
+    "materials_consumed": [
+      "魂魄精华",
+      "光阴道韵"
+    ],
+    "potential_evolution": "可助力元婴修士在破瓶颈时免受心魔侵扰 。"
+  },
+  "visual": {
+    "static": "珠内隐约可见流动的记忆碎片与宝光 。",
+    "active": "佩戴者神识入内，可见前世的人生画卷一一浮现 。"
+  },
+  "provenance": {
+    "origin": "各大底蕴深厚的宗门常备之物，白玉京尤多 。",
+    "karma_link": "南簪持有的灵犀珠曾被小陌以剑光磨损，使其记忆丢失 。"
+  },
+  "enriched": true
+}

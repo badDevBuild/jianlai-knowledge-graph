@@ -1,0 +1,98 @@
+{
+  "name": "山水游记",
+  "original_name": "《铁剑轻弹集》 / 随笔记录",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "记载了陈平安从泥瓶巷出发的所有所见所闻，包括在藕花福地、书简湖的经历 。是陈平安治学、自省的重要精神产物 。",
+  "aliases": [
+    "游记书籍"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第572章 心上人",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第692章 水未落石未出",
+      "owner": "市井流传"
+    },
+    {
+      "chapter": "第695章 碎碎平安",
+      "owner": "离真(赠予陈平安)"
+    },
+    {
+      "chapter": "第697章 竟然",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第700章 新酒等旧人",
+      "owner": "陈平安 (目标读者)"
+    },
+    {
+      "chapter": "第703章 又一年五月初五",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第706章 十四境",
+      "owner": "陈平安(接收)"
+    },
+    {
+      "chapter": "第736章 问我春风",
+      "owner": "许斌仙"
+    },
+    {
+      "chapter": "第739章 春风得意",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第767章 落魄山的镜花水月",
+      "owner": "柳清风"
+    },
+    {
+      "chapter": "第817章 刻舟求剑",
+      "owner": "韦蔚"
+    },
+    {
+      "chapter": "第951章 见麒麟",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1040章 报道梅花消息",
+      "owner": "少女 (苏姑娘)"
+    },
+    {
+      "chapter": "第1171章 翻页的何止是游记",
+      "owner": "谢狗"
+    }
+  ],
+  "subtype": "文献/地理类",
+  "holder": "徐远霞 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "程水东 (老蛟)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "若能版刻流传，可汇聚民心与山水气数 。",
+  "supernatural_ability": "记录天地见闻，有助于后世开辟航线或寻找秘境 。",
+  "evolution": {
+    "current_form": "陈平安亲手抄录或徐远霞亲笔撰写的稿本 。",
+    "materials_consumed": [
+      "纸张",
+      "笔墨"
+    ],
+    "potential_evolution": "若得名士作序并大肆印行，可转化为文化重器 。"
+  },
+  "visual": {
+    "static": "普通的书册，多有陈平安的朱批和注解 。",
+    "active": "翻阅时引人入胜，字里行间流露出一洲气运 。"
+  },
+  "provenance": {
+    "origin": "陈平安在游历途中不断搜集、抄录而成 。",
+    "karma_link": "源于陈平安对“看遍世界”的承诺 。"
+  },
+  "enriched": true
+}

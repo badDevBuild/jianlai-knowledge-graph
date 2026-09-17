@@ -1,0 +1,52 @@
+{
+  "name": "吃墨鱼",
+  "original_name": "墨龙 / 墨精",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "一种因文运书香孕育而生的稀有精魅，常见于顶尖儒家门阀的案头。它以墨为饵，不仅是文人清供，更 是温养笔墨神意的灵物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第206章 月儿圆月儿弯",
+      "owner": "刘羡阳"
+    },
+    {
+      "chapter": "第483章 好久不见",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文房类 / 辅助类",
+  "holder": "刘羡阳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "曾持有"
+    },
+    {
+      "name": "颍阴陈氏",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "百年后背脊生金丝脊线，五百年后有望进化为“墨龙” 。",
+  "supernatural_ability": "“吃墨洗笔”。藏于紫管笔或笔洗中，以墨汁为食，能自动清理笔尖余墨，使文房器物万年不腐 [1-3]。",
+  "evolution": {
+    "current_form": "游曳于笔洗或字里行间、发丝粗细的小鱼 。",
+    "materials_consumed": [
+      "名贵墨汁",
+      "文运"
+    ],
+    "potential_evolution": "墨龙"
+  },
+  "visual": {
+    "static": "极细微的黑色游鱼，潜伏于笔洗水底或字里行间 。",
+    "active": "在研墨或洗笔时跃出，脊背闪烁金光，能吞噬浓郁墨气 。"
+  },
+  "provenance": {
+    "origin": "书香门第文运凝聚而生 。",
+    "karma_link": "刘羡阳在颍阴陈氏求学时获赠，是儒家文脉认可的象征 。"
+  },
+  "enriched": true
+}

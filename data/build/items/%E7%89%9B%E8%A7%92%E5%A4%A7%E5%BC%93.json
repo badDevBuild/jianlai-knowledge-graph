@@ -1,0 +1,41 @@
+{
+  "name": "牛角大弓",
+  "original_name": "制式强弓",
+  "type": "匠器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是浩然天下世俗武力的巅峰体现之一。在与山上修士的对抗中，高质 量的牛角弓常作为奇兵使用 。",
+  "aliases": [
+    "牛角大弓"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第241章 喝过剑仙的酒好吹牛",
+      "owner": "马录"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "大骊边军 / 江湖武夫",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "若融入千年水牛角，可演化为足以承载金戈肃杀之气的灵器 。",
+  "supernatural_ability": "射程极远，力道强劲，配合武夫罡气可贯穿寻常练气士的防护屏障 。",
+  "evolution": {
+    "current_form": "多层复合结构的强力弓箭，以牛角和韧木打造 。",
+    "materials_consumed": [
+      "千年水牛角",
+      "精铁",
+      "鹿筋"
+    ],
+    "potential_evolution": "可进阶为墨家秘制的“破山弓” 。"
+  },
+  "visual": {
+    "static": "弓身厚重，带有天然的角质纹路，透着一股肃杀之气 。",
+    "active": "挽弓时发出低沉的呻吟声，箭簇射出带起尖锐的爆鸣 。"
+  },
+  "provenance": {
+    "origin": "产自大骊兵部造办处或兵家宗门 。",
+    "karma_link": "常作为军中将领或江湖宗师的招牌武器，是世俗武力对抗神仙的重要工 具 。"
+  },
+  "enriched": true
+}

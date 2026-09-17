@@ -1,0 +1,52 @@
+{
+  "name": "老烟杆子",
+  "original_name": "杨老头的旱烟杆",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "杨老头长期在药铺后院使用的物件。它不仅是老人的嗜好载体，更是其作为“地仙之祖”监控并引导小镇 气运流转的核心工具 。",
+  "aliases": [
+    "竹竿旱烟",
+    "旱烟杆",
+    "老烟杆子"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第59章 睡去",
+      "owner": "杨老头"
+    }
+  ],
+  "subtype": "辅助类 / 遮蔽类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "原主"
+    },
+    {
+      "name": "郑大风",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为旧天庭青童天君的随身之物，其材质能够承受并炼化极高规格的人间香火 。",
+  "supernatural_ability": "“遮蔽天机”。吞云吐雾间产生的烟雾实为被掌控的人间香火，能够有效混淆光阴长河的脉络，使得大修 士无法通过推演和复盘获悉真相 。",
+  "evolution": {
+    "current_form": "一只摩挲得光可鉴人的老旧旱烟杆 。",
+    "materials_consumed": [
+      "人间香火",
+      "金精铜钱"
+    ],
+    "potential_evolution": "在配合特定道诀下，可化为搅动光阴流水的重器 。"
+  },
+  "visual": {
+    "static": "杆身黝黑，质地沉重，烟锅处常有余温，敲击时发出铿锵的金石声 。",
+    "active": "使用时烟雾缭绕，能够营造出类似大山迷障的视觉效果，隔绝外界窥探 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天杨家药铺后院 。",
+    "karma_link": "见证了杨老头对陈平安的隐秘布局，是陈平安掌握“光阴”权柄的引子之一 。"
+  },
+  "enriched": true
+}

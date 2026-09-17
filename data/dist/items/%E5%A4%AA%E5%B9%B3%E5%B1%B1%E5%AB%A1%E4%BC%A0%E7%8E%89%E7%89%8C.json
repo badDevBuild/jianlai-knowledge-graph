@@ -1,0 +1,52 @@
+{
+  "name": "太平山嫡传玉牌",
+  "original_name": "太平山祖师堂玉牌 / 太平无事牌",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "损毁",
+  "description": "这块玉牌代表了太平山嫡传弟子的尊崇身份。陈平安深知此物涉及的宗门内斗因果巨大，故而让裴钱将 其藏在特制的油纸伞中，以防被外人察觉气息 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第366章 剑灵往北，左右往南",
+      "owner": "陈平安(原持有)"
+    }
+  ],
+  "subtype": "护身类 / 象征类",
+  "holder": "裴钱 (陈平安代管)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘琮",
+      "relation": "赠予者"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    },
+    {
+      "name": "太平山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "承载着桐叶洲顶级宗门的香火气数，是召集宗门后援的关键信物 。",
+  "supernatural_ability": "**“遮蔽天机”**。玉牌内含太平山独有的禁制，能够干扰高阶修士的推演。此外在危急时刻可发信号求 救，震慑一般妖邪 。",
+  "evolution": {
+    "current_form": "被陈平安要求藏在油纸伞内的避祸信物 。",
+    "materials_consumed": [
+      "上等白玉",
+      "圣人剑意禁制"
+    ],
+    "potential_evolution": "可作为未来重建太平山祖师堂的法理依据之一 。"
+  },
+  "visual": {
+    "static": "色泽温润，牌面刻有“太平”或祖师堂特定符文，宝光内敛 。",
+    "active": "灌注真气后可自行掠向山门，散发出柔和的乳白色护身光辉 。"
+  },
+  "provenance": {
+    "origin": "桐叶洲正统仙家门派太平山 。",
+    "karma_link": "大泉皇子刘琮将其赠予陈平安，本意是示好，却让陈平安深陷太平山内乱的因果纠缠 。"
+  },
+  "enriched": true
+}

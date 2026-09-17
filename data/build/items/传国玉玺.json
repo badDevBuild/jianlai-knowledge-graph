@@ -1,0 +1,56 @@
+{
+  "name": "传国玉玺",
+  "original_name": "巡狩天下之宝 / 螭虎钮玉玺",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是书简湖与青鸾国地界最出名的气运重宝之一。因其特殊的身份，被无数高阶修士觊觎多年，最终被 崔东山成功补齐并收归落魄山 。",
+  "aliases": [
+    "三方宝玺",
+    "金质绞龙纽嗣天子宝玺",
+    "传国玉玺 (三方)"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第211章 天作之合",
+      "owner": "贺小凉"
+    },
+    {
+      "chapter": "第1018章 道深者言浅",
+      "owner": "赵浮阳"
+    }
+  ],
+  "subtype": "气运/方寸物",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "旧文景国皇室",
+      "relation": "原主"
+    },
+    {
+      "name": "刘杆子祖父",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为“交泰殿十七宝”之一，集齐后可获得统御一国乃至一洲的山河气运 。",
+  "supernatural_ability": "凝运：蕴含国运龙气，可压胜山川邪祟；储物：自备极大的方寸空间 。",
+  "evolution": {
+    "current_form": "黄金质地、螭虎钮的方印",
+    "materials_consumed": [
+      "王朝龙气",
+      "香火情"
+    ],
+    "potential_evolution": "成为真正的镇守大阵枢纽"
+  },
+  "visual": {
+    "static": "方二寸规制，金甲昭昭，底部刻有“范围天地，幽赞神明”等字样 。",
+    "active": "激发时会产生龙鸣异象，金光能够照彻阴晦 。"
+  },
+  "provenance": {
+    "origin": "旧文景国皇室至宝，因亡国而流落民间 。",
+    "karma_link": "由崔东山在蜂尾渡通过博弈手段集齐 。"
+  },
+  "enriched": true
+}

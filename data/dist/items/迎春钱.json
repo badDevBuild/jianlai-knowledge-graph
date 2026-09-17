@@ -1,0 +1,63 @@
+{
+  "name": "迎春钱",
+  "original_name": "桃符钱 / 官造金精钱",
+  "type": "货币",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "迎春钱不仅是极其昂贵的神仙钱，更是带有特殊因果的 信物，对山下凡俗而言是滔天富贵 , 。",
+  "aliases": [
+    "迎春钱",
+    "金精铜钱"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第26章 好说话",
+      "owner": "陈平安 -> 宁姚"
+    },
+    {
+      "chapter": "第75章 占山为王",
+      "owner": "无"
+    },
+    {
+      "chapter": "第76章 背对",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第78章 入梦",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第80章 出山",
+      "owner": "无"
+    }
+  ],
+  "subtype": "灵物/社交类",
+  "holder": "陈平安 / 骊珠洞天住客",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊皇室",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为金精铜钱的一种，蕴含极高的天地灵气，是练气士 梦寐以求的进补之物 , 。",
+  "supernatural_ability": "原本用于皇宫悬挂桃符以辞旧迎新 。在骊珠洞天作为过路钱，能够与天地气运感通 。",
+  "evolution": {
+    "current_form": "材质稀稀的金精钱币 。",
+    "materials_consumed": [
+      "精炼金精",
+      "王朝气运"
+    ],
+    "potential_evolution": "炼化入光阴长河，可作为稳固小天地地基的“母钱” 。"
+  },
+  "visual": {
+    "static": "金光灿灿，比寻常黄金更沉重且透亮，其上刻有特定年 号和吉祥纹饰 , 。",
+    "active": "摩挲时有暖意散发，在特定阵法中会生出类似春雷的异 象 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝邀请墨家巨子秘密铸造而成 。",
+    "karma_link": "是陈平安走出小镇、与大隋皇子等人结缘的重要中介 。"
+  },
+  "enriched": true
+}

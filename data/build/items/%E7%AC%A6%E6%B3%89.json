@@ -1,0 +1,38 @@
+{
+  "name": "符泉",
+  "original_name": "田酒儿鲜血",
+  "type": "材料",
+  "grade": "天材地宝",
+  "status": "消耗品",
+  "description": "极具悲剧色彩又极具天赋的灵物，其血之金贵使得她被视为符箓派修道的至宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第719章 我是东山啊",
+      "owner": "田酒儿"
+    }
+  ],
+  "subtype": "生产/符箓类",
+  "holder": "田酒儿",
+  "holder_relation": "寄托",
+  "rank": "重器",
+  "rank_potential": "其鲜血品相随修为提升，可支持画出威力巨大的远古符箓 。",
+  "supernatural_ability": "天生具备“符泉”异能，其鲜血是绘制高阶符箓的天然丹砂替代品 。",
+  "evolution": {
+    "current_form": "少女体内的流动血液 。",
+    "materials_consumed": [
+      "灵气滋养",
+      "功德洗涤"
+    ],
+    "potential_evolution": "可凝练为一滴即万金的“仙人精血” 。"
+  },
+  "visual": {
+    "static": "外表是普通的人类血液 。",
+    "active": "用于画符时，血迹会散发耀眼的红光，字符如火焚，经久不散 。"
+  },
+  "provenance": {
+    "origin": "田酒儿天生的神异根脚 。",
+    "karma_link": "幸得落魄山庇护，免于沦为某些宗门的“摇钱树” 。"
+  },
+  "enriched": true
+}

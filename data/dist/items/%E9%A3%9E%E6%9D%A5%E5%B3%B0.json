@@ -1,0 +1,53 @@
+{
+  "name": "飞来峰",
+  "original_name": "何辜本命飞剑“飞来峰”",
+  "type": "本命飞剑",
+  "grade": "本命飞剑",
+  "status": "活跃",
+  "description": "这是何辜在剑气长城成名的根本，其威力在于对山川气 运的绝对掌控力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第756章 剑修如云",
+      "owner": "何辜"
+    },
+    {
+      "chapter": "第898章 未来",
+      "owner": "何辜"
+    },
+    {
+      "chapter": "第959章 一脚七境",
+      "owner": "米裕"
+    },
+    {
+      "chapter": "第962章 陌上又花开",
+      "owner": "何辜"
+    },
+    {
+      "chapter": "第964章 再见道士",
+      "owner": "于斜回"
+    }
+  ],
+  "subtype": "攻伐/山岳类",
+  "holder": "何辜",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "在浩然天下品秩评价极高，被隐官一脉评为“乙上”之列 。",
+  "supernatural_ability": "具备敕令并驱动山岳的天赋神通，威力随剑修境界提升 而呈几何倍数增长 。",
+  "evolution": {
+    "current_form": "何辜温养于体内的本命飞剑 。",
+    "materials_consumed": [
+      "刑官一脉剑意"
+    ],
+    "potential_evolution": "若能跻身上五境，可营造出“大修士坐镇小天地”的禁制 效果 。"
+  },
+  "visual": {
+    "static": "在气府中显化为巍峨孤峰的剑影 。",
+    "active": "祭出时具有山岳压顶之势，能在大地之上造成巨大的战 壕沟壑 。"
+  },
+  "provenance": {
+    "origin": "剑气长城何家剑道胚子何辜的本命物 。",
+    "karma_link": "何家历代剑修皆出自刑官一脉，承袭杀伐之道 。"
+  },
+  "enriched": true
+}

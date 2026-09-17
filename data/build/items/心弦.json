@@ -1,0 +1,50 @@
+{
+  "name": "心弦",
+  "original_name": "心弦",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "心弦是齐狩三把本命飞剑中最具特色的一把，其核心价值在于“极速”，是战场上斩首妖族大修的利器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第576章 拳与飞剑我皆有",
+      "owner": "齐狩"
+    },
+    {
+      "chapter": "第578章 文圣一脉师兄弟",
+      "owner": "齐狩"
+    },
+    {
+      "chapter": "第621章 学剑",
+      "owner": "齐狩"
+    },
+    {
+      "chapter": "第623章 炼剑",
+      "owner": "齐狩"
+    }
+  ],
+  "subtype": "攻伐类 / 辅助类",
+  "holder": "齐狩",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "随着齐狩跻身玉璞境，其速度属性已经达到世间剑修的某种极致 。",
+  "supernatural_ability": "能够极大程度地减少光阴长河对飞剑的天然阻滞，使得出剑速度快到极致，几乎无视空间距离 。",
+  "evolution": {
+    "current_form": "无形无质的纯粹剑光 。",
+    "materials_consumed": [
+      "庚金精华",
+      "光阴水"
+    ],
+    "potential_evolution": "若能合道光阴，可真正实现“念起剑至” 。"
+  },
+  "visual": {
+    "static": "难以被肉眼捕捉，甚至在气府中也仅呈现为一缕虚幻的丝线。",
+    "active": "出剑时只剩下一抹无法直视的残影，往往敌手尚未察觉便已被穿透 。"
+  },
+  "provenance": {
+    "origin": "齐狩本命孕育。",
+    "karma_link": "齐狩在剑气长城磨砺出的本命之物，是其跻身年轻天才之列的核心资本 。"
+  },
+  "enriched": true
+}

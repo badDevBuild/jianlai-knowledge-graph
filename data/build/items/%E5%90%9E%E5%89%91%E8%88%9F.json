@@ -1,0 +1,56 @@
+{
+  "name": "吞剑舟",
+  "original_name": "远古吞宝鲸尸骸",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "**吞剑舟**是桐叶宗的镇山重器，象征着杜懋追求飞升的野心。它的覆灭也标志着桐叶宗由盛转衰的转 折点 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第364章 无解之局",
+      "owner": "桐叶宗老祖"
+    },
+    {
+      "chapter": "第365章 道理听与不听，剑在",
+      "owner": "杜懋"
+    },
+    {
+      "chapter": "第367章 李二出远门，左右不为难",
+      "owner": "杜懋"
+    },
+    {
+      "chapter": "第465章 有没有陈平安的落魄山",
+      "owner": "杜懋 (已故)"
+    }
+  ],
+  "subtype": "攻伐/禁锢类",
+  "holder": "杜懋（已毁）",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "桐叶宗杜氏老祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "耗时六百年炼成的本命物，代表了一洲宗门的财力巅峰 。",
+  "supernatural_ability": "能够**压制并吞噬**修士飞剑，强行破坏剑修的剑心与本命物 。",
+  "evolution": {
+    "current_form": "远古巨大吞宝鲸完整尸骸炼化而成的飞升渡船形态 。",
+    "materials_consumed": [
+      "吞宝鲸尸骸",
+      "桐叶宗海量人力物力"
+    ],
+    "potential_evolution": "原本旨在辅助杜懋合道飞升，但在老龙城之战中彻底崩毁 。"
+  },
+  "visual": {
+    "static": "呈现为一只巨大的、纹路深邃的吞宝鲸形态，悬停时如云中巨兽 。",
+    "active": "祭出后剑气森严，能产生巨大的压胜力场，针对上五境修士产生致命威胁 。"
+  },
+  "provenance": {
+    "origin": "桐叶宗杜氏老祖倾尽宗门几百年家底打造的本命仙兵 。",
+    "karma_link": "因杜懋飞升失败并在老龙城倒行逆施，被高大女子（持剑者）一剑打爆 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "悬空剑阵",
+  "original_name": "陆沉八剑 / 剑盒剑阵",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这是陆沉赠予（借予）落魄山一脉的顶级重宝，由八把各具道意的飞剑组成。它不仅提供了恐怖的杀伤 力，更能通过结阵形成独立的小天地，是陆芝在战场上的核心依仗 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第824章 神人在天，剑光直落",
+      "owner": "正阳山"
+    }
+  ],
+  "subtype": "攻伐类 / 阵法类",
+  "holder": "陆芝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为白玉京重宝，蕴含陆沉对八条剑道的个人理解，具备极致的演化空间 。",
+  "supernatural_ability": "能够结阵成就一座广袤无垠的小天地，气象可媲美传说中的顶级洞天道场 。",
+  "evolution": {
+    "current_form": "袖珍剑盒，内藏秋水、游凫、刻意、凿窍、南冥、游刃、蜩甲、山木八剑 。",
+    "materials_consumed": [
+      "白玉京道韵",
+      "远古剑道真意"
+    ],
+    "potential_evolution": "可补足陆芝防御薄弱的短板，演化为完整的剑道领域 。"
+  },
+  "visual": {
+    "static": "一只外形古朴的袖珍木质剑盒 。",
+    "active": "开盒后八剑细弱丝线，如小龙蜿蜒；激发时剑气纵横，虹光笔直破空，美如剑仙证道 。"
+  },
+  "provenance": {
+    "origin": "由白玉京三掌教陆沉亲手炼制 。",
+    "karma_link": "陈平安在托月山途中向陆沉借得，后转赠予陆芝 。"
+  },
+  "enriched": true
+}

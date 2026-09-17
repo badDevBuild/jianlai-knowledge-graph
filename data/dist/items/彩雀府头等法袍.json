@@ -1,0 +1,48 @@
+{
+  "name": "彩雀府头等法袍",
+  "original_name": "彩雀府锦绣法袍",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "彩雀府的立身之本，融合了蛮荒天下金翠城的顶尖织造手法 。这种法袍不仅是极佳的护身防御重器，更是神祇修行的辅助神物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第547章 有些练拳不一样",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "武峮",
+      "relation": "赠予者"
+    },
+    {
+      "name": "彩雀府",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "在融入蛮荒金翠城的“云麾缂丝”秘法后，其品质有向半仙兵跨越的潜力 。",
+  "supernatural_ability": "具备“水路分阴阳”之妙，能让阴冥官吏在白昼巡游阳间而不受损耗 。",
+  "evolution": {
+    "current_form": "上品法袍，带有脂粉气，编织精绝 。",
+    "materials_consumed": [
+      "金翠城织造术",
+      "山水精华"
+    ],
+    "potential_evolution": "可演化为具有高阶隐匿与防御性能的顶尖仙衣 。"
+  },
+  "visual": {
+    "static": "色彩艳丽夺目，呈现金、翠两色，编织纹路如孔雀羽毛般层层叠叠 。",
+    "active": "光照下会有波光粼粼的“水路”显现，夜间如湍濑，白昼如曦光 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲彩雀府，核心技艺参考了蛮荒金翠城的古老道脉 。",
+    "karma_link": "因陈平安转赠金翠城秘法并售予藻井，由彩雀府作为最高规格的补偿赠予 。"
+  },
+  "enriched": true
+}

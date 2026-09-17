@@ -1,0 +1,44 @@
+{
+  "name": "竹编蛐蛐笼",
+  "original_name": "龙王篓",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这对龙王篓不仅是捕蛟神物，更是天地间的袖珍龙宫。其材质取自竹海洞天，是极为罕见的能够跨界压 胜水族的天赐法宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第527章 思无邪即从容",
+      "owner": "陈平安(预备送给裴钱等人)"
+    }
+  ],
+  "subtype": "捕捉/压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "孙道人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "虽然目前损毁严重，但经由火龙真人“水火交融”炼化后，可恢复其作为“小龙宫”的仙兵威势 。",
+  "supernatural_ability": "先天压胜天下蛟龙之属。内部自成空间，可捕捉、禁锢并饲养蛟龙及高阶水裔 。",
+  "evolution": {
+    "current_form": "一对由金色丝线牵引的竹编小笼，拳头大小，有细密裂纹 。",
+    "materials_consumed": [
+      "青神山绿竹精华",
+      "火龙真人法力"
+    ],
+    "potential_evolution": "修旧如旧后可作为镇压落魄山山水大阵的枢纽重器 。"
+  },
+  "visual": {
+    "static": "材质为苍翠欲滴的青竹，分别铭刻有“斗蛟”与“潜蟠”古篆 。",
+    "active": "祭出后可化作笼罩江河的巨大禁制，使水裔无法逃脱 。"
+  },
+  "provenance": {
+    "origin": "源自仙府遗址山巅，由孙道人在光阴停滞中获得并转赠陈平安 。",
+    "karma_link": "陈平安将其作为“以量取胜”的礼物预留给弟子郭竹酒 。"
+  },
+  "enriched": true
+}

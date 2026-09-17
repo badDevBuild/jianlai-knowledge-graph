@@ -1,0 +1,38 @@
+{
+  "name": "一线天",
+  "original_name": "天开一线",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "指代顶尖剑修递出的极致一剑，其威势足以改变天地格 局，象征着绝对的杀力与锋芒 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第760章 不对",
+      "owner": "裴旻"
+    }
+  ],
+  "subtype": "剑道/术法类",
+  "holder": "宁姚 / 左右",
+  "holder_relation": "寄托",
+  "rank": "仙兵",
+  "rank_potential": "随着剑道境界登顶，此“一线”可横跨两界，无视任何禁 制 。",
+  "supernatural_ability": "剑气极长且凝练如丝，一剑破开大阵，令天地如开一线 天 。",
+  "evolution": {
+    "current_form": "一道极致压缩、纤细如发丝的璀璨剑光 。",
+    "materials_consumed": [
+      "纯粹剑意",
+      "光阴流水"
+    ],
+    "potential_evolution": "演变为可切割天下气运与地脉的“天理之剑”。"
+  },
+  "visual": {
+    "static": "并不以实体存在，表现为剑主心中的一点极致锋芒。",
+    "active": "剑光一闪，在天幕或大地上留下一道深不见底的笔直沟 壑 。"
+  },
+  "provenance": {
+    "origin": "顶尖剑修对“快”与“利”极致追求的显化 。",
+    "karma_link": "宁姚曾以此剑术在第五座天下及浩然天下展现无敌姿态 。"
+  },
+  "enriched": true
+}

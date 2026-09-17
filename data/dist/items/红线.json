@@ -1,0 +1,52 @@
+{
+  "name": "红线",
+  "original_name": "姻缘线",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "**红线**是书中极具象征意义的法宝，代表了**命运的不可抗力** 。田婉受邹子指使，利用红线在宝瓶洲制造了多场“利益联姻”以窃取气运 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第691章 少女问拳河神",
+      "owner": "李柳（原李槐持有）"
+    },
+    {
+      "chapter": "第800章 牵红线",
+      "owner": "田婉"
+    }
+  ],
+  "subtype": "气运类",
+  "holder": "田婉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "柴道煌",
+      "relation": "原主"
+    },
+    {
+      "name": "柳七",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "集齐半部姻缘簿后，可演化为操控整座天下姻缘脉络的“天律” 。",
+  "supernatural_ability": "能够牵引男女因果，乱点鸳鸯谱，通过操控气运干扰修士的破境契机 。",
+  "evolution": {
+    "current_form": "纤细柔韧的红色丝线，无视空间禁制 。",
+    "materials_consumed": [
+      "红粉情思",
+      "众生业力"
+    ],
+    "potential_evolution": "可配合“五行学说”构建出一套针对剑修气运的“死结” 。"
+  },
+  "visual": {
+    "static": "色泽鲜红，似有若无，缠绕在某些修士的命格或神魂之上 。",
+    "active": "激发时会显现出“千里姻缘一线牵”的异象，强制执行因果律 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的“定婚店”，由柴道煌掌管 。",
+    "karma_link": "连接了陈平安与宁姚之间的“大道誓约”，也是邹子布局的重要一环 。"
+  },
+  "enriched": true
+}

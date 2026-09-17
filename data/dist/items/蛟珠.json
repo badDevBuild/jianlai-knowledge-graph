@@ -1,0 +1,44 @@
+{
+  "name": "蛟珠",
+  "original_name": "龙宫遗珠 / 黄金老珠",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "蛟龙沟十境金色老蛟被斩杀后遗留的重宝，蕴含了其大部分的本元灵气。陈平安将其安置在自己的本命 水府中，对稳固水道、提升灵气纯度大有裨益 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第266章 磨损心中万古刀",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蛟龙沟金色老蛟",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "可作为水府“龙湫”演化为“大渎”的核心压舱石 。",
+  "supernatural_ability": "**“聚水凝运”**。蕴含极其庞大的水运精华，能够持续滋养本命水府，甚至可炼化为“水运骊珠” 。",
+  "evolution": {
+    "current_form": "拳头大小、光泽暗淡的微黄色珠子",
+    "materials_consumed": [
+      "水运精华",
+      "灵气丹药"
+    ],
+    "potential_evolution": "在水府中持续温养可重新焕发宝光，成为支撑人身小世界的水道核心 。"
+  },
+  "visual": {
+    "static": "形似人老珠黄的暗淡大珠，入手极沉 。",
+    "active": "置于水府中后会呈现“双龙赶珠”之势，始终悬停于水府蛟龙嘴边 。"
+  },
+  "provenance": {
+    "origin": "金色老蛟陨落后遗留的本元精华 。",
+    "karma_link": "被左右随手一挥拍入陈平安的小舟中，成为其水府修行的重要资粮 。"
+  },
+  "enriched": true
+}

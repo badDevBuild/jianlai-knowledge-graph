@@ -1,0 +1,39 @@
+{
+  "name": "丹药",
+  "original_name": "灵丹 / 妙药",
+  "type": "丹药",
+  "grade": "灵器",
+  "status": "消耗",
+  "description": "丹药在《剑来》中既是救命的神物，也是沉重的负累。高品阶丹药往往 牵扯到庞大的因果与资源争夺 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第397章 异乡见老乡",
+      "owner": "陈平安(赠予竺奉仙)"
+    }
+  ],
+  "subtype": "通用类",
+  "holder": "陈平安 / 各大修士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "上至“长生不老丹”，下至“跌打膏”，品位极广 。",
+  "supernatural_ability": "包含洗髓伐骨、恢复灵气、延寿增益、镇压心魔等多种奇效 。",
+  "evolution": {
+    "current_form": "丸状或膏状，通常按“转”划分品阶 。",
+    "materials_consumed": [
+      "天材地宝",
+      "大妖精血",
+      "山水文运"
+    ],
+    "potential_evolution": "九转金丹可助凡夫俗子立地成仙。"
+  },
+  "visual": {
+    "static": "盛放在玉瓶、瓷罐或泥封中，开封时异香扑鼻 。",
+    "active": "服用后五脏六腑生发霞光，甚至有外显的灵气涟漪 。"
+  },
+  "provenance": {
+    "origin": "出自道家丹鼎派，如真武山、青虎宫、龙虎山等 。",
+    "karma_link": "是修行路上的主要消耗品，也是“财侣法地”的核心部分 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "白玉手把件",
+  "original_name": "水绘园故物 / 田黄手把件",
+  "type": "方寸物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这块玉不仅是顶级的方寸物，更是承载了老坑福地的地 脉精华，是中土郁氏显赫地位的重要支撑 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1175章 此句压轴",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间/气运类",
+  "holder": "郁泮水",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老坑福地",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为“半座水绘园”的缩影，若能补全阵法，可演化为一 座真实的随身洞天 。",
+  "supernatural_ability": "内部含有极大的空间储藏量，并能通过反复摩挲，反哺 持有者极大的文运与气运 。",
+  "evolution": {
+    "current_form": "一块质地极佳、入手极沉的田黄石手把件 。",
+    "materials_consumed": [
+      "老坑田黄石",
+      "玄密王朝国祚气运"
+    ],
+    "potential_evolution": "演化为具备“镇压一国财库”威能的符玺 。"
+  },
+  "visual": {
+    "static": "色泽金黄温润，其上有杨璇所刻的薄意山水图案 。",
+    "active": "摩挲时会散发出淡淡的金色雾气，显化出水绘园的园林 虚影 。"
+  },
+  "provenance": {
+    "origin": "产自老坑福地，由一代名匠杨璇亲自操刀雕琢 。",
+    "karma_link": "是郁氏家族财富与底蕴的缩影，曾被老秀才调侃为“臭 棋篓子的宝贝” 。"
+  },
+  "enriched": true
+}

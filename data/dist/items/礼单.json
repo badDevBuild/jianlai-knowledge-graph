@@ -1,0 +1,44 @@
+{
+  "name": "礼单",
+  "original_name": "观礼簿 / 唱名簿",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是落魄山建立祖师堂时最正式的文字记录之一。它不 仅记录了神仙钱，更记录了一份份沉甸甸的山上因果 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1021章 君亦且自疑",
+      "owner": "赵浮阳"
+    }
+  ],
+  "subtype": "记录/因果类",
+  "holder": "落魄山 (韦文龙)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "各大宗门",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "承载了宗门建立之初的所有外在大道认可与香火情缘 。",
+  "supernatural_ability": "无直接杀伤，但记录了各方势力的根脚与赠礼，是处理 山上人情往来的“账本” 。",
+  "evolution": {
+    "current_form": "厚重的书册，记载了密密麻麻的贺礼内容与送礼者姓名 。",
+    "materials_consumed": [
+      "宣纸",
+      "朱砂"
+    ],
+    "potential_evolution": "可作为编撰《落魄山年谱》的核心原始素材 。"
+  },
+  "visual": {
+    "static": "封面多为红色大绸缎，内文笔迹端正，法度严谨 。",
+    "active": "翻阅时可映射出各方势力对本宗门的支持程度与敌意虚 实 。"
+  },
+  "provenance": {
+    "origin": "落魄山祖师堂观礼仪式，由账房先生现场录档 。",
+    "karma_link": "连接了落魄山与浩然天下各大宗门、山水神灵的正式交 情 。"
+  },
+  "enriched": true
+}

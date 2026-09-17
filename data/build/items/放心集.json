@@ -1,0 +1,51 @@
+{
+  "name": "放心集",
+  "original_name": "《放心集》",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是披麻宗为进入鬼蜮谷历练的修士准备的参考书，虽名为“放心”，但陈平安读后却感触颇深，认为谷 内凶险异常，绝非可以放心之地 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第489章 赶赴京观城",
+      "owner": "披麻宗"
+    },
+    {
+      "chapter": "第490章 肤腻城的下马威",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第809章 脚步",
+      "owner": "陈平安/宁姚"
+    }
+  ],
+  "subtype": "地理类 / 记录类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "披麻宗",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为鬼蜮谷生存指南，其价值随持有者对谷内禁忌的深入了解而体现 。",
+  "supernatural_ability": "详细记载了鬼蜮谷内的各种禁忌事宜、地理形势，以及谷内特有的灵宝货殖信息（如白玉骨头） 。",
+  "evolution": {
+    "current_form": "厚重的版刻书籍 。",
+    "materials_consumed": [
+      "鬼蜮谷山水情报"
+    ],
+    "potential_evolution": "成为修士在至阴之地游历的必备通关宝典 。"
+  },
+  "visual": {
+    "static": "封面古朴，纸张厚实，内容多为蝇头小楷 。",
+    "active": "翻阅时隐约透着一丝阴冷气息，文字间仿佛记录着无数亡魂的生平 。"
+  },
+  "provenance": {
+    "origin": "由北俱芦洲骸骨滩披麻宗编撰刊印 。",
+    "karma_link": "陈平安在骸骨滩下船后购得，用于指引其在鬼蜮谷内的“捡破烂”历练 。"
+  },
+  "enriched": true
+}

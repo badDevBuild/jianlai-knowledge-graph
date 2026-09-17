@@ -1,0 +1,45 @@
+{
+  "name": "蛛网",
+  "original_name": "本命飞剑“蛛网”",
+  "type": "本命飞剑",
+  "grade": "本命飞剑",
+  "status": "活跃",
+  "description": "这是姚小妍最特殊的飞剑。通过与其他两把防御飞剑的联动，姚小妍虽然杀敌不多，却是战场上最难被 处理的对手 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第756章 剑修如云",
+      "owner": "姚小妍"
+    },
+    {
+      "chapter": "第828章 自由自在",
+      "owner": "姚小妍"
+    },
+    {
+      "chapter": "第898章 未来",
+      "owner": "姚小妍"
+    }
+  ],
+  "subtype": "防御/束缚类",
+  "holder": "姚小妍",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "可演化为封禁一方天地的“罗网”禁制 。",
+  "supernatural_ability": "剑气细如发丝，能无形间缠绕敌人，极大限制对方的移动与气机流转 。",
+  "evolution": {
+    "current_form": "姚小妍拥有的三把防御系飞剑之一 。",
+    "materials_consumed": [
+      "地母阴精"
+    ],
+    "potential_evolution": "可与“春衫”、“霓裳”共构绝对防御圈 。"
+  },
+  "visual": {
+    "static": "透明几乎不可见，散发出幽幽的寒气 。",
+    "active": "祭出时如蛛丝满空，密密麻麻覆盖战场，粘稠感极强 。"
+  },
+  "provenance": {
+    "origin": "姚小妍的天赋觉醒 。",
+    "karma_link": "代表了修道之人对“稳定”与“守护”的追求 。"
+  },
+  "enriched": true
+}

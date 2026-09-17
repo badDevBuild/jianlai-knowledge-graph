@@ -1,0 +1,47 @@
+{
+  "name": "仿三山符",
+  "original_name": "白玉京式三山符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是符箓一脉的顶尖杰作，虽是仿制品，却已具备打破 洲界藩篱的威能，是陈平安战略撤退与跨洲奇袭的核心 手段 。",
+  "aliases": [
+    "仿冒三山符",
+    "三山符 (仿)"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1174章 天亮了",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间/远遁类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白玉京大掌教",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "若能获得三山九侯先生的真意加持，可化为真正联通三 山五岳的门户 。",
+  "supernatural_ability": "通过观想之术打造三座山市渡口，在光阴长河之畔开门 ，实现长距离位移 。",
+  "evolution": {
+    "current_form": "白玉京大掌教仿制的三山符 。",
+    "materials_consumed": [
+      "高品阶符纸",
+      "白玉京秘法"
+    ],
+    "potential_evolution": "可进阶为无视天下一切禁制的“万法通关文牒” 。"
+  },
+  "visual": {
+    "static": "符纸流溢着淡淡的紫气，其上云篆如山峦起伏 。",
+    "active": "祭出时天地间会出现三座虚幻山峰，持符者身形瞬间消 失在山影之中 。"
+  },
+  "provenance": {
+    "origin": "白玉京大掌教在请教三山九侯先生后首创此符的仿制版 。",
+    "karma_link": "连接了陈平安对远古“三山”法统的初步掌握 。"
+  },
+  "enriched": true
+}

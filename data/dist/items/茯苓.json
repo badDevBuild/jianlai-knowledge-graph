@@ -1,0 +1,38 @@
+{
+  "name": "茯苓",
+  "original_name": "山中灵药",
+  "type": "材料",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是《剑来》世界中常见的修行资粮。它既出现在老道 士的竹篮里，也是陈平安远游途中常会关注的世俗机缘 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1097章 是谁",
+      "owner": "崇阳观"
+    }
+  ],
+  "subtype": "滋养/药物类",
+  "holder": "老道士 (无名)",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "虽是常见药材，但在灵气沛然的道观周边生长，具有延 年益寿之效 。",
+  "supernatural_ability": "具备清心散结之功，可作为炼制初级丹药的辅材，帮助 低阶修士稳固气府 。",
+  "evolution": {
+    "current_form": "几块沾着新鲜泥土、质地厚实的灵药 。",
+    "materials_consumed": [
+      "山根灵气",
+      "岁月滋养"
+    ],
+    "potential_evolution": "若能存世千年以上，可演化为“金丝茯苓”，成为驻颜丹 的主药。"
+  },
+  "visual": {
+    "static": "外皮黑褐，内部雪白，切开后带有淡淡的松香。",
+    "active": "入药后能中和诸般药力，产生柔和的灵气波动 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲或其他名山大川的古柏松林下 。",
+    "karma_link": "代表了山中修道者质朴的日常生活与采集功课 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "半截香",
+  "original_name": "杨家药铺后院香火",
+  "type": "其他",
+  "grade": "法器",
+  "status": "消耗",
+  "description": "这是药铺后院用于维持洞天平衡的神秘香火。它不仅是时间的刻度，更是规矩的化身。当小镇发生足以 打破既定命运的事件时，它的燃烧状态会产生剧变 。",
+  "aliases": [
+    "半截香"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第144章 一个坐井一个观天",
+      "owner": "崔瀺"
+    }
+  ],
+  "subtype": "因果类 / 监测类",
+  "holder": "杨老头",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青童天君",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为监测骊珠洞天规矩运转的枢纽，其状态直接反映洞天内因果的变化。",
+  "supernatural_ability": "**“因果感应”**。能够感知洞天内重大命运转折，如陈平安手刃蔡金简时，原本即将燃尽的香火会瞬间 熊熊燃烧，香雾弥漫 。",
+  "evolution": {
+    "current_form": "药铺后院天井内的一炷香火 。",
+    "materials_consumed": [
+      "神代香火",
+      "天道规矩"
+    ],
+    "potential_evolution": "随杨老头散道及洞天破碎，化为某种指引转世的因果线索。"
+  },
+  "visual": {
+    "static": "看似寻常的半截香，插在天井香炉中，经年累月不灭 。",
+    "active": "在关键时刻香气暴涨，凝聚出的香雾能混淆搅乱光阴长河，使大修士无法推演真相 。"
+  },
+  "provenance": {
+    "origin": "由远古青童天君（杨老头）于骊珠洞天坐镇期间设立 。",
+    "karma_link": "与小镇年轻一辈的本命瓷碎裂及个人机缘紧密相关 。"
+  },
+  "enriched": true
+}

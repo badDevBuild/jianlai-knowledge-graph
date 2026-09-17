@@ -1,0 +1,45 @@
+{
+  "name": "静心安宁符",
+  "original_name": "安神符 / 涤尘符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "极其经典的修道辅佐符箓。虽无攻防杀力，却是应对走火入魔、稳固拳 意的必备之物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第250章 从最北到最南",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助 / 修心类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "传授者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "在大修士手中，可演化为照彻神魂缺陷的“本心符” 。",
+  "supernatural_ability": "用于凝神静气，帮助修行者排除心猿意马，稳固灵台 。",
+  "evolution": {
+    "current_form": "书写在普通黄纸上的清心符文 。",
+    "materials_consumed": [
+      "黄纸",
+      "清心丹砂",
+      "一口平稳真气"
+    ],
+    "potential_evolution": "可进阶为具有安魂、定魄效果的金色材质大符 。"
+  },
+  "visual": {
+    "static": "符文线条柔和圆润，散发出淡淡的凉意或香气 。",
+    "active": "激发后散发出一圈圈柔和的波纹，瞬间抚平焦躁气机 。"
+  },
+  "provenance": {
+    "origin": "源自《丹书真迹》中的基础辅助篇章 。",
+    "karma_link": "陈平安在远游途中练拳、画符或闭关时，常以此符辅助 。"
+  },
+  "enriched": true
+}

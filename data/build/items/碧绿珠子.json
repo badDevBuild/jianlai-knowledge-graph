@@ -1,0 +1,44 @@
+{
+  "name": "碧绿珠子",
+  "original_name": "灵气宝珠",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是白景在天外战场“收尾”得来的收益，不仅分量极重 ，且因蕴含特殊的大道轨迹，对修士闭关破境有极大裨 益 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1006章 开战",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养/破境类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白景（谢狗）",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由飞升境巅峰修士凝练灵气而成，蕴含纯粹道意，具有 辅助跻身上五境的潜力 。",
+  "supernatural_ability": "珠子由于蕴藉了青道轨迹的道意，呈现出碧绿颜色，比 一般灵气灵珠更为珍稀 。",
+  "evolution": {
+    "current_form": "青杏大小的碧绿珠子 。",
+    "materials_consumed": [
+      "天外灵气潮水",
+      "青道轨迹道意"
+    ],
+    "potential_evolution": "炼化后可作为闭关破境时的核心补给 。"
+  },
+  "visual": {
+    "static": "色泽碧绿，形如青杏，散发出浓郁的道门清气 。",
+    "active": "在闭关使用时会释放出精粹至极的灵气与道气 。"
+  },
+  "provenance": {
+    "origin": "天外战场，白景在叠阵汲取灵气潮水后凝练而成 。",
+    "karma_link": "作为白景追随陈平安远游的“买卖”报酬之一 。"
+  },
+  "enriched": true
+}

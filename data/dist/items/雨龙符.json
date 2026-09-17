@@ -1,0 +1,48 @@
+{
+  "name": "雨龙符",
+  "original_name": "斩锁符 / 雨师敕令符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一道专门针对天下蛟龙的禁忌符箓。陈平安凭此在 那蛟龙沟一役中威震四方，确立了其在水法一道的深厚 造诣 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1066章 几人著眼到青衫",
+      "owner": "敬仰楼"
+    }
+  ],
+  "subtype": "压胜/天时类",
+  "holder": "陈平安 / 埋河水神",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "原主"
+    },
+    {
+      "name": "老舟子 (桂花岛)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "若能以青色符纸配合神灵精血画就，可敕令一洲之雨水 。",
+  "supernatural_ability": "专门压胜蛟龙之属。补全“雨师敕令”后，可令万千水族 自囚，威慑力巨大 。",
+  "evolution": {
+    "current_form": "陈平安在云海上以小雪锥亲自书写的上品符箓 。",
+    "materials_consumed": [
+      "青色符纸",
+      "五行之水精华"
+    ],
+    "potential_evolution": "可进阶为足以对抗十四境妖王本命水法的“雨师法旨” 。"
+  },
+  "visual": {
+    "static": "符纸之上，云篆繁复，透出一股阴凉的水属性灵气 。",
+    "active": "祭出时有五龙开罡之象，天幕瞬间黑云压城，雷电交加 。"
+  },
+  "provenance": {
+    "origin": "源自上古三山九侯先生，后被陈平安在桂花岛通过观察 “打龙蒿”悟得 。",
+    "karma_link": "见证了陈平安与蛟龙沟老蛟的对抗，以及其对“雨师”法 统的掌握 。"
+  },
+  "enriched": true
+}

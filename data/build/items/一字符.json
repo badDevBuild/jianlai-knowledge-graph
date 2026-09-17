@@ -1,0 +1,44 @@
+{
+  "name": "一字符",
+  "original_name": "单字符箓",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "陈平安送给学生宁吉的特殊符箓。通过简单的文字，引 导后辈在读书与炼气中体悟“道”的源头 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1081章 不如读书去",
+      "owner": "宁吉"
+    }
+  ],
+  "subtype": "辅助/传道类",
+  "holder": "宁吉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着使用者心境与笔力的合一，一字之威可动山河 。",
+  "supernatural_ability": "通过观摩单一文字（如“仙”）的法度，引导练气士感悟 大道源头 。",
+  "evolution": {
+    "current_form": "分别以篆、隶、楷体书写“仙”字的黄纸符箓 。",
+    "materials_consumed": [
+      "上乘朱砂",
+      "读书人的精气神"
+    ],
+    "potential_evolution": "若能三符合一，可化为“一字之师”的本命真言。"
+  },
+  "visual": {
+    "static": "笔触苍劲，法度森严，每个字都蕴含独特的气韵 。",
+    "active": "激发时文字会浮空而起，显化出远古道人或书生的修行 气象 。"
+  },
+  "provenance": {
+    "origin": "陈平安结合远古符箓宗旨亲笔书写 。",
+    "karma_link": "陈平安作为先生对宁吉的传道之物，寓意读书求通而非 求完 。"
+  },
+  "enriched": true
+}

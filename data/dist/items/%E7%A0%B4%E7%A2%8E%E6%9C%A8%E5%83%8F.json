@@ -1,0 +1,48 @@
+{
+  "name": "破碎木像",
+  "original_name": "穴位经脉木模",
+  "type": "其他",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "泥瓶巷时期的关键启蒙物，陈平安将其重新拼凑后，配合《撼山拳谱》钻研，由此洞悉人身气府奥秘。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第544章 舟中之人尽敌国",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "修行/观想类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宋集薪",
+      "relation": "原主"
+    },
+    {
+      "name": "稚圭",
+      "relation": "毁坏者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽是世俗木质，但其上镌刻的七百余处穴位经脉，是武道入门的绝佳导师。",
+  "supernatural_ability": "通过朱点墨字，直观展现人身气府流转与经络走势。",
+  "evolution": {
+    "current_form": "被稚圭用菜刀劈砍成多截的木头人，身上布满红点和墨色微书。",
+    "materials_consumed": [
+      "圣贤道理",
+      "武学心得"
+    ],
+    "potential_evolution": "陈平安将其作为教导学生赵树下的核心教具，结合剑气十八停进行演示。"
+  },
+  "visual": {
+    "static": "色泽如玉的老木，身上密密麻麻刻有红点（穴位）和微小墨字（经脉名）。",
+    "active": "陈平安在内观时可显化出其对应的星象天相图，光亮流转。"
+  },
+  "provenance": {
+    "origin": "大骊宋氏宫廷所造，曾由督造官带入泥瓶巷。",
+    "karma_link": "稚圭故意毁坏后留给陈平安，借此引导其走上纯粹武夫之路。"
+  },
+  "enriched": true
+}

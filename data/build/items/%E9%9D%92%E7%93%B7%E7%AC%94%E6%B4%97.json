@@ -1,0 +1,43 @@
+{
+  "name": "青瓷笔洗",
+  "original_name": "春秋笔洗 / 灵器笔洗",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一件极具雅趣的灵器，原本是刺客的藏身或藏宝之物。陈平安因其底部的文字缘分而将其留下，用 于安置他在旅途中收取的灵性小物件。 , ,",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第547章 有些练拳不一样",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文房清供 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "割鹿山刺客 (蛇蝎夫人)",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "内部自成小空间，可用于收纳并压制小型精魅。",
+  "supernatural_ability": "能禁锢并滋养小型水族或灵物，如小白蛇和小黑蝎子。",
+  "evolution": {
+    "current_form": "古色古香的青瓷小笔洗，底部刻有流动的文字。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "若能凑齐“春、夏、秋、冬”系列，或可演化为更高阶的洞天法宝。"
+  },
+  "visual": {
+    "static": "施粉青釉，光泽莹润。底部有一圈十六个如蝌蚪般缓缓流转的微小文字。",
+    "active": "文字“春花秋月、春风秋树...”在笔洗边缘欢快绕行，伴有灵气云雾。"
+  },
+  "provenance": {
+    "origin": "陈平安在胭脂郡反杀割鹿山刺客后所得战利品。",
+    "karma_link": "笔洗上的文字巧合契合了鲲船侍女春水、秋实的名字。"
+  },
+  "enriched": true
+}

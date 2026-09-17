@@ -1,0 +1,44 @@
+{
+  "name": "灵湫",
+  "original_name": "长春宫灵湫泉水",
+  "type": "材料",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "名动宝瓶洲的顶级灵泉，不仅是长春宫的立身之本，更 是无数女修梦寐以求的美容神水 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第883章 看酒",
+      "owner": "长春宫"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "长春宫",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "大骊皇室",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "是炼制顶级驻颜仙酿“长春酒”的根本水源，对水属气府 有极大裨益 , 。",
+  "supernatural_ability": "女子常年饮用以此水烹制的茶水，可容颜常驻，亦能修 复神魂阴神的伤势 , 。",
+  "evolution": {
+    "current_form": "清冽无比、灵气凝结如丝的泉水 。",
+    "materials_consumed": [
+      "地脉水精",
+      "长春道意"
+    ],
+    "potential_evolution": "可炼化为支撑“水府”扩张的本命灵液 。"
+  },
+  "visual": {
+    "static": "水质纯净剔透，在阳光下呈现淡淡的青绿色，灵气萦绕 。",
+    "active": "煮沸时云蒸霞蔚，产生出如梦似幻的桃花幻象 。"
+  },
+  "provenance": {
+    "origin": "长春宫禁地内的核心泉眼 。",
+    "karma_link": "是大骊朝廷与长春宫盟约的利益核心，曹晴朗曾代师求 取此水 。"
+  },
+  "enriched": true
+}

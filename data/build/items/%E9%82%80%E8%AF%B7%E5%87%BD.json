@@ -1,0 +1,44 @@
+{
+  "name": "邀请函",
+  "original_name": "贺信 / 各种请帖",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这些邀请函代表了陈平安在浩然天下的影响力。朱敛会 根据内容筛选，决定哪些需要回礼，哪些可以无视 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第992章 邀请函",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "社交/信物类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "各国君主/各大宗门",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "承载着各方势力对落魄山的认可与结交之意，是“香火 情”的实体凭证 。",
+  "supernatural_ability": "无。但能反映一洲势力的亲疏远近，以及潜藏的政治风 向 。",
+  "evolution": {
+    "current_form": "装满一小箩筐、样式各异的精美帖函 。",
+    "materials_consumed": [
+      "云根纸/金箔纸",
+      "官方/宗门玺印"
+    ],
+    "potential_evolution": "若得落魄山钤印回信，可作为该势力在宝瓶洲行走的“ 护身符” 。"
+  },
+  "visual": {
+    "static": "红黑白各色封皮，有的镶金嵌玉，散发淡淡墨香或灵气 。",
+    "active": "开启时，有的会伴随仙鹤衔书或神女传音的虚影异象 。"
+  },
+  "provenance": {
+    "origin": "来自大泉王朝、玉圭宗、风雷园等地的各级首领 。",
+    "karma_link": "见证了陈平安从“泥腿子”到一洲权力中枢的身份转变 。"
+  },
+  "enriched": true
+}

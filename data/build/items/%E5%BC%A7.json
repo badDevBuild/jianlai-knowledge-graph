@@ -1,0 +1,38 @@
+{
+  "name": "弧",
+  "original_name": "六钧弧",
+  "type": "重器",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "兵家修士使用的强力重型**远射兵器**，如“六钧弧” 。其威力足以让龙蛇辟易，是武夫抗衡高位水族和练气士的重要手段 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1109章 此山从此便姓陈",
+      "owner": "宋旌"
+    }
+  ],
+  "subtype": "攻伐/远程类",
+  "holder": "兵家修士",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "搭配特定的符箓箭矢可穿透地仙级别的防护 。",
+  "supernatural_ability": "具有屠蛟戳龙之威，箭势如雷鸣电击，能强行破开江河禁制 。",
+  "evolution": {
+    "current_form": "大弓形状的重型兵器 。",
+    "materials_consumed": [
+      "金精",
+      "妖兽筋骨"
+    ],
+    "potential_evolution": "炼化入体后可作为本命攻伐法宝 。"
+  },
+  "visual": {
+    "static": "造型古朴，弓身带有沉重的金属质感或龙鳞纹路 。",
+    "active": "拉弓时气机激荡，箭矢离弦后划出雷电弧线，声震百里 。"
+  },
+  "provenance": {
+    "origin": "兵家祖庭或大骊墨家造办处 。",
+    "karma_link": "远古征伐水裔的神兵遗存 。"
+  },
+  "enriched": true
+}

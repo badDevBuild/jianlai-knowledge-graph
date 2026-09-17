@@ -1,0 +1,38 @@
+{
+  "name": "小花簪",
+  "original_name": "彩绘花簪 / 淑仪楼发饰",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "损毁",
+  "description": "这是《剑来》中高阶女修与世家女子的标志性装饰。簪 子的品秩往往直接暴露了持有者的身家与道龄 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1207章 小花簪",
+      "owner": "陈溪"
+    }
+  ],
+  "subtype": "饰品/因果类",
+  "holder": "杨玉篇 / 宗门女修",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "受女修常年温养，可进化为能够存储灵气的“簪中秘境” 。",
+  "supernatural_ability": "具备微弱的驻颜与屏退邪念功效。位置与松紧度可映射 持有者的性格与气机状态 。",
+  "evolution": {
+    "current_form": "材质多为玉、骨或金，装饰有小巧花卉图案 。",
+    "materials_consumed": [
+      "胭脂气",
+      "微量灵石"
+    ],
+    "potential_evolution": "可被炼制为隐蔽性极强的微型飞剑载体。"
+  },
+  "visual": {
+    "static": "造型精巧，簪头花朵如实物般娇艳，带有淡淡的脂粉香 。",
+    "active": "在阳光下会显现出细微的灵光，随着主人的行走摇曳生 姿 。"
+  },
+  "provenance": {
+    "origin": "产自流霞洲玉芝岗或中土名门造办处 。",
+    "karma_link": "连接了豪门子弟的审美情趣与山下世道的奢靡风气 。"
+  },
+  "enriched": true
+}

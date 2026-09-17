@@ -1,0 +1,91 @@
+{
+  "name": "银色酒葫芦",
+  "original_name": "“美酒”",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是天下公认最顶级的七枚养剑葫之一，原本属于大剑仙魏晋，后经阿良之手赠予李宝瓶，是她极为珍 视的随身重宝 。",
+  "aliases": [
+    "银色小葫芦",
+    "银葫芦",
+    "小葫芦"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第90章 大雨滂沱",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第96章 山水有神怪",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第97章 拜山头",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第101章 坐镇山头",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第105章 无根浮萍",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第108章 春蒐",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第110章 无不散的筵席",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第111章 斗笠",
+      "owner": "李宝瓶 (阿良赠送)"
+    },
+    {
+      "chapter": "第119章 有些道理",
+      "owner": "林守一 (暂管/持有)"
+    },
+    {
+      "chapter": "第404章 心神往之",
+      "owner": "裴钱(借用)"
+    },
+    {
+      "chapter": "第471章 听说你要问剑",
+      "owner": "李宝瓶"
+    }
+  ],
+  "subtype": "养剑类",
+  "holder": "李宝瓶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏晋",
+      "relation": "原主"
+    },
+    {
+      "name": "阿良",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道祖亲手栽种的七枚养剑葫之一，其温养飞剑与反哺体魄的能力已达世间顶点 。",
+  "supernatural_ability": "极速温养飞剑，且能反哺主人体魄，即便在极高品秩的同类法宝中亦属罕见 。",
+  "evolution": {
+    "current_form": "银白色小葫芦",
+    "materials_consumed": [
+      "道祖所植葫芦藤"
+    ],
+    "potential_evolution": "成熟形态的顶级养剑重器"
+  },
+  "visual": {
+    "static": "色泽如银，小巧玲珑，散发着淡淡的仙家气息 。",
+    "active": "温养飞剑时会有微弱的嗡鸣声，在雷雨天气气象尤为显著 。"
+  },
+  "provenance": {
+    "origin": "源自道祖在飞升前亲自在浩然天下种下的一根葫芦藤，结出的七颗葫芦之一 。",
+    "karma_link": "由阿良在棋墩山转赠李宝瓶，象征着一种不羁的传承与护道之情 。"
+  },
+  "enriched": true
+}

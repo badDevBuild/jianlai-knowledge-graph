@@ -1,0 +1,42 @@
+{
+  "name": "碧螺",
+  "original_name": "碧螺法袍",
+  "type": "法宝",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这是青冥天下十四境大修士吾洲所穿的法袍，位列数座天下十大法袍之一。它不仅仅是一件防御法器， 更承载了吾洲“炼物”一道的深厚底蕴 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第813章 饮者",
+      "owner": "魏精粹"
+    },
+    {
+      "chapter": "第990章 双喜临门",
+      "owner": "令狐蕉鱼"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "吾洲",
+  "holder_relation": "持有",
+  "rank": "半仙兵",
+  "rank_potential": "作为数座天下十大法袍之一，具备极高的防御上限和道业加持潜力 。",
+  "supernatural_ability": "具备极强的法术防御力，能够作为小型洞天的载体或与其大道相契合 。",
+  "evolution": {
+    "current_form": "翠绿色法袍 。",
+    "materials_consumed": [
+      "远古丝绸精粹",
+      "太阴之气"
+    ],
+    "potential_evolution": "若能配合其“万物可炼”的合道之路，可进化为支撑起其法天象地气象的本命重器 。"
+  },
+  "visual": {
+    "static": "色泽翠绿如螺，袍身流转着如水般的灵气涟漪 。",
+    "active": "激发时会产生类似“月盈”的宝相光圈，能够抵消高位修士的法术冲击 。"
+  },
+  "provenance": {
+    "origin": "源自青冥天下，是女冠吾洲的随身重宝 。",
+    "karma_link": "曾被吴霜降作为与其交换“碧云楼甲胄”的筹码，但被余斗拒绝 。"
+  },
+  "enriched": true
+}

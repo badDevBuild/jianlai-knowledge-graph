@@ -1,0 +1,38 @@
+{
+  "name": "青铜古钟",
+  "original_name": "水府编钟",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是皎月湖水君李邺侯珍藏的仪轨重器。这组编钟在水榭廊道中鸣响时，能够展现出一种与大道共鸣的 高雅气象，是神道修行与文运结合的典范 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第357章 雨停",
+      "owner": "桐叶宗祖师"
+    }
+  ],
+  "subtype": "镇魂类 / 仪式类",
+  "holder": "李邺侯",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "随水府香火与文运滋养，其音律可演化为镇压一地江河的律法节拍 。",
+  "supernatural_ability": "敲击时音色优美如天籁，能宁神静气，洗涤听者魂魄，具有显著的清心解厄功效 。",
+  "evolution": {
+    "current_form": "悬挂于古木钟架上的一组九枚青铜编钟 。",
+    "materials_consumed": [
+      "江河水运精华",
+      "文脉气息"
+    ],
+    "potential_evolution": "可成为水利万物、调理阴阳的神道礼器 。"
+  },
+  "visual": {
+    "static": "钟身古朴沉稳，刻有繁密的云纹与水纹，充满岁月沧桑感 。",
+    "active": "由灵童敲击时，钟声会形成实质的金色波纹，使周围水汽凝结为祥云 。"
+  },
+  "provenance": {
+    "origin": "出自中土神洲皎月湖水君府邸 。",
+    "karma_link": "作为李邺侯水府的镇宝之物，见证了其作为藏书大家与水系正神的显赫地位 。"
+  },
+  "enriched": true
+}

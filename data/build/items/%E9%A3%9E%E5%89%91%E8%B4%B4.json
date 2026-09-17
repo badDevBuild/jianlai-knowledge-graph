@@ -1,0 +1,49 @@
+{
+  "name": "飞剑贴",
+  "original_name": "穗山飞剑贴",
+  "type": "灵物",
+  "grade": "传承",
+  "status": "活跃",
+  "description": "这是浩然天下最顶级的剑道机缘之一。它不仅记录了剑气，更承载了古人的道意，只有资质与心性皆为 上乘的剑修才能获得其认可 。",
+  "aliases": [
+    "飞剑贴"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第151章 少年有剑砍山岳",
+      "owner": "穗山"
+    }
+  ],
+  "subtype": "传承类",
+  "holder": "中土神洲穗山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古剑仙",
+      "relation": "原主"
+    },
+    {
+      "name": "左右",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古剑意的极致显化，是剑修跻身陆地剑仙的最高大道指引 。",
+  "supernatural_ability": "**“剑意传承”**。观摩此贴可感悟巅峰剑道，若能拿住其中文字，五字必成陆地剑仙，左右曾拿住六字 。",
+  "evolution": {
+    "current_form": "崖壁上的七个古朴古篆大字 。",
+    "materials_consumed": [
+      "远古剑气"
+    ],
+    "potential_evolution": "文字可脱离崖壁演化为具备独立杀力的飞剑实体 。"
+  },
+  "visual": {
+    "static": "位于中土神洲穗山崖壁，由远古剑仙以充沛剑气书写 。",
+    "active": "字可化作巴掌大小的金色古篆，金光绚烂，围绕人身飞快旋转 。"
+  },
+  "provenance": {
+    "origin": "中土神洲穗山 。",
+    "karma_link": "老秀才曾试图将其赠予陈平安，但文字因道心不合拒绝亲近 。"
+  },
+  "enriched": true
+}

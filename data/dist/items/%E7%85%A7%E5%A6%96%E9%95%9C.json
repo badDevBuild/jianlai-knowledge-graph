@@ -1,0 +1,54 @@
+{
+  "name": "照妖镜",
+  "original_name": "寻魔镜 / 水镜 / 规矩镜",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "照妖镜是山上最通用的法器类别之一，用于在复杂环境中辨别虚实、镇压妖气 。大龙湫出产的“水镜”系列在北俱芦洲和中土神洲极负盛名 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第784章 议事",
+      "owner": "郭藕汀"
+    },
+    {
+      "chapter": "第785章 无话可说",
+      "owner": "郭藕汀"
+    },
+    {
+      "chapter": "第900章 一剑跨洲",
+      "owner": "崔东山"
+    },
+    {
+      "chapter": "第965章 猜先",
+      "owner": "年轻道官"
+    },
+    {
+      "chapter": "第1119章 二十人与候补们（上）",
+      "owner": "陈平安/崔东山"
+    }
+  ],
+  "subtype": "侦测/压胜类",
+  "holder": "练气士 / 远游武夫",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "不同门类品秩悬殊，如大龙湫的“停月”、“止水”宝镜可列入仙兵候补 。",
+  "supernatural_ability": "能够照亮阴影中的精魅鬼魅，使妖魔无所遁形，并具备先天的镇压之力 。",
+  "evolution": {
+    "current_form": "多为铜制或玉质圆镜，背面刻有辟邪铭文 。",
+    "materials_consumed": [
+      "日精月华",
+      "仙家禁制"
+    ],
+    "potential_evolution": "高阶者可演化出“实境”，将敌人囚禁在镜中世界 。"
+  },
+  "visual": {
+    "static": "古朴镜面，常带有“宫家营造”或“李铺造”等家族落款 。",
+    "active": "激发时激射出澄莹光柱，光照百里，使邪祟显露真身 。"
+  },
+  "provenance": {
+    "origin": "天下共有六大镜工流派，包括中土大龙湫、龙虎山天师府等 。",
+    "karma_link": "是修行者远游跋涉、探幽访仙的必备傍身之物 。"
+  },
+  "enriched": true
+}

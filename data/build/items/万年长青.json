@@ -1,0 +1,47 @@
+{
+  "name": "万年长青",
+  "original_name": "北岳山君府秘制竹管笔",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是大骊北岳山君府极少流出的珍稀文房利器。全天下此类竹笔总数极少，因其承载了青神山的清气与 魏檗的祝福，被视为辅佐帝王治国、文脉长存的象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第943章 推陈出新",
+      "owner": "黄聪"
+    }
+  ],
+  "subtype": "文房类 / 礼器",
+  "holder": "皇帝黄聪",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "魏檗",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "取材于中土青神山绿竹，具备极高的文运亲和力，随持有人国祚气运增长而更具灵性 。",
+  "supernatural_ability": "笔尖蕴含青神山绿竹的清香与坚韧意境，书写时可定心稳神，具备一丝“长青不败”的大道余韵 。",
+  "evolution": {
+    "current_form": "一支制作精良、笔管铭文“万年长青”的仙家竹管笔 。",
+    "materials_consumed": [
+      "青神山绿竹"
+    ],
+    "potential_evolution": "若能得文庙圣贤点睛，可演化为能够“落笔生花”的儒家重器 。"
+  },
+  "visual": {
+    "static": "笔管青翠如玉，质地细腻，上刻有工整的“万年长青”四字 。",
+    "active": "挥毫时笔端隐约有绿意萦绕，墨香中带有淡淡的竹林清气 。"
+  },
+  "provenance": {
+    "origin": "由大骊北岳山君魏檗亲手督造，所用竹材源自中土竹海洞天 。",
+    "karma_link": "陈平安将其作为贺礼送给梦粱国复国后的年轻皇帝黄聪 。"
+  },
+  "enriched": true
+}

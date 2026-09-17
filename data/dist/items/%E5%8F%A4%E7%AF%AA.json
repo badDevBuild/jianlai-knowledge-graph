@@ -1,0 +1,45 @@
+{
+  "name": "古篪",
+  "original_name": "引魂篪",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "资料中并未详细描述此物的具体来源 [无资料]。根据小说内容，这是陈平安从藕花福地带出的重要灵物之一，专门用于应对鬼物及神魂波动 的特殊法器 [无资料]。",
+  "aliases": [
+    "陆舫信物"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第315章 他人争渡我破境",
+      "owner": "陆舫"
+    }
+  ],
+  "subtype": "引导类 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏羡",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为远古乐器遗物，其特殊功效随持有者神识增强而提升 [无资料]。",
+  "supernatural_ability": "能够吹奏引魂之音，稳定或拘押阴灵鬼物，对神魂有显著的抚平作用 [无资料]。",
+  "evolution": {
+    "current_form": "古老的竹制或玉制笛类乐器",
+    "materials_consumed": [
+      "古意温养"
+    ],
+    "potential_evolution": "可配合特定的安魂曲目演化为镇魂法宝 [无资料]。"
+  },
+  "visual": {
+    "static": "形制古朴的竹管乐器，表面由于岁月积累而显得圆润 [无资料]。",
+    "active": "吹奏时，周围气场会变得阴冷或祥和，视觉上常伴有淡淡的雾气 [无资料]。"
+  },
+  "provenance": {
+    "origin": "出自藕花福地，曾由南苑国皇帝魏羡珍藏 [无资料]。",
+    "karma_link": "陈平安在福地历练后将其带出，作为处理阴魂事宜的重要工具 [无资料]。"
+  },
+  "enriched": true
+}

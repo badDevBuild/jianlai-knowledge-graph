@@ -1,0 +1,47 @@
+{
+  "name": "横秋",
+  "original_name": "无",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "秋气湖大木观观主、水君宫花（道号青词）的佩剑。宫花前生为武学宗师，死后成为英灵，重新取回了 这把昔年佩剑，并以此仗剑横行，最终在秋气湖自封湖君 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1065章 江湖寂寥一百年",
+      "owner": "宫花"
+    },
+    {
+      "chapter": "第1073章 问拳问道问剑一起上",
+      "owner": "宫花"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "宫花",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宫花（前世武学宗师）",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着持有者作为水君的修行可获得提升",
+  "supernatural_ability": "名剑，剑气凌厉，曾助主人横行天地间",
+  "evolution": {
+    "current_form": "名剑横秋",
+    "materials_consumed": [
+      "无"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "古剑，其剑鞘外层裹缠有金丝 。",
+    "active": "作为大木观观主（青词）的背负之剑，彰显陆地神仙气象 。"
+  },
+  "provenance": {
+    "origin": "主人的前世遗物",
+    "karma_link": "因英灵一点灵光不散而重新取回"
+  },
+  "enriched": true
+}

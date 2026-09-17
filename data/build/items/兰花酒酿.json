@@ -1,0 +1,38 @@
+{
+  "name": "兰花酒酿",
+  "original_name": "金璜府兰花酿",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "金璜府的招牌名产，郑素以此酒招待陈平安一行人，是 连接落魄山与大泉山水情谊的媒介 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第756章 剑修如云",
+      "owner": "金璜府"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "郑素 (金璜府君)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为桐叶洲中部名酒，具备聚拢一府山水灵气的功效 。",
+  "supernatural_ability": "饮用后可润泽气府，小幅提升神魂韧性 。",
+  "evolution": {
+    "current_form": "装于精致小坛中的清冽酒水 。",
+    "materials_consumed": [
+      "金璜山兰花精华",
+      "松针湖灵水"
+    ],
+    "potential_evolution": "若得药王点化，可化为协助破境的灵药 。"
+  },
+  "visual": {
+    "static": "酒色清亮，散发出浓郁的兰花清香 。",
+    "active": "倒入碗中时灵气微漾，有暗香浮动之象 。"
+  },
+  "provenance": {
+    "origin": "大泉王朝金璜府府邸秘制 。",
+    "karma_link": "是大泉山水官场招待贵客的顶级雅物 。"
+  },
+  "enriched": true
+}

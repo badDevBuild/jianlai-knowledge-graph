@@ -1,0 +1,48 @@
+{
+  "name": "渠黄",
+  "original_name": "大仿渠黄",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此剑并非本尊，却是世间仿制最为神似的重宝，承载了礼圣巡狩天下的宏大意象 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第457章 小巷祖宅一盏灯",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第458章 入山登楼见故人",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "池水城猿哭街古董铺老掌柜",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为“八骏名剑”的极致仿品，其工艺被视为“下一等真迹”，具有极高的实战价值 。",
+  "supernatural_ability": "能够承载极强的剑气激荡，自带“斩龙剁蛟”的锋芒，对水裔精怪有天然压制力 。",
+  "evolution": {
+    "current_form": "青铜古剑，剑身刻有四字小篆 。",
+    "materials_consumed": [
+      "上古青铜精华",
+      "大铸剑师神意"
+    ],
+    "potential_evolution": "若得名师重铸并注入真龙精血，有望升格为半仙兵 。"
+  },
+  "visual": {
+    "static": "形制古拙，色泽沉稳，充满金石之气 。",
+    "active": "出鞘时剑光如虹，剑意厚重，令人观之目眩 。"
+  },
+  "provenance": {
+    "origin": "源自中土大铸剑师对礼圣巡狩座驾“八骏”之一的致敬之作 。",
+    "karma_link": "老掌柜在池水城等候两百年，方由陈平安这位识货者购得，续写了“八骏流散”的典故 。"
+  },
+  "enriched": true
+}

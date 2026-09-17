@@ -1,0 +1,37 @@
+{
+  "name": "春牛图",
+  "original_name": "不详",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "未在素材中提及此物的具体详细背景，但在陈平安整理 的“道树”分叉中，包含了大量涉及民风乡俗的记录图卷 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1009章 年少曾学登山法",
+      "owner": "陈平安/礼部"
+    }
+  ],
+  "subtype": "记录/异象类",
+  "holder": "陈平安（心境显化）",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为陈平安整理山河脉络的画卷之一，承载了一方的气 运走势。",
+  "supernatural_ability": "无明确在素材中提及相关详细信息。根据推测，此类图 卷常用于演算时令或镇压农桑气运 。",
+  "evolution": {
+    "current_form": "陈平安绘制或收纳的诸多山水图卷之一。",
+    "materials_consumed": [
+      "笔墨纸砚"
+    ],
+    "potential_evolution": "可能演化为掌控节气的大阵蓝图。"
+  },
+  "visual": {
+    "static": "画面描绘了春耕、牧牛等世俗景象，笔触质朴 。",
+    "active": "展开时隐约可见灵气流转，仿佛画中牛马皆有灵性。"
+  },
+  "provenance": {
+    "origin": "陈平安在各洲游历过程中对“事功”学问的整理 。",
+    "karma_link": "连接了落魄山的烟火气与上古的节气规矩。"
+  },
+  "enriched": true
+}

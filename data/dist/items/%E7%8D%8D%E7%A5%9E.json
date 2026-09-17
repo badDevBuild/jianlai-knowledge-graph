@@ -1,0 +1,64 @@
+{
+  "name": "獍神",
+  "original_name": "师刀房法刀",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "獍神是倒悬山最具威慑力的几把执法工具之一。柳伯奇作为师刀房天之骄子，持此刀在狮子园一役中轻 松斩杀黑袍大妖金身 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第393章 灵光乍现山渐青",
+      "owner": "柳伯奇"
+    },
+    {
+      "chapter": "第394章 水落石出小钱堆",
+      "owner": "柳伯奇"
+    },
+    {
+      "chapter": "第395章 一碗鸡汤不知道",
+      "owner": "柳伯奇"
+    },
+    {
+      "chapter": "第417章 那些入秋的喜怒哀乐",
+      "owner": "柳伯奇"
+    },
+    {
+      "chapter": "第467章 飞鸟一声如劝客",
+      "owner": "柳伯奇"
+    },
+    {
+      "chapter": "第471章 听说你要问剑",
+      "owner": "柳伯奇"
+    }
+  ],
+  "subtype": "攻伐/压胜类",
+  "holder": "柳伯奇",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "师刀房",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "在倒悬山师刀房法刀排名第十七，随着持刀者斩妖除魔的功德积累，其压胜杀力可进阶 。",
+  "supernatural_ability": "天生具备对妖魔鬼怪的绝对威慑，出刀如“獍”兽噬骨，能够破开一般的幻象禁制 , 。",
+  "evolution": {
+    "current_form": "一把随身悬佩的法刀 。",
+    "materials_consumed": [
+      "妖物精血",
+      "师刀房秘炼残篇"
+    ],
+    "potential_evolution": "若能配合本命物“甲作”，其杀力可直指仙人境 。"
+  },
+  "visual": {
+    "static": "刀身纤细漆黑，比寻常佩刀更长，刀气内敛且森然 。",
+    "active": "挥动时有黑烟或神将法相伴随，能够在一瞬间斩断大妖金身法相 , 。"
+  },
+  "provenance": {
+    "origin": "出自倒悬山师刀房，是道教特定分支道官的执法利器 。",
+    "karma_link": "曾挂在倒悬山影壁榜单上，见证了多次针对违禁大修的追杀行动 , 。"
+  },
+  "enriched": true
+}

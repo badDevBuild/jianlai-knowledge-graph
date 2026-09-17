@@ -1,0 +1,50 @@
+{
+  "name": "竹签",
+  "original_name": "最上签 / 最下签 / 因果签",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陆沉在骊珠洞天当算命先生时使用的道具，表面为算命工具，实则代表了对天地演化及人道气运的某种观测。曾作为 干扰天机平衡的存在，后崔东山在书院求学期间亦曾随手使用。",
+  "aliases": [
+    "算命签",
+    "糖葫芦竹签"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第3章 日出",
+      "owner": "年轻道士"
+    },
+    {
+      "chapter": "第109章 少年有话说",
+      "owner": "朱鹿"
+    }
+  ],
+  "subtype": "运筹类",
+  "holder": "陆沉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随着主人陆沉（十四境）的意志演化，承载极高的天道因果之力。",
+  "supernatural_ability": "干涉命理、占卜吉凶、辅助运筹，即便并非直接攻伐之物，亦能定夺一洲胜负。",
+  "evolution": {
+    "current_form": "袖中两支竹签，一为“最上签”，一为“最下签”。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "作为陆沉五梦七心相的法统载体。"
+  },
+  "visual": {
+    "static": "普普通通的翠绿或泛黄竹签，藏于年轻道人陆沉的袖口中。",
+    "active": "在推演天机或干预运势时，竹签会显现出非外人能道破的玄机，亦可作为投掷暗器。"
+  },
+  "provenance": {
+    "origin": "白玉京三掌教陆沉在骊珠洞天摆摊时随身携带的工具。",
+    "karma_link": "与小镇开门大考、陆沉对天地万物演化的“观测”深度关联。"
+  },
+  "enriched": true
+}

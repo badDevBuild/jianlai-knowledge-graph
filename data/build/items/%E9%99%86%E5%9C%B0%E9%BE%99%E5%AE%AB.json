@@ -1,0 +1,44 @@
+{
+  "name": "陆地龙宫",
+  "original_name": "龙宫遗址 / 别有天",
+  "type": "其他",
+  "grade": "重宝",
+  "status": "活跃",
+  "description": "这是一处珍稀的洞天遗址。它既是曾经的避祸道场，也 是陈平安在桐叶洲确立落魄山下宗影响力的关键筹码 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1125章 二十人与候补们（七）",
+      "owner": "多方共有（虞氏王朝、青萍剑宗等）"
+    }
+  ],
+  "subtype": "洞天/传承类",
+  "holder": "躁君 (白登) / 水龙宗",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "上古龙王 / 水仙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为一座小洞天，具备演化为跨洲级别商贸枢纽或宗门 下宗的潜力。",
+  "supernatural_ability": "“气象宏丽，几乎可以与三千年的四海龙宫相媲美” ；蕴藏大量水运珍宝，具有天然禁制。",
+  "evolution": {
+    "current_form": "掩埋在陆地之下的宏伟水下宫殿 。",
+    "materials_consumed": [
+      "万年水运精华",
+      "龙族气运"
+    ],
+    "potential_evolution": "成为东海水府在桐叶洲的“避暑别院”或战略支点 。"
+  },
+  "visual": {
+    "static": "金碧辉煌，僭越礼制，内有万年珊瑚与珠玉点缀 。",
+    "active": "开启时紫气升腾，形成巨大的水流漩涡，声势惊人 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代职掌云雨的龙王治所，后在桐叶洲大渎开 凿中被发掘 。",
+    "karma_link": "连接了陈平安对桐叶洲局势的重塑与真龙王朱的利益分 配 。"
+  },
+  "enriched": true
+}

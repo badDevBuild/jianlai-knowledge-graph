@@ -1,0 +1,42 @@
+{
+  "name": "传讯飞剑",
+  "original_name": "剑房飞剑",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "山上神仙用于远程交流的常规法宝。陈平安在担任隐官期间，曾专门要求剑坊为隐官一脉铸造了刻有成 员姓名的专属传讯飞剑 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第452章 单骑南下",
+      "owner": "刘志茂 (被刘老成借用)"
+    },
+    {
+      "chapter": "第627章 算账整座天下",
+      "owner": "隐官一脉成员"
+    }
+  ],
+  "subtype": "传讯/辅助类",
+  "holder": "隐官一脉/各大宗门",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "高品级传讯飞剑可跨洲而行，甚至无视两界禁制",
+  "supernatural_ability": "极速飞行，自带隐匿秘法，非大修士不可截获",
+  "evolution": {
+    "current_form": "袖珍小巧的长剑，常刻有发剑人的名字",
+    "materials_consumed": [
+      "灵石",
+      "秘银"
+    ],
+    "potential_evolution": "若得仙人加持禁制，可成为极难损毁的护身宝物"
+  },
+  "visual": {
+    "static": "只有手指长短，剑身布满细微的传讯禁制纹路",
+    "active": "化作一道流光，在云海中瞬息千里，拖曳出长长的彩色尾迹"
+  },
+  "provenance": {
+    "origin": "多出自各大宗门的剑房或专门的炼器机构",
+    "karma_link": "是山上修士维持联系与传递情报的基石"
+  },
+  "enriched": true
+}

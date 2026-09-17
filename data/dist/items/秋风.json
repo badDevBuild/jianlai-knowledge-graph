@@ -1,0 +1,37 @@
+{
+  "name": "秋风",
+  "original_name": "四时法门 / 一万零一法",
+  "type": "其他",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "李希圣用来对抗单一剑道杀力的多元化手段之一，象征秋季的收敛与因果终结 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第183章 他有春叶夏雷秋风冬雪",
+      "owner": "李希圣"
+    }
+  ],
+  "subtype": "道意类 / 压胜类",
+  "holder": "李希圣",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "随持有人合道十四境，可演化为扫灭万物的“天地大风” 。",
+  "supernatural_ability": "“肃杀消磨”。秋风所至，可令敌方灵气运转出现腐朽、凋零的迹象 。",
+  "evolution": {
+    "current_form": "一缕缕长不过手指的清风 。",
+    "materials_consumed": [
+      "秋季肃杀意"
+    ],
+    "potential_evolution": "可成为心相天地中“风云变幻”的权柄核心 。"
+  },
+  "visual": {
+    "static": "无形的气流，带有淡淡的凉意 。",
+    "active": "如游龙穿梭在战场，吹拂处万物渐染秋色，具有消磨剑气的特殊视觉特效 。"
+  },
+  "provenance": {
+    "origin": "李希圣对“日月起落、生生不息”规律的临摹 。",
+    "karma_link": "用于对抗曹峻飞剑的极速，以“秋风扫落叶”之势稳固战局 。"
+  },
+  "enriched": true
+}

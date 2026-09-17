@@ -1,0 +1,52 @@
+{
+  "name": "本命风雷双剑",
+  "original_name": "初一 / 十五",
+  "type": "本命飞剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "陈平安的核心杀力来源，两把飞剑性格迥异。‘初一’锐利难挡，‘ 十五’神出鬼没，且具备方寸物空间功能 。",
+  "aliases": [
+    "本命风雷双剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第74章 火龙走水",
+      "owner": "阮邛"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "老秀才",
+      "relation": "赠予者"
+    },
+    {
+      "name": "药铺杨老头",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随着陈平安境界提升，可演化为仙兵。‘初一’有望提升为‘井口月’ 或‘天上月’ [6-8]。",
+  "supernatural_ability": "‘初一’具备极致的速度与破甲属性；‘十五’具备斩断因果与隐匿气 息的能力 。",
+  "evolution": {
+    "current_form": "袖珍飞剑，温养于养剑葫内",
+    "materials_consumed": [
+      "剑气",
+      "灵气",
+      "金精铜钱",
+      "斩龙石"
+    ],
+    "potential_evolution": "井口月 / 天上月"
+  },
+  "visual": {
+    "static": "微缩如针，藏于穴窍或养剑葫中，展现出极高的金属密度感 。",
+    "active": "化为长虹或丝线，高阶状态能割裂空间，产生黑色虚空裂缝 。"
+  },
+  "provenance": {
+    "origin": "‘初一’源自老秀才，‘十五’由杨老头以物换物赠予 。",
+    "karma_link": "与陈平安的剑修之路及剑气长城的宿命深度关联 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,58 @@
+{
+  "name": "虫银",
+  "original_name": "银色细微物",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这种**灵性小虫**是修道之人极为珍视的“案头宠物”。 在《剑来》中，它们代表了文字与生机、雅致与力量的 统一 。",
+  "aliases": [
+    "虫银"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第137章 背着一座银山",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第138章 拔河",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第159章 送君已千万里",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第383章 彩云局",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "精魅/文运类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古书斋",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为文运凝聚的活体，能够随书籍品秩提升而进化为书 灵 。",
+  "supernatural_ability": "能在纸张上穿梭而不损毁材质，辅助修士剔除书籍中的 杂质或阴煞气，滋养文脉 。",
+  "evolution": {
+    "current_form": "形似蚂蚱的细微银色虫子 。",
+    "materials_consumed": [
+      "万卷书香",
+      "月华精华"
+    ],
+    "potential_evolution": "若能吞噬足够文气，可演化为具有实体防御力的“银甲 小人” 。"
+  },
+  "visual": {
+    "static": "静止时如同一枚细小的银色书签，泛着冷冽的金属光泽 。",
+    "active": "在纸上跳跃时如流萤闪烁，所过之处文字会泛起微光 。"
+  },
+  "provenance": {
+    "origin": "由远古天庭时代或儒家秘境中的文运之气孕育 。",
+    "karma_link": "象征着陈平安“书生底色”中的某种性灵显化 。"
+  },
+  "enriched": true
+}

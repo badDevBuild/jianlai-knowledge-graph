@@ -1,0 +1,46 @@
+{
+  "name": "盘中珠",
+  "original_name": "道气珠",
+  "type": "材料",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "这是**白景在天外大显神通的产物**。她将潮水般的灵 气具象化为实物，展示了远古大妖恐怖的能量操纵能力 ，是落魄山家底的体现之一 。",
+  "aliases": [
+    "盘中珠"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第119章 有些道理",
+      "owner": "林守一"
+    }
+  ],
+  "subtype": "灵气/资源类",
+  "holder": "谢狗 (白景)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "天外灵气潮汐",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由飞升境大妖亲自炼化，蕴含极致纯粹的天地道气 。",
+  "supernatural_ability": "将虚幻的灵气与道气一分为二，凝出精粹至极的珠子， 具备极高的能量密度 。",
+  "evolution": {
+    "current_form": "散落在白玉盘中的精粹珠子 。",
+    "materials_consumed": [
+      "天外灵气",
+      "大妖道气"
+    ],
+    "potential_evolution": "可作为炼制仙兵本命物的核心动力源 。"
+  },
+  "visual": {
+    "static": "大珠小珠落玉盘，发出清脆悦耳的响声，宝光流转 。",
+    "active": "吸收时会释放出汹涌的灵气潮汐，照彻四周 。"
+  },
+  "provenance": {
+    "origin": "由白景在天外战场吸纳灵气大潮后亲手凝练 。",
+    "karma_link": "象征着蛮荒大妖随陈平安远游天外的战利品与“嫁妆” 。"
+  },
+  "enriched": true
+}

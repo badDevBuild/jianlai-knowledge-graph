@@ -1,0 +1,38 @@
+{
+  "name": "银票",
+  "original_name": "市井通宝",
+  "type": "货币",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "**银票**在山上修士眼中不值一文，但在落魄山的处世 逻辑中，它是尊重山下规矩的证明 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第878章 十四两银子",
+      "owner": "老秀才(昔日)"
+    }
+  ],
+  "subtype": "消耗类",
+  "holder": "小陌 / 陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "无 。",
+  "supernatural_ability": "用于解决山下行走的一切衣食住行需求，是“入乡随俗” 的关键工具 。",
+  "evolution": {
+    "current_form": "大面额的纸质票据 。",
+    "materials_consumed": [
+      "世俗信用",
+      "青檀宣纸"
+    ],
+    "potential_evolution": "大量汇聚后可影响一地的世俗气运 。"
+  },
+  "visual": {
+    "static": "印制精美，盖有官府大印，折叠整齐 。",
+    "active": "在小陌手中，可瞬间兑换为金瓜子或沉甸甸的银锭 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝官府钱庄 。",
+    "karma_link": "小陌将神仙钱折算为此物，是为了在落魄山更好地扮演 “管家”和“随从”角色 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,47 @@
+{
+  "name": "五彩腰带",
+  "original_name": "五彩腰带",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是**陆台**随身携带的多功能防御法宝。虽然他目前由于性别转换或由于境界限制只使用其简易形态 （丝绳），但其内部蕴含的**五种神异能力**使其成为处理突发战况的顶尖利器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第300章 江湖险恶",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "防御/攻伐类",
+  "holder": "陆台",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土神洲陆氏",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为陆氏子弟的随身重宝，具备演化为半仙兵的潜力，完整形态（女子装束时的彩色腰带）威力远胜目 前形态 。",
+  "supernatural_ability": "具备五种复合神通：续命、辟兵（刀枪不入）、避邪（吹散煞气）、吐剑（飞剑杀敌）以及束缚（缚妖 ）。",
+  "evolution": {
+    "current_form": "缠绕在手臂上的五彩丝绳 。",
+    "materials_consumed": [
+      "续命芯",
+      "辟兵缯",
+      "避邪索",
+      "吐剑丝",
+      "缚妖索"
+    ],
+    "potential_evolution": "恢复为具备完整因果压胜之力的“五彩腰带”法宝形态 。"
+  },
+  "visual": {
+    "static": "平时呈现为缠绕在陆台手臂上的五色丝绳 。",
+    "active": "激发时，线头会如通灵小蛇般高高扬起，周身流转五彩光华 。"
+  },
+  "provenance": {
+    "origin": "中土神洲阴阳家陆氏的家传宝物 。",
+    "karma_link": "与陆台在桐叶洲的历练及陆氏家族的阴阳演化术深度绑定 。"
+  },
+  "enriched": true
+}

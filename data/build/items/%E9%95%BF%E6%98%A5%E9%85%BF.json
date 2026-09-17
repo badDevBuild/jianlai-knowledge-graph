@@ -1,0 +1,38 @@
+{
+  "name": "长春酿",
+  "original_name": "长春宫仙酿",
+  "type": "丹药",
+  "grade": "灵物",
+  "status": "消耗",
+  "description": "这是长春宫赖以成名的基业。在大战期间，长春宫曾为 此酒的原料灵湫水而全宗门秘密消失一段时日 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1057章 原来是护道",
+      "owner": "曹耕心"
+    }
+  ],
+  "subtype": "滋养/驻颜类",
+  "holder": "长春宫女修",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "若取自灵湫源头且经仙人点化，可具有生死肉骨之效 。",
+  "supernatural_ability": "不仅灵气充沛，更具有延年益寿与驻颜之神效，极受山 上女修追捧 。",
+  "evolution": {
+    "current_form": "色泽澄澈、香气持久的灵气酒液 。",
+    "materials_consumed": [
+      "长春宫灵湫泉水",
+      "百花精粹"
+    ],
+    "potential_evolution": "极品长春酿可炼化为“长生不老药”的药引 。"
+  },
+  "visual": {
+    "static": "盛放在绘有繁花图案的瓷瓶中，酒香凝而不散 。",
+    "active": "饮用后周身会产生淡淡的生机气象，使人容光焕发 。"
+  },
+  "provenance": {
+    "origin": "宝瓶洲长春宫秘制，取水自禁地灵湫 。",
+    "karma_link": "常作为大骊王朝赏赐功臣的重要礼品 。"
+  },
+  "enriched": true
+}

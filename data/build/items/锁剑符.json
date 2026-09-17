@@ -1,0 +1,61 @@
+{
+  "name": "锁剑符",
+  "original_name": "地祖宫锁剑符 / 枯井符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "锁剑符是浩然天下符箓一脉的顶级成就，也是所有剑修最忌惮的针对手段 。它利用了“一物克一物”的天地至理，通过极其繁琐的炼制工序，将飞剑的大道运行轨迹强行阻断 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第630章 刺杀隐官",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第836章 火神求火",
+      "owner": "赵端明等人"
+    },
+    {
+      "chapter": "第837章 另外一个",
+      "owner": "隋霖"
+    },
+    {
+      "chapter": "第838章 互为苦手",
+      "owner": "隋霖 (后转给陈平安)"
+    },
+    {
+      "chapter": "第1202章 既然事功何为回报",
+      "owner": "刘老成"
+    }
+  ],
+  "subtype": "压胜类 / 禁锢类",
+  "holder": "於玄",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉 (白玉京三掌教)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "其上限取决于画符者的境界与符纸材质，顶尖锁剑符甚至能困住飞升境剑修 。",
+  "supernatural_ability": "专门针对剑修飞剑，祭出后可使本命飞剑如同坠入枯井，身陷重重禁制而无法动弹 。",
+  "evolution": {
+    "current_form": "通常为金色材质的高级符纸 。",
+    "materials_consumed": [
+      "雷击木",
+      "大风飞土",
+      "仙家丹砂"
+    ],
+    "potential_evolution": "可演化为“封山符”或“剑鞘符”，彻底剥夺他人飞剑控制权 。"
+  },
+  "visual": {
+    "static": "符纸背书“不动”二字，正面绘有剑困井中的复杂云篆图案 。",
+    "active": "符胆灵光暴涨，形成一座无形的小天地牢笼，强行拘押周边所有飞剑 。"
+  },
+  "provenance": {
+    "origin": "源自桐叶洲符箓派旁门的秘传，后由於玄等人发扬光大 。",
+    "karma_link": "是练气士对峙剑修时唯一的“保命符” 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,37 @@
+{
+  "name": "短戟",
+  "original_name": "铁室",
+  "type": "法宝",
+  "grade": "兵器",
+  "status": "活跃",
+  "description": "这是青冥天下第三大武学宗师、并州女子国师白藕的标志性兵器。此戟在实战中杀人如剪草，是令练气 士闻之色变的“人间凶器” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第139章 千奇（上）",
+      "owner": "披甲男子"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "白藕",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为顶级武学宗师的随身兵刃，其杀力随主人拳意的精进而增强 。",
+  "supernatural_ability": "“枭首斩金”。锋利异常，能够轻易割破修士法袍并伤及金身，专为近身搏杀设计 。",
+  "evolution": {
+    "current_form": "一支名为“铁室”的旁生横刃短戟 。",
+    "materials_consumed": [
+      "天外陨铁"
+    ],
+    "potential_evolution": "若能获得远古兵部神灵的认可，可演化为破阵神兵。"
+  },
+  "visual": {
+    "static": "通体玄黑或暗红，带有古朴的金属质感，悬挂于腰间 。",
+    "active": "挥动时带起冷冽的杀气，寒光映照，令人胆寒 。"
+  },
+  "provenance": {
+    "origin": "青冥天下武道宗师白藕的成名兵刃 。",
+    "karma_link": "代表了青冥天下顶端武夫的强悍战力与对敌手段 。"
+  },
+  "enriched": true
+}

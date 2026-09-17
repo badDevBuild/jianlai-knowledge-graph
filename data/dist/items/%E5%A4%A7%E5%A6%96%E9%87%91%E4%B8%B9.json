@@ -1,0 +1,48 @@
+{
+  "name": "大妖金丹",
+  "original_name": "十二境妖丹",
+  "type": "灵物",
+  "grade": "天材地宝",
+  "status": "活跃",
+  "description": "这是一颗名副其实的“破产版仙兵”。虽然陈平安曾短暂持有，但最终此物在梧桐小洞天被毁，陈平安借 此向桐叶宗讨要了更珍贵的琉璃碎片补偿 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第362章 希望别人的肩头",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "核心类 / 消耗类",
+  "holder": "陈平安 (曾持有)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "杜懋",
+      "relation": "夺取自"
+    },
+    {
+      "name": "某十二境大妖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "此丹源于一位飞升境（十二境）大妖，是其毕生道行凝聚的核心，价值极其惊人 。",
+  "supernatural_ability": "**“重塑金身”**。具备极强的灵气储备，可作为上五境修士修复躯壳或作为大阵中枢的动力源 。",
+  "evolution": {
+    "current_form": "装在半臂高大瓷瓶内的硕大金丹 。",
+    "materials_consumed": [
+      "十二境妖物精血",
+      "天地气运"
+    ],
+    "potential_evolution": "已被杜懋在梧桐小洞天内彻底炼化，后被陈平安用来换取五彩琉璃碎片 。"
+  },
+  "visual": {
+    "static": "盛放在巨大的瓷瓶中，散发出极其恐怖的气压与绚烂的妖异光芒 。",
+    "active": "炼化时天地异象丛生，周围灵气会产生剧烈漩涡 。"
+  },
+  "provenance": {
+    "origin": "原主为蛮荒天下的一头十二境大妖 。",
+    "karma_link": "陈平安在倒悬山获得此物，后在大泉驿馆作为谈判筹码提及 , 。"
+  },
+  "enriched": true
+}

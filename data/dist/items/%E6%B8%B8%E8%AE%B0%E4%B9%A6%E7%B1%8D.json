@@ -1,0 +1,44 @@
+{
+  "name": "游记书籍",
+  "original_name": "《陈凭案》系列丛书",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是针对陈平安量身定做的“丑闻书”，将其描写为性情中人“陈凭案” 。实际上是崔东山为了下宗选址和先生声望所布下的一记神仙手 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第573章 就他陈平安最烦人",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文化/舆论类",
+  "holder": "公众 / 崔东山 (推手)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "策划者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "通过大规模版刻，已成为影响一洲人心、乃至压胜某人名声的舆论利器 。",
+  "supernatural_ability": "通过含沙射影的故事，左右世人对陈平安及其下宗的观感 。",
+  "evolution": {
+    "current_form": "大肆印行、由柳清风等人“润色”的故事书 。",
+    "materials_consumed": [
+      "流言",
+      "笔墨"
+    ],
+    "potential_evolution": "若能由文庙收录，可作为一种“官家野史”流传万年 。"
+  },
+  "visual": {
+    "static": "版刻精良，配有彩画美人图，引人购买 。",
+    "active": "翻开后能让看客产生极强的代入感，引发全洲议论 。"
+  },
+  "provenance": {
+    "origin": "由崔东山与柳清风合力谋划，旨在以“名”字布局 。",
+    "karma_link": "与陈平安在书简湖及剑气长城的真实经历相呼应 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,40 @@
+{
+  "name": "道祖五千文",
+  "original_name": "道德经 / 五千言",
+  "type": "典籍",
+  "grade": "经典",
+  "status": "活跃",
+  "description": "道教最高经典的具象化，被誉为“道法之纲纪”。虽然世人皆可读，却唯有极少数上士能真正读通并以此 合道 。",
+  "aliases": [
+    "道祖五千文"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第157章 自古圣贤皆寂寞",
+      "owner": "道祖"
+    }
+  ],
+  "subtype": "传承类 / 根基类",
+  "holder": "道祖",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为青冥天下道门法统的源头，其蕴含的每一个文字都代表着一种天道法则 。",
+  "supernatural_ability": "“万法之始”。直指金丹大道，能够让天下所有练气士见门见道，言出法随，定义规则 。",
+  "evolution": {
+    "current_form": "三千真言、五千余字的古老经文 。",
+    "materials_consumed": [
+      "先天道意",
+      "太虚灵气"
+    ],
+    "potential_evolution": "演化为支撑白玉京五城十二楼的至高道律 。"
+  },
+  "visual": {
+    "static": "文字法度森严，看似寻常言语，实则蕴含无穷真意 。",
+    "active": "激发时紫气东来，金色文字可铺设为跨越天幕的桥梁，镇压一切无序法门 。"
+  },
+  "provenance": {
+    "origin": "道祖在成仙之前亲笔写就 。",
+    "karma_link": "是青冥天下与白玉京法统的最高契据 。"
+  },
+  "enriched": true
+}

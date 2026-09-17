@@ -1,0 +1,44 @@
+{
+  "name": "关牒桃符",
+  "original_name": "李希圣桃符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "关牒桃符是李希圣赠予陈平安的重要信物。它不仅仅是一份通关凭证，更代表了道家高位的认可。陈平 安在多次远游中依赖此符趋吉避凶，它是连接陈平安与白玉京法统的关键纽带之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第958章 青萍剑宗",
+      "owner": "晏琢"
+    }
+  ],
+  "subtype": "辅助类 / 凭证",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "承载着李希圣（白玉京大掌教分身）的深厚道意，具有沟通大道、庇护气运的极高位格 。",
+  "supernatural_ability": "作为顶级“凭证”，可让持有者在通过复杂禁制或山水关隘时获得天道认可；同时蕴含定心稳神的玄妙道 韵 。",
+  "evolution": {
+    "current_form": "一块材质温润、刻有特定符文的桃木牌 。",
+    "materials_consumed": [
+      "千年桃木",
+      "道家纯正法力"
+    ],
+    "potential_evolution": "可配合特定的道教仪式，作为开启远古福地大门的钥匙 。"
+  },
+  "visual": {
+    "static": "色泽红润如玉，表面刻有法度严谨的道家铭文，触手生温 。",
+    "active": "激发时会散发出淡淡的桃香与清冷的紫气，能够压制四周的阴秽气息 。"
+  },
+  "provenance": {
+    "origin": "由李希圣在与陈平安于骊珠洞天分别前亲自赠予 。",
+    "karma_link": "被认为是骊珠洞天真正的大机缘之一，与福禄街和桃叶巷的因果脉络紧密相连 。"
+  },
+  "enriched": true
+}

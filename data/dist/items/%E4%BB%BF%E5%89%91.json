@@ -1,0 +1,48 @@
+{
+  "name": "仿剑",
+  "original_name": "恨剑山仿制品 / 剑仙仿剑",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "北俱芦洲的恨剑山以仿造上古剑仙本命飞剑闻名天下，其作品虽非真迹，却承载了部分剑道意蕴。陈平 安曾托刘景龙购买此类仿剑用于落魄山弟子的护道 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1025章 但愿青帝常为主",
+      "owner": "袁化境"
+    },
+    {
+      "chapter": "第1158章 护道",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "北俱芦洲剑修",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "恨剑山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "极少数顶级仿制品可无限接近半仙兵品秩 。",
+  "supernatural_ability": "模仿古老剑仙的本命飞剑神通，具备极高的锋利度与杀伐意气 , 。",
+  "evolution": {
+    "current_form": "根据模仿对象不同，形制各异 。",
+    "materials_consumed": [
+      "五金精粹",
+      "剑气"
+    ],
+    "potential_evolution": "大炼后可作为练气士的本命物坐镇气府 。"
+  },
+  "visual": {
+    "static": "工艺精湛，往往刻有被模仿飞剑的古老名称 。",
+    "active": "祭出时剑光凛冽，杀气外溢，可与元婴甚至玉璞境妖族争锋 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲恨剑山等擅长铸剑的山头 。",
+    "karma_link": "是北俱芦洲剑修及金身境武夫重要的外挂兵器 。"
+  },
+  "enriched": true
+}

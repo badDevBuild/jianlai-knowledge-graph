@@ -1,0 +1,62 @@
+{
+  "name": "钱同玄",
+  "aliases": [
+    "龙尾"
+  ],
+  "bio": "出身神诰宗旁支的道士，道号“龙尾”。他与一位千年牡丹花成精的少女关\n系匪浅，被称为其“老相好”。在涉及吕公祠遗址的一处鬼宅密室内，曾留有\n神诰宗独门符箓镇压着一头金丹境鬼物，以此证明了该宅邸的渊源。",
+  "appearance": {
+    "facial": "未提及",
+    "physique": "未提及",
+    "attire": "未提及",
+    "aura": "未提及"
+  },
+  "cultivation": [
+    {
+      "path": "炼气士",
+      "realm": 0,
+      "realm_name": "未知",
+      "stage": "未知",
+      "notes": "书中未明确具体境界。但作为神诰宗旁支道士，掌握能镇压金丹境鬼物的\n独门符箓，推测具备不俗的符箓造诣。"
+    }
+  ],
+  "techniques": [
+    {
+      "name": "神诰宗独门符箓",
+      "type": "符箓",
+      "category": "符法",
+      "description": "源自神诰宗旁支的秘传符箓，威力足以在密室中长期镇压金丹境的鬼物。"
+    }
+  ],
+  "factions": [
+    "神诰宗"
+  ],
+  "tags": [
+    "道士",
+    "神诰宗旁支",
+    "牡丹花妖旧识"
+  ],
+  "quotes": [],
+  "relations": {
+    "牡丹花魅": {
+      "type": [
+        "旧情/怨侣"
+      ],
+      "strength": 7,
+      "evidence": [
+        {
+          "chapter": "第937章 吾为东道主（七）",
+          "text": "没良心呐，就是个有贼心没贼胆的玩意儿... 嫌我出身不正，不敢带回山去"
+        }
+      ],
+      "auto_generated": true
+    }
+  },
+  "avatar": "https://shushu.host/jianlai/data/img/avatars/钱同玄.jpg",
+  "cultivation_log": [
+    {
+      "state": "未知 (未知)",
+      "chapter": "书中未明确具体境界。但作为神诰宗旁支道士，掌握能镇压金丹境鬼物的\n独门符箓，推测具备不俗的符箓造诣。",
+      "clean_chapter": "未知"
+    }
+  ]
+}

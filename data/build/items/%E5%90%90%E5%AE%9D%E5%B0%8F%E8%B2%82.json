@@ -1,0 +1,37 @@
+{
+  "name": "吐宝小貂",
+  "original_name": "梅花庵灵貂",
+  "type": "灵物",
+  "grade": "灵兽",
+  "status": "活跃",
+  "description": "**浩然天下极其罕见的聚财灵宠**。由于不仅能存钱还 能生钱，常被各大豪门引为镇宅之宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第791章 横着走",
+      "owner": "梅花庵仙子"
+    }
+  ],
+  "subtype": "聚财/辅助类",
+  "holder": "梅花庵仙子",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "若能喂食足够高品级的神仙钱，可吐出天材地宝甚至法 宝碎片 。",
+  "supernatural_ability": "具有天然的聚财神通，吞噬神仙钱后能“生钱”，是山上 公认的储钱罐 。",
+  "evolution": {
+    "current_form": "趴在仙子肩头的袖珍小貂 。",
+    "materials_consumed": [
+      "神仙钱"
+    ],
+    "potential_evolution": "长期受仙家文气浸染，可化为通灵的“吐宝大仙” 。"
+  },
+  "visual": {
+    "static": "毛色纯净，体态轻盈，常蜷缩在主人的肩头或袖中 。",
+    "active": "在感应到宝物气机时会兴奋跳跃，并吐出带有灵气的钱 币 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲梅花庵，是该宗门的特有灵兽 。",
+    "karma_link": "象征着梅花庵殷实的家底与独特的理财之道 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "竹制书签",
+  "original_name": "落魄山特制竹签 / 节气书签",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是落魄山极具文化色彩的小物件。陈平安常将其赠予 友人，如送给阮秀的“山水有重逢”竹简，是纯粹情感的 寄托 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1083章 将进酒",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "记录/文化类",
+  "holder": "陈平安 / 宁姚 / 落魄山众人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "长期在圣贤书中浸染文气，可进化为能够“笔底生花”的 灵物 。",
+  "supernatural_ability": "记录持有者所见所闻之美好文字。具备平复心境、引导 文脉流向的微弱功效 。",
+  "evolution": {
+    "current_form": "翠绿欲滴、刻有诗词佳句的竹片 。",
+    "materials_consumed": [
+      "青神山奋勇竹",
+      "读书心得"
+    ],
+    "potential_evolution": "集齐二十四节气书签，可构成稳固山头文运的小型阵法 。"
+  },
+  "visual": {
+    "static": "色泽青翠，纹理细腻，字迹如溪水绵长 。",
+    "active": "在阳光下翻转时，竹叶纹路会隐约流动，散发出淡淡的 竹香 。"
+  },
+  "provenance": {
+    "origin": "取材于落魄山竹楼建设剩余的青神山绿竹 。",
+    "karma_link": "见证了陈平安从草鞋少年到一代山主的求学与远游历程 。"
+  },
+  "enriched": true
+}

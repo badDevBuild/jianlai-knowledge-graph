@@ -1,0 +1,44 @@
+{
+  "name": "禳",
+  "original_name": "禳",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“禳”是一把极具传奇色彩的**单字飞剑**。在剑气长城，单字飞剑的持有者皆被避暑行宫列为最高等级 的保护对象。此类飞剑真名越短，往往意味着道意越纯粹，杀力越不可思议 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1110章 纯粹剑修们",
+      "owner": "未知"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "未知",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "未知剑修",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为极其罕见的单字飞剑，其杀力上限与剑道气运极高，在剑气长城万年历史上仅记录有14把同类飞剑 。",
+  "supernatural_ability": "虽具体神通未详述，但单字飞剑通常拥有压胜同境的绝对杀力或极其稀有的规则掌控能力 。",
+  "evolution": {
+    "current_form": "单字命名的袖珍飞剑 。",
+    "materials_consumed": [
+      "剑修神魂",
+      "剑道气运"
+    ],
+    "potential_evolution": "若能进阶为仙兵，可成为镇压一洲气运的重器 。"
+  },
+  "visual": {
+    "static": "通常以微缩形态藏于剑修窍穴中，剑身蕴含古老神意 。",
+    "active": "祭出时剑光极其纯粹，杀气森严，足以引起高位修士关注 。"
+  },
+  "provenance": {
+    "origin": "源自剑气长城本土剑修孕育 。",
+    "karma_link": "老聋儿曾亲眼见识过此剑的出世，被视为剑道大年份的象征 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "青釉御用棋罐",
+  "original_name": "云霄国宫廷围棋罐 / 官仿官瓷罐",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这对棋罐曾是云霄国帝王案头的雅物。它不仅是精美绝伦的艺术品，更是承载文运气象的灵性载体，现 作为落魄山收藏的重要文房物件之一 。",
+  "aliases": [
+    "棋罐"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第397章 异乡见老乡",
+      "owner": "卢白象(陈平安赠)"
+    }
+  ],
+  "subtype": "文房类 / 镇宅类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云霄国造办处",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随陈平安将水系灵气和文运注入，可升格为具有“水生万物”异象的法宝 。",
+  "supernatural_ability": "**“稳固水运”**。作为宫廷御制之物，其材质与器型天生契合山水气运，能保护盛放其中的棋子灵性不 失 。",
+  "evolution": {
+    "current_form": "胎薄质坚、釉面细腻的瓷质棋罐 。",
+    "materials_consumed": [
+      "龙泉紫金土",
+      "水运精华"
+    ],
+    "potential_evolution": "可配合“彩云十局”共同作为下宗（青萍剑宗）的文脉传承底蕴 。"
+  },
+  "visual": {
+    "static": "釉色呈现出迷人的青绿色，如雨过天青，表面有细密的冰裂纹或流云纹 。",
+    "active": "落子时，罐身会发出类似龙吟的清越回响，令人神清气爽 。"
+  },
+  "provenance": {
+    "origin": "由大骊铁骑南下缴获的云霄国国库珍藏流散而出 。",
+    "karma_link": "陈平安在青鸾国淘宝所得，见证了他对家乡瓷窑手艺的认可与怀念 。"
+  },
+  "enriched": true
+}

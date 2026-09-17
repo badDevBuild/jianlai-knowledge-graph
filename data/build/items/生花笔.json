@@ -1,0 +1,44 @@
+{
+  "name": "生花笔",
+  "original_name": "百花福地生花笔",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "生花笔是百花福地的特产至宝，以“妙笔生花”的意境闻名。它不仅是文人骚客梦寐以求的清供，更是修 行文脉道法的绝佳辅助工具。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第780章 可规可矩谓之国士",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "文房类 / 辅助类",
+  "holder": "百花福地 / 相关仙家",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "百花福地历代花主",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为百花福地的招牌文房之一，具备深厚的文运底蕴，在青冥天下亦被视为顶级雅物。",
+  "supernatural_ability": "“妙笔生花”。落笔自带灵气，能够辅助书画作品产生意境升华，甚至引动天地异象。",
+  "evolution": {
+    "current_form": "制作精良的文房笔。",
+    "materials_consumed": [
+      "百花精粹",
+      "文运灵气"
+    ],
+    "potential_evolution": "若得文圣一脉点睛，可演化为能绘就“活神仙”的传世圣器。"
+  },
+  "visual": {
+    "static": "笔杆通常采用灵木或名贵瓷材，笔头毫毛晶莹，散发出淡淡的花香。",
+    "active": "书写时毫尖有光彩流转，墨迹凝而不散，显现出花卉生发的虚影。"
+  },
+  "provenance": {
+    "origin": "产自百花福地。",
+    "karma_link": "其名气甚至远传至青冥天下，是跨洲贸易中的顶级紧俏货。"
+  },
+  "enriched": true
+}

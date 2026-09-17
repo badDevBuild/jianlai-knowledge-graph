@@ -1,0 +1,50 @@
+{
+  "name": "姜壶",
+  "original_name": "朱红养剑葫",
+  "type": "方寸物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是**陈平安**获得的第一枚养剑葫。**它的名字“姜壶”谐音“江湖”，伴随陈平安走过了漫长的远游之 路**，是温养本命飞剑“初一”和“十五”的核心容器 。",
+  "aliases": [
+    "金黄养剑葫"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第330章 过山过水，遇姚而停",
+      "owner": "小道童"
+    }
+  ],
+  "subtype": "温养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    },
+    {
+      "name": "某位姜姓剑修",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "通过温养高阶飞剑（如初一、十五），可逐渐积累灵性，提升品秩 。",
+  "supernatural_ability": "能够温养两到三把飞剑，使其意气相通；内部空间可盛放美酒，具备滋养剑意之效 。",
+  "evolution": {
+    "current_form": "朱红色的精巧小葫芦 。",
+    "materials_consumed": [
+      "天地灵气",
+      "仙家酒酿"
+    ],
+    "potential_evolution": "进化为具备更强“洗剑”功效的高阶养剑法器 。"
+  },
+  "visual": {
+    "static": "色泽温润，样式古朴，底款篆刻有“姜壶”二字，与“江湖”谐音 。",
+    "active": "开启时葫芦口有微光闪烁，飞剑可化虚入体，并在内部形成灵气漩涡 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝的旧藏物资，疑为某位姜姓剑修的遗物 。",
+    "karma_link": "由魏檗代大骊朝廷赠予陈平安，作为其购买落魄山等山头的“彩头” 。"
+  },
+  "enriched": true
+}

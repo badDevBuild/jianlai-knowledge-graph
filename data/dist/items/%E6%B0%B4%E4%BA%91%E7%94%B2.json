@@ -1,0 +1,38 @@
+{
+  "name": "水云甲",
+  "original_name": "水云袍",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这件法袍被誉为“炼物”一道的巅峰之作。它既是华丽的衣裳，也是能够硬抗飞升境攻击的恐怖甲胄 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第735章 列阵在前",
+      "owner": "大骊轻骑"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "吴洲（道号太阴）",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为数座天下第一炼师的成名之作，具有不断吞噬材料进阶的潜力 。",
+  "supernatural_ability": "“仙山万叠”，防御力堪称极致，且能让穿着者在水、云之间自由转换形神 。",
+  "evolution": {
+    "current_form": "法袍样式，表面有万叠仙山景象 。",
+    "materials_consumed": [
+      "上古水精",
+      "无尽云根"
+    ],
+    "potential_evolution": "有望成为支撑十四境“炼物”大道的终极载体 。"
+  },
+  "visual": {
+    "static": "袍服色泽如水光流转，重重叠叠的群山幻影在布料上若隐若现 。",
+    "active": "激发时如置身于浩渺云海中，外界攻击如泥牛入海，身形随云消散 。"
+  },
+  "provenance": {
+    "origin": "由吴洲亲自铸造、锻炼而成，融合了多项远古炼物神通 。",
+    "karma_link": "是青冥天下最顶尖女冠的实力象征 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,54 @@
+{
+  "name": "垂铜塔",
+  "original_name": "仿白玉京青铜宝塔",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "损毁",
+  "description": "此塔虽被称为“仿白玉京”，实则是上古符箓宗师的呕心沥血之作 。它不仅是一件重器，更是陈平安人身小天地中稳固山河的重要枢纽 。",
+  "aliases": [
+    "垂铜塔"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第229章 趋之若鹜",
+      "owner": "胭脂郡"
+    }
+  ],
+  "subtype": "镇压类 / 攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "玉符宫",
+      "relation": "原主"
+    },
+    {
+      "name": "荷花庵主",
+      "relation": "曾持有"
+    },
+    {
+      "name": "离真",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "曾是仙兵品秩，若经高深符箓之道温养，有望重返巅峰 。",
+  "supernatural_ability": "**“镇压枢纽”**。能显化出五城十二楼的浩大异象，对中五境及以下修士具有天然的位阶压胜 。",
+  "evolution": {
+    "current_form": "巴掌大小、形制古怪的青铜色宝塔 。",
+    "materials_consumed": [
+      "远古神性",
+      "玉符宫符箓真意"
+    ],
+    "potential_evolution": "大炼后可作为“山祠”气府的镇宅之物，与天地气运共鸣 。"
+  },
+  "visual": {
+    "static": "外表呈青铜色，样式仿造白玉京，共有九层，每层皆悬挂细微匾额 。",
+    "active": "祭出时雷法攒簇，宝光冲霄，能将目标拘押于塔中，降下天劫惩治 。"
+  },
+  "provenance": {
+    "origin": "原为蛮荒天下玉符宫的镇山之宝，后辗转落入陈平安手中 。",
+    "karma_link": "陈平安在剑气长城与离真一战后的战利品，见证了隐官对敌方重宝的搜刮 。"
+  },
+  "enriched": true
+}

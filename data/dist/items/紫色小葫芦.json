@@ -1,0 +1,44 @@
+{
+  "name": "紫色小葫芦",
+  "original_name": "捉放葫芦",
+  "type": "方寸物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此葫芦名为“捉放”，寓意极深，是真龙王朱对自己过往 身份的一种特殊纪念与了断 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1057章 原来是护道",
+      "owner": "曹耕心"
+    }
+  ],
+  "subtype": "收纳类",
+  "holder": "王琼琚 (寒酥)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "王朱 (稚圭)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "受真龙龙气浸染，有望演化为镇压四海水运的重宝 。",
+  "supernatural_ability": "能够收纳大量行囊与宝物，并具有一定的避水、定风神 通 。",
+  "evolution": {
+    "current_form": "包浆油亮的紫皮小葫芦 。",
+    "materials_consumed": [
+      "远古木材精华",
+      "东海水精"
+    ],
+    "potential_evolution": "可进化为半仙兵级别的“龙王宝葫” 。"
+  },
+  "visual": {
+    "static": "颜色呈深紫色，质感圆润，带有明显的岁月磨损痕迹 。",
+    "active": "开启时会喷薄出淡紫色的灵雾，伴随细微的龙吟声 。"
+  },
+  "provenance": {
+    "origin": "由东海水君王朱从深海遗迹中捞取的远古遗物 。",
+    "karma_link": "赠予泥瓶巷当年的四脚蛇，作为其化形后的护道之物 。"
+  },
+  "enriched": true
+}

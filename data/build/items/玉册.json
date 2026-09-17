@@ -1,0 +1,44 @@
+{
+  "name": "玉册",
+  "original_name": "禅地玉册",
+  "type": "典籍",
+  "grade": "半仙兵",
+  "status": "消耗",
+  "description": "这是捻芯手中另一件涉及大道根本的重宝。作为古代帝王沟通天地的信物，玉册在缝衣术中起到了“定 海神针”的作用，帮助承载那些被剥离的因果。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第676章 终于远游境",
+      "owner": "捻芯 (用在陈平安身上)"
+    }
+  ],
+  "subtype": "权柄类 / 传承类",
+  "holder": "捻芯",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土神洲古王朝",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为古王朝禅地祭祀之物，承载了厚重的山河国运，具有沟通天地的大道位阶。",
+  "supernatural_ability": "由二十四简玉片组成，通过金线串联。可考明功过，用于缝衣术中稳固神魂，承载大妖真名。",
+  "evolution": {
+    "current_form": "二十四枚裁齐磨光的精致玉简。",
+    "materials_consumed": [
+      "金精丝线",
+      "大地龙脉气运"
+    ],
+    "potential_evolution": "若能补全残缺内容，可演化为镇压一洲气运的社稷重器。"
+  },
+  "visual": {
+    "static": "玉质温润，铭文古老，每一片玉简都散发着淡淡的紫金道气。",
+    "active": "使用时玉简飞旋，金线交织如罗网，能锁定并摄取天地间的真灵气息。"
+  },
+  "provenance": {
+    "origin": "中土神洲古代王朝禅地大典遗留。",
+    "karma_link": "由捻芯持有，与金箓配合使用，是其能够存活至今并修成缝衣神通的根本。"
+  },
+  "enriched": true
+}

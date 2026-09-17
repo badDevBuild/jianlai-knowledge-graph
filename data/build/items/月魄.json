@@ -1,0 +1,44 @@
+{
+  "name": "月魄",
+  "original_name": "明月精魂 / 太阴精华",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "月魄是天地间最纯粹的阴精，陈平安曾寻见能凝聚月魄 的“霜松”，并以此体悟天时规矩 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第765章 老子婆娑",
+      "owner": "赊月"
+    }
+  ],
+  "subtype": "材料/滋养类",
+  "holder": "陈平安 / 霜松",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "天外明月",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "聚拢至一定规模可炼化为仙兵“月轮”或作为合道十四境 的根基 。",
+  "supernatural_ability": "具有极其阴柔且纯粹的灵气，能滋养剑气，也是炼制“ 月色酒”的根本 。",
+  "evolution": {
+    "current_form": "凝聚在霜松松针上的熠熠白光 。",
+    "materials_consumed": [
+      "太阴之气",
+      "光阴流水"
+    ],
+    "potential_evolution": "可凝聚为“皓彩”明月之精 。"
+  },
+  "visual": {
+    "static": "如霜雪般覆盖在植物表面，经久不散 。",
+    "active": "激发时呈现出皎洁的圆形光晕，散发冷冽道意 。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭明月共主所在的广寒宫 。",
+    "karma_link": "与赊月的大道根脚及陈平安的剑道砥砺紧密相连 。"
+  },
+  "enriched": true
+}

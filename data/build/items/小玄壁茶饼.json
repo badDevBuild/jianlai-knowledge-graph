@@ -1,0 +1,48 @@
+{
+  "name": "小玄壁茶饼",
+  "original_name": "彩雀府仙茗 / 小玄壁",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是彩雀府的镇山特产，曾被大文豪在诗集中亲笔题名。因产量极低且由特定珍禽采摘，在山上亦是有 钱难求的稀罕物。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第553章 大渎入海处遇故人",
+      "owner": "陈平安 -> 沈霖"
+    },
+    {
+      "chapter": "第564章 先生学生山水间",
+      "owner": "林嵯峨"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "彩雀府 (武峮)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "产自彩雀府后山仅有的十二株老茶树，是文人雅士心中的无上神品，具极高收藏与滋养价值。",
+  "supernatural_ability": "煮茶时，茶汤中可见潮起潮落、斗转星移之异象，饮之能清心明目，裨益神魂。",
+  "evolution": {
+    "current_form": "秘法炒制而成的精制茶饼。",
+    "materials_consumed": [
+      "桃花水",
+      "珍禽彩雀衔摘之叶"
+    ],
+    "potential_evolution": "长期受仙家气息温养，茶香与道韵可助人破开小瓶颈。"
+  },
+  "visual": {
+    "static": "质地紧结的茶饼，表面隐约有雀羽纹路。",
+    "active": "入水后茶汤晶莹如玉，蒸汽氤氲出山川星辰之影。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲彩雀府后山。",
+    "karma_link": "彩雀府掌律武峮赠予陈平安，作为其指点法袍秘术的回礼。"
+  },
+  "enriched": true
+}

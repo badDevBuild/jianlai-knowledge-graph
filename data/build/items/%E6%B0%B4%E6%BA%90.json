@@ -1,0 +1,38 @@
+{
+  "name": "水源",
+  "original_name": "水源 (本命飞剑)",
+  "type": "本命飞剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "水源是陈清流的双重本命飞剑之一。它代表了其作为斩龙人在水系大道上的至高权柄，是所有水裔修士 挥之不去的梦魇 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第961章 少年最匆匆",
+      "owner": "陈清流"
+    }
+  ],
+  "subtype": "攻伐类 / 压胜类",
+  "holder": "陈清流 (斩龙人)",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "作为十四境剑修的本命物，其潜力已达至高，足以影响整座天下的水运走向 。",
+  "supernatural_ability": "“水德压胜”。针对一切修行水法、尤其是主修水法的练气士，具备绝对的大道压制力，遇之即问剑无生 。",
+  "evolution": {
+    "current_form": "十四境剑修陈清流的两把本命飞剑之一 。",
+    "materials_consumed": [
+      "四海水运精华",
+      "真龙精血"
+    ],
+    "potential_evolution": "极境可令天下江河断流，水裔臣服 。"
+  },
+  "visual": {
+    "static": "剑身通体透明，散发出深不可测的寒意与水汽，仿佛一截流动的江河水脉 。",
+    "active": "出剑时，如同一条上古大渎横贯长空，能够瞬间消融同境修士的防御术法 。"
+  },
+  "provenance": {
+    "origin": "诞生于陈清流斩尽天下真龙的道心宏愿之中 。",
+    "karma_link": "与世间所有水族生灵存在着由于“斩龙”而产生的天然敌意与压制 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "纬甲",
+  "original_name": "祖宗甲 / 经纬双甲",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "纬甲是后世一切兵家甲丸的蓝本之一，其价值远超寻常仙兵 , 。它代表了防御之道的极致，是真正能够抗衡天道与巅峰剑修的最终手段 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第931章 吾为东道主（上）",
+      "owner": "白景"
+    },
+    {
+      "chapter": "第1138章 蜉蝣见青天",
+      "owner": "谢狗 (白景)"
+    }
+  ],
+  "subtype": "防御类 / 储能类",
+  "holder": "某位蛮荒大妖女剑修",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "兵家初祖",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为兵家三种甲丸的“老祖宗”，具备承载近乎无限灵气以提升防御力的极限上限 , 。",
+  "supernatural_ability": "允许穿戴者将自身道行的灵气源源不断浇灌其中，形成深不见底的灵气防御层 。",
+  "evolution": {
+    "current_form": "一件由无数纬线织造而成的古老甲胄 。",
+    "materials_consumed": [
+      "远古神灵金身碎片",
+      "光阴长河粹火"
+    ],
+    "potential_evolution": "当填补的灵气达到某种量变，可让穿戴者站着不动任由飞升境剑修劈砍 。"
+  },
+  "visual": {
+    "static": "样式古朴，由细密的金色或银色丝线交织，散发出厚重且不可撼动的气息 , 。",
+    "active": "激发时，甲胄表面会有无尽的灵气流转，形成一道无视物理与术法打击的屏障 。"
+  },
+  "provenance": {
+    "origin": "由远古十二高位神灵之一的“铸造者”仿照“披甲者”的神甲打造而成 。",
+    "karma_link": "是蛮荒天下某位沉睡万载的顶尖剑修的随身重宝 。"
+  },
+  "enriched": true
+}

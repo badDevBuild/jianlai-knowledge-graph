@@ -1,0 +1,37 @@
+{
+  "name": "伞柄剑",
+  "original_name": "软剑",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是詹晴在访山寻宝时的杀手锏，曾在那座仙府遗迹中 多次用以偷袭其他修士 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第759章 递剑接剑与问剑",
+      "owner": "裴文月 (裴旻)"
+    }
+  ],
+  "subtype": "攻伐/暗器类",
+  "holder": "詹晴",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "若能融入金石精粹，可进阶为足以破开金身防御的重器 。",
+  "supernatural_ability": "极其隐蔽，平日以普通竹杖示人，关键时刻可施展“软 剑”身法，诡谲难测 。",
+  "evolution": {
+    "current_form": "藏在一根青竹行山杖内部的细长软剑 。",
+    "materials_consumed": [
+      "精炼铁母"
+    ],
+    "potential_evolution": "可进一步炼化为具有伸缩神通的飞剑胚子 。"
+  },
+  "visual": {
+    "static": "外表是一根极不起眼的竹杖，杖身刻有简单的防滑纹路 。",
+    "active": "抽出后剑身薄如纸片，抖动时嗡嗡作响，反射出冷冽的 银光 。"
+  },
+  "provenance": {
+    "origin": "北亭国小侯爷詹晴行走江湖的防身利器 。",
+    "karma_link": "体现了詹晴阴险、不显山露水的行事风格 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,82 @@
+{
+  "name": "符剑",
+  "original_name": "龙泉剑宗信物",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "最初是阮邛为约束骊珠洞天外来修士定下的规矩，必须持符方可御风飞行。此物实际上承载了破碎的远 古剑道法统 。",
+  "aliases": [
+    "符箓",
+    "符剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第50章 天行健",
+      "owner": "宋长镜（承诺送给刘灞桥）"
+    },
+    {
+      "chapter": "第117章 人间有个老秀才（下）",
+      "owner": "杨花"
+    },
+    {
+      "chapter": "第118章 天地有气",
+      "owner": "杨花"
+    },
+    {
+      "chapter": "第122章 雷法捉妖",
+      "owner": "林守一"
+    },
+    {
+      "chapter": "第125章 一剑破法",
+      "owner": "杨花"
+    },
+    {
+      "chapter": "第133章 同行",
+      "owner": "杨花"
+    },
+    {
+      "chapter": "第382章 棋盘上",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第686章 一些个典故",
+      "owner": "李槐/裴钱"
+    },
+    {
+      "chapter": "第851章 泥瓶巷",
+      "owner": "老观主 (暂时持有)"
+    },
+    {
+      "chapter": "第1149章 野田黄雀行",
+      "owner": "高拂"
+    }
+  ],
+  "subtype": "通行凭证 / 传承类",
+  "holder": "大骊境内修士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "阮邛",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "集齐五六枚不同符剑可补全一篇远古剑诀，是极佳的山门传承 。",
+  "supernatural_ability": "在大骊龙州地界御风飞行的通关文牒；内含远古剑诀，即便资质一般也能安稳修行 。",
+  "evolution": {
+    "current_form": "龙泉剑宗铸造的小巧符剑样式 。",
+    "materials_consumed": [
+      "斩龙台残余"
+    ],
+    "potential_evolution": "补全后可支撑起一座剑道宗门的大道根基 。"
+  },
+  "visual": {
+    "static": "质地质朴，雕工粗格，一面刻有龙泉剑宗信物字样 。",
+    "active": "悬佩腰间可避开大骊州县的御风禁制 。"
+  },
+  "provenance": {
+    "origin": "大骊首席供奉阮邛在龙泉郡立下的规矩 。",
+    "karma_link": "由老观主点破其潜藏远古剑诀的秘密 。"
+  },
+  "enriched": true
+}

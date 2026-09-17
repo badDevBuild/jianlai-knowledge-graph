@@ -1,0 +1,50 @@
+{
+  "name": "白牛衔灵芝玉雕",
+  "original_name": "白玉灵芝",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "九真仙馆馆主云杪的成名法宝，因其弟子得罪陈平安而作为“买命钱”被强行索取 。此物内藏玄妙身法，是陈平安在中土神洲行走时的重要底牌之一 。",
+  "aliases": [
+    "玉雕摆件"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第281章 天真",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第403章 拜访",
+      "owner": "谢谢"
+    }
+  ],
+  "subtype": "辅助类 / 身法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云杪",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为九真仙馆的镇派重宝，承载了极高的道门气运，有望在功德浸染下升格为仙兵 。",
+  "supernatural_ability": "“云水身”。持有者可借此施展九真仙馆秘传身法，如水过竹林、云行山间，了无痕迹 。",
+  "evolution": {
+    "current_form": "通体莹澈、带有“千年无瑕”铭文的白玉灵芝 。",
+    "materials_consumed": [
+      "万年玉精",
+      "仙人道韵"
+    ],
+    "potential_evolution": "可配合“水精境界”演化为独立的小天地阵法 。"
+  },
+  "visual": {
+    "static": "玉质温润，散发着柔和的五彩流光，铭刻有“百世芝兰幽香之家”等字样 。",
+    "active": "使用时灵气氤氲，持有者周身会出现云雾缭绕的幻象，身形变得飘忽不定 。"
+  },
+  "provenance": {
+    "origin": "出自中土神洲大雍王朝的九真仙馆 。",
+    "karma_link": "由仙人云杪在鸳鸯渚斗法后作为赔罪礼交给陈平安 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "鎏金香薰",
+  "original_name": "珊瑚材质咫尺物",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这件咫尺物表面上是名贵的奢靡之物，实则是顶级的空间法宝，其内部的“歇龙石”将成为落魄山未来极 其重要的道场基础 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1180章 再出山",
+      "owner": "陈平安 (打算送给箜篌)"
+    }
+  ],
+  "subtype": "空间类",
+  "holder": "陈平安 / 箜篌 (预定)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为由岁除宫宫主亲自除去禁制的重宝，其内部空间极大且可供高级修士精研阵法 。",
+  "supernatural_ability": "“空间纳藏”。内部自成一方广阔天地，现已被用来搁置同样巨大的“歇龙石” 。",
+  "evolution": {
+    "current_form": "珊瑚材质的一只鎏金香薰球，具有官宦仕女闺阁之物的精致外表 。",
+    "materials_consumed": [
+      "远古珊瑚",
+      "空间禁制"
+    ],
+    "potential_evolution": "陈平安计划为其重新设置三十六道禁制，以精研炼物之道 。"
+  },
+  "visual": {
+    "static": "珊瑚质地的香薰球，表面鎏金，工艺极尽繁琐华丽，好似寻常玩物 。",
+    "active": "开启时可容纳整座山岳般的歇龙石，散发出浓郁的仙家阵法气息 。"
+  },
+  "provenance": {
+    "origin": "吴霜降在夜航船一役后作为“买卖小添头”赠予陈平安 。",
+    "karma_link": "未来将作为落魄山重要支脉“箜篌”一脉的法统发龙之地 。"
+  },
+  "enriched": true
+}

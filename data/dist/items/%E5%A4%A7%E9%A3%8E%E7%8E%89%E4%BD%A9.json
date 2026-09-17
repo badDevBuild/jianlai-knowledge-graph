@@ -1,0 +1,48 @@
+{
+  "name": "大风玉佩",
+  "original_name": "素白玉牌 / 咫尺物玉牌",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这块**素白玉牌**是陈平安最重要的空间法宝。它承载了陈平安在远游途中获得的大量珍稀物资，是其 “包袱斋”身份的物质基础 [13-15]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第377章 吃臭豆腐呦",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "郑大风",
+      "relation": "赠予者"
+    },
+    {
+      "name": "灵芝斋",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为顶级的“咫尺物”，其内部空间具有演化为微型洞天的巨大底蕴 。",
+  "supernatural_ability": "**须弥藏芥子**：拥有巨大且极其隐蔽的储物空间（如泥瓶巷祖宅大小），并能隔绝外界对内部宝物的 感应 。",
+  "evolution": {
+    "current_form": "一块质地细腻、素雅无纹、如绸缎般温润的素白玉牌 。",
+    "materials_consumed": [
+      "山根水精",
+      "陈平安的心神磨砺"
+    ],
+    "potential_evolution": "进一步炼化后可成为具备自我生息能力的“最小洞天” 。"
+  },
+  "visual": {
+    "static": "通体素白，无任何雕饰或铭文，手感温润，色泽莹澈 。",
+    "active": "开启时产生轻微的灵气涟漪，陈平安曾用飞剑“十五”在玉牌边缘刻下隐秘文字 。"
+  },
+  "provenance": {
+    "origin": "郑大风于老龙城灰尘药铺以此物偿还陈平安当年的救命之恩 。",
+    "karma_link": "见证了陈平安从单纯积攒家当到布局一座天下的心路历程 。"
+  },
+  "enriched": true
+}

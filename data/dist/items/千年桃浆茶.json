@@ -1,0 +1,43 @@
+{
+  "name": "千年桃浆茶",
+  "original_name": "桃浆仙酿",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗品",
+  "description": "这是神霄城的金字招牌，即便是白玉京内部的高层也以此招待贵客。晏琢曾为了赚钱而偷偷收集桃浆。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第512章 出剑与否",
+      "owner": "小玄都观"
+    }
+  ],
+  "subtype": "滋养类 / 补益类",
+  "holder": "神霄城 / 晏琢",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白玉京三掌教陆沉",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "取自神霄城千里桃林的精华，是修道之人可遇不可求的口腹之欲。",
+  "supernatural_ability": "不仅滋味极佳，且能大幅度裨益修士的气府灵气，有延年益寿之功。",
+  "evolution": {
+    "current_form": "粘稠莹润、香气扑鼻的仙家浆液。",
+    "materials_consumed": [
+      "千年古桃树精华"
+    ],
+    "potential_evolution": "可进一步酿造为更高品级的桃浆仙酒。"
+  },
+  "visual": {
+    "static": "通常存放在精致的瓷瓶或玉罐中，色泽如玉。",
+    "active": "开罐后异香扑鼻，灵气化作淡淡雾气萦绕。"
+  },
+  "provenance": {
+    "origin": "源自青冥天下白玉京神霄城的千年桃林。",
+    "karma_link": "陆沉曾许诺要在神霄城请陈平安喝一顿以此茶/酿为主的仙宴。"
+  },
+  "enriched": true
+}

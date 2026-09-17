@@ -1,0 +1,47 @@
+{
+  "name": "火熜",
+  "original_name": "老厨子手炉 / 贴身暖炉",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是落魄山标志性的生活雅物。对于身体“单薄”的仙尉 或是陆沉来说，这是最实在的人间温暖 。",
+  "aliases": [
+    "火熜"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第203章 酒鬼少年郎",
+      "owner": "顾粲娘亲"
+    }
+  ],
+  "subtype": "生活/滋养类",
+  "holder": "仙尉 / 陆沉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "朱敛",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "长期承载落魄山的烟火气，可演化为具备“不灭火种”意 境的灵器 。",
+  "supernatural_ability": "内部装载特制白炭，不仅能长效取暖，还能通过温热气 机平复修士的心猿意马 。",
+  "evolution": {
+    "current_form": "造型精致、质感温润的金属或陶瓷手炉 。",
+    "materials_consumed": [
+      "精铜/瓷泥",
+      "落魄山白炭",
+      "朱敛内力温养"
+    ],
+    "potential_evolution": "若能融入太阳宫的一缕真火，可升华为防御重器 。"
+  },
+  "visual": {
+    "static": "外表往往覆有精美的镂空罩子，散发出淡淡的木炭清香 。",
+    "active": "手捧之时，会有一股若有若无的暖意透入手心，通体舒 泰 。"
+  },
+  "provenance": {
+    "origin": "落魄山大管家朱敛在闲暇时为山中同门亲手打造 。",
+    "karma_link": "见证了落魄山成员之间超越主仆的家人温情，是“今日 无事”意境的载体 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,47 @@
+{
+  "name": "青色梅核",
+  "original_name": "杨梅树种",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是吴懿从紫阳府珍宝阁中挑选出的稀有树种，因其极高的实用价值与对山水灵气的裨益，被视为仙家 山头扎根立足的底蕴之物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第424章 御剑而去云海中",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养类 / 气运类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴懿",
+      "relation": "赠予者"
+    },
+    {
+      "name": "紫阳府",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为灵气饱满的仙家树种，具有演化为千年古木并镇压山头灵气的潜力 。",
+  "supernatural_ability": "埋入土中后，仅需一年时间即可长成千年高龄的杨梅树 。每逢二十四节气当天，树体可自行向四周散发精纯灵气 。",
+  "evolution": {
+    "current_form": "一颗灵气饱满的青色核果 。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "长成千年杨梅树后可作为仙家洞府的聚灵核心 。"
+  },
+  "visual": {
+    "static": "外表呈青色，质地坚实，内部蕴含着浓郁的生命气息与灵光 。",
+    "active": "入土生根后生长速度极快，成树后在节气时分可见灵气如雾霭般吞吐 。"
+  },
+  "provenance": {
+    "origin": "黄庭国紫阳府珍藏的灵物，曾被灵韵派老祖师觊觎 。",
+    "karma_link": "由紫阳府老祖吴懿作为落魄山开山贺礼赠予陈平安 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "红色戒尺",
+  "original_name": "山崖书院圣人戒尺",
+  "type": "重器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "茅小冬的标志性法宝，象征着“规矩”与“道理”，在处理大隋皇宫危机和保护学生时展现出恐怖的压制力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第170章 喝好酒的大宗师",
+      "owner": "茅小冬"
+    }
+  ],
+  "subtype": "压胜类 / 惩戒类",
+  "holder": "茅小冬",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文圣",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为书院圣人的本命物，承载着一国乃至一洲的礼法气运，杀力随儒家境界增长 。",
+  "supernatural_ability": "“矩步方圆”。戒尺一拍，可定天地规矩，压制法场内的灵气运转，使敌对修士如负重山 。",
+  "evolution": {
+    "current_form": "漆红如火的木质戒尺，常年悬挂于茅小冬腰间 。",
+    "materials_consumed": [
+      "大隋文庙文运",
+      "书院儒生浩然气"
+    ],
+    "potential_evolution": "可演化为支撑小天地秩序的“天条”法则 。"
+  },
+  "visual": {
+    "static": "样式古拙，色泽殷红，刻有密密麻麻的圣贤戒律 。",
+    "active": "挥动时如红色闪电，落笔处天地封禁，能轻易击碎地仙金身 。"
+  },
+  "provenance": {
+    "origin": "传自文圣一脉，是山崖书院作为儒家正统的象征 。",
+    "karma_link": "茅小冬以此戒尺教化大隋皇室，并为陈平安在大隋京城开辟出一条道理之路 。"
+  },
+  "enriched": true
+}

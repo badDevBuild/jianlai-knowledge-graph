@@ -1,0 +1,51 @@
+{
+  "name": "月宫镜",
+  "original_name": "巫山古镜",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是一件极具迷惑性的**阴属重宝**。它不仅是女修们渴望的美容灵器，更是能让敌对修士在不知不觉 中迷失道心的危险法具 。",
+  "aliases": [
+    "青崖(古镜)",
+    "青崖"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第852章 大概",
+      "owner": "老观主 (交易所得)"
+    },
+    {
+      "chapter": "第1059章 凝眸处最痴绝",
+      "owner": "碧霄洞主(暂有)"
+    }
+  ],
+  "subtype": "幻境类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "剥落山避暑娘娘",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为承载远古月宫气息的器物，具备演化为一座真实“广寒秘境”的潜力 。",
+  "supernatural_ability": "“虚实转换”。能够作为一处旖旎香艳或道法玄妙的**云雨秘境**入口，亦可作为遮蔽天机的法器 。",
+  "evolution": {
+    "current_form": "古铜材质的梳妆镜，背面刻有“巫山”二字 。",
+    "materials_consumed": [
+      "月魄精华",
+      "神仙钱灵气"
+    ],
+    "potential_evolution": "若由仙人境修士大炼，可化为一座困人的月下牢笼 。"
+  },
+  "visual": {
+    "static": "造型精巧，镜面由于吸收了大量月华，常年散发出幽冷且迷离的微光 。",
+    "active": "激发时会产生镜花水月般的景象，甚至能让修士的神魂陷入预设的幻境中 。"
+  },
+  "provenance": {
+    "origin": "陈平安在鬼蜮谷剥落山宝库中搜刮所得，曾是月宫种大妖的珍藏 。",
+    "karma_link": "见证了陈平安在蛮荒天下“见好就收”的包袱斋本色 。"
+  },
+  "enriched": true
+}

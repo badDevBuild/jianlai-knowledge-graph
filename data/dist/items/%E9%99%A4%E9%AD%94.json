@@ -1,0 +1,61 @@
+{
+  "name": "除魔",
+  "original_name": "槐木剑",
+  "type": "其他",
+  "grade": "兵器",
+  "status": "活跃",
+  "description": "陈平安为自己取名的木剑，与“降妖”配套 。虽然由于材质关系在武夫眼中分量太轻，但它作为诸多灵体的寄居之所，具有特殊的意义 。",
+  "aliases": [
+    "槐木剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第203章 酒鬼少年郎",
+      "owner": "陈平安(预想)"
+    },
+    {
+      "chapter": "第226章 匣有两剑，降妖除魔",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第262章 一叶扁舟，翩翩少年",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第270章 好久不见，宁姑娘",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第278章 武无第二，拳高天外",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类 / 寄托类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为陈平安早期修心的重要寄托，具备压胜阴物的潜力 。",
+  "supernatural_ability": "作为“槐宅”可供阴物和香火小人栖息，滋养魂魄 。",
+  "evolution": {
+    "current_form": "由家乡老槐木削成的木剑 。",
+    "materials_consumed": [
+      "老槐木"
+    ],
+    "potential_evolution": "无 。"
+  },
+  "visual": {
+    "static": "质地较轻，色泽古朴，常斜放在背篓中 。",
+    "active": "在沙场战阵上曾拔出过一次，因其材质对鬼魅妖邪有天然克制 。"
+  },
+  "provenance": {
+    "origin": "由陈平安让李宝瓶从家乡被砍倒的老槐树上截取槐枝制成 。",
+    "karma_link": "见证了陈平安从泥腿子走向剑客的历程，承载了小镇槐荫的因果 。"
+  },
+  "enriched": true
+}

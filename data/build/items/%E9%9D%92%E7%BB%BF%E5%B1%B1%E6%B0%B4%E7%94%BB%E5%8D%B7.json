@@ -1,0 +1,44 @@
+{
+  "name": "青绿山水画卷",
+  "original_name": "青绿山水画卷",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这幅画卷原是大妖竹节的得意之作，具备窃取天地造化的神通 。虽然在经历大战后受损严重，轴杆裂开且画面漫漶，但其内藏的法则真意仍对练气士极具吸引力 。陈平安计划将其安置在山祠中，作为构建落魄山底蕴的重要重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第621章 学剑",
+      "owner": "蛮荒天下大妖 (女)"
+    }
+  ],
+  "subtype": "镇压类 / 空间类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "离真 / 竹节",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "通过后续修复和文运温养，有潜力恢复至半仙兵品秩 。",
+  "supernatural_ability": "能够以笔墨窃取山水，将真实的山河腾挪收入画中 。合上卷轴后，足以挤压、碾杀画卷内的一切生灵 。",
+  "evolution": {
+    "current_form": "古木轴杆裂开、画面残破的陈旧卷轴 。",
+    "materials_consumed": [
+      "山水气数",
+      "灵秀精华"
+    ],
+    "potential_evolution": "可作为落魄山护山大阵的枢纽，甚至演化为一方独立的小天地 。"
+  },
+  "visual": {
+    "static": "一幅气象苍茫的青绿山水卷轴，画卷内山脉起伏，亭台楼阁纤毫毕现 。",
+    "active": "展开时如同一座真实的福地，其中的花草树木、飞禽走兽皆化为活物 。"
+  },
+  "provenance": {
+    "origin": "蛮荒大妖竹节采集山河精气炼化而成 。",
+    "karma_link": "陈平安在战场上斩杀离真后，作为战利品将其捡漏获得 。"
+  },
+  "enriched": true
+}

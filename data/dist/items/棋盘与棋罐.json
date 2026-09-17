@@ -1,0 +1,48 @@
+{
+  "name": "棋盘与棋罐",
+  "original_name": "彩云子",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这套**棋盘与棋罐**不仅是弈棋之物，更是极其罕见的修行利器。通过极端的寒热转换来磨砺修士意志 ，是白帝城一脉事功学问的体现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第591章 宁姚出剑会如何",
+      "owner": "林君璧"
+    }
+  ],
+  "subtype": "阵法类 / 磨砺类",
+  "holder": "林君璧",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白帝城郑居中",
+      "relation": "原主"
+    },
+    {
+      "name": "远古对弈枯骨",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "蕴含白帝城深奥的术算推演之法，具备演化为顶尖围困阵法的潜力 。",
+  "supernatural_ability": "棋盘纵横十七道，是绝佳的修心工具；白子滚烫如火灼烧魂魄，黑子冰冷刺骨冻结灵气 。",
+  "evolution": {
+    "current_form": "刻有十七道纹路的石棋盘与两只青瓷棋罐 。",
+    "materials_consumed": [
+      "天地灵气",
+      "心神之力"
+    ],
+    "potential_evolution": "可作为阵眼，在方寸间锁死一方天地的光阴流转 。"
+  },
+  "visual": {
+    "static": "棋罐铭刻“神灵护持、天心庇护”等语；棋子圆润如玉，黑子中心带绿光环，白子泛淡金光 。",
+    "active": "对弈落子时剑气纵横，不同棋子间产生的气机涟漪如水纹激荡 。"
+  },
+  "provenance": {
+    "origin": "得自白帝城收藏，后经远古仙人遗址流转至林君璧手中 。",
+    "karma_link": "陈平安曾在北俱芦洲记录其上的古老残局 。"
+  },
+  "enriched": true
+}

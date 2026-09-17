@@ -1,0 +1,52 @@
+{
+  "name": "道簪",
+  "original_name": "远古道簪",
+  "type": "灵器",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "这根道簪曾是蛮荒天下最高城池仙簪城的根基所在，它 是远古第一位道士的随身之物，承载着极高的道法法统 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第886章 有事相求",
+      "owner": "归灵湘(捡取)"
+    },
+    {
+      "chapter": "第1039章 醉里挑灯看剑",
+      "owner": "仙尉"
+    }
+  ],
+  "subtype": "空间/道场类",
+  "holder": "仙尉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古第一位道士",
+      "relation": "原主"
+    },
+    {
+      "name": "归灵湘",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为仙簪城的根基，其道韵可随着持有者境界提升而演 化出更强的禁制力量 。",
+  "supernatural_ability": "曾显化为蛮荒天下第一高城“仙簪城” , 。",
+  "evolution": {
+    "current_form": "落魄山看门道士仙尉头上别着的普通木簪 。",
+    "materials_consumed": [
+      "远古神性",
+      "仙人余晖"
+    ],
+    "potential_evolution": "若能重新炼化，可再次显化出一座完整的修道高城 。"
+  },
+  "visual": {
+    "static": "外表平平无奇的木质道簪 。",
+    "active": "在特定的天时地利下，隐约散发出镇压一城、高与天齐 的宏大意境 。"
+  },
+  "provenance": {
+    "origin": "源自远古第一位道士，后遗落人间 。",
+    "karma_link": "见证了仙簪城的崛起与衰落，最终由落魄山收容 , 。"
+  },
+  "enriched": true
+}

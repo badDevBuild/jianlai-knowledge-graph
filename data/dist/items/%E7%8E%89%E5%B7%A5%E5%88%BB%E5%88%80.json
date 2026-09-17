@@ -1,0 +1,48 @@
+{
+  "name": "玉工刻刀",
+  "original_name": "穗山断剑刻刀",
+  "type": "匠器",
+  "grade": "工具",
+  "status": "活跃",
+  "description": "这是**陈平安从事“印章买卖”的核心工具**。它不仅是 他在剑气长城挣钱的利器，更是他磨砺心性、以金石铭 刻道心的物化载体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第138章 拔河",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文房/炼物类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土西岳 (穗山)",
+      "relation": "原主"
+    },
+    {
+      "name": "老秀才",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "取材自上古西岳剑胚，具备切割天下一切顽石与金石的 锋芒 。",
+  "supernatural_ability": "能够无视材质的禁制进行精细雕琢，且在篆刻时能将持 有者的心意与道意完美融入印章之中 。",
+  "evolution": {
+    "current_form": "一截断剑剑尖，陈平安以双指握住使用 。",
+    "materials_consumed": [
+      "上古剑意",
+      "穗山金气"
+    ],
+    "potential_evolution": "可重塑为完整的“西岳仙剑” 。"
+  },
+  "visual": {
+    "static": "锈迹斑斑，看似平凡，实则沉重异常，散发出极强的金 石声响 。",
+    "active": "下刀时剑气纵横，能产生一种“如切如磋”的道韵共鸣 。"
+  },
+  "provenance": {
+    "origin": "老秀才从穗山之巅“顺手”带回的剑胚残片 。",
+    "karma_link": "陈平安凭借此刀在避暑行宫和落魄山篆刻百余方印章， 结下了深厚的“文字缘” 。"
+  },
+  "enriched": true
+}

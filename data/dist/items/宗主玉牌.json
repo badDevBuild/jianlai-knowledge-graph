@@ -1,0 +1,38 @@
+{
+  "name": "宗主玉牌",
+  "original_name": "青萍剑宗宗主玉牌",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "损毁",
+  "description": "这是**青萍剑宗宗主的合法身份证明**。它不仅代表了 权柄，更承载了剑气长城遗志在浩然天下的新延续 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1187章 接剑于十四",
+      "owner": "齐廷济 (已碎)"
+    }
+  ],
+  "subtype": "身份/信物类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为下宗法统的象征，承载了青萍剑宗全宗的开山气运 。",
+  "supernatural_ability": "作为宗门正统凭证，可调动下宗所有山水阵法与资源 。",
+  "evolution": {
+    "current_form": "由邵云岩亲手打造的崭新玉牌 。",
+    "materials_consumed": [
+      "上乘仙玉",
+      "宗门道气"
+    ],
+    "potential_evolution": "随着宗门跻身上宗，可演化为具有镇压一洲文武气运的 符玺 。"
+  },
+  "visual": {
+    "static": "质地温润，刻有青萍剑宗标志，散发出淡淡的剑道清气 。",
+    "active": "动用权柄时，玉牌会引发整座仙都山的剑鸣共振 。"
+  },
+  "provenance": {
+    "origin": "在陈平安筹建落魄山下宗青萍剑宗时，由邵云岩负责督 造 。",
+    "karma_link": "象征着陈平安作为“东道主”重塑桐叶洲山河秩序的开始 。"
+  },
+  "enriched": true
+}

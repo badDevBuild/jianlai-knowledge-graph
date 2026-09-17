@@ -1,0 +1,44 @@
+{
+  "name": "白螺杯",
+  "original_name": "白螺",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**与酒泉杯齐名的山上珍稀酒杯** 。它不仅是绝佳的文房雅玩，更是一处可供微缩修行的**天然小道场** 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第741章 我那陈道友",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "陆台",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "袁灵殿",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为月宫旧藏，对水属与月魄修行有极大加持。",
+  "supernatural_ability": "能够自动凝聚天地间的月魄精华，将其化为滋养神魂的仙酿 。",
+  "evolution": {
+    "current_form": "色泽如玉的螺旋状瓷杯 。",
+    "materials_consumed": [
+      "月华精华",
+      "上古瓷泥"
+    ],
+    "potential_evolution": "若能与“酒泉杯”合璧，可成为掌管人间酒醋之道的重器。"
+  },
+  "visual": {
+    "static": "洁白无瑕，质地如同温润的白螺，散发柔和的宝光 。",
+    "active": "饮酒时杯中会浮现出明月异象，清凉之气沁人心脾 。"
+  },
+  "provenance": {
+    "origin": "得自北俱芦洲指玄峰袁灵殿的馈赠 。",
+    "karma_link": "与酒泉杯并列为山上十大雅物，是陆台风流姿态的象征 。"
+  },
+  "enriched": true
+}

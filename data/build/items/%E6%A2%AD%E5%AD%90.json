@@ -1,0 +1,48 @@
+{
+  "name": "梭子",
+  "original_name": "五雷院梭子",
+  "type": "法宝",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "此梭并非寻常织布之物，而是蕴含了**光阴箭矢**之意的雷部神物。它代表了郑大风重返浩然天下的** 唯一捷径**，也是他多年隐忍后得以改命的关键 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第993章 山中多美好",
+      "owner": "郑大风"
+    }
+  ],
+  "subtype": "位移类 / 辅助类",
+  "holder": "郑大风",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "赠予者"
+    },
+    {
+      "name": "上古散仙",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为远古雷部重器，具备干预阴阳、甚至**跨越天堑**的极致上限 。",
+  "supernatural_ability": "能够无视大道规矩的约束，帮助持有者**随意穿梭光阴长河**，亦可用于驱山移湖、升降阴阳 。",
+  "evolution": {
+    "current_form": "一枚看似平常、质地朴拙的枣核形状梭子 。",
+    "materials_consumed": [
+      "雷电真意",
+      "纯粹灵气"
+    ],
+    "potential_evolution": "其材质极度稀罕，若由大修士仿制，可成为**逆转天机**的终极符印 。"
+  },
+  "visual": {
+    "static": "形若枣核，手指长短，表面布有细微的木质纹理 。",
+    "active": "灌入灵气后，纹理内有**虹光闪烁**，如白驹过隙，可见雪白马驹在光影间穿梭 。"
+  },
+  "provenance": {
+    "origin": "源于远古雷部**五雷院**，曾由散仙于雷泽之中捞起 。",
+    "karma_link": "是杨老头为郑大风定下的“还乡”路径中最重要的信物 。"
+  },
+  "enriched": true
+}

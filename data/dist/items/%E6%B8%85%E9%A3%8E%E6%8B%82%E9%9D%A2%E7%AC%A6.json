@@ -1,0 +1,38 @@
+{
+  "name": "清风拂面符",
+  "original_name": "拂面符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "清风拂面符代表了《剑来》世界中**生活化修行**的一面，虽无杀力却 显风流 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第271章 宁姑娘，对不起",
+      "owner": "小道童"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "陆沉 / 陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "旨在调理气场，缓解燥热，是山上名士的消暑雅物 。",
+  "supernatural_ability": "产生一阵清爽的凉风，能平复修士的躁动气机，保持身心清爽 。",
+  "evolution": {
+    "current_form": "轻薄的纸质符箓 。",
+    "materials_consumed": [
+      "薄翼纸",
+      "风属灵气"
+    ],
+    "potential_evolution": "可演化为稳固小天地气候的阵法枢纽。"
+  },
+  "visual": {
+    "static": "质地极薄，随风飘动，隐约有青色线条流转 。",
+    "active": "激发后化作微风围绕周身，散发草木清香 。"
+  },
+  "provenance": {
+    "origin": "出自道门各支脉，多用于日常纳凉与礼仪场合 。",
+    "karma_link": "反映了陆沉随性而为的修行态度，以及陈平安对“伟大日常”的记录 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "天绳缚鬼神",
+  "original_name": "捉剑术",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一门极为罕见的**针对剑修的杀手锏**。它将术法具象化为绳索，专门克制剑气的锋芒，是山上公 认的难缠神通 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第793章 很绣虎",
+      "owner": "云杪"
+    }
+  ],
+  "subtype": "禁锢类 / 攻击类",
+  "holder": "云杪",
+  "holder_relation": "掌握",
+  "previous_holders": [
+    {
+      "name": "九真仙馆飞升境祖师",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为九真仙馆立身之本的秘传神通，曾让无数剑仙吃过苦头 。",
+  "supernatural_ability": "能够以**五色绳索**禁锢并缉拿飞剑，甚至可以强行炼化敌方飞剑的神魂，打碎其剑心 。",
+  "evolution": {
+    "current_form": "由紫烟凝成的五色绳索 。",
+    "materials_consumed": [
+      "仙家紫烟",
+      "本门秘传捉剑诀"
+    ],
+    "potential_evolution": "若能配合仙兵级宝镜，可实现“法天象地”级别的禁锢效果 。"
+  },
+  "visual": {
+    "static": "平时为修士腹中或袖中的一缕淡紫色烟霭 。",
+    "active": "化作一条五彩绚烂的绳索，伴随着异象生灭，死死缠绕并压制飞剑的灵性 。"
+  },
+  "provenance": {
+    "origin": "九真仙馆祖传神通，由飞升境祖师亲自炼造 。",
+    "karma_link": "云杪在战斗中试图以此术捉取陈平安的本命飞剑 。"
+  },
+  "enriched": true
+}

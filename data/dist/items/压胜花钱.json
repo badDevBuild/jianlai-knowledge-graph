@@ -1,0 +1,44 @@
+{
+  "name": "压胜花钱",
+  "original_name": "天师斩鬼压胜花钱",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这不仅是具备极高审美价值的艺术品，更是山上公认的“开门货”和“尖货” 。它代表了道门正宗对邪祟的绝对压制，也是衡量一家仙家店铺底蕴的标志 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第543章 眼中万少年",
+      "owner": "白璧"
+    }
+  ],
+  "subtype": "压胜类 / 攻伐类",
+  "holder": "洪扬波 (青蚨坊掌柜)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "皑皑洲刘氏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为天师府渊源的重器，具备极强的神道压胜之力，是斩妖除魔的顶级消耗品 。",
+  "supernatural_ability": "一套四枚，分别对应雷公、电母、雨师、火君 。祭出后可引动天威雷火，天然压胜一切山精水怪与阴冥鬼物 。",
+  "evolution": {
+    "current_form": "四枚一套的青铜大钱，正面为神像，背面为咒文 。",
+    "materials_consumed": [
+      "雷电精华",
+      "神道愿力"
+    ],
+    "potential_evolution": "若能配合天师印使用，威能可直逼半仙兵。"
+  },
+  "visual": {
+    "static": "质地古朴，铜色内敛，手感沉重，散发出阵阵如冬雪般的清凉寒气 。",
+    "active": "激活时金光万丈，雷鸣电闪，仿佛四尊远古神灵亲临人间 。"
+  },
+  "provenance": {
+    "origin": "流传自皑皑洲的珍贵古物，后被北俱芦洲地龙山青蚨坊收藏 。",
+    "karma_link": "曾有朱荧王朝皇室子弟重金求购而不得，被洪扬波视为镇店之宝 。"
+  },
+  "enriched": true
+}

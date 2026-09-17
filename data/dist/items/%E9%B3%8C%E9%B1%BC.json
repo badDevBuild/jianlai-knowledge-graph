@@ -1,0 +1,38 @@
+{
+  "name": "鳌鱼",
+  "original_name": "鳌鱼",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "仙人境米祜的本命飞剑。它的独到之处在于不直接杀敌，而是通过改变战场地形来掌控战局 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第617章 谁能与宁姚般配",
+      "owner": "米祜"
+    }
+  ],
+  "subtype": "攻伐类 / 阵法类",
+  "holder": "米祜",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "仙人境剑修本命飞剑，在改变地形和大规模阻滞上有独特优势 。",
+  "supernatural_ability": "离开城头后直接没入大地，在战场上撕裂出一条条沟壑，负责阻滞妖族推进势头 。",
+  "evolution": {
+    "current_form": "入地开壑的飞剑 。",
+    "materials_consumed": [
+      "地脉精气",
+      "剑意"
+    ],
+    "potential_evolution": "配合其弟米裕的“霞满天”，可将沟壑变为熔炼妖族的死亡陷阱 。"
+  },
+  "visual": {
+    "static": "厚重且充满地气的飞剑 。",
+    "active": "在大地中穿行，所过之处土石崩裂，生成深邃沟壑 。"
+  },
+  "provenance": {
+    "origin": "米祜本命孕育 。",
+    "karma_link": "米家兄弟合击战法的核心 。"
+  },
+  "enriched": true
+}

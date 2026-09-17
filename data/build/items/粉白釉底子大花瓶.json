@@ -1,0 +1,50 @@
+{
+  "name": "粉白釉底子大花瓶",
+  "original_name": "龙窑官窑大立件",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "看似普通的古董大花瓶，实则隐藏着陈平安最重要的灵 魂碎片，是破开大骊宫廷迷雾的关键物证 。",
+  "aliases": [
+    "大花瓶"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第829章 家乡廊桥的旧人旧事",
+      "owner": "客栈掌柜"
+    }
+  ],
+  "subtype": "因果/容器类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊太后 (南簪)",
+      "relation": "曾持有"
+    },
+    {
+      "name": "客栈掌柜",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "破碎后显露的文字可凝聚为十四境合道的关键契机 。",
+  "supernatural_ability": "瓶底刻有八字吉语“青苍幽远，其夏独冥”，能通过此语 锁定特定神魂气息 。",
+  "evolution": {
+    "current_form": "一个绘有人物、体型巨大的瓷质花瓶 。",
+    "materials_consumed": [
+      "龙窑紫金土",
+      "本命碎瓷"
+    ],
+    "potential_evolution": "击碎后可化为一盏指引“本我”的本命灯 。"
+  },
+  "visual": {
+    "static": "釉色粉白细腻，造型庄重，底款字迹奇异 。",
+    "active": "被陈平安拍碎后，八个文字会脱离瓷片，幻化为燃烧的 本命灯火 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天某口龙窑烧造的官窑器 。",
+    "karma_link": "涉及陈平安丢失的本命瓷碎片与大骊太后的隐秘根脚 。"
+  },
+  "enriched": true
+}

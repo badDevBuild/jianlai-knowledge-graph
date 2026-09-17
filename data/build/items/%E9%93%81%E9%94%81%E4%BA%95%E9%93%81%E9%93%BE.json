@@ -1,0 +1,48 @@
+{
+  "name": "铁锁井铁链",
+  "original_name": "锁龙索 / 斩龙索",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是曾经垂挂在骊珠洞天铁锁井中、禁锢真龙万年的锁链。它被姜韫视为生平最大的机缘，一旦完全施 展，对一切蛟龙后裔具有天然的血脉与位阶压制 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第374章 他乡遇故知",
+      "owner": "魁梧青年"
+    }
+  ],
+  "subtype": "禁锢类 / 防御类",
+  "holder": "姜韫",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生（布置者）",
+      "relation": "原主"
+    },
+    {
+      "name": "骊珠洞天铁锁井",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "在解开所有秘术禁制前已是半仙兵，若能重塑神性，可升格为斩龙索 。",
+  "supernatural_ability": "天生压胜、禁锢蛟龙之属。若化为斩龙索，可瞬间对蛟龙剥皮抽筋 。",
+  "evolution": {
+    "current_form": "缠绕在姜韫腰间的一根粗壮铁链 。",
+    "materials_consumed": [
+      "真龙气运",
+      "神灵遗物"
+    ],
+    "potential_evolution": "有望进化为完整的“斩龙索”，对天下水族具有绝对威慑 。"
+  },
+  "visual": {
+    "static": "外表是锈迹斑斑、平平无奇的沉重铁链 。",
+    "active": "激发后金光灿烂，不仅是一件攻守兼备的重宝，还能将人身小天地淬炼为“莹澈道场” 。"
+  },
+  "provenance": {
+    "origin": "由三山九侯先生在骊珠洞天设置，用以束缚最后一条真龙 。",
+    "karma_link": "被云林姜氏子弟姜韫在洞天坠地前取走并炼化为本命物 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,45 @@
+{
+  "name": "金桂挂月图",
+  "original_name": "博古柜镶嵌图",
+  "type": "其他",
+  "grade": "宝物",
+  "status": "活跃",
+  "description": "看似寻常的家具装饰，实则是以珍贵的蛇胆石精制而成的灵物 。它象征着骊珠洞天平凡物中的不平凡，是宁姚在小镇初期极其重视的器物之一 。",
+  "aliases": [
+    "金桂挂月图"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第28章 财迷",
+      "owner": "刘羡阳"
+    }
+  ],
+  "subtype": "收藏类 / 工艺类",
+  "holder": "刘羡阳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘氏先祖",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由于使用了大量珍稀的蛇胆石，具备通过香火浸染演化为真实月宫秘境的潜力 。",
+  "supernatural_ability": "“聚气藏风”。能够潜移默化地汇聚周边灵气，保护柜中之物不受岁月侵蚀，并对靠近的邪祟有微弱压制 效果 。",
+  "evolution": {
+    "current_form": "镶嵌在老旧博古柜后壁的一幅图案，描绘金桂圆月 。",
+    "materials_consumed": [
+      "金黄色蛇胆石"
+    ],
+    "potential_evolution": "可剥离重塑为一方独立的山水屏风或秘境入口 。"
+  },
+  "visual": {
+    "static": "以碾碎的金色石子粘合而成，色泽金亮，树影婆娑，意境幽远 。",
+    "active": "在月光照耀下会泛起淡淡的金色光辉，仿佛月中桂树正在摇曳 。"
+  },
+  "provenance": {
+    "origin": "刘羡阳祖上传下的老物件，材质取自小镇溪滩里的蛇胆石 。",
+    "karma_link": "宁姚一眼看出此物不凡，甚至愿意用重宝交换，揭示了蛇胆石被埋没的珍稀价值 。"
+  },
+  "enriched": true
+}

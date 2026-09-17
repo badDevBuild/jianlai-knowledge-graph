@@ -1,0 +1,48 @@
+{
+  "name": "桂枝",
+  "original_name": "月宫种桂枝",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是桂花岛祖宗桂树上劈折下来的珍稀之物，被视为月宫遗留的仙种 。裴钱将其存放在多宝盒内，视为最重要的家当之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第405章 山巅斗法",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "气运滋养类",
+  "holder": "裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "桂夫人",
+      "relation": "赠予者"
+    },
+    {
+      "name": "老龙城范氏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "源自月宫种老桂树，具有生长为参天神木、稳固山水气运的潜力 。",
+  "supernatural_ability": "虽已折断离树，但香气万年不减，且金色桂子永不脱落 。",
+  "evolution": {
+    "current_form": "手指长短、结满金色桂子的青绿枝条 。",
+    "materials_consumed": [
+      "月魄精华",
+      "山水灵气"
+    ],
+    "potential_evolution": "若能种入灵土，有望长成一棵具有极大文运反馈的神木 。"
+  },
+  "visual": {
+    "static": "枝条晶莹剔透，色泽青翠，挂满如黄金般的小粒桂子 。",
+    "active": "散发出清新芬芳的气息，能让周围环境变得灵气盎然 。"
+  },
+  "provenance": {
+    "origin": "老龙城桂花岛上的祖宗桂树 。",
+    "karma_link": "桂夫人喜爱裴钱，将其作为压岁钱礼物的一部分赠送 。"
+  },
+  "enriched": true
+}

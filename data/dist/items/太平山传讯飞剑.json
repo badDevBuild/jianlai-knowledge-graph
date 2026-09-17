@@ -1,0 +1,44 @@
+{
+  "name": "太平山传讯飞剑",
+  "original_name": "太平山祖师堂飞剑",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是太平山规格最高的传讯法宝，即便宗门一度覆灭，其飞剑上蕴含的法统气势依旧能让中土神洲的修 士感到震慑 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第439章 于不练剑时磨剑",
+      "owner": "太平山"
+    }
+  ],
+  "subtype": "传讯/辅助类",
+  "holder": "黄庭",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "太平山祖师堂",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "承载着太平山的宗门底蕴，其速度与距离可随持有者境界提升",
+  "supernatural_ability": "可往返十万里而不受元婴境地仙截夺",
+  "evolution": {
+    "current_form": "刻有“太平山”与“祖师堂”字样的精巧飞剑",
+    "materials_consumed": [
+      "天材地宝",
+      "剑气"
+    ],
+    "potential_evolution": "作为宗门法统载体，其气韵与宗门兴衰息息相关"
+  },
+  "visual": {
+    "static": "剑身两侧各有古篆刻字，灵光内敛",
+    "active": "飞行时化作一条纤细雪白的长线，速度快若奔雷"
+  },
+  "provenance": {
+    "origin": "桐叶洲太平山祖师堂秘制",
+    "karma_link": "是太平山向外界传递重要讯息与维持山门规矩的象征"
+  },
+  "enriched": true
+}

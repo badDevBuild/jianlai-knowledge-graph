@@ -1,0 +1,45 @@
+{
+  "name": "电掣",
+  "original_name": "掣电 (古砚)",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是挂砚神女随身携带的重宝，曾是远古雷部用来清洗兵器的“洗剑池”浓缩而成。它不仅是文房清供， 更是杀力极大的雷法法宝 。",
+  "aliases": [
+    "电掣"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第213章 憧憬",
+      "owner": "女子剑修"
+    }
+  ],
+  "subtype": "雷法类 / 文房类",
+  "holder": "挂砚神女 (由林江仙护持)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古雷部神将",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为远古雷部重器，其内蕴雷池可随持有人道法提升而不断拓宽 。",
+  "supernatural_ability": "“雷池墨汁”。砚内盛放一座雷池，电浆浓稠如金色墨汁，可接引云海雷电 。",
+  "evolution": {
+    "current_form": "一方篆刻有“掣电”的小巧古砚 。",
+    "materials_consumed": [
+      "远古雷电真意"
+    ],
+    "potential_evolution": "可演化为支撑天劫威力的雷部核心枢纽 。"
+  },
+  "visual": {
+    "static": "形制小巧古朴，砚身刻有特殊符文，透着丝丝寒意 。",
+    "active": "祭出时可吞噬云海，收拢雷电，砚池内金光流溢，声如雷鸣 。"
+  },
+  "provenance": {
+    "origin": "源自远古雷部一府两院三司中的五雷院 。",
+    "karma_link": "与林江仙及剑气长城祭官脉络相关，是远古行刑台遗泽之一 。"
+  },
+  "enriched": true
+}

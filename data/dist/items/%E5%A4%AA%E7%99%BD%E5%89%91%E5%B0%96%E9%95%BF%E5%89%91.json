@@ -1,0 +1,51 @@
+{
+  "name": "太白剑尖长剑",
+  "original_name": "太白剑尖 / 碎剑",
+  "type": "仙剑",
+  "grade": "仙剑",
+  "status": "活跃",
+  "description": "陈平安的核心战力之一，不仅继承了白也的无双锋芒， 还因龙君灰袍的束缚，具备了极强的隐蔽性与杀伤力 。",
+  "aliases": [
+    "太白剑尖"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第760章 不对",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "白也",
+      "relation": "原主"
+    },
+    {
+      "name": "大玄都观",
+      "relation": "出借者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为仙剑太白杀力最大的一截，具备跻身顶尖仙兵并重 塑完整的潜力 。",
+  "supernatural_ability": "杀力高出天外，能压制神性，一剑破万法，剑气如长虹 贯日 。",
+  "evolution": {
+    "current_form": "以太白剑尖为刃，龙君灰袍残余为鞘 。",
+    "materials_consumed": [
+      "太白剑尖",
+      "龙君灰袍残余",
+      "金精铜钱"
+    ],
+    "potential_evolution": "与太白剑身及其余残片合龙，重现白也“诗无敌”之势 。"
+  },
+  "visual": {
+    "static": "剑身雪亮，被灰色破棉布紧密包裹，气息深沉内敛 。",
+    "active": "出鞘时剑气冲霄，光芒如烈日破云，照彻十方 。"
+  },
+  "provenance": {
+    "origin": "白也扶摇洲战后仙剑太白碎裂，剑尖坠落于倒悬山遗址 。",
+    "karma_link": "白也与陈平安之间的大道薪火承袭。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "漆黑蛟皮鞘长剑",
+  "original_name": "漆黑蛟皮鞘长剑",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一把被蛮荒大妖谢狗（白景）一眼看破根脚的古剑 。它不仅是一件锋利的兵器，更承载了远古时代的铸剑传承，持有者通过此剑展现出远超同境修士的 沉稳气象 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1132章 为何就山，可问春风",
+      "owner": "邓剑枰"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "木讷青年（青同部属）",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为极具年头的古老物件，具备被飞升境大妖青同重用的潜力 。",
+  "supernatural_ability": "剑气凝练，带有某种返璞归真的大道韵味 。",
+  "evolution": {
+    "current_form": "横放于酒桌之上的长剑，配有漆黑蛟皮剑鞘 。",
+    "materials_consumed": [
+      "蛟龙之皮",
+      "古法铸剑工艺"
+    ],
+    "potential_evolution": "若能完全激发其蕴含的古老剑意，可作为震慑一方战场的重器 。"
+  },
+  "visual": {
+    "static": "剑鞘由漆黑蛟皮制成，质感冷冽，透着一股目中无人的孤傲气势 。",
+    "active": "即便未出鞘，其道气亦会凝聚成无形的旗帜意象 。"
+  },
+  "provenance": {
+    "origin": "采用万年以前的老手艺铸造而成 。",
+    "karma_link": "出现在桐叶洲镇妖楼附近的集市，与青同经营的地盘相关 。"
+  },
+  "enriched": true
+}

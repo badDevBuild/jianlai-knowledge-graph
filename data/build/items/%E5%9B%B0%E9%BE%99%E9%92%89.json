@@ -1,0 +1,51 @@
+{
+  "name": "困龙钉",
+  "original_name": "禁锢法钉",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "专门针对血脉强大之人的禁锢法器。崔东山在谢谢身上种下此物，随着其修为恢复才逐一拔除 。",
+  "aliases": [
+    "困龙钉"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第155章 相谈甚欢",
+      "owner": "谢谢(被施加)"
+    },
+    {
+      "chapter": "第165章 如果陈平安在这里",
+      "owner": "谢谢(体内)"
+    },
+    {
+      "chapter": "第400章 远游北归",
+      "owner": "谢谢(体内)"
+    },
+    {
+      "chapter": "第412章 出城和上山",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "禁锢类",
+  "holder": "崔东山 (用于谢谢)",
+  "holder_relation": "持有 (曾用于施法)",
+  "rank": "灵器",
+  "rank_potential": "多枚齐出可封禁蛟龙神魂。",
+  "supernatural_ability": "强行封印龙族或修士的灵气走势，使其沦为凡人或虚弱状态 。",
+  "evolution": {
+    "current_form": "带有阴冷气息的黑色法钉 。",
+    "materials_consumed": [
+      "地底阴煞"
+    ],
+    "potential_evolution": "若能融入雷击木，可进化为针对神魂的“雷火钉”。"
+  },
+  "visual": {
+    "static": "长约数寸，钉身有螺旋纹理，散发着阵阵寒意 。",
+    "active": "入体后会隐于经脉交汇处，表面浮现出复杂的封印符文 。"
+  },
+  "provenance": {
+    "origin": "源自墨家或刑家专门针对妖族的刑具 。",
+    "karma_link": "谢谢曾被此物封禁修为，不得不屈从于崔东山 。"
+  },
+  "enriched": true
+}

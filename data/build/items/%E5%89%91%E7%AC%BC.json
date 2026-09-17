@@ -1,0 +1,44 @@
+{
+  "name": "剑笼",
+  "original_name": "神人承露甲（变体）",
+  "type": "法宝",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "剑笼是专门为了克制剑修而设计的顶级兵家重器，其名源于其“困剑如笼”的神通 。在剑气长城战场上，它曾是让无数剑修感到头疼的压胜之物，象征着兵家对剑道的极致针对 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第660章 雀在笼中",
+      "owner": "侯夔门"
+    }
+  ],
+  "subtype": "防御类 / 压胜类",
+  "holder": "秋云",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "侯夔门",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "通过吸纳战场武运，可进一步强化其针对剑修的锁剑禁制 。",
+  "supernatural_ability": "攻守兼备，在防守时完全可以视为一张半仙兵品秩的“锁剑符”，压制本命飞剑 。",
+  "evolution": {
+    "current_form": "鲜红锁子甲配套紫金冠，插有两根长尾雉长翎 。",
+    "materials_consumed": [
+      "远古神灵金身",
+      "战场武运"
+    ],
+    "potential_evolution": "作为远古重宝，若集齐整套冠冕甲胄，可现出神人法相 。"
+  },
+  "visual": {
+    "static": "一套大红色的精致锁子甲，紫金冠上的翎毛极长，透着一股肃杀之气 。",
+    "active": "激发时会产生粘稠的血色罡气，任何进入其范围的飞剑都会变得迟滞无力 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下托月山秘藏的远古重宝 。",
+    "karma_link": "原为蛮荒九境武夫侯夔门持有，后由其师弟秋云作为遗物继承 。"
+  },
+  "enriched": true
+}

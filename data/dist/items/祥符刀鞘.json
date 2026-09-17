@@ -1,0 +1,43 @@
+{
+  "name": "祥符刀鞘",
+  "original_name": "祥符白鞘",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "祥符狭刀的配套刀鞘，其**雪白颜色**是其标志。它不仅保护刀身 ，更是法宝威能的重要载体。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第53章 赠送",
+      "owner": "宁姚"
+    }
+  ],
+  "subtype": "压胜/掩盖类",
+  "holder": "李宝瓶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "阿良",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "内含神水国残余国运，具备极强的**压胜**能力。",
+  "supernatural_ability": "能够**锁住刀意**，防止锋芒外露，压胜周边气机。",
+  "evolution": {
+    "current_form": "雪白色的窄刀鞘。",
+    "materials_consumed": [
+      "神水国秘宝材料"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "**雪白**颜色，造型冷峻且优美。",
+    "active": "压制异象时会散发出阵阵寒气，使邪祟不敢近身。"
+  },
+  "provenance": {
+    "origin": "与祥符狭刀同出一源，产自远古神水国。",
+    "karma_link": "作为山河重宝的一部分，辅助李宝瓶镇压自身武运。"
+  },
+  "enriched": true
+}

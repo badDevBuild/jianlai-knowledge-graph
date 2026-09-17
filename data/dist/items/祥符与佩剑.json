@@ -1,0 +1,48 @@
+{
+  "name": "祥符与佩剑",
+  "original_name": "神水国压胜狭刀",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "李宝瓶在棋墩山获得的重器，实则是品秩极高的**半仙兵**。它不 仅是杀敌利刃，更是能稳定一方山河气数的**至宝**。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第51章 对峙",
+      "owner": "宁姚"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "李宝瓶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "神水国皇室",
+      "relation": "原主"
+    },
+    {
+      "name": "阿良",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为**“山河至宝”**，能随着持有人武运增长而不断复苏灵性。",
+  "supernatural_ability": "**镇压和聚拢武运**，先天克制阴秽之物。",
+  "evolution": {
+    "current_form": "雪白剑鞘的狭刀。",
+    "materials_consumed": [
+      "纯粹武运",
+      "灵气"
+    ],
+    "potential_evolution": "完整版国之重器"
+  },
+  "visual": {
+    "static": "刀身狭窄，配有**雪白刀鞘**，常被棉布严实包裹。",
+    "active": "出鞘时**剑气极重**，光芒如雪，伴有雷霆万钧之势。"
+  },
+  "provenance": {
+    "origin": "远古蜀国地界**神水国**的国之至宝。",
+    "karma_link": "承载了一国之武运，由阿良转赠给李宝瓶以护道求学。"
+  },
+  "enriched": true
+}

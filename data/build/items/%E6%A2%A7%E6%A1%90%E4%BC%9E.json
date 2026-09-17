@@ -1,0 +1,60 @@
+{
+  "name": "梧桐伞",
+  "original_name": "梧桐柄油纸伞",
+  "type": "法宝",
+  "grade": "洞天法宝",
+  "status": "活跃",
+  "description": "这把伞是老观主赠予陈平安、后由崔东山代转给隋右边的重宝，其核心功用在于保护与转运莲藕福地的 众生，是乱世中的一把守护伞 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第696章 破境不需要等的",
+      "owner": "隋右边 (代持)"
+    },
+    {
+      "chapter": "第1073章 问拳问道问剑一起上",
+      "owner": "落魄山 (暖树保管)"
+    },
+    {
+      "chapter": "第1076章 总是拿事补人心",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1077章 他乡家乡酒乡心乡",
+      "owner": "陈平安/落魄山"
+    }
+  ],
+  "subtype": "防御类 / 空间类",
+  "holder": "隋右边",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "赠予者"
+    },
+    {
+      "name": "老观主",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由老观主亲手送出，具备容纳一方福地众生的巨大空间潜力 。",
+  "supernatural_ability": "能够开启莲藕福地入口，遮蔽气机，并在此间收纳、转运大量难民与修士 。",
+  "evolution": {
+    "current_form": "梧桐木作为伞柄的油纸伞 。",
+    "materials_consumed": [
+      "梧桐树灵气",
+      "福地本源"
+    ],
+    "potential_evolution": "与莲藕福地深度结合后，可演化为掌控福地门户的大道枢纽 。"
+  },
+  "visual": {
+    "static": "外表朴素的油纸伞，伞柄材质温润如玉，带有天然的梧桐木纹 。",
+    "active": "撑开时伞面如同一座遮天蔽日的阵法屏障，能够隔绝外界一切查探 。"
+  },
+  "provenance": {
+    "origin": "源自东海观道观 。",
+    "karma_link": "由崔东山在桐叶洲交予隋右边，用于在动荡局势中保全火种 。"
+  },
+  "enriched": true
+}

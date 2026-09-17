@@ -1,0 +1,37 @@
+{
+  "name": "《截江真经》",
+  "original_name": "《截江真经》",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是刘志茂的大道根本，也是其在书简湖立足的杀手锏。经书详细记载了截取江河气运、修炼水法神通 的门径 。",
+  "aliases": [
+    "截江真经"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第534章",
+      "owner": "顾璨"
+    }
+  ],
+  "subtype": "功法",
+  "holder": "刘志茂",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为书简湖截江真君的修道根本，蕴含完整的水法传承，可助修士跻身上五境 。",
+  "supernatural_ability": "记载了高深的水法神通，能够让修士在书简湖等水汽充沛之地获得极大的战力加持 。",
+  "evolution": {
+    "current_form": "纸质或玉简秘籍。",
+    "materials_consumed": [],
+    "potential_evolution": "通过修行真经内容，可助修士炼化本命水府并跻身上五境 。"
+  },
+  "visual": {
+    "static": "通常以古籍或秘录形式存在，字里行间蕴含道意 。",
+    "active": "修炼时水气弥漫，可显化出江河横流的宏大气象 。"
+  },
+  "provenance": {
+    "origin": "书简湖青峡岛截江真君刘志茂的祖传或核心修道秘籍 。",
+    "karma_link": "刘志茂凭借此经在书简湖割据一方，后成为真境宗供奉 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "本命铁链",
+  "original_name": "锁龙索 / 铁锁井铁链",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**本命铁链**（锁龙索）是《剑来》中因果最重的器物之一，它见证了真龙时代的终结，现已成为姜韫 的大道根基 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第376章 君子武备",
+      "owner": "姜韫"
+    },
+    {
+      "chapter": "第396章 竹篮打水捞明月",
+      "owner": "姜韫"
+    }
+  ],
+  "subtype": "禁锢类/压胜类",
+  "holder": "姜韫",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "原主"
+    },
+    {
+      "name": "骊珠洞天铁锁井",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "若能完全解除全部禁制并重塑神性，可升格为足以屠龙的**斩龙索** 。",
+  "supernatural_ability": "**绝对压胜**：天生克制蛟龙之属，能将人身小天地淬炼为“铁山丛林”和“莹澈道场” 。",
+  "evolution": {
+    "current_form": "缠绕在姜韫腰间，看似平平无奇的粗重铁链 。",
+    "materials_consumed": [
+      "真龙气运",
+      "神灵遗骸精华"
+    ],
+    "potential_evolution": "进化为“斩龙索”，随手一抖即可对蛟龙剥皮抽筋 。"
+  },
+  "visual": {
+    "static": "长达百丈，曾在井底浸泡万年，散发着沉重、古老且冰冷的气息 。",
+    "active": "激发后金光灿烂，不仅是一件攻守兼备的重器，更能形成强大的封禁气场 。"
+  },
+  "provenance": {
+    "origin": "由三山九侯先生设置于骊珠洞天铁锁井中，用于束缚最后一条真龙 。",
+    "karma_link": "云林姜氏子弟姜韫凭借此物跻身元婴境，成为宝瓶洲新晋天才之一 。"
+  },
+  "enriched": true
+}

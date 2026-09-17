@@ -1,0 +1,50 @@
+{
+  "name": "瓷片",
+  "original_name": "本命瓷碎片",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "瓷片在《剑来》中具有极高的象征意义，特别是作为本 命瓷的残片，它们决定了陈平安未来的大道上限与神魂 完整度 , 。",
+  "aliases": [
+    "碎瓷片",
+    "破碎瓷片",
+    "碎瓷",
+    "破瓦",
+    "利器"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第22章 止境",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "因果/重塑类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊宋氏",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为本命瓷的一部分，是补完神魂缺陷、合道十四境的 关键 , 。",
+  "supernatural_ability": "即便破碎仍带有原主的魂魄气运 。陈平安曾包裹碎瓷片手刃蔡金简 。",
+  "evolution": {
+    "current_form": "细碎的、带有特定窑口标记的瓷器残片 , 。",
+    "materials_consumed": [
+      "龙窑紫金土",
+      "孩童魂魄气运"
+    ],
+    "potential_evolution": "拼凑完整后可重塑为无瑕的“本命瓷”，甚至成为圣人金 身的基石 , 。"
+  },
+  "visual": {
+    "static": "白底青花或单色釉，断裂处锋利如刃，带有古旧的气息 。",
+    "active": "感知到原主或特定气运时，会泛起微弱的灵光或产生感 应震动 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天三十六座龙窑烧造的本命瓷破碎而生 , 。",
+    "karma_link": "象征着小镇孩童“命由人控”的枷锁以及陈平安打破宿命 的历程 , 。"
+  },
+  "enriched": true
+}

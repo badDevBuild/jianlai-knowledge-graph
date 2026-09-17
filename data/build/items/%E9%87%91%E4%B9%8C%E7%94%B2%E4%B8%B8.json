@@ -1,0 +1,48 @@
+{
+  "name": "金乌甲丸",
+  "original_name": "兵家甲丸 / 金乌",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "金乌甲丸是浩然天下极其罕见的顶级防御法宝，通过吸收神灵金身碎片不断完善，威力无穷 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第507章 如神祇高坐",
+      "owner": "杜俞 (原属姜尚真)"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "杜俞",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姜尚真",
+      "relation": "赠予者"
+    },
+    {
+      "name": "谢狗",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为兵家三大甲丸之一，是防御力最顶级的重宝之一 。",
+  "supernatural_ability": "披挂后如金乌附身，防御力惊人，且自带一定的灼烧反击效果 。",
+  "evolution": {
+    "current_form": "一枚散发着浓郁火属气息的甲丸 。",
+    "materials_consumed": [
+      "远古火精",
+      "神灵金身碎片"
+    ],
+    "potential_evolution": "若能获得真正的金乌精血淬炼，可进化为神甲级别 。"
+  },
+  "visual": {
+    "static": "常态为金色丹丸，表面隐约有流火纹路 。",
+    "active": "穿戴时化为一袭璀璨如火的金甲，气势雄浑 。"
+  },
+  "provenance": {
+    "origin": "兵家初祖根据远古神甲仿造的“前身”之一，原本属于谢狗（白景）的私藏 。",
+    "karma_link": "姜尚真将其作为见面礼赠予杜俞，象征着落魄山对杜俞护道功劳的认可 。"
+  },
+  "enriched": true
+}

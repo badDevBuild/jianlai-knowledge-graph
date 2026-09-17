@@ -1,0 +1,35 @@
+{
+  "name": "鹿角诗文如意",
+  "original_name": "资料不足",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "在提供的资料中，未发现名为“鹿角诗文如意”的特定法宝或器物。资料主要记载了“白玉灵芝”及“灵芝 如意”等相关灵器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第630章 刺杀隐官",
+      "owner": "躲寒行宫"
+    }
+  ],
+  "subtype": "未知",
+  "holder": "未知",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "资料不足",
+  "supernatural_ability": "资料不足",
+  "evolution": {
+    "current_form": "未知",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "资料不足",
+    "active": "资料不足"
+  },
+  "provenance": {
+    "origin": "资料不足",
+    "karma_link": "资料中提及陈平安曾持有一柄刻有两行铭文的“白玉灵芝”，并提及“鹿衔灵芝”样式的粉盒，但未 见名为“鹿角诗文如意”的特定法宝。"
+  },
+  "enriched": true
+}

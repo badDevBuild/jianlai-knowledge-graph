@@ -1,0 +1,44 @@
+{
+  "name": "拴马桩",
+  "original_name": "剑气长城大门石柱",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "拴马桩不仅是实体的建筑构件，更是剑气长城尊严与规矩的象征。它不仅衡量着剑气的远近，也默默守 护着两座天下最后的交界 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第715章 不是剑客心难契",
+      "owner": "剑气长城"
+    }
+  ],
+  "subtype": "压胜类 / 阵法类",
+  "holder": "剑气长城 / 张禄",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古神灵",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为剑气长城大阵的实体基座，其承载的剑气威压随整座城池的战意起伏 。",
+  "supernatural_ability": "能够感知并压制方圆百里内的剑气流转；曾用于栓系龙、牛、马、猿四种远古巨兽 。",
+  "evolution": {
+    "current_form": "矗立在倒悬山通往剑气长城大门两侧的四根石柱 。",
+    "materials_consumed": [
+      "万年剑气",
+      "龙脉精华"
+    ],
+    "potential_evolution": "在大战中可作为引动整座长城剑阵的最终阵脚 。"
+  },
+  "visual": {
+    "static": "高耸的古朴石柱，常年有剑仙背剑或坐于其上打盹 。",
+    "active": "当敌对气机靠近时，石柱会散发出震慑神魂的剑意轰鸣 。"
+  },
+  "provenance": {
+    "origin": "远古时代遗留的神道重器 。",
+    "karma_link": "见证了无数剑修的离乡与归乡，是守门大剑仙张禄长久驻守之处 [9-11]。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "倒流",
+  "original_name": "仿制倒流",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "倒流是袁化境手中隐藏最深的飞剑。虽然非其本命，却因其涉及光阴大道的特性，在多次高端局斗法中 起到了决定性的辅助作用，被视为地支的压箱底手段 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第996章 云上琅琅杏花香",
+      "owner": "袁化境"
+    },
+    {
+      "chapter": "第1211章 演武",
+      "owner": "袁化境"
+    }
+  ],
+  "subtype": "辅助类 / 破禁类",
+  "holder": "袁化境",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔瀺",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为左右本命飞剑的仿品，拥有触及光阴真意的极高上限，是地支一脉的核心杀手锏 。",
+  "supernatural_ability": "光阴倒流。能令局部空间内的光阴回溯，用以针对敌方刚修复的伤势或推演敌方刚施展的秘术，具备极 强的“偷师”与“复盘”功能 。",
+  "evolution": {
+    "current_form": "由大骊国师崔瀺亲手炼制的飞剑仿品 。",
+    "materials_consumed": [
+      "光阴流水精粹",
+      "左右飞剑剑意"
+    ],
+    "potential_evolution": "随地支大阵的完善，可辅助实现更长时段、更广范围的真实光阴溯源 。"
+  },
+  "visual": {
+    "static": "隐藏极深的飞剑，平日里绝不轻易示人 。",
+    "active": "祭出后会产生微妙的空间波动，使特定区域内的战斗痕迹或法术流转呈现出逆行回转的异象 。"
+  },
+  "provenance": {
+    "origin": "大骊国师崔瀺仿照师弟左右的本命飞剑亲手炼制 。",
+    "karma_link": "是大骊地支用于对付山巅强敌、破解对方底牌的关键奇兵 。"
+  },
+  "enriched": true
+}

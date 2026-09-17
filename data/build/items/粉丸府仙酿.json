@@ -1,0 +1,38 @@
+{
+  "name": "粉丸府仙酿",
+  "original_name": "乌藤山秘酿",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "粉丸府仙酿是虞醇脂在乌藤山修缮扩建府邸后推出的“ 特产”。酒中动了手脚，常用于在庆典上控制外来宾客， 是邪魔外道常用的伎俩 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1019章 天地如界画",
+      "owner": "粉丸府"
+    }
+  ],
+  "subtype": "滋养/操控类",
+  "holder": "虞醇脂",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "受合欢山阴阳二气浸染，具备干扰元婴境之下修士神识 的潜力 。",
+  "supernatural_ability": "酒香中混合了脂粉气息，饮之可让修士陷入幻境，或被 施术者种下情障 。",
+  "evolution": {
+    "current_form": "盛放在华美瓷瓶中的芬芳酒液 。",
+    "materials_consumed": [
+      "合欢花精",
+      "月魄精华"
+    ],
+    "potential_evolution": "可演化为构建“风流帐”或“温柔乡”幻境的核心媒介 。"
+  },
+  "visual": {
+    "static": "酒液呈粉红色或晶莹色，香气极其浓郁 。",
+    "active": "酒杯上会升腾起丝丝缕缕的粉色线条，如同织布般缠绕 饮者神魂 。"
+  },
+  "provenance": {
+    "origin": "桐叶洲合欢山粉丸府 。",
+    "karma_link": "涉及虞醇脂利用美色与灵酒控制周边势力、构建私家道 场的阴谋 。"
+  },
+  "enriched": true
+}

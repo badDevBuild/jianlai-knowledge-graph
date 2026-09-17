@@ -1,0 +1,44 @@
+{
+  "name": "胭脂",
+  "original_name": "苏店",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "既是指代泥瓶巷少年时期的邻居苏店，也指代她所持有的胭脂盒。它承载了远古雨师的部分神性，是陈 平安回忆中家乡的重要注脚 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第285章 一盒胭脂",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "气运类 / 寄托类",
+  "holder": "苏店 (胭脂)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为承载远古神灵神性的载体，具备随持有者武道境界提升而觉醒的潜力 。",
+  "supernatural_ability": "**“神性承载”**。身为远古雨师的转世之一，其存在本身即是某种大道气运的显化，埋藏的胭脂盒可稳 固一地气运 。",
+  "evolution": {
+    "current_form": "埋藏于陈平安祖宅隔壁泥地下的胭脂盒 。",
+    "materials_consumed": [
+      "远古神性",
+      "纯粹拳意"
+    ],
+    "potential_evolution": "当苏店武道登顶时，可重塑神道金身 。"
+  },
+  "visual": {
+    "static": "埋于泥瓶巷老宅泥地下的陈旧小盒，外表质朴 。",
+    "active": "在特定时刻会产生微妙的气运波动，与骊珠洞天的山河产生共鸣 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天苏家与杨老头的因果 。",
+    "karma_link": "与陈平安的邻里因果、杨老头的传道谋划深度绑定，象征着小镇气运的流散与重聚 。"
+  },
+  "enriched": true
+}

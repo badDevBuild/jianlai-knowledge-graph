@@ -1,0 +1,50 @@
+{
+  "name": "青瞳",
+  "original_name": "青瞳法袍",
+  "type": "法宝",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "原为蛮荒天下白花城宗主的随身法袍。陆芝认为其防御属性极佳，适合重点栽培的弟子吴曼妍，遂在修 缮一新后将其传承，现已成为龙象剑宗年轻天才的标志性防具 [8-10]。",
+  "aliases": [
+    "青曈"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第856章 两三事",
+      "owner": "陆芝 (原属白花城宗主)"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "吴曼妍",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蛮荒大妖（白花城仙人宗主）",
+      "relation": "原主"
+    },
+    {
+      "name": "陆芝",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "经郑居中与鸳湖女仙二次修缮与锦上添花，其防护能力与道门神通已趋于准仙兵级别 。",
+  "supernatural_ability": "提供极高的肉身与神魂防御，并增添了数种辅助修行的独门术法，能有效抵挡同境剑修的飞剑斩击 [8-10]。",
+  "evolution": {
+    "current_form": "深青色法袍 。",
+    "materials_consumed": [
+      "仙人遗物残片",
+      "金翠城缂丝秘术"
+    ],
+    "potential_evolution": "随着吴曼妍境界提升，可作为其跻身地仙后的本命防护重器 。"
+  },
+  "visual": {
+    "static": "袍色深青，质地古朴，表面流转着内敛的灵气纹路 。",
+    "active": "被激发时会泛起如瞳孔般的青色幽光，能够自动修缮破损并弹开常规术法 。"
+  },
+  "provenance": {
+    "origin": "产自蛮荒天下白花城 。",
+    "karma_link": "陆芝在斩杀蛮荒仙人后缴获此袍，虽曾大毁品相，后由郑居中请托鸳湖女仙修补后赠予弟子 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "落魄山谱牒小册子",
+  "original_name": "集灵峰祖师堂谱牒成员名单",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是落魄山立宗之本，不仅记录了姜尚真等飞升境剑修 的加入，还展示了其在宝瓶洲与北俱芦洲的宏大商贸布 局 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1053章 有人说过",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "记录/宗门类",
+  "holder": "大骊朝廷 (归档)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随着落魄山跻身正式宗门，此册承载了宗门初期所有核 心成员的大道气运 。",
+  "supernatural_ability": "详细记录了包括姜尚真、小陌、谢狗在内的谱牒成员真 实身份与境界，并钤印有“落魄山陈平安”印章 。",
+  "evolution": {
+    "current_form": "分为两页的小册子，首页记录成员，次页记录商贸现状 。",
+    "materials_consumed": [
+      "仙家纸张",
+      "陈平安墨宝"
+    ],
+    "potential_evolution": "可演化为正式的宗门金玉谱牒 。"
+  },
+  "visual": {
+    "static": "外观古朴，内容详实，部分成员姓名旁注有括号注明真 实身份 。",
+    "active": "翻阅时可映射出落魄山与披麻宗、太徽剑宗等各方势力 的香火情脉络 。"
+  },
+  "provenance": {
+    "origin": "陈平安在落魄山筹备创建下宗期间亲自编撰 。",
+    "karma_link": "是大骊朝廷掌握落魄山真实底蕴的核心秘档 。"
+  },
+  "enriched": true
+}

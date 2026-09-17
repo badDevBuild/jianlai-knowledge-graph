@@ -1,0 +1,52 @@
+{
+  "name": "续命灯",
+  "original_name": "本命灯 / 纳兰续命灯",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "续命灯是高阶修士在面临死劫时的最后保障。它曾保全了剑气长城大剑仙纳兰烧苇的法统，使其得以在 青冥天下重新崛起。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第835章 十四",
+      "owner": "南簪"
+    },
+    {
+      "chapter": "第881章 眼神",
+      "owner": "中土陆氏"
+    },
+    {
+      "chapter": "第1103章 古怪山巅神与异",
+      "owner": "新宗门祖师堂"
+    }
+  ],
+  "subtype": "辅助类 / 轮回类",
+  "holder": "纳兰烧苇",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "岁除宫",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "能够护持大剑仙级别的灵魂完成兵解转世，其内部蕴含的生命元气深不可测 。",
+  "supernatural_ability": "护住修士的一缕真灵不灭，辅助其在肉身损毁后通过特定途径重塑体魄并再续修行 。",
+  "evolution": {
+    "current_form": "藏在棉布包裹剑匣内的一盏青灯。",
+    "materials_consumed": [
+      "飞升境仙蜕",
+      "本命神魂"
+    ],
+    "potential_evolution": "转世成功后，灯芯火种可化为守护神魂的本命火。"
+  },
+  "visual": {
+    "static": "造型古朴，灯火微弱却永不熄灭，散发出一种岁月的静谧感 。",
+    "active": "转世时灯火暴涨，金光如潮水般涌入重塑的仙人遗蜕中。"
+  },
+  "provenance": {
+    "origin": "源自青冥天下岁除宫，后带往剑气长城 。",
+    "karma_link": "纳兰烧苇凭借此灯在岁除宫成功转世为一名道童 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "城主阴灵骨架",
+  "original_name": "鬼蜮谷城主遗骸",
+  "type": "法宝",
+  "grade": "灵材",
+  "status": "活跃",
+  "description": "这是鬼蜮谷集市中的镇店之宝，标价极高。它见证了北俱芦洲“自古多豪杰”的剑仙风采与鬼蜮谷内残酷 的丛林法则 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第489章 赶赴京观城",
+      "owner": "集市店铺"
+    }
+  ],
+  "subtype": "辅佐类 / 傀儡类",
+  "holder": "奈何关集市某大铺子 (待售)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "鬼蜮谷某覆灭城池城主",
+      "relation": "原主"
+    },
+    {
+      "name": "北方隐世剑仙",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "若能由高位鬼修配合秘法炼制，可重塑为战力惊人的阴兵鬼王 。",
+  "supernatural_ability": "骨架本身布满天然银线，光华流转，蕴含元婴地仙级别的神魂余韵，对低阶阴物有天然震慑力 。",
+  "evolution": {
+    "current_form": "一丈高的洁白骨架 。",
+    "materials_consumed": [
+      "至阴之气",
+      "元婴级修士精元"
+    ],
+    "potential_evolution": "可进化为拥有金枝玉叶品相的不朽金身傀儡 。"
+  },
+  "visual": {
+    "static": "骨骼晶莹如玉，呈坐姿放置于琉璃柜内，双手握拳，气势极盛 。",
+    "active": "激发后银线光芒大作，散发出令人窒息的阴冥统帅威压 。"
+  },
+  "provenance": {
+    "origin": "源自鬼蜮谷内一位曾统领八千鬼众、修为达元婴境的英灵城主 。",
+    "karma_link": "由一位游戏人间的剑仙斩杀城主后带出，赠予铺子抵充酒钱 。"
+  },
+  "enriched": true
+}

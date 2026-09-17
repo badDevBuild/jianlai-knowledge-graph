@@ -1,0 +1,52 @@
+{
+  "name": "小剑冢",
+  "original_name": "三山四海五岳十渎图剑匣",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件品秩极高的**养剑重器**，内部自成一座剑意纵横的小天 地 。它最逆天之处在于能让非剑修的练气士通过此匣获得**胜似剑 修**的极致杀力 。它是蛮荒天下文海一脉底蕴的重要体现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第40章 还礼",
+      "owner": "兵家"
+    },
+    {
+      "chapter": "第448章 驱马上丘垅",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "养剑类",
+  "holder": "绶臣",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "原主"
+    },
+    {
+      "name": "周密",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为能孕育飞剑与本命神通的重器，其战力上限随飞剑成熟度而提 升 。",
+  "supernatural_ability": "可同时**温养九把飞剑**，并让持有者额外获得九种不同的本命神 通 。",
+  "evolution": {
+    "current_form": "绘有远古真形图的重宝剑匣",
+    "materials_consumed": [
+      "大妖精血",
+      "天地灵粹"
+    ],
+    "potential_evolution": "完整版剑冢小世界"
+  },
+  "visual": {
+    "static": "匣身绘有一幅古老的**三山四海五岳十渎图**，透着苍茫气息 。",
+    "active": "剑气冲霄，匣中诸剑交相辉映，显化出神人、灵猿与真龙飞天的幻 象 。"
+  },
+  "provenance": {
+    "origin": "由远古“天下十豪”候选人三山九侯先生铸造而成 。",
+    "karma_link": "后流落至周密手中，并作为回礼赐予其大弟子绶臣 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "白蛟",
+  "original_name": "白蛟",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "晏家首席供奉、仙人境剑修李退密的两把本命飞剑之一，以宏大的蛟龙法相著称 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第617章 谁能与宁姚般配",
+      "owner": "李退密"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "李退密",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "仙人境剑修本命飞剑，具有演化为真龙形态的潜力 。",
+  "supernatural_ability": "飞剑祭出后如同一条百丈蛟龙，在大地之上肆意翻卷，绞杀妖族 。",
+  "evolution": {
+    "current_form": "百丈蛟龙形态的剑光 。",
+    "materials_consumed": [
+      "江河水运",
+      "剑意"
+    ],
+    "potential_evolution": "配合“黑螭”可形成合击之势 。"
+  },
+  "visual": {
+    "static": "蕴含浓郁水气的本命飞剑 。",
+    "active": "显化为百丈白蛟，在战场上横冲直撞 。"
+  },
+  "provenance": {
+    "origin": "晏家首席供奉李退密本命孕育 。",
+    "karma_link": "晏家核心传承之一 。"
+  },
+  "enriched": true
+}

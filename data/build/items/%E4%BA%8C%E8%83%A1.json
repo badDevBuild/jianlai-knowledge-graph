@@ -1,0 +1,37 @@
+{
+  "name": "二胡",
+  "original_name": "背胡琴",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是目盲道人及其弟子的标志性物件，在红尘游历中以 此谋生并砥砺道心。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1043章 头顶三尺有谁",
+      "owner": "仙尉"
+    }
+  ],
+  "subtype": "乐器/修行类",
+  "holder": "贾晟 (背胡琴小道士)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "通过乐律引导天地灵气，有望演化为音攻法宝。",
+  "supernatural_ability": "音色清越，能平复心境，在闹市中营造出一份出尘的寂 静 。",
+  "evolution": {
+    "current_form": "背负在少年道士身后的古朴胡琴 。",
+    "materials_consumed": [
+      "岁月道韵"
+    ],
+    "potential_evolution": "可配合道门咒语演化为“天籁镇妖阵”。"
+  },
+  "visual": {
+    "static": "木质斑驳，琴弦细韧，散发出经年的烟火气 。",
+    "active": "拉动时，音符若隐若现，能牵引周围的山水气机 。"
+  },
+  "provenance": {
+    "origin": "随贾老神仙师徒行走江湖的随身物。",
+    "karma_link": "见证了小镇市井生活的变迁与修道者的红尘磨砺 。"
+  },
+  "enriched": true
+}

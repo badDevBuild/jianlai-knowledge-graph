@@ -1,0 +1,48 @@
+{
+  "name": "古秤",
+  "original_name": "山阳内库戥秤",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件出现在夜航船条目城客栈内的古老戥秤。它曾是宫廷御制之物，专门用于精确贸易。裴钱通过 查阅府志识破了其铭文根脚，揭示了其不凡的家世背景 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第917章 读书声里太平道上",
+      "owner": "林正诚"
+    }
+  ],
+  "subtype": "文房类 / 辅助类",
+  "holder": "夜航船·条目城客栈",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "山阳大方内库",
+      "relation": "原主"
+    },
+    {
+      "name": "某地豪门",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为曾称量宫廷珍稀草药与碎银的重器，具备勘验物品价值与因果分量的潜力 。",
+  "supernatural_ability": "“权衡轻重”。能够精确称量碎银、灵药甚至修士神魂的细微质量。属于条目城内“名实相符”的虚相物件 。",
+  "evolution": {
+    "current_form": "虬角杆戥秤，配有秤盘、乌木杆和白铜秤砣 。",
+    "materials_consumed": [
+      "宫廷龙气",
+      "千年虬角"
+    ],
+    "potential_evolution": "若能由虚转实带出夜航船，可成为辅助会计、计然家修行的法宝 。"
+  },
+  "visual": {
+    "static": "质地细腻的虬角秤杆，带有岁月包浆。秤杆刻有“山阳大方，内库恭制”八个小字 。",
+    "active": "称量时秤砣滑过虬角杆会发出微弱的灵光，显示出物品最真实的重量 。"
+  },
+  "provenance": {
+    "origin": "源自古代“山阳大方”王朝的内库造办处 。",
+    "karma_link": "见证了无数富贵门庭的兴衰，最终沦为夜航船条目城中的一个物类条目 。"
+  },
+  "enriched": true
+}

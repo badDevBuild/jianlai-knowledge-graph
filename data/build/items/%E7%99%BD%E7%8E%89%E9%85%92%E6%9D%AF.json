@@ -1,0 +1,46 @@
+{
+  "name": "白玉酒杯",
+  "original_name": "凝露杯 / 止水杯",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一个充满山上雅趣的辅助灵器。虽然张山峰收入囊中时已有损伤， 但其凝聚灵气的能力，对下五境修士的温养依然具有巨大价值 。",
+  "aliases": [
+    "白玉酒杯"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第234章 夜宿古寺有妖气",
+      "owner": "张山峰"
+    }
+  ],
+  "subtype": "滋养/生活类",
+  "holder": "张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "某位不知名高人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若能修补缺口并置于灵气眼处，可演化为源源不断产出“仙酿”的法宝 。",
+  "supernatural_ability": "薄如瓷片。能够自行汲取天地灵气，每半旬（约五天）光阴可凝聚出一 粒清澈见底、灵气饱满的露珠 。",
+  "evolution": {
+    "current_form": "色泽温润如脂、边缘带有一处细微缺口的白玉杯 。",
+    "materials_consumed": [
+      "万年玉髓",
+      "月华精华"
+    ],
+    "potential_evolution": "若能凑齐一对，可作为稳固中五境修士“心关”的重宝 。"
+  },
+  "visual": {
+    "static": "白璧无瑕（除缺口外），放在掌心轻若无物，月光下透着淡淡的荧光 。",
+    "active": "凝气时杯底会生出一层薄薄的雾霭，灵气露珠成形时会有叮咚的水滴声 。"
+  },
+  "provenance": {
+    "origin": "张山峰在彩衣国胭脂郡斩妖除魔后的战利品 。",
+    "karma_link": "反映了张山峰“福祸自招、随遇而安”的道士风骨 。"
+  },
+  "enriched": true
+}

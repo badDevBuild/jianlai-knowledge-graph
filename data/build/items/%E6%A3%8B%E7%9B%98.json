@@ -1,0 +1,44 @@
+{
+  "name": "棋盘",
+  "original_name": "十七道古石棋盘",
+  "type": "灵器",
+  "grade": "无",
+  "status": "活跃",
+  "description": "棋盘在《剑来》中象征着大道的精密与严谨。它不仅是 林君璧的心爱之物，更是陈平安用来构建“心相天地”逻 辑的工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1121章 二十人与候补们（三）",
+      "owner": "陈平安/老观主"
+    }
+  ],
+  "subtype": "演化/阵法类",
+  "holder": "陈平安 / 林君璧 / 郑居中",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古棋手",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "由于承载过无数残局与剑意，可演化为推演整座天下大 势的“算术之眼”。",
+  "supernatural_ability": "纵横十七道，蕴含“日月同壁”之象。棋子落地可生剑气 ，自成阵法 。",
+  "evolution": {
+    "current_form": "古老的石刻棋盘，配合黑白两色棋子。",
+    "materials_consumed": [
+      "千载光阴磨砺",
+      "名家手谈道韵"
+    ],
+    "potential_evolution": "可配合“彩云子”进化为足以困住飞升境修士的“彩云局” 。"
+  },
+  "visual": {
+    "static": "石质古朴，棋盘线条深邃，透着一股经久不散的冷意 。",
+    "active": "对弈时，棋子如星辰闪烁，剑气交织，产生淡金与幽绿 色的涟漪 。"
+  },
+  "provenance": {
+    "origin": "源自远古遗址（如全椒山或白帝城），被陈平安在游历 中记录 。",
+    "karma_link": "连接了郑居中的“奉饶天下先”与陈平安对局势的谨慎谋 划。"
+  },
+  "enriched": true
+}

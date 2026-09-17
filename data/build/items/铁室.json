@@ -1,0 +1,50 @@
+{
+  "name": "铁室",
+  "original_name": "手戟“铁室”",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "铁室是青冥天下著名武学宗师、女子国师白藕的成名兵刃。它属于极其罕见的远古遗留神兵，尤其适宜 纯粹武夫使用，是杀伐极重的重器。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第876章 各有渡口",
+      "owner": "白藕"
+    },
+    {
+      "chapter": "第950章 将来之事",
+      "owner": "白藕"
+    },
+    {
+      "chapter": "第1068章 碧波万顷客眼青",
+      "owner": "白藕"
+    },
+    {
+      "chapter": "第1166章 于混沌一片中",
+      "owner": "白藕"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "白藕",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为青冥天下武道宗师的随身神兵，其杀力在止境武夫手中可发挥至极限。",
+  "supernatural_ability": "作为“神兵”遗物，能与纯粹武夫的体魄天然互补，具备破开仙人法御的锐利。",
+  "evolution": {
+    "current_form": "一只旁生横刃的铁质手戟。",
+    "materials_consumed": [
+      "远古神铁",
+      "武道真意"
+    ],
+    "potential_evolution": "随持有者跻身武道神到一层，可作为“人间万神殿”的兵器化身。"
+  },
+  "visual": {
+    "static": "形制古朴的短戟，悬挂于腰间。",
+    "active": "挥动时寒光凛冽，杀气腾腾，可轻松枭首同境宗师。"
+  },
+  "provenance": {
+    "origin": "青冥天下十八件远古神兵遗物之一。",
+    "karma_link": "白藕以此兵器屹立武道之巅，曾以此多次问拳斩杀上榜宗师。"
+  },
+  "enriched": true
+}

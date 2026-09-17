@@ -1,0 +1,38 @@
+{
+  "name": "斩字符",
+  "original_name": "破字令 / 斩邪大符",
+  "type": "符箓",
+  "grade": "神通",
+  "status": "活跃",
+  "description": "这是一种专门破坏规矩、打破禁制的强力符箓。它代表 了施法者对法理与文字的极深造诣，是陈平安应对复杂 阵法的首选 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1004章 试试看",
+      "owner": "三山九侯先生"
+    }
+  ],
+  "subtype": "攻伐/破解类",
+  "holder": "陈平安 / 陆翚 (地支)",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "若由仙人境符师以金精铜钱绘制，可斩断飞升境之下的 一切法术逻辑 。",
+  "supernatural_ability": "能够针对性地“拆解”敌方的符箓结构或文字阵法，对特 定的“名实”禁制具有摧毁性效果 。",
+  "evolution": {
+    "current_form": "笔触如刀、带有金石崩裂之声的特殊符箓 。",
+    "materials_consumed": [
+      "雷池之水",
+      "龙符丹砂"
+    ],
+    "potential_evolution": "可演化为让整座城池文字都化作飞剑的“万法斩” 。"
+  },
+  "visual": {
+    "static": "符纸中心写有一个巨大的“斩”字，墨迹浓重如铁 。",
+    "active": "祭出时会有雷鸣声，文字化作一道道如刀锋般的剑光， 专走法术节点 。"
+  },
+  "provenance": {
+    "origin": "源自文庙功德林中传下的儒家秘术 。",
+    "karma_link": "陈平安在大骊京城以此对阵地支十一人，展示了绝对的 逻辑压制力 。"
+  },
+  "enriched": true
+}

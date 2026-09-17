@@ -1,0 +1,49 @@
+{
+  "name": "武圣人佩刀",
+  "original_name": "某国武庙武圣人遗物",
+  "type": "材料",
+  "grade": "法宝",
+  "status": "消耗",
+  "description": "这件武器并非单纯的兵刃，而是陈平安晋升中五境的关键资粮。它在东华山之巅被炼化，最终成为了坐 镇陈平安肺腑气府的“神灵” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第413章 炼制",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "重塑类 / 五行之金",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "宝瓶洲某国武庙",
+      "relation": "原主"
+    },
+    {
+      "name": "茅小冬",
+      "relation": "收集者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为炼化“金色文胆”的核心金属性材料，其肃杀之气可转化成修士的武道底色 。",
+  "supernatural_ability": "**金戈肃杀**：蕴含一国武运精华与武圣生前的杀伐真意，能极大强化持有者的体魄防御力 。",
+  "evolution": {
+    "current_form": "已被陈平安于五彩金匮灶中熔炼为“金色文胆”本命物 。",
+    "materials_consumed": [
+      "武圣佩刀",
+      "千年牛角",
+      "文庙祭器文运"
+    ],
+    "potential_evolution": "完全炼化后，化作陈平安气府内的一尊金色小儒士 。"
+  },
+  "visual": {
+    "static": "作为遗物时，是一柄气势不凡、沾染了历代香火与杀气的古刀 。",
+    "active": "炼化时，刀身逐渐消融，熔出一滴滴如金色天河般的液体坠入丹炉 。"
+  },
+  "provenance": {
+    "origin": "茅小冬从大隋周边某国武庙求取的武圣遗物 。",
+    "karma_link": "作为陈平安重建长生桥、炼化五行本命物（金）的核心祭品，承载了沉重的“义”之真意 。"
+  },
+  "enriched": true
+}

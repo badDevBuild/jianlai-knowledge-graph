@@ -1,0 +1,44 @@
+{
+  "name": "无字之帖",
+  "original_name": "无字道书 / 无字拳谱",
+  "type": "典籍",
+  "grade": "珍品",
+  "status": "活跃",
+  "description": "这并非凡俗书籍，而是大道的直接载体。无论是小镇的 山水格局，还是陈平安体内的十一境拳谱，皆是这部“无 字帖”的组成部分 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第769章 算计",
+      "owner": "兵器铺店主"
+    }
+  ],
+  "subtype": "修行类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "兵家初祖 / 齐静春",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "随修道者的体悟而显现文字，最高可直达武道十一境或 合道境界 。",
+  "supernatural_ability": "不立文字，言传身教，能够根据阅读者的道心自动演化 出最契合的功法路径 。",
+  "evolution": {
+    "current_form": "原本嵌在陈平安人身山河中的拳意脉络，亦指代小镇本 身这部无字书 。",
+    "materials_consumed": [
+      "上古道意",
+      "武运精华"
+    ],
+    "potential_evolution": "可演化为承载“人性”与“神性”平衡的终极法门 。"
+  },
+  "visual": {
+    "static": "看似空白的纸张或石碑，实则内藏乾坤 。",
+    "active": "随心意流转，可在识海中显化出神人打桩、万法生发的 景象 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的根本传承，由齐静春等圣人代代守护 。",
+    "karma_link": "连接了陈平安从小镇窑工到绝代武夫的修心之路 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "绿腰",
+  "original_name": "绿腰娘娘 / 叠叶山神",
+  "type": "灵物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "绿腰是莲藕福地叠叶山的山神，被尊称为“绿腰娘娘”。她原本是管理“乞花场”的淫祠神灵，因其属下庙 祝精通冶炼铸造，能在其金身内孕育金精铜钱，是福地中极具潜力的新兴神祇。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1213章 意气生",
+      "owner": "高弑"
+    }
+  ],
+  "subtype": "镇压类",
+  "holder": "绿腰",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为莲藕福地本土产生的山神，具备通过香火浸染升格为正统山神的潜力。",
+  "supernatural_ability": "“香火炼钱”。能通过祠庙香火炼虚为实，在神像内诞生金精铜钱雏形 。",
+  "evolution": {
+    "current_form": "一身绿衣、容貌妩媚的山神娘娘形象，身处叠叶山乞花场 。",
+    "materials_consumed": [
+      "人间香火",
+      "山水灵气"
+    ],
+    "potential_evolution": "受朝廷封正后可重塑金身，跻身更高级别的神道位次 。"
+  },
+  "visual": {
+    "static": "常年待在叠叶山乞花场山神庙，或在江边垂钓 。",
+    "active": "现出金身法相，调动整座叠叶山的山水气运，周身有灵气云霞环绕。"
+  },
+  "provenance": {
+    "origin": "莲藕福地灵气复苏后应运而生的本土英灵神祇 。",
+    "karma_link": "与落魄山山主陈平安曾有一场关于符箓买卖的缘分 。"
+  },
+  "enriched": true
+}

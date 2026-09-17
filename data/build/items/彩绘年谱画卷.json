@@ -1,0 +1,38 @@
+{
+  "name": "彩绘年谱画卷",
+  "original_name": "落魄山年谱 / 箜篌删述本",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此画卷是落魄山的**“家族志”与“问心书”**，承载了宗门每一个历史节点的**温情与豪气** 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第986章 武夫见我竹楼",
+      "owner": "箜篌"
+    }
+  ],
+  "subtype": "记录类",
+  "holder": "箜篌 (白发童子)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随落魄山宗门气运与英才辈出而不断增强，具备演化为“一山历史长河”的潜力 。",
+  "supernatural_ability": "以雅集长卷的形式记录宗门大事与贵客履历，字迹与画像皆有真灵感应，能留存大修士的余韵 。",
+  "evolution": {
+    "current_form": "一部文字质朴、配有生动画像的宗门编年史册 。",
+    "materials_consumed": [
+      "岁除宫笔墨纸张",
+      "落魄山山水精气"
+    ],
+    "potential_evolution": "若能集齐“二十人”墨宝，可进化为能够预测宗门未来兴衰的推演重器 。"
+  },
+  "visual": {
+    "static": "文字规矩且质朴，配画极多，色彩绚烂如真迹 。",
+    "active": "翻阅时人物会动，甚至能隐约重现当时的对话与剑气震动异象 。"
+  },
+  "provenance": {
+    "origin": "由落魄山“编谱官”箜篌提议并着手编纂 。",
+    "karma_link": "作为落魄山内门弟子的职责所在，记录了陈平安与纯阳真人等人的会晤 。"
+  },
+  "enriched": true
+}

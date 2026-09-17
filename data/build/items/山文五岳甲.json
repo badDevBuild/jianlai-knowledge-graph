@@ -1,0 +1,42 @@
+{
+  "name": "山文五岳甲",
+  "original_name": "五岳甲",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "**大骊边军五种山上甲胄中品秩最高的一种** 。铸造过程动用了大量搬山精怪和符箓力士，将各地山岳的**五色土**搬迁并炼化其中 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第735章 列阵在前",
+      "owner": "大骊重甲步卒"
+    },
+    {
+      "chapter": "第1173章 就酒",
+      "owner": "大骊边军"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "大骊边军",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为制式甲胄中品秩最高者，随大骊国力增长具备极强的压胜力。",
+  "supernatural_ability": "能够引导一洲山岳厚重之势，形成坚不可摧的防御屏障。",
+  "evolution": {
+    "current_form": "大骊工部打造的顶尖山上甲胄。",
+    "materials_consumed": [
+      "五色土",
+      "山上符箓手段"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "甲片呈现出复杂的山纹，隐约有五岳起伏之象，散发沉稳的土属灵气 。",
+    "active": "激发时会产生类似于山岳压顶的威压，大幅度削减物理与术法伤害 。"
+  },
+  "provenance": {
+    "origin": "由大骊工部、墨家匠人与符师联手打造 。",
+    "karma_link": "大骊铁骑南下征伐一洲的重要军备支撑 。"
+  },
+  "enriched": true
+}

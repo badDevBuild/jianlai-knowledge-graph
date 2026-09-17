@@ -1,0 +1,52 @@
+{
+  "name": "宝塔铃",
+  "original_name": "大源古寺檐下法器",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "**宝塔铃**是北俱芦洲极其罕见的警示类灵器。它不仅能让持铃者在跋山涉水时省去诸多符箓，更是身 份的象征，被心声斋主人**余远**列入名铃图录 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第540章 别有洞天",
+      "owner": "孙道长"
+    },
+    {
+      "chapter": "第541章 得宝",
+      "owner": "孙道人"
+    }
+  ],
+  "subtype": "警示类 / 破障类",
+  "holder": "孙道人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大源王朝某古寺",
+      "relation": "原主"
+    },
+    {
+      "name": "深山洞窟白骨",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为被记录在《无声集》中的名铃，具有极高的收藏和实战价值，对于低阶鬼魅具有天然压胜作用 。",
+  "supernatural_ability": "具有“惊觉、欢喜、说法”三义；每当妖物鬼祟靠近会自行响动示警，并能明目静心，不受山水迷障蒙蔽 。",
+  "evolution": {
+    "current_form": "挂在腰间的铃铛。",
+    "materials_consumed": [
+      "佛门愿力",
+      "庚金精华"
+    ],
+    "potential_evolution": "若能寻回其余散落部件，可重现古寺法器威能。"
+  },
+  "visual": {
+    "static": "形制古朴，表面刻有微缩宝塔纹路，带有岁月的斑驳感 。",
+    "active": "遇到阴煞戾气会急促震动，发出如雷鸣或天籁的清音 。"
+  },
+  "provenance": {
+    "origin": "源自大源王朝一座被拆毁的古老寺庙，后流落民间 。",
+    "karma_link": "孙道人在深山洞窟的白骨遗骸上偶然寻见此物 。"
+  },
+  "enriched": true
+}

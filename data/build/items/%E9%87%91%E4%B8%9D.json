@@ -1,0 +1,43 @@
+{
+  "name": "金丝",
+  "original_name": "周澄剑意",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这是大剑仙周澄留给裴钱的压箱底护道之物 。裴钱将其视为极珍贵的纪念，常常与之对话或共同修行 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第639章 一人喃喃，群山回响",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "护道/剑意类",
+  "holder": "裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "周澄",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随着裴钱拳意与剑术的提升，金丝可化为实质性的攻伐手段 。",
+  "supernatural_ability": "蕴含大剑仙周澄的精粹剑意，可镇压一切靠近持有者的邪祟 。",
+  "evolution": {
+    "current_form": "缠绕在裴钱行山杖内的几缕金色剑光 。",
+    "materials_consumed": [
+      "巅峰剑仙意气"
+    ],
+    "potential_evolution": "有望与裴钱的本命飞剑产生共鸣，甚至助力其结成剑胆 。"
+  },
+  "visual": {
+    "static": "表现为数缕纤细如发、凝而不散的金色丝线 。",
+    "active": "在战斗中可激发出璀璨的金色剑芒，杀力巨大 。"
+  },
+  "provenance": {
+    "origin": "剑气长城女子剑仙周澄在临战前的赠礼 。",
+    "karma_link": "体现了剑气长城长辈对裴钱这一代剑道种子的厚爱 。"
+  },
+  "enriched": true
+}

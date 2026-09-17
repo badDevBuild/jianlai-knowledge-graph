@@ -1,0 +1,38 @@
+{
+  "name": "晚翠亭碧桃",
+  "original_name": "山灵碧桃",
+  "type": "灵物",
+  "grade": "仙果",
+  "status": "消耗",
+  "description": "这不仅是风景，更是大骊山河气象的缩影。它通过山灵 与云气的互动，展现了天人感应的自然美学 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第790章 备战",
+      "owner": "群玉韵府"
+    }
+  ],
+  "subtype": "天象/气韵类",
+  "holder": "禹州律宗古寺",
+  "holder_relation": "寄托",
+  "rank": "灵器",
+  "rank_potential": "随山灵仙君的呼吸而生长，具有汇聚五彩云霞、滋养一 方风水的功效 。",
+  "supernatural_ability": "每逢雨后初霁，能引动“山灵仙君”驱使五彩云降临亭下 ，形成视觉奇观 。",
+  "evolution": {
+    "current_form": "在古寺晚翠亭畔自然生长、被灵气萦绕的桃树 。",
+    "materials_consumed": [
+      "禹州地气",
+      "五彩神云"
+    ],
+    "potential_evolution": "若能结出实物果实，可成为延年益寿的仙品。"
+  },
+  "visual": {
+    "static": "桃花灼灼，即使在酷暑时分也显得清凉异常，树下常有 云雾缭绕 。",
+    "active": "当五彩云至，整棵桃树如沐神光，花瓣与云气交融，若 隐若现 。"
+  },
+  "provenance": {
+    "origin": "位于宝瓶洲大骊王朝禹州境内的一座律宗寺庙 。",
+    "karma_link": "陈平安的儒生分身曾在此赏景悟道，体察“春易困”的人 间情理 。"
+  },
+  "enriched": true
+}

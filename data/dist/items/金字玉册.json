@@ -1,0 +1,43 @@
+{
+  "name": "金字玉册",
+  "original_name": "金字道书",
+  "type": "典籍",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是一部记载了顶级修行路径的仙家重宝。其珍稀程度在于不仅提供了理论，更提供了与大道感通的实 物载体，是陈平安在仙人境稳固根基的重要依靠 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1167章 一条剑光无限意",
+      "owner": "陈平安 (吴霜降赠)"
+    }
+  ],
+  "subtype": "传承类 / 秘术类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "记载了岁除宫秘传的旁门飞升法，是辅助练气士突破境界极限的终极资粮 。",
+  "supernatural_ability": "“道法推演”。玉册能涌出至精至纯的紫金道气，如龙蛇驾驭雷电，帮助持有者在太虚境界中参悟高深道 法，并记录了如何以“五彩金匮灶”炼制本命物的秘诀 。",
+  "evolution": {
+    "current_form": "篆刻在碧色玉册上的金字道诀 。",
+    "materials_consumed": [
+      "岁除宫万年道韵"
+    ],
+    "potential_evolution": "完全参透后，可开辟出独立于传统体系之外的飞升路径 。"
+  },
+  "visual": {
+    "static": "碧绿色的玉质书页，表面覆盖有密集的金色文字，文字间隐隐有电浆流淌 。",
+    "active": "翻阅时产生宏大的雷鸣声，文字会脱离玉册在空中重新排列结阵 。"
+  },
+  "provenance": {
+    "origin": "岁除宫吴霜降的私人珍藏 。",
+    "karma_link": "作为陈平安参与夜航船战事的补偿，承载了吴霜降对陈平安及其下宗的某种投资因果 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,45 @@
+{
+  "name": "《放心集》",
+  "original_name": "放心集",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "该书是披麻宗经营骸骨滩的重要产物，旨在告诫修士“在谷内应如何真正放心”，承载了一洲对远古战场 伤痛的系统整理 。",
+  "aliases": [
+    "放心集"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第492章 西山老狐乱嫁女",
+      "owner": "陈平安(持有)"
+    }
+  ],
+  "subtype": "修行指导 / 禁忌类",
+  "holder": "宁姚 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "披麻宗",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "书中所载的“货殖篇”与“神异篇”价值随修士眼界开阔而提升 。",
+  "supernatural_ability": "包含鬼蜮谷内的详细势力划分（如京观城、肤腻城）及对应的应变之策 。",
+  "evolution": {
+    "current_form": "纸质版刻书册 。",
+    "materials_consumed": [
+      "古战场遗迹秘闻"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "看似寻常的书籍，实则每一页都印有特殊的防伪与加持灵光 。",
+    "active": "阅读时能观照谷内部分已知地界的阴气流动趋势 。"
+  },
+  "provenance": {
+    "origin": "披麻宗木衣山祖师堂编撰 。",
+    "karma_link": "宁姚在重返浩然天下游历期间亦曾翻阅此书，用于了解桐叶洲外的山川风物 。"
+  },
+  "enriched": true
+}

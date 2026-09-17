@@ -1,0 +1,46 @@
+{
+  "name": "剑仙图",
+  "original_name": "婆娑洲丹青圣手临摹卷",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**剑仙图是一套极具收藏与实战价值的画卷**。它记录了剑气长城历史上百位大剑仙的风采，既是陈平 安对那段岁月的缅怀，也是落魄山防御体系的重要组成部分 。",
+  "aliases": [
+    "百剑仙图"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第284章 姑娘请自重",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "阵法/纪念类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "倒悬山店铺",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "结合特定剑阵（如太师山剑阵）后，可让画中剑仙英灵“显化”对敌，杀力倍增",
+  "supernatural_ability": "画中剑仙栩栩如生，具备一定的剑意波动，可辅助修士感悟远古剑道气象",
+  "evolution": {
+    "current_form": "五幅大长卷，每幅绘有二十位寸长剑仙",
+    "materials_consumed": [
+      "名家笔墨",
+      "剑修道韵"
+    ],
+    "potential_evolution": "演化为具备百位剑仙英灵坐镇的山水剑阵图"
+  },
+  "visual": {
+    "static": "长卷之上，剑仙姿态各异，白雾凝聚，纤毫毕现",
+    "active": "展开时剑气冲霄，配合阵法可化作真实的剑光长河守卫山头"
+  },
+  "provenance": {
+    "origin": "由婆娑洲丹青圣手临摹剑气长城敬剑阁挂像而成",
+    "karma_link": "陈平安将其带回落魄山，用于装点门户并镇压山巅风水"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "竹蒿",
+  "original_name": "斩锁符竹篙 / 打龙篙",
+  "type": "符箓",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一件被低估的重宝。其上篆刻的“作甚务甚”本是上古斩锁符的残篇，陈平安凭借过目不忘的本领将 其还原，使其成为了跨越险阻的关键。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第561章 两破境",
+      "owner": "李二"
+    }
+  ],
+  "subtype": "压胜/渡水类",
+  "holder": "陈平安 (曾持有/强化)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "桂花岛老舟子",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若是由圣人亲笔补完“雨师敕令”四字，可压胜上五境蛟龙。",
+  "supernatural_ability": "原本可惊退水底普通蛟龙。经陈平安以“小雪锥”补全符箓后，具备真正的“斩锁”威能。",
+  "evolution": {
+    "current_form": "丈余长的翠绿竹篙，刻有血迹斑斑的符文。",
+    "materials_consumed": [
+      "神霄竹残韵",
+      "陈平安纯粹真气"
+    ],
+    "potential_evolution": "可演化为镇压江河大渎的锁龙桩。"
+  },
+  "visual": {
+    "static": "看似寻常的撑船竹竿，但符文线条处透着淡淡的暗红色。",
+    "active": "点燃符胆后，竹篙之上雷鸣阵阵，水纹激荡，令龙种畏惧。"
+  },
+  "provenance": {
+    "origin": "老龙城范家桂花岛，由老舟子世代相传。",
+    "karma_link": "在蛟龙沟一役中，陈平安通过此物展现了其在符箓一道上的惊人悟性。"
+  },
+  "enriched": true
+}

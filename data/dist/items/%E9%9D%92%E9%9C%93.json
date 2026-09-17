@@ -1,0 +1,38 @@
+{
+  "name": "青霓",
+  "original_name": "青霓福地",
+  "type": "灵物",
+  "grade": "福地",
+  "status": "活跃",
+  "description": "**青霓福地是龙象剑宗的核心底蕴之一**。它不仅是剑 仙们的落脚地，更是齐廷济安置那拨在蛮荒战场厮杀多 年的“私剑”之所，代表了剑气长城遗志在异乡的延续 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1159章 逍遥游",
+      "owner": "龙象剑宗"
+    }
+  ],
+  "subtype": "地理/空间类",
+  "holder": "齐廷济",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为承载了大量“私剑”剑修的福地，具备演化为一处跨 越天下的剑道圣地的潜力 。",
+  "supernatural_ability": "内含稳定的小天地，可供多位上五境剑仙共同修行而不 互相排斥，具备极佳的隐蔽性 。",
+  "evolution": {
+    "current_form": "被龙象剑宗掌管的一处福地秘境 。",
+    "materials_consumed": [
+      "剑意精华",
+      "洞天本源"
+    ],
+    "potential_evolution": "可与龙象剑宗的宗门山头融合，提升整体地利等级 。"
+  },
+  "visual": {
+    "static": "在外界观之，如同一粒青色的微尘或一枚朴拙的玉牌。",
+    "active": "内部山川壮丽，剑气交织，常年有如青色霓裳般的绚烂 霞光环绕山巅 。"
+  },
+  "provenance": {
+    "origin": "推测为龙象剑宗在五彩天下或蛮荒天下开疆拓土所得 。",
+    "karma_link": "安置了大量不愿返回浩然天下的剑气长城“私剑” 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,42 @@
+{
+  "name": "万岁酒",
+  "original_name": "碧霄最高级仙酿",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是老观主招待真正同道（如小陌）的压轴好酒。它代 表了碧霄洞道统在岁月流转中的终极沉淀 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1060章 明月中酒还行",
+      "owner": "老观主"
+    },
+    {
+      "chapter": "第1064章 （2） 某年的杂花生树",
+      "owner": "老观主"
+    }
+  ],
+  "subtype": "破境/不朽类",
+  "holder": "小陌 / 老观主",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "此酒已达灵物极致，一滴即可让垂死之人白骨生肉 。",
+  "supernatural_ability": "蕴含万年光阴磨砺出的纯粹道意，饮之可助人勘破生死 大限 。",
+  "evolution": {
+    "current_form": "散发淡淡金光的深邃酒液 。",
+    "materials_consumed": [
+      "万年灵芝",
+      "远古神灵真血 (极微量)"
+    ],
+    "potential_evolution": "炼化入体可成就“万寿无疆”之金身 。"
+  },
+  "visual": {
+    "static": "在碗中旋转如太极，映照出诸天星辰之象 。",
+    "active": "入口即化为滚滚灵气，有那如登玉京、俯瞰人间的至高 视野 。"
+  },
+  "provenance": {
+    "origin": "碧霄三酒之首，酿造难度最高 。",
+    "karma_link": "与老观主合道“天时”的修行密切相关 。"
+  },
+  "enriched": true
+}

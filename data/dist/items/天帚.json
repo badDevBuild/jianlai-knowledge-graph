@@ -1,0 +1,48 @@
+{
+  "name": "天帚",
+  "original_name": "天帚剑",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这把剑曾在问剑正阳山时被姜尚真踩在脚下，展现了一 位“大剑仙”的无敌气概 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第768章 压压惊",
+      "owner": "姜尚真"
+    },
+    {
+      "chapter": "第823章 你试试看",
+      "owner": "姜尚真"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "姜尚真",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "北俱芦洲秘府",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "具备横扫万物的威势，尤其克制阵法与群体敌军 。",
+  "supernatural_ability": "“扫尽人间腌臜”，能够在大范围内切割空间，摧毁敌方 术法结构 。",
+  "evolution": {
+    "current_form": "姜尚真早年得自北俱芦洲的一把仙剑 。",
+    "materials_consumed": [
+      "星辰铁",
+      "太虚灵气"
+    ],
+    "potential_evolution": "可与“甲午生”配合形成双剑大阵 。"
+  },
+  "visual": {
+    "static": "剑身细长，色泽如星光汇聚的扫帚痕迹 。",
+    "active": "御剑时如一道银河划破长空，气势如虹 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲某一处上古剑仙遗留的秘境 。",
+    "karma_link": "是姜尚真横行一洲、成名已久的本钱之一 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "桂花岛",
+  "original_name": "范家跨洲渡船",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "桂花岛不仅是一艘跨洲渡船，更是老龙城范家的立身之本。它承载着连接倒悬山与浩然天下的商贸命脉 ，岛上的“桂花岛十景”更是驰名山上 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第252章 泥菩萨踩剑过河",
+      "owner": "老龙城范家"
+    }
+  ],
+  "subtype": "空间/渡船类",
+  "holder": "老龙城范家",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "范家历代家主",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为老龙城跨洲航线的核心，具备独立的山水大阵，甚至拥有一株“祖宗桂”作为根基 。",
+  "supernatural_ability": "**稳如磐石**：开启山水阵法后能抵御海上诸多天灾，甚至在波涛汹涌的蛟龙沟也能安然前行 。",
+  "evolution": {
+    "current_form": "巨大的仙家楼船",
+    "materials_consumed": [
+      "神仙钱",
+      "桂花水运"
+    ],
+    "potential_evolution": "作为未来大宗门的海上移动宗门枢纽"
+  },
+  "visual": {
+    "static": "宏伟的海上渡船，山顶有一株枝繁叶茂、叶茂如盖的祖宗老桂树 。",
+    "active": "航行时云雾缭绕，阵法全开时会有桂叶状的光影护盾笼罩整座岛屿 。"
+  },
+  "provenance": {
+    "origin": "由老龙城范家经营数千年的跨洲核心资产 。",
+    "karma_link": "陈平安曾在此岛上与金丹剑修马致试剑，并结识了范二与桂姨 [11-13]。"
+  },
+  "enriched": true
+}

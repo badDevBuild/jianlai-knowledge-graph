@@ -1,0 +1,48 @@
+{
+  "name": "河图摹本",
+  "original_name": "远古三山五嶽十渎图",
+  "type": "灵物",
+  "grade": "重宝",
+  "status": "活跃",
+  "description": "这是一幅关于远古天下地理分布的至高秘典 。它不仅是一份地图，更是掌控世界规律的符阵枢 纽，是陈平安应对十四境强敌的重要参考 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1032章 题外话",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "地理/气运类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "原主"
+    },
+    {
+      "name": "周密",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古地理的最后见证，若能补全失传的“东山”地脉 ，可重塑一界风水 。",
+  "supernatural_ability": "主掌阴阳造化与五行运行，能定生死之期，并辅助修士 在太虚中精准定位 。",
+  "evolution": {
+    "current_form": "绘刻在古老剑匣或卷轴上的宏大图卷 。",
+    "materials_consumed": [
+      "天地气运",
+      "远古神性道痕"
+    ],
+    "potential_evolution": "演变为能够敕令天下山河神灵的“万法宗坛” 。"
+  },
+  "visual": {
+    "static": "图上山峦起伏，水系纵横，文字生涩如鸟篆 。",
+    "active": "激发时图卷会自动流转，显化出神人尸坐、云隐龙飞的 壮阔异象 。"
+  },
+  "provenance": {
+    "origin": "最早由三山九侯先生亲自铸造绘制，后流转至周密及绶 臣手中 。",
+    "karma_link": "连接了陈平安对“三山”大道的探索与对蛮荒大势的推演 。"
+  },
+  "enriched": true
+}

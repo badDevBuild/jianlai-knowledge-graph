@@ -1,0 +1,46 @@
+{
+  "name": "怀镜",
+  "original_name": "铜镜 / 辟邪镜 / 宫家仿古镜",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安持有的这枚“宫家造”仿古镜，在同类法器中极具分量。它是陈平安在深山鬼宅、古战场遗址中行 走时的重要依仗 。",
+  "aliases": [
+    "压岁钱"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第341章 河上金桥",
+      "owner": "无"
+    }
+  ],
+  "subtype": "压胜类 / 探测类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "黄师",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为“宫家营造”的精品，具备成长为法宝甚至半仙兵的材质底蕴 。",
+  "supernatural_ability": "**“御凶除央”**。正面刻有“辟兵莫当”，背面“御凶除央”，能天然压胜鬼魅秽物，看破邪祟虚妄 。",
+  "evolution": {
+    "current_form": "质地古旧的青铜镜，带有极其细微的“宫家营造”落款 。",
+    "materials_consumed": [
+      "精铁",
+      "月华"
+    ],
+    "potential_evolution": "可配合雷法演化为大范围的驱邪阵法 。"
+  },
+  "visual": {
+    "static": "镜身纹路古朴，带有云雷连弧纹，镜面体素储洁 。",
+    "active": "激发时镜面大放光明，产生类似“白日升天”的异象，使鬼魅消融 。"
+  },
+  "provenance": {
+    "origin": "由中土神洲著名的器物世家“宫家”仿制古镜而成 。",
+    "karma_link": "陈平安在北俱芦洲访山寻宝后从武夫黄师手中获得，是其重要的压胜法器 。"
+  },
+  "enriched": true
+}

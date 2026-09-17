@@ -1,0 +1,48 @@
+{
+  "name": "幽篁（仿品）",
+  "original_name": "恨剑山仿剑“幽篁”",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是恨剑山仿造上古名剑而成的作品。它以极高的隐蔽性著称，是山泽野修和地仙修士争相抢购的实战 利器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第270章 好久不见，宁姑娘",
+      "owner": "姚姓女子剑仙 (原主)"
+    },
+    {
+      "chapter": "第272章 陈平安，你听我说",
+      "owner": "宁姚之母"
+    }
+  ],
+  "subtype": "攻伐类 / 隐匿类",
+  "holder": "陈平安 (曾持有)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "恨剑山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "专注于隐蔽与偷袭的仿造飞剑，具备极高的金属密度感和空间穿透性 。",
+  "supernatural_ability": "**“空谷幽声”**。在出剑过程中几乎不带声息，且能随着竹林等特定环境完美隐匿剑气 。",
+  "evolution": {
+    "current_form": "翠绿色的袖珍飞剑，质地如竹，却坚韧异常 。",
+    "materials_consumed": [
+      "深山苦竹精华",
+      "恨剑山秘铁"
+    ],
+    "potential_evolution": "若能融入真实的青神山绿竹，可提升至法宝品秩 。"
+  },
+  "visual": {
+    "static": "微缩如针，色泽翠绿且深邃，不露锋芒 。",
+    "active": "化作一道幽绿流萤，轨迹诡谲，甚至能割裂空间产生黑色缝隙 。"
+  },
+  "provenance": {
+    "origin": "源自北俱芦洲恨剑山的精密仿造工艺 。",
+    "karma_link": "是陈平安用于完善“百剑阵”或作为护身底牌的重要家当之一 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "沉彩",
+  "original_name": "鲜红法袍“沉彩”",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“沉彩”法袍以其恐怖的魂魄炼化能力著称。它不仅提供极致的物理和法术防御，更是穿戴者修习邪异大 道的关键载体，通过收割战场生命来不断进化 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第733章 持剑者",
+      "owner": "重光"
+    }
+  ],
+  "subtype": "防御类 / 气运类",
+  "holder": "绯妃 / 重光",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "蛮荒天下甲子帐大妖",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "位列数座天下十大法袍之一，具备辅助持有人跻身十四境的合道资质 , 。",
+  "supernatural_ability": "能够大范围炼化战场的阴冥煞气，将其中的魂魄提取并转化为纯粹清气，以此滋养穿戴者的大道 。",
+  "evolution": {
+    "current_form": "血红色的宽大法袍 。",
+    "materials_consumed": [
+      "百万战场英灵",
+      "阴冥煞气"
+    ],
+    "potential_evolution": "若能成功炼化整座桐叶洲战场的魂魄，可助持有者合道“幽明光阴” 。"
+  },
+  "visual": {
+    "static": "一袭鲜红夺目的袍子，表面泛起阵阵诡异的涟漪 。",
+    "active": "法袍表面会隐约浮现出无数张狰狞的冤魂脸孔，血海滚动，气压山河 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下顶级大妖秘制的防御重器 。",
+    "karma_link": "作为重光在桐叶洲战场的统筹工具，是蛮荒势力蚕食浩然气运的重要媒介 。"
+  },
+  "enriched": true
+}

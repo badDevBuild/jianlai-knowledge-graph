@@ -1,0 +1,44 @@
+{
+  "name": "避月",
+  "original_name": "避月",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是大篆王朝“守门人”——女子武神最珍视的长剑，陪伴其走过漫长的修行岁月，最终传给关门弟子郑水 珠 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第516章 山水迢迢",
+      "owner": "郑水珠"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "郑水珠",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大篆女子武神",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为武道止境宗师的佩剑，具备极高的剑气积淀与杀力上限 。",
+  "supernatural_ability": "剑气极其锐利，且蕴含历经炼体与炼气六境磨砺而成的纯粹意气 。",
+  "evolution": {
+    "current_form": "无鞘长剑",
+    "materials_consumed": [
+      "武道意气",
+      "剑气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "长剑无鞘，由高大女子随身悬挂，在阳光映照下折射出雪白清亮的光线 。",
+    "active": "出剑时剑光夺目，气势凌人，行走间剑意凛冽 。"
+  },
+  "provenance": {
+    "origin": "大篆王朝女子武神的随身心爱之物 。",
+    "karma_link": "由师父作为传承之物，在郑水珠六岁时正式赠予 。"
+  },
+  "enriched": true
+}

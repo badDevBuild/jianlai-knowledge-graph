@@ -1,0 +1,49 @@
+{
+  "name": "大椿",
+  "original_name": "椿树",
+  "type": "灵物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "**大椿**是白玉京三掌教陆沉修行的核心视觉符号之一。它不仅代表了道家的高深境界，也是陆沉观察 万物、体悟**逍遥游**宗旨的重要媒介 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第313章 驭剑",
+      "owner": "陆舫"
+    },
+    {
+      "chapter": "第314章 误入藕花深处",
+      "owner": "陆舫"
+    },
+    {
+      "chapter": "第315章 他人争渡我破境",
+      "owner": "陆舫"
+    },
+    {
+      "chapter": "第319章 何为天下无敌",
+      "owner": "笑脸儿(已死)"
+    }
+  ],
+  "subtype": "辅助类/意境类",
+  "holder": "陆沉",
+  "holder_relation": "寄托",
+  "rank": "仙兵",
+  "rank_potential": "作为**十四境大修士**的心相显化，其道意高度等同于天道循环 。",
+  "supernatural_ability": "象征“上古有大椿者，以八千岁为春，八千岁为秋”的**极致长寿与时空跨度** 。",
+  "evolution": {
+    "current_form": "陆沉“心相七物”之一 。",
+    "materials_consumed": [
+      "大道感悟"
+    ],
+    "potential_evolution": "随陆沉合道境界演化为某种跨越天地的法则载体 。"
+  },
+  "visual": {
+    "static": "在陆沉的意识或特定小天地中呈现为一棵巨大无比、贯穿古今的神木 。",
+    "active": "当陆沉施展相关神通时，能够通过其意象干预时间流速或稳固心境道场 。"
+  },
+  "provenance": {
+    "origin": "源自庄子哲学意象，由白玉京三掌教陆沉炼化为自身心相 。",
+    "karma_link": "与陆沉在人间的“五梦”及“七心相”大道路径深度契合 。"
+  },
+  "enriched": true
+}

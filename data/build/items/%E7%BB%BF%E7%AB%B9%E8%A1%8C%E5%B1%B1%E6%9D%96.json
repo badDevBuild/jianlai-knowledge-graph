@@ -1,0 +1,56 @@
+{
+  "name": "绿竹行山杖",
+  "original_name": "行气铭绿竹杖 / 奋勇竹杖",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这根行山杖不仅是身份的象征，更是极佳的修行资粮。它蕴含的“行气”理念，对于追求体魄完美的纯粹 武夫而言是无价之宝。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第562章 南归北游",
+      "owner": "崔东山"
+    },
+    {
+      "chapter": "第606章 出言便作狮子鸣",
+      "owner": "崔东山"
+    },
+    {
+      "chapter": "第652章 立在明月中",
+      "owner": "周米粒"
+    }
+  ],
+  "subtype": "修行辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    },
+    {
+      "name": "魏檗 (同类物持有者)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "取材自青神山奋勇竹，不仅是登山利器，更是帮助武夫“一口气”顺遂的大道载体。",
+  "supernatural_ability": "杖身刻有行书《行气铭》，能辅助持有者理顺周身气机，具备“兵威破竹”之意。",
+  "evolution": {
+    "current_form": "一根青翠欲滴、刻有流畅行书的竹杖。",
+    "materials_consumed": [
+      "青神山灵气",
+      "仙人道韵"
+    ],
+    "potential_evolution": "长期陪伴武夫练拳，可演化为具备灵性的护道兵刃。"
+  },
+  "visual": {
+    "static": "颜色如新摘之竹，文字笔画间有金光微流。",
+    "active": "拄地行走时，能够自然牵引四周灵气，使行者步履轻盈且真气绵延。"
+  },
+  "provenance": {
+    "origin": "岁除宫吴霜降在夜航船上的赠礼。",
+    "karma_link": "连接了陈平安与青冥天下、白玉京之间的隐秘线索，是其身份的一种认可。"
+  },
+  "enriched": true
+}

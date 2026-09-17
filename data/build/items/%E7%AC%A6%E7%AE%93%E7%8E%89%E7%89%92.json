@@ -1,0 +1,38 @@
+{
+  "name": "符箓玉牒",
+  "original_name": "金书玉牒",
+  "type": "典籍",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是**宗门正统的物化体现**。无论是在上宗落魄山还 是下宗青萍剑宗，玉牒的每一次更新都代表了势力版图 的扩张 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1192章 任你万山围栏",
+      "owner": "柳倩"
+    }
+  ],
+  "subtype": "记录/法统类",
+  "holder": "落魄山 / 青萍剑宗",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为记录宗门核心道统的载体，随着弟子境界提升，可 演化为稳固宗门山根的基石 。",
+  "supernatural_ability": "用于载入核心嫡传弟子的姓名与道号，能感应其生死存 亡并庇护气运 。",
+  "evolution": {
+    "current_form": "质地极佳的玉石册子，文字由灵气熔铸而成 。",
+    "materials_consumed": [
+      "天材地宝",
+      "宗主心头血"
+    ],
+    "potential_evolution": "可升格为具有“言出法随”压胜力的宗门金玉谱牒 。"
+  },
+  "visual": {
+    "static": "宝光内敛，字迹遒劲有力，带有明显的山水灵气波动 。",
+    "active": "开笔录名之时，金光冲霄，能引发祖师挂像的感应 。"
+  },
+  "provenance": {
+    "origin": "源自上古道门或儒家学宫的法统记录仪轨 。",
+    "karma_link": "连接了落魄山成员与宗门之间的因果契约 。"
+  },
+  "enriched": true
+}

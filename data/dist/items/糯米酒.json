@@ -1,0 +1,45 @@
+{
+  "name": "糯米酒",
+  "original_name": "加餐酒 / 黄藤酒",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是一种在书简湖和宝瓶洲民间流传广泛的平价酒水。 陈平安常备此酒款待后辈，因其价格廉宜且充满烟火气 而深受落魄山成员喜爱 [20-22]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1016章 谁人道冠如莲花开",
+      "owner": "青泥"
+    }
+  ],
+  "subtype": "滋养/生活类",
+  "holder": "陈平安 / 裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "红酥 (黄撼)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽为市井土酿，但蕴含丰富的水运灵气，长期饮用可稳 固低阶修士的道基 。",
+  "supernatural_ability": "滋味软绵，易于入口。具有调理练气士气机、舒缓神魂 的微弱功效 。",
+  "evolution": {
+    "current_form": "黄纸封口、红绳缠绕的小坛酒水 。",
+    "materials_consumed": [
+      "糯米",
+      "精米",
+      "埋河清泉"
+    ],
+    "potential_evolution": "若浸入酒虫，可演化为“竹海洞天仙酿” 。"
+  },
+  "visual": {
+    "static": "酒色清亮或微黄，散发着米粮的甜香 。",
+    "active": "饮用时口感醇厚，能让人身小天地的灵气流转稍稍加快 。"
+  },
+  "provenance": {
+    "origin": "产自书简湖红酥家乡的官家酒坊 。",
+    "karma_link": "象征着陈平安在书简湖期间与那些“弱者”之间的温情记 忆 。"
+  },
+  "enriched": true
+}

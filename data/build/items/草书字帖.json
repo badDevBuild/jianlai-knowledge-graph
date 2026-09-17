@@ -1,0 +1,44 @@
+{
+  "name": "草书字帖",
+  "original_name": "《惜哉剑气疏》",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安在中五境修行期间极为看重的书法重宝。它不仅是文字的载体，更是他通过“炼字”来砥砺剑 锋、模拟大宗门护山大阵的关键道具 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第871章 当时坐上皆豪逸",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "意境类 / 剑经",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青蚨坊",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为蕴含强大剑意的书法名家真迹，具有辅助剑修领悟剑道真意、搭建剑阵框架的极高潜力 , 。",
+  "supernatural_ability": "“临摹显化”。持有者可以通过工笔白描的手法临摹字帖文字，将虚幻的剑意“事实化”与“真相化”，用于 搭建笼中雀等小天地的筋骨脉络 , 。",
+  "evolution": {
+    "current_form": "记载有草书文字的纸质长卷 。",
+    "materials_consumed": [
+      "精纯剑气",
+      "神识道韵"
+    ],
+    "potential_evolution": "可配合飞剑“井中月”演化为无限趋近于真实的复杂阵法空间 。"
+  },
+  "visual": {
+    "static": "笔法老辣、法度严谨且丰神独绝的草书字帖 , 。",
+    "active": "临摹时金色丝线会随笔锋生发，文字如同开启灵智般自行缝补道法漏洞 。"
+  },
+  "provenance": {
+    "origin": "陈平安从地龙山渡口的青蚨坊所得 。",
+    "karma_link": "见证了陈平安从单纯临摹书法到通过炼字成就“小千世界”的剑道进阶过程 , 。"
+  },
+  "enriched": true
+}

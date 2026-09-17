@@ -1,0 +1,38 @@
+{
+  "name": "磨方花钱",
+  "original_name": "青铜花钱",
+  "type": "灵器",
+  "grade": "重宝",
+  "status": "活跃",
+  "description": "这是一枚在彩衣国古宅围杀战中出现的探路灵物。中年 道人本欲借此窥探陈平安一行人的虚实，却因遭遇强力 因果碰撞而当场崩碎 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1070章 隔岸观大火燎原",
+      "owner": "朱某人"
+    }
+  ],
+  "subtype": "消耗类/探查类",
+  "holder": "中年道人 (彩衣国伏杀者)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为一次性探路灵物，其价值在于瞬间破障与预警，并 无长期进阶潜力。",
+  "supernatural_ability": "造型古朴，蕴含微弱灵气。被祭出后用于探寻敌方虚实 ，并在遭遇强力反击或阵法波动时自动崩碎以示警 。",
+  "evolution": {
+    "current_form": "一枚造型古朴的青铜花钱 。",
+    "materials_consumed": [
+      "精炼青铜",
+      "阵法残余"
+    ],
+    "potential_evolution": "无（已崩碎 ）。"
+  },
+  "visual": {
+    "static": "造型古雅，表面刻有传统民俗纹饰，带有经年的青铜锈 迹 。",
+    "active": "在阴雨天气下被祭出，闪烁微弱灵光，破碎时发出清脆 的金石断裂声 。"
+  },
+  "provenance": {
+    "origin": "山泽野修用于江湖行走的常用消耗品。",
+    "karma_link": "见证了陈平安在彩衣国遭遇的围剿战，标志着山泽野修 之间尔虞我诈的博弈 。"
+  },
+  "enriched": true
+}

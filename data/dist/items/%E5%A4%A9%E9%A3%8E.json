@@ -1,0 +1,38 @@
+{
+  "name": "天风",
+  "original_name": "罡风/天风",
+  "type": "其他",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "指代高层天幕中纯正而猛烈的风。在修道者眼中，它是 天地运行的节律之一，亦是飞行遁法的阻力与助力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第819章 问剑做客两不误",
+      "owner": "冷绮"
+    }
+  ],
+  "subtype": "气象/环境类",
+  "holder": "大自然 (九洲天幕)",
+  "holder_relation": "寄托",
+  "rank": "仙兵",
+  "rank_potential": "在极高处可演化为能撕裂地仙金身的凛冽杀机 。",
+  "supernatural_ability": "于高空之处吹拂，能砥砺剑气，考验练气士的定力与体 魄 。",
+  "evolution": {
+    "current_form": "存在于云霄之上的强劲风力 。",
+    "materials_consumed": [
+      "天地灵气",
+      "日月之光"
+    ],
+    "potential_evolution": "若得风伯敕令，可化为摧毁一国之城的灾殃 。"
+  },
+  "visual": {
+    "static": "不可见，表现为云海的剧烈翻涌 。",
+    "active": "吹拂之时衣袂猎猎，能使剑光产生微妙的偏转与震颤 。"
+  },
+  "provenance": {
+    "origin": "自然界高层大气的规律运转 。",
+    "karma_link": "是剑仙御剑远游、横跨大洲时必然面对的大道磨砺 。"
+  },
+  "enriched": true
+}

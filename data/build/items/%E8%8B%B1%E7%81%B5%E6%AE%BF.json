@@ -1,0 +1,44 @@
+{
+  "name": "英灵殿",
+  "original_name": "蛮荒英灵殿",
+  "type": "其他",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "蛮荒天下的权力中心，被称为“老鼠洞”。它是十四王座大妖决定天下大事的场所，同时也是一座禁锢强 者魂魄的牢笼。在大战中，其作为蛮荒的核心法宝，不仅提供了极高的战力加持，也象征着蛮荒法则的 残酷与强大 , , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1105章 一个新鲜故事",
+      "owner": "萧愻"
+    }
+  ],
+  "subtype": "镇压/秘境类",
+  "holder": "萧愻",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "初升",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "蛮荒天下的气运枢纽之一，具备演化一方天地规则的潜力 , 。",
+  "supernatural_ability": "殿内设有十四个巨大的王座，用于蛮荒大妖议事，具备极强的防御与因果镇压能力 , 。",
+  "evolution": {
+    "current_form": "一座形态如古井的巨大深渊秘境 。",
+    "materials_consumed": [
+      "远古大妖真身残余",
+      "蛮荒天地气运"
+    ],
+    "potential_evolution": "可作为重塑蛮荒神道的根基 , 。"
+  },
+  "visual": {
+    "static": "外观如同一个巨大的深渊或古井，四壁悬浮着高低不平的巨大王座 。",
+    "active": "王座之上可见远古大妖的真身或法相，阴森可怖，气象万千 , 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下腹地，曾是远古战场遗址 。",
+    "karma_link": "最早由大妖初升创建，后被叛出剑气长城的隐官萧愻炼化持有 , 。"
+  },
+  "enriched": true
+}

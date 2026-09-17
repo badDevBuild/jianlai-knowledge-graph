@@ -1,0 +1,41 @@
+{
+  "name": "米裕佩剑",
+  "original_name": "横扫",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**横扫**是剑气长城玉璞境剑仙米裕的佩剑。由其兄长米祜赠送，虽然米裕平时意态慵懒，但以此剑出 战时杀力惊人 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第637章 远游人皆是蒲公英",
+      "owner": "米裕"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "米裕",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "米祜",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "品秩极高，曾在老龙城战场上展现出拦腰斩断大妖的惊人杀力 。",
+  "supernatural_ability": "剑气恢弘如瀑，杀力巨大，特别擅长处理大范围的妖族地仙 。",
+  "evolution": {
+    "current_form": "铭文“横扫”的长剑形态",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "剑身篆刻“横扫”二字，通常悬挂于米裕腰间 。",
+    "active": "剑气纵横，能轻易将妖族地仙分尸 。"
+  },
+  "provenance": {
+    "origin": "其兄长大剑仙米祜赠予 。",
+    "karma_link": "陪伴米裕在老龙城战场大放异彩，是其杀力的核心体现之一 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "祖泉",
+  "original_name": "人间第一枚钱币 / 钱币之始",
+  "type": "货币",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "祖泉是浩然天下及其他天下所有货币体系的大道源头。 它不仅代表财富，更代表了一种古老而根本的秩序逻辑 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1126章 二十人与候补们（八）",
+      "owner": "未知"
+    }
+  ],
+  "subtype": "灵物/因果类",
+  "holder": "未知 (古天庭或远古圣贤)",
+  "holder_relation": "寄托",
+  "rank": "仙兵",
+  "rank_potential": "承载了整个人间贸易的大道初衷，具备定义价值的绝对 权柄。",
+  "supernatural_ability": "作为万钱之母，能够感应并压制天下所有金石气息，连 金精铜钱在其面前都显逊色 。",
+  "evolution": {
+    "current_form": "传说中的始祖钱币样式。",
+    "materials_consumed": [
+      "天地初开的精金",
+      "万古秩序"
+    ],
+    "potential_evolution": "作为重塑数座天下经济纽带的终极符玺。"
+  },
+  "visual": {
+    "static": "不可见。在古籍记载中，其色暗金，气息深邃无边 。",
+    "active": "现世时可引发天地气运大震，万千钱币皆会有所感应并 俯首。"
+  },
+  "provenance": {
+    "origin": "诞生于远古时代，是人间有序交易的逻辑起点 。",
+    "karma_link": "是长命（金精铜钱祖钱）和汲清（谷雨钱祖钱）共同追 溯的先祖 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "仿制白玉京",
+  "original_name": "青铜宝塔 / 仿白玉京宝塔",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "损毁",
+  "description": "这座宝塔是玉符宫的镇山之宝，曾被道祖手下留情而得以保存。它不仅是威力惊人的法宝，更是陈平安 在符箓与炼物大道上的重要资粮 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第484章 北俱芦洲无奇怪",
+      "owner": "大骊王朝"
+    }
+  ],
+  "subtype": "镇压 / 攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "玉符宫老宫主",
+      "relation": "原主"
+    },
+    {
+      "name": "荷花庵主",
+      "relation": "曾持有"
+    },
+    {
+      "name": "离真",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "曾为半仙兵，大炼后可作为自身山祠府邸的辅助本命物 。",
+  "supernatural_ability": "内部含有极其复杂的符箓道意，能显化五城十二楼的嵯峨气象，压胜同境修士 。",
+  "evolution": {
+    "current_form": "一座巴掌大小、青铜材质的小巧宝塔 。",
+    "materials_consumed": [
+      "五行之气",
+      "道门真意"
+    ],
+    "potential_evolution": "在观海境开辟新窍穴后，可演化为镇压自身人身小天地的枢纽 。"
+  },
+  "visual": {
+    "static": "制作极精，微缩了白玉京的全貌，带有古朴的青铜色泽 。",
+    "active": "祭出后会迅速扩大，显化出真实的楼阁殿宇，伴随宏大的道门清气 。"
+  },
+  "provenance": {
+    "origin": "最早为玉符宫老宫主所炼，后经荷花庵主送给离真，最终在托月山一役后被陈平安获得 。",
+    "karma_link": "是大骊朝廷专门针对飞升境修士布局的核心法阵模板之一 。"
+  },
+  "enriched": true
+}

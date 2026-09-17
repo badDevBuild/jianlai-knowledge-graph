@@ -1,0 +1,48 @@
+{
+  "name": "雪白剑鞘",
+  "original_name": "龙君灰袍残余 / 剑仙鞘",
+  "type": "其他",
+  "grade": "法宝配件",
+  "status": "活跃",
+  "description": "此鞘不仅是仙剑的居所，更是淬炼神魂的法宝。其原本的主人是王 座剑仙龙君，被陈清都斩杀后物尽其用。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第53章 赠送",
+      "owner": "宁姚 -> 陈平安"
+    }
+  ],
+  "subtype": "磨砺/辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈清都",
+      "relation": "赠予者"
+    },
+    {
+      "name": "龙君",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "与“太白”剑尖配合，能成就顶级剑客佩剑。",
+  "supernatural_ability": "日夜**淬炼持有者的神魂**，负剑即修行。",
+  "evolution": {
+    "current_form": "承载“长气”或“剑仙”长剑的鞘。",
+    "materials_consumed": [
+      "龙君遗留灰袍",
+      "古老剑意"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "外观呈**雪白色**，质地特殊，原本极其轻便。",
+    "active": "内含剑气极重，背负时可感知到**龙蛇飞动**的惊人气象。"
+  },
+  "provenance": {
+    "origin": "由老大剑仙陈清都斩杀龙君后，以其**灰袍残余**炼化而成。",
+    "karma_link": "见证了剑气长城最高层的恩怨终结，并作为重礼传给陈平安。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "心灯不夜印",
+  "original_name": "书城不夜印",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此印代表了离垢在漫长岁月中对知识的痴迷与野心。它不仅是身份证明，更是其大道求索过程中的精神 灯塔 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第727章 五至高，四仙剑，一白也",
+      "owner": "赵繇(老秀才赠)"
+    }
+  ],
+  "subtype": "道场/愿力类",
+  "holder": "离垢（离真/白玄）",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "周密",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随“书城不夜”道场规模的完善，可进化为掌控知识与神魂的法宝 。",
+  "supernatural_ability": "象征着对“书城不夜”愿景的护持，具有稳固神魂、照明识海的神通 。",
+  "evolution": {
+    "current_form": "一方象征道场权柄的印章 。",
+    "materials_consumed": [
+      "文运精华",
+      "不灭心灯"
+    ],
+    "potential_evolution": "可作为构建一方独立文明小世界的枢纽 。"
+  },
+  "visual": {
+    "static": "印身仿佛有光芒长久透出，文字清朗，不带尘埃 。",
+    "active": "钤印处光亮如昼，可驱散一切关于“无知”与“黑暗”的迷障 。"
+  },
+  "provenance": {
+    "origin": "源自离垢试图在蛮荒天下打造一座“书城不夜”道场的设想 。",
+    "karma_link": "连接了蛮荒天才对浩然天下文化图景的复杂心境 。"
+  },
+  "enriched": true
+}

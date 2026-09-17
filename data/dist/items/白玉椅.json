@@ -1,0 +1,49 @@
+{
+  "name": "白玉椅",
+  "original_name": "大水府宝座",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "白玉椅是寒食江大水府最奢华的器物之一。在崔瀺处理书简湖与黄庭国事务期间，他曾以此椅为座，展 现出一种俯瞰众生的圣人姿态 。",
+  "aliases": [
+    "白玉椅"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第143章 百怪（下）",
+      "owner": "崔瀺"
+    },
+    {
+      "chapter": "第144章 一个坐井一个观天",
+      "owner": "寒食江水神"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "崔瀺 (少年皮囊)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "寒食江大水府",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为江神府邸的规格之物，承载一江之气运 。",
+  "supernatural_ability": "能够稳固神魂，助长持有者的威仪气象，使其即便神游万里亦能稳坐中枢 。",
+  "evolution": {
+    "current_form": "通体白玉打造的交椅",
+    "materials_consumed": [
+      "江河水运"
+    ],
+    "potential_evolution": "神灵金身王座"
+  },
+  "visual": {
+    "static": "由极品白玉雕琢而成，通体莹白如雪，寒气逼人 。",
+    "active": "崔瀺高坐其上时，整个人显得意态闲适，神游物外，散发出超然物外的气息 。"
+  },
+  "provenance": {
+    "origin": "黄庭国寒食江大水府的顶级藏品 。",
+    "karma_link": "见证了崔瀺在黄庭国的一系列落子布局 。"
+  },
+  "enriched": true
+}

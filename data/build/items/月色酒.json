@@ -1,0 +1,38 @@
+{
+  "name": "月色酒",
+  "original_name": "黄鹤矶仙酿",
+  "type": "货币",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是浩然天下最著名的“意境酒”。它不仅卖酒水，更是卖一份“举杯邀明月”的风流 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第752章 无巧不成书",
+      "owner": "姜尚真 (云窟福地产出)"
+    }
+  ],
+  "subtype": "滋养/灵物类",
+  "holder": "云窟福地修士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "长期饮用可洗涤修士神魂，对拜月炼形之辈大有裨益 。",
+  "supernatural_ability": "酒水雪白，自带月魄精华；饮用后可使白瓷杯中浮现明月映象 。",
+  "evolution": {
+    "current_form": "盛放在白瓷酒杯中的雪白酒水 。",
+    "materials_consumed": [
+      "福地明月月魄",
+      "黄鹤矶江水精气"
+    ],
+    "potential_evolution": "极品者可作为冲击地仙境界的药引 。"
+  },
+  "visual": {
+    "static": "酒色如银，清亮透明，散发出阵阵清冷的芬芳 。",
+    "active": "倒入杯中后，月光会随酒液流转，形成圆圆明月的虚影 。"
+  },
+  "provenance": {
+    "origin": "产自云窟福地十八景之一的黄鹤矶 。",
+    "karma_link": "由姜尚真以此吸引天下豪客，是云窟福地的核心财源之一 。"
+  },
+  "enriched": true
+}

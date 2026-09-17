@@ -1,0 +1,38 @@
+{
+  "name": "皎月酒",
+  "original_name": "自家酒酿",
+  "type": "灵物",
+  "grade": "酒水",
+  "status": "活跃",
+  "description": "这是南海水君李邺侯的招牌仙酿，通常作为重礼赠予山 上高人，象征着皎月湖的文雅底蕴与四海共赏的广阔胸 襟 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第784章 议事",
+      "owner": "阿良"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "南海水君李邺侯",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为水君府邸自酿，蕴含极其浓郁的水运精华，对修行 水法者大有裨益 。",
+  "supernatural_ability": "酒液中蕴含月魄与水精，饮用后可润泽气府，感通四海 水性 。",
+  "evolution": {
+    "current_form": "盛放在白瓷瓶中的清冽酒水 。",
+    "materials_consumed": [
+      "皎月湖水精",
+      "太阴月魄"
+    ],
+    "potential_evolution": "若能融合四海水运，可进阶为仙兵级仙酿。"
+  },
+  "visual": {
+    "static": "酒色清澈如月光，香气幽远 。",
+    "active": "倒入杯中时会生出淡淡的云雾涟漪，酒水中心仿佛有新 月沉浮 。"
+  },
+  "provenance": {
+    "origin": "产自中土神洲五大湖之一的皎月湖水君府 。",
+    "karma_link": "李邺侯在文庙议事期间以此酒款待老秀才，结下深厚香 火情 。"
+  },
+  "enriched": true
+}

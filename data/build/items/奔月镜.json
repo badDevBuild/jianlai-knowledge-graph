@@ -1,0 +1,51 @@
+{
+  "name": "奔月镜",
+  "original_name": "镇山之宝奔月镜",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "锁云宗的镇山之宝，历代山主承袭的重器。它能吸纳月亮精华并召唤远古神女法相进行攻击，是一件威 力巨大的水/月属性法宝 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第813章 饮者",
+      "owner": "魏精粹 (名义上属锁云宗)"
+    },
+    {
+      "chapter": "第814章 般配",
+      "owner": "魏精粹"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "魏精粹",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "锁云宗历代山主",
+      "relation": "继承自"
+    },
+    {
+      "name": "杨确",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为宗门重器，蕴含深厚月魄精华 。",
+  "supernatural_ability": "能够汲取月魄精华，显化出御风乘月的远古神女法相 。",
+  "evolution": {
+    "current_form": "古镜",
+    "materials_consumed": [
+      "月魄精华"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "古朴的镜子 。",
+    "active": "镜光莹然，如白龙汲水，镜内会出现彩带飘摇、脚踩明月的神女 。"
+  },
+  "provenance": {
+    "origin": "锁云宗镇山之宝",
+    "karma_link": "原本应由山主杨确继承，却被魏精粹以各种借口长期霸占"
+  },
+  "enriched": true
+}

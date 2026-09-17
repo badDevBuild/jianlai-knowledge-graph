@@ -1,0 +1,44 @@
+{
+  "name": "针灸木人",
+  "original_name": "经络穴位木偶",
+  "type": "匠器",
+  "grade": "凡物",
+  "status": "损毁",
+  "description": "陈平安少年时期在药铺打工时接触到的医学工具。它不 仅是解剖学的模型，更是其理解“人身即宇宙”观念的基 石 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第987章 笛声里校书",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助/医学类",
+  "holder": "杨家药铺 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为远古神灵关于“人身天地”结构的教学教具，其对应 穴位极可能隐藏着证道路径 。",
+  "supernatural_ability": "极其详尽地标注了人体365处大穴及经络走势，辅助武 夫和练气士内视身躯 。",
+  "evolution": {
+    "current_form": "材质古朴的木质人偶，表面刻满红黑两色的经络线 。",
+    "materials_consumed": [
+      "千年雷击木",
+      "神道真意"
+    ],
+    "potential_evolution": "可演化为观测整座洲陆地脉流动的“地动仪”核心 。"
+  },
+  "visual": {
+    "static": "面目模糊，四肢僵硬，浑身布满密密麻麻的小孔及标注 文字 。",
+    "active": "当灵气灌注特定穴位，木人对应部位会亮起微光，演示 气机流向 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天杨家药铺，由杨老头亲自制作并传授使用方法 。",
+    "karma_link": "陈平安习武及修补经脉的启蒙之物，连接其与杨老头的 因果 。"
+  },
+  "enriched": true
+}

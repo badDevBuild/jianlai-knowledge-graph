@@ -1,0 +1,48 @@
+{
+  "name": "快哉风",
+  "original_name": "青色无鞘木剑",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这把木剑是《剑来》中极具风骨的兵刃，名字取自儒家语“一点浩然气，千里快哉风”。它虽然材质为木 ，杀力却能令地仙侧目，是贺小凉身份与剑道境界的象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第486章 不愧是老江湖",
+      "owner": "壁画神女"
+    },
+    {
+      "chapter": "第487章 画卷中",
+      "owner": "骑鹿神女(画中)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "贺小凉 (由骑鹿神女持有)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "上古剑仙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为骑鹿神女的佩剑，蕴含“浩然气”与“快哉风”真意，具备跻身仙兵的潜质 。",
+  "supernatural_ability": "剑气如长风万里，能涤荡心魔、辟除污秽；出剑时带有强烈的清凉之意，能压制火属神通 。",
+  "evolution": {
+    "current_form": "一把青色的无鞘木剑 。",
+    "materials_consumed": [
+      "上古剑意",
+      "浩然正气"
+    ],
+    "potential_evolution": "若能完全融合贺小凉的道门神韵，可显化出“长风万里送秋雁”的剑道异象 。"
+  },
+  "visual": {
+    "static": "质地古朴，剑身刻有“快哉风”三字 。",
+    "active": "出鞘（现世）时如清风拂面，剑光清亮且具有极强的穿透力 。"
+  },
+  "provenance": {
+    "origin": "上古遗物，被壁画城骑鹿神女收藏 。",
+    "karma_link": "随骑鹿神女一同离开壁画城，成为贺小凉护道之物 。"
+  },
+  "enriched": true
+}

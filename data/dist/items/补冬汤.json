@@ -1,0 +1,37 @@
+{
+  "name": "补冬汤",
+  "original_name": "地根汤",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是崔东山为青萍剑宗创建仪式准备的节令汤水，象征 着宗门正式在桐叶洲“落地生根” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第891章 青萍剑宗",
+      "owner": "无"
+    }
+  ],
+  "subtype": "滋养/生活类",
+  "holder": "崔东山 (制作人)",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "作为下宗立宗的节令之物，承载着宗门传承的美好寓意 。",
+  "supernatural_ability": "无。但能温养修士由于长途跋涉产生的些许意气不顺 。",
+  "evolution": {
+    "current_form": "在下宗山门口茅屋灶房中熬制的汤水 。",
+    "materials_consumed": [
+      "仙都山各色草木根茎"
+    ],
+    "potential_evolution": "作为节庆习俗，可演化为宗门的文化传统 。"
+  },
+  "visual": {
+    "static": "汤色混杂着草木精华，散发着草根与泥土的清香 。",
+    "active": "喝上一碗，让人在入冬时节感受到一丝暖意与归属感 。"
+  },
+  "provenance": {
+    "origin": "由青萍剑宗宗主崔东山在立冬之日亲手熬制 。",
+    "karma_link": "用于款待参加下宗立宗庆典的所有成员，代表“扎根”之 意 。"
+  },
+  "enriched": true
+}

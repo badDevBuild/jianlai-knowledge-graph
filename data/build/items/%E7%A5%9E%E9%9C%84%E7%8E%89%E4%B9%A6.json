@@ -1,0 +1,38 @@
+{
+  "name": "神霄玉书",
+  "original_name": "九真仙馆秘籍",
+  "type": "典籍",
+  "grade": "本命物",
+  "status": "活跃",
+  "description": "**道门雷法与身法并重的一部顶级秘籍**。它不仅是功 法，更是一件可以在关键时刻化作“雷池”防御的重宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第793章 很绣虎",
+      "owner": "云杪"
+    }
+  ],
+  "subtype": "修行/雷法类",
+  "holder": "云杪 / 陈平安 (摹本)",
+  "holder_relation": "大炼",
+  "rank": "半仙兵",
+  "rank_potential": "掌握其中“云升上景”法门后，可肉身横跨两座天下 。",
+  "supernatural_ability": "记载了“云水身”身法与“神霄雷法”，可使修士神游太虚 ，同到玉京 。",
+  "evolution": {
+    "current_form": "白玉质地的玉册，紫气升腾，雷声隐隐 。",
+    "materials_consumed": [
+      "雷池精华",
+      "玉府道气"
+    ],
+    "potential_evolution": "可演化为连接“神霄城”的虚空门户 。"
+  },
+  "visual": {
+    "static": "白玉莹然，字迹如电光穿梭，不可久视 。",
+    "active": "翻阅时会有雷鸣阵阵，脚下浮现出星辰斗宿，如临仙境 。"
+  },
+  "provenance": {
+    "origin": "九真仙馆的立宗根基，源自远古雷部传承 。",
+    "karma_link": "陈平安通过该书补全了对“雷局”与“身法”的系统认知 。"
+  },
+  "enriched": true
+}

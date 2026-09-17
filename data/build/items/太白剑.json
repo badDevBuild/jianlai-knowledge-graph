@@ -1,0 +1,44 @@
+{
+  "name": "太白剑",
+  "original_name": "玄都",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "浩然天下最得意的剑。它不仅是白也诗无敌的象征，更是人族对抗蛮荒大妖的终极武力，承载着数万年 的剑道法统与气节 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1148章 休要略过不提",
+      "owner": "白也"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "白也（曾持） / 损毁一分为四",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "孙怀中",
+      "relation": "借予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为人间四大仙剑之一，其杀力“高出天外”，已达此界剑道巅峰 。",
+  "supernatural_ability": "“一剑破万法”。剑灵可化人（不愿露面），具备相当于飞升境剑修的战力。白也持此剑可剑开洞天，力 敌多位王座大妖 。",
+  "evolution": {
+    "current_form": "扶摇洲一役后一分为四，散落各界 。",
+    "materials_consumed": [
+      "万年剑意积淀",
+      "圣贤文运滋养"
+    ],
+    "potential_evolution": "若能四剑合一并由特定剑主执掌，可重现开天辟地之神威 。"
+  },
+  "visual": {
+    "static": "剑身通体洁白，铭文古雅，即使静止亦有冲斗牛之剑气 。",
+    "active": "剑光璀璨如烈日升空，一斩再斩，万物皆碎，剑气横贯数洲 。"
+  },
+  "provenance": {
+    "origin": "大玄都观镇山之宝，原名“玄都”，因白也之名而改称“太白” 。",
+    "karma_link": "孙道长借予白也，白也陨落前将其一分为四，分别认主陈平安、刘材、赵繇、斐然 。"
+  },
+  "enriched": true
+}

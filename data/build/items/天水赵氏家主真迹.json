@@ -1,0 +1,48 @@
+{
+  "name": "天水赵氏家主真迹",
+  "original_name": "赵氏家训",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是大骊王朝权势极大的文臣豪阀天水赵氏家主的亲笔手书。其文字内容包括“气象宜清宜高，学问宜 深宜远”等赵氏家训，是大骊官方通行戒石铭的蓝本 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第979章 教拳与续杯",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文房类 / 礼器",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "天水赵氏家主",
+      "relation": "原主"
+    },
+    {
+      "name": "刘袈",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为一洲文脉领袖的亲笔墨宝，蕴含极强的儒家气象与文运，具备演化为镇压邪祟之物的潜力 , 。",
+  "supernatural_ability": "字迹法度严谨，神意极长，筋骨极壮；可用于文人居所的“压胜”，其文字具备定心稳神的大道感应 。",
+  "evolution": {
+    "current_form": "一幅写有赵氏家训的馆阁体字帖 。",
+    "materials_consumed": [
+      "天水赵氏文运",
+      "顶级宣纸"
+    ],
+    "potential_evolution": "若能获得文庙圣贤的二次钤印，可成为护持一州文脉的重器 。"
+  },
+  "visual": {
+    "static": "书法风格为极漂亮的馆阁体，文字圆润饱满且充满浩然正气 , 。",
+    "active": "展开时文气扑面而来，文字隐约有金光流转，令观者道心清明 。"
+  },
+  "provenance": {
+    "origin": "由大骊顶级门阀天水赵氏家主亲笔书写 。",
+    "karma_link": "陈平安在大骊京城委托老修士刘袈向赵氏家主讨要，用于落魄山文脉传承 。"
+  },
+  "enriched": true
+}

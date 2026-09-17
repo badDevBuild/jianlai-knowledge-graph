@@ -1,0 +1,52 @@
+{
+  "name": "树瘿壶",
+  "original_name": "山魈壶",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一把极富灵性的茶壶，被认为拥有木属灵气的核心根基 。陈平安在南下途中通过火龙真人的秘法将其炼化，用于滋养人身小天地 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第546章 剑客行事",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第563章 忽如远行客",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1119章 二十人与候补们（上）",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助类 / 修行类",
+  "holder": "陈平安",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "宋集薪",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽初始品相不入法宝之列，但通过“炼三山”法诀中炼，可与修士木属本命物产生极佳的共鸣增益 。",
+  "supernatural_ability": "具备极其罕见的“生长”特性，能够缓慢汲取天地间的木属灵气并反哺持有人 。",
+  "evolution": {
+    "current_form": "造型古朴的木质茶壶 。",
+    "materials_consumed": [
+      "木属灵气",
+      "炼三山法诀"
+    ],
+    "potential_evolution": "作为本命窍穴“木宅”的辅助宝物，随修士境界提升而同步变强 。"
+  },
+  "visual": {
+    "static": "壶身线条流畅自然，保留有树木天然的瘿瘤纹理，底部落款为“山魈” 。",
+    "active": "在中炼后置于气府木宅内，能与五行本命物形成君臣配位，散发出盈盈绿意 。"
+  },
+  "provenance": {
+    "origin": "最初由宋集薪在骊珠洞天内通过“收破烂”行当获得 。",
+    "karma_link": "陈平安在游历途中将其作为关键的五行辅助灵器进行打磨修行 。"
+  },
+  "enriched": true
+}

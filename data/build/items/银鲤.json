@@ -1,0 +1,44 @@
+{
+  "name": "银鲤",
+  "original_name": "小湖蛟 / 长须银鲤",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "银鲤被称为**“小湖蛟”**，并非此湖独有，但唯有年份久远者才有价值 。它们久听梵音，在寺庙池塘中闻道修行，求转人身 。其**蛟龙之须**是炼制缚妖索、法刀饰件和拂尘的绝佳材料 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第493章 千山万水，明月一轮",
+      "owner": "无"
+    }
+  ],
+  "subtype": "滋养类 / 材料类",
+  "holder": "铜绿湖 / 崇玄署",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "老鼋 (黑河大王)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着年份增长，其生出的蛟龙之须品相会不断提升，是炼制顶级缚妖索的极佳材料 。",
+  "supernatural_ability": "作为蛟龙后裔旁支，其力大无穷 。存活百年后生两根寸余长蛟须，每三百年长一寸，达一尺长时即为真正的天材地宝 。",
+  "evolution": {
+    "current_form": "体型巨大、鱼鳞银白的鲤鱼 。",
+    "materials_consumed": [
+      "水运灵气",
+      "龙气浸染"
+    ],
+    "potential_evolution": "若能成功跳龙门，可脱去鱼身，化而为蛟 。"
+  },
+  "visual": {
+    "static": "体型巨大，通常在五百斤以上，鱼鳞灿灿 , 。",
+    "active": "游动时水气缭绕，嘴角龙须颤巍巍如水草飘摇 。"
+  },
+  "provenance": {
+    "origin": "多产于北俱芦洲铜绿湖等大湖 。",
+    "karma_link": "其产出的蛟须与陈平安在倒悬山请人炼制的金光缚妖索息息相关 。"
+  },
+  "enriched": true
+}

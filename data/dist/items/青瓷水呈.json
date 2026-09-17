@@ -1,0 +1,48 @@
+{
+  "name": "青瓷水呈",
+  "original_name": "老龙窟鱼缸",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件极具商业价值与修行意义的空间法宝。它所盛放的蠃鱼能驱逐梦魇，而水呈本身则是承载龙脉 气运的绝佳容器，在北俱芦洲商界极负盛名 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第987章 笛声里校书",
+      "owner": "泓下/云子"
+    }
+  ],
+  "subtype": "存储类 / 空间类",
+  "holder": "杨凝性 (书生化身)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老鼋 (黑河大王)",
+      "relation": "原主"
+    },
+    {
+      "name": "覆海元君 (小鼋)",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因其能够稳定承载蠃鱼等稀有水裔及其本命水运，具备升格为微型水府的潜力 。",
+  "supernatural_ability": "能够隔绝气息，使其中的灵物在跨洲远游时不受外界因果干扰，并能温养水族精魅的神魂 。",
+  "evolution": {
+    "current_form": "乌金色的青瓷小水呈 。",
+    "materials_consumed": [
+      "黑河水运精华",
+      "上古龙宫残余灵气"
+    ],
+    "potential_evolution": "长期温养真龙或稀有水族，可演化为自带阵法禁制的“水底龙宫” 。"
+  },
+  "visual": {
+    "static": "色泽乌金，质地如玉，瓷面莹润，可见细微的水纹起伏 。",
+    "active": "其中养有一对金色蠃鱼，游弋时泛起阵阵金光，水汽氤氲 。"
+  },
+  "provenance": {
+    "origin": "源自鬼蜮谷黑河老龙窟，是老鼋为女儿准备的“嫁妆” 。",
+    "karma_link": "被小鼋盗走后转入杨凝性（书生）之手，见证了鬼蜮谷权势的更迭 。"
+  },
+  "enriched": true
+}

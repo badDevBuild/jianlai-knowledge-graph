@@ -1,0 +1,38 @@
+{
+  "name": "拨云镜",
+  "original_name": "拨云峰镇山之宝",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是正阳山拨云峰的镇山之宝，拥有调理气象、干预视界的神奇功效。它不仅是防御法器，更是一种能 够大范围干扰敌方感知的压胜重器。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第820章 兵解正阳山",
+      "owner": "正阳山拨云峰"
+    }
+  ],
+  "subtype": "气象类 / 压胜类",
+  "holder": "拨云峰峰主",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为能够干涉天时气象的宝镜，具备演化为大范围封禁阵法中枢的可能。",
+  "supernatural_ability": "能够拨转云雾，控制一方山域的天色明暗。在战斗中可随意拨转云聚云散，使战场在黑夜与白昼间瞬间 切换。",
+  "evolution": {
+    "current_form": "古色古香的仙家铜镜。",
+    "materials_consumed": [
+      "云根精粹",
+      "日精月华"
+    ],
+    "potential_evolution": "若能配合更高级的望气术，可演化为能勘破一切幻境的真实之镜。"
+  },
+  "visual": {
+    "static": "镜面清亮，背面刻有复杂的云气纹路。",
+    "active": "被激发时，天幕云层随镜面旋转而动，可令原本晴空万里的山头瞬间陷入伸手不见五指的夜幕。"
+  },
+  "provenance": {
+    "origin": "正阳山拨云峰代代传承的重宝。",
+    "karma_link": "在陈平安问剑正阳山时，此物被视为儿戏般拨转，象征着正阳山诸峰防御体系的瓦解。"
+  },
+  "enriched": true
+}

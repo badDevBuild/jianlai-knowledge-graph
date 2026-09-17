@@ -1,0 +1,147 @@
+{
+  "name": "莲花冠",
+  "original_name": "钩沉 / 银色莲花道冠",
+  "type": "法宝",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "此冠名为“钩沉”，是白玉京掌教信物。在藕花福地历经朱敛、丁婴、俞真意之手。陆沉曾将其借予陈平安，使其能以 此为媒介承载十四境的道法杀力。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第6章 下签",
+      "owner": "年轻道人"
+    },
+    {
+      "chapter": "第15章 压胜",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第200章 死局之死结所在",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第204章 故人来送剑去",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第206章 月儿圆月儿弯",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第212章 道高一尺",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第222章 有些离别可以再会",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第319章 何为天下无敌",
+      "owner": "丁婴"
+    },
+    {
+      "chapter": "第693章 人间又有金丹客",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第726章 真无敌",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第734章 逢雪宿芙蓉山",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第749章 梦里求真，仙人喂拳",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第818章 少年过河",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第819章 问剑做客两不误",
+      "owner": "陈平安 (化名曹沫)"
+    },
+    {
+      "chapter": "第825章 太上宗主",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第847章 龙蛇起陆",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第849章 那个一",
+      "owner": "陆沉 -> 陈平安 (暂借)"
+    },
+    {
+      "chapter": "第852章 大概",
+      "owner": "陆沉 (借给陈平安)"
+    },
+    {
+      "chapter": "第909章 逍遥游",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第936章 吾为东道主（六）",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第1012章 白云生处有人家",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第1016章 谁人道冠如莲花开",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第1037章 天公作美",
+      "owner": "曹溶"
+    },
+    {
+      "chapter": "第1058章 一片孤城彩云间",
+      "owner": "陆沉"
+    }
+  ],
+  "subtype": "辅助/加持类",
+  "holder": "陆沉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "朱敛",
+      "relation": "原主（藕花福地前世）"
+    },
+    {
+      "name": "丁婴",
+      "relation": "夺取自"
+    },
+    {
+      "name": "俞真意",
+      "relation": "曾持有"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "白玉京掌教信物级别的顶级仙兵，已处于品秩顶点。",
+  "supernatural_ability": "加持道法、定心稳神、沟通天地气象，能够支撑并承载十四境级别的大道道法。",
+  "evolution": {
+    "current_form": "银色莲花形状道冠。",
+    "materials_consumed": [
+      "道祖亲自炼制"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "银光流转的莲花造型道冠，精致出尘，极具神仙风采。",
+    "active": "花瓣如活物般绽放，佩戴者紫气缭绕，能引发天地共鸣，呈现出天人合一的气象。"
+  },
+  "provenance": {
+    "origin": "白玉京道门传承，道祖三弟子陆沉的信物。",
+    "karma_link": "在藕花福地历史中象征着“天下第一人”的身份，历经多位豪杰之手。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "仿冒三山符",
+  "original_name": "白玉京式三山符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "这是**符箓一脉的顶尖杰作**。尽管是仿制品，其威力 仍足以让神鬼礼敬，是陈平安战略撤退与跨洲奇袭的核 心手段 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1186章 何谓剑仙如云",
+      "owner": "齐狩 (购买者)"
+    }
+  ],
+  "subtype": "空间/远遁类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白玉京大掌教",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "虽是仿制品，但在获得三山九侯先生真意加持后，具备 打破洲界藩篱的威力 。",
+  "supernatural_ability": "通过观想三座山市渡口，在光阴长河之畔开门，实现超 远距离的跨洲位移 。",
+  "evolution": {
+    "current_form": "流溢着淡淡紫气的符纸，其上云篆如山峦起伏 。",
+    "materials_consumed": [
+      "高品阶符纸",
+      "白玉京秘法"
+    ],
+    "potential_evolution": "可进阶为无视天下一切禁制的“万法通关文牒” 。"
+  },
+  "visual": {
+    "static": "符纸表面云气氤氲，蕴含深沉的空间道意 。",
+    "active": "祭出时天地间会出现三座虚幻山峰，持符者瞬息消失在 山影之中 。"
+  },
+  "provenance": {
+    "origin": "由白玉京大掌教在请教三山九侯先生后首创的仿制版本 。",
+    "karma_link": "连接了陈平安对远古“三山”法统的初步掌握与跨洲远游 的因果 。"
+  },
+  "enriched": true
+}

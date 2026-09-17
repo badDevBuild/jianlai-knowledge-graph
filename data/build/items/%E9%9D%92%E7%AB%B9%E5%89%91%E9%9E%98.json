@@ -1,0 +1,45 @@
+{
+  "name": "青竹剑鞘",
+  "original_name": "屹然剑鞘",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这把剑鞘并非凡物，其材质极硬且韧，足以承载能够裂岳斩渎的神兵。它在书中被描述为一种“委屈了 它”的至宝，曾作为宋雨烧名剑“屹然”的配套装置 。",
+  "aliases": [
+    "竹剑鞘"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第474章 江湖还有陈平安",
+      "owner": "宋雨烧"
+    }
+  ],
+  "subtype": "辅助类 / 压胜类",
+  "holder": "宋雨烧 / 高大女子 (裴杯)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "不知名仙人",
+      "relation": "遗落自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "疑似取自竹海洞天青神山的灵物，具有极其强悍的柔韧度与剑意承载力 。",
+  "supernatural_ability": "具备“砺光裂五岳，剑气斩大渎”之能，可无损温养极具破坏力的绝世名剑 。",
+  "evolution": {
+    "current_form": "看似平平无奇的青竹材质剑鞘 。",
+    "materials_consumed": [
+      "青神山灵竹精华"
+    ],
+    "potential_evolution": "若回归青神山，有望通过山水气运修复为完整的仙兵套件 。"
+  },
+  "visual": {
+    "static": "表面光滑平整，并无铭文，呈现深邃的青绿色，内部毫无磨损痕迹 。",
+    "active": "当神兵出鞘时，剑鞘会产生强烈的气机共鸣，能压制周边大水的异动 。"
+  },
+  "provenance": {
+    "origin": "宋雨烧无意中捞取于深潭石墩机关中；另一件由大篆女子武神扈从从宝瓶洲寻得 。",
+    "karma_link": "连接了老剑圣宋雨烧与女子武神裴杯等顶级强者的命运 。"
+  },
+  "enriched": true
+}

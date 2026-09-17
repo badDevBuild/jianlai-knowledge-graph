@@ -1,0 +1,38 @@
+{
+  "name": "红粉迷魂帐",
+  "original_name": "迷魂阵 / 风流帐",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是虞醇脂试图通过采补之道跻身高位的重器。其不仅是单纯的迷魂阵，更是其修行‘艳尸’法门的具体 体现，用于控制和收割修士的道力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1018章 道深者言浅",
+      "owner": "虞醇脂"
+    }
+  ],
+  "subtype": "幻觉类",
+  "holder": "虞醇脂",
+  "holder_relation": "寄托",
+  "rank": "法宝",
+  "rank_potential": "作为虞醇脂精心打造的秘术载体，具备演化为大规模困杀阵法的潜力 。",
+  "supernatural_ability": "能够显化出渺小如细蠓的虚幻飞雀，肆意出入客人的面目七窍并拖拽出繁密丝线，将目标如织布般包裹 。此阵可用点燃艾草或松枝的方法破解 。",
+  "evolution": {
+    "current_form": "在宴会厅内飘荡的丝丝缕缕粉色线条 。",
+    "materials_consumed": [
+      "彩炼术道韵",
+      "蜃气精粹"
+    ],
+    "potential_evolution": "若能配合艳尸遗蜕，可演化为干扰高阶修士道心的终极温柔乡 。"
+  },
+  "visual": {
+    "static": "在视野中呈现为粉色的线条气机 。",
+    "active": "激发时会产生大量细微飞雀，将受术者的头颅包裹得如同粽子一般 。"
+  },
+  "provenance": {
+    "origin": "由合欢山府君虞醇脂参考艳尸彩炼术打造 。",
+    "karma_link": "陈平安在参与合欢山酒宴时曾以此物点评虞醇脂的修行路数 。"
+  },
+  "enriched": true
+}

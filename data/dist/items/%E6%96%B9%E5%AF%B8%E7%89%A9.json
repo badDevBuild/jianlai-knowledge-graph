@@ -1,0 +1,75 @@
+{
+  "name": "方寸物",
+  "original_name": "最小洞天",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "被誉为“最小洞天”的珍稀器物。陈平安以白玉簪子从杨老头处换得的“十五”便是一件既是飞剑又是方寸 物的异宝 。",
+  "aliases": [
+    "方寸物十五",
+    "咫尺物"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第152章 高出天外",
+      "owner": "崔瀺"
+    },
+    {
+      "chapter": "第156章 少年肩头挑着草长莺飞",
+      "owner": "崔瀺"
+    },
+    {
+      "chapter": "第194章 降妖和除魔",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第214章 风雨夜行",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第601章 裴钱的小钱袋子",
+      "owner": "种秋 (魏檗借出)"
+    },
+    {
+      "chapter": "第747章 秉烛夜游",
+      "owner": "纳兰玉牒"
+    },
+    {
+      "chapter": "第1067章 大师兄和小师弟",
+      "owner": "简素"
+    },
+    {
+      "chapter": "第1204章 大匠示人以规矩",
+      "owner": "谢狗"
+    }
+  ],
+  "subtype": "空间/储存类",
+  "holder": "陈平安 (通过飞剑“十五”持有)",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随主人修为提升，内部“方寸”空间可逐渐稳固甚至扩张 。",
+  "supernatural_ability": "内含独立的小天地空间，可存放活物或海量死物，并隔绝外部气机感应 。",
+  "evolution": {
+    "current_form": "形制多变，陈平安的方寸物为碧玉短剑“十五” 。",
+    "materials_consumed": [
+      "空间碎片",
+      "灵力"
+    ],
+    "potential_evolution": "极高阶者可进化为“咫尺物”，内部空间更宏大且具备一定规则 。"
+  },
+  "visual": {
+    "static": "看起来只是一个精巧的吊坠、戒指或小剑 。",
+    "active": "开启时伴有轻微的灵气涟漪，庞大物件可瞬间凭空消失或出现 。"
+  },
+  "provenance": {
+    "origin": "多由洞天福地破碎后的秘境碎片炼化而成 。",
+    "karma_link": "修士行走江湖的根基，亦是财富与地位的象征 。"
+  },
+  "enriched": true
+}

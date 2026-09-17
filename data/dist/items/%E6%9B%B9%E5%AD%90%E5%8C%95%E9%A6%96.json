@@ -1,0 +1,57 @@
+{
+  "name": "曹子匕首",
+  "original_name": "逐鹿 / 朝露",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是具有深厚历史底蕴的刺客之剑。它曾见证了无数史诗级的暗杀，如今成为陈平安（曹沫）手中最隐 蔽、最致命的杀招之一 。",
+  "aliases": [
+    "逐鹿"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第714章 出两剑",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第745章 想搬山",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第970章 滚雪球",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "割鹿山刺客",
+      "relation": "夺取自"
+    },
+    {
+      "name": "徐夫人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "名动史册的远古重宝，其锋芒程度随持有者“必杀”之心的坚定而提升 。",
+  "supernatural_ability": "“一剑开门”。能无视部分空间禁制，其锋利程度连高位修士的法袍与金身亦能刺穿 。",
+  "evolution": {
+    "current_form": "名为“朝露”的短刀，实为传说中的曹子匕首 。",
+    "materials_consumed": [
+      "庚金精华"
+    ],
+    "potential_evolution": "若与“割鹿”双刀合璧，可显化出“逐鹿天下”的兵家杀伐气象 。"
+  },
+  "visual": {
+    "static": "刻有“赵”与“徐”二字篆文，显示其源自赵国与徐夫人之手 。",
+    "active": "出鞘时伴有龙吟，剑气呈现出朝露般的清亮感 。"
+  },
+  "provenance": {
+    "origin": "由上古名匠徐夫人亲手铸造 。",
+    "karma_link": "陈平安在北俱芦洲杀贼所得，由刘景龙道破其为《刺客列传》记载的真迹 。"
+  },
+  "enriched": true
+}

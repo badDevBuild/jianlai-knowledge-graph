@@ -1,0 +1,44 @@
+{
+  "name": "拳镇一洲",
+  "original_name": "十一境之拳 / 拳谱",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这并非实物，而是兵家初祖留给陈平安的一道武道考验 与传承，是其在十境气盛这一层立于巅峰的根本 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第889章 何谓披星戴月",
+      "owner": "徐远霞"
+    }
+  ],
+  "subtype": "意境/武学类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "兵家初祖 (姜赦)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为纯粹武夫在“气盛”一层的极致巅峰，有希望指引后 辈跨入武神境界 , 。",
+  "supernatural_ability": "蕴含十一境武夫的半拳真意，足以在一洲版图上显化出 无法匹敌的压胜感 。",
+  "evolution": {
+    "current_form": "嵌在陈平安人身小天地山河中的无字拳谱 。",
+    "materials_consumed": [
+      "武运精华",
+      "神灵遗骸余韵"
+    ],
+    "potential_evolution": "一旦悟透全部半拳，陈平安有望跻身武道第十一境 。"
+  },
+  "visual": {
+    "static": "内化于经脉山根中，肉眼不可见 。",
+    "active": "递拳时气势如虹，仿佛整座山河都在这一拳之中颤动 。"
+  },
+  "provenance": {
+    "origin": "陈平安在承载兵家初祖真名和对抗过程中所得 。",
+    "karma_link": "连接了远古武道法统与当世武夫的崛起 。"
+  },
+  "enriched": true
+}

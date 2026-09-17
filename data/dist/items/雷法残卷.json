@@ -1,0 +1,46 @@
+{
+  "name": "雷法残卷",
+  "original_name": "积霄山雷符 / 斗枢院秘籍",
+  "type": "典籍",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "**落魄山雷法一脉的基石**。这本残卷虽然内容不全，但其中的雷法真意极其正宗，陈平安凭此炼化了 五雷法印，并将其融入了自身的**“笼中雀”剑阵**中 。",
+  "aliases": [
+    "灵芝斋雷法书"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第281章 天真",
+      "owner": "陈平安 (赠予林守一)"
+    }
+  ],
+  "subtype": "功法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "敕雷神将",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "记载了**远古雷部秘术**，若能补全可直达上五境雷修之境 。",
+  "supernatural_ability": "**“驱使五雷”**。通过参悟残卷，可掌握包括日煞、伐庙在内的多种强力雷符，克制一切阴物 , 。",
+  "evolution": {
+    "current_form": "材质古旧、边缘有焦灼痕迹的秘籍残页 。",
+    "materials_consumed": [
+      "雷池电浆",
+      "金雷竹鞭"
+    ],
+    "potential_evolution": "陈平安将其内容重新编纂，形成了落魄山独有的**《雷局》**传承 , 。"
+  },
+  "visual": {
+    "static": "书页上有闪电纹路，触摸时有微弱的麻木感 。",
+    "active": "翻阅时隐约有雷鸣声传出，文字如电蛇游走 。"
+  },
+  "provenance": {
+    "origin": "原本由鬼蜮谷大妖敕雷神将珍藏 。",
+    "karma_link": "陈平安在**鬼蜮谷历练**中击败强敌后捡漏获得，补全了他的术法短板 , 。"
+  },
+  "enriched": true
+}

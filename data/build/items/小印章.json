@@ -1,0 +1,38 @@
+{
+  "name": "小印章",
+  "original_name": "陈十一印",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是陈平安对自己身份的一种独特记录。‘陈十一’代表了他在那份影响深远的榜单中的位置，目前被视 为落魄山的镇山宝之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第153章 心境",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "随着陈平安学问与武道地位的提升，可作为‘名正言顺’的权柄象征 。",
+  "supernatural_ability": "**“气运凝聚”**。作为陈平安在‘年轻十人’中的排位象征，具备稳固心境与山头名望的作用 。",
+  "evolution": {
+    "current_form": "一方篆刻有‘陈十一’三字的石质私章 。",
+    "materials_consumed": [
+      "金石灵气",
+      "隐官气运"
+    ],
+    "potential_evolution": "可演化为落魄山祖师堂的正式印玺 。"
+  },
+  "visual": {
+    "static": "刀工看似潦草实则蕴含剑意，印文为古篆小字 。",
+    "active": "钤印时可引动文武两运感应，散发出独特的神性灵光 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城期间亲手篆刻 。",
+    "karma_link": "记录了陈平安在剑气长城‘坐庄不输’、担任隐官的成名岁月 。"
+  },
+  "enriched": true
+}

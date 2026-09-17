@@ -1,0 +1,56 @@
+{
+  "name": "山河画卷",
+  "original_name": "剑仙画卷 / 敬剑阁挂像",
+  "type": "重器",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "此画卷是落魄山最厚重的家底之一。它不仅是简单的法宝，更是数万年剑修战死沙场的精神物化，拥有 镇压山河、慑服妖魔的威能 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第152章 高出天外",
+      "owner": "未知"
+    },
+    {
+      "chapter": "第153章 心境",
+      "owner": "未知"
+    },
+    {
+      "chapter": "第365章 道理听与不听，剑在",
+      "owner": "老秀才"
+    }
+  ],
+  "subtype": "阵法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "倒悬山敬剑阁",
+      "relation": "原主"
+    },
+    {
+      "name": "陈清都",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "随陈平安境界提升，可演化为承载一洲气运的防御与攻伐大阵 。",
+  "supernatural_ability": "**“英灵护阵”**。画卷中蕴含剑气长城历代战死剑仙的镜像，可由十二把飞剑驱动，形成重伤仙人的剑 阵 。",
+  "evolution": {
+    "current_form": "记录有众多剑仙挂像的古老画卷 。",
+    "materials_consumed": [
+      "剑仙英灵",
+      "太平山阵图"
+    ],
+    "potential_evolution": "可成为落魄山及下宗的核心护山大阵 。"
+  },
+  "visual": {
+    "static": "古朴长卷，绘有姿态各异的剑仙，即便仅是影像亦有凌厉剑气 。",
+    "active": "激活时，剑仙英灵手持飞剑虚影现身，剑光重霄，遮天蔽日 。"
+  },
+  "provenance": {
+    "origin": "倒悬山敬剑阁 。",
+    "karma_link": "由老大剑仙交给陈平安，承载了剑气长城不屈的斗志与传承 。"
+  },
+  "enriched": true
+}

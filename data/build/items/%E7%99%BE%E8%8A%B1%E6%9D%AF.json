@@ -1,0 +1,44 @@
+{
+  "name": "百花杯",
+  "original_name": "酒泉杯",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此杯是剑气长城风雅剑仙（如孙巨源）的标配，象征着 即便身处绝地，亦不失名士风流 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1202章 既然事功何为回报",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "孙巨源 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蛮荒酒泉宗",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为能够凭空生发美酒的灵物，若配合“酒虫”使用，可 成为温养酒仙剑意的神物 。",
+  "supernatural_ability": "具备“酒泉”之效，好饮之人无需买酒，杯中自生灵酿。 可让饮者感受到如梦似幻的仙乡之乐 。",
+  "evolution": {
+    "current_form": "一只古拙的、带有百花纹饰的木质或瓷质酒杯 。",
+    "materials_consumed": [
+      "万年灵液",
+      "酒泉精粹"
+    ],
+    "potential_evolution": "可演化为能容纳“四海酒水”的乾坤杯 。"
+  },
+  "visual": {
+    "static": "杯壁似乎总带着一圈淡淡的酒晕，散发出诱人的醇香 。",
+    "active": "杯中涟漪微漾，可映照出远方故乡或心上人的容颜 。"
+  },
+  "provenance": {
+    "origin": "由蛮荒酒泉宗秘制，或是得自远古仙人的遗赠 。",
+    "karma_link": "连接了剑仙对“快意江湖”的追求与对“故乡”的愁思 。"
+  },
+  "enriched": true
+}

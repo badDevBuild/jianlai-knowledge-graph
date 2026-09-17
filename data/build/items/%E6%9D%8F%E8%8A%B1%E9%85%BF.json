@@ -1,0 +1,46 @@
+{
+  "name": "杏花酿",
+  "original_name": "骑龙巷老酒",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是小镇名气最大的仙家酒酿。对于阮邛和陈平安而言 ，它是人情往来的润滑剂，也是那段安稳岁月的见证 。",
+  "aliases": [
+    "杏花酿"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第75章 占山为王",
+      "owner": "骑龙巷压岁铺子"
+    }
+  ],
+  "subtype": "滋养/社交类",
+  "holder": "阮邛 / 骑龙巷住客",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "压岁铺子",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "受小镇地气滋养，具备平复气血、助长灵气运转的神效 。",
+  "supernatural_ability": "酒香浓郁，能让修士在微醺中进入“坐忘”境地，对于突 破金丹瓶颈有细微助力 。",
+  "evolution": {
+    "current_form": "盛放在泥封陶罐中的清甜酒液 。",
+    "materials_consumed": [
+      "杏花巷灵泉水",
+      "老窖发酵"
+    ],
+    "potential_evolution": "若得纯阳道人点化，可演化为“一壶日月中”的仙家佳酿 。"
+  },
+  "visual": {
+    "static": "酒液澄澈，带有淡淡的杏花色泽，开罐即有香气弥漫百 丈 。",
+    "active": "饮用后能引发体内灵气小规模潮动，助人驱散风寒与杂 念 。"
+  },
+  "provenance": {
+    "origin": "产自骊珠洞天骑龙巷的压岁铺子 。",
+    "karma_link": "连接了兵家圣人阮邛与大骊官场、小镇市井的情感纽带 。"
+  },
+  "enriched": true
+}

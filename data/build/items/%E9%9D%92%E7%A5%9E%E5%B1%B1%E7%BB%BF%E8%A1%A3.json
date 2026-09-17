@@ -1,0 +1,50 @@
+{
+  "name": "青神山绿衣",
+  "original_name": "“清凉”法袍 / 细密竹丝青袍",
+  "type": "灵器",
+  "grade": "法袍",
+  "status": "活跃",
+  "description": "由上古青神山竹丝编织而成的珍稀法袍，是练气士梦寐以求的护身之物，亦是陈平安掩饰“金醴”法袍锋 芒的常用装束 。",
+  "aliases": [
+    "青神山绿衣"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第207章 天上掉下个......人",
+      "owner": "某府邸仙子"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "邵坡仙 (独独孤坡仙)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "中土某大王朝君主",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由青神山绿竹精制，具备晋升法宝乃至仙兵的先天材质优势 。",
+  "supernatural_ability": "“避暑清凉”。冬暖夏凉，穿戴者如置身于小型移动洞天，能自发汲取并纯化天地灵气，对五行之木修行 有大裨益 。",
+  "evolution": {
+    "current_form": "一袭由极细密竹丝编织而成的湛青色长袍 。",
+    "materials_consumed": [
+      "青神山绿竹",
+      "天水甘露"
+    ],
+    "potential_evolution": "若得青神山夫人点化，可成仙兵 。"
+  },
+  "visual": {
+    "static": "竹丝纹理精微，色泽苍翠欲滴，触手冰凉且坚韧 。",
+    "active": "行走间云雾萦绕，竹叶虚影闪烁，可屏蔽低阶修士的神识察看 。"
+  },
+  "provenance": {
+    "origin": "竹海洞天青神山 。",
+    "karma_link": "曾为中土覆灭王朝的重宝，后通过吴懿之手赠予陈平安 。"
+  },
+  "enriched": true
+}

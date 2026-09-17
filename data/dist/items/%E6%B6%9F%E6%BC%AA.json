@@ -1,0 +1,38 @@
+{
+  "name": "涟漪",
+  "original_name": "涟漪剑符 / 隐蔽剑符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "活跃",
+  "description": "这是一道使用门槛极高的符箓，需要仙人境及以上修为 方可祭出。它体现了陈平安将剑意融入符箓的独特思路 ，是其情报收集体系的重要一环 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1100章 剑可敌一人",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "记录/监察类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随画符者剑意提升，可演化为大范围的山水监察法阵。",
+  "supernatural_ability": "具备极强的隐蔽性，“稍有风吹草动，就可以被符箓一 一记录在册” 。",
+  "evolution": {
+    "current_form": "由陈平安画就的隐蔽剑符。",
+    "materials_consumed": [
+      "陈平安的剑气",
+      "高品阶符纸"
+    ],
+    "potential_evolution": "可作为构建“心相天地”中微观监控体系的节点。"
+  },
+  "visual": {
+    "static": "外表平淡无奇，通常张贴在山门、道观等隐秘角落。",
+    "active": "激发时会产生微弱的灵气涟漪，如同水波扩散，以此捕 捉周围气机。"
+  },
+  "provenance": {
+    "origin": "陈平安在与陆沉暂借境界（十四境）期间随手画就的众 多符箓之一 。",
+    "karma_link": "用于大骊京城内对特定人物（如马苦玄势力）的守株待 兔。"
+  },
+  "enriched": true
+}

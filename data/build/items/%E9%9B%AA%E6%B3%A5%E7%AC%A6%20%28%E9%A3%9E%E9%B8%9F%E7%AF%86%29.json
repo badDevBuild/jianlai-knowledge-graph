@@ -1,0 +1,52 @@
+{
+  "name": "雪泥符 (飞鸟篆)",
+  "original_name": "鬼斧宫秘传符箓",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "活跃",
+  "description": "这是鬼斧宫的看家好戏，杜俞凭借其母私下授受的秘诀掌握了此符。它不仅在刺杀中极具威力，陈平安 后来还尝试将其与大江横流符结合，用于构筑其人身小天地的水法异象 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第501章 有些道理很天经地义",
+      "owner": "杜俞"
+    },
+    {
+      "chapter": "第502章 压下一条线",
+      "owner": "鬼斧宫/陈平安"
+    }
+  ],
+  "subtype": "隐匿类 / 辅助类",
+  "holder": "杜俞",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "鬼斧宫开山老祖",
+      "relation": "原主"
+    },
+    {
+      "name": "杜俞之母",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为鬼斧宫失传已久的绝学，其上限取决于画符者的境界与对“飞鸟篆”意境的感悟 。",
+  "supernatural_ability": "隐匿气机极佳，如“雪泥鸿爪”般无迹可寻，是山上阵师梦寐以求的破障与刺杀辅助手段 。",
+  "evolution": {
+    "current_form": "鬼斧宫秘传符箓 。",
+    "materials_consumed": [
+      "上等符纸",
+      "秘制丹砂"
+    ],
+    "potential_evolution": "可作为大型阵法的“龙骨”或“底子”，通过叠加增强阵法威能 。"
+  },
+  "visual": {
+    "static": "符纸之上绘有灵动的飞鸟篆文，纹理玄妙 。",
+    "active": "激发后灵光流转，能使持有者的身形与气机与周遭环境融为一体，不露痕迹 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲鬼斧宫开山老祖首创 。",
+    "karma_link": "曾私下传授给顶尖仙府大修士，涉及复杂的宗门因果 。"
+  },
+  "enriched": true
+}

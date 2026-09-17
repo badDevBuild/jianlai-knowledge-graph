@@ -1,0 +1,44 @@
+{
+  "name": "多宝匣",
+  "original_name": "姚近之赠礼匣",
+  "type": "方寸物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是裴钱非常珍视的宝贝，匣内装满了她在远游途中收集的各种“小玩意儿”。 虽非杀伐重器，却承载了裴钱早期的江湖回忆和落魄山众人的宠爱。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第353章 五千甲围山",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "收纳类",
+  "holder": "裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姚近之",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "属于精巧的仙家收纳器物，内部空间随材质温养有细微扩张可能。",
+  "supernatural_ability": "“纳珍藏秀”。匣内分多层格置，能通过术法隔绝外界感知，保护内部灵物灵性不散。 ,",
+  "evolution": {
+    "current_form": "精美的多层木质小匣。",
+    "materials_consumed": [
+      "名贵沉香木",
+      "仙家金漆"
+    ],
+    "potential_evolution": "若融入更高阶空间材料，可升格为“多宝架”式的大型方寸物。"
+  },
+  "visual": {
+    "static": "做工精美绝伦，表面有彩绘图案，内部整齐排列着各种奇巧灵器。 ,",
+    "active": "打开时宝光流转，内部灵物如木灵芝、灵官牌等会散发微弱神采。"
+  },
+  "provenance": {
+    "origin": "大泉王朝皇室珍藏的文房玩物。",
+    "karma_link": "姚近之为了感谢陈平安并结交裴钱，在孩儿巷游历后将其赠予裴钱，成了裴钱的“第一笔家当”。 ,"
+  },
+  "enriched": true
+}

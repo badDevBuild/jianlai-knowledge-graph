@@ -1,0 +1,48 @@
+{
+  "name": "远古月宫",
+  "original_name": "广寒宫遗址 / 碎月洞天",
+  "type": "方寸物",
+  "grade": "洞天",
+  "status": "活跃",
+  "description": "这是一件极具因果分量的重宝，象征着远古神性的遗留 与传承，是落魄山最厚重的家底之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第906章 补缺",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "道场/秘境类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陌生 (小陌)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "荷花庵主",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古月亮的核心碎片，若能与“皓彩”合一，可重塑 月宫法统 。",
+  "supernatural_ability": "内含一百余座保存完好的上古宫殿，具有极强的月魄灵 气，适宜修行一切阴性秘术 。",
+  "evolution": {
+    "current_form": "缩小至手掌大小的袖珍宫殿群模型 。",
+    "materials_consumed": [
+      "太阴之精",
+      "神灵遗韵"
+    ],
+    "potential_evolution": "演化为横跨两座天下的“天外月轮” 。"
+  },
+  "visual": {
+    "static": "洁白剔透，建筑风格极其古老，散发着淡淡的银辉 。",
+    "active": "现世后会引动天象变幻，方圆百里皆有月光普照，花木 瞬间生长 。"
+  },
+  "provenance": {
+    "origin": "远古天庭广寒宫的旧址残片 。",
+    "karma_link": "小陌作为“回礼”赠予陈平安，陈平安打算用于刘羡阳与 赊月的婚事礼金 。"
+  },
+  "enriched": true
+}

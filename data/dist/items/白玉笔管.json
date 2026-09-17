@@ -1,0 +1,52 @@
+{
+  "name": "白玉笔管",
+  "original_name": "白玉笔管方寸物",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件极具欺骗性的方寸物。其文雅的外表下隐藏着足以让地仙疯狂的仙人遗泽，是云上城此行最重 要的收获之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第544章 舟中之人尽敌国",
+      "owner": "云上城男修 -> 许供奉"
+    },
+    {
+      "chapter": "第545章 为何敢怒不敢言",
+      "owner": "桓云"
+    }
+  ],
+  "subtype": "存储类 / 空间类",
+  "holder": "徐杏酒 (云上城)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云上城许供奉",
+      "relation": "夺取自"
+    },
+    {
+      "name": "仙府遗址地仙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "内部自带“云雾缭绕”的微型洞天，适合存放需要灵气滋养的珍稀遗蜕 。",
+  "supernatural_ability": "拥有极佳的隔绝感应能力，能够存放仙人级别的白骨遗蜕及法袍而气息不泄 。",
+  "evolution": {
+    "current_form": "一支白玉材质、白雾缭绕的笔管 。",
+    "materials_consumed": [
+      "仙家美玉",
+      "空间碎片"
+    ],
+    "potential_evolution": "若能配合特定的砚台，可演化为书生一脉的“纸上江山”小天地。"
+  },
+  "visual": {
+    "static": "外观为温润的白玉长管，笔身上似有流云在缓缓移动 。",
+    "active": "开启时会有清灵的灵气溢出，展现出内部收纳的宝物气象 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲某处远古仙人修道之地的遗迹 。",
+    "karma_link": "因内藏地仙遗蜕而引发了云上城供奉与野修狄元封的血腥争夺 。"
+  },
+  "enriched": true
+}

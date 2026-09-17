@@ -1,0 +1,35 @@
+{
+  "name": "丝套",
+  "original_name": "缺失信息",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "提供的原始资料中未提及名为‘丝套’的具体法宝或物品。建议参考相关上下文，核实是否为其他丝织类 法袍或剑套的误称。[无]",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第491章 出拳与剑",
+      "owner": "范云萝"
+    }
+  ],
+  "subtype": "缺失信息",
+  "holder": "缺失信息",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "缺失信息",
+  "supernatural_ability": "缺失信息",
+  "evolution": {
+    "current_form": "缺失信息",
+    "materials_consumed": [],
+    "potential_evolution": "缺失信息"
+  },
+  "visual": {
+    "static": "资料源中未提供关于此物品的具体描述。[无]",
+    "active": "缺失信息"
+  },
+  "provenance": {
+    "origin": "缺失信息",
+    "karma_link": "缺失信息"
+  },
+  "enriched": true
+}

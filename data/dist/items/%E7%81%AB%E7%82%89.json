@@ -1,0 +1,45 @@
+{
+  "name": "火炉",
+  "original_name": "炼物之器 / 丹鼎",
+  "type": "法宝",
+  "grade": "本命飞剑",
+  "status": "活跃",
+  "description": "陈平安修行路上的核心炼物工具。它不仅是高品级的丹 炉，更承载了道门炼金术的深远法统，助陈平安在仙人 境稳固根基 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第794章 明白",
+      "owner": "云杪"
+    }
+  ],
+  "subtype": "炼造类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆雍",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为极高品级的丹鼎，具备炼化五行本命物的潜力 。",
+  "supernatural_ability": "“金性不败朽，故为万宝物”。鼎口五头异兽可吐露五彩 云雾，辅助炼物水火交融 。",
+  "evolution": {
+    "current_form": "五足丹鼎，由五行之金材质铸造 。",
+    "materials_consumed": [
+      "小暑钱",
+      "谷雨钱",
+      "纯粹真气"
+    ],
+    "potential_evolution": "可配合“炼三山”法诀演化为镇压气府的本命物 。"
+  },
+  "visual": {
+    "static": "一臂宽高的朱红丹鼎，五足为异兽并拢双腿，边沿有异 兽头颅张口 。",
+    "active": "起火时祥云袅袅，五彩氤氲，炉内真气如火龙盘旋 。"
+  },
+  "provenance": {
+    "origin": "得自桐叶洲青虎宫老元婴陆雍，原为破碎小洞天仙人府 邸遗物 。",
+    "karma_link": "陈平安花费五十颗谷雨钱购得，用于炼制金色文胆等本 命物 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "七宝泥",
+  "original_name": "岁除宫彩泥",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "**七宝泥**是青冥天下极负盛名的文房珍品。它不但是 身份的象征，更是众多书法大家和符箓大家梦寐以求的 顶级辅材 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第781章 齐聚",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第853章 猜错的谜底",
+      "owner": "陈暖树"
+    }
+  ],
+  "subtype": "印泥/文房类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    },
+    {
+      "name": "虞俦",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为文运凝聚之物，若能集齐七色并受圣贤气运浸染， 可助印章通灵 。",
+  "supernatural_ability": "有“一两彩泥一斤谷雨钱”的说法，钤印后文字不腐，且 自带祥瑞气象 。",
+  "evolution": {
+    "current_form": "七色小瓷盒盛放的各种鲜艳矿物印泥。",
+    "materials_consumed": [
+      "仙府飞砂",
+      "山根精华"
+    ],
+    "potential_evolution": "可演化为绘制“金书玉牒”的辅助材料。"
+  },
+  "visual": {
+    "static": "色彩艳丽夺目，分七色排列，质地粘稠如胶 。",
+    "active": "钤印时有虹光升起，香气清远，文字宛如活物 。"
+  },
+  "provenance": {
+    "origin": "产自岁除宫山上君虞俦的道场，由炼化古山飞砂而成 。",
+    "karma_link": "吴霜降在夜航船离别时将其赠予陈平安，后由周米粒转 赠给暖树 。"
+  },
+  "enriched": true
+}

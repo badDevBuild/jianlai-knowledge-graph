@@ -1,0 +1,44 @@
+{
+  "name": "梦游剑术",
+  "original_name": "刘羡阳的祖传剑经",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一门极其不讲道理的剑术，让刘羡阳在睡梦中亦能 砥砺剑心，是《剑来》中最为神秘的武学传承之一 [6-8]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1174章 天亮了",
+      "owner": "刘羡阳"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "刘羡阳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘氏祖辈",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为能够无视光阴阻滞的绝世剑学，具备斩断万古因果 的终极潜力 。",
+  "supernatural_ability": "能够让修行者在梦中练剑，且梦中剑气极快，能穿过光 阴流水而不激起涟漪 。",
+  "evolution": {
+    "current_form": "载于《剑术正经》中的无上剑术 。",
+    "materials_consumed": [
+      "古战场遗迹神识",
+      "光阴流水"
+    ],
+    "potential_evolution": "演化为“一剑开天”的至高剑道 。"
+  },
+  "visual": {
+    "static": "表现为修行者陷入沉睡，周围气机呈现出诡谲的静止状 态 。",
+    "active": "梦中出剑时，剑光无迹可寻，能瞬间跨越空间与时间的 鸿沟 。"
+  },
+  "provenance": {
+    "origin": "刘家祖传的神秘剑经，涉及远古剑道的传承 。",
+    "karma_link": "陈平安曾代为保管此剑谱，刘羡阳凭此在异乡成就剑仙 之道 。"
+  },
+  "enriched": true
+}

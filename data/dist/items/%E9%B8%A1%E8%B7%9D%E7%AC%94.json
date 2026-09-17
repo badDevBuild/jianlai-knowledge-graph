@@ -1,0 +1,48 @@
+{
+  "name": "鸡距笔",
+  "original_name": "大泉御制笔 / 抄经笔",
+  "type": "匠器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是大泉王朝的“摇钱树”，通过与山上宗门的合作，成 功将世俗工艺升格为修行清供 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第980章 也在心乡",
+      "owner": "大泉王朝/刘茂"
+    },
+    {
+      "chapter": "第1025章 但愿青帝常为主",
+      "owner": "大泉王朝/刘茂"
+    }
+  ],
+  "subtype": "文房/修行类",
+  "holder": "刘茂 / 读书人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大泉造办处",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "受皇家文运与道经真意加持，可进化为具备“下笔有神” 神通的灵器 。",
+  "supernatural_ability": "笔尖短而有力，最适宜抄写蝇头小楷。高级别御制笔可 自生墨香，防蛀百年 。",
+  "evolution": {
+    "current_form": "竹管上部粗、下部渐细的特殊形制毛笔 。",
+    "materials_consumed": [
+      "大泉名竹",
+      "仙家狐毫"
+    ],
+    "potential_evolution": "融合“龙宾”墨精后可化为灵笔 。"
+  },
+  "visual": {
+    "static": "笔管上多刻有“清幽”或“明净”等吉语小楷 。",
+    "active": "呵气成墨，落笔生花，书写时隐约有金石摩擦之声 。"
+  },
+  "provenance": {
+    "origin": "大泉王朝特产，经由刘茂改良后名动一洲 。",
+    "karma_link": "作为大泉王朝与青萍剑宗的商贸合作项目，远销数洲 。"
+  },
+  "enriched": true
+}

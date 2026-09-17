@@ -1,0 +1,76 @@
+{
+  "name": "镇嶽",
+  "original_name": "白玉京十二剑之一",
+  "type": "重器",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "大骊十二剑中体型最夸张的一把。它追求力量的极致，与剑气长城那些不拘一格、战力强横的剑修气质 极其契合。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第113章 气势如虹",
+      "owner": "大骊王朝"
+    },
+    {
+      "chapter": "第206章 月儿圆月儿弯",
+      "owner": "独臂少女"
+    },
+    {
+      "chapter": "第271章 宁姑娘，对不起",
+      "owner": "独臂少女"
+    },
+    {
+      "chapter": "第572章 心上人",
+      "owner": "叠嶂"
+    },
+    {
+      "chapter": "第575章 于剑修如云处出拳",
+      "owner": "叠嶂"
+    },
+    {
+      "chapter": "第617章 谁能与宁姚般配",
+      "owner": "叠嶂"
+    },
+    {
+      "chapter": "第646章 开阵",
+      "owner": "叠嶂"
+    },
+    {
+      "chapter": "第647章 无剑可出",
+      "owner": "叠嶂"
+    }
+  ],
+  "subtype": "压胜/攻伐类",
+  "holder": "叠嶂",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宋集薪",
+      "relation": "曾持有"
+    },
+    {
+      "name": "大骊宋氏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为纯粹重剑，随着持有者武道或剑道意气提升可实现力破万法。",
+  "supernatural_ability": "势大力沉，具备极强的“重力”压胜效果，能直接通过绝对的力量碾压法术结构。",
+  "evolution": {
+    "current_form": "与人等高的宽厚大剑",
+    "materials_consumed": [
+      "厚土之精",
+      "大骊五岳气运"
+    ],
+    "potential_evolution": "山岳级法相重剑"
+  },
+  "visual": {
+    "static": "剑身宽阔巨大，与成年男子等高，古朴沉重，上刻“镇嶽”二字。",
+    "active": "挥动时带起雷鸣般的风声，落地重若万钧，能震碎方圆百里气机。"
+  },
+  "provenance": {
+    "origin": "大骊王朝为仿白玉京五楼专门打造的重器飞剑。",
+    "karma_link": "后由阿良赠予剑气长城剑修，最终被独臂少女叠嶂选中，成为其杀妖利器。"
+  },
+  "enriched": true
+}

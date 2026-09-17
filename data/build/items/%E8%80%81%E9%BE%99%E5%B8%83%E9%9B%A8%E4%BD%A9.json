@@ -1,0 +1,108 @@
+{
+  "name": "老龙布雨佩",
+  "original_name": "老龙佩",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "一件极其珍贵的文房/佩戴灵器。最初由苻南华在小镇赠予宋集薪，后辗转回到老龙城。因其蕴含极其精纯的水运 精华，被范峻茂提供给陈平安，作为炼化五行之水本命物‘水字印’的核心辅助材料。",
+  "aliases": [
+    "老龙布雨玉佩",
+    "绿佩",
+    "雕龙绿佩",
+    "老龙布雨佩"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第9章 天雨虽宽",
+      "owner": "宋集薪"
+    },
+    {
+      "chapter": "第10章 食牛之气",
+      "owner": "宋集薪"
+    },
+    {
+      "chapter": "第17章 不平则鸣",
+      "owner": "苻南华 -> 宋集薪"
+    },
+    {
+      "chapter": "第18章 五去其三",
+      "owner": "宋集薪"
+    },
+    {
+      "chapter": "第20章 横生枝节",
+      "owner": "宋集薪"
+    },
+    {
+      "chapter": "第21章 捕蛇鹰",
+      "owner": "苻南华"
+    },
+    {
+      "chapter": "第34章 齐聚",
+      "owner": "宋集薪"
+    },
+    {
+      "chapter": "第39章 骂槐",
+      "owner": "宋集薪"
+    },
+    {
+      "chapter": "第225章 夜路",
+      "owner": "苻南华"
+    },
+    {
+      "chapter": "第255章 传道人传道",
+      "owner": "宋集薪"
+    },
+    {
+      "chapter": "第361章 原来也不太平",
+      "owner": "苻东海"
+    },
+    {
+      "chapter": "第369章 聚散",
+      "owner": "陈平安 (购自范峻茂/苻家)"
+    },
+    {
+      "chapter": "第459章 都在有酒的江湖",
+      "owner": "青衣小童"
+    },
+    {
+      "chapter": "第735章 列阵在前",
+      "owner": "大骊文武/各国藩属"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "范峻茂",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "苻家老祖",
+      "relation": "原主"
+    },
+    {
+      "name": "苻南华",
+      "relation": "曾持有"
+    },
+    {
+      "name": "宋集薪",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为水法重宝，其蕴含的水运精华可辅助炼化更高品秩的本命物。",
+  "supernatural_ability": "避暑、清心、避秽。对修行者的冥想坐忘有极大加持作用，蕴含浓郁的水运精华。",
+  "evolution": {
+    "current_form": "龙形玉佩",
+    "materials_consumed": [
+      "老龙城云海水精"
+    ],
+    "potential_evolution": "被炼化消失（已作为水精辅佐陈平安炼化水字印）"
+  },
+  "visual": {
+    "static": "质地通透的龙形玉佩，雕刻有精美的云纹与瑞兽，宝光内敛。",
+    "active": "散发出阵阵清凉的水气，呈现出如云海水精般的灵动光彩。"
+  },
+  "provenance": {
+    "origin": "老龙城苻家祠堂供奉千年的老物件。",
+    "karma_link": "与老龙城云海及最后一条真龙的龙气残留深度关联。"
+  },
+  "enriched": true
+}

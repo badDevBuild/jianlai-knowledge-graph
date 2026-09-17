@@ -1,0 +1,49 @@
+{
+  "name": "金扁担与绿竹杖",
+  "original_name": "右护法的巡山双宝",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是周米粒巡山时的“官威”所在。金扁担承载了魏羡赠 送给她的“金扁担”诺言，绿竹杖则是她施展疯魔剑法的 兵刃。对于周米粒而言，这就是她最大的家当 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1154章 签文",
+      "owner": "周米粒"
+    }
+  ],
+  "subtype": "武器/威仪类",
+  "holder": "周米粒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "朱敛 (制作人)",
+      "relation": "原主"
+    },
+    {
+      "name": "魏羡 (金扁担意蕴提供者)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "受护山供奉多年巡山气运加持，可演化为镇压“落魄山 门口”的法器。",
+  "supernatural_ability": "金扁担承载了魏羡对皇权与“家业”的执念，绿竹杖则融 合了朱敛对“疯魔剑法”的理解。能平定山头乱象，增强 巡山者的气势 。",
+  "evolution": {
+    "current_form": "一根金色的小扁担和一支青翠欲滴的绿竹手杖。",
+    "materials_consumed": [
+      "精金",
+      "青神山绿竹",
+      "剑意余韵"
+    ],
+    "potential_evolution": "演变为统领落魄山所有山泽精怪的“点将木” 。"
+  },
+  "visual": {
+    "static": "扁担灿若黄金，竹杖通体莹绿，经常被黑衣小姑娘肩挑 手拿，显得憨态可掬。",
+    "active": "挥动时有金芒与青气流转，能惊退那些胆小的山野鬼魅 。"
+  },
+  "provenance": {
+    "origin": "由落魄山管家朱敛和皇帝魏羡合力为周米粒打造。",
+    "karma_link": "象征着落魄山对小水怪周米粒的集体关爱与身份认可。"
+  },
+  "enriched": true
+}

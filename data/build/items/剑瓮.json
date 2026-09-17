@@ -1,0 +1,46 @@
+{
+  "name": "剑瓮",
+  "original_name": "古陶罐 / 兵家骨灰坛",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此物是北俱芦洲一处秘境的阵法核心，虽然外表简陋，却是兵家历史的见证者。它在保护苗稼不被煞气 侵蚀的同时，也协助其建立起独特的修行之路 。",
+  "aliases": [
+    "剑瓮"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第235章 故乡黄花黄",
+      "owner": "剑瓮先生"
+    }
+  ],
+  "subtype": "阵法枢纽类",
+  "holder": "苗稼",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "某位远古兵家修士",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为天地间最早的计量之物，其容器本身承载了某种原始的“规矩”力量 。",
+  "supernatural_ability": "担任遗址大阵的枢纽，可驾驭天地灵气，并作为连通阴阳的桥梁 。",
+  "evolution": {
+    "current_form": "一个极其粗糙的古旧陶罐 。",
+    "materials_consumed": [
+      "兵家煞气",
+      "远古神灵金身碎片"
+    ],
+    "potential_evolution": "进化为承载一洲战死英灵气运的社稷重器 。"
+  },
+  "visual": {
+    "static": "外表平淡无奇，质地粗糙，容量约为一升 。",
+    "active": "内部涌现出精粹道气，能够牵引光阴长河中的残留气息 。"
+  },
+  "provenance": {
+    "origin": "源自远古战场，推测为某位兵家修士的骨灰坛 。",
+    "karma_link": "由苗稼与何洲在误入光阴长河遗址后获得，与北俱芦洲的古战场因果紧密相连 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "不小心",
+  "original_name": "少年心有一峰，忽被云偷去",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安作为“二掌柜”时期的代表性印章之一，印文表达了他在漫长岁月里对世事无常、得失不计的 通透理解。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第670章 被天下压胜",
+      "owner": "程荃"
+    }
+  ],
+  "subtype": "篆刻/意境类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "承载了剑修对光阴与离散的体悟，文气与剑意相随。",
+  "supernatural_ability": "印文内容蕴含一种“自愧携短剑，只为看山来”的洒脱意境，能辅助稳固心境。",
+  "evolution": {
+    "current_form": "收录于《皕剑仙印谱》中的一方私人印章。",
+    "materials_consumed": [
+      "蛇胆石",
+      "剑气"
+    ],
+    "potential_evolution": "可作为构建心相天地中“云山”景致的锚点。"
+  },
+  "visual": {
+    "static": "石质古朴，边款刻有“少年心有一峰，忽被云偷去”。",
+    "active": "钤印时隐约可见云雾缭绕山巅的幻象。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城避暑行宫期间亲手篆刻。",
+    "karma_link": "对应陈平安远游途中的某段心路历程。"
+  },
+  "enriched": true
+}

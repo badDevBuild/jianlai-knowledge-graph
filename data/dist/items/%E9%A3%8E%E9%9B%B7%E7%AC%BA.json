@@ -1,0 +1,50 @@
+{
+  "name": "风雷笺",
+  "original_name": "真诰宗名纸",
+  "type": "材料",
+  "grade": "灵材",
+  "status": "消耗",
+  "description": "这是符箓一脉极其罕见的顶级纸张。每一张都价值万金 ，是绘制“天师敕令”等高级大符的必备材料 。",
+  "aliases": [
+    "风雷笺"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第81章 国师",
+      "owner": "大骊皇帝/真诰宗"
+    },
+    {
+      "chapter": "第83章 梦想",
+      "owner": "大骊礼部"
+    }
+  ],
+  "subtype": "承载/灵物类",
+  "holder": "大骊礼部 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "真诰宗",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为顶尖的符箓材质，可承载地仙乃至上五境修士的本 命真言 。",
+  "supernatural_ability": "书写时笔尖与纸张摩擦，能自行引发阵阵风雷之声，自 带压胜妖物的威能 。",
+  "evolution": {
+    "current_form": "厚如木片、质地极其坚韧的名贵纸张 。",
+    "materials_consumed": [
+      "云根纤维",
+      "风雷神意"
+    ],
+    "potential_evolution": "可制作成“金书玉牒”，用于记录一洲山水官场的最高神 位 。"
+  },
+  "visual": {
+    "static": "色泽金黄，带有天然的云雷纹路，纸张极重，不可轻拿 。",
+    "active": "落笔时金光跳跃，雷鸣不绝，成符后威力远胜寻常黄纸 。"
+  },
+  "provenance": {
+    "origin": "出自别洲道教名门真诰宗，是大骊皇帝用来赏赐功臣的 贡品 。",
+    "karma_link": "与大骊礼部的秘密录档以及陈平安的“写丹书”造诣紧密 相连 。"
+  },
+  "enriched": true
+}

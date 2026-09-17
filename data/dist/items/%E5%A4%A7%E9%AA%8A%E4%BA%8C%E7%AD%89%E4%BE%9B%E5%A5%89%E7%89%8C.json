@@ -1,0 +1,44 @@
+{
+  "name": "大骊二等供奉牌",
+  "original_name": "二等供奉太平无事牌",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是跻身大骊核心战力的凭证。不仅代表了修士的地位 ，更是其实力的官方背书 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1178章 志怪故事",
+      "owner": "韦娴柔"
+    }
+  ],
+  "subtype": "身份/契约类",
+  "holder": "陆雍 / 贾晟",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊刑部",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随着大骊版图扩张，此牌可作为调动一洲山水官场资源 的最高凭证 。",
+  "supernatural_ability": "持有者在宝瓶洲境内享有特权，可无视部分关隘禁制， 并获得当地城隍、武庙的资源协助 。",
+  "evolution": {
+    "current_form": "一枚砣痕粗犷、雕工质朴的玉牌 。",
+    "materials_consumed": [
+      "大骊山根灵石",
+      "王朝正统气运"
+    ],
+    "potential_evolution": "可升级为拥有“先斩后奏”权力的首席供奉金牌 。"
+  },
+  "visual": {
+    "static": "正面篆刻“太平无事”，反面有大骊刑部或礼部的官方编 号 。",
+    "active": "激发时会显现大骊黑虎图案，产生威压感，能震慑同级 修士 。"
+  },
+  "provenance": {
+    "origin": "由大骊刑部粘杆郎负责录档颁发 。",
+    "karma_link": "连接了大骊王朝对高位修士的招徕与山水秩序的重塑 。"
+  },
+  "enriched": true
+}

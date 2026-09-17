@@ -1,0 +1,48 @@
+{
+  "name": "青玉印章",
+  "original_name": "青玉之玺 / 巡狩天下之宝",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "青杏国重要的法宝重器，曾流落民间被妖族赵浮阳窃取用以汲取龙 气，后回归皇室以正国统 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第16章 休想",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "镇压类",
+  "holder": "青杏国皇室",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "柳氏祖上",
+      "relation": "原主"
+    },
+    {
+      "name": "赵浮阳",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为传国玉玺，随着王朝国祚的稳固可逐渐演化为镇压一国气运的 社稷重器 。",
+  "supernatural_ability": "**敕正番邦、册封外夷**。可汲取并汇聚龙气，镇压山河气数 。",
+  "evolution": {
+    "current_form": "青玉材质玺印",
+    "materials_consumed": [
+      "王朝龙气",
+      "民间香火"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "上等青玉雕琢而成，方二寸规制，古朴厚重 。",
+    "active": "激发时会显现龙气，能产生压制邪祟的王朝威严感 。"
+  },
+  "provenance": {
+    "origin": "青杏国柳氏王朝的传国十二宝之一 。",
+    "karma_link": "涉及一国国祚命脉，曾因失踪导致君主被称为“白板皇帝” 。"
+  },
+  "enriched": true
+}

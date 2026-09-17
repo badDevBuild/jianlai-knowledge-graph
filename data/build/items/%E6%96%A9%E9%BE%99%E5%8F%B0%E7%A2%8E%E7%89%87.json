@@ -1,0 +1,48 @@
+{
+  "name": "斩龙台碎片",
+  "original_name": "天真 / 磨剑石",
+  "type": "材料",
+  "grade": "灵材",
+  "status": "活跃",
+  "description": "剑修眼中的终极至宝。这块名为“天真”的碎片是陈平安炼剑、乃至能在剑气长城站稳脚跟的根基所在， 亦是他与宁姚之间“山水重逢”的见证 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第93章 墙上有个字",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "砥砺类 / 炼金类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宁姚",
+      "relation": "赠予者"
+    },
+    {
+      "name": "远古天庭",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古天庭行刑台的残片，其本质是这方天地最高序位的物质，可彻底重塑任何飞剑的杀力上限 。",
+  "supernatural_ability": "“砥砺锋芒”。能够无限制地磨砺飞剑剑锋，使其具备斩断大道因果的能力，并能辅助剑修突破瓶颈 。",
+  "evolution": {
+    "current_form": "一块长条形的黑色石块，表面刻有“天真”与“宁姚”二字 。",
+    "materials_consumed": [
+      "远古剑气",
+      "神灵遗泽"
+    ],
+    "potential_evolution": "一旦完全融入本命飞剑，可使其具备“一剑开天”的绝对力量 。"
+  },
+  "visual": {
+    "static": "质地极其沉重且冰冷，呈现出深邃的幽黑色，字符笔画中隐有金光 。",
+    "active": "当飞剑在其上磨砺时，火星迸发如烈日，龙吟声响彻神魂，能产生极强的气机压制 。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭两座行刑台之一的碎片 。",
+    "karma_link": "宁姚送给陈平安的定情信物，不仅是资源的馈赠，更是情感与宿命的深度绑定 。"
+  },
+  "enriched": true
+}

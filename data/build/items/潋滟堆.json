@@ -1,0 +1,48 @@
+{
+  "name": "潋滟堆",
+  "original_name": "镜花水月通鉴石",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是情报搜集的至宝。在资讯受限的山上，能够看遍一 洲镜花水月意味着掌握了情报的主动权 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第904章 一人即半洲",
+      "owner": "姜尚真 (原属章流注)"
+    }
+  ],
+  "subtype": "侦测/观照类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姜尚真",
+      "relation": "赠予者"
+    },
+    {
+      "name": "元婴大佬",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为昔年古遗址的残余，若能集齐所有“堆”石，可监控 整座天下的镜花水月 。",
+  "supernatural_ability": "只需一石在手，即可突破一洲山水禁制，看遍所有公开 或半公开的镜花水月 。",
+  "evolution": {
+    "current_form": "一块漆黑如墨、表面却泛起潋滟水纹的石头 。",
+    "materials_consumed": [
+      "山水气运",
+      "神魂碎片"
+    ],
+    "potential_evolution": "可进化为“观世镜”。"
+  },
+  "visual": {
+    "static": "其貌不扬的黑石，但注视久了可见其中有波光流动 。",
+    "active": "投射出的画面清晰无比，甚至能察觉到千万里外的灵气 波动 。"
+  },
+  "provenance": {
+    "origin": "昔年滟滪堆崩碎后的残片 。",
+    "karma_link": "姜尚真将其作为落魄山搜集情报的利器赠予陈平安 。"
+  },
+  "enriched": true
+}

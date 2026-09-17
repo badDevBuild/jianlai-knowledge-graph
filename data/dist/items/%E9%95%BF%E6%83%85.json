@@ -1,0 +1,38 @@
+{
+  "name": "长情",
+  "original_name": "风雪庙万年古松",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "它是宝瓶洲最古老的灵植之一，因其蕴含的道道剑意， 被剑修视为圣地 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第884章 天下一词",
+      "owner": "风雪庙 (名义上归魏晋)"
+    }
+  ],
+  "subtype": "植灵类",
+  "holder": "风雪庙",
+  "holder_relation": "寄托",
+  "rank": "仙兵",
+  "rank_potential": "作为具备极大灵性的古松，极有希望在未来百年内跻身 上五境，化形成人 。",
+  "supernatural_ability": "能够稳固一方地脉灵气，其松针蕴含剑意，可用于磨砺 飞剑或炼制符箓 。",
+  "evolution": {
+    "current_form": "屹立于风雪庙山巅的参天古松 。",
+    "materials_consumed": [
+      "万年风雪",
+      "纯粹剑气"
+    ],
+    "potential_evolution": "可成为补缺宝瓶洲上五境精怪位置的候补 。"
+  },
+  "visual": {
+    "static": "树冠如盖，松针在月色下熠熠如雪，散发出凛冽的剑意 气息 。",
+    "active": "风吹过时，树叶声响如万剑齐鸣，能够震慑侵入山门的 邪祟 。"
+  },
+  "provenance": {
+    "origin": "大骊兵家祖庭风雪庙的镇山灵根 。",
+    "karma_link": "见证了风雪庙数千年的兴衰，亦是大骊武运的象征之一 。"
+  },
+  "enriched": true
+}

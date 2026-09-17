@@ -1,0 +1,45 @@
+{
+  "name": "泥塑小人儿",
+  "original_name": "魏晋赠礼 / 泥人偶",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "李槐极度珍视的家当之一，常被放置在魏檗赠送的阴沉木长匣中精心收藏 。它们不仅是李槐的玩伴，更是由高人点化的重要护道灵物 。",
+  "aliases": [
+    "泥塑小人儿"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第128章 奇观",
+      "owner": "李槐 (魏晋赠送)"
+    }
+  ],
+  "subtype": "护道类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏晋",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为风雪庙剑仙魏晋赠送的宝物，与傀儡术及符箓一道相关，蕴含极高的灵性与成长潜力 。",
+  "supernatural_ability": "包含佩剑剑士、拂尘道人、披甲武将、骑鹤女子和锣鼓更夫五种形象，疑似涉及墨家傀儡术或道家符箓 派的护道手段 。",
+  "evolution": {
+    "current_form": "五枚一套的袖珍泥人塑像 。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "可被视为某种高阶傀儡或灵性法件 。"
+  },
+  "visual": {
+    "static": "只有半指高度，形态各异，做工栩栩如生 。",
+    "active": "作为李槐的“大将”，曾在对峙中被提及具备杀敌或惊觉邪祟的能力 。"
+  },
+  "provenance": {
+    "origin": "由风雪庙剑仙魏晋在棋墩山为感谢李槐照顾毛驴而赠送 。",
+    "karma_link": "这一套泥人与白帝城“十二绝色”仙女俑系出同源，皆为中土神仙之手笔 。"
+  },
+  "enriched": true
+}

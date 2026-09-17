@@ -1,0 +1,56 @@
+{
+  "name": "云霞香",
+  "original_name": "云霞山秘制香火",
+  "type": "材料",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "**云霞香**是云霞山的特产重宝。它在陈平安手中不仅 是商品，更是用来“缝补一洲人心”的工具，特别是在引 渡战场英灵一事上具有神圣地位 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第872章 天下地上",
+      "owner": "云霞山"
+    },
+    {
+      "chapter": "第880章 坐隐",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1170章 青衫落座",
+      "owner": "蔡金简(欠债方)"
+    }
+  ],
+  "subtype": "祭祀/气运类",
+  "holder": "陈平安 / 大骊朝廷",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蔡金简",
+      "relation": "赠予者"
+    },
+    {
+      "name": "云霞山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为引渡英灵还乡的高级祭品，随祭祀规模与功德而产 生更强的安魂力 。",
+  "supernatural_ability": "具有极其纯净的生发之气，专门用于引渡战死英灵，并 在山水神祇的封正仪式中作为核心耗材 。",
+  "evolution": {
+    "current_form": "一筒筒密封良好的仙家线香 。",
+    "materials_consumed": [
+      "云根石精粹",
+      "文运愿力"
+    ],
+    "potential_evolution": "大量焚烧可形成覆盖一地的“云霞华盖”，稳固区域气运 。"
+  },
+  "visual": {
+    "static": "香体色泽如晚霞，散发着草木与檀香混合的清冷气息 。",
+    "active": "点燃后烟雾不散，形成五彩氤氲之状，能够显化圣贤或 神灵虚影 。"
+  },
+  "provenance": {
+    "origin": "宝瓶洲云霞山，源自中土佛门大禅寺的法统传承 。",
+    "karma_link": "陈平安向蔡金简购买此香，不仅是为了弥补山头损耗， 更是作为大骊国师履行祭祀职责 , 。"
+  },
+  "enriched": true
+}

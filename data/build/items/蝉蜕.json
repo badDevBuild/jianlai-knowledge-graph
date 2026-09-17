@@ -1,0 +1,39 @@
+{
+  "name": "蝉蜕",
+  "original_name": "替身符箓",
+  "type": "符箓",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "一种在山上广泛使用的保命符箓。陈平安在进行“北斗阵法”分身修行期间，多次利用蝉蜕符箓在偏远山 野、将军驻地或古寺中瞒天过海 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第999章 春山花开如火",
+      "owner": "胡沣"
+    }
+  ],
+  "subtype": "逃遁/防御类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随绘制者的符箓造诣提升，可具备更强的迷惑性。",
+  "supernatural_ability": "施展遁地法或离魂术时，在原地留下一具真假难辨的虚假肉身，真身则可瞬间转移至隐蔽处 , 。",
+  "evolution": {
+    "current_form": "一张绘有蝉蜕纹路、灵光隐现的符纸 。",
+    "materials_consumed": [
+      "符纸",
+      "丹砂",
+      "修士心神"
+    ],
+    "potential_evolution": "若由仙人境以上符师绘制，可化为具备微弱灵智的“剪纸小人”。"
+  },
+  "visual": {
+    "static": "通常为一张折叠整齐的黄纸符箓 。",
+    "active": "化作一具神色呆滞、长久保持某一姿势的假身，如蝉脱壳 , 。"
+  },
+  "provenance": {
+    "origin": "源自道门正宗替身术法 。",
+    "karma_link": "陈平安在禺州古寺等地分身修行时，常以此符掩盖真身行踪 。"
+  },
+  "enriched": true
+}

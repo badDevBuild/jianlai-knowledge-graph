@@ -1,0 +1,50 @@
+{
+  "name": "宝瓶洲形势图",
+  "original_name": "大骊州郡舆图 / 山水秘档",
+  "type": "典籍",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一份不仅记录地理，更记录“道”之轨迹的最高机密。它帮助陈平安在多方博弈中始终掌握先机，被 视为大骊国祚延伸的视觉体现 。",
+  "aliases": [
+    "雾气地图"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第304章 低头观井，抬头看天",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "堪舆类 / 谋划类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊宋氏",
+      "relation": "原主"
+    },
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为大骊宋氏一统版图的关键蓝图，具有观测一洲气运流转的终极功能 。",
+  "supernatural_ability": "**“掌观山河”**。能够精确反映一洲之内的灵气泉眼、山水神祇布局及铁骑动向 。",
+  "evolution": {
+    "current_form": "由名家手绘、标注极其详尽的多层叠加画卷 。",
+    "materials_consumed": [
+      "钦天监秘档",
+      "圣人墨迹"
+    ],
+    "potential_evolution": "若能融入“五岳真形”，可演化为活的沙盘，实时监控全洲动态 。"
+  },
+  "visual": {
+    "static": "画卷厚重，纸张经特殊处理，即便历经百年亦不腐朽，上有红黑蓝三色标注 。",
+    "active": "展开时，画上的山川河流会隐隐流动，光亮点点对应着各处道场与城池 。"
+  },
+  "provenance": {
+    "origin": "由大骊朝廷钦天监与礼部密库联手编撰 。",
+    "karma_link": "与陈平安的“隐官”职责及落魄山在宝瓶洲的布局紧密相连 。"
+  },
+  "enriched": true
+}

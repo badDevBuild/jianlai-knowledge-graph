@@ -1,0 +1,43 @@
+{
+  "name": "老蛟定风波",
+  "original_name": "李柳回礼玉牌",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是李柳送给陈平安的珍贵法宝，除了名字本身蕴含的霸道意气，更代表了某种水法大道的认可与加持 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第562章 南归北游",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "水法类 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李柳",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为远古水神所赠之物，具备随着水运积累不断提升品秩的潜力 。",
+  "supernatural_ability": "具备镇压大水、调理水脉之能，能在江河大渎中发挥出类似水部正神的权柄 。",
+  "evolution": {
+    "current_form": "翠绿欲滴的精致玉牌 。",
+    "materials_consumed": [
+      "水运精华"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "玉色通透，质地极其细腻，牌面刻有“老蛟定风波”铭文 。",
+    "active": "激活时会有浓郁的水气弥漫，被施加了高深的山水禁制，灵气不外显 。"
+  },
+  "provenance": {
+    "origin": "李柳（远古水神转世）为感谢陈平安对家人的照顾而赠送的回礼 。",
+    "karma_link": "与陈平安在书简湖及济渎的水利布局有深厚关联 。"
+  },
+  "enriched": true
+}

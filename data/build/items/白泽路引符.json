@@ -1,0 +1,44 @@
+{
+  "name": "白泽路引符",
+  "original_name": "路引符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "这是一种极其罕见的破障符，其命名体现了对远古存在白泽的敬重，是野修在秘境探险中的保命手段 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第539章 相逢偶然，离别悄然",
+      "owner": "陈平安(制造者)"
+    }
+  ],
+  "subtype": "破障类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐景龙",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "通过高位阶符纸绘制可显著提升破障范围 。",
+  "supernatural_ability": "能够引领修士走过复杂的山水迷障，识别危险路径 。",
+  "evolution": {
+    "current_form": "黄纸材质符箓 。",
+    "materials_consumed": [
+      "纯粹真气",
+      "特制丹砂"
+    ],
+    "potential_evolution": "金色材质的顶级路引符 。"
+  },
+  "visual": {
+    "static": "符纸上落笔繁琐，带有古朴的文字道意 。",
+    "active": "祭出后会产生微光，指引出一条清晰的通行道路 。"
+  },
+  "provenance": {
+    "origin": "由齐景龙从古籍中自行研习得来，路数偏向旁门左道 。",
+    "karma_link": "陈平安在北俱芦洲历练期间从齐景龙处习得此符绘制之法 。"
+  },
+  "enriched": true
+}

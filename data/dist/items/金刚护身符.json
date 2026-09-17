@@ -1,0 +1,48 @@
+{
+  "name": "金刚护身符",
+  "original_name": "金刚护身符",
+  "type": "符箓",
+  "grade": "仙兵",
+  "status": "消耗",
+  "description": "这是一张价值连城的保命符，核心材质是即将修成菩萨果位的金身罗汉鲜血，极其罕见 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第148章 少年有事问春风",
+      "owner": "崔瀺"
+    },
+    {
+      "chapter": "第815章 月色",
+      "owner": "陈平安/李源"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "崔瀺 (少年皮囊)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔瀺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "以佛门金身罗汉鲜血绘就，防御上限极高，足以抵挡陆地剑仙的一击 。",
+  "supernatural_ability": "符箓一旦触发，可瞬间形成金刚不坏的防护屏障，无视常规中五境及部分上五境的攻击 。",
+  "evolution": {
+    "current_form": "写有金刚经经文的珍稀符箓",
+    "materials_consumed": [
+      "金身罗汉金色鲜血",
+      "金粉"
+    ],
+    "potential_evolution": "因其为一次性消耗品，通常无后续演化"
+  },
+  "visual": {
+    "static": "符纸散发淡淡金光，文字法度严谨，充满佛门威仪 。",
+    "active": "燃烧时会爆发出如汞齐般的金色液体状光华，迅速覆盖使用者全身形成宝甲 。"
+  },
+  "provenance": {
+    "origin": "由崔瀺通过特殊渠道获得，并亲手炼制 。",
+    "karma_link": "在老水井一战中，由于陈平安的飞剑威胁，崔瀺被迫消耗了这枚价值连城的符箓 。"
+  },
+  "enriched": true
+}

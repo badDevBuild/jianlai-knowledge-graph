@@ -1,0 +1,62 @@
+{
+  "name": "粉色道袍",
+  "original_name": "柳赤诚的招牌法袍",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是柳赤诚标志性的行头，**粉色道袍**几乎成了他的代名词 。虽然审美极度张扬，但却是实打实的白帝城法脉遗泽 。",
+  "aliases": [
+    "粉色道袍"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第229章 趋之若鹜",
+      "owner": "柳赤诚"
+    },
+    {
+      "chapter": "第230章 下 黑云压城",
+      "owner": "柳赤诚"
+    },
+    {
+      "chapter": "第238章 春风送君千万里",
+      "owner": "柳赤诚"
+    },
+    {
+      "chapter": "第654章 年轻朱敛",
+      "owner": "柳赤诚"
+    },
+    {
+      "chapter": "第1072章 敬酒不吃吃罚酒",
+      "owner": "柳赤诚"
+    }
+  ],
+  "subtype": "防御类 / 身份类",
+  "holder": "柳赤诚",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "白帝城琉璃阁",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为白帝城城主师弟的象征，其本身即代表了极高的道法防御上限 。",
+  "supernatural_ability": "**“遮掩气象”**。虽然颜色鲜艳夺目，却能隐匿持有者的真实修为，使人难以揣测其大道深浅 。",
+  "evolution": {
+    "current_form": "一件扎眼至极的粉红色道门长袍 。",
+    "materials_consumed": [
+      "白帝城琉璃道韵",
+      "稀缺绸缎"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "颜色极其粉嫩惹眼，常由柳赤诚穿戴在身，行走间招摇过市 。",
+    "active": "对敌时会产生微妙的道气波动，与柳赤诚的流窜遁法相配合，极难捕捉 。"
+  },
+  "provenance": {
+    "origin": "出自白帝城琉璃阁，是柳赤诚身份的象征 。",
+    "karma_link": "随柳赤诚游历北俱芦洲等多地，是其在山上声名狼藉却无人敢惹的保障 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "功德竹",
+  "original_name": "年幼功德竹",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是天下儒门学子敬畏的圣物，代表了**“天理昭昭，功过有据”**的道德操守 。",
+  "aliases": [
+    "功德竹"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第102章 白虹平地起",
+      "owner": "儒家"
+    }
+  ],
+  "subtype": "记录类 / 功德类",
+  "holder": "儒家圣地“道德林”",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "青神山开山老祖",
+      "relation": "赠予者"
+    },
+    {
+      "name": "至圣先师",
+      "relation": "受赠者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为记录君子操守的圣物，其品秩随儒家文脉兴衰而波动 。",
+  "supernatural_ability": "**“记录功过”**。能够自动记载君子的功德与过失，是市井俗语“功德簿”的来源 。",
+  "evolution": {
+    "current_form": "在道德林中茁壮生长的灵竹 。",
+    "materials_consumed": [
+      "儒家浩然正气",
+      "君子功德"
+    ],
+    "potential_evolution": "可演化为支撑儒家法统的因果重器 。"
+  },
+  "visual": {
+    "static": "生机盎然，竹身可能刻有随气运流转的明暗纹路 。",
+    "active": "感知到君子言行时，竹节会产生相应共鸣 。"
+  },
+  "provenance": {
+    "origin": "源自竹海洞天青神山 。",
+    "karma_link": "由青神山老祖赠予至圣先师，象征着竹海洞天与儒家道统的深厚渊源 。"
+  },
+  "enriched": true
+}

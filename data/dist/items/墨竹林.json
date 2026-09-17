@@ -1,0 +1,47 @@
+{
+  "name": "墨竹林",
+  "original_name": "墨竹游山器",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "聂翠娥身后的墨竹游山器，在视觉上极具辨识度。该物象征了青宫山女修的清高意境，是典型的山上雅 物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第262章 一叶扁舟，翩翩少年",
+      "owner": "苏老"
+    },
+    {
+      "chapter": "第290章 入土为安",
+      "owner": "玉圭宗元婴供奉"
+    }
+  ],
+  "subtype": "辅助/雅玩类",
+  "holder": "聂翠娥",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青宫山",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为流霞洲美人的配饰，其价值在于其独特的文化底蕴和材质稀有性 。",
+  "supernatural_ability": "虽不具攻伐之能，但作为墨竹材质，具备清心宁神、隔绝凡尘烟火的气息 。",
+  "evolution": {
+    "current_form": "墨竹材质的背负式游山器",
+    "materials_consumed": [
+      "墨竹精华"
+    ],
+    "potential_evolution": "炼化为可自动背负、内含方寸空间的法宝"
+  },
+  "visual": {
+    "static": "由通体漆黑、光泽如墨的仙家墨竹制成，质地坚韧且轻便 。",
+    "active": "背负时随女修身姿起伏，散发出一股淡淡的竹香与书卷气 。"
+  },
+  "provenance": {
+    "origin": "流霞洲青宫山特产墨竹精制而成 。",
+    "karma_link": "是“满魄”仙子聂翠娥远游时的标志性装束 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,47 @@
+{
+  "name": "五彩十二月花神酒杯",
+  "original_name": "花神杯",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "它是浩然天下文人与酒鬼梦寐以求的重宝，也是身份与雅趣的象征，陈平安对其不仅是看重其价值，更 是对其蕴含的文化意蕴十分神往。",
+  "aliases": [
+    "花神瓷杯",
+    "十二花神杯(仿品)"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第674章 好好消受",
+      "owner": "老聋儿"
+    }
+  ],
+  "subtype": "滋养/艺术类",
+  "holder": "刑官",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "百花福地",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "集齐一套后，可与百花福地气运共鸣，产生独特的镜花水月景象。",
+  "supernatural_ability": "绘有十二月花神及其诗词，能净化酒水杂质，提升饮酒者的神魂意趣。",
+  "evolution": {
+    "current_form": "一组十二只绘有各月花卉图案的精美瓷杯。",
+    "materials_consumed": [
+      "名家画意",
+      "百花精魄"
+    ],
+    "potential_evolution": "若在百花园中温养，可孕育出真实的花神魂魄。"
+  },
+  "visual": {
+    "static": "白瓷如玉，彩绘人物栩栩如生，笔触细腻。",
+    "active": "倒入美酒后，杯中会显现出花开月落的幻象。"
+  },
+  "provenance": {
+    "origin": "产自百花福地，曾供奉于刑官的葡萄架下。",
+    "karma_link": "陈平安曾在此看得两眼放光，后来在文庙集齐了数套还清酒债。"
+  },
+  "enriched": true
+}

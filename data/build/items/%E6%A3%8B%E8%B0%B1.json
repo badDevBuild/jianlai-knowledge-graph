@@ -1,0 +1,54 @@
+{
+  "name": "棋谱",
+  "original_name": "彩云谱 / 烂柯谱",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "《彩云谱》是《剑来》中代表最高智慧与算计的符号。它记录了围棋一道的极致巅峰，只有真正拥有“ 大心胸”的人才能读懂其中的杀机与生机 。",
+  "aliases": [
+    "棋谱"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第134章 这一年",
+      "owner": "林守一"
+    },
+    {
+      "chapter": "第135章 振衣",
+      "owner": "青娘娘"
+    },
+    {
+      "chapter": "第136章 山下皆如此",
+      "owner": "林守一"
+    }
+  ],
+  "subtype": "传承类 / 算力类",
+  "holder": "林君璧",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "邵元王朝",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为顶级智谋与算力的体现，研习此谱可极大提升修行者的心境推演能力 。",
+  "supernatural_ability": "“棋局演化”。谱中记载的残局不仅是弈棋之法，更蕴含了天地大道的博弈逻辑。研究此谱能让人在面对 复杂局势时，如神人掌观山河般清晰 。",
+  "evolution": {
+    "current_form": "记载了白帝城绝代棋局的古老册籍 。",
+    "materials_consumed": [
+      "崔瀺的博弈智慧",
+      "名家复盘心得"
+    ],
+    "potential_evolution": "可作为构筑大型因果阵法的逻辑底本 。"
+  },
+  "visual": {
+    "static": "书页古旧，字迹间间架森严，充满法度 。",
+    "active": "研读者心神浸入后，会感知到身处一个由棋线构成的规则世界，因果线条清晰可见 。"
+  },
+  "provenance": {
+    "origin": "记录了白帝城历史上最巅峰的对局 。",
+    "karma_link": "邵元王朝视其为国宝，林君璧凭借此谱在剑气长城大放异彩，是其作为“小谋主”的基石 。"
+  },
+  "enriched": true
+}

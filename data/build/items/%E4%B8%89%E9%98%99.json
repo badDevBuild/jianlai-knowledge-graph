@@ -1,0 +1,44 @@
+{
+  "name": "三阙",
+  "original_name": "白玉京三城 / 仙府门户",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“三阙”特指白玉京的三座核心城市。它们不仅是道门领袖的居所，更是维持天地秩序的终极重器。每一 座城池都蕴含着深不可测的道法秘密 [9-11]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1047章 梧桐更兼细雨",
+      "owner": "温煜"
+    }
+  ],
+  "subtype": "建筑类 / 阵法枢纽",
+  "holder": "寇名, 余斗, 陆沉",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为白玉京的核心建筑，其品秩随道门气运而波动，是整座青冥天下的法统所在 。",
+  "supernatural_ability": "镇压诸天。三座仙城分别由三位掌教坐镇，具备接引地仙飞升、监测万物气运、发动毁天灭地阵法的权 柄 [9-11]。",
+  "evolution": {
+    "current_form": "即神霄城、南华城、玉枢城，高悬于青冥天下之巅 。",
+    "materials_consumed": [
+      "上古道门气运",
+      "天地灵秀精华"
+    ],
+    "potential_evolution": "当三城阵法合一时，可构建出完全独立于天道之外的绝对禁域 。"
+  },
+  "visual": {
+    "static": "悬浮于九霄云海之上的宏伟宫殿群，紫气升腾，瑞霞万道 。",
+    "active": "当掌教出巡或发动阵法时，宫阙会放射出千丈金光，云雾随之化作金甲神人或符箓大军 。"
+  },
+  "provenance": {
+    "origin": "由道祖亲手开辟建立，作为道门传法之所 。",
+    "karma_link": "见证了道门数千年的传承与多次问剑白玉京的战役 。"
+  },
+  "enriched": true
+}

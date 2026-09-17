@@ -1,0 +1,39 @@
+{
+  "name": "火蛟渡江符",
+  "original_name": "符箓长河 / 碧绿巨龙",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是陈平安事功学问在符箓战法上的集中体现。虽然曾 被李二评价为“花架子”，但实际上它是陈平安探索符箓 与实体转换的重要成果 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1108章 求之不得大风流",
+      "owner": "田宫"
+    }
+  ],
+  "subtype": "攻伐/压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "随陈平安炼物手段的精进，可演化为具有真实蛟龙战力 的守山大阵。",
+  "supernatural_ability": "以雪泥符打底，搭配百余张大江横流符，融合炼三山与 祈雨碑仙诀，具备“积土成山，风雨兴焉”的异象 。",
+  "evolution": {
+    "current_form": "由无数符箓衔接而成的碧绿蛟龙。",
+    "materials_consumed": [
+      "大江横流符",
+      "雪泥符",
+      "炼三山道诀"
+    ],
+    "potential_evolution": "可晋升为支撑下宗“青萍剑宗”护山体系的核心战力。"
+  },
+  "visual": {
+    "static": "静止时为一叠厚重的符箓长河，隐约可见龙形气机。",
+    "active": "激发后化作庞大的碧绿蛟龙，在水面疾驰，身躯衔接处 灵光流转 。"
+  },
+  "provenance": {
+    "origin": "陈平安结合多门符箓秘术与武道拳意（校大龙）自创 。",
+    "karma_link": "在与李二、刘老成等人的切磋中，展现了“万法攒簇”的 战斗逻辑。"
+  },
+  "enriched": true
+}

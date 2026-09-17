@@ -1,0 +1,38 @@
+{
+  "name": "山祠",
+  "original_name": "五行之土本命窍穴",
+  "type": "其他",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "陈平安的五行本命物之一，由**五色土**炼化。它不仅是存储灵气的窍穴，更是他体内多件神兵利器的 “镇宅”之地 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第794章 明白",
+      "owner": "南光照"
+    }
+  ],
+  "subtype": "镇压类 / 储纳类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "rank": "灵器",
+  "rank_potential": "作为陈平安**“人身小天地”**的构筑基础，具备演化为一方真实洞天的潜力 。",
+  "supernatural_ability": "镇压体内土属气运，能够容纳并温养“仿白玉京宝塔”及“剑仙幡子”等重宝 。",
+  "evolution": {
+    "current_form": "陈平安肺腑窍穴中的一座微型建筑 。",
+    "materials_consumed": [
+      "大骊五色土",
+      "山岳三十六块青砖"
+    ],
+    "potential_evolution": "可进一步中炼青砖为山根，构建“山固壤无朽”的止境气象 。"
+  },
+  "visual": {
+    "static": "位于本命窍穴之巅，建筑古朴，内有微缩的宝塔与幡子 。",
+    "active": "当陈平安运转土属灵气时，山祠会显发出宏大的厚重气势，稳固整座人身山河 。"
+  },
+  "provenance": {
+    "origin": "陈平安使用“炼三山”仙诀，在大隋东华山炼化大骊五色土而成 。",
+    "karma_link": "此物是陈平安重建长生桥的重要支柱之一 。"
+  },
+  "enriched": true
+}

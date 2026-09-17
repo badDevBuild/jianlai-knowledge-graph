@@ -1,0 +1,41 @@
+{
+  "name": "裴钱的本命飞剑",
+  "original_name": "未命名",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "裴钱在剑气长城修行期间养出的本命飞剑，此前曾得到剑仙周澄的剑意馈赠 , 。该剑在金丹境之前便展现出极高品秩，宁姚评价其未来在避暑行宫可位列甲等 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第811章 练手",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第828章 自由自在",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "裴钱",
+  "holder_relation": "大炼",
+  "rank": "灵器",
+  "rank_potential": "在避暑行宫评价中属于甲等，具有极强的杀力 。",
+  "supernatural_ability": "能够一分为七，且可能天生带有多种不同的本命神通 , 。",
+  "evolution": {
+    "current_form": "三寸长飞剑",
+    "materials_consumed": [
+      "周澄剑意"
+    ],
+    "potential_evolution": "随着境界提升可显化更多本命神通"
+  },
+  "visual": {
+    "static": "长度约三寸，锋芒毕露 。",
+    "active": "瞬间分化为七把更纤细的飞剑，且颜色各异 。"
+  },
+  "provenance": {
+    "origin": "裴钱在剑气长城通过自身感悟和周澄剑意馈赠孕育而成 ,",
+    "karma_link": "裴钱作为开山大弟子，在修行中逐渐温养出此剑，初期曾向陈平安保密 ,"
+  },
+  "enriched": true
+}

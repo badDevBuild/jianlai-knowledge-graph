@@ -1,0 +1,45 @@
+{
+  "name": "鱼虫笛",
+  "original_name": "竹笛 / 七孔骨笛",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此笛是谢谢最为亲密的物件，陪同她在落魄山下宗及大隋书院期间度过了漫长的修行岁月 。",
+  "aliases": [
+    "鱼虫笛"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第134章 这一年",
+      "owner": "谢谢"
+    }
+  ],
+  "subtype": "法具类",
+  "holder": "谢谢",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "谢谢",
+      "relation": "持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "谢谢作为练气士对其进行长期温养，有望成为其本命法具之一 。",
+  "supernatural_ability": "虽然作为其主要持有者的标识，但其吹奏出的音律或可牵动天地灵气，对特定精怪有吸引或震慑作用 。",
+  "evolution": {
+    "current_form": "一支精细的竹笛或骨笛 。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "材质清冷，谢谢常用手指肚轻轻摩挲笛身 。",
+    "active": "演奏时音色奇诡或清越，配合谢谢的练气修为使用 。"
+  },
+  "provenance": {
+    "origin": "谢谢作为卢氏王朝天才修士时所携带的随身物件 。",
+    "karma_link": "见证了谢谢从天之骄子沦为侍女、再重获自由的曲折历程 。"
+  },
+  "enriched": true
+}

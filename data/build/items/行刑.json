@@ -1,0 +1,84 @@
+{
+  "name": "行刑",
+  "original_name": "远古神灵“行刑者”锋刃",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是陈平安手中最高阶的**神兵**之一。它代表了远古 天庭的极致暴力与规矩，是陈平安在蛮荒天下博弈、甚 至对抗同级别强者的底牌 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第873章 刻字",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第875章 跌境",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第897章 十二高位",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第916章 此间事了",
+      "owner": "吾洲"
+    },
+    {
+      "chapter": "第925章 与诸君借取千山万水（六）",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第926章 与诸君借取千山万水（七）",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1118章 金榜题名",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1212章 斩之",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1214章 天地通",
+      "owner": "周海镜 (暂借)"
+    },
+    {
+      "chapter": "第1216章 定风波",
+      "owner": "周海镜（暂管）"
+    }
+  ],
+  "subtype": "攻伐/刑罚类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈清都",
+      "relation": "赠予者"
+    },
+    {
+      "name": "远古神灵“行刑者”",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "承载着远古天庭的刑法威能，具备斩杀一切孽龙、邪神 的天赋压胜力 。",
+  "supernatural_ability": "无需炼化即可认主，自带“行刑”权柄，对魂魄具有毁灭 性的震慑力，配合“斩勘”可断因果 。",
+  "evolution": {
+    "current_form": "一把气息古老、神性内敛的无鞘长刀（虽名行刑但常呈 刀剑之状） 。",
+    "materials_consumed": [
+      "远古神性",
+      "斩龙台残余"
+    ],
+    "potential_evolution": "若能彻底驾驭其中神性，可化为执掌万物生死的“天道 法尺” 。"
+  },
+  "visual": {
+    "static": "刀身沉重，充满肃杀之气，靠近者会感到神魂受压 。",
+    "active": "递出时雷光万丈，显现出远古刑台的恐怖异象 。"
+  },
+  "provenance": {
+    "origin": "陈清都剑斩远古高位神灵“行刑者”后的战利品 。",
+    "karma_link": "陈清都将其作为陈平安与宁姚的“成亲贺礼”，由贺绶转 交 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "灵犀珠手钏",
+  "original_name": "南簪手钏 / 灵犀珠",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "灵犀珠手钏是大骊太后南簪的重要信物。它不仅象征着权位，更是一件能沟通前世今生的异宝，曾帮助 多位大修士找回迷失的道心。",
+  "aliases": [
+    "灵犀珠手钏"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第835章 十四",
+      "owner": "南簪"
+    },
+    {
+      "chapter": "第1042章 一花开天下春",
+      "owner": "余勉"
+    }
+  ],
+  "subtype": "辅助类 / 记忆类",
+  "holder": "南簪 (大骊太后)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊皇室",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "每一颗珠子都具备承载一位地仙神魂记忆的能力，若能集齐特定祖师的残魂，可重现远古道统 。",
+  "supernatural_ability": "“灵犀一点通”。能助人开悟心神，记起前世过往；摩挲此珠可让修士在修行关隘处免受遗忘之苦 。",
+  "evolution": {
+    "current_form": "串起十二颗灵犀珠的手钏。",
+    "materials_consumed": [
+      "前世残魂",
+      "金精铜钱精华"
+    ],
+    "potential_evolution": "若全部大炼，可作为觉醒宿命通的钥匙。"
+  },
+  "visual": {
+    "static": "珠子雪白明莹，圆润可爱，透着一股沁人心脾的清凉感 。",
+    "active": "摩挲时珠心会亮起微弱的灵光，如走马灯般闪烁出前世的画面。"
+  },
+  "provenance": {
+    "origin": "大骊本土汀州豫章郡南氏遗珍，实为大骊秘库重宝 。",
+    "karma_link": "手钏中的大部分灵犀珠曾被陈平安身边的死士小陌以剑气消磨殆尽 。"
+  },
+  "enriched": true
+}

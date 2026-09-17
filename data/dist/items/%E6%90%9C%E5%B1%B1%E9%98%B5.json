@@ -1,0 +1,44 @@
+{
+  "name": "搜山阵",
+  "original_name": "搜山图太平本",
+  "type": "重器",
+  "grade": "神通",
+  "status": "活跃",
+  "description": "**搜山阵**是姜尚真压箱底的宝贝之一。在夜航船一役 中，它是围困十四境修士吴霜降的核心阵法之一。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第778章 谈笑中",
+      "owner": "吴霜降"
+    }
+  ],
+  "subtype": "阵法/压胜类",
+  "holder": "姜尚真",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白纸福地老祖师",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "若能收拢更多山川之气，可演化为捉拿世间一切精怪的 法网。",
+  "supernatural_ability": "“真假不定”，阵内神将、法宝虚实转换，配合飞剑杀人 于无形。",
+  "evolution": {
+    "current_form": "一卷气势恢宏的画轴，其内自有小天地。",
+    "materials_consumed": [
+      "山川气运",
+      "神灵遗留气机"
+    ],
+    "potential_evolution": "可配合“白泽”正统道脉进化为仙兵。"
+  },
+  "visual": {
+    "static": "画卷沉重，上绘无数身系金环的神将，形态各异。",
+    "active": "展开时如大军压境，数以万计的术法与神将法相疯狂冲 击敌人。"
+  },
+  "provenance": {
+    "origin": "由姜尚真重金购得，属于搜山图流派中的“太平本”。",
+    "karma_link": "姜尚真以此阵在落魄山大展拳脚，证明了“供奉”的担当 。"
+  },
+  "enriched": true
+}

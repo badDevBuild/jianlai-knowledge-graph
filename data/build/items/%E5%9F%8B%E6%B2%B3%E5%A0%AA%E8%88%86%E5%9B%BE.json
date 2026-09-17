@@ -1,0 +1,44 @@
+{
+  "name": "埋河堪舆图",
+  "original_name": "大骊南方州郡舆图（局部）",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这份舆图不仅记录了地理坐标，更记录了“道”的轨迹。它是陈平安在大泉王朝境内博弈、梳理山水官场 的重要工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第348章 有些想你了",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "堪舆类 / 谋划类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为记录山水气运流转的秘档，若能融入“五岳真形”，可升格为法宝级沙盘 。",
+  "supernatural_ability": "“观气察脉”。极其详尽地标注了埋河及周边版图的灵气泉眼、山水神祇布局及铁骑动向 。",
+  "evolution": {
+    "current_form": "由钦天监与大骊礼部共同勘察绘制的精密舆图 。",
+    "materials_consumed": [
+      "大骊秘法墨迹",
+      "官制宣纸"
+    ],
+    "potential_evolution": "可演化为能够实时反映山河气运流转的动态画卷 。"
+  },
+  "visual": {
+    "static": "画卷厚重，标注有红黑蓝三色线条，即便历经岁月亦不腐朽 。",
+    "active": "展开时，纸面上的山川形胜隐隐有灵光浮现，对应各处水府与神祠 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝钦天监与礼部密库合编 。",
+    "karma_link": "由魏檗赠予陈平安，助其在桐叶洲游历期间掌握山川地利 。"
+  },
+  "enriched": true
+}

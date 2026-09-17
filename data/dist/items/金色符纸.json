@@ -1,0 +1,44 @@
+{
+  "name": "金色符纸",
+  "original_name": "金色材质符纸 / 风雷纸",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "消耗",
+  "description": "金色符纸是符箓修士梦寐以求的顶级耗材，不仅价格昂贵且**有价无市* *，是绘制镇剑符等重宝的基石 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第250章 从最北到最南",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "承载类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "属于**价值连城**的珍稀载体，能承载上五境修士的本命真言 。",
+  "supernatural_ability": "质地细腻柔滑，韧性极佳，能大幅提升符箓的压胜威力和留存时限 。",
+  "evolution": {
+    "current_form": "带有特定底纹（如龙爪篆、玉筋篆）的金色纸张 。",
+    "materials_consumed": [
+      "金精",
+      "灵气纤维"
+    ],
+    "potential_evolution": "可进阶为降真青绿箓等仙兵级符纸 。"
+  },
+  "visual": {
+    "static": "色泽金黄，表面有若隐若现的云雷纹路或古篆底纹 。",
+    "active": "绘制成符后，金光流动如画龙点睛，气象远胜黄纸符箓 。"
+  },
+  "provenance": {
+    "origin": "多产自道教符箓正统门派，如中土陆氏或真诰宗 。",
+    "karma_link": "李希圣赠予陈平安的大量符纸中，金色材质最为珍稀，多次助其渡过难 关 。"
+  },
+  "enriched": true
+}

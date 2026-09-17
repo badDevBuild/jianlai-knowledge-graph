@@ -1,0 +1,46 @@
+{
+  "name": "青绿玉笏",
+  "original_name": "材质比谷雨钱还稀少的方寸物",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这块玉笏的材质极其稀缺，甚至**比谷雨钱还要少见**。陆台对其估价极高，内部曾装满了各种世俗金 银和赝品古董，体现了原主人的眼光之差与财力之厚 。",
+  "aliases": [
+    "玉笏咫尺物"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第291章 山上山下",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "空间类",
+  "holder": "陆台",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "邪道修士",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "其材质价值连城，即便在倒悬山也属罕见 。",
+  "supernatural_ability": "内部拥有较大的储物空间，且因材质特殊，能够更好地保存具有灵性的古董珍玩 。",
+  "evolution": {
+    "current_form": "青绿色玉笏形状的储物法宝 。",
+    "materials_consumed": [
+      "稀有玉髓",
+      "空间碎片"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "呈长条状，青翠欲滴，表面温润如水 。",
+    "active": "开启时会有轻微的空间涟漪，能够瞬间取出大量物品 。"
+  },
+  "provenance": {
+    "origin": "桐叶洲某位龙门境邪道修士的家底，陆台在战后将其据为己有 。",
+    "karma_link": "见证了陈平安与陆台在桐叶洲的“分赃”时刻 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,74 @@
+{
+  "name": "伏龙观古砚",
+  "original_name": "老蛟砚",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "伏龙观的镇山之宝，其核心价值在于那条具备真灵的古老瘦蛟，是研究上古龙族生理与气运的活化石 。",
+  "aliases": [
+    "古砚",
+    "古老砚台"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第159章 送君已千万里",
+      "owner": "崔瀺"
+    },
+    {
+      "chapter": "第163章 终成师生",
+      "owner": "崔瀺"
+    },
+    {
+      "chapter": "第164章 近朱者赤",
+      "owner": "崔瀺"
+    },
+    {
+      "chapter": "第174章 今年大雪有大雪",
+      "owner": "儒衫老人"
+    },
+    {
+      "chapter": "第809章 脚步",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1002章 叠阵",
+      "owner": "郑居中"
+    },
+    {
+      "chapter": "第1087章 复仇是一场独饮",
+      "owner": "马彻"
+    }
+  ],
+  "subtype": "文房类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "伏龙观",
+      "relation": "原主"
+    },
+    {
+      "name": "程水东",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为宝瓶洲十大名砚之一，其水运精华可滋养整座山头的风水 。",
+  "supernatural_ability": "砚台边沿寄居有一条高龄**瘦蛟**，盘踞而眠，鼾声能助长修行者灵性 。",
+  "evolution": {
+    "current_form": "带有一条老蛟真身的古朴砚台 。",
+    "materials_consumed": [
+      "山水气运"
+    ],
+    "potential_evolution": "可作为拘押蛟龙之属的压胜重器"
+  },
+  "visual": {
+    "static": "石质沉稳，边缘趴着一条通体琉璃色、额头隆起的小蛟 。",
+    "active": "使用时会有微弱鼾声，水运流转，能禁锢蛟龙之属的妖物 。"
+  },
+  "provenance": {
+    "origin": "上古蜀国斩龙一役中躲过一劫的遗留古种 。",
+    "karma_link": "曾被崔瀺用来降服黄庭国火蟒水蛇，现作为落魄山底蕴之一 。"
+  },
+  "enriched": true
+}

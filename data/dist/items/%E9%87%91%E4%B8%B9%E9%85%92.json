@@ -1,0 +1,44 @@
+{
+  "name": "金丹酒",
+  "original_name": "十二境妖丹酒",
+  "type": "灵物",
+  "grade": "灵酒",
+  "status": "消耗",
+  "description": "这是由十二境大妖金丹浸泡而成的极品药酒。由于药力过于强悍，普通修士乃至低境界武夫饮用会有爆 体风险，通常用于上五境大修士的命理修复 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第367章 李二出远门，左右不为难",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养类 / 消耗类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杜懋",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为由飞升境（十二境）大妖金丹泡制的药酒，其补益力位居浩然天下顶级 。",
+  "supernatural_ability": "**“重塑金身”**。蕴含极其恐怖的灵气储备，足以帮助上五境修士修复残损躯壳或支撑整座洞天的运转 。",
+  "evolution": {
+    "current_form": "浸泡在酒水中的十二境大妖金丹，药力极为暴烈 。",
+    "materials_consumed": [
+      "十二境妖丹",
+      "高阶仙酿"
+    ],
+    "potential_evolution": "若能完全吸收，可助武夫体魄突破瓶颈 。"
+  },
+  "visual": {
+    "static": "盛放在半臂高的大瓷瓶中，丹药本身大如拳头，金光灿烂 。",
+    "active": "开封后散发出极其沉重的气压和绚烂的妖异光芒 。"
+  },
+  "provenance": {
+    "origin": "陈平安在倒悬山获得此重宝，原主为蛮荒天下某头十二境大妖 。",
+    "karma_link": "陈平安曾在大泉驿馆以此作为救下郑大风性命的筹码交给杜懋 。"
+  },
+  "enriched": true
+}

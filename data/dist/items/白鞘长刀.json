@@ -1,0 +1,44 @@
+{
+  "name": "白鞘长刀",
+  "original_name": "佩剑“夜游” / “剑仙”",
+  "type": "仙剑",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安作为末代隐官的立身之剑。它不仅代表了极 致的锋芒，更象征了剑气长城“剑气长存”的不屈脊梁 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1124章 二十人与候补们（六）",
+      "owner": "廖青霭"
+    }
+  ],
+  "subtype": "攻伐/隐匿类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老龙城苻家 / 龙君",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "融合太白剑尖与龙君遗物后，具备成为顶尖杀伐仙兵的 无限可能 。",
+  "supernatural_ability": "具备“仗剑夜游，鞘外剑光，光亮如月”的压胜力。能斩 断部分空间禁制 。",
+  "evolution": {
+    "current_form": "白鞘长剑（夜游），以灰袍棉布为鞘 。",
+    "materials_consumed": [
+      "太白仙剑剑尖",
+      "龙君灰袍残余"
+    ],
+    "potential_evolution": "进化为支撑“萍”字剑意、开天辟地的绝世锋刃 。"
+  },
+  "visual": {
+    "static": "剑鞘呈灰白色，由于是棉布质地，显得极其低调简素 。",
+    "active": "出鞘时剑光雪亮，如白虹贯日，气势夺人 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城合道期间，以太白残剑与龙君遗物炼 制 。",
+    "karma_link": "承载了陈清都最后的剑道意愿及对龙君的了断 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "天仙洞衣",
+  "original_name": "天仙洞衣",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "天仙洞衣是岁除宫的标志性法宝。其特殊的织造工艺包含了极高深的道法，捻芯通过拆解此衣，将那些 代表天地规矩的丝线用于陈平安的“缝衣”过程，极大增强了其身体的承载力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第678章 第五件",
+      "owner": "霜降"
+    },
+    {
+      "chapter": "第1015章 除非问取笼外莺雀",
+      "owner": "程虔"
+    }
+  ],
+  "subtype": "防御类 / 阵法类",
+  "holder": "吴霜降 / 捻芯 (拆解中)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "岁除宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "在青冥天下亦是数得着的重宝，通过其三万六千条经纬丝线的拆解，可演化出顶级的护心阵法 。",
+  "supernatural_ability": "内部蕴含极其繁复的经纬脉络，可由缝衣人拆解后，重塑修士的心室防御 。",
+  "evolution": {
+    "current_form": "由三万六千条经纬丝线编织而成的法衣 。",
+    "materials_consumed": [
+      "远古丝线",
+      "仙家灵气"
+    ],
+    "potential_evolution": "拆解后的丝线可与金箓玉册文字融合，强化修士的人身小天地 。"
+  },
+  "visual": {
+    "static": "外观华美且结构极其精密，透着青冥天下的高古道意 。",
+    "active": "拆解时，每一条丝线都显现出独特的流转轨迹，宝光熠熠 。"
+  },
+  "provenance": {
+    "origin": "青冥天下岁除宫秘传 。",
+    "karma_link": "作为吴霜降与陈平安交易的一部分，由捻芯负责拆解并用于完善陈平安的身体改造 。"
+  },
+  "enriched": true
+}

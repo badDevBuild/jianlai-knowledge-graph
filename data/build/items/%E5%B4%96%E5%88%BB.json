@@ -1,0 +1,38 @@
+{
+  "name": "崖刻",
+  "original_name": "石壁榜书 / 剑意刻字",
+  "type": "其他",
+  "grade": "遗迹",
+  "status": "活跃",
+  "description": "这是《剑来》中剑修记录大道感悟、划定领地或传递真 意的独特方式。在仙都山与竟陵山等地，这些崖刻不仅 是风景，更是守护宗门气运的实物化身 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第993章 山中多美好",
+      "owner": "吕喦(纯阳道人)"
+    }
+  ],
+  "subtype": "道场/文化类",
+  "holder": "落魄山 / 青萍剑宗 / 太平山",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "随刻字者剑意提升，可演化为镇压山河的剑阵阵眼 。",
+  "supernatural_ability": "将高深的剑术意境或术法真意禁锢在笔画之中，既能作 为传承供后世参悟，也可作为禁制震慑外敌 。",
+  "evolution": {
+    "current_form": "分布在仙都山密雪峰平整石壁或竟陵山神庙附近的文字 。",
+    "materials_consumed": [
+      "纯粹剑气",
+      "神道真意"
+    ],
+    "potential_evolution": "可演化为与天地气运相连的“神道符玺”或完整的护山剑 阵 。"
+  },
+  "visual": {
+    "static": "石壁上苍劲有力的榜书文字，如“叠叶与高节，俱从毫 末生” 。",
+    "active": "触发时文字流溢金光，剑气森严，甚至能引发天地气机 共鸣 。"
+  },
+  "provenance": {
+    "origin": "由陈平安、黄庭等剑修在特定修道之地亲手刻就 。",
+    "karma_link": "承载了刻字者对山水脉络的理解与大道承诺 。"
+  },
+  "enriched": true
+}

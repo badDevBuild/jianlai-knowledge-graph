@@ -1,0 +1,38 @@
+{
+  "name": "祠庙",
+  "original_name": "山神庙 / 水神祠",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "山水神祇的家园。废弃的祠庙通过香火重燃，可诞生新的英灵；而位列金玉谱牒的正统祠庙，则是王朝 国祚的延伸 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1047章 梧桐更兼细雨",
+      "owner": "柳水"
+    }
+  ],
+  "subtype": "神道建筑类",
+  "holder": "山水神祇",
+  "holder_relation": "寄托",
+  "rank": "重器",
+  "rank_potential": "随封正品秩提升，祠庙建筑可转化为具有防御力的阵法枢纽 。",
+  "supernatural_ability": "聚拢一方水土灵气与香火，为神灵重塑金身或稳固道场提供基础 , 。",
+  "evolution": {
+    "current_form": "石质或木质的供奉神灵的建筑 。",
+    "materials_consumed": [
+      "人间香火",
+      "五色土"
+    ],
+    "potential_evolution": "可升格为“宫”或“府”，具备改天换地的权柄 。"
+  },
+  "visual": {
+    "static": "通常古朴端正，内有金身神像，檀香袅袅 。",
+    "active": "显灵时整座建筑散发金光，能够通过印章敕令控制周边水土走势 。"
+  },
+  "provenance": {
+    "origin": "儒家礼制下的山水官场架构 。",
+    "karma_link": "连接神道传承与世俗百姓愿力的枢纽 。"
+  },
+  "enriched": true
+}

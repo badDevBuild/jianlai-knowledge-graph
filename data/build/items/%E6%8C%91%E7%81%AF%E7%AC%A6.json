@@ -1,0 +1,61 @@
+{
+  "name": "挑灯符",
+  "original_name": "山水破障符 / 路引符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "这是**修行初期最实用的功能符箓**。它不仅是照明工具，更是修行者 在迷茫中坚守本心、趋吉避凶的视觉象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第390章 高明之家，法刀道士",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第775章 会一会十四境",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第880章 坐隐",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第923章 与诸君借取千山万水（四）",
+      "owner": "张山峰"
+    },
+    {
+      "chapter": "第1027章 休要乱我道心",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "破障/辅助类",
+  "holder": "陈平安 / 蒋去",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随画符者心境澄澈，可演化为能照彻幽冥底层的“天官照神符” 。",
+  "supernatural_ability": "专门用于破除鬼打墙、迷魂阵，并在黑暗中确定方圆数里内是否有厉鬼 邪祟 。",
+  "evolution": {
+    "current_form": "书写在黄纸上的金色或红色云篆，符胆内含一点至阳气机 。",
+    "materials_consumed": [
+      "黄玺符纸",
+      "朱砂",
+      "纯粹真气"
+    ],
+    "potential_evolution": "可进阶为具有“言灵”指引效果的圣贤大符 。"
+  },
+  "visual": {
+    "static": "符文形似一盏灯笼，线条圆润，透着淡淡的暖意 。",
+    "active": "激发后化作一点柔和金光在前方引路，光芒所及处幻象消散 。"
+  },
+  "provenance": {
+    "origin": "源自《丹书真迹》入门篇章，由李希圣传授 。",
+    "karma_link": "它是陈平安远游时使用最频繁的保命符，象征着“不战而屈人之兵”的生 存智慧 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "玉清金笥青华秘文金宝内炼丹诀",
+  "original_name": "长名道书 / 内炼丹诀",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是落魄山诸多珍稀藏书之一。仙尉虽然目前只能看懂 序文和后跋，但这本身就是一种大道“随缘”的体现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1094章 就山",
+      "owner": "仙尉"
+    }
+  ],
+  "subtype": "传承/修行类",
+  "holder": "仙尉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "落魄山藏书楼",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为道门高深的内丹修行法门，一旦领悟，可直指金丹 大道 。",
+  "supernatural_ability": "详细阐述了内丹修炼的火候与关隘，具备稳定心境、防 止走火入魔的神效 。",
+  "evolution": {
+    "current_form": "一本名字极长、内容务虚、仅有首尾易读的厚重道书 。",
+    "materials_consumed": [
+      "道家真意",
+      "灵气文字"
+    ],
+    "potential_evolution": "可演化为支撑起一个宗门丹鼎一脉传承的根本法典。"
+  },
+  "visual": {
+    "static": "封面古雅，字迹端正。非有缘人观之如坠云雾，容易犯 困 。",
+    "active": "研读至精妙处，文字会产生细微的共鸣，引导修士体内 的灵气流转 。"
+  },
+  "provenance": {
+    "origin": "道门正统传承，流落于落魄山藏书楼 。",
+    "karma_link": "见证了仙尉从“假道士”向真正修道之人转变的治学之路 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "藏青色披风",
+  "original_name": "陈平安法袍 (曹沫形象)",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一袭属于江湖远游客的行头，它遮住了大剑仙的光 芒，却显露了读书人的风骨 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1050章 酒桌之上无敌手",
+      "owner": "小米粒"
+    }
+  ],
+  "subtype": "防御/隐匿类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为隐官游历天下的行头，浸染剑意与武运后，可演化 为干扰感知的法宝。",
+  "supernatural_ability": "具备极佳的遮蔽气机功能，使高位修士难以瞬间看破真 实境界。穿戴者身形佝偻，气质从容 。",
+  "evolution": {
+    "current_form": "青衫长褂样式，低调素雅 。",
+    "materials_consumed": [
+      "云根丝",
+      "剑意余韵"
+    ],
+    "potential_evolution": "可大炼为“避尘服”，入污秽之地而无感。"
+  },
+  "visual": {
+    "static": "质地厚实，色泽深沉如墨染青天 。",
+    "active": "御风而行时大袖飘摇，隐约有水云身的气象环绕 。"
+  },
+  "provenance": {
+    "origin": "陈平安游历北俱芦洲期间，为掩饰身份而在市井店铺购 置并加持术法 。",
+    "karma_link": "与陈平安化名“曹沫”、“陈好人”等身份行走江湖紧密相 关 。"
+  },
+  "enriched": true
+}

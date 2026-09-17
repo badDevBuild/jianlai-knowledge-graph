@@ -1,0 +1,48 @@
+{
+  "name": "降真青绿箓",
+  "original_name": "青绿箓",
+  "type": "材料",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "**降真青绿箓**是浩然天下与青冥天下公认的顶级符纸 。它通常被用于书写涉及长生、避劫或跻身上五境的“大 符”，一张符纸便价值连城 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第780章 可规可矩谓之国士",
+      "owner": "姜尚真/崔东山"
+    },
+    {
+      "chapter": "第966章 桌上火锅桌外雪",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "符纸/珍稀类",
+  "holder": "吴霜降",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白玉京",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为极高品级的符纸材质，是承载十四境道韵或顶级大 符的唯一载体 。",
+  "supernatural_ability": "能够完美兼容并稳固法宝品级以上的符胆灵气，使其威 力倍增且不易流散 。",
+  "evolution": {
+    "current_form": "散发着冷冽青光的珍稀符纸。",
+    "materials_consumed": [
+      "太清道气",
+      "降真灵光"
+    ],
+    "potential_evolution": "可炼化为支撑“白日举形”等飞升大符的根基。"
+  },
+  "visual": {
+    "static": "质地细腻如玉，色泽青绿且呈半透明状，表面隐约有云 篆天道流转 。",
+    "active": "书写符箓时金光透纸而出，符文仿佛在青色水波中游动 。"
+  },
+  "provenance": {
+    "origin": "源自道门正宗，连白玉京五城十二楼也极少拿出来的压 箱底珍藏 。",
+    "karma_link": "吴霜降曾以此符纸绘制“太清轻身符”赠予陈平安 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,37 @@
+{
+  "name": "点将台",
+  "original_name": "翡翠点将台",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "一件极具仪式感的召唤类法宝，能够随身携带并随时点兵。对于水神而言，它既是统御部下的权力标志 ，也是在离开水域作战时维持杀力的重要凭仗 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1106章 家在此山中",
+      "owner": "虞阚"
+    }
+  ],
+  "subtype": "辅助/召唤类",
+  "holder": "虞阚",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "其神将强度与水府的香火、水运厚度成正比 。",
+  "supernatural_ability": "可从中召唤出强大的披甲神将（如黄甲、洪胄），辅助持有者作战 。",
+  "evolution": {
+    "current_form": "一块精雕细琢的袖珍翡翠模型 。",
+    "materials_consumed": [
+      "水府香火"
+    ],
+    "potential_evolution": "随持有者神位提升可统帅更多、更强的阴兵神将 。"
+  },
+  "visual": {
+    "static": "通体由上等翡翠雕刻，袖珍小巧，工艺极精 。",
+    "active": "坠地后会掠出纤细虹光，化现出魁梧雄壮、气势森严的披甲武将 。"
+  },
+  "provenance": {
+    "origin": "宝瓶洲青简水府（书简湖） 。",
+    "karma_link": "由水府府主虞阚持有，是其统帅水族精锐、显化水神威仪的核心法器 。"
+  },
+  "enriched": true
+}

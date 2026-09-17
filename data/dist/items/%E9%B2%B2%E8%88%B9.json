@@ -1,0 +1,62 @@
+{
+  "name": "鲲船",
+  "original_name": "活物渡船 / 跨洲楼船",
+  "type": "其他",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这是浩然天下最震撼的交通工具之一，它不仅是渡船， 更是一座流动的、充满尔虞我诈与机缘巧合的江湖 。",
+  "aliases": [
+    "鲲船"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第205章 负剑南渡",
+      "owner": "打醮山"
+    },
+    {
+      "chapter": "第207章 天上掉下个......人",
+      "owner": "打醮山"
+    },
+    {
+      "chapter": "第208章 去也",
+      "owner": "打醮山"
+    },
+    {
+      "chapter": "第212章 道高一尺",
+      "owner": "跨洲渡船"
+    },
+    {
+      "chapter": "第222章 有些离别可以再会",
+      "owner": "打醮山"
+    }
+  ],
+  "subtype": "交通/空间类",
+  "holder": "打醮山 / 顶级宗门",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古遗种",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为庞大的跨洲载体，若能持续汲取灵气并生长，可演 化为移动的“海上福地” 。",
+  "supernatural_ability": "背脊之上自成小城镇，内含多处破碎秘境空间，能无视 深海风浪，御风疾驰 。",
+  "evolution": {
+    "current_form": "身形如山岳的巨大活体鱼类，背部载有连绵建筑 。",
+    "materials_consumed": [
+      "海量灵气补给",
+      "墨家建筑阵法"
+    ],
+    "potential_evolution": "可进化为传说中的“吞宝鲸”级渡船 。"
+  },
+  "visual": {
+    "static": "漂浮于海上如移动岛屿，背脊建筑鳞次栉比，灯火通明 。",
+    "active": "升空远游时，四周烟雾滚滚，显化出无数虚幻力士拖拽 船身，光影迷离 。"
+  },
+  "provenance": {
+    "origin": "由墨家机关师驯化远古巨兽并在其背部营造府邸而成 。",
+    "karma_link": "是连接各洲文明的纽带，也见证了陈平安从宝瓶洲走向 世界的路程 。"
+  },
+  "enriched": true
+}

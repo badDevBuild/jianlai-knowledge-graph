@@ -1,0 +1,43 @@
+{
+  "name": "光明镜",
+  "original_name": "日月光大明镜",
+  "type": "灵物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这面铜镜在看似平凡的外表下蕴含着至阳至刚的大道真意，是一切阴物邪祟的克星 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第492章 西山老狐乱嫁女",
+      "owner": "无(遗落)"
+    }
+  ],
+  "subtype": "压胜类 / 照妖类",
+  "holder": "骊珠洞天有缘人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "骊珠洞天无名户",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为照妖镜一脉的源头级物件，其辟邪与破障能力可随环境阴气浓郁度自发增强 。",
+  "supernatural_ability": "具有极强的“照妖”功能，能照破迷障，令邪祟显形并自行退避 。",
+  "evolution": {
+    "current_form": "带有云雷连弧纹的青铜小镜，边缘篆刻有“日月之光，天下大明” 。",
+    "materials_consumed": [
+      "日月精华"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "看似寻常的青铜镜，背面饰有古老的云雷连弧纹 。",
+    "active": "触发时散发出如日月齐辉的清亮光芒，照耀之处阴气冰消瓦解 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天小镇深处的一件古老机缘，曾被镶嵌在破败小巷的门墙之上 。",
+    "karma_link": "见证了小镇三千年的禁制，被誉为照妖镜里的老祖宗 。"
+  },
+  "enriched": true
+}

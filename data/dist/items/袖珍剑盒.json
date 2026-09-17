@@ -1,0 +1,50 @@
+{
+  "name": "袖珍剑盒",
+  "original_name": "南华剑匣 / 陆沉剑盒",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是陆沉的**得意之作**。每一把剑都寓意着一种剑道理解，它极大地增强了陆芝的**群战与防御能力 ** 。",
+  "aliases": [
+    "木盒八剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1045章 那么些师徒们",
+      "owner": "陆芝"
+    }
+  ],
+  "subtype": "阵法类 / 重器",
+  "holder": "陆芝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "原主 / 借予者"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "盒内八剑均蕴含陆沉对不同剑道的理解，合拢即是一座微缩洞天 。",
+  "supernatural_ability": "芥子纳须弥，内含八把袖珍长剑：秋水、游凫、刻意、凿窍、南冥、游刃、蜩甲、山木 。",
+  "evolution": {
+    "current_form": "一只小巧玲珑、随手可握的木质剑匣 。",
+    "materials_consumed": [
+      "白玉京道韵",
+      "远古八剑神意"
+    ],
+    "potential_evolution": "完全炼化后可作为弥补剑修防御短板的“移动道场” 。"
+  },
+  "visual": {
+    "static": "外表朴实，打开后盒内八剑细若丝线，如小龙蜿蜒游弋 。",
+    "active": "八剑齐出，剑光凝为一线，虹光笔直破空，气象媲美洞天道场 。"
+  },
+  "provenance": {
+    "origin": "由白玉京三掌教陆沉亲手铸造炼制 。",
+    "karma_link": "由陈平安从陆沉处“借”得，转赠陆芝，成为龙象剑宗的镇宗底蕴 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,72 @@
+{
+  "name": "百睛饕餮法袍",
+  "original_name": "饕餮法袍",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件非常罕见的成长型法袍，虽然初始品相不佳，但其上限极高，是落魄山极其看重的护身重宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第499章 源头活水入心田",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第533章 那家伙敢来正阳山吗",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第548章 有事当如何",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第561章 两破境",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第915章 田垄上",
+      "owner": "杨木茂(曾持有)"
+    },
+    {
+      "chapter": "第1038章 有失远迎",
+      "owner": "周米粒"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "周米粒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "地仙邪修",
+      "relation": "原主"
+    },
+    {
+      "name": "杨凝性",
+      "relation": "曾持有"
+    },
+    {
+      "name": "陈平安",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "具有极强的成长性，可通过吞噬精元、法宝碎片进化为半仙兵 。",
+  "supernatural_ability": "能够自行汲取并转化天地灵气或阴煞之气，滋养持有者；并有遮蔽气机之效 。",
+  "evolution": {
+    "current_form": "黑色、略显丑陋的法袍，表面布满类似眼球的纹路 。",
+    "materials_consumed": [
+      "妖族血肉",
+      "灵气"
+    ],
+    "potential_evolution": "最终可成长为拥有“百睛”睁眼、吞噬万物的防御重器 。"
+  },
+  "visual": {
+    "static": "通体漆黑，质地厚重，给人以阴沉压抑之感 。",
+    "active": "当灵气充盈时，法袍表面的百睛会产生涟漪，甚至有闭合睁开的异象 。"
+  },
+  "provenance": {
+    "origin": "杨凝性从一位地仙邪修身上强行剥下的战利品 。",
+    "karma_link": "陈平安在鬼蜮谷将其从杨凝性身上缴获，后转赠给落魄山右护法周米粒 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,86 @@
+{
+  "name": "桃木剑",
+  "original_name": "降妖剑",
+  "type": "灵器",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是**落魄道士张山峰的标志性武器**。它虽然在品秩 上远逊于仙兵，却代表了《剑来》中正统道门的江湖气 与降妖职责 。",
+  "aliases": [
+    "桃木剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第122章 雷法捉妖",
+      "owner": "老道人"
+    },
+    {
+      "chapter": "第123章 狭路相逢",
+      "owner": "目盲老道"
+    },
+    {
+      "chapter": "第172章 江湖路上见不平",
+      "owner": "背负桃木剑的男子"
+    },
+    {
+      "chapter": "第215章 画眉",
+      "owner": "张山"
+    },
+    {
+      "chapter": "第218章 仙师驾到",
+      "owner": "张山"
+    },
+    {
+      "chapter": "第221章 看热闹",
+      "owner": "张山峰"
+    },
+    {
+      "chapter": "第225章 夜路",
+      "owner": "张山峰"
+    },
+    {
+      "chapter": "第236章 一山还有一山高",
+      "owner": "张山峰"
+    },
+    {
+      "chapter": "第239章 观瀑",
+      "owner": "张山峰"
+    },
+    {
+      "chapter": "第743章 天下小心火烛",
+      "owner": "张山峰"
+    },
+    {
+      "chapter": "第1010章 谁不是黄雀",
+      "owner": "陈平安（化身道士）"
+    }
+  ],
+  "subtype": "压胜/攻伐类",
+  "holder": "张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "龙虎山外姓天师",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽初始品位为匠器，但作为天师府传承，具备压胜万鬼 的天然加持 。",
+  "supernatural_ability": "具备“凡有妖魔作祟处，必有桃木张天师”的法理压制， 能平定阴煞之气 。",
+  "evolution": {
+    "current_form": "一把看似寻常、质地古拙的桃木长剑 。",
+    "materials_consumed": [
+      "千年桃木",
+      "道门愿力"
+    ],
+    "potential_evolution": "若得天师印钤印，可升格为具有“雷局”威力的重器 。"
+  },
+  "visual": {
+    "static": "剑身带有天然的雷击纹路，木质厚实，透着淡淡的药香 味 。",
+    "active": "挥动时有清微雷鸣声，对阴物鬼魅有明显的灼烧和排斥 效果 。"
+  },
+  "provenance": {
+    "origin": "源自龙虎山天师府外门传承 。",
+    "karma_link": "承载了张山峰“思无邪”的道心与陈平安、徐远霞的江湖 情谊 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,56 @@
+{
+  "name": "龙宫玉佩",
+  "original_name": "螭龙玉佩 / 李宝箴保命符",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此物是大泉境内龙王庙的镇守重宝，因其具备万里传音的神通而备受觊觎 。它不仅是李宝箴的保命底牌，也是李希圣对弟弟的一份护道心意 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第398章 天底下最不怕之事",
+      "owner": "陈平安(原属李宝箴)"
+    },
+    {
+      "chapter": "第406章 书上书外",
+      "owner": "李宝瓶"
+    }
+  ],
+  "subtype": "传音/保命类",
+  "holder": "李宝瓶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李宝箴",
+      "relation": "曾持有"
+    },
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    },
+    {
+      "name": "张响道",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为龙王庙秘藏的重宝，具备极强的因果遮蔽与跨界传音能力 , 。",
+  "supernatural_ability": "万里传音：能够实现极其遥远距离的即时通讯 。保命遮蔽：蕴含特殊的因果屏障，非特定血脉或方法难以开启 。",
+  "evolution": {
+    "current_form": "雕刻有螭龙纹样的精美玉佩 。",
+    "materials_consumed": [
+      "龙宫水运精华",
+      "圣贤道意"
+    ],
+    "potential_evolution": "若能完全激发其内部禁制，可化为守护神魂的顶级法器 。"
+  },
+  "visual": {
+    "static": "玉质温润，雕刻有生动的螭龙纹路，常伴有微弱的震鸣声 。",
+    "active": "激活时玉佩金光流转，内部会显现出山水投影或文字信息 。"
+  },
+  "provenance": {
+    "origin": "无意间得自龙王庙秘藏，是上古龙宫遗留的重宝 。",
+    "karma_link": "李希圣将其赠予李宝箴用于保命，后被陈平安夺取并转送给李宝瓶 , 。"
+  },
+  "enriched": true
+}

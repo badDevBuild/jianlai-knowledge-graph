@@ -1,0 +1,46 @@
+{
+  "name": "青竹",
+  "original_name": "神霄竹 / 奋勇竹",
+  "type": "材料 / 灵物",
+  "grade": "兵器",
+  "status": "活跃",
+  "description": "来自天下第一竹海的灵物，是浩然天下读书人与剑修最钟爱的文房/兵器 材料，承载了极重的雅趣与道意 。",
+  "aliases": [
+    "青竹"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第246章 一团乱麻，既见君子",
+      "owner": "苏琅"
+    }
+  ],
+  "subtype": "建筑类 / 制造类",
+  "holder": "陈平安 / 陈暖树",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青神山夫人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "经过文运滋养，可演化为记载君子功德的“功德木” 。",
+  "supernatural_ability": "天然压胜鬼魅阴物，材质极佳，最宜制成笔管、书箱、行山杖或打鬼鞭 。",
+  "evolution": {
+    "current_form": "苍翠欲滴的灵竹，竹节整齐，质地沁凉 。",
+    "materials_consumed": [
+      "竹海洞天灵气",
+      "文运浸润"
+    ],
+    "potential_evolution": "极少数可生长为具备“分付群芳”权柄的仙品神竹 。"
+  },
+  "visual": {
+    "static": "色泽如玉，带有淡淡的清香，表面隐约可见自然的符文脉络 。",
+    "active": "挥动时有清风徐来，能打散阴煞气机 。"
+  },
+  "provenance": {
+    "origin": "产自竹海洞天青神山 。",
+    "karma_link": "陈平安曾用青竹为李宝瓶打造小书箱，以此传承护道之意 。"
+  },
+  "enriched": true
+}

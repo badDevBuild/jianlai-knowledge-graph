@@ -1,0 +1,45 @@
+{
+  "name": "大骊边军制式战刀",
+  "original_name": "边军佩刀 / 铁骑战刀",
+  "type": "重器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是**大骊铁骑纵横天下的利刃**。它不仅是兵器，更是大骊国运的具 象，代表了世俗武力对‘山上神仙’的正面叫板 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第450章 再等等看",
+      "owner": "关翳然"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "余蕙亭 / 大骊士卒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊工部",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "配合大骊军阵武运，可演化为具有破除地仙护体罡气的‘屠龙刃’ 。",
+  "supernatural_ability": "材质坚韧冷硬，铭刻有基础的锋锐与破甲符文。能够承载武夫的纯粹真 气，具备极强的物理穿透力 。",
+  "evolution": {
+    "current_form": "刀身修长，刀柄带有大骊特有的吞口装饰，气息肃杀 。",
+    "materials_consumed": [
+      "精铁",
+      "符金",
+      "万人敌杀气"
+    ],
+    "potential_evolution": "若浸染足够妖族精血，可晋升为灵器‘百战’ 。"
+  },
+  "visual": {
+    "static": "刀光冷冽，鞘口严实，散发出一种沉重的金戈之声 。",
+    "active": "挥动时带起阵阵风雷声，刀气凝练成线，能轻易撕裂坚固的甲胄 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝官办窑口或工部造办处 。",
+    "karma_link": "象征着大骊王朝以武立国、横扫一洲的霸气与严明军纪 。"
+  },
+  "enriched": true
+}

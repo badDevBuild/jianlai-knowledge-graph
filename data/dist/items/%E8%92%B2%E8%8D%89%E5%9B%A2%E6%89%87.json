@@ -1,0 +1,48 @@
+{
+  "name": "蒲草团扇",
+  "original_name": "避暑 / 仕女持扇图团扇",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此扇名为“避暑”，寓意“明月生凉宝扇闲”。它不仅是精致的文房清供，更是与百花福地、月宫神灵有深 厚渊源的灵物 , 。陈平安将其赠予落魄山小管家暖树，因其最适宜细水流长的文运滋养 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第323章 人间灯火点点",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "精魅类 / 装饰类",
+  "holder": "陈如初 (暖树)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "张三 (虬髯客)",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由远古明月共主亲手炼制，名为“避暑”，虽在人间辗转导致品秩折损，但具有成长为半仙兵的底蕴 。",
+  "supernatural_ability": "“画中画”。扇面绘有仕女持扇图，细看之下，图中仕女所持团扇上亦绘有仕女持扇，层层递进 , 。可聚拢月华，孕育出“护花使”精魄 。",
+  "evolution": {
+    "current_form": "古色古香的小圆团扇 。",
+    "materials_consumed": [
+      "月宫旧藏材质",
+      "神女灵性"
+    ],
+    "potential_evolution": "若能由百花福地花神温养，可演化为掌控花信香泽的仙家重宝 , 。"
+  },
+  "visual": {
+    "static": "扇面绘有亭亭玉立的仕女，手持团扇逗弄枝头黄雀 。",
+    "active": "月夜下会散发清凉气息，图中仕女仿佛在画中游走 , 。"
+  },
+  "provenance": {
+    "origin": "源自远古月宫，由明月共主炼制 。",
+    "karma_link": "陈平安在夜航船条目城与虬髯客交易所得 , 。"
+  },
+  "enriched": true
+}

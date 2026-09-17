@@ -1,0 +1,47 @@
+{
+  "name": "雷法道书(残本)",
+  "original_name": "上古雷法孤本",
+  "type": "典籍",
+  "grade": "珍品",
+  "status": "活跃",
+  "description": "这是陈平安为林守一专门在灵芝斋挑选的修行资粮 。尽管是残本，其价值依然极高，被灵芝斋评价为若非残缺便堪称无价 。林守一获得此书后，配合《云上琅琅书》中下卷，在雷法修行上一日千里 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第403章 拜访",
+      "owner": "林守一"
+    }
+  ],
+  "subtype": "雷法修行类",
+  "holder": "林守一",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "灵芝斋",
+      "relation": "曾持有"
+    },
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "被视为世间孤本，若非残缺数十页，本应是无价之宝 。",
+  "supernatural_ability": "记载有极高深的雷法门径，能辅助修行者沟通天地雷鸣 。",
+  "evolution": {
+    "current_form": "残缺数十页的纸质古籍 。",
+    "materials_consumed": [
+      "雷电道韵"
+    ],
+    "potential_evolution": "若能补全残页，可直指雷法大道之巅 。"
+  },
+  "visual": {
+    "static": "泛黄的古老书页，带有岁月的陈旧感 。",
+    "active": "翻阅时隐约有雷光在字里行间流转 。"
+  },
+  "provenance": {
+    "origin": "得自倒悬山灵芝斋 。",
+    "karma_link": "由陈平安在倒悬山购买后转赠给林守一，全了当年棋墩山赠书之缘 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "青神山灵竹",
+  "original_name": "竹海洞天灵植",
+  "type": "材料",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "名动天下的顶级仙材，由青神山夫人严密看管。其材质 制成的法器风靡天下，是练气士梦寐以求的文雅重宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第804章 一笑抚青萍",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "灵植/炼造类",
+  "holder": "青神山夫人",
+  "holder_relation": "寄托",
+  "rank": "灵器",
+  "rank_potential": "若是万年祖宗竹的近支，可炼化为仙兵级法器 。",
+  "supernatural_ability": "天然压胜山川鬼魅与湖泽精怪，具记载君子功德过失之 能 。",
+  "evolution": {
+    "current_form": "生长于竹海洞天的各色灵秀竹子 。",
+    "materials_consumed": [
+      "洞天灵气",
+      "山水气数"
+    ],
+    "potential_evolution": "可炼制成打鬼鞭、神霄扇等顶级法器 。"
+  },
+  "visual": {
+    "static": "苍翠欲滴，绿意莹澈，竹节处隐约有雷云纹或天然道纹 。",
+    "active": "以此制成的器物在挥动时伴有雷鸣或清风，散发淡淡草 木清香 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲三十六小洞天之一的竹海洞天 。",
+    "karma_link": "与落魄山陈平安多次结缘，作为其行山杖、折扇等物的 主要材质 [14-16]。"
+  },
+  "enriched": true
+}

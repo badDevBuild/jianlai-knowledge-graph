@@ -1,0 +1,56 @@
+{
+  "name": "青神山酒水",
+  "original_name": "天下头等仙酿",
+  "type": "货币",
+  "grade": "灵酒",
+  "status": "活跃",
+  "description": "这是浩然天下公认的顶级重礼。陈平安将其引入剑气长城，不仅做成了名利双收的买卖，更成为了他“ 以酒洗剑”的道意载体 。",
+  "aliases": [
+    "竹海洞天酒",
+    "青神山酒酿"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第609章 唯恐大梦一场",
+      "owner": "陈平安(售卖)"
+    },
+    {
+      "chapter": "第826章 本命瓷",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第836章 火神求火",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青神山夫人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "饮用者境界越高，其洗涤神魂、助益破境的效果越显著 。",
+  "supernatural_ability": "被誉为“饮我酒者可破境”，一口酒可抵百年苦修，能极大增强修士的水属亲和力 。",
+  "evolution": {
+    "current_form": "由竹海洞天竹叶与酒虫精酿而成的仙液 。",
+    "materials_consumed": [
+      "神霄竹叶",
+      "酒虫",
+      "灵湫泉水"
+    ],
+    "potential_evolution": "若加入万年老蛟金丹，可进阶为辅助跻身飞升境的“真龙血酒” 。"
+  },
+  "visual": {
+    "static": "装于朱红养剑葫或青瓷瓶中，色泽清亮，自带竹海清香 。",
+    "active": "倒入碗中呲呲作响，如龙汲水，散发出炫目的灵气霞光 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲竹海洞天青神山 。",
+    "karma_link": "陈平安作为二掌柜，通过此酒与剑气长城无数剑仙结下深厚善缘 。"
+  },
+  "enriched": true
+}

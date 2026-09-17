@@ -1,0 +1,48 @@
+{
+  "name": "墨家强弓",
+  "original_name": "军中头等强弓 / 破山弓",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是大骊王朝的高级军备。它标志着即使是凡俗武夫，只要手持墨家重 器，亦有资格在战场上对山上神仙“递出一剑” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第230章 下 黑云压城",
+      "owner": "郡守府亲军"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "徐远霞 / 大骊将领",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊兵部",
+      "relation": "原主"
+    },
+    {
+      "name": "马将军",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "配合墨家特制箭矢，杀力可威胁金丹境练气士 。",
+  "supernatural_ability": "弓身铭刻有特定的辅助符文，能极大增强箭矢的破甲力与射程。武夫以 罡气挽弓，威力倍增 。",
+  "evolution": {
+    "current_form": "以龙脊木及特种合金打造的重型强弓 。",
+    "materials_consumed": [
+      "龙脊木",
+      "精铁符金"
+    ],
+    "potential_evolution": "可升级为安置在剑舟上的大型“攻仙弩” 。"
+  },
+  "visual": {
+    "static": "弓身漆黑如铁，缠绕金丝，透着一股浓郁的军中肃杀气机 。",
+    "active": "拉满时弓弦嗡嗡作响，产生细微的空气涡流，箭矢破空时伴有尖啸 。"
+  },
+  "provenance": {
+    "origin": "出自大骊兵部或工部，由墨家机关师监制 。",
+    "karma_link": "见证了徐远霞与大骊将领之间的袍泽情谊 。"
+  },
+  "enriched": true
+}

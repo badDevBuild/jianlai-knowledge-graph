@@ -1,0 +1,38 @@
+{
+  "name": "千秋酒",
+  "original_name": "碧霄三酒之千秋",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "消耗",
+  "description": "千秋酒是世间顶级的仙酿，老观主以此款待真正的同道 。它不仅是灵气的凝聚，更是修行者对漫长光阴的一种 体悟 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1060章 明月中酒还行",
+      "owner": "老观主"
+    }
+  ],
+  "subtype": "滋养/破境类",
+  "holder": "老观主 (碧霄洞主)",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为“碧霄三酒”中的中阶年份，它是练气士苦尽甘来、 步入修行深水区的象征，蕴含极强的破障道力。",
+  "supernatural_ability": "酒液明亮如月，饮之可洗练魂魄，帮助练气士感悟光阴 流转的玄妙。",
+  "evolution": {
+    "current_form": "由老观主亲手酿造、盛放在粗瓷白碗中的清冽酒水 。",
+    "materials_consumed": [
+      "远古神性水滴",
+      "碧霄洞千年灵草"
+    ],
+    "potential_evolution": "与“百年”、“万岁”两酒合一，可炼化为不朽道果 。"
+  },
+  "visual": {
+    "static": "酒色纯净剔透，香气内敛而悠长 。",
+    "active": "饮用时异香扑鼻，产生苦尽甘来、渐入佳境的感官异象 。"
+  },
+  "provenance": {
+    "origin": "落宝滩老观主在碧霄洞亲自酿制 。",
+    "karma_link": "见证了老观主与小陌跨越万年的道友之谊，亦是其合道 “天时”的产物 。"
+  },
+  "enriched": true
+}

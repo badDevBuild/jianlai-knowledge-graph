@@ -1,0 +1,46 @@
+{
+  "name": "造像仪轨书",
+  "original_name": "神像营造法式",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是修道之士在阳间设立祠庙、收集功德的必读典籍。详尽介绍了如何通过“描金”、“点化”等手段将普 通塑像转化为能收集愿力的神位。",
+  "aliases": [
+    "修缮神像书"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第295章 远望",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "秘籍类 / 仪轨类",
+  "holder": "陈平安 / 龙泉郡相关势力",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文庙 / 阴阳家",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "记载了山水正神造像的终极秘密，是建立山水官场的工具书。",
+  "supernatural_ability": "**“开脸点睛”**。通过书中记载的仪轨，可以在神像内放置金银、经书，使泥塑木胎承载人间香火，转 化为真灵金身。",
+  "evolution": {
+    "current_form": "线装典籍，记载大量神像规格与禁忌。",
+    "materials_consumed": [
+      "灵气宣纸",
+      "圣人笔墨"
+    ],
+    "potential_evolution": "能指导营造出足以承受一洲气运的最高规格金身神像。"
+  },
+  "visual": {
+    "static": "书皮古旧，内文绘有详尽的神像比例图与符咒文字。",
+    "active": "翻阅时纸页间隐隐有香火气息飘出，文字在特定光线下会呈现金光。"
+  },
+  "provenance": {
+    "origin": "源自儒家对于山水神灵的管理制度。",
+    "karma_link": "陈平安在建设落魄山和龙泉郡山水官场时，以此作为核心指导手册。"
+  },
+  "enriched": true
+}

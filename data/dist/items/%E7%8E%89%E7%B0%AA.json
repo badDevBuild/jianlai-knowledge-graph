@@ -1,0 +1,58 @@
+{
+  "name": "玉簪",
+  "original_name": "白玉簪子",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安极其珍视的护身之物，虽在物质层面并非极其奢华，但在因果层面重如山岳，象征其坚守本心、 砥砺前行的君子之风 。",
+  "aliases": [
+    "玉簪",
+    "玉簪(阿良)"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第90章 大雨滂沱",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第936章 吾为东道主（六）",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1082章 下了场大雪",
+      "owner": "崔东山/曹晴朗"
+    },
+    {
+      "chapter": "第1203章 开门见了新人间",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "信物类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "承载文圣一脉气运，随持有者修为提升可显现遮蔽天机之能 。",
+  "supernatural_ability": "具有镇压心境与遮掩气象的功能，陈平安后期以此簪别发，能使其气息与天地契合 。",
+  "evolution": {
+    "current_form": "篆刻有“言念君子，温其如玉”的小巧白玉簪",
+    "materials_consumed": [
+      "陈平安在各地的文字感悟"
+    ],
+    "potential_evolution": "可演化为独立的小洞天或福地"
+  },
+  "visual": {
+    "static": "质地细腻，触感温润，由陈平安亲自雕琢八个蝇头小篆 。",
+    "active": "佩戴后神华内敛，外人眼中其气质温润如玉，难以推演其命理 。"
+  },
+  "provenance": {
+    "origin": "齐静春在离世前留给陈平安的念想，承载了文圣一脉的传承 。",
+    "karma_link": "见证了陈平安从窑工少年成长为剑客、国师的心路历程 。"
+  },
+  "enriched": true
+}

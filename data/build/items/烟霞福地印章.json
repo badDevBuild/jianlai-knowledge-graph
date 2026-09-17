@@ -1,0 +1,48 @@
+{
+  "name": "烟霞福地印章",
+  "original_name": "烟霞福地",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "作为福地的枢纽，这枚印章不仅是身份的象征，更是极具实操价值的修炼资源 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第530章 他的本命瓷和弟子们",
+      "owner": "阮秀 (暂管)"
+    }
+  ],
+  "subtype": "空间类 / 镇压类",
+  "holder": "阮秀",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李二",
+      "relation": "原主"
+    },
+    {
+      "name": "李柳",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随福地品秩提升可产生更多天材地宝，是宗门发展的根基 。",
+  "supernatural_ability": "能够镇压一方福地气运，凝聚烟霞灵气，辅助持有者感悟天人合一之境 。",
+  "evolution": {
+    "current_form": "带有精美边款的印章 。",
+    "materials_consumed": [
+      "福地灵粹",
+      "文运精魂"
+    ],
+    "potential_evolution": "若能融入上等山色，有望进阶为洞天级法宝 。"
+  },
+  "visual": {
+    "static": "古朴印章，边款篆刻“岁月人间促，烟霞此地多” 。",
+    "active": "使用时会有淡淡的烟霞雾气升腾，遮蔽一方天机 。"
+  },
+  "provenance": {
+    "origin": "由李柳代父赠予，象征着深厚的山水因果 。",
+    "karma_link": "是针对未来大势布局的重要落子，旨在帮助阮秀稳固神道 。"
+  },
+  "enriched": true
+}

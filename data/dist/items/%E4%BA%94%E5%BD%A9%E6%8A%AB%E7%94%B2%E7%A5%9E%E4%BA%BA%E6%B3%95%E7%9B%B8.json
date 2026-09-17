@@ -1,0 +1,38 @@
+{
+  "name": "五彩披甲神人法相",
+  "original_name": "齐静春隐秘法相",
+  "type": "其他",
+  "grade": "神通",
+  "status": "活跃",
+  "description": "**齐静春合道天地的隐秘法相** 。它是基于一尊破碎的**道门灵官神像**构建的，寓意着“**明虽灭尽，灯炉犹存**”的儒家担当 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第739章 春风得意",
+      "owner": "齐静春"
+    }
+  ],
+  "subtype": "神道/法相类",
+  "holder": "齐静春",
+  "holder_relation": "寄托",
+  "rank": "重器",
+  "rank_potential": "融合了儒家文运与神道气数，具备对抗天劫的伟力。",
+  "supernatural_ability": "能够承载一洲山河气运，以破碎金身强行稳固濒临崩溃的小天地 。",
+  "evolution": {
+    "current_form": "金身破碎、彩塑斑驳的巨大神人形象 。",
+    "materials_consumed": [
+      "山河气数",
+      "功德愿力"
+    ],
+    "potential_evolution": "随齐静春的神魂消散而重归天地"
+  },
+  "visual": {
+    "static": "巍峨庄严，身披绚烂彩甲，虽然伤痕累累却依然屹立不倒 。",
+    "active": "显化时遮天蔽日，可硬抗雷劫并保护治下生灵 。"
+  },
+  "provenance": {
+    "origin": "由齐静春凭借功德与骊珠洞天气数凝聚而成 。",
+    "karma_link": "齐静春守护小镇众生的最终道果体现 。"
+  },
+  "enriched": true
+}

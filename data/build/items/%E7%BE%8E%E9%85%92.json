@@ -1,0 +1,49 @@
+{
+  "name": "美酒",
+  "original_name": "“美酒”养剑葫",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“美酒”是世间最负盛名的七大养剑葫芦之一，排行第六 。它在剑修眼中是无价之宝，不仅因为其巨大的养剑空间，更因为它能将普通酒水转化为温养剑意与 体魄的资粮，使修行者在饮酒间砥砺大道 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第699章 天下第一人",
+      "owner": "魏晋 (推测)"
+    }
+  ],
+  "subtype": "养剑类 / 辅助类",
+  "holder": "魏晋",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "原主"
+    },
+    {
+      "name": "风雪庙",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道祖亲植的七大养剑葫芦之一，具有反哺持有人体魄、将酒水转化为精纯剑气的极致底蕴 。",
+  "supernatural_ability": "最能够反哺主人体魄，修士饮酒即是在汲取精粹剑气，且绝无后患 。",
+  "evolution": {
+    "current_form": "雪白色的养剑葫芦 。",
+    "materials_consumed": [
+      "道祖灵气",
+      "天下美酒",
+      "大剑仙剑意"
+    ],
+    "potential_evolution": "可随持有者破境提升养剑品格，甚至承载剑道本源 。"
+  },
+  "visual": {
+    "static": "一只颜色雪白、样式古朴的亚腰葫芦，常由魏晋挂在驴背上或腰间 。",
+    "active": "饮酒时酒香中蕴含凌厉剑气，温养飞剑时葫芦表面会浮现淡淡的莹光 。"
+  },
+  "provenance": {
+    "origin": "道祖成仙前在浩然天下亲手种下的葫芦藤所结七枚葫芦之一 。",
+    "karma_link": "由魏晋早年获得，曾在阿良入山时被借用 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "水神越山符",
+  "original_name": "三山符 / 山河跨洲符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "这是符箓一脉的至高神物。陈平安通过此符实现了“水字符斩光阴，山字符筑长堤”的神通，是他在乱世 中搬山倒海的关键屏障 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第639章 一人喃喃，群山回响",
+      "owner": "柳将军"
+    }
+  ],
+  "subtype": "空间类 / 压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    },
+    {
+      "name": "三山九侯先生",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为天下符箓开山鼻祖的真传，具备规制山河、穿梭光阴长河的极致潜力 [20-22]。",
+  "supernatural_ability": "能够敕令神鬼让道，斩开光阴长河。通过观想“三山”架构门户，使修士在两座天下间实现瞬时跨洲 [21-23]。",
+  "evolution": {
+    "current_form": "绘有远古三山四海真形图的古老符箓 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "三山真意"
+    ],
+    "potential_evolution": "结合“降真青绿箓”与白玉京秘法，可重现万法宗师的跨界神威 。"
+  },
+  "visual": {
+    "static": "符纸纹路如古老河床，三山真形各具“态势”，或如神人尸坐，或如云隐龙飞 。",
+    "active": "符光炸裂如海上生明月，显化出三座连接光阴的山市渡口，气势磅礴 。"
+  },
+  "provenance": {
+    "origin": "由三山九侯先生首创，经白玉京大掌教注疏演化 。",
+    "karma_link": "陈平安凭借此符在蛮荒天下长驱直入，并以此礼敬远古先贤，获得了不浅的道缘 。"
+  },
+  "enriched": true
+}

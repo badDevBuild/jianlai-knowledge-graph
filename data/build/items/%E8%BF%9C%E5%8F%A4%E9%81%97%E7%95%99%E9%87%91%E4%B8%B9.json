@@ -1,0 +1,48 @@
+{
+  "name": "远古遗留金丹",
+  "original_name": "黄鹤守金丹",
+  "type": "丹药",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是整座天下都极其罕见的“生长”类重宝，是远古大修士道果的结晶。它超越了寻常仙兵的范畴，代表 了一份不朽的道统传承 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第937章 吾为东道主（七）",
+      "owner": "倪元簪(旧主)"
+    }
+  ],
+  "subtype": "传承类 / 辅助类",
+  "holder": "云窟福地 / 倪元簪 (看管)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "天地间第一只仙鹤",
+      "relation": "原主"
+    },
+    {
+      "name": "东海老观主",
+      "relation": "看管者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "具备“生长”属性，能让修士凭空多出一颗极品金丹并继承飞升境大修士完整道统 。",
+  "supernatural_ability": "能够稳固道心，大幅度提升结丹品秩，使其成为通往十四境的坦途 。",
+  "evolution": {
+    "current_form": "一颗澄澈无瑕、藏于黄鹤矶崖壁间的金丹 。",
+    "materials_consumed": [
+      "远古神性精华",
+      "仙鹤精元"
+    ],
+    "potential_evolution": "炼化后可开辟真实洞天，助力修士跻身上五境 。"
+  },
+  "visual": {
+    "static": "光华流转，色泽澄澈，蕴含着恐怖的道道余韵 。",
+    "active": "现世时宝光冲天，水火交融，气象万千 。"
+  },
+  "provenance": {
+    "origin": "由一位只差半步跻身十四境的远古仙鹤（飞升境巅峰）闭关失败后遗留 。",
+    "karma_link": "由老观主代为保管，专门留待有缘人继承衣钵 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "广陵止息谱",
+  "original_name": "广陵散残谱/全谱",
+  "type": "典籍",
+  "grade": "珍品",
+  "status": "活跃",
+  "description": "**广陵止息谱**即世间绝响《广陵散》。它是陈平安在 夜航船条目城的重要收获，补全了浩然天下失传已久的 文化脉络 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第781章 齐聚",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "乐谱/道法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白发童子 (箜篌)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵物",
+  "rank_potential": "内含“止息”之意，可借音律阐述天地大道的肃杀与宁静 。",
+  "supernatural_ability": "能够通过琴音调理神魂，压制心魔，是辅助练气士进入 “坐忘”境的极佳指引 。",
+  "evolution": {
+    "current_form": "手写的琴谱，内容详实且完整。",
+    "materials_consumed": [
+      "远古记忆",
+      "文运墨迹"
+    ],
+    "potential_evolution": "若得名琴“绿绮台”演奏，可显化出“广陵剑气”小天地。"
+  },
+  "visual": {
+    "static": "字迹清秀，墨香经年不散，行文间自带一股杀伐之气 。",
+    "active": "翻阅时耳畔仿佛有雷鸣琴音响起，令人神识一震 。"
+  },
+  "provenance": {
+    "origin": "白发童子根据吴霜降的记忆，为陈平安亲笔写就的失传 曲谱 。",
+    "karma_link": "体现了岁除宫与落魄山之间关于“才情”与“因果”的交织 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,45 @@
+{
+  "name": "打鬼鞭",
+  "original_name": "神霄竹鞭",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**打鬼鞭**是山上公认的**压胜重宝**，尤以**神霄竹**或**雷池金鞭**材质最为珍贵 。陈平安在鬼蜮谷获得数截雷池脉络，其中最长的一根计划作为开山大弟子**裴钱**的护道之物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1178章 志怪故事",
+      "owner": "神诰宗女弟子"
+    }
+  ],
+  "subtype": "压胜/攻伐类",
+  "holder": "神诰宗修士 / 裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "积霄山雷池",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若以青神山神霄竹或雷池脉络炼制，可进化为先天法宝 。",
+  "supernatural_ability": "天生压胜成道于地底的精怪鬼魅，对阴物具有极强的震慑力 。",
+  "evolution": {
+    "current_form": "竹节状的短鞭或行山杖 。",
+    "materials_consumed": [
+      "神霄竹",
+      "雷池脉络",
+      "雷电精华"
+    ],
+    "potential_evolution": "陈平安计划将积霄山雷鞭炼化为名为“薪火”的行山杖送给裴钱 。"
+  },
+  "visual": {
+    "static": "通常由青翠或金黄色的竹节制成，表面隐约有雷纹或道教符箓 。",
+    "active": "挥动时带起细微雷声，散发出纯阳正气，令鬼魅胆寒 。"
+  },
+  "provenance": {
+    "origin": "材质多出自北俱芦洲鬼蜮谷积霄山雷池或竹海洞天青神山 。",
+    "karma_link": "是山上修士降妖除魔、护身立命的标志性重器 。"
+  },
+  "enriched": true
+}

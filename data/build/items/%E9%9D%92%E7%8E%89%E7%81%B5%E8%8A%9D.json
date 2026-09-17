@@ -1,0 +1,44 @@
+{
+  "name": "青玉灵芝",
+  "original_name": "白玉灵芝 / 山神权杖",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "陈平安分身“山中道人”所持的重宝，不仅是身份象征， 更是施展顶尖遁术的关键媒介 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第762章 归乡之返，开天之去",
+      "owner": "陈平安/姜尚真/郭淳熙"
+    }
+  ],
+  "subtype": "辅佐/身法类",
+  "holder": "陈平安 (地仙分身)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云杪 (九真仙馆)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "随持有者炼物造诣提升，可完全掌握“云水身”身法神通 。",
+  "supernatural_ability": "铭文“千年莹澈无瑕，百世芝兰幽香”，能辅助身法，引 动山水灵气 。",
+  "evolution": {
+    "current_form": "一支莹亮通透的青玉质地灵芝 。",
+    "materials_consumed": [
+      "九真仙馆秘法",
+      "云水精华"
+    ],
+    "potential_evolution": "可作为构建“水精境界”小天地的核心法宝。"
+  },
+  "visual": {
+    "static": "玉色苍翠欲滴，表面有流光溢彩，形制精美若天然生长 。",
+    "active": "持有时身形缥缈若仙，可引动云海翻涌，甚至产生虚幻 法相 。"
+  },
+  "provenance": {
+    "origin": "大雍王朝境内九真仙馆的重宝 。",
+    "karma_link": "陈平安在鸳鸯渚一战后，云杪作为“买路钱”将其奉上 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "朱笔灯笼",
+  "original_name": "魂去来兮灯",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "朱笔灯笼是大骊王朝法家、礼部联合打造的威慑利器。它表面带有哀悼之意，实则蕴含森严律法，是对 付不守规矩的“山上人”的强力手段，象征着“人间王法大于天”的霸道逻辑 。",
+  "aliases": [
+    "朱笔灯笼"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第112章 强者",
+      "owner": "礼部郎中"
+    }
+  ],
+  "subtype": "搜捕/压胜类",
+  "holder": "大骊礼部郎中",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊朝廷",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为官家制式的强力搜捕法宝，其潜力在于对高位格神灵及强大修士神魂的压制力 。",
+  "supernatural_ability": "能够隔绝阴阳，侦测并截杀特定的强大神魂或修士，具有追踪和拘押之效 。",
+  "evolution": {
+    "current_form": "写有朱红文字的白纸灯笼",
+    "materials_consumed": [
+      "国运龙气",
+      "朱砂精粹"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "看似一盏寻常的白纸灯笼，灯面上有人以朱笔写就“魂去来兮”四个古朴小字 。",
+    "active": "当跨过阴阳界限（如进入城隍阁）时，灯内会出现一缕缕飞掠撞壁的彩色流萤，灵光四溢 。"
+  },
+  "provenance": {
+    "origin": "大骊礼部祠祭清吏司秘制，由专门负责捕杀和监控强者的官员持有 。",
+    "karma_link": "曾在大骊针对阿良的围捕行动中出现，体现了大骊王朝对山上势力的强制管辖力 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,75 @@
+{
+  "name": "油纸伞",
+  "original_name": "遮蔽气机伞",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安极其珍视的保命之物。在桐叶洲之行中，这把伞多次帮他规避了来自上五境修士的恶意窥探 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第123章 狭路相逢",
+      "owner": "嫁衣女鬼"
+    },
+    {
+      "chapter": "第216章 出手",
+      "owner": "刘姓书生(原持有者)"
+    },
+    {
+      "chapter": "第330章 过山过水，遇姚而停",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第351章 明年十一",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第366章 剑灵往北，左右往南",
+      "owner": "剑灵 (陈平安赠送)"
+    },
+    {
+      "chapter": "第631章 淡淡风溶溶月",
+      "owner": "阮秀"
+    },
+    {
+      "chapter": "第742章 打更巡夜",
+      "owner": "曹组"
+    },
+    {
+      "chapter": "第1035章 自有宽路",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第1086章 泥瓶内的老酒",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "遮掩类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老道人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为能够**遮蔽天机**的重宝，其品秩在特定环境下可媲美仙兵 。",
+  "supernatural_ability": "能够有效**遮掩持有者的气机**，防止外界高位格修士通过推衍、卜卦来锁定方位或预测运势 。",
+  "evolution": {
+    "current_form": "寻常样式的油纸伞 。",
+    "materials_consumed": [
+      "天理运数"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "外表极其**不起眼**，与世俗间的油纸伞无异 。",
+    "active": "撑开后能形成一道无形的屏障，使持有者在因果脉络中变得模糊 。"
+  },
+  "provenance": {
+    "origin": "由太平山的一位老道人赠予陈平安 。",
+    "karma_link": "此物是陈平安远游途中躲避大妖及仇家推算的关键依仗 。"
+  },
+  "enriched": true
+}

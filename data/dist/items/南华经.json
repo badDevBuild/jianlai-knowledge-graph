@@ -1,0 +1,38 @@
+{
+  "name": "南华经",
+  "original_name": "南华篇 / 陆沉大道分身",
+  "type": "典籍",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "陆沉的大道显化。他的修行路数倾向于“散道”，将《南 华经》中的至理散落在人间作为伏笔 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第857章 摧城",
+      "owner": "陆沉/陈平安(暂用)"
+    }
+  ],
+  "subtype": "法理/意境类",
+  "holder": "陆沉",
+  "holder_relation": "寄托",
+  "rank": "仙兵",
+  "rank_potential": "作为道教顶级经典，承载着通往十五境的终极真意 。",
+  "supernatural_ability": "包含《徐无鬼》、《逍遥游》等篇章，可借此演化五梦 七心相，穿梭各界 。",
+  "evolution": {
+    "current_form": "道教洞玄部经典，蕴含三千真言 。",
+    "materials_consumed": [
+      "大道意气",
+      "天道秩序"
+    ],
+    "potential_evolution": "可演化为真正意义上的“天人合一”规则载体 。"
+  },
+  "visual": {
+    "static": "在白玉京高楼中存放，常以书册、竹简形式存在 。",
+    "active": "翻阅时文字如星辰流转，能引发时空扭曲或进入特定梦 境 。"
+  },
+  "provenance": {
+    "origin": "源自白玉京三掌教陆沉的学问根基 。",
+    "karma_link": "与陆沉在宝瓶洲的布局及对陈平安的引导紧密相关 。"
+  },
+  "enriched": true
+}

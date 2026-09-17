@@ -1,0 +1,46 @@
+{
+  "name": "楷树",
+  "original_name": "坟头楷书",
+  "type": "其他",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "楷树在《剑来》中象征着**陈平安家族深藏的文脉潜力**。它不仅是小镇的一处地理标志，更是各大势 力博弈中用以推算陈平安“一字之差”命理的关键载体 。",
+  "aliases": [
+    "楷树"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第67章 远行",
+      "owner": "颍阴陈氏祖坟"
+    }
+  ],
+  "subtype": "文运类",
+  "holder": "大骊王朝 / 陈氏家族",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陈氏先祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为**骊珠洞天陈氏祖坟**的标志，它承载了一个家族的文脉与气运，具有极高的命理研究价值 。",
+  "supernatural_ability": "“文气共鸣”。能够感应并汇聚一地的**山河文运**，甚至引起儒家门阀大修的关注与勘验 。",
+  "evolution": {
+    "current_form": "扎根于祖坟之上的古木，历经沧桑而不朽 。",
+    "materials_consumed": [
+      "地脉龙气",
+      "先贤文运"
+    ],
+    "potential_evolution": "可演化为支撑宗门文治功德的“功德木” 。"
+  },
+  "visual": {
+    "static": "树形端庄，枝叶繁茂，透着一股肃穆的学问气象 。",
+    "active": "当大修士观照时，可见树冠上方文气氤氲，呈锦绣之色 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天陈氏祖坟，与“坟头楷书”的典故紧密相连 。",
+    "karma_link": "醇儒陈氏的**陈对**曾专门前来此地，试图厘清陈平安的家族底蕴 。"
+  },
+  "enriched": true
+}

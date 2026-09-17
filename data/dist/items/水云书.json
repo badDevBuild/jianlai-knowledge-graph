@@ -1,0 +1,44 @@
+{
+  "name": "水云书",
+  "original_name": "水云文 / 蛮荒文字",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是周密留给蛮荒天下最重要的“遗产”之一，不单是交 流工具，更是为了接引远古神灵而铺就的文字荆棘道 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1105章 一个新鲜故事",
+      "owner": "离垢"
+    }
+  ],
+  "subtype": "文明/法理类",
+  "holder": "蛮荒天下 / 托月山",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "周密 (贾生)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为一座天下的文化根基，具备定义万物名实、对抗浩 然礼法的潜力。",
+  "supernatural_ability": "包含“总计六万多个文字” ，用于重塑蛮荒天下的文明秩序，并在天外天对抗儒 家圣人的本命字压胜 。",
+  "evolution": {
+    "current_form": "蛮荒天下的新文字系统。",
+    "materials_consumed": [
+      "周密的博杂学问",
+      "蛮荒山河气运"
+    ],
+    "potential_evolution": "演变为能够完全屏蔽浩然天下圣人感知的法理屏障。"
+  },
+  "visual": {
+    "static": "字形如云烟般扭曲多变，又带有一种独特的江河水汽意 境 。",
+    "active": "书写时能引发地脉震动，文字仿佛在书页或空中自行流 转。"
+  },
+  "provenance": {
+    "origin": "由周密（文海）为蛮荒天下亲手创造，旨在帮助妖族与 浩然天下划清界线 。",
+    "karma_link": "见证了周密从失意贾生向蛮荒文海的身份转变 。"
+  },
+  "enriched": true
+}

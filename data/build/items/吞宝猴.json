@@ -1,0 +1,44 @@
+{
+  "name": "吞宝猴",
+  "original_name": "吐宝小貂 / 墨猴",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "此类灵兽在山上极为罕见。无论是作为“天然储钱罐”的吐宝小貂，还是能助文人一臂之力的墨猴，都是 各大宗门争相收藏的雅物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第505章 二月二",
+      "owner": "老人"
+    }
+  ],
+  "subtype": "招财类 / 辅助类",
+  "holder": "梅花庵仙子 / 温煜",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "叶老莲",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为灵兽，随年份增长可增强对天材地宝的感知力与财富聚拢能力 。",
+  "supernatural_ability": "能够吞食神仙钱并产出更多钱币；墨猴则能为主人研墨，且天生喜食墨汁，无需清洗砚台 。",
+  "evolution": {
+    "current_form": "体型如拳头大小的灵动小兽 。",
+    "materials_consumed": [
+      "神仙钱",
+      "上品墨汁"
+    ],
+    "potential_evolution": "长期浸染文运后可化为文房之灵，协助书写含有神意的文章 。"
+  },
+  "visual": {
+    "static": "通常蜷缩在主人的肩头或特制的青竹筒内，皮毛顺滑，眼神灵动 。",
+    "active": "研墨或产钱时动作敏捷，周身伴有淡淡的墨香或宝光 。"
+  },
+  "provenance": {
+    "origin": "部分产自百花福地，部分源自剑气长城圣贤的遗泽 。",
+    "karma_link": "象征着山上的富贵气象与文脉传承 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "六方笔筒",
+  "original_name": "陈平安手作笔筒",
+  "type": "匠器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "陈平安在深夜熬夜为裴钱刻制的笔筒。虽然材质不甚值 钱，却包含了他对弟子的期许，也是他少有的“不计盈亏 ”之作 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1008章 一坛四十年的老酒",
+      "owner": "薛如意"
+    }
+  ],
+  "subtype": "文房/纪念类",
+  "holder": "裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽由寻常木材制成，但因承载陈平安对弟子的关爱与自 身的道理，具有成为“文宝”的可能 。",
+  "supernatural_ability": "无。但能安稳心境，是陈平安实践“事功”学问的微观载 体 。",
+  "evolution": {
+    "current_form": "六棱形状的木质笔筒，上有刻字 。",
+    "materials_consumed": [
+      "普通木料",
+      "陈平安剑气刻字"
+    ],
+    "potential_evolution": "作为落魄山传家宝，凝聚弟子对师门的情义。"
+  },
+  "visual": {
+    "static": "刀工细腻端正，字迹如溪水绵长，带有淡淡的草木清香 。",
+    "active": "在书房中使用时，隐约散发出一种让人心安的质朴气息 。"
+  },
+  "provenance": {
+    "origin": "大泉王朝骑鹤城驿馆，由陈平安深夜亲手雕刻 。",
+    "karma_link": "陈平安作为补偿送给裴钱的生日礼物，象征师徒关系的 缓和与成长 。"
+  },
+  "enriched": true
+}

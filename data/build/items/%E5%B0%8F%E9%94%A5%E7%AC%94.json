@@ -1,0 +1,46 @@
+{
+  "name": "小锥笔",
+  "original_name": "风雪小锥",
+  "type": "灵器",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是陈平安最具代表性的文房清供。它不仅帮助陈平安绘制出如“镇剑符”等强力手段，更是他修身养气 、感悟天地法度的重要工具 。",
+  "aliases": [
+    "小锥笔"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第27章 点睛",
+      "owner": "赵家"
+    }
+  ],
+  "subtype": "文房类 / 符箓类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随持笔者画符造诣提升，可承载中上品乃至仙兵级符箓的道韵 。",
+  "supernatural_ability": "“下笔有神”。笔杆材质玄妙，能引导持有者心气稳固，实现“呵气成墨”，极其适宜书写小楷和精密符箓 。",
+  "evolution": {
+    "current_form": "竹管毛笔，笔杆刻有“风雪小锥”和“下笔有神”八字 。",
+    "materials_consumed": [
+      "修士精气神",
+      "文运灵气"
+    ],
+    "potential_evolution": "可在人身小天地内演化为类似文昌阁的文运支柱 。"
+  },
+  "visual": {
+    "static": "竹管材质古朴，毫尖挺拔，笔身有蝇头小楷刻铭 。",
+    "active": "提笔画符时灵光流转，每一笔都如利剑划破虚空，符文凝而不散 。"
+  },
+  "provenance": {
+    "origin": "由李希圣在山崖书院赠予陈平安，连同大量空白符纸和道书 。",
+    "karma_link": "见证了陈平安从一名纯粹武夫跨界修习符箓、最终成为符箓炼师的转折点 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,45 @@
+{
+  "name": "莲子",
+  "original_name": "淡金色莲花种子",
+  "type": "灵物",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这颗莲子是陈平安早年游学时获得的重要灵物，虽起初貌不惊人，实则是能够承载一洲山水气运的重宝 。在陈平安经营落魄山和莲藕福地的过程中，它成为了稳固水法大道和福地灵气的核心节点 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第522章 天下大势，皆是小事",
+      "owner": "少年道士"
+    }
+  ],
+  "subtype": "五行之水 / 空间类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗 / 棋墩山蛇蟒",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为本命物炼化后，随福地品秩提升可演化为具有大道根基的莲花池 。",
+  "supernatural_ability": "种植在落魄山竹楼后的池塘内，能够凝聚山水气运 。在莲藕福地中可开出紫金莲花，成为护水枢纽 。",
+  "evolution": {
+    "current_form": "落魄山池塘中的紫金莲花 。",
+    "materials_consumed": [
+      "谷雨钱",
+      "山水气运",
+      "大渎水运"
+    ],
+    "potential_evolution": "演化为支撑福地灵气循环的“长春洞天”核心 。"
+  },
+  "visual": {
+    "static": "最初是一粒略显干瘪、拇指大小的淡金色种子 。",
+    "active": "盛开时为紫金色彩的巨大莲花，荷叶大如数亩，流溢出紫金道气 。"
+  },
+  "provenance": {
+    "origin": "得自棋墩山土地庙百宝阁，是魏檗与蛇蟒积攒千年的家底之一 。",
+    "karma_link": "由阿良主持“坐地分赃”时陈平安最后选得 。"
+  },
+  "enriched": true
+}

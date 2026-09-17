@@ -1,0 +1,49 @@
+{
+  "name": "神霄竹折扇",
+  "original_name": "青神山神霄竹扇",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是刘羡阳的一件重要法宝，专门针对妖魔鬼怪，展现了青神山灵竹的独特压胜之能 。",
+  "aliases": [
+    "神霄竹折扇"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第206章 月儿圆月儿弯",
+      "owner": "刘羡阳"
+    },
+    {
+      "chapter": "第534章",
+      "owner": "顾璨"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "刘羡阳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "颍阴陈氏掌宝老祖",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "取材于珍稀的神霄竹，作为法家具备极强的对鬼魅压胜潜力 。",
+  "supernatural_ability": "天生压制生长于地底的精怪与鬼魅，是制作“打鬼鞭”的绝佳材料之一 。",
+  "evolution": {
+    "current_form": "由神霄竹打造的折扇 。",
+    "materials_consumed": [
+      "神霄竹"
+    ],
+    "potential_evolution": "可进一步炼化为更高阶的驱邪重器"
+  },
+  "visual": {
+    "static": "扇骨质地坚韧，色泽深邃，透着一股清冷的雷法气息 。",
+    "active": "展开时能散发出令阴物感到战栗的威慑力 。"
+  },
+  "provenance": {
+    "origin": "出自竹海洞天青神山的神霄竹 。",
+    "karma_link": "刘羡阳在中土神洲求学期间由陈氏老祖赠送，象征着其身份的认可 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,53 @@
+{
+  "name": "金色缚妖索",
+  "original_name": "老蛟金须缚妖索",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是由元婴老蛟最珍贵的金须炼成的禁锢至宝，融合了倒悬山符箓派的高深秘法 , 。它是针对高境界妖族的绝佳控制武器，多次在实战中起到定音锤的作用 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第406章 书上书外",
+      "owner": "石柔"
+    },
+    {
+      "chapter": "第509章 人间灯火辉煌",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "禁锢/压胜类",
+  "holder": "石柔",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    },
+    {
+      "name": "张禄",
+      "relation": "制造/强化者"
+    }
+  ],
+  "rank": "上品法宝",
+  "rank_potential": "由元婴级老蛟的金色胡须炼制，对一切水裔与妖族有天然的血脉压胜 , 。",
+  "supernatural_ability": "绝对禁锢：一旦缠绕目标，可封禁中五境妖族的全身灵气，使其动弹不得 。",
+  "evolution": {
+    "current_form": "一根细长且光芒内敛的金色绳索 。",
+    "materials_consumed": [
+      "蛟龙金须",
+      "云纹秘术",
+      "天师符真意"
+    ],
+    "potential_evolution": "若能融入真龙之筋，有望晋升为足以屠龙的“斩龙索” 。"
+  },
+  "visual": {
+    "static": "平日里缠绕在持有者腰间或袖中，金光不显，质地柔软如绸 。",
+    "active": "祭出后如金龙破空，所到之处带起阵阵雷鸣，金光照耀四方 。"
+  },
+  "provenance": {
+    "origin": "陈平安在蛟龙沟斩杀老蛟后获得其须，由张禄在倒悬山代为炼制而成 , 。",
+    "karma_link": "是陈平安早期的重要控制手段，后交予石柔作为护身重器 , 。"
+  },
+  "enriched": true
+}

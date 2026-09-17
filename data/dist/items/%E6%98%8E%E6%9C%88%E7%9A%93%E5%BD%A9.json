@@ -1,0 +1,47 @@
+{
+  "name": "明月皓彩",
+  "original_name": "金镜",
+  "type": "灵物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这轮明月在蛮荒天下被称为**“金镜”**，曾是小陌沉睡万年的场所 。它不仅是一件巨大的灵物，更是足以左右三座天下局势的战略级地标 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1069章 朵朵青云玉清宫",
+      "owner": "豪素"
+    }
+  ],
+  "subtype": "天体/道场类",
+  "holder": "碧霄洞主",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "小陌",
+      "relation": "曾持有"
+    },
+    {
+      "name": "赊月",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "本质上是蛮荒天下的三轮明月之一，具备演化为完整天道的潜力 , 。",
+  "supernatural_ability": "内部自成天地，月光可转化为精纯月魄，具有**无视空间阻隔**的特殊牵引力 , 。",
+  "evolution": {
+    "current_form": "青冥天下悬空明月",
+    "materials_consumed": [
+      "月魄精华"
+    ],
+    "potential_evolution": "可被大修士炼化为独立于天外的道场，或与其它月魄归一 , 。"
+  },
+  "visual": {
+    "static": "高悬天幕的巨大圆月，表面隐约可见废墟宫殿与桂树残骸 。",
+    "active": "当修士在其中修炼时，会产生浓郁如水的灵气瀑布，呈现皎洁莹然的光辉 , 。"
+  },
+  "provenance": {
+    "origin": "远古天庭月宫遗迹 。",
+    "karma_link": "原为蛮荒天下明月，由陈平安等四位剑修强行搬徙至青冥天下 , 。"
+  },
+  "enriched": true
+}

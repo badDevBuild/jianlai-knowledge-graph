@@ -1,0 +1,38 @@
+{
+  "name": "鹧鸪天石碑",
+  "original_name": "牢狱界碑",
+  "type": "重器",
+  "grade": "古迹",
+  "status": "活跃",
+  "description": "它是老聋儿治所的象征，也是陈平安深入牢狱、磨砺武道与心境的重要节点。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第671章 天寒加衣",
+      "owner": "无"
+    }
+  ],
+  "subtype": "封禁类",
+  "holder": "老聋儿",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "随囚禁大妖的数量与强度增加，碑文威压会相应增强。",
+  "supernatural_ability": "石碑上书“鹧鸪天”三字，作为牢狱禁制的枢纽，可隔绝天地气机。",
+  "evolution": {
+    "current_form": "一块巍峨耸立的古老石碑。",
+    "materials_consumed": [
+      "剑气",
+      "阵法愿力"
+    ],
+    "potential_evolution": "可演化为一方独立的光阴囚笼阵眼。"
+  },
+  "visual": {
+    "static": "矗立于白雾茫茫的荒凉之地，碑文笔力雄健。",
+    "active": "当禁制开启时，碑文会散发森然寒光，镇压方圆千里的妖气。"
+  },
+  "provenance": {
+    "origin": "剑气长城关押大妖牢狱的标志性建筑。",
+    "karma_link": "见证了老聋儿数千年的看守岁月。"
+  },
+  "enriched": true
+}

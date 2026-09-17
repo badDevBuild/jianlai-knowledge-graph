@@ -1,0 +1,44 @@
+{
+  "name": "玉磬",
+  "original_name": "贾老神仙随身玉磬",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一件与目盲道士贾晟气质相符的灵物，虽然并非威 力巨大的法宝，却处处体现出正统道教的从容意境。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第920章 与诸君借取千山万水（一）",
+      "owner": "贾晟"
+    }
+  ],
+  "subtype": "礼仪/辟邪类",
+  "holder": "贾晟",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "骑龙巷草头铺子",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由于刻有“金声玉振”等吉语，具备进化为道门顶级科仪 法器的潜力 。",
+  "supernatural_ability": "击之声如天籁，能驱散方圆数里内的阴沉死气，助人进 入“黄庭”定境 。",
+  "evolution": {
+    "current_form": "悬挂在贾老道腰间的精巧玉制打击乐器。",
+    "materials_consumed": [
+      "古玉",
+      "雷音真意"
+    ],
+    "potential_evolution": "可演化为能引动“雷部神将”共鸣的号令物。"
+  },
+  "visual": {
+    "static": "通透如脂，表面刻有蝇头小字，砣工极为老练。",
+    "active": "敲击时，金石之声清越无比，四周会有微弱的祥云升腾 。"
+  },
+  "provenance": {
+    "origin": "贾晟自掏腰包从自家铺子买下的“镇身宝”，来历古老 。",
+    "karma_link": "象征着贾老神仙“落魄不落志”的身份标识与仙风道骨的 门面。"
+  },
+  "enriched": true
+}

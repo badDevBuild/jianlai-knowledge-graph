@@ -1,0 +1,44 @@
+{
+  "name": "蕉叶",
+  "original_name": "蕉叶法袍",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "蕉叶是金翠城城主鸳湖（清嘉）持有的重宝法袍。金翠城以炼制法袍立身，其手艺曾得远古大妖小陌的 道脉传授，蕉叶与其另一件法袍“水炼”齐名，是山巅修士梦寐以求的防御重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第956章 有人敲鼓",
+      "owner": "清嘉"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "鸳湖 (清嘉)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "金翠城",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为蛮荒天下金翠城的顶级法袍之一，具备极高的灵气兼容性与成长潜力 。",
+  "supernatural_ability": "具备极强的防御力，并能与持有者的水法或特定道脉产生共鸣 。",
+  "evolution": {
+    "current_form": "金翠城秘制的上等法袍 。",
+    "materials_consumed": [
+      "云麾缂丝",
+      "通经断纬秘术"
+    ],
+    "potential_evolution": "若得高位修士以水运精粹温养，可升格为半仙兵乃至仙兵 。"
+  },
+  "visual": {
+    "static": "袍身纹路如蕉叶经纬，色泽清雅且流光溢彩 。",
+    "active": "激发时水光潋滟，法袍表面会浮现出分阴阳的水路异象 。"
+  },
+  "provenance": {
+    "origin": "源自蛮荒天下以炼制法袍闻名的金翠城 。",
+    "karma_link": "由金翠城城主鸳湖持有，后在两座天下大势交汇中具有象征意义 。"
+  },
+  "enriched": true
+}

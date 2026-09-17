@@ -1,0 +1,44 @@
+{
+  "name": "峻青雨相玉牌",
+  "original_name": "雨相玉牌",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是大渎水正李源赠予陈平安的重宝。它不仅是凫水岛的护山阵法核心，更是一件能够召唤远古高阶神 灵法相的强大攻伐法物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第815章 月色",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "召唤类 / 水法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李源 (龙亭侯)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "蕴藏远古水部神灵的法统，炼化后可作为大渎水运的中枢之一 。",
+  "supernatural_ability": "请神降真。可召唤出一尊相当于元婴境修士的法相，若在江河大渎之中战斗，法相战力可提升至玉璞境 。",
+  "evolution": {
+    "current_form": "一面刻有行龙纹，一面古篆“峻青雨相”的玉牌 。",
+    "materials_consumed": [
+      "远古水部道韵",
+      "济渎精华"
+    ],
+    "potential_evolution": "完全炼化后可掌握远古水部神灵“峻青”的降雨职能 。"
+  },
+  "visual": {
+    "static": "质地温润，表面龙纹栩栩如生，散发出淡淡的江气 。",
+    "active": "激活后会显化出一尊威严的水部神灵法相，周围伴随有雷电与雨雾之声 。"
+  },
+  "provenance": {
+    "origin": "源自远古旧天庭水部，由大渎水正李源转赠 。",
+    "karma_link": "是陈平安买下凫水岛后，李源送出的阵法控制枢纽 。"
+  },
+  "enriched": true
+}

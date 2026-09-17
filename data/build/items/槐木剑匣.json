@@ -1,0 +1,55 @@
+{
+  "name": "槐木剑匣",
+  "original_name": "槐宅",
+  "type": "方寸物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是陈平安早期游历中用于存放关键物品的木匣。其特殊性在于材质来自具有神异属性的老槐木，对温 养阴物有奇效 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第267章 临近倒悬山",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第268章 人间万事细如毛",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第620章 大家都是读书人",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第854章 一只笼中雀",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "容器/温养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李宝瓶",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "依托于骊珠洞天老槐木的祖荫，具备极佳的温养阴物与飞剑的潜质 。",
+  "supernatural_ability": "内含“槐宅”空间，能够滋养阴物魂魄，甚至帮助鬼魅增长修为 。",
+  "evolution": {
+    "current_form": "老槐木制成的剑匣。",
+    "materials_consumed": [
+      "骊珠洞天祖荫槐木"
+    ],
+    "potential_evolution": "演化为具备独立阴冥规则的小洞天。"
+  },
+  "visual": {
+    "static": "由骊珠洞天老槐树的断枝削减而成，色泽古朴，透着一股草木清香 。",
+    "active": "开启时可作为阴物寄居的洞府，能够隔绝外界对阴气的感应 。"
+  },
+  "provenance": {
+    "origin": "取材于骊珠洞天被砍倒的老槐树 。",
+    "karma_link": "由陈平安亲手打造，最初用于放置木剑“除魔”并供女鬼石柔栖身 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,45 @@
+{
+  "name": "三十六骊珠",
+  "original_name": "三十六字无落款字帖",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一幅由张侯珍藏的祖传字帖，被洪判官誉为“三十六骊珠”。字帖内容极其晦涩，实则是一件法宝品 秩的“道书”，其中隐藏着一门上古导引法 。由于后世训诂功力不足，导致长期以来断句有误，直至陈平安（化名吴镝）为其重新校正句读，才 显现出真正的修行正途 。",
+  "aliases": [
+    "三十六字字帖"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1062章 我知道你是谁",
+      "owner": "张侯"
+    }
+  ],
+  "subtype": "导引类",
+  "holder": "张侯",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "张氏祖上",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "蕴含上古导引法，可作为立道之基",
+  "supernatural_ability": "包含一门上乘导引之法，通过火法日炼之道，以外景勾连内景",
+  "evolution": {
+    "current_form": "三十六字字帖",
+    "materials_consumed": [
+      "无"
+    ],
+    "potential_evolution": "若能正确句读并修行，可助持有者突破境界"
+  },
+  "visual": {
+    "static": "总计三十六个文字，无落款的字帖 。",
+    "active": "修行时需在每日正午时分，引导阳光照射在天灵盖，通过笔直一线的路径勾连内景 。"
+  },
+  "provenance": {
+    "origin": "张侯祖传之物",
+    "karma_link": "其道意与三山之一及文庙礼制存在道缘"
+  },
+  "enriched": true
+}

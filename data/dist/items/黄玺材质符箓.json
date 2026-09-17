@@ -1,0 +1,38 @@
+{
+  "name": "黄玺材质符箓",
+  "original_name": "下三品丹书",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "符箓材质中的基础款，是山泽野修和下五境修士最常用的消耗品 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第937章 吾为东道主（七）",
+      "owner": "陆沉"
+    }
+  ],
+  "subtype": "消耗/辅助类",
+  "holder": "陈平安 (用于分身)",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "受材质限制，无法承载上乘道书真意，仅作为低阶修士的替代品 。",
+  "supernatural_ability": "可用于承载简单的符箓术法，如替身符、静心符等，威力有限 。",
+  "evolution": {
+    "current_form": "材质粗劣的黄纸符箓 。",
+    "materials_consumed": [
+      "黄玺纸",
+      "凡俗丹砂"
+    ],
+    "potential_evolution": "若换用青色或金色材质，承载力将呈几何倍数增长 。"
+  },
+  "visual": {
+    "static": "纸张略显厚重，色泽暗淡，符胆处灵气稀薄 。",
+    "active": "祭出后燃烧极快，产生的幻象或防护屏障较为脆弱 。"
+  },
+  "provenance": {
+    "origin": "山上常见的符纸材料 。",
+    "karma_link": "陈平安由于境界和家底限制，在打造分身时曾大量使用此类符纸 。"
+  },
+  "enriched": true
+}

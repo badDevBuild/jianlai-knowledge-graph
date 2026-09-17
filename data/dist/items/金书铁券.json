@@ -1,0 +1,40 @@
+{
+  "name": "金书铁券",
+  "original_name": "金书玉牒 / 金书云篆",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是浩然天下管理神灵系统的核心凭证 。它不仅代表了荣誉，更是神灵不朽金身的大道根基，是大人物们博弈气运的关键 。",
+  "aliases": [
+    "金书铁券"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第124章 鬼打墙",
+      "owner": "楚夫人"
+    }
+  ],
+  "subtype": "权柄类 / 功德类",
+  "holder": "中土文庙 / 大骊朝廷",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为天地认可的法统载体，可演化为掌控一方山河气运的“封神榜” 。",
+  "supernatural_ability": "“敕封神祇”。能够记录并定格山水神灵的官秩与金身，亦可用于记录儒家门生的功德 [9-11]。",
+  "evolution": {
+    "current_form": "由金玉材质打造的厚重册籍，文字自带神性 。",
+    "materials_consumed": [
+      "一洲文运",
+      "神灵金身碎块"
+    ],
+    "potential_evolution": "合道后可成为支撑王朝长治久安的“国运重器” 。"
+  },
+  "visual": {
+    "static": "金光流溢，字体法度森严，内容记载了诸神的名号与职掌 。",
+    "active": "激发时可引动天地共鸣，降下金色雨水或祥瑞气象 。"
+  },
+  "provenance": {
+    "origin": "文庙制定规则后的产物，用于约束山水官场 。",
+    "karma_link": "连接着世俗皇权与天道秩序，是“规矩”的具象体现 。"
+  },
+  "enriched": true
+}

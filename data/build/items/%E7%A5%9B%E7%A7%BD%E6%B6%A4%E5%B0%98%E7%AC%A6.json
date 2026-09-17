@@ -1,0 +1,45 @@
+{
+  "name": "祛秽涤尘符",
+  "original_name": "净体符 / 涤尘符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "这是陈平安在远游途中使用频率极高的生活符箓，虽无杀伤力，却在细 节处体现了**修行即生活**的道理 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第250章 从最北到最南",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为《丹书真迹》入门符箓，上限受限于材质，但能助武夫纯净体魄 。",
+  "supernatural_ability": "能够**散发淡淡灵气**并**吸收邪祟煞风及污渍**，使身体与房舍保持 澄净素洁 。",
+  "evolution": {
+    "current_form": "寻常材质的黄纸符箓 。",
+    "materials_consumed": [
+      "黄纸",
+      "朱砂",
+      "纯粹真气"
+    ],
+    "potential_evolution": "可进阶为更高品级的涤神符。"
+  },
+  "visual": {
+    "static": "质地普通的黄纸，绘有简单的云篆线条 。",
+    "active": "激发时符胆微亮，产生一圈肉眼可见的清凉气机，洗刷尘垢 。"
+  },
+  "provenance": {
+    "origin": "记载于《丹书真迹》前几页的基础符式 。",
+    "karma_link": "陈平安在远游途中用于辅助武道修行，特别是在练拳后清理体魄 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "木刻神像",
+  "original_name": "道家元君木像",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一尊刻画细微的道家元君神像，工艺极高。其核心价值在于对神魂的护持和对心境的稳定作用 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第542章 羊肠小道，人人野修",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助类 / 护身类",
+  "holder": "陈平安 (计划赠予李槐)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "水殿遗址",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为道门高位神灵的缩微化身，蕴含纯正道门愿力 。",
+  "supernatural_ability": "能够观照内在澄明，保护持有人不受外界妖魔邪祟的迷障侵扰 。",
+  "evolution": {
+    "current_form": "约手掌高度的精美木刻神像",
+    "materials_consumed": [
+      "灵木材质",
+      "神道愿力"
+    ],
+    "potential_evolution": "长期受香火供奉可产生真灵"
+  },
+  "visual": {
+    "static": "神态祥和，手指掐法诀，头戴冠冕，衣袍精美细致，底座刻有十二字篆文 。",
+    "active": "激发时散发出宁静的灵光，稳定持有人心神 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲某处仙府遗址的水殿中 。",
+    "karma_link": "陈平安在寻宝过程中因其寓意美好而专门拣选，准备作为礼物送给朋友 , 。"
+  },
+  "enriched": true
+}

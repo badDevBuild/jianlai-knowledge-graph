@@ -1,0 +1,48 @@
+{
+  "name": "狮子园集",
+  "original_name": "狮子园诗文集",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一部承载了大泉王朝士林风气的文集。它不仅是关于狮子园的导游图录，更是柳氏书香传承的象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第390章 高明之家，法刀道士",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文学/山水志",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "埋河河伯庙递香人",
+      "relation": "赠予者"
+    },
+    {
+      "name": "柳老侍郎",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为记录名胜风土的书籍，承载了大量的文人墨客才情，随文运流转有生发灵气的可能。",
+  "supernatural_ability": "“山水回响”。集子汇集了历代文人对狮子园的赞美，阅读者可从中一窥柳氏书香门第的底蕴与园林格局 。",
+  "evolution": {
+    "current_form": "版刻精良的诗词文章合集。",
+    "materials_consumed": [
+      "青檀宣纸",
+      "历代文气"
+    ],
+    "potential_evolution": "若得文豪批注，可演化为稳固一地文运的灵物。"
+  },
+  "visual": {
+    "static": "装订古朴，书香浓厚，详尽记载了狮子园的亭台楼榭与草木风光。",
+    "active": "翻阅时仿佛能听到书中描写的松涛与流泉声。"
+  },
+  "provenance": {
+    "origin": "大泉王朝京郊西南名胜狮子园，由柳氏世代收集编订而成。",
+    "karma_link": "河伯庙庙祝感念陈平安人品，托人赠送此书，助其了解狮子园的因果与狐妖危机。"
+  },
+  "enriched": true
+}

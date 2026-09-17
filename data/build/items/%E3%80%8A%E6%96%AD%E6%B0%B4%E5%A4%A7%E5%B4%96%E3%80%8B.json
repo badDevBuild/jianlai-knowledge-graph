@@ -1,0 +1,75 @@
+{
+  "name": "《断水大崖》",
+  "original_name": "老旧古书",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安送给李槐的启蒙之礼。它不仅记录了江湖故事，更因藏有**文道精魅**而显得神异非凡，是 李槐小竹箱里的核心藏书 。",
+  "aliases": [
+    "《断水大崖》",
+    "断水大崖"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第106章 鱼龙混杂",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第107章 渔网",
+      "owner": "林守一"
+    },
+    {
+      "chapter": "第108章 春蒐",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第111章 斗笠",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第120章 远游",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第141章 百怪（上）",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第405章 山巅斗法",
+      "owner": "李槐"
+    }
+  ],
+  "subtype": "传承类 / 滋养类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "红烛镇书肆",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "看似是普通的江湖志怪小说，实则是一本能**豢养精魅**的文道古籍 。",
+  "supernatural_ability": "**“温养文灵”**。书页间天然豢养着数只**蠹鱼**，以及被阿良拍入其中的**青冥鱼** 。",
+  "evolution": {
+    "current_form": "刊印精良、书名奇怪的纸质书籍 。",
+    "materials_consumed": [
+      "书香文气",
+      "灵气文字"
+    ],
+    "potential_evolution": "随着豢养的文灵变强，可演化为承载一门文脉的**真迹孤本** 。"
+  },
+  "visual": {
+    "static": "书名古意十足，纸张质地非凡 。",
+    "active": "翻阅时，蠹鱼在字里行间迅猛游走，如鱼得水 。"
+  },
+  "provenance": {
+    "origin": "陈平安在红烛镇花费近十两银子为李槐购得 。",
+    "karma_link": "李槐虽不爱读书，却以此书为媒介结交了**蠹鱼与青冥鱼**，体现了读书人的“文缘” 。"
+  },
+  "enriched": true
+}

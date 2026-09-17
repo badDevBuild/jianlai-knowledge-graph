@@ -1,0 +1,44 @@
+{
+  "name": "劝农诏集子",
+  "original_name": "重要诏书抄本",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这并非传统的仙家功法，而是陈平安用于研究“大账簿”和“事功道理”的工具。通过这些诏书，他得以跳 出修士视角，俯瞰王朝兴衰与百姓生息 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第537章 修行路上",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文献类 / 事功类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文庙功德林 / 地方官署",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽非神仙秘籍，但承载了世间王朝的治理脉络与人道愿力 。",
+  "supernatural_ability": "辅助持有者研习“事功学问”，通过文字推演历史更迭与家国兴衰的脉络 。",
+  "evolution": {
+    "current_form": "陈平安亲笔抄录、汇集了各国劝农等重要诏书的册子 。",
+    "materials_consumed": [
+      "墨汁",
+      "宣纸"
+    ],
+    "potential_evolution": "若能融入龙气或民意，可演化为具备压胜山下气运的文房重器。"
+  },
+  "visual": {
+    "static": "普通的书册，但字迹极其工整，一字不漏地记录了各种行政公文 。",
+    "active": "翻阅时隐约可见众生忙碌之影，文字间流淌着世俗烟火气与法度森严感 。"
+  },
+  "provenance": {
+    "origin": "陈平安在中土文庙及游历途中，从各方秘档中整理抄录而成 。",
+    "karma_link": "体现了陈平安试图通过读书了解“世界真相”的治学心路 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "五彩绫缎",
+  "original_name": "仙女缂丝 / 春水云纹法袍料",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这种绫缎是《剑来》中高端法袍的核心载体。其独特的 工艺与灵气亲和度，使其在一洲山上贸易中占据极高地 位 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1125章 二十人与候补们（七）",
+      "owner": "谢狗"
+    }
+  ],
+  "subtype": "灵物/防御类",
+  "holder": "彩雀府 / 沛湘 / 绸缎铺子",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姜尚真 (周肥)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若经上乘缝衣手段炼制，可成为能够“水路分阴阳”的顶 级法袍 。",
+  "supernatural_ability": "具有“通经断纬”的抽丝神通，能自行吸纳周围山水灵气 。",
+  "evolution": {
+    "current_form": "质地极佳、流光溢彩的绸缎料子。",
+    "materials_consumed": [
+      "云窟福地文运",
+      "金翠城编织秘法"
+    ],
+    "potential_evolution": "可制作成具备“重塑金身”潜质的法袍 。"
+  },
+  "visual": {
+    "static": "色彩斑斓，手感丝滑，如春水泛起阵阵涟漪 。",
+    "active": "光照下呈现波光粼粼之象，隐约可见五彩云篆流动 。"
+  },
+  "provenance": {
+    "origin": "出自云窟福地十八景之一的刻色坊 。",
+    "karma_link": "是姜尚真与彩雀府、落魄山联合经营的暴利财路之一 。"
+  },
+  "enriched": true
+}

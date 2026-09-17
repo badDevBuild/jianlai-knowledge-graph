@@ -1,0 +1,38 @@
+{
+  "name": "烧刀子",
+  "original_name": "烈性土烧",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗品",
+  "description": "一种在剑气长城大受欢迎的平民酒水。价格虽比竹海洞天酒贵，却因其“够劲”而成为庞元济、高魁等人 的首选。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第612章 敌已至，剑仙在",
+      "owner": "叠嶂酒铺"
+    }
+  ],
+  "subtype": "消耗类",
+  "holder": "叠嶂酒铺 / 剑修酒客",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "无，属于纯粹的消耗品，但在剑修心中代表了一股不退的意气。",
+  "supernatural_ability": "酒性极烈，饮后能瞬间激发武夫气血或剑修剑意，虽然对修为无实质增长，但能解千愁。",
+  "evolution": {
+    "current_form": "装在普通泥封酒坛里的透明烈酒。",
+    "materials_consumed": [
+      "五谷精华",
+      "剑气长城的风霜"
+    ],
+    "potential_evolution": "若浸入“酒虫”，可迅速提升口感，变作“十年陈酿”。"
+  },
+  "visual": {
+    "static": "酒色清亮如水，闻之辛辣刺鼻，甚至能感受到一丝燥热气。",
+    "active": "倒入碗中时呲呲作响，酒花浓郁，入口如吞刀片，火辣烧心。"
+  },
+  "provenance": {
+    "origin": "剑气长城叠嶂酒铺在后期推出的一种特色廉价烈酒。",
+    "karma_link": "与二掌柜的“买酒送面”策略挂钩，是剑修们死战归来后的慰藉。"
+  },
+  "enriched": true
+}

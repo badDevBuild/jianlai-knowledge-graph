@@ -1,0 +1,44 @@
+{
+  "name": "谍报",
+  "original_name": "山水邸报 / 捧露台秘档",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "大骊京城及各大宗门赖以生存的信息中枢。它不仅是信 息的载体，更是左右世俗王朝与山上仙府博弈的致命武 器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1205章 云深处",
+      "owner": "曾焘/宋集薪"
+    }
+  ],
+  "subtype": "记录/因果类",
+  "holder": "大骊朝廷 / 宗门势力",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文庙",
+      "relation": "监管者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随着记录内容的增加和勘验的深入，可演化为具有预知 部分未来因果能力的“白泽录” 。",
+  "supernatural_ability": "详细记载天下修士的生平、相貌、境界及法宝，能够精 准定位目标的因果脉络，作为刺杀或招徕的依据 。",
+  "evolution": {
+    "current_form": "版刻精良或手抄的卷宗，常配有人物画像与地理形势图 。",
+    "materials_consumed": [
+      "千万级灵气消耗",
+      "修士神识勘验"
+    ],
+    "potential_evolution": "最终形态为能够实时监控一洲山水的“天眼”系统。"
+  },
+  "visual": {
+    "static": "书页整齐，笔迹详实，部分重要内容被禁制掩盖 。",
+    "active": "翻阅时文字如水流转，画中人物宛如活物，呈现出其出 剑或行走的动态 。"
+  },
+  "provenance": {
+    "origin": "由大骊刑部、捧露台或山上专业商贾（如柳絮岛）搜集 编撰 。",
+    "karma_link": "连接了大骊王朝对宝瓶洲秩序的重塑以及陈平安对敌情 的掌握 。"
+  },
+  "enriched": true
+}

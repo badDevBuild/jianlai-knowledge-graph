@@ -1,0 +1,46 @@
+{
+  "name": "山水游记册子",
+  "original_name": "《陈凭案游记》 / 民间神魔小说",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是在大骊京城和宝瓶洲广为流传的通俗读物。它通过 将陈平安的事迹艺术化加工，使其在山下拥有了极高的 知名度，同时也隐晦地传播了落魄山的处世逻辑 。",
+  "aliases": [
+    "谢狗游记手稿"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1135章 再见陈平安",
+      "owner": "谢狗"
+    }
+  ],
+  "subtype": "文化/因果类",
+  "holder": "山下百姓 / 柳清风 (曾持有)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "落魄山刻书局",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "其他",
+  "rank_potential": "随着传阅范围扩大，能够为“隐官”陈平安聚拢海量的世 俗愿力 。",
+  "supernatural_ability": "虽然只是寻常书籍，却因记载了隐官的“事迹”而带有一 种无形的压胜力和教化力 。",
+  "evolution": {
+    "current_form": "版刻质朴、价格廉宜的薄册子 。",
+    "materials_consumed": [
+      "宣纸",
+      "朱砂墨"
+    ],
+    "potential_evolution": "可演化为汇集万民信仰的“气运重宝” 。"
+  },
+  "visual": {
+    "static": "封面多写有《陈凭案山水游记》字样，配有拙劣但神似 的插图 。",
+    "active": "并无直接术法效果，但在特定时刻能引发人心向善或对 隐官的共鸣 。"
+  },
+  "provenance": {
+    "origin": "由大骊刑部与落魄山合作编撰，带有引导民意的目的 。",
+    "karma_link": "连接了山下烟火气与山上隐官的“新道理” 。"
+  },
+  "enriched": true
+}

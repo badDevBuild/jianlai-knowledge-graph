@@ -1,0 +1,48 @@
+{
+  "name": "本命酒葫芦",
+  "original_name": "姜壶",
+  "type": "法宝",
+  "grade": "本命物",
+  "status": "活跃",
+  "description": "这是陈平安早期获得的标志性法宝，常被用于装酒和温养“初一”、“十五”两把飞剑 , 。由于施加了障眼法，地仙以下修士难以看出其神异之处 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第725章 白也真剑仙，剑灵则不然",
+      "owner": "于玄"
+    }
+  ],
+  "subtype": "养剑类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗 (代大骊朝廷)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "姜姓剑修",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "虽被评为品相中等，但因常年温养“初一”与“十五”两把飞剑，已具备极高灵性 , 。",
+  "supernatural_ability": "能温养两到三把本命飞剑，且在养剑的同时可装载十几斤酒水 。",
+  "evolution": {
+    "current_form": "朱红色的小葫芦，底款篆刻“姜壶”二字 。",
+    "materials_consumed": [
+      "飞剑剑气",
+      "各种仙家酒酿"
+    ],
+    "potential_evolution": "长期温养可提高飞剑与主人的神魂契合度，并能遮蔽内里飞剑的气象 。"
+  },
+  "visual": {
+    "static": "色泽温润如玉，造型古朴，经常挂在陈平安腰间 。",
+    "active": "当飞剑出鞘或饮酒时，葫芦口会有微弱的灵气旋涡或微光闪烁 , 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝密库收藏的战利品，由魏檗赠予陈平安 。",
+    "karma_link": "其名谐音“江湖”，见证了陈平安从草鞋少年到隐官的成长之路 , 。"
+  },
+  "enriched": true
+}

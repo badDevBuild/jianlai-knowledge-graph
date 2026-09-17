@@ -1,0 +1,51 @@
+{
+  "name": "峻青雨相",
+  "original_name": "峻青雨相玉牌 / 凫水岛阵法枢纽",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是凫水岛的阵法核心，位阶极高，寻常修士即便买下岛屿也难以获得李源赠送此物。它不仅是一件水 法重宝，更是神道权柄的象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第549章 横剑在膝四顾茫然",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第550章 可惜下雨不下钱",
+      "owner": "李源"
+    },
+    {
+      "chapter": "第551章 真人一到便叩关",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "阵法类 / 水法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李源",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为旧天庭水部高位神灵的遗物，具备通过汲取大渎水运进一步恢复神性的潜力 。",
+  "supernatural_ability": "掌控凫水岛护山大阵。炼化后可请神降真，召唤出名为“峻青”的远古神灵法相，在江河大渎中战力等同 于玉璞境 。",
+  "evolution": {
+    "current_form": "一面雕刻行龙纹，一面古篆“峻青雨相”的玉牌 。",
+    "materials_consumed": [
+      "远古水部神道气息"
+    ],
+    "potential_evolution": "若能与大渎水脉彻底融合，法相威力可进一步提升 。"
+  },
+  "visual": {
+    "static": "质地细腻，形制古朴，正面刻有龙纹，背面有极具威严的古篆文字 。",
+    "active": "激活时水气升腾，可显化出一位身披神袍、法力通天的远古水部官员法相 。"
+  },
+  "provenance": {
+    "origin": "源自旧天庭负责降雨要职的神灵“峻青” 。",
+    "karma_link": "由龙亭侯李源在陈平安买下凫水岛后作为阵法钥匙赠予 。"
+  },
+  "enriched": true
+}

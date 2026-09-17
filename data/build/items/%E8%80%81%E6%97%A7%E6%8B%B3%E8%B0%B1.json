@@ -1,0 +1,44 @@
+{
+  "name": "老旧拳谱",
+  "original_name": "撼山谱",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安习武的根本，即便面对三教祖师，其拳意亦要求武夫挺身而斗，不仅是杀敌之法，更是修心之道 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第430章 桌上又有一碗饭",
+      "owner": "陈平安(归还给顾璨)"
+    }
+  ],
+  "subtype": "武学秘籍",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "顾璨",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "蕴含极深拳意，是武夫跻身止境乃至更高境界的基石。",
+  "supernatural_ability": "包含走桩、立桩与睡桩等淬炼法。核心拳意强调“绝不可退”，可借此在人身小天地内模拟古战场意境[3 -5]。",
+  "evolution": {
+    "current_form": "材质普通的黄纸书页。",
+    "materials_consumed": [
+      "武夫拳意",
+      "神韵"
+    ],
+    "potential_evolution": "由陈平安结合多家所学，重新修订编撰为更为完善的拳法体系。"
+  },
+  "visual": {
+    "static": "外表破旧，材质为寻常纸张，无甚出奇。",
+    "active": "练拳时本元气机如游走火龙，横冲直撞，可使身躯金枝玉叶、真气无垢。"
+  },
+  "provenance": {
+    "origin": "源自顾祐一脉，是其留给顾璨的家当。",
+    "karma_link": "由顾璨交给陈平安代为保管，成为陈平安最重要的武道启蒙。"
+  },
+  "enriched": true
+}

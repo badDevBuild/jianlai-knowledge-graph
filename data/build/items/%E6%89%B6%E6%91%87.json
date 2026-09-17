@@ -1,0 +1,71 @@
+{
+  "name": "扶摇",
+  "original_name": "扶摇",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**扶摇**是金甲洲女子大剑仙宋聘的佩剑。此剑名声极大，甚至以一洲之名命名，承载了极高的剑道气 运与文人思慕 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第633章 落座主位的那个年轻人",
+      "owner": "宋聘"
+    },
+    {
+      "chapter": "第670章 被天下压胜",
+      "owner": "宋聘"
+    },
+    {
+      "chapter": "第679章 人间俱是远游客",
+      "owner": "宋聘"
+    },
+    {
+      "chapter": "第1110章 纯粹剑修们",
+      "owner": "宋聘"
+    },
+    {
+      "chapter": "第1111章 有请隐官",
+      "owner": "宋聘"
+    },
+    {
+      "chapter": "第1112章 吾辈剑修当如何",
+      "owner": "宋聘"
+    },
+    {
+      "chapter": "第1113章 境界岂可匀一匀",
+      "owner": "宋聘"
+    },
+    {
+      "chapter": "第1136章 人各梦魂中",
+      "owner": "宋聘 (推测)"
+    },
+    {
+      "chapter": "第1187章 接剑于十四",
+      "owner": "宋聘"
+    },
+    {
+      "chapter": "第1188章 长生事太平人",
+      "owner": "宋聘"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "宋聘",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为金甲洲大剑仙宋聘的佩剑，名动金甲、扶摇两洲，具备极强的杀伐气象 。",
+  "supernatural_ability": "资料未详述其具体本命神通，但此剑以一洲之名命名，具有强大的威慑力与杀伤力 。",
+  "evolution": {
+    "current_form": "佩剑形态",
+    "materials_consumed": [],
+    "potential_evolution": "随主人剑道进阶而强化"
+  },
+  "visual": {
+    "static": "背负于宋聘身后 。",
+    "active": "剑光璀璨，动人心魄 。"
+  },
+  "provenance": {
+    "origin": "金甲洲大剑仙宋聘佩剑 。",
+    "karma_link": "曾有扶摇洲大诗家见其佩剑后写下“我曾见卿更梦见，瞳子湛然光可烛”等传世诗篇 。"
+  },
+  "enriched": true
+}

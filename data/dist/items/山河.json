@@ -1,0 +1,38 @@
+{
+  "name": "山河",
+  "original_name": "虚幻画卷“山河图”",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "《山河》图是崔东山艺术造诣与道法心境的巅峰之作。它以最简单的留白手法，反衬出整个人间山河的 沉重与广博，是落魄山最神秘的收藏之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第701章 风雪中",
+      "owner": "白衣少年"
+    }
+  ],
+  "subtype": "意境类 / 绘画类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "意境之深远几近大道尽头，能够承载整座天下的人心起伏与文脉流动 。",
+  "supernatural_ability": "小中见大。整幅长卷仅有一点墨汁，却能显化出世间所有山川的厚重道意 。",
+  "evolution": {
+    "current_form": "洁白无暇的长卷，中心仅有一粒漆黑墨点 。",
+    "materials_consumed": [
+      "远古神灵残留道气",
+      "至纯墨意"
+    ],
+    "potential_evolution": "当墨汁晕染全卷之日，即是崔东山证道飞升之时 。"
+  },
+  "visual": {
+    "static": "外观极简，除去一点如芥子般的墨迹，全卷皆为留白 。",
+    "active": "运神观照时，那一点墨汁会变幻出千万山水景象，让人领悟“大道至简”的真意 。"
+  },
+  "provenance": {
+    "origin": "崔东山与《芥子》图同步创作，寓意“山河入梦，我即山河” 。",
+    "karma_link": "此图是崔东山与其先生陈平安讨论“虚实真假”后的产物 。"
+  },
+  "enriched": true
+}

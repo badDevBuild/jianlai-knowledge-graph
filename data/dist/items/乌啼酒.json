@@ -1,0 +1,65 @@
+{
+  "name": "乌啼酒",
+  "original_name": "池水城乌啼酒",
+  "type": "丹药",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "书简湖极负盛名的仙酿，名字与池水城的“乌啼”文化相关，常作为高端社交场合的饮品。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第430章 桌上又有一碗饭",
+      "owner": "顾璨娘亲"
+    },
+    {
+      "chapter": "第470章 没见过半仙兵？",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第471章 听说你要问剑",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第472章 关于一把竹剑鞘的小事",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第871章 当时坐上皆豪逸",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第872章 天下地上",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第929章 与诸君借取千山万水（十）",
+      "owner": "章靥"
+    },
+    {
+      "chapter": "第1027章 休要乱我道心",
+      "owner": "陆沉"
+    }
+  ],
+  "subtype": "仙家酒酿",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为书简湖名酒，随酿造技法改良可提升灵气纯度。",
+  "supernatural_ability": "具备极佳的口感，饮用可温养经脉并滋补神魂。",
+  "evolution": {
+    "current_form": "具有灵气的仙家酒液。",
+    "materials_consumed": [
+      "水运精华"
+    ],
+    "potential_evolution": "可配合特定的酒虫提升口感与年份。"
+  },
+  "visual": {
+    "static": "通常盛放在古朴的瓷罐中。",
+    "active": "开坛后异香扑鼻，带有淡淡的灵气波纹。"
+  },
+  "provenance": {
+    "origin": "产自书简湖池水城，是当地的招牌特产。",
+    "karma_link": "陈平安在书简湖布局期间常以此酒待客或消遣。"
+  },
+  "enriched": true
+}

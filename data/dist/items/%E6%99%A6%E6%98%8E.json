@@ -1,0 +1,44 @@
+{
+  "name": "晦明",
+  "original_name": "晦暝",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是剑气长城少年剑修陈李的佩剑。该剑不仅是一把利刃，更是其在战场上精明算计、捡漏杀敌的核心 工具。其独特之处在于能与本命飞剑协同开启空间领域 [1-3]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第914章 一张桌子",
+      "owner": "陈李"
+    }
+  ],
+  "subtype": "攻伐类 / 空间类",
+  "holder": "陈李",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "北俱芦洲某位散修剑仙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为大剑仙遗物，具有辅助持有者造就“小天地”雏形的极高上限 。",
+  "supernatural_ability": "“小天地构筑”。与陈李的本命飞剑“寤寐”的神通叠加后，可以造就出一座小天地的雏形 。",
+  "evolution": {
+    "current_form": "剑仙遗留的佩剑 。",
+    "materials_consumed": [
+      "远古剑意",
+      "北俱芦洲剑道气运"
+    ],
+    "potential_evolution": "随着持有者陈李跻身金丹并向百岁剑仙进发，该剑可进一步与本命飞剑融合演化 。"
+  },
+  "visual": {
+    "static": "外观古朴的剑仙遗刃，剑气森严，常被陈李背负在身后 。",
+    "active": "出剑时剑光晦暗不明，虚实交错，与“寤寐”飞剑配合时会显化出小千世界的景象 。"
+  },
+  "provenance": {
+    "origin": "曾是北俱芦洲一位名声不显的散修剑仙的遗物 。",
+    "karma_link": "由隐官陈平安交予陈李，成为这位“小隐官”在异乡修行的大道依仗 。"
+  },
+  "enriched": true
+}

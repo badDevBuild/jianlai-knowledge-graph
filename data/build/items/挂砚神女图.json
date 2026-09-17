@@ -1,0 +1,44 @@
+{
+  "name": "挂砚神女图",
+  "original_name": "壁画城神女图之一",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "壁画城传世神女图之一。相传此类神女一旦择主，便能辅佐主人大道顺遂，是北俱芦洲著名的“神仙道 侣”机缘 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第486章 不愧是老江湖",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "传承类 / 辅助类",
+  "holder": "邵宝卷",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "骸骨滩壁画城",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为壁画城九位神女之一，若能让神女完全显化，可助主人跻身仙人甚至更高境界 。",
+  "supernatural_ability": "蕴含远古神韵，可助主人领悟特定的文运与道法；神女可化身人影，并持有特定法宝（如掣电古砚） 。",
+  "evolution": {
+    "current_form": "廊填本画卷 。",
+    "materials_consumed": [
+      "月华精华",
+      "雷池灵气"
+    ],
+    "potential_evolution": "神女走出画卷后，可与主人结为神仙道侣 。"
+  },
+  "visual": {
+    "static": "工笔绝美的壁画摹本，图中神女姿态端庄，意欲挂砚 。",
+    "active": "神女身形显现，手持“掣电”古砚，可收纳天地雷池于砚中 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲骸骨滩壁画城地宫壁画 。",
+    "karma_link": "邵宝卷在游历北俱芦洲时获得此机缘，神女随其远游流霞洲 。"
+  },
+  "enriched": true
+}

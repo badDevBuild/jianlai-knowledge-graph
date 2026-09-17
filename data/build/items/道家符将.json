@@ -1,0 +1,40 @@
+{
+  "name": "道家符将",
+  "original_name": "朱兵神将 / 金甲力士",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "道门高深符箓的产物。著名的如“朱兵神将”常作为金阙仙府嫡传的随从 。大骊朝廷也曾大规模动用此类力士参与大渎督造等土木工程 。",
+  "aliases": [
+    "道家符将"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第114章 再见阿良",
+      "owner": "大骊/栾长野"
+    }
+  ],
+  "subtype": "傀儡类",
+  "holder": "符箓派修士",
+  "holder_relation": "寄托",
+  "rank": "灵器",
+  "rank_potential": "受画符者道行影响，顶尖者可具备地仙级战力 。",
+  "supernatural_ability": "通过符箓敕召，显化出金甲神人或朱兵神将协助厮杀、护卫或搬山 。",
+  "evolution": {
+    "current_form": "画有神将形象的符纸 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "香火愿力"
+    ],
+    "potential_evolution": "可演化为身披五色甲胄的强大英灵阵法 。"
+  },
+  "visual": {
+    "static": "通常为绘有威严神灵形象的符箓 。",
+    "active": "化为身高数丈乃至千丈的金甲巨灵，手持重型兵器，双目喷射金光 。"
+  },
+  "provenance": {
+    "origin": "源自道家符箓派秘传，常以神灵金身碎片为炼制基底 。",
+    "karma_link": "连接修士愿力与神道权柄的纽带 。"
+  },
+  "enriched": true
+}

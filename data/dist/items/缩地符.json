@@ -1,0 +1,45 @@
+{
+  "name": "缩地符",
+  "original_name": "方寸符 / 缩地成寸箓",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "**缩地符是陈平安掌握的最基础且核心的战斗符箓** 。它标志着他从纯粹武夫向“符武双修”转型的起始 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第497章 我也会剑开天幕",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "传授者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "高阶版本可无视空间封锁，瞬移千里之外 。",
+  "supernatural_ability": "激活后使人步履极快，一步踏出即可跨越方圆十丈的距离，极难被捕捉 踪迹 。",
+  "evolution": {
+    "current_form": "书写在黄纸上的入门级空间符箓 。",
+    "materials_consumed": [
+      "黄纸",
+      "朱砂",
+      "空间真意"
+    ],
+    "potential_evolution": "可进阶为金色的“方寸符”，威力倍增 。"
+  },
+  "visual": {
+    "static": "符文线条交错，给人一种层叠、扭曲的空间感 。",
+    "active": "身形如琉璃崩碎或残影消散，瞬间出现在目标位置 。"
+  },
+  "provenance": {
+    "origin": "记载于道门正宗秘籍《丹书真迹》中 。",
+    "karma_link": "陈平安多次利用此符在生死决斗中占据先手，如在书简湖及客栈之战 。"
+  },
+  "enriched": true
+}

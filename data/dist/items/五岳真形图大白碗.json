@@ -1,0 +1,46 @@
+{
+  "name": "五岳真形图大白碗",
+  "original_name": "五岳真形白碗 / 避暑娘娘成道之物",
+  "type": "重器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "陈平安极其看重的重宝之一，能够无中生有产生灵气甘露，不仅用于补给灵气，更是他修行“水法”的重 要参考物件 。",
+  "aliases": [
+    "大白碗"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第248章 神仙买卖，后会有期",
+      "owner": "青蚨坊 (原属陈平安)"
+    }
+  ],
+  "subtype": "压胜 / 炼化类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "避暑娘娘",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为承载五岳真形的大道载体，随持有者炼化五色土的过程可不断增强对地脉的掌控力 。",
+  "supernatural_ability": "碗内壁绘有五岳真形图，能汇聚并藏聚山川灵气，将其转化为“甘露”供修士服用 。",
+  "evolution": {
+    "current_form": "绘有五岳真形图的白色瓷碗 。",
+    "materials_consumed": [
+      "五岳之壤",
+      "山河文运"
+    ],
+    "potential_evolution": "作为五行之水的本命物炼化基础 。"
+  },
+  "visual": {
+    "static": "看似寻常的白色大碗，碗内壁以工笔白描绘就五岳形胜，气象肃穆 。",
+    "active": "倒入清水后，碗中会出现缩小版的五岳幻象，灵气氤氲成露 。"
+  },
+  "provenance": {
+    "origin": "得自彩衣国古宅，原为避暑娘娘的成道之物 。",
+    "karma_link": "陈平安在彩衣国之行中通过斩妖除魔获得，是其早期重要的“地利”依仗 。"
+  },
+  "enriched": true
+}

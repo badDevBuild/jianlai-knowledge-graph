@@ -1,0 +1,44 @@
+{
+  "name": "美姿容印",
+  "original_name": "人间有女美姿容印",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安在剑气长城期间雕刻的一枚精品私章。印文内容极尽赞美之能事，旨在吸引剑气长城的富贵 女修及豪阀子弟购买 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第591章 宁姚出剑会如何",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "篆刻/文房类",
+  "holder": "晏家铺子（待售）",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随刻印者心境与所钤印物价值提升而增强 。",
+  "supernatural_ability": "印文为“人间有女美姿容，羞走天上三盏灯”，具有一定的文气加持与辟邪功效 。",
+  "evolution": {
+    "current_form": "霜降玉材质的小型方印 。",
+    "materials_consumed": [
+      "霜降玉",
+      "剑气"
+    ],
+    "potential_evolution": "若作为《皕剑仙印谱》重要一员，可凝聚一洲文运 。"
+  },
+  "visual": {
+    "static": "质地温润，如霜降时分的寒玉，带有天然的紫色沁色 。",
+    "active": "钤印时有微弱剑气波动，字体法度森严且灵动 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城避暑行宫，利用霜降玉边角料亲手雕琢而成 。",
+    "karma_link": "见证了二掌柜与剑气长城女修之间的“文字缘” 。"
+  },
+  "enriched": true
+}

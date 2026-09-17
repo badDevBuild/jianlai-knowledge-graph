@@ -1,0 +1,57 @@
+{
+  "name": "破字令",
+  "original_name": "于斜回本命飞剑“破字令”",
+  "type": "本命飞剑",
+  "grade": "本命飞剑",
+  "status": "活跃",
+  "description": "这是飞升城年轻一辈中最具威慑力的飞剑之一，因其对 真名的克制而被视为蛮荒妖族的死敌 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第756章 剑修如云",
+      "owner": "于斜回"
+    },
+    {
+      "chapter": "第804章 一笑抚青萍",
+      "owner": "陈平安(欲修)"
+    },
+    {
+      "chapter": "第897章 十二高位",
+      "owner": "于斜回"
+    },
+    {
+      "chapter": "第959章 一脚七境",
+      "owner": "崔嵬"
+    },
+    {
+      "chapter": "第962章 陌上又花开",
+      "owner": "于斜回"
+    },
+    {
+      "chapter": "第964章 再见道士",
+      "owner": "何辜"
+    }
+  ],
+  "subtype": "攻伐/因果类",
+  "holder": "于斜回",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "极度罕见的针对性飞剑，潜力无法估量，在避暑行宫曾 无明确记录 。",
+  "supernatural_ability": "专门针对泄露真名的大妖或修士，可跨越空间进行降维 打击 。",
+  "evolution": {
+    "current_form": "于斜回温养于体内的本命飞剑 。",
+    "materials_consumed": [
+      "杀伐真意"
+    ],
+    "potential_evolution": "可成长为破除一切阵法禁制的规则之剑 。"
+  },
+  "visual": {
+    "static": "形制古朴，隐约带有文字碎片环绕 。",
+    "active": "出剑时如铁钩锁，可强行拆解对方的术法架构与真名防 御 。"
+  },
+  "provenance": {
+    "origin": "剑气长城剑修于斜回的本命觉醒 。",
+    "karma_link": "对应于斜回心直口快的性格，具有直指根本的威能 。"
+  },
+  "enriched": true
+}

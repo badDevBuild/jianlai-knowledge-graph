@@ -1,0 +1,38 @@
+{
+  "name": "符鸟",
+  "original_name": "传信黄鹤 / 青鸢",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "活跃",
+  "description": "**符鸟是《剑来》世界中常见的传信手段**。陈平安曾 多次使用“黄纸小鹤”与外界联络 ，而如吕碧笼等大修士则更擅长使用“青鸢”进行远 距离且带有神性的传讯 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1156章 天公作美",
+      "owner": "仙尉"
+    }
+  ],
+  "subtype": "辅助/通讯类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "随画符者道力提升，其飞行速度与隐蔽性可大幅增强 。",
+  "supernatural_ability": "由符纸化形而成，可跨越山河传递音讯或小型物件，具 备一定的灵智，能准确寻找受信人 , 。",
+  "evolution": {
+    "current_form": "黄纸或青色纸张折叠而成的纸鹤、纸鸢 。",
+    "materials_consumed": [
+      "符纸",
+      "灵气真言"
+    ],
+    "potential_evolution": "若注入真灵，可演化为具有侦察能力的“傀儡灵禽”。"
+  },
+  "visual": {
+    "static": "一只折叠整齐的纸鸟，表面绘有细微的云气纹路 。",
+    "active": "化作一只翩然起舞的黄鹤或青鸢，在空中划出淡金色或 青色的流萤轨迹 , 。"
+  },
+  "provenance": {
+    "origin": "道门与儒家书院通用的基础传信术法 。",
+    "karma_link": "陈平安常以此向魏檗、钟魁等好友传递关键情报 , 。"
+  },
+  "enriched": true
+}

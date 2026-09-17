@@ -1,0 +1,50 @@
+{
+  "name": "长距剑炉",
+  "original_name": "风雪庙绿水潭剑炉",
+  "type": "重器",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是阮邛离开风雪庙去往落魄山之前留下的遗产。它见证了阮邛从一名普通剑修成长为宝瓶洲第一铸剑 大师的过程 。",
+  "aliases": [
+    "长距剑炉"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第95章 小庙",
+      "owner": "阮邛"
+    },
+    {
+      "chapter": "第687章 落魄山上有剑仙",
+      "owner": "风雪庙(原属阮邛)"
+    }
+  ],
+  "subtype": "辅助类 / 铸造类",
+  "holder": "风雪庙",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "阮邛",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为一洲顶尖铸剑师留下的道统痕迹，是培养高阶铸剑师和炼制名剑的圣地。",
+  "supernatural_ability": "“万剑共鸣”。炉火常年不熄，蕴含深厚剑意，可提升在此铸造之剑的先天灵性与锋芒 。",
+  "evolution": {
+    "current_form": "坐落在风雪庙绿水潭的一座古朴剑炉 。",
+    "materials_consumed": [
+      "绿水潭水运",
+      "阮邛之铸剑真意"
+    ],
+    "potential_evolution": "若能配合特定的兵家秘术，可演化为支撑一脉剑道气运的根基。"
+  },
+  "visual": {
+    "static": "炉身巍峨，周围剑气缭绕，即便无人操作亦有低沉的金属交击声 。",
+    "active": "开炉之时，火光冲天，映红整座潭水，金石之气激荡四方 。"
+  },
+  "provenance": {
+    "origin": "由大骊首席供奉阮邛在风雪庙修行期间亲手开辟 。",
+    "karma_link": "承载了阮邛与风雪庙的香火情分，是他成名立万的基石 。"
+  },
+  "enriched": true
+}

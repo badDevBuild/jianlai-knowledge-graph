@@ -1,0 +1,38 @@
+{
+  "name": "龙湫",
+  "original_name": "本命水府小池塘",
+  "type": "其他",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是陈平安五行本命体系中最核心的一环，也是他“道理”与“力量”交汇的内景显化。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第676章 终于远游境",
+      "owner": "白发童子"
+    }
+  ],
+  "subtype": "内景/修行类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "随陈平安炼化水运的增加，可从“小池塘”演化为真正的“江渎龙宫”。",
+  "supernatural_ability": "陈平安水府的核心，其内有黑白两条蛟龙游曳，负责淬炼水法真意。",
+  "evolution": {
+    "current_form": "位于本命水府水字印下方的一处灵气深潭。",
+    "materials_consumed": [
+      "上古遗剑",
+      "水运精华"
+    ],
+    "potential_evolution": "将整合为掌控天下水脉的至高枢纽。"
+  },
+  "visual": {
+    "static": "幽幽深潭，影影绰绰。",
+    "active": "修行时水雾弥漫，金线交织，两条小龙会吞吐水运骊珠。"
+  },
+  "provenance": {
+    "origin": "陈平安炼化第一件本命物水字印后自生。",
+    "karma_link": "承载了陈平安在老龙城、大渎、龙宫等地的所有水系机缘。"
+  },
+  "enriched": true
+}

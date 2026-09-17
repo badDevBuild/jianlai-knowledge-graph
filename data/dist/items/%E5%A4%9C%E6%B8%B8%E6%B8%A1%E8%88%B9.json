@@ -1,0 +1,44 @@
+{
+  "name": "夜游渡船",
+  "original_name": "夜航船",
+  "type": "其他",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "夜航船是一座流动的文化宝库，内部以四百万个“条目”构建世界。它不仅是跨洲的工具，更是衡量修士 心境与见识的大道磨石 [2-4]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第767章 落魄山的镜花水月",
+      "owner": "未知"
+    }
+  ],
+  "subtype": "空间类 / 试炼类",
+  "holder": "张夫子",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古神灵",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "内部包含十二座相互嵌套的城池，上限等同于一座独立运转的小型天下 。",
+  "supernatural_ability": "看守光阴长河的“阍者”职能；能拘押十四境之下修士的魂魄与肉身，内部分为推敲城、条目城等试炼地 [2-4]。",
+  "evolution": {
+    "current_form": "穿梭于五行之外、光阴长河之上的庞大古船 。",
+    "materials_consumed": [
+      "万年历史条目",
+      "光阴砂"
+    ],
+    "potential_evolution": "若能补全所有遗失条目，可演化为能干涉因果的大道重器 。"
+  },
+  "visual": {
+    "static": "外观古朴宏伟，船身隐没在白雾茫茫的光阴裂缝中 。",
+    "active": "航行时剑光与道光交织，撞开天幕禁制时会引发七彩琉璃色的空间崩裂景象 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的宇宙论架构，是连接古今的物理通道 。",
+    "karma_link": "与隐官陈平安有着深刻的因果博弈，曾作为吴霜降等大修士的问道之地 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,45 @@
+{
+  "name": "火龙丹",
+  "original_name": "九转火龙丹 / 金身描漆药",
+  "type": "丹药",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是**强壮神魂与体魄的霸道丹药**。常被用于辅助武夫跻身金身境， 或帮助练气士突破龙门境瓶颈 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第360章 到达老龙城",
+      "owner": "朱敛 (服用)"
+    }
+  ],
+  "subtype": "体魄/破境类",
+  "holder": "朱敛 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆雍",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "配合布雨丹使用，可帮助中五境武夫或练气士大幅提升体魄强韧度，冲 刺金丹门槛 。",
+  "supernatural_ability": "蕴含纯正火属真意（多取自火蛟遗蜕），能够“烧”掉体内杂质，壮大魂 魄，具有“金身描漆”之美誉 。",
+  "evolution": {
+    "current_form": "赤红色丹丸，触之温热，内部似有火龙盘旋 。",
+    "materials_consumed": [
+      "火蛟遗蜕",
+      "三昧真火",
+      "地脉精粹"
+    ],
+    "potential_evolution": "若以飞升境大妖妖丹为药引，可升格为半仙兵级“火神丹”。"
+  },
+  "visual": {
+    "static": "盛放在绘有赤红云纹的瓷瓶中，丹身通红如火枣 。",
+    "active": "服下后全身毛孔会散发微弱红光，体内真气如火龙走江，灼烧经脉中的 沉疴 。"
+  },
+  "provenance": {
+    "origin": "产自青虎宫，由陆雍以火蛟遗蜕等珍稀材料炼制 。",
+    "karma_link": "陆雍因忌惮隐官与姜尚真的关系，不惜将此压箱底丹药作为敲门砖送给 落魄山 。"
+  },
+  "enriched": true
+}

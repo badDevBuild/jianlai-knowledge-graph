@@ -1,0 +1,44 @@
+{
+  "name": "老槐树残枝",
+  "original_name": "祖荫槐木",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "消耗",
+  "description": "骊珠洞天的精神象征。老槐树倒下后，其残枝被视作珍贵的保命符，陈平安曾用其打造木剑，亦有部分 槐叶被顾璨用于关键战局 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第71章 有些喜欢",
+      "owner": "李宝瓶/陈平安"
+    }
+  ],
+  "subtype": "气运类 / 滋养类",
+  "holder": "小镇百姓 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "骊珠洞天",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为骊珠洞天万年祖荫的载体，每一片残枝槐叶都蕴含深厚因果，具备演化为镇宅重器的潜力。",
+  "supernatural_ability": "“祖荫庇护”。老槐树叶曾被用于为濒死之人续命，其残枝具有极强的聚气与遮蔽天机之效 。",
+  "evolution": {
+    "current_form": "被小镇百姓瓜分后的枯木残枝 。",
+    "materials_consumed": [
+      "万年因果气运",
+      "神灵遗泽"
+    ],
+    "potential_evolution": "可炼化为承载一门一户气运的“祖宗木”。"
+  },
+  "visual": {
+    "static": "外表质朴的老旧槐木，质地极其坚硬，散发着淡淡的草木清香 。",
+    "active": "激发时隐约可见“祖荫”如华盖覆盖，能压制阴煞气机 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天中心位置的万年老槐树 。",
+    "karma_link": "见证了小镇三千年的阴阳流转，是所有小镇土著“命理”的根基 。"
+  },
+  "enriched": true
+}

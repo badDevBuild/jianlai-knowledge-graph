@@ -1,0 +1,38 @@
+{
+  "name": "雪泥符",
+  "original_name": "大阵基石符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "活跃",
+  "description": "这是陈平安构筑复杂符阵的基石。虽不以杀力见长，却 是其万法攒簇体系中不可或缺的平衡点 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1203章 开门见了新人间",
+      "owner": "杜俞"
+    }
+  ],
+  "subtype": "辅助/稳固类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随绘制者对“鸿爪雪泥”大道意境的感悟，可成为支撑起 一座小天地的核心符文 。",
+  "supernatural_ability": "具备极其稳固的地利属性。作为符阵“打底”之物，能有 效中和不同符箓间的气机冲突 。",
+  "evolution": {
+    "current_form": "书写在普通黄纸或金纸上的土属大符 。",
+    "materials_consumed": [
+      "五行之土精华",
+      "圣贤真言"
+    ],
+    "potential_evolution": "可演化为支撑起“青蛇长河”阵法的龙骨基石 。"
+  },
+  "visual": {
+    "static": "符图稳重，墨迹厚实，给人以大地沉稳之感 。",
+    "active": "激发时会产生如“积土成山”的重力压迫，使得周围气机 瞬间变得沉静有序 。"
+  },
+  "provenance": {
+    "origin": "陈平安结合《丹书真迹》与自身事功学问自创的辅助大 符 。",
+    "karma_link": "体现了陈平安修行路上步步为营、夯实根基的治学态度 。"
+  },
+  "enriched": true
+}

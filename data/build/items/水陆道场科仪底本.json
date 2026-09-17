@@ -1,0 +1,44 @@
+{
+  "name": "水陆道场科仪底本",
+  "original_name": "水陆科仪录 / 经生底本",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是大修士用来规整阴阳秩序的工具。通过繁琐仪式， 在混乱的战场遗址中强行建立规矩 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第927章 与诸君借取千山万水（八）",
+      "owner": "沈霖(陈平安赠)"
+    }
+  ],
+  "subtype": "修行/礼仪类",
+  "holder": "陈平安 (分身)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青杏国朝廷",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随陈平安超度亡魂功德积累，可演化为敕令阴冥的“生 死簿”残页 。",
+  "supernatural_ability": "记载古老祭祀与引渡仪式，配合“狮子鸣”等佛道法印可 超度万千英灵，净化山河煞气 。",
+  "evolution": {
+    "current_form": "笔迹工整、文字金石味浓厚的纸本册子 。",
+    "materials_consumed": [
+      "众生愿力",
+      "圣贤教诲"
+    ],
+    "potential_evolution": "可与《丹书真迹》合流，成就补全天地的“度人经” 。"
+  },
+  "visual": {
+    "static": "封面写有科仪名目，内文法度严谨，纸张散发淡淡檀香 。",
+    "active": "诵读时文字离纸化形，形成覆盖方圆百里的文字屏障， 金光照彻阴冥 。"
+  },
+  "provenance": {
+    "origin": "源自三教合流背景下的古老科仪底稿 。",
+    "karma_link": "陈平安于青杏国及随驾城期间使用，用以偿还因果并砥 砺道心 。"
+  },
+  "enriched": true
+}

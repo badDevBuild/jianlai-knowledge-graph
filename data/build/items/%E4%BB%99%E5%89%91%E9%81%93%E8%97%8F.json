@@ -1,0 +1,46 @@
+{
+  "name": "仙剑道藏",
+  "original_name": "道藏",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "浩然天下四把传世仙剑之一，目前由白玉京二掌教余斗掌控 , 。它不仅是一件杀伐利器，更承载着白玉京的道门气数 。",
+  "aliases": [
+    "道藏"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第725章 白也真剑仙，剑灵则不然",
+      "owner": "道老二"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "余斗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白玉京",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为浩然天下四把最强仙剑之一，其杀力已达巅峰，是白玉京法统的象征 , 。",
+  "supernatural_ability": "剑身蕴藏远古正统道脉，一经现世便会引发大道共鸣，剑气与道气交织，能强行压制同位阶修士的法力 运行 , 。",
+  "evolution": {
+    "current_form": "由白玉京二掌教余斗随身背负的仙剑 。",
+    "materials_consumed": [
+      "远古道门气运",
+      "至高神性"
+    ],
+    "potential_evolution": "吴霜降曾炼制其仿剑，虽跌落品秩为法宝，但仍能通过炼化道脉尝试重塑威势 , 。"
+  },
+  "visual": {
+    "static": "剑身古朴，不出鞘时亦有霞光在剑匣缝隙流溢 。",
+    "active": "剑影出鞘后，大道显化的金色云篆会伴随剑气现世，声势宏大 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的道门正统法脉 。",
+    "karma_link": "由白玉京二掌教、真无敌余斗持有，是抗击蛮荒天下与守护青冥天下的核心力量 , 。"
+  },
+  "enriched": true
+}

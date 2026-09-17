@@ -1,0 +1,56 @@
+{
+  "name": "青衣女鬼",
+  "original_name": "韦蔚",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "她曾是梳水国威名赫赫的“四煞”之一，在山水邸报中被称为“胭脂女鬼” , 。在浩然天下大战落幕后，她重获生机，被敕封为竟陵山神 。她行事老辣，在陈平安游历期间曾为其提供线索 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第312章 变故",
+      "owner": "老僧(庇护)"
+    },
+    {
+      "chapter": "第316章 大战才起",
+      "owner": "鸦儿"
+    },
+    {
+      "chapter": "第320章 井口边的老道人",
+      "owner": "鸦儿"
+    },
+    {
+      "chapter": "第322章 白衣入城，不敢敲门",
+      "owner": "云泥和尚 (暂有)"
+    }
+  ],
+  "subtype": "鬼修 / 山神",
+  "holder": "韦蔚",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "梳水国",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为一地山神，其神位随香火强弱波动，具备晋升法宝品秩的潜力 , 。",
+  "supernatural_ability": "能够显化年轻妇人容颜，驱使阴气与水雾 。她擅长处理山水官场的复杂关系，能够稳固一地气运 。",
+  "evolution": {
+    "current_form": "竟陵山神金身",
+    "materials_consumed": [
+      "人间香火",
+      "神道功德"
+    ],
+    "potential_evolution": "若能补全功德，有望成为更高品秩的山川正神 。"
+  },
+  "visual": {
+    "static": "原本是香火凋零的泥塑神像，真身为水雾弥漫中的年轻妇人 。",
+    "active": "作为竟陵山神显灵时，身形曼妙，常在山水间巡视 。"
+  },
+  "provenance": {
+    "origin": "曾是梳水国四煞之一，死后真灵不散化为厉鬼 。",
+    "karma_link": "由梳水国礼部侍郎主持封正典礼，成为竟陵山神，受人间香火祭祀 。"
+  },
+  "enriched": true
+}

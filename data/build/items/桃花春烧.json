@@ -1,0 +1,50 @@
+{
+  "name": "桃花春烧",
+  "original_name": "桃花水酿 / 红裙酒",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是《剑来》中充满浪漫色彩的酒类，常见于春露圃等 风雅之地。它不仅是酒，更是一份属于“剑道与远方”的 江湖梦 。",
+  "aliases": [
+    "桃花春烧"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第77章 进山",
+      "owner": "刘寡妇"
+    },
+    {
+      "chapter": "第105章 无根浮萍",
+      "owner": "李家"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "陈平安 / 桃花渡女修",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "春露圃",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为极致水运的产物，可演化为温养水属本命物的顶级 资粮 。",
+  "supernatural_ability": "具备“桃花春涨”的生发之力，饮用后可极大幅度提升修 士对自然道意的感悟 。",
+  "evolution": {
+    "current_form": "红艳似火、酒香极烈的灵液 。",
+    "materials_consumed": [
+      "桃花溪水",
+      "春分时节灵气"
+    ],
+    "potential_evolution": "可进阶为“桃花神仙酿”，作为重塑法相身躯的辅助药引 。"
+  },
+  "visual": {
+    "static": "酒色鲜红，如桃花飘零在水中，荡漾着迷人的光泽 。",
+    "active": "倒酒时如赤龙戏水，伴有细微的雷鸣，那是雷水交织的 意境 。"
+  },
+  "provenance": {
+    "origin": "多产自流霞洲或桐叶洲桃花盛开的仙都 。",
+    "karma_link": "常作为剑仙（如米裕、柳质清）之间斗法或切磋后的助 兴物 。"
+  },
+  "enriched": true
+}

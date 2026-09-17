@@ -1,0 +1,44 @@
+{
+  "name": "竹筒腌菜",
+  "original_name": "老厨子秘制咸菜",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是落魄山团圆桌上不可或缺的配菜。对于这群行走天 下的远游客而言，它是关于“家”最直接的味觉反馈 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第65章 珠子",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "食材/滋养类",
+  "holder": "落魄山众人 / 裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "朱敛",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为寄托乡愁与温情的实物，可作为稳固修行者心境的 特殊“定魂物” [25-27]。",
+  "supernatural_ability": "味道绝佳，能极大程度地缓解修士因长期闭关导致的辟 谷厌食感 。",
+  "evolution": {
+    "current_form": "盛放在青竹筒内、以独门佐料腌制的菘菜 。",
+    "materials_consumed": [
+      "霜降菘菜",
+      "人间烟火气"
+    ],
+    "potential_evolution": "若经百年珍藏，可成为具有“安魂”效果的仙家佳肴。"
+  },
+  "visual": {
+    "static": "色泽鲜润，竹筒古拙，带有一股自然的竹木清香 。",
+    "active": "开盖后香气四溢，能让食用者心平气和，产生“今日无 事”的错觉 。"
+  },
+  "provenance": {
+    "origin": "由落魄山大管家朱敛亲手制作 。",
+    "karma_link": "连接了落魄山成员间那种超越生死的家人情感 。"
+  },
+  "enriched": true
+}

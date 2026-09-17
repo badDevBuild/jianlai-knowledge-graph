@@ -1,0 +1,68 @@
+{
+  "name": "炼师",
+  "original_name": "北晋皇帝佩刀",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是北晋国新帝唐铁意的贴身兵刃。这把刀名为“炼师”，被视为名副其实的山上重宝，标志着北晋王朝 在山下武林中的鼎盛实力 。",
+  "aliases": [
+    "炼师",
+    "炼师刀",
+    "妖刀"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第311章 人外有人",
+      "owner": "无（曾被程元山截杀持有者）"
+    },
+    {
+      "chapter": "第316章 大战才起",
+      "owner": "唐铁意"
+    },
+    {
+      "chapter": "第321章 各为巅峰，却少一山",
+      "owner": "唐铁意"
+    },
+    {
+      "chapter": "第991章 山青花欲燃",
+      "owner": "唐铁意"
+    },
+    {
+      "chapter": "第1066章 几人著眼到青衫",
+      "owner": "唐铁意"
+    },
+    {
+      "chapter": "第1073章 问拳问道问剑一起上",
+      "owner": "唐铁意"
+    }
+  ],
+  "subtype": "攻伐类 / 兵器类",
+  "holder": "唐铁意",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "北晋国皇室",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为一国君主的随身重宝，经过漫长岁月的皇权气运浸染，品相极佳 。",
+  "supernatural_ability": "具备极强的斩切力，能够配合武夫罡气产生惊人的杀伤，天然带有帝王威严 。",
+  "evolution": {
+    "current_form": "悬挂在腰间的沉重佩刀 。",
+    "materials_consumed": [
+      "精金",
+      "国祚龙气"
+    ],
+    "potential_evolution": "若能获得大量战场煞气淬炼，有望跻身灵器甚至法宝品秩。"
+  },
+  "visual": {
+    "static": "刀身沉重，刀柄装饰考究，显露出一股不怒自威的兵器气象 。",
+    "active": "出鞘时伴有龙吟声，刀光如虹，足以震慑一般的妖族与修士 。"
+  },
+  "provenance": {
+    "origin": "北晋国皇家武库秘藏之物 。",
+    "karma_link": "由唐铁意登基后佩戴，是他作为“龙武大将军”及新帝的武力保障 。"
+  },
+  "enriched": true
+}

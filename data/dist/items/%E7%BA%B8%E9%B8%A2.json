@@ -1,0 +1,48 @@
+{
+  "name": "纸鸢",
+  "original_name": "符箓纸鸢",
+  "type": "符箓",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "在《剑来》世界中，纸鸢常承载着童趣与仙家的浪漫，陈平安在家乡见证过纸鸢的坠落与归来，这象征 着归乡与因果的流转。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第670章 被天下压胜",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第1120章 二十人与候补们（中）",
+      "owner": "青壤"
+    }
+  ],
+  "subtype": "传讯/辅助类",
+  "holder": "山崖书院学子 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈清都",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若由仙人点睛，可化为具有真灵的飞行傀儡。",
+  "supernatural_ability": "大玄都观曾有纸鸢挂满桃树，每只都可化作手持拂尘的青衣道人御敌。在大骊京城亦有传信之功[1 2]。",
+  "evolution": {
+    "current_form": "彩绘的纸质飞鸟形状，其上绘有特殊符文。",
+    "materials_consumed": [
+      "灵纸",
+      "金粉"
+    ],
+    "potential_evolution": "可演化为类似于“青鸢”的护国真人传讯法宝。"
+  },
+  "visual": {
+    "static": "轻盈如纸，色彩明艳。",
+    "active": "飞行时拖曳出漂亮的流萤光影，甚至能变化为人身或巨大神鸟。"
+  },
+  "provenance": {
+    "origin": "广泛流行于中土神洲与宝瓶洲的山下民间与山上仙府。",
+    "karma_link": "老大剑仙曾随手将坠落茅屋顶的纸鸢送还给城内的孩子。"
+  },
+  "enriched": true
+}

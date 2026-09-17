@@ -1,0 +1,48 @@
+{
+  "name": "天师斩鬼钱",
+  "original_name": "天师斩鬼背花钱",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是针对**阴魂鬼修**的克星法宝，每一枚都蕴含着堂堂正正的**天雷真意**。 它们是陈平安早期远游途中极其依仗的**降妖除魔**重宝之一。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第898章 未来",
+      "owner": "钟魁"
+    },
+    {
+      "chapter": "第899章 邻居",
+      "owner": "钟魁"
+    }
+  ],
+  "subtype": "镇压类 / 攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "洪扬波",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "一套四枚齐聚时具备**天雷、火候**等多种破魔属性，是顶级的**压胜重器**。",
+  "supernatural_ability": "**斩鬼劾厌**：能够召唤雷公、电母、雨师、火君四位神祇的虚影辅助战斗，镇压一切**阴煞鬼物**。",
+  "evolution": {
+    "current_form": "四枚雕刻有神灵画像的青铜大花钱。",
+    "materials_consumed": [
+      "龙虎山雷击木精华",
+      "纯阳金粉"
+    ],
+    "potential_evolution": "若能配合**五雷正法**，可进阶为具备**天劫威势**的半仙兵。"
+  },
+  "visual": {
+    "static": "造型古朴，钱币表面铭刻有复杂的神像与**雷电纹路**。",
+    "active": "激发时会散发出**沁凉的浩然正气**，伴随阵阵雷鸣，令周遭妖鬼胆寒。"
+  },
+  "provenance": {
+    "origin": "流传自**皑皑洲**的符箓正宗。",
+    "karma_link": "陈平安在**地龙山青蚨坊**花费五颗**谷雨钱**购得，被视为该铺子的**压堂货**。"
+  },
+  "enriched": true
+}

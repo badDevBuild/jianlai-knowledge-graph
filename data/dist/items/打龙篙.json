@@ -1,0 +1,47 @@
+{
+  "name": "打龙篙",
+  "original_name": "刻有斩锁符的竹篙",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "范家世代相传的“打龙篙”原本符文残缺，陈平安在蛟龙沟一役中利用小雪锥和自身剑气，补齐了“雨师 敕令”等关键文字，使其恢复了上古斩龙压胜的真实威力 。",
+  "aliases": [
+    "竹篙"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第263章 一道符",
+      "owner": "舟子老汉"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老舟子",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若配合高阶阵法，可作为压制蛟龙沟等水域气运的阵眼枢纽 。",
+  "supernatural_ability": "**“压胜蛟龙”**。刻录有完整的《斩锁符》，对蛟龙之属具有天然的威慑与镇压作用，能吓退水中水族 。",
+  "evolution": {
+    "current_form": "刻有血色八字符文的竹篙",
+    "materials_consumed": [
+      "绿竹",
+      "丹砂",
+      "剑气"
+    ],
+    "potential_evolution": "若材质提升为神霄竹并由地仙加持，可升格为法宝品秩 。"
+  },
+  "visual": {
+    "static": "竹篙上刻有一连串蚯蚓般的古体符文，原本仅有“作甚务甚”四字 。",
+    "active": "补全符文后，竹篙表面会渗出斑斑血迹，散发出凛冽的压胜真意，使周围水族畏惧 。"
+  },
+  "provenance": {
+    "origin": "陈平安在蛟龙沟危急时刻，利用老舟子的竹篙重新绘制《斩锁符》而成 。",
+    "karma_link": "基于《丹书真迹》中的古法，纠正了范家流传已久的残缺符文 。"
+  },
+  "enriched": true
+}

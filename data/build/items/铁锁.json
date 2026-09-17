@@ -1,0 +1,45 @@
+{
+  "name": "铁锁",
+  "original_name": "锁龙铁链 / 缚妖索",
+  "type": "重器",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "位于骊珠洞天铁锁井内的重器，是曾成功束缚住世间最后一条真龙（王朱）的神物。因长期浸染龙气而具备极高灵性 。后被云林姜氏子弟姜韫获得并炼化。",
+  "aliases": [
+    "锁龙链"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第7章 碗水",
+      "owner": "无"
+    }
+  ],
+  "subtype": "压胜/禁锢类",
+  "holder": "姜韫",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "骊珠洞天看守圣人 / 齐静春",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "最高品秩可演化为“斩龙索”，具备瞬杀高位水族的能力。",
+  "supernatural_ability": "压制龙气，禁锢江河。对一切蛟龙后裔及水生精怪具有绝对的先天压胜效果。",
+  "evolution": {
+    "current_form": "粗壮的铁链，已被姜韫大炼为本命物，可缠绕于腰间或手臂。",
+    "materials_consumed": [
+      "吸取了三千年真龙王朱的水运精华与怨气。"
+    ],
+    "potential_evolution": "斩龙索"
+  },
+  "visual": {
+    "static": "原本是骊珠洞天铁锁井内，一端捆绑于水井轱辘底部的锈迹斑斑的沉重铁链。",
+    "active": "金光爆裂，重若万钧，能化作束缚天地的金色绳索，甚至可以剥离蛟龙脊柱。"
+  },
+  "provenance": {
+    "origin": "远古遗留神物，曾用于在铁锁井中束缚世间最后一条真龙。",
+    "karma_link": "与真龙王朱的陨落及云林姜氏的崛起气运相连。"
+  },
+  "enriched": true
+}

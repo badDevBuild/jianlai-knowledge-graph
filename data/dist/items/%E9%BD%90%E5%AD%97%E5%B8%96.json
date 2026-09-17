@@ -1,0 +1,47 @@
+{
+  "name": "齐字帖",
+  "original_name": "齐先生字帖 / 圣贤书贴",
+  "type": "典籍",
+  "grade": "文宝",
+  "status": "活跃",
+  "description": "这是齐静春留下的珍贵遗物。虽然李槐不爱读书，但此字帖吸引了极其罕见的青冥鱼寄居，体现了“书 中有乾坤”的神异 。",
+  "aliases": [
+    "齐字帖",
+    "字帖"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第141章 百怪（上）",
+      "owner": "陈平安(代管)"
+    }
+  ],
+  "subtype": "传承类 / 滋养类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为圣人亲笔，蕴含极致文运与浩然气，是足以镇压一国气运的文脉重宝 。",
+  "supernatural_ability": "“温养文灵”。字帖能吸引蠹鱼和青冥鱼等书籍精魅寄居，并以其文字精气作为饵料 。",
+  "evolution": {
+    "current_form": "一幅字迹法度严谨、神意极长的圣人手书字帖 。",
+    "materials_consumed": [
+      "圣人浩然气",
+      "文脉底蕴"
+    ],
+    "potential_evolution": "若能补全相关文脉，可演化为显化圣贤法相的大道重器 。"
+  },
+  "visual": {
+    "static": "纸张古朴，墨色如新，字里行间仿佛有云气流转，能见蠹鱼在缝隙间游曳 。",
+    "active": "字帖展开时，金光隐现，能让周遭污秽阴气退避，文运盎然 。"
+  },
+  "provenance": {
+    "origin": "由山崖书院齐静春先生亲笔书写，后留存给李槐 。",
+    "karma_link": "承载了齐静春对学生的最后期许，也是李槐作为读书人的“文缘”基石 。"
+  },
+  "enriched": true
+}

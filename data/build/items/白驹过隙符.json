@@ -1,0 +1,46 @@
+{
+  "name": "白驹过隙符",
+  "original_name": "忽然符 / 月符",
+  "type": "符箓",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是陆沉基于远古秘法简化而来的保命大符。虽然是简化版，但因其涉及光阴大道的独特性，在浩然天 下极度罕见且难以仿制 。",
+  "aliases": [
+    "忽然符"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第922章 与诸君借取千山万水（三）",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "位移类 / 逃生类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为陆沉首创的顶级大符，其道意根基涉及光阴长河，在逃避高位修士追杀时具备决定性作用 。",
+  "supernatural_ability": "能够在极其微小的瞬间（光阴隙缝）产生位移，使使用者如白驹过隙般消失并出现在远方 。",
+  "evolution": {
+    "current_form": "材质玄妙的符纸，上绘有独特的时空脉络纹路。",
+    "materials_consumed": [
+      "光阴长河流水精华",
+      "十四境道法道韵"
+    ],
+    "potential_evolution": "若配合特定的剑遁之法，可实现跨越洲际的瞬移 。"
+  },
+  "visual": {
+    "static": "符纸表面波纹荡漾，仿佛有流水在其中缓行 。",
+    "active": "燃烧时会显化出一匹白色骏马跳跃的一瞬幻象，随后使用者身形消失 。"
+  },
+  "provenance": {
+    "origin": "由白玉京三掌教陆沉在游历桐叶洲期间，仿照“万年桥”古法首创 。",
+    "karma_link": "陆沉通过某种因果赠予陈平安，成为其在复杂战局中脱身的压箱底手段之一 。"
+  },
+  "enriched": true
+}

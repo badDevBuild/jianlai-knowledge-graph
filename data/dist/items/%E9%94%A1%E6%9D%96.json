@@ -1,0 +1,47 @@
+{
+  "name": "锡杖",
+  "original_name": "锡杖",
+  "type": "灵物",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "**十二环锡杖**是西方佛国少年僧人的随身至宝。此杖不仅是佛门正宗的象征，更是一件杀力与防守兼 备的**重器**，曾在蛮荒天下协助拦截大妖 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第509章 人间灯火辉煌",
+      "owner": "老僧"
+    },
+    {
+      "chapter": "第720章 不能白忙一场",
+      "owner": "宝瓶洲高僧"
+    }
+  ],
+  "subtype": "压胜类 / 辅助类",
+  "holder": "少年僧人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老僧",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为西方佛国天才修士的随身器物，蕴含宏大佛法 。",
+  "supernatural_ability": "杖头铜环震动可发出天籁或雷鸣，具有**安神、破魔、定产**之功，甚至能截断光阴流水 , 。",
+  "evolution": {
+    "current_form": "带有十二枚铜环的锡杖",
+    "materials_consumed": [
+      "佛法愿力"
+    ],
+    "potential_evolution": "可随持杖者证悟而化作渡人过苦海的虚舟 。"
+  },
+  "visual": {
+    "static": "制式古朴，上悬十二环，质地非金非木 。",
+    "active": "佛号声中，铜环自鸣，能够压制周边一切邪念与术法波动 。"
+  },
+  "provenance": {
+    "origin": "源自西方佛国 。",
+    "karma_link": "由“年轻十人”之一的少年僧人持往第五座天下远游 。"
+  },
+  "enriched": true
+}

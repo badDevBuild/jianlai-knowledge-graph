@@ -1,0 +1,44 @@
+{
+  "name": "《珊瑚帖》",
+  "original_name": "琳琅楼镇楼帖",
+  "type": "典籍",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是白玉京五城十二楼中琳琅楼的至宝。它并非寻常墨宝，而是一件封印了上古大渎水脉重器的空间法 宝，代表了极高等级的“画中世界”造诣 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第948章 白玉京，师兄弟",
+      "owner": "王洞之"
+    }
+  ],
+  "subtype": "空间类 / 枢纽类",
+  "holder": "琳琅楼楼主 (王洞之)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "原主 (传言)"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "其内部藏有一座品秩极高的古老龙宫遗址，价值等同于半座四海龙宫 。",
+  "supernatural_ability": "“芥子纳龙宫”：帖中文字墨彩灼目，画中珊瑚枝可开“五色笔头花”，真实空间中隐藏着一座宏大水府 。",
+  "evolution": {
+    "current_form": "一幅画有珊瑚一枝、旁书“金坐”二字的书画长卷 。",
+    "materials_consumed": [
+      "东海珊瑚精粹",
+      "远古文运"
+    ],
+    "potential_evolution": "若能得到玉版城的“珊瑚笔架”作为钥匙，可彻底打开禁制，掌控龙宫 。"
+  },
+  "visual": {
+    "static": "书画内容古雅，珊瑚枝条如金铁钩锁，墨迹千年不干 。",
+    "active": "展开时如海月挂珊瑚，伴随阵阵波涛之声，金光与水气交织 。"
+  },
+  "provenance": {
+    "origin": "源自远古东海龙宫旧藏，疑由三山九侯先生通过大神通纳入字帖 。",
+    "karma_link": "因缺乏钥匙，琳琅楼千年来始终无法真正进入帖中遗址 。"
+  },
+  "enriched": true
+}

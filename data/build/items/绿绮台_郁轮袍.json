@@ -1,0 +1,44 @@
+{
+  "name": "绿绮台/郁轮袍",
+  "original_name": "古琴双璧",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**绿绮台/郁轮袍**是浩然天下公认的名琴遗珍。它们 不仅是乐器，更是承载着历代文人风骨的文脉重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第783章 邀请",
+      "owner": "李邺侯"
+    }
+  ],
+  "subtype": "器乐/文运类",
+  "holder": "李邺侯",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古先贤",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为文运载体，随着李邺侯对藏书事业的经营，可孕育 出琴灵 。",
+  "supernatural_ability": "能够以琴音勾连天地山河，具备安魂、定神及驱散外道 心魔的神通 。",
+  "evolution": {
+    "current_form": "琴腹铭刻有复杂篆文与印章的古朴长琴。",
+    "materials_consumed": [
+      "千年古木",
+      "浩然文气"
+    ],
+    "potential_evolution": "可作为构建“江山入画”幻象的核心法器。"
+  },
+  "visual": {
+    "static": "漆色深沉，铭文密布，散发着沉静且厚重的书香气息 。",
+    "active": "演奏时琴弦生光，四周会浮现出“绕梁千古”的虚幻文字 与山水异象 。"
+  },
+  "provenance": {
+    "origin": "源自浩然天下历史长河中的名家递藏，最终归于皎月湖 水君 。",
+    "karma_link": "体现了李邺侯身为藏书大家对世间雅物的极致收集 。"
+  },
+  "enriched": true
+}

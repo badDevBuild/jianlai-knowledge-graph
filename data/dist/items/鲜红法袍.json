@@ -1,0 +1,76 @@
+{
+  "name": "鲜红法袍",
+  "original_name": "金醴",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安身上品秩最高的防御法宝之一。它通过不断吸收神仙钱币强化，成为了支撑其人身小天地和抵御 大妖攻击的核心甲胄 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第697章 竟然",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第745章 想搬山",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第746章 夜归人",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1089章 有余",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1093章 雪光",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1095章 想象",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1096章 璀璨",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1117章 先后问剑白玉京",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御类 / 气运类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "龙虎山天师",
+      "relation": "原主"
+    },
+    {
+      "name": "蛟龙沟老蛟",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "位列数座天下十大法袍之一，能随持有者境界提升和吸收金精铜钱而不断进化 [9-11]。",
+  "supernatural_ability": "具备“水路分阴阳”之妙，可收纳、转化天地灵气作为湖泊储备，并自动修补伤痕 。",
+  "evolution": {
+    "current_form": "表面泛起金翠两色涟漪，金光流溢，如真龙盘踞 。",
+    "materials_consumed": [
+      "大量金精铜钱",
+      "琉璃金身碎片"
+    ],
+    "potential_evolution": "可从法宝品秩提升至半仙兵，甚至最终晋升为顶级仙兵 。"
+  },
+  "visual": {
+    "static": "通常呈现为一袭素雅的白色或青色长袍（因障眼法），实则鲜红夺目 。",
+    "active": "激发时如同一袭金色龙袍，金光流淌如油水，法相森严 。"
+  },
+  "provenance": {
+    "origin": "由龙虎山天师府贵人遗留在海外仙山，后被老蛟夺取 。",
+    "karma_link": "作为陈平安斩杀大妖及因缘际会所得，成为了他坐镇城头及行走江湖的保命利器 。"
+  },
+  "enriched": true
+}

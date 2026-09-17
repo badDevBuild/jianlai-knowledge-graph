@@ -1,0 +1,48 @@
+{
+  "name": "青竹杆毛笔",
+  "original_name": "胸有成竹万里翠",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这不仅是一支毛笔，更是**文道巅峰**的象征。其材质与工艺代表了青冥天下顶尖的审美与法统，是落 魄山文脉底蕴的重要补充 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第853章 猜错的谜底",
+      "owner": "魏檗"
+    }
+  ],
+  "subtype": "文房类 / 辅助类",
+  "holder": "陈灵均",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "原主"
+    },
+    {
+      "name": "周米粒",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为岁除宫宫主的随身之物，蕴含极高的书法真意与道教符箓脉络 。",
+  "supernatural_ability": "“笔下生风”。书写时墨迹金黄，可引动天地间的文气与雷火真意，极大增强符箓的符胆灵光 。",
+  "evolution": {
+    "current_form": "刻有“胸有成竹万里翠”字样的青竹杆小楷笔 。",
+    "materials_consumed": [
+      "岁除宫秘制灵气",
+      "七宝泥墨汁"
+    ],
+    "potential_evolution": "若能配合《丹书真迹》中的上三品符箓，可画出具有圣贤气象的法旨 。"
+  },
+  "visual": {
+    "static": "笔杆苍翠欲滴，触之生凉，毫尖晶莹剔透，透着一股浩然正气 。",
+    "active": "落笔时金光四溢，如龙游纸面，并伴有细微的松涛或雷鸣声 。"
+  },
+  "provenance": {
+    "origin": "由岁除宫之主吴霜降遗留，作为给落魄山的临别赠礼之一 。",
+    "karma_link": "被周米粒大方地送给了她的“景清好哥们”，成为了陈灵均炫耀的资本 。"
+  },
+  "enriched": true
+}

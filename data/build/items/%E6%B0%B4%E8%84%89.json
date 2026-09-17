@@ -1,0 +1,41 @@
+{
+  "name": "水脉",
+  "original_name": "水脉",
+  "type": "本命飞剑",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这是北俱芦洲野修出身的剑仙司徒积玉持有的本命飞剑。其神通极其阴险狠辣，专门针对练气士的呼吸 吐纳，能够在灵气最浓郁处瞬间爆发杀力，是刺杀高位修士的重器。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第860章 真正的持剑者",
+      "owner": "绯妃"
+    },
+    {
+      "chapter": "第1110章 纯粹剑修们",
+      "owner": "司徒积玉"
+    }
+  ],
+  "subtype": "攻伐类 / 隐匿类",
+  "holder": "司徒积玉",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为北俱芦洲资深剑仙的本命飞剑，其杀力与隐匿性已达顶尖地仙水准。",
+  "supernatural_ability": "“化虚”：在化虚状态下，能循着天地间的灵气隐蔽流转，悄无声息。灵气越浓厚，飞剑凝练程度越高， 极难被察觉。",
+  "evolution": {
+    "current_form": "本命飞剑。",
+    "materials_consumed": [
+      "流霞洲水气精华"
+    ],
+    "potential_evolution": "未知。"
+  },
+  "visual": {
+    "static": "常驻于剑修窍穴之内，不见形质。",
+    "active": "出剑时无迹可寻，常在目标吐纳天地灵气时发动致命一击。"
+  },
+  "provenance": {
+    "origin": "流霞洲剑仙司徒积玉本命孕育。",
+    "karma_link": "司徒积玉曾凭借此剑斩杀过一位正在炼气坐忘的玉璞境修士。"
+  },
+  "enriched": true
+}

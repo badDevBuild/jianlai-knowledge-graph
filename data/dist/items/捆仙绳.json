@@ -1,0 +1,44 @@
+{
+  "name": "捆仙绳",
+  "original_name": "三窟佩绳 / 捆妖绳",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "损毁",
+  "description": "这是伴随名剑“三窟”而生的顶级压胜灵物。它不仅是一条束缚之绳，更是上古神人捉拿获罪蛟龙的刑具 残余，在一洲斩妖史上留有赫赫凶名 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1074章 早知你们会被仙字误",
+      "owner": "某女子炼气士"
+    }
+  ],
+  "subtype": "压胜类 / 禁锢类",
+  "holder": "黄陵",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "太平老人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "被誉为世间品秩最高的一条捆妖绳，具备压制飞升境以下大妖行动的极致能力 。",
+  "supernatural_ability": "能够自动束缚妖邪，其压胜真意极强，曾随太平老人斩妖除魔，是针对蛟龙之属及各路神鬼的重器 。",
+  "evolution": {
+    "current_form": "缠绕在仙剑“三窟”剑柄上的长绳 。",
+    "materials_consumed": [
+      "上古灵性纤维",
+      "大妖精血淬炼"
+    ],
+    "potential_evolution": "若能配合特定的天师敕令，可演化为能禁锢远古神灵真身的缚龙索。"
+  },
+  "visual": {
+    "static": "看似寻常的长绳，质地坚韧，色泽古朴，紧紧缠绕在古剑柄部 。",
+    "active": "祭出时如灵蛇出洞，金光流转，化作层层禁制圈环，让被捆缚者灵气凝滞 。"
+  },
+  "provenance": {
+    "origin": "源自浩然天下游历剑气长城的冯姓剑客（太平老人） 。",
+    "karma_link": "承载了太平老人斩妖除魔的遗志，后由私剑黄陵继承并带往蛮荒 。"
+  },
+  "enriched": true
+}

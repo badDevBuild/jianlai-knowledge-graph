@@ -1,0 +1,50 @@
+{
+  "name": "风雷纸",
+  "original_name": "风雷笺 / 真诰宗名纸",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "消耗",
+  "description": "这是符箓一脉梦寐以求的顶级纸张。每一张都承载着“天地枢机”的奥秘 ，是绘制镇妖、斩锁等重型符箓的最佳选择 。",
+  "aliases": [
+    "金色符纸"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第345章 君子六符，劾鬼镇剑",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "承载/灵物类",
+  "holder": "大骊礼部 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "真诰宗",
+      "relation": "原主"
+    },
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "能够承载上五境修士的本命真言，是制作金书玉牒的核心材料 。",
+  "supernatural_ability": "纸张质地厚重，笔尖与之摩擦会发出风雷激荡之声，具备天然的劾鬼压 胜威能 。",
+  "evolution": {
+    "current_form": "厚如木片、质地细腻的金色名纸 。",
+    "materials_consumed": [
+      "云根纤维",
+      "雷部神意"
+    ],
+    "potential_evolution": "若由大天师亲笔落款，可演化为“云霄斩勘符”载体。"
+  },
+  "visual": {
+    "static": "色泽金黄，带有龙爪、玉筋或灵芝等天然篆文底纹 。",
+    "active": "落笔时金光四溅，符成后纸面雷光萦绕，经久不散 。"
+  },
+  "provenance": {
+    "origin": "出自别洲道教名门真诰宗，大骊皇室将其视为犒赏功臣的重宝 。",
+    "karma_link": "李希圣曾以此赠予陈平安，助其在远游途中绘制高阶大符 。"
+  },
+  "enriched": true
+}

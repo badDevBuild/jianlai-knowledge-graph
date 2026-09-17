@@ -1,0 +1,38 @@
+{
+  "name": "吕喦佩剑",
+  "original_name": "纯阳法剑",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "此剑并非寻常剑修之物，而是蕴含了极其深厚的道门真意。它见证了吕喦异于常人的成丹之路，是守护 浩然天下天幕的关键战力之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第945章 如此护道",
+      "owner": "吕喦"
+    }
+  ],
+  "subtype": "攻伐类 / 变化类",
+  "holder": "吕喦",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "作为纯阳真人的本命神兵，其杀力随吕喦对道法的感悟而无止境攀升 。",
+  "supernatural_ability": "“牵日”：可化作一条金色绳索，拖曳大日或磅礴灵气；亦可演化为金色法衣，抵挡足以摧毁一方天地的 巨大冲撞 。",
+  "evolution": {
+    "current_form": "平时为一把铿锵出鞘作龙鸣的古朴法剑 。",
+    "materials_consumed": [
+      "纯阳真火",
+      "庚金精华"
+    ],
+    "potential_evolution": "可随主人的“成丹之路”演化出更多不可思议的道教变化神通 。"
+  },
+  "visual": {
+    "static": "背负于道人身后，剑气内敛，却有龙吟之声隐隐传出 。",
+    "active": "祭出后金光万丈，可由利刃变幻为扭曲的长绳或摊开的金色法衣，阻拦蛮荒天下的冲撞 。"
+  },
+  "provenance": {
+    "origin": "吕喦亲自炼制。",
+    "karma_link": "曾随主游历青冥天下，并在天外天战场展现神威 。"
+  },
+  "enriched": true
+}

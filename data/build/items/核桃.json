@@ -1,0 +1,47 @@
+{
+  "name": "核桃",
+  "original_name": "八神祇核雕",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "这串核桃手串虽然属于消耗品，但因其雕刻神祇栩栩如生且具备地仙级杀力，是极佳的保命底牌 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第506章 诸位只管取剑",
+      "owner": "杜俞 (陈平安赠)"
+    },
+    {
+      "chapter": "第910章 故地重游如翻书",
+      "owner": "杜俞"
+    }
+  ],
+  "subtype": "消耗类 / 攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘志茂",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "属于消耗型法宝，单颗威力稳定，通过特定的秘法投掷可发挥地仙级杀力 。",
+  "supernatural_ability": "每颗核桃分别雕刻有雨师、雷神、电母等神祇；投掷于地可敕令对应的风雨雷电火攻击，威力相当于金 丹地仙全力一击 。",
+  "evolution": {
+    "current_form": "略显稀疏的八颗核桃手串 。",
+    "materials_consumed": [
+      "远古神性残余"
+    ],
+    "potential_evolution": "用完即毁，不可进化 。"
+  },
+  "visual": {
+    "static": "色泽红润，由于年月已久且保管不善，手串略显稀疏 。",
+    "active": "投掷后炸裂，爆发出强烈的雷电或火焰等元素攻击 。"
+  },
+  "provenance": {
+    "origin": "书简湖青峡岛刘志茂的私人珍藏 。",
+    "karma_link": "刘志茂为拉拢陈平安而赠送，适合形神受损时不宜亲自出手的修士 。"
+  },
+  "enriched": true
+}

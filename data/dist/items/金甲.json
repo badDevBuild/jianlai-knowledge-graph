@@ -1,0 +1,48 @@
+{
+  "name": "金甲",
+  "original_name": "神人承露甲 (大霜)",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这副金甲曾是远古时代的战争重器，经历了从神灵甲胄到大妖牢笼的演变 , 。它是兵家甲丸的“祖宗”级物件，代表了浩然天下防御法宝的最高水准 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第788章 问剑去",
+      "owner": "持剑者"
+    }
+  ],
+  "subtype": "防御类 / 镇压类",
+  "holder": "牛刀",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "铸造者 (远古神灵)",
+      "relation": "原主"
+    },
+    {
+      "name": "郑大风 (前身神将)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "源自远古至高神灵的甲胄原型，具备极高的不朽属性与演化空间 , 。",
+  "supernatural_ability": "拥有“万法不侵”的极强防御力，且能作为空间牢笼禁锢高位大妖；其内部自成小天地，可磨灭囚徒的道 行 , 。",
+  "evolution": {
+    "current_form": "一副支离破碎、金光流淌的巨大金甲 。",
+    "materials_consumed": [
+      "远古神灵金身碎片",
+      "光阴长河河水"
+    ],
+    "potential_evolution": "若能补全其余神甲碎片，可重现远古“大霜”神甲之姿 。"
+  },
+  "visual": {
+    "static": "外表威严宏伟，甲胄缝隙间有浓稠如油水的金光不断流淌 。",
+    "active": "激活时金光万丈，可显化为顶天立地的金甲傀儡，手持白骨长矛震慑四方 , 。"
+  },
+  "provenance": {
+    "origin": "远古十二高位神灵之一的“铸造者”仿照至高神灵“披甲者”之物打造 。",
+    "karma_link": "曾作为囚禁大妖牛刀万年的牢笼，最终被牛刀在其破除后反向炼化 。"
+  },
+  "enriched": true
+}

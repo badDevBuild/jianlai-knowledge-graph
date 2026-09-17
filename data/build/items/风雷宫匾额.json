@@ -1,0 +1,48 @@
+{
+  "name": "风雷宫匾额",
+  "original_name": "御赐风雷宫匾额",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是吕祖（吕喦）在人间留下的重要法统见证。尽管原 祠庙已毁，匾额被藏于神祠库房，它依然是衡量当地山 水神灵正统与否的关键物证 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第937章 吾为东道主（七）",
+      "owner": "汾河神祠(代管)"
+    }
+  ],
+  "subtype": "祭祀/气运类",
+  "holder": "汾河神祠",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大泉王朝皇室",
+      "relation": "赠予者"
+    },
+    {
+      "name": "吕祖祠 (吕公祠)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为承载王朝敕封与吕祖道统的信物，若能重挂于正统 道观，可镇压一地天时气运 。",
+  "supernatural_ability": "匾额蕴含风雷之声与御赐龙气，能天然压制周边的阴煞 邪祟 。",
+  "evolution": {
+    "current_form": "被秘密存放在汾河神祠库房中的古老木质匾额 。",
+    "materials_consumed": [
+      "大泉国运",
+      "纯阳道意"
+    ],
+    "potential_evolution": "可作为重修吕公祠、接引雷法真意的阵法核心。"
+  },
+  "visual": {
+    "static": "匾额金字已略显黯淡，但“风雷宫”三字法度森严，带有 金石碎裂之意 。",
+    "active": "在风雨雷电交加之夜，匾额会隐约传出雷鸣声，金字流 溢紫气 。"
+  },
+  "provenance": {
+    "origin": "大泉王朝早期御赐给吕公祠的遗物 。",
+    "karma_link": "涉及纯阳道人（吕喦）在人间的道统痕迹，由陈平安在 游历中寻得 。"
+  },
+  "enriched": true
+}

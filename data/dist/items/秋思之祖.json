@@ -1,0 +1,38 @@
+{
+  "name": "秋思之祖",
+  "original_name": "秋思碑 / 小孤山石碑",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "损毁",
+  "description": "它是大妖黄鸾心境的具象化。在陈平安与大妖对峙期间，曾作为黄鸾的“见面礼”降临战场，展现了蛮荒 王座大妖的通天手段 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第628章 万一",
+      "owner": "黄鸾"
+    }
+  ],
+  "subtype": "压胜/意境类",
+  "holder": "大妖黄鸾",
+  "holder_relation": "寄托",
+  "rank": "重器",
+  "rank_potential": "作为意境显化之物，其杀力随合道大妖的道力增长而增强。",
+  "supernatural_ability": "蕴含极强的肃杀意气，能瞬间改变方圆百里的天时，使人陷入枯槁凋零的“秋思”心境 。",
+  "evolution": {
+    "current_form": "矗立在小孤山之巅的一块古老石碑。",
+    "materials_consumed": [
+      "天地肃杀之气",
+      "远古剑意"
+    ],
+    "potential_evolution": "被剑光搅碎后可转化为纯粹的灵气补给。"
+  },
+  "visual": {
+    "static": "碑文古朴，四周环绕枯树白草、红叶黄花，终年笼罩在哀愁与肃杀之中 。",
+    "active": "被黄鸾祭出时，可随宫观一同撞击城头，引发剧烈的气机震荡 。"
+  },
+  "provenance": {
+    "origin": "大妖黄鸾采集天地“秋思”意蕴炼制而成的道场枢纽。",
+    "karma_link": "在战场上被风雪庙魏晋以万千剑光瞬间摧毁 。"
+  },
+  "enriched": true
+}

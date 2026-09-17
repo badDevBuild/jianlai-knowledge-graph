@@ -1,0 +1,48 @@
+{
+  "name": "鳝妖伪金丹",
+  "original_name": "龙门境鳝鱼精内丹",
+  "type": "灵物",
+  "grade": "灵材",
+  "status": "消耗",
+  "description": "这颗内丹属于一头在大泉埋河兴风作浪的鳝鱼精。它本是一方湖泊之主，因贪图化龙机缘进入埋河，与 水神厮杀两百年之久，最终内丹落入陈平安手中 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第358章 过桥登山",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第359章 言念陈平安",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "进补类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "埋河水妖（金黄色鳝鱼精）",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "该内丹源于一头六百多年修为、接近金丹门槛的龙门境水妖，蕴含极强的水运机缘 。",
+  "supernatural_ability": "**“走水化龙”**。此丹蕴含水妖试图模仿蛟龙走江而破境的感悟，对水裔精怪具有极大的吸引力 。",
+  "evolution": {
+    "current_form": "尚未成熟、呈现金黄色的妖物内丹 。",
+    "materials_consumed": [
+      "六百年修行精华",
+      "大泉湖泊机缘"
+    ],
+    "potential_evolution": "若能配合水法炼化，可作为中五境练气士修缮水府的资粮 。"
+  },
+  "visual": {
+    "static": "体型巨大，呈现金黄色，表面覆盖着一层令人生厌的滑腻感 。",
+    "active": "散发着浓郁的阴冷水气与妖异的金光 。"
+  },
+  "provenance": {
+    "origin": "诞生于大泉王朝一处著名湖泊，后随水妖进入埋河试图走水化龙 。",
+    "karma_link": "水妖因在埋河作祟被拦截，最终内丹被陈平安作为战利品收缴 。"
+  },
+  "enriched": true
+}

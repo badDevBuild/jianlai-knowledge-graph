@@ -1,0 +1,38 @@
+{
+  "name": "松间集",
+  "original_name": "文人笔札",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安收集的一部用于“养气”的典籍。在其修道之路上，此类书籍起到了稳固道心、提升修养的作 用 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第603章 打架之人，是我师父",
+      "owner": "小道童"
+    }
+  ],
+  "subtype": "修心/文化类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随翻书人的学问精进，其内容可化为“养气”之基 。",
+  "supernatural_ability": "蕴含淡雅文气，诵读可静心养神，在寂寥之时尤为有效 。",
+  "evolution": {
+    "current_form": "带有墨香、带有松柏气象的古旧书卷 。",
+    "materials_consumed": [
+      "文运",
+      "松柏灵气"
+    ],
+    "potential_evolution": "文字可脱离纸张，构建出缩小的山川洞府异象 [无]。"
+  },
+  "visual": {
+    "static": "纸张绵软，色泽微黄，翻阅时似有清风拂面 。",
+    "active": "字里行间金光闪烁，文字能具象化为山间景致 。"
+  },
+  "provenance": {
+    "origin": "多产自民间藏书楼或旧时文人雅士的编纂 。",
+    "karma_link": "见证了陈平安从少年孤儿到成熟读书人的转变过程 。"
+  },
+  "enriched": true
+}

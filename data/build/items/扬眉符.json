@@ -1,0 +1,44 @@
+{
+  "name": "扬眉符",
+  "original_name": "阳气挑灯符 / 祛秽符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一种在艰难世道中为自己和同伴“打气”的符箓。它 不仅照亮前路，更在微妙处调理心境 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1066章 几人著眼到青衫",
+      "owner": "敬仰楼"
+    }
+  ],
+  "subtype": "辅助/宁神类",
+  "holder": "陈平安 / 宁吉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着画符者剑气与神意的融合，可演化为令修行者神清 气爽、破除心障的“开颜符” 。",
+  "supernatural_ability": "能够平复戾气，驱散周边数百步内的阴秽气机，使人灵 台清明，眉宇生辉 。",
+  "evolution": {
+    "current_form": "以黄纸或金粉画就的入室级符箓，常用于夜行远游 。",
+    "materials_consumed": [
+      "纯阳丹砂",
+      "浩然气"
+    ],
+    "potential_evolution": "可提升至中三品，具备“言出法随”止戈之效 。"
+  },
+  "visual": {
+    "static": "符纸泛红，散发阵阵清凉之意，如夜游秉烛 。",
+    "active": "激发后散发出淡淡金光，能让方圆数丈内的焦躁之气消 弭 。"
+  },
+  "provenance": {
+    "origin": "记载于《丹书真迹》前几页的入门符箓 。",
+    "karma_link": "是陈平安早期江湖远游、趋吉避凶的核心手段之一 。"
+  },
+  "enriched": true
+}

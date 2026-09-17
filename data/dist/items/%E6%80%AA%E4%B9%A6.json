@@ -1,0 +1,44 @@
+{
+  "name": "怪书",
+  "original_name": "北俱芦洲遗址书籍",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这本“怪书”是陈平安在北俱芦洲的重要收获，虽然没有任何攻伐威力，却记录了最为真实的人间冷暖， 是他日后完善其特有剑道（如心相世界）的核心素材 [15-17]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第558章 此中有真意",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "记录类 / 悟道类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "北俱芦洲仙府遗址",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "书中文字随陈平安的感悟而生发，具备演化为“人生世界”的深层潜力 。",
+  "supernatural_ability": "记录了无数悲欢离合的不同人生故事，具有极强的**共情与磨砺道心**的作用 。",
+  "evolution": {
+    "current_form": "一本看起来平凡无奇、写满文字的旧书 。",
+    "materials_consumed": [
+      "心力",
+      "阅历"
+    ],
+    "potential_evolution": "可作为陈平安构建“心相天地”与“镜花水月”故事蓝本的基础 。"
+  },
+  "visual": {
+    "static": "纸张泛黄，宣纸绵软且陈旧，甚至有些破损，并不起眼 。",
+    "active": "阅读时文字仿佛会流转，展现出栩栩如生的众生百态场景 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲一处远古仙府遗址中无人注意的角落 。",
+    "karma_link": "陈平安在探险中随手拣选，却在其后的修行中成为他观察人心、感悟世道的重要凭据 。"
+  },
+  "enriched": true
+}

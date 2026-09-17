@@ -1,0 +1,45 @@
+{
+  "name": "五彩拨浪鼓",
+  "original_name": "桃木龙皮拨浪鼓",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这不仅是一件孩童玩具模样的法宝，更是一件融合了道门祖师桃木与龙族神性的重器。其材质横跨陆地 与深海，是吴霜降才情与家底的象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第322章 白衣入城，不敢敲门",
+      "owner": "小道童"
+    }
+  ],
+  "subtype": "神道/压胜类",
+  "holder": "任公子（或吴霜降指定之人）",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为多位大修士道韵的汇聚之物，通过注入神性可演化为镇压邪祟的神器 。",
+  "supernatural_ability": "摇晃时可产生针对灵魂的震慑，其鼓声具有清心或乱神的玄妙功效 。",
+  "evolution": {
+    "current_form": "小巧玲珑的彩绘拨浪鼓",
+    "materials_consumed": [
+      "大玄都观祖宗桃木",
+      "真龙之皮",
+      "深海龙宫琉璃珠"
+    ],
+    "potential_evolution": "完全炼化后可作为调理阴阳、敕令鬼神的仪轨礼器"
+  },
+  "visual": {
+    "static": "桃木柄，龙皮缝制的彩绘鼓面，尾端坠有一粒红线系挂的琉璃珠 。",
+    "active": "摇动时流光溢彩，红绳舞动，宝珠闪烁，伴有沉闷且具有穿透力的鼓声 。"
+  },
+  "provenance": {
+    "origin": "由岁除宫宫主吴霜降亲手炼制，融合了多家顶级仙家材料 。",
+    "karma_link": "作为吴霜降的私人信物，赠予特定之人，承载了极深的人情与道缘 。"
+  },
+  "enriched": true
+}

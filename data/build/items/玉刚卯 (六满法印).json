@@ -1,0 +1,48 @@
+{
+  "name": "玉刚卯 (六满法印)",
+  "original_name": "月盈印",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "又称“月盈印”，是世间罕见的六面皆刻图案的法印。它不仅是雷法至宝，更具备“天地枢机”之意，能总 摄万法，斩除五漏 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第725章 白也真剑仙，剑灵则不然",
+      "owner": "仰止"
+    }
+  ],
+  "subtype": "压胜类 / 雷法类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "韩玉树",
+      "relation": "夺取自"
+    },
+    {
+      "name": "仰止",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "曾具备仙兵品秩，虽因受损跌境，但作为“六满印”，可通过吸收神灵金身碎片恢复并提升 , 。",
+  "supernatural_ability": "“攒簇五雷”。六面皆刻有篆文图案，包含三十六尊雷部神灵。可敕令风雨雷电，压胜一切阴物鬼魅 , 。",
+  "evolution": {
+    "current_form": "枣核大小、六面满刻、材质奇异的法印 , 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "大妖精血"
+    ],
+    "potential_evolution": "陈平安正在为其补全“天款”篆文，有望令其重返甚至超越巅峰仙兵品秩 。"
+  },
+  "visual": {
+    "static": "质地似玉非木，四面绘有闭目神灵画像，底款为虫鸟篆十六字 , 。",
+    "active": "祭出时雷法攒簇，十六尊雷部神将显化持鞭，金色雷电如暴雨坠落人间 , 。"
+  },
+  "provenance": {
+    "origin": "源自三山福地万瑶宗，是极其罕见的远古遗物 , 。",
+    "karma_link": "曾是韩玉树的本命重宝，现被陈平安作为坐镇人身小天地的枢纽之一 , 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "英雄谱",
+  "original_name": "白玄英雄谱",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是白玄作为“隐官大人接班人”所编撰的重磅名录。它 不仅是天才的排位表，更是落魄山一脉凝聚力的象征。[ 4-6]",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第957章 青萍峰上",
+      "owner": "白玄"
+    },
+    {
+      "chapter": "第960章 炭火",
+      "owner": "白玄"
+    },
+    {
+      "chapter": "第1044章 道上不敢有郑",
+      "owner": "白玄"
+    },
+    {
+      "chapter": "第1109章 此山从此便姓陈",
+      "owner": "白玄"
+    }
+  ],
+  "subtype": "记录类",
+  "holder": "白玄",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "被朱敛评价为可能演化为一份“铁骨铮铮的衣带诏”。",
+  "supernatural_ability": "详细记载了当代天才剑修的名号与事迹，具备极强的因 果牵引力，甚至能作为“点将”之用。",
+  "evolution": {
+    "current_form": "一本书名霸气、内容详实的册子。",
+    "materials_consumed": [
+      "剑修名录",
+      "白玄的口水"
+    ],
+    "potential_evolution": "可演化为决定一洲剑道气运的“生死簿”。"
+  },
+  "visual": {
+    "static": "白玄随身携带，经常在酒后翻阅，纸页略有褶皱。",
+    "active": "每当录入新名字，册子会泛起微弱金光，象征该人得天 道眷顾。"
+  },
+  "provenance": {
+    "origin": "由剑气长城剑修白玄在落魄山修行期间开始编撰。",
+    "karma_link": "记录了白玄心目中真正称得上英雄的人物，包括邱植、 白首等。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,53 @@
+{
+  "name": "银色铃铛",
+  "original_name": "宝塔铃 / 紫金铃铛",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "此铃曾是李家老祖宗赐予朱河的护道宝物，后曾落入泥瓶巷宋集薪手中 。它是探测妖邪的利器，在山泽野修中极受推崇 。",
+  "aliases": [
+    "银色铃铛"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第122章 雷法捉妖",
+      "owner": "老道人"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "孙道人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李家老祖宗",
+      "relation": "赠予者"
+    },
+    {
+      "name": "朱河",
+      "relation": "曾持有"
+    },
+    {
+      "name": "宋集薪",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为**佛家法器**，其价值在于对妖物的先天感知力，属于有价无市的珍稀灵物 。",
+  "supernatural_ability": "每当**龙门境**之下的妖物鬼祟靠近，铃铛便会无风自响以示警 。亦具有**破障**之用，可使修士明目静心，不受山水迷障蒙蔽 。",
+  "evolution": {
+    "current_form": "锈迹斑斑的紫金铃铛 。",
+    "materials_consumed": [
+      "香火气"
+    ],
+    "potential_evolution": "若由名家重新炼化，可提升示警范围 。"
+  },
+  "visual": {
+    "static": "外表**锈迹斑斑**，看似寻常，实际上是悬挂于大源王朝古寺檐下的法器 。",
+    "active": "遇到妖物时发出**清越的铃声**，其声震天，令妖邪惊觉 。"
+  },
+  "provenance": {
+    "origin": "源自大源王朝一座古老寺庙，后流落民间，被现任主人于深山白骨处寻见 。",
+    "karma_link": "曾被记录在《无声集》上，是收藏家眼中不俗的灵器 。"
+  },
+  "enriched": true
+}

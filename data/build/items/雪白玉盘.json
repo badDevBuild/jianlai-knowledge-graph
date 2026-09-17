@@ -1,0 +1,40 @@
+{
+  "name": "雪白玉盘",
+  "original_name": "采撷白玉盘",
+  "type": "灵器",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "谢狗用来盛放“劳动果实”的器皿。在天外灵气大潮中，她以此物收集了海量的道气精华，是落魄山极其 丰厚的财富储备 。",
+  "aliases": [
+    "白玉盘"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第662章 去而复还",
+      "owner": "刘叉"
+    }
+  ],
+  "subtype": "辅助/储存类",
+  "holder": "谢狗 (白景)",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "长期盛放高品阶灵气珠，盘身可孕育出通灵玉液 。",
+  "supernatural_ability": "能够承载并凝聚精粹至极的灵气与道气珠子，防止其流散 。",
+  "evolution": {
+    "current_form": "两只洁白如雪、温润如脂的玉质盘子 。",
+    "materials_consumed": [
+      "天地精华",
+      "天外道气"
+    ],
+    "potential_evolution": "可演化为具有自净能力的仙家法器 。"
+  },
+  "visual": {
+    "static": "通体雪白，触之有温润感，盘面有淡淡的灵气光晕 。",
+    "active": "灵珠落在盘内会发出清脆悦耳的叮咚声，如大珠小珠落玉盘 。"
+  },
+  "provenance": {
+    "origin": "白景（谢狗）随身携带的珍藏，用于收集天外大潮的灵气 。",
+    "karma_link": "见证了陈平安与白景等人在天外截获天地造化的过程 。"
+  },
+  "enriched": true
+}

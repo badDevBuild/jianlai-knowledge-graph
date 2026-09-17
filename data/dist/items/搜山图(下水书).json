@@ -1,0 +1,44 @@
+{
+  "name": "搜山图(下水书)",
+  "original_name": "佚名山水游历手册",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此书由于内容务实、言简意赅，被野修奉为圣经。它详 细列举了哪些老怪物不可招惹，哪些机缘可以触碰。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第959章 一脚七境",
+      "owner": "孙怀中(作者)"
+    }
+  ],
+  "subtype": "指南/压胜类",
+  "holder": "山泽野修",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "孙怀中",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "若得原本，可作为掌控一洲所有精怪根脚的至宝。",
+  "supernatural_ability": "记载了天下各州的风土人情与妖物弱点，能指引野修趋 吉避凶，识别各种修行禁忌。",
+  "evolution": {
+    "current_form": "价廉物美、流传极广的仙家普及读物。",
+    "materials_consumed": [
+      "前贤见闻",
+      "山川地志"
+    ],
+    "potential_evolution": "集齐全部散页可复原为真正的仙兵级《搜山图》。"
+  },
+  "visual": {
+    "static": "厚重书籍，纸质一般，包含大量插图与注释。",
+    "active": "翻阅至特定条目时，对应的山川妖物影像会微微浮现。"
+  },
+  "provenance": {
+    "origin": "传闻出自玄都观孙老观主之手，但他从未承认。",
+    "karma_link": "是山泽野修在青冥天下行走的“保命书”。"
+  },
+  "enriched": true
+}

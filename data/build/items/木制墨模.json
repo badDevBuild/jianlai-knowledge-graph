@@ -1,0 +1,44 @@
+{
+  "name": "木制墨模",
+  "original_name": "辛苦制墨模具",
+  "type": "匠器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不是寻常的文房工具，而是武夫辛苦以拳法打磨而出 的修行见证。林江仙凭此来判断辛苦拳意的细腻程度。[ 3]",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第955章 剑术归拢",
+      "owner": "林江仙(归还给辛苦)"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "林江仙",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "辛苦",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "随着制墨者拳意的提升，墨模能承载更强的武道神韵。",
+  "supernatural_ability": "能够作为验证武夫拳法深浅与进境的凭证，纹理间渗有 武道止境的精纯气机。",
+  "evolution": {
+    "current_form": "一只用于制墨的木质模具。",
+    "materials_consumed": [
+      "闰月峰老木",
+      "十万杵拳意"
+    ],
+    "potential_evolution": "可作为炼制武夫“本命墨锭”的法具。"
+  },
+  "visual": {
+    "static": "木质沉稳，刀工精湛，带有长期制墨留下的温润质感。",
+    "active": "与其配套的墨锭成型时，会散发出微弱的武运涟漪。"
+  },
+  "provenance": {
+    "origin": "由闰月峰武夫辛苦亲手打造。",
+    "karma_link": "由林江仙从辛苦处获得，用于观照对方的“百万杵”拳法 进境。"
+  },
+  "enriched": true
+}

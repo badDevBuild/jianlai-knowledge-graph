@@ -1,0 +1,43 @@
+{
+  "name": "竹枝",
+  "original_name": "青竹枝",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安在游历途中，尤其是通过**青神山**相关机缘获得的灵材。 他常利用这些竹枝填充**方寸物或咫尺物**的缝隙，以达到“物尽其用”的效果 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第583章 还不过来挨打",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "填充/加持类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青神山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为灵气载体，可用于填补方寸物空间或炼制符箓。",
+  "supernatural_ability": "具备极其坚韧的质地，蕴含清亮的竹海气韵，能填补咫尺物与方寸物内的缝隙。",
+  "evolution": {
+    "current_form": "细长且坚韧的青色竹枝 。",
+    "materials_consumed": [
+      "竹海洞天灵气"
+    ],
+    "potential_evolution": "可配合仙人道图炼制为名为“山符”或“水箓”的画轴轴头 。"
+  },
+  "visual": {
+    "static": "翠绿欲滴，纹理清晰，即便砍断后仍带有旺盛的灵气 。",
+    "active": "在方寸物中可稳固空间，作为符文载体时可散发微弱绿光 。"
+  },
+  "provenance": {
+    "origin": "多取自北俱芦洲竹海洞天的青神山及其子裔 。",
+    "karma_link": "与青神山夫人及落魄山竹楼有深厚渊源 。"
+  },
+  "enriched": true
+}

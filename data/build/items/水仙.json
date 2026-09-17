@@ -1,0 +1,44 @@
+{
+  "name": "水仙",
+  "original_name": "水仙神人承露甲",
+  "type": "法宝",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是神人承露甲的原始雏形之一，品秩远胜后世模仿的 甲丸，是防御类法宝中的至尊 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第760章 不对",
+      "owner": "裴旻"
+    }
+  ],
+  "subtype": "防御/神道类",
+  "holder": "未知",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古神灵",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为八副“祖宗甲”之一，具备统御天下所有水属兵家甲 丸的法统 。",
+  "supernatural_ability": "承载水德神性，防御力随水运多寡而变化，能将水法攻 击化于无形 。",
+  "evolution": {
+    "current_form": "一副充满远古水灵气息的重型神甲 。",
+    "materials_consumed": [
+      "远古神灵金身碎片",
+      "江渎水精"
+    ],
+    "potential_evolution": "若能融合四海水运，可显化出“水神”真身。"
+  },
+  "visual": {
+    "static": "甲片如波光粼粼，散发着幽幽的蓝绿光泽，触手生凉 。",
+    "active": "披挂后身侧水汽氤氲，如置身大泽深潭，形成天然的水 盾防御 。"
+  },
+  "provenance": {
+    "origin": "远古铸造者仿照披甲者战衣炼制而成 。",
+    "karma_link": "兵家祖宗甲之一，象征着神灵对水域的守御权柄 。"
+  },
+  "enriched": true
+}

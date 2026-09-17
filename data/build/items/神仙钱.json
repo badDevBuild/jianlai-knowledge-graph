@@ -1,0 +1,54 @@
+{
+  "name": "神仙钱",
+  "original_name": "灵气结晶 / 雪花小暑谷雨钱",
+  "type": "货币",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "神仙钱不仅是交易媒介，更是实打实的修行资粮。它贯 穿了《剑来》的所有商贸与大道之争 。",
+  "aliases": [
+    "谷雨钱",
+    "小暑钱",
+    "神仙钱",
+    "雪花钱"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第192章 下笔如有神",
+      "owner": "青衣小童"
+    },
+    {
+      "chapter": "第326章 小巷中",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "能量/交易类",
+  "holder": "练气士 / 宗门势力",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "皑皑洲刘氏",
+      "relation": "铸造者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为灵气具象化之物，可直接由于大修士炼化以增补大 道 。",
+  "supernatural_ability": "除了购买法宝，更蕴含充沛灵气，可让修士快速补气或 填补小天地灵气亏空 。",
+  "evolution": {
+    "current_form": "分为雪花钱（下品）、小暑钱（中品）、谷雨钱（上品 ） 。",
+    "materials_consumed": [
+      "天地灵气",
+      "特产玉石",
+      "王朝国祚气运"
+    ],
+    "potential_evolution": "可精炼为最顶级的“金精铜钱”，如压胜、迎春、供养钱 。"
+  },
+  "visual": {
+    "static": "雪花钱如冰晶剔透，触之生寒；谷雨钱则紫金流转，重 若金石 。",
+    "active": "被捏碎时，浓稠的灵气如云雾升腾，甚至能引发春雷异 象 。"
+  },
+  "provenance": {
+    "origin": "主要由北境财神皑皑洲刘氏开采玉矿并统一铸造 。",
+    "karma_link": "是山上经济系统的基石，也是“财侣法地”之首 。"
+  },
+  "enriched": true
+}

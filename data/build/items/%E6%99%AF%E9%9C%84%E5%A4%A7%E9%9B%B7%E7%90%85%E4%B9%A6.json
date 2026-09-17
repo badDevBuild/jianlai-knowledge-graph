@@ -1,0 +1,48 @@
+{
+  "name": "景霄大雷琅书",
+  "original_name": "云上琅琅书",
+  "type": "典籍",
+  "grade": "秘籍",
+  "status": "活跃",
+  "description": "这是一部在雷法领域登峰造极的仙家秘籍。它不仅记载 了杀伐力巨大的雷术，更阐述了如何以此道贯通天地的 深刻道理 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第804章 一笑抚青萍",
+      "owner": "道门"
+    }
+  ],
+  "subtype": "雷法/修行类",
+  "holder": "林守一",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "阿良",
+      "relation": "赠予者"
+    },
+    {
+      "name": "郑居中",
+      "relation": "补全者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "三卷补全后，可助修士直通上五境乃至更高境界 。",
+  "supernatural_ability": "记载正宗五雷正法，可开辟大道，使修行之路无碍 。",
+  "evolution": {
+    "current_form": "由郑居中补齐中下两卷、崔东山详尽注解的完整秘籍 。",
+    "materials_consumed": [
+      "白帝城秘术",
+      "龙虎山雷法意蕴"
+    ],
+    "potential_evolution": "修行大成后可引动天雷淬炼人身小天地 。"
+  },
+  "visual": {
+    "static": "以金色丝线捆系，古意十足，文字呈现出雷电游走的动 态感 。",
+    "active": "研读时字里行间有电光流转，如神人掌观山河 。"
+  },
+  "provenance": {
+    "origin": "源自中土神洲白帝城，参考了龙虎山雷法 。",
+    "karma_link": "经阿良之手流落人间，最终成为林守一的证道根本 。"
+  },
+  "enriched": true
+}

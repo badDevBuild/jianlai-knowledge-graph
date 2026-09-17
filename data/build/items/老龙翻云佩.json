@@ -1,0 +1,55 @@
+{
+  "name": "老龙翻云佩",
+  "original_name": "老龙布雨佩",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "老龙翻云佩（布雨佩）是老龙城顶级豪阀的底蕴缩影。它虽然杀伤力不显，但在辅助修行和抵御外邪方 面具有极高的实战价值 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第251章 老龙城",
+      "owner": "购买者"
+    },
+    {
+      "chapter": "第255章 传道人传道",
+      "owner": "宋集薪"
+    },
+    {
+      "chapter": "第259章 练拳百万",
+      "owner": "刘灞桥"
+    }
+  ],
+  "subtype": "辅助/清心类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "苻家老祖",
+      "relation": "原主"
+    },
+    {
+      "name": "苻南华",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为苻家老祖曾悬佩多年的心爱之物，汲取了大量云海水运精华，品相极佳 。",
+  "supernatural_ability": "**避暑、清心、避秽**，尤其对修行者的冥想坐忘大有裨益，配合道家秘传口诀可事半功倍 。",
+  "evolution": {
+    "current_form": "龙形玉佩",
+    "materials_consumed": [
+      "千年香火"
+    ],
+    "potential_evolution": "可作为炼化本命水府的高级“水精”材料"
+  },
+  "visual": {
+    "static": "翠绿欲滴的龙形玉佩，带有古老祠庙的香火浸染气息 。",
+    "active": "灵气流转时，散发出温润的清凉感，能够稳定佩戴者的道心 。"
+  },
+  "provenance": {
+    "origin": "老龙城苻家祠堂供奉千年的老物件 。",
+    "karma_link": "最初作为苻南华在骊珠洞天的见面礼 ，后由范峻茂作为赔偿转交给陈平安 。"
+  },
+  "enriched": true
+}

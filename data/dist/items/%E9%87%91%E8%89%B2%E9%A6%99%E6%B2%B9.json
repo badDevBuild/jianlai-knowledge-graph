@@ -1,0 +1,45 @@
+{
+  "name": "金色香油",
+  "original_name": "淡金色香火精华 / 描金精华",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "一种极高规格的神道资源。在大骊宋氏一统宝瓶洲的过 程中，它是封正并收编山水正神的核心媒介 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第857章 摧城",
+      "owner": "玄圃"
+    }
+  ],
+  "subtype": "滋养/神道类",
+  "holder": "山水神灵 / 大骊钦天监",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土文庙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵物",
+  "rank_potential": "汇聚一洲香火后可帮助神灵重塑金身，跻身上五境 。",
+  "supernatural_ability": "被称为“描金”，能淬炼并稳固神像金身，使其获得浩然 天地正统认可 。",
+  "evolution": {
+    "current_form": "浓郁的、呈淡金色的香火愿力流体 。",
+    "materials_consumed": [
+      "众生香火",
+      "儒家文运",
+      "圣贤愿力"
+    ],
+    "potential_evolution": "可转化为稳固一国国祚的神道龙气 。"
+  },
+  "visual": {
+    "static": "看似寻常香火烟雾，实则质地粘稠如金色油脂 。",
+    "active": "熏染神像时，会使泥塑木胎泛起持久的金属光泽 。"
+  },
+  "provenance": {
+    "origin": "源自文庙对山水官场的册封与点化 。",
+    "karma_link": "涉及埋河水神等神祇的封正与气运提升 。"
+  },
+  "enriched": true
+}

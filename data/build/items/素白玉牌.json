@@ -1,0 +1,51 @@
+{
+  "name": "素白玉牌",
+  "original_name": "咫尺物玉牌",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这是陈平安最重要的**空间法宝**之一。它承载了陈平安远游途中的诸多秘密家底，甚至被赋予了**“ 龙衔珠”**般的风水格局，是其未来经营山头的重要资产 。",
+  "aliases": [
+    "素白玉牌",
+    "方寸物",
+    "无名玉牌"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第364章 无解之局",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间/存储类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "郑大风",
+      "relation": "赠予者"
+    },
+    {
+      "name": "灵芝斋",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "材质极其珍稀，具备进化为“小洞天”的潜质 。",
+  "supernatural_ability": "内里空间极大，能隔绝外界感应，遮蔽宝物气息 。",
+  "evolution": {
+    "current_form": "素白无纹的白玉牌 。",
+    "materials_consumed": [
+      "陈平安的心神淬炼"
+    ],
+    "potential_evolution": "陈平安曾尝试将其炼化为一座**“小洞天”**，作为心相世界的承载地 。"
+  },
+  "visual": {
+    "static": "方方正正，通体素白，手感温润如绸缎，材质本身有价值二十颗谷雨钱的天价 。",
+    "active": "开启时气机极其平静，陈平安曾用飞剑“十五”在其上秘密刻字 。"
+  },
+  "provenance": {
+    "origin": "倒悬山灵芝斋的极品玉石材料 。",
+    "karma_link": "郑大风在老龙城灰尘药铺以此物偿还对陈平安的亏欠 。"
+  },
+  "enriched": true
+}

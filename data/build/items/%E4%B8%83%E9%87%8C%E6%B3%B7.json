@@ -1,0 +1,44 @@
+{
+  "name": "七里泷",
+  "original_name": "金色长河诗词集",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这不是一件死物，而是流动的历史与才气。陈平安将其收纳，意在利用其中的浩然正气，为未来的山门 奠定深厚的文化底蕴 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第768章 压压惊",
+      "owner": "春塘"
+    }
+  ],
+  "subtype": "文运类 / 意境类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "淋漓伯曹涌",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "汇聚了数千年的文人骚客诗篇，具备滋养出一洲文运之根的无限潜力 。",
+  "supernatural_ability": "“剥离文字”：能将书上的历史情感与文气化作实质性的攻击或防御，形成一条横跨天地的文字长河 。",
+  "evolution": {
+    "current_form": "存于陈平安袖中的数十万金色文字长河 。",
+    "materials_consumed": [
+      "千载文运",
+      "两千首名篇诗词"
+    ],
+    "potential_evolution": "若能辅助特定修士证道，可转化为一座不朽的文人圣地幻境 。"
+  },
+  "visual": {
+    "static": "原为钱塘江边记录在册的古籍文字 。",
+    "active": "一挥袖间，金光点点，无数文字如龙汲水，汇成一条璀璨的金色瀑布涌入袖中 。"
+  },
+  "provenance": {
+    "origin": "钱塘江七里泷水域，由曹涌赠予 。",
+    "karma_link": "是陈平安在桐叶洲“补地缺”的重要环节，见证了他对文脉因果的吸纳 。"
+  },
+  "enriched": true
+}

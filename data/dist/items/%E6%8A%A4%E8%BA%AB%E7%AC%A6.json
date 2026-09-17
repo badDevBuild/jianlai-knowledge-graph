@@ -1,0 +1,50 @@
+{
+  "name": "护身符",
+  "original_name": "山庙太平无事牌",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "这是风雪庙与真武山独有的保命重宝。它不仅是一件灵器，更是一个护身符。持有此牌，意味着背靠一 座一洲顶尖的兵家大山 。",
+  "aliases": [
+    "护身符"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第135章 振衣",
+      "owner": "顾某"
+    }
+  ],
+  "subtype": "防御类 / 通讯类",
+  "holder": "裴钱 / 李槐 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏晋",
+      "relation": "赠予者"
+    },
+    {
+      "name": "风雪庙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为兵家祖庭的信物，其威慑力随持有人声望提升，不仅能防御，更代表了宗门的意志 。",
+  "supernatural_ability": "“求救震慑”。一旦持有者灌注真气并对其言语，玉牌会以远超御剑的速度飞回宗门求援。对识货的仇家 而言，此牌即是“不可招惹”的警告 。",
+  "evolution": {
+    "current_form": "散发出羊脂莹润光彩的玉牌，质地极其细腻 。",
+    "materials_consumed": [
+      "极品羊脂玉",
+      "兵家英灵正气"
+    ],
+    "potential_evolution": "可演化为在特定区域内通行无阻的最高权限信物 。"
+  },
+  "visual": {
+    "static": "方方正正，触手温润如绸缎，表面莹光内敛 。",
+    "active": "激发后会释放出浩荡的兵家正气，能在十境圣人的地界内强行破开气机阻断 。"
+  },
+  "provenance": {
+    "origin": "由风雪庙或真武山祖师堂秘制，仅赐予重要子弟 。",
+    "karma_link": "由魏晋赠送给离乡少年，成为他们最初远游路上的定心丸 。"
+  },
+  "enriched": true
+}

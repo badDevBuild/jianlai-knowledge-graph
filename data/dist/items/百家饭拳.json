@@ -1,0 +1,43 @@
+{
+  "name": "百家饭拳",
+  "original_name": "百家饭拳（上册）",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是由化外天魔霜降为了向陈平安换取神仙钱而撰写的拳谱。它不仅是珍贵的武学资料，更是落魄山未 来建立自身拳法传承的重要基石。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第816章 大鱼如龙",
+      "owner": "白发童子"
+    }
+  ],
+  "subtype": "武学类 / 拳谱",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白发童子（霜降）",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为记录青冥天下失传武学的秘籍，具备演化为落魄山核心武学法统的潜力。",
+  "supernatural_ability": "详细记录了青冥天下止境武夫看家本领的三十余种拳招，包含诸多已失传的杀手锏。",
+  "evolution": {
+    "current_form": "写有“百家饭拳”巨大文字的书册。",
+    "materials_consumed": [
+      "化外天魔的武学记忆"
+    ],
+    "potential_evolution": "陈平安计划将其与《撼山谱》、崔诚拳招等汇总，熔铸出一本最醇正的拳谱。"
+  },
+  "visual": {
+    "static": "封面上书“百家饭拳”四个巨大文字，末尾附有极其细微的“上册”二字。",
+    "active": "翻阅时蕴含深厚道意，非落魄山及仙都山谱牒嫡传不可轻易观摩其中的拳法神意。"
+  },
+  "provenance": {
+    "origin": "由岁除宫之主吴霜降的心魔“霜降”撰写。",
+    "karma_link": "作为霜降换取在落魄山修行机会的筹码之一，送予陈平安。"
+  },
+  "enriched": true
+}

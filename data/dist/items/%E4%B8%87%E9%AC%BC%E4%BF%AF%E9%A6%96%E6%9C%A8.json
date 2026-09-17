@@ -1,0 +1,47 @@
+{
+  "name": "万鬼俯首木",
+  "original_name": "雷击木",
+  "type": "灵物",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "由于陈平安曾在其上刻画“万鬼俯首”相关真言或在鬼蜮谷中有相关压胜表现而得名 。它是制作顶级雷法法器的核心材料，对于行走阴冥之地具有不可替代的保护作用 。",
+  "aliases": [
+    "镇妖木",
+    "万鬼俯首木"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第218章 仙师驾到",
+      "owner": "神诰宗稚童"
+    }
+  ],
+  "subtype": "压胜/滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "彩衣国古宅/随驾城城隍庙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若由农家练气士悉心栽培，可重新焕发生机，演化为通灵神木 。",
+  "supernatural_ability": "蕴含天威雷法，对阴物邪祟有极强的天然震慑力 。",
+  "evolution": {
+    "current_form": "一截焦炭似的沉甸甸乌木 。",
+    "materials_consumed": [
+      "五雷天威",
+      "纯阳气息"
+    ],
+    "potential_evolution": "生机勃勃的雷击神木或炼化为打鬼鞭 。"
+  },
+  "visual": {
+    "static": "外表如黑炭，质地却极其沉重且内敛雷法真意 。",
+    "active": "在阴煞浓郁之地会自发产生气机感应，散发出让鬼物颤栗的威压 。"
+  },
+  "provenance": {
+    "origin": "由蕴含天威的特殊五雷劈中存活树木而成的雷击木 。",
+    "karma_link": "陈平安在彩衣国之行中于乱葬岗一带获得，视其为重要的炼物素材 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "姹紫",
+  "original_name": "姹紫法袍",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "姹紫是一件极为罕见的上等法袍，不仅防御惊人，其独特的色泽与法度亦是其身份的象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第504章 剑仙在剑仙之手",
+      "owner": "殷侯"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为极品法袍，具备极强的防御与聚灵效果，且因其稀缺性极具收藏价值 。",
+  "supernatural_ability": "具备极强的护体防御功能，能自动抵御敌方气机侵袭并温养持有者神魂 。",
+  "evolution": {
+    "current_form": "紫色华美法袍 。",
+    "materials_consumed": [
+      "月华精华",
+      "仙家蚕丝"
+    ],
+    "potential_evolution": "作为落魄山底蕴传承 。"
+  },
+  "visual": {
+    "static": "色泽鲜艳夺目，如紫霞笼罩，质地轻盈如云雾 。",
+    "active": "催动时紫光大作，产生阵阵灵气涟漪，法袍纹路如活物游走 。"
+  },
+  "provenance": {
+    "origin": "陈平安远游途中的高阶战利品或珍藏 。",
+    "karma_link": "因其价值极高，陈平安不愿将其留在蚍蜉铺子售卖，而是留作家底 。"
+  },
+  "enriched": true
+}

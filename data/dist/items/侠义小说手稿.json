@@ -1,0 +1,38 @@
+{
+  "name": "侠义小说手稿",
+  "original_name": "年轻游侠与水怪故事",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安为了给落魄山后辈惊喜而创作的小说。它将 枯燥的道理化为生动的故事，是其“事功”学问的微观体 现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1064章 （2） 某年的杂花生树",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "教化/记录类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "随着陈平安学问的增长与书中人物（如小米粒）的成长 ，可转化为承载“善念”的灵物。",
+  "supernatural_ability": "能将山水见闻转化为活灵活现的故事，引导后辈（如小 米粒）树立正确的江湖观 。",
+  "evolution": {
+    "current_form": "陈平安在学塾夜间亲笔书写的山水故事草稿 。",
+    "materials_consumed": [
+      "千万里远游记忆",
+      "浩然正气"
+    ],
+    "potential_evolution": "可演化为落魄山刻书局的开山之作，具备“言出法随”的 教化力。"
+  },
+  "visual": {
+    "static": "笔迹严谨，字里行间透着质朴的道理，随手装订在竹篓 中 。",
+    "active": "诵读时，故事中的游侠与水怪仿佛在空气中化作虚影， 走马观花 。"
+  },
+  "provenance": {
+    "origin": "由陈平安在游历途中根据真实所见与心中学问创作而成 。",
+    "karma_link": "见证了陈平安作为师长对弟子们（如周米粒）的关怀与 传道 。"
+  },
+  "enriched": true
+}

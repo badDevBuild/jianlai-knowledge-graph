@@ -1,0 +1,48 @@
+{
+  "name": "远古金丹",
+  "original_name": "黄鹤金丹",
+  "type": "丹药",
+  "grade": "重宝",
+  "status": "活跃",
+  "description": "这是远古时代极致道果的遗存，是练气士梦寐以求的成 神捷径 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1049章 陈清都剑术一般",
+      "owner": "倪元簪"
+    }
+  ],
+  "subtype": "破境/传承类",
+  "holder": "倪元簪 (老蒿师)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古金仙 (黄鹤)",
+      "relation": "原主"
+    },
+    {
+      "name": "老观主",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "得此金丹者，不仅能凭空多出一座真实洞天，还可继承 飞升境圆满的道统 。",
+  "supernatural_ability": "澄澈无瑕，能让练气士在结丹时获得最高品秩，并具有 “生长”属性，可不断提升品级 。",
+  "evolution": {
+    "current_form": "藏于云窟福地黄鹤矶崖壁间的金丹 。",
+    "materials_consumed": [
+      "远古道意",
+      "仙鹤精元"
+    ],
+    "potential_evolution": "炼化后可助人直升仙人境乃至更高 。"
+  },
+  "visual": {
+    "static": "流光溢彩，内部宛若藏有一个完整的金色世界 。",
+    "active": "现世时天降异象，祥云萦绕，甚至能引发山河共鸣 。"
+  },
+  "provenance": {
+    "origin": "由世间第一只证道飞升的黄鹤在合道失败前留下，托付 给碧霄洞主保管 。",
+    "karma_link": "作为寻找继承者的试金石，涉及隋右边与倪元簪的师徒 宿缘 。"
+  },
+  "enriched": true
+}

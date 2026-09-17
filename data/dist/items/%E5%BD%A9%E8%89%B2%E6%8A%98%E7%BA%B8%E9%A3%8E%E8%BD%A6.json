@@ -1,0 +1,38 @@
+{
+  "name": "彩色折纸风车",
+  "original_name": "折纸风车",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是崔东山最具标志性的随身物件。它完美体现了这位“小白帝”玩世不恭的外表下，藏着深不可测的城 府与对大道运行的极致精准掌控 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1048章 此间山水如贼窟",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "辅助类 / 术算类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为崔东山心境与术算的载体，具备洞察因果、扭转天机的无限上限 。",
+  "supernatural_ability": "因果感应。风车旋转时能干扰周遭气运，辅助崔东山进行极其复杂的局势推演与人性雕琢 。",
+  "evolution": {
+    "current_form": "一只由崔东山随手折叠、五彩斑斓的纸质风车 。",
+    "materials_consumed": [
+      "仙家符纸",
+      "白帝城心法"
+    ],
+    "potential_evolution": "若作为阵眼，可演化为操纵整座天下因果流转的“命运之轮” 。"
+  },
+  "visual": {
+    "static": "色彩艳丽的纸质玩具，质感轻盈，仿佛一吹即动 。",
+    "active": "缓慢旋转时会散发出变幻莫测的各色涟漪，使周围的因果脉络变得纤毫毕现 。"
+  },
+  "provenance": {
+    "origin": "由崔东山在游历期间随手制作，蕴含其独特的道性 。",
+    "karma_link": "伴随崔东山多次在关键节点现身，是其智计百出的视觉标志 。"
+  },
+  "enriched": true
+}

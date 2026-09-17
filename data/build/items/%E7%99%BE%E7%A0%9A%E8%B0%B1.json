@@ -1,0 +1,38 @@
+{
+  "name": "百砚谱",
+  "original_name": "百砚斋拓谱",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不只是一本砚谱，更是陈平安在山上经营学问、在规 则之内“造物”的一次大胆尝试 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1045章 那么些师徒们",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "记录/障眼法",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "陈平安以此为契机，可整合山下文脉，演化为镇压文人 的礼器。",
+  "supernatural_ability": "详细记载并摹拓了一百方传世名砚的形制与铭文。配合 故事编撰，具有“无中生有”聚拢文运之能 。",
+  "evolution": {
+    "current_form": "陈平安在落魄山竹楼秘密编写的手稿 。",
+    "materials_consumed": [
+      "名家笔墨",
+      "宣纸"
+    ],
+    "potential_evolution": "可演化为落魄山刻书局的开山之作，提升宗门声望 。"
+  },
+  "visual": {
+    "static": "装订古雅，墨迹犹新，每一页都配有精美的石研图样 。",
+    "active": "研读时，文字与砚台虚影交织，产生厚重的书香气象。"
+  },
+  "provenance": {
+    "origin": "陈平安根据朱敛的建议，为了“补救”绿端砚台的价值而 亲手编写 。",
+    "karma_link": "连接了陈平安的“事功”学问与落魄山的文脉构建 。"
+  },
+  "enriched": true
+}

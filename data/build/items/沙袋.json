@@ -1,0 +1,46 @@
+{
+  "name": "沙袋",
+  "original_name": "练拳沙袋 / 负重袋",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是落魄山武夫“泥腿子美学”的典型器物。通过日复一 日的击打与负重，它成为了磨砺武道心志的实物载体 。",
+  "aliases": [
+    "沙袋"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第54章 大敌当前",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助/修行类",
+  "holder": "陈平安 / 岑鸳机",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔诚",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "长期承载武道巅峰的拳意，可演化为具备“不败意气”的 修行重宝 。",
+  "supernatural_ability": "无直接攻伐。但能通过极端的负重锻炼，帮助武夫打磨 筋骨皮肉，实现“破境即最强” 。",
+  "evolution": {
+    "current_form": "质地粗糙的麻布袋，内装沉重的铁砂或特定山土 。",
+    "materials_consumed": [
+      "市井粗布",
+      "重铁砂"
+    ],
+    "potential_evolution": "若融入五色社稷土，可演化为“山岳沙袋”。"
+  },
+  "visual": {
+    "static": "外表破旧，甚至有修补痕迹，散发出淡淡的汗水与尘土 气息 。",
+    "active": "挥拳击打时，会发出沉闷的如雷声响，甚至能激发出微 弱的拳意涟漪。"
+  },
+  "provenance": {
+    "origin": "落魄山竹楼一脉传统的练拳器材 。",
+    "karma_link": "见证了陈平安及其弟子裴钱吃苦打磨、脚踏实地的修行 路数 。"
+  },
+  "enriched": true
+}

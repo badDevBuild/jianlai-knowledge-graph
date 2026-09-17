@@ -1,0 +1,54 @@
+{
+  "name": "清凉",
+  "original_name": "竹衣 / 清凉法袍",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "极具传奇色彩的法袍。它既是顶级奢侈品，也是剑修和练气士梦寐以求的护身至宝，能够无视季节严寒 与酷暑 。",
+  "aliases": [
+    "竹衣'清凉'"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第263章 一道符",
+      "owner": "少年桂客"
+    },
+    {
+      "chapter": "第274章 剑气长城陈见陈",
+      "owner": "刘幽州"
+    }
+  ],
+  "subtype": "防御/温养类",
+  "holder": "刘幽州",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土神洲某大王朝君主",
+      "relation": "原主"
+    },
+    {
+      "name": "皑皑洲刘氏老祖",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为出自青神山的法袍，其防御上限取决于持有者的家族财力和灵气供给 。",
+  "supernatural_ability": "冬暖夏凉，使佩戴者时刻如同置身于一座小巧的洞天福地，能够极大补给和裨益修行 。",
+  "evolution": {
+    "current_form": "明黄色长衫",
+    "materials_consumed": [
+      "青神山绿竹片",
+      "王朝气运"
+    ],
+    "potential_evolution": "演化为具备独立规则的“清凉世界”"
+  },
+  "visual": {
+    "static": "看似寻常的明黄色绸缎长衫，实则由不计其数的微小泛黄竹片精致编织而成 。",
+    "active": "法袍表面流光溢彩，竹片之上的天然道纹会自行聚拢灵气，形成一层微弱的防御光幕 。"
+  },
+  "provenance": {
+    "origin": "出自竹海洞天青神山，曾是中土神洲一代君主的挚爱 。",
+    "karma_link": "皑皑洲刘氏底蕴的体现，被刘氏财神交付给嫡子刘幽州 。"
+  },
+  "enriched": true
+}

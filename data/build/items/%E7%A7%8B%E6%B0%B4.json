@@ -1,0 +1,48 @@
+{
+  "name": "秋水",
+  "original_name": "长剑“秋水”",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陆沉八剑之一，以“秋水”命名。它象征着陆沉对某种剑道法则的理解，出剑不仅锋利，更具备破坏修士 内景气象的奇效，是顶级战场重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第856章 两三事",
+      "owner": "陆芝"
+    }
+  ],
+  "subtype": "攻伐类 / 破坏类",
+  "holder": "陆芝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为陆沉八剑之首，承载了极致的水属破坏剑意，对气府有毁灭性的打击力 。",
+  "supernatural_ability": "被此剑砍中的修士，其积蓄灵气的本命窍穴会瞬间如洪水决堤，导致气府大乱、灵气崩散 。",
+  "evolution": {
+    "current_form": "袖珍长剑，现藏于剑盒 。",
+    "materials_consumed": [
+      "白玉京道韵",
+      "极致水运精华"
+    ],
+    "potential_evolution": "配合陆芝的飞剑阵法，可在一瞬间瓦解同境敌手的防御根基 。"
+  },
+  "visual": {
+    "static": "细弱丝线，在剑盒内如小龙蜿蜒，剑身晶莹透彻 。",
+    "active": "挥动时剑光雪亮如秋泓，照耀四方，剑气中蕴含着沉重的水法威压 。"
+  },
+  "provenance": {
+    "origin": "白玉京三掌教陆沉亲手炼制 。",
+    "karma_link": "由陆沉借给落魄山，陈平安转赠陆芝，现为陆芝在蛮荒腹地厮杀的主力配剑 。"
+  },
+  "enriched": true
+}

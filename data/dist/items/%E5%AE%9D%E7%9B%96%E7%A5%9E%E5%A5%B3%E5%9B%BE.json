@@ -1,0 +1,48 @@
+{
+  "name": "宝盖神女图",
+  "original_name": "壁画城神女图之一",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**宝盖神女图**是壁画城著名的神女图组之一，属于陈平安“包袱斋”收藏中的文雅灵物，具有极高的艺 术与修行价值 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第486章 不愧是老江湖",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "传承类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "庞兰溪",
+      "relation": "赠予者"
+    },
+    {
+      "name": "庞兰溪的曾祖父",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为壁画城九位神女之一的摹本，承载了远古神韵，若机缘足够可使神女显灵并择主护道 , 。",
+  "supernatural_ability": "图中神女手撑宝盖，具备庇护、遮蔽及一定的防御神效 。",
+  "evolution": {
+    "current_form": "由彩绘壁画转为白描的硬黄本画卷 , 。",
+    "materials_consumed": [
+      "岁月磨砺",
+      "灵气流转"
+    ],
+    "potential_evolution": "若能补全灵气，可由白描重新转为彩绘，直至神女走出画卷 。"
+  },
+  "visual": {
+    "static": "画卷上神女形态曼妙，手持宝盖，笔触细腻，古意盎然 。",
+    "active": "激发时可产生灵气波动，隐约有神灵俯瞰人间的压胜感 。"
+  },
+  "provenance": {
+    "origin": "源自北俱芦洲骸骨滩壁画城地宫壁画 。",
+    "karma_link": "由庞兰溪作为谢礼赠予陈平安，象征双方在骸骨滩结下的善缘 。"
+  },
+  "enriched": true
+}

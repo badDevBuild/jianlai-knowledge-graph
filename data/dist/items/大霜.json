@@ -1,0 +1,45 @@
+{
+  "name": "大霜",
+  "original_name": "大霜甲",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是世间所有甲丸的‘祖宗’。虽然在远古战争中受损，但其承载的兵家道统依旧影响着数座天下的战争 格局 。",
+  "aliases": [
+    "大霜"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第152章 高出天外",
+      "owner": "守门汉子 (已逝)"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "兵家初祖 (修复者)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "郑大风(前世)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古神甲的次一等真迹，具备演化出所有现代兵家甲丸的根本道意 。",
+  "supernatural_ability": "**“万法不侵”**。具备极致的物理与灵力防御，即便是顶级剑修的倾力一剑也难完全击碎 。",
+  "evolution": {
+    "current_form": "在登天一役中破碎坠地，后被收集修复 。",
+    "materials_consumed": [
+      "远古神灵金身碎片"
+    ],
+    "potential_evolution": "衍生出后世的经纬、金乌、神人承露等三种兵家甲丸 。"
+  },
+  "visual": {
+    "static": "通体如霜雪般洁白，散发出冷冽而神圣的宝光 。",
+    "active": "穿戴者如白虹挂空，金光如流水从缝隙溢出，威严如神灵降世 。"
+  },
+  "provenance": {
+    "origin": "远古十二高位神灵之‘铸造者’仿制五至高之一‘披甲者’而来 。",
+    "karma_link": "与郑大风的宿命紧密相连，见证了其作为看门神将的陨落与转世 。"
+  },
+  "enriched": true
+}

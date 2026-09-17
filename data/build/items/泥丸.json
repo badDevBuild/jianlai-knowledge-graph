@@ -1,0 +1,68 @@
+{
+  "name": "泥丸",
+  "original_name": "上古西岳剑丸",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一枚产自上古西岳的珍稀剑丸，象征着五金之铸造冶炼的权柄。它不仅是强大的兵刃，更是一份关 于西岳法统的古老传承 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第932章 吾为东道主（中）",
+      "owner": "陈平安 (原属吴懿)"
+    },
+    {
+      "chapter": "第933章 吾为东道主（三）",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第961章 少年最匆匆",
+      "owner": "曹晴朗"
+    },
+    {
+      "chapter": "第964章 再见道士",
+      "owner": "曹晴朗"
+    }
+  ],
+  "subtype": "攻伐类 / 剑丸",
+  "holder": "曹晴朗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "上古西岳某位得道仙真",
+      "relation": "原主"
+    },
+    {
+      "name": "程龙舟",
+      "relation": "曾持有"
+    },
+    {
+      "name": "吴懿",
+      "relation": "曾持有"
+    },
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为上古真人炼制的剑丸，具备让非剑胚练气士跻身剑仙的极致潜力 。",
+  "supernatural_ability": "承载“面壁千年无人知，三清只需泥土身”的道意 ；亦可作为开启上古西岳真人驻地洞府遗址的“兵符”信物 。",
+  "evolution": {
+    "current_form": "一道纤细的漆黑剑光，藏于袖珍剑匣中 。",
+    "materials_consumed": [
+      "上古五金精粹",
+      "西岳道韵"
+    ],
+    "potential_evolution": "若能寻得真人治所洞府并继承香火，可炼化为本命飞剑 。"
+  },
+  "visual": {
+    "static": "外表呈漆黑剑光状，剑匣镂刻有神官、蛟龙、女仙等祥瑞之象 。",
+    "active": "开启禁制时，会有紫金文字浮现，剑气流溢，紫气升腾 。"
+  },
+  "provenance": {
+    "origin": "出自上古时代中土西岳，由某位得道真人精心炼制 。",
+    "karma_link": "原为西岳储君之山的镇山之宝，后由程龙舟赠予吴懿，最终由陈平安转赠学生 。"
+  },
+  "enriched": true
+}

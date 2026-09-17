@@ -1,0 +1,46 @@
+{
+  "name": "剑气",
+  "original_name": "剑意余韵 / 粹然剑气",
+  "type": "其他",
+  "grade": "能量",
+  "status": "消耗",
+  "description": "剑气是《剑来》世界中杀力的核心体现。它不仅是攻击手段，更是剑修道心的外化，代表了不屈的意志 , , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第109章 少年有话说",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第146章 靠山和帮手",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第308章 杀机四伏",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "能量类",
+  "holder": "陈清都",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为剑道极致的产物，可斩断光阴长河，甚至重塑一洲规矩 , 。",
+  "supernatural_ability": "无视多数物理与法术防御，直指神魂，具有极强的压胜力和破坏力 , 。",
+  "evolution": {
+    "current_form": "无形但可感知的森严气息，常凝结为实质光芒 , 。",
+    "materials_consumed": [
+      "本命剑意",
+      "天地灵气"
+    ],
+    "potential_evolution": "极致处可演化为“一剑破万法”的绝对领域 。"
+  },
+  "visual": {
+    "static": "不可见，但能让周围空间产生细微扭曲或温度骤降 。",
+    "active": "表现为雪白、淡金或青色的长虹，气贯长虹，声如雷鸣 , 。"
+  },
+  "provenance": {
+    "origin": "源自剑修本命飞剑或绝世剑客的武道感悟 , 。",
+    "karma_link": "剑气长城万年长存的基石，也是陈平安武道进阶的关键 , 。"
+  },
+  "enriched": true
+}

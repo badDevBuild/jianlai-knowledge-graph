@@ -1,0 +1,44 @@
+{
+  "name": "天师斩鬼背花钱",
+  "original_name": "天师斩鬼钱",
+  "type": "货币",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是龙虎山天师府秘制的压胜重宝，对于一切阴邪之物具有极强的威慑力 。它在陈平安的包袱斋生涯中属于少见的高价购入品，被其视为行走江湖、降妖除魔的必备底牌 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第475章 水堵不如疏",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "压胜类 / 攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "洪扬波",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为龙虎山天师府流传的正统压胜钱，对鬼魅阴物有天然的位阶压制，可随持有者灵气滋养恢复法度 。",
+  "supernatural_ability": "能够镇压宅邸煞气，令阴魂厉鬼不敢近身，亦可祭出直接杀伤阴类修士 。",
+  "evolution": {
+    "current_form": "一整套四枚的古朴青铜花钱 。",
+    "materials_consumed": [
+      "天师府香火",
+      "雷电真意"
+    ],
+    "potential_evolution": "若能得到当代大天师的朱笔点睛，可演化为具备“言出法随”威能的符箓钱 。"
+  },
+  "visual": {
+    "static": "造型古朴，钱面刻有符咒纹路，背面有复杂的花纹装饰 。",
+    "active": "祭出时散发出淡淡的金光或雷鸣，能瞬间震散低阶鬼物的魂魄 。"
+  },
+  "provenance": {
+    "origin": "出自历代中土龙虎山大天师之手 。",
+    "karma_link": "陈平安在青蚨坊花费五颗谷雨钱买下了这一套压堂货 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "妖族介绍与兵书",
+  "original_name": "《蛮荒志》与战法笔札",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这套书籍是**黄童**赠予**陆芝**的**战场瑰宝**，详细拆解了蛮荒妖族的作战逻辑 。陈平安在此基础上，利用隐官一脉的庞大档案，进一步完善了这套**“杀妖秘籍”** 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第582章 唯有饮者留其名",
+      "owner": "郦采"
+    }
+  ],
+  "subtype": "知识/战术类",
+  "holder": "陆芝 / 隐官一脉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "黄童",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "内容随战事不断更新，最终可演化为针对妖族万类的《搜山录》 。",
+  "supernatural_ability": "详细记载大妖根脚、本命神通与弱点，是剑修战场存活的关键 。",
+  "evolution": {
+    "current_form": "三本新旧不一的书籍，包括黄童的亲笔心得 。",
+    "materials_consumed": [
+      "战场情报",
+      "间谍秘录"
+    ],
+    "potential_evolution": "陈平安计划将其扩编为涵盖九洲风土与妖族档案的《山海补志》 。"
+  },
+  "visual": {
+    "static": "外表质朴，常有翻阅痕迹，内页绘有大量妖族本相草图 。",
+    "active": "阅读时文字闪烁，可直接在神识中复现战场态势 。"
+  },
+  "provenance": {
+    "origin": "太徽剑宗老祖黄童根据两场大战总结而成 。",
+    "karma_link": "连接了剑气长城守卫战与后世对蛮荒天下的持续研究 。"
+  },
+  "enriched": true
+}

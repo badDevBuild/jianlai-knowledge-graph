@@ -1,0 +1,48 @@
+{
+  "name": "兵家书籍",
+  "original_name": "武库残卷 / 将略心得",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这些书籍是兵家智慧的结晶，是修士在浩大战争中寻觅 一线胜机的罗盘 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1051章 道友别说话",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1064章 （2） 某年的杂花生树",
+      "owner": "仙尉"
+    }
+  ],
+  "subtype": "修行/谋略类",
+  "holder": "姚镇 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊武库",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "集众家之长，可演化为能引动“十万甲兵”之势的兵家至 宝。",
+  "supernatural_ability": "记载古战场排兵布阵之法，读之可生杀伐气。高等级书 籍能唤起战魂护身 。",
+  "evolution": {
+    "current_form": "陈平安正在翻看的厚重册子 。",
+    "materials_consumed": [
+      "沙场煞气",
+      "武运精华"
+    ],
+    "potential_evolution": "演变为名为“甲申”的战略图卷 。"
+  },
+  "visual": {
+    "static": "封面朴拙，字里行间透着一股金石之音与血腥气味 。",
+    "active": "特定篇章亮起暗红光芒，显现出两军对垒的微缩战阵 。"
+  },
+  "provenance": {
+    "origin": "陈平安从战场遗址、皇室密库中搜集所得 。",
+    "karma_link": "陈平安以此推衍大局，作为落魄山应对蛮荒冲击的智略 支撑 。"
+  },
+  "enriched": true
+}

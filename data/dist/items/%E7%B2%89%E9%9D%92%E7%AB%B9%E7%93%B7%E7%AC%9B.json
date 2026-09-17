@@ -1,0 +1,44 @@
+{
+  "name": "粉青竹瓷笛",
+  "original_name": "谪仙人竹笛",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此笛因破损严重而无法修缮至巅峰状态，却仍是顶级剑 修亦会高看一眼的山上雅物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1200章 雪中送炭",
+      "owner": "孙春王"
+    }
+  ],
+  "subtype": "音律/压胜类",
+  "holder": "云卿 (大妖)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古飞升境大妖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若能修复受损的大道根本，有望重返半仙兵品秩 。",
+  "supernatural_ability": "笛身篆刻有“谪仙人”三字。奏响时可引动云水异象，对 妖族神魂有一定的平复或压制作用 。",
+  "evolution": {
+    "current_form": "竹质笛身，外层施有粉青釉质感的灵光，铭文为“曾批 给露支风券” 。",
+    "materials_consumed": [
+      "上古竹材精华",
+      "水精之气"
+    ],
+    "potential_evolution": "可演化为能号令一洲风雨的“云水令” 。"
+  },
+  "visual": {
+    "static": "笛身色泽如碧玉瓷器般温润，竹节处带有天然的古朴纹 路 。",
+    "active": "吹奏时音色清越如天籁，伴有丝丝缕缕的灵气烟霞 。"
+  },
+  "provenance": {
+    "origin": "曾是一头远古飞升境大妖的定情物，后流转至云卿之手 。",
+    "karma_link": "涉及一段凄美且宏大的蛮荒情仇因果 。"
+  },
+  "enriched": true
+}

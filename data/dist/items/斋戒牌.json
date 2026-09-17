@@ -1,0 +1,47 @@
+{
+  "name": "斋戒牌",
+  "original_name": "虬角云纹斋戒牌 / 心斋牌",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "一块能映射本心的奇特玉牌，对于修道之人降服心猿意马具有极佳效果。虽为半仙兵，却承载着甚至超 过一般仙兵的玄妙道意 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第755章 做客",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助类 / 修心类",
+  "holder": "陈平安",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "黄师",
+      "relation": "原主"
+    },
+    {
+      "name": "姜尚真",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "虽因残缺不宜大炼，但其道意极高，是辅助修士勘破心魔的重宝 。",
+  "supernatural_ability": "具备“心斋”之妙，可让持有者“眼见影子，得见本心”，先天压制外魔 。",
+  "evolution": {
+    "current_form": "篆刻有“心”字与古诗的玉牌 。",
+    "materials_consumed": [
+      "清净道意"
+    ],
+    "potential_evolution": "中炼之后可稳固心境，辅助冲关破境 。"
+  },
+  "visual": {
+    "static": "质地通透，虬角云纹。正面篆刻“心”字，反面刻有“田边沟渠幽濛胧，门扉日月荡精魄” 。",
+    "active": "通过山水大门时会散发柔和的引导光芒，抵消阵法排斥 。"
+  },
+  "provenance": {
+    "origin": "道家一脉相传的修心法物 。",
+    "karma_link": "陈平安在北俱芦洲从武夫黄师处购得，后证明与云窟福地斋戒体系相关 。"
+  },
+  "enriched": true
+}

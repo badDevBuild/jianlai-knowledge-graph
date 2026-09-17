@@ -1,0 +1,50 @@
+{
+  "name": "白玉法簪",
+  "original_name": "道簪 / 年景",
+  "type": "灵物",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "看似平凡的白玉簪，实则是蛮荒第一高城“仙簪城”的本相。它不仅承载了远古道士的法统，更在陈平安 手中成为了守护剑气长城未来的重要空间载体 , 。",
+  "aliases": [
+    "道簪"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第857章 摧城",
+      "owner": "仙簪城开山祖师"
+    }
+  ],
+  "subtype": "辅助类 / 空间类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "世间第一位“道士”",
+      "relation": "原主"
+    },
+    {
+      "name": "仙尉",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "蕴含的大道造化足以在蛮荒天下演化为一座天下最高城 。",
+  "supernatural_ability": "内部开辟有一个独立的小洞天，名为“年景”，虽然辖境不大，但山水草木、屋舍器物一应俱全，且能遮 蔽天机 。",
+  "evolution": {
+    "current_form": "质地温润的普通白玉簪子 。",
+    "materials_consumed": [
+      "远古道根",
+      "时空法则"
+    ],
+    "potential_evolution": "在特定条件下可幻化为巍峨的仙簪城 。"
+  },
+  "visual": {
+    "static": "外表看起来只是一根寻常的白玉簪子，甚至有些陈旧 。",
+    "active": "当陈平安以神识沉浸其中，可开启小洞天门户，内部气象清爽，有一座微型斩龙崖 。"
+  },
+  "provenance": {
+    "origin": "源自远古天下十豪之一、世间第一位“道士”的随身之物 。",
+    "karma_link": "这枚道簪在蛮荒天下化为了仙簪城。其现世的“年景”分身被陈平安用于安置从剑气长城带出的九位剑仙 胚子 。"
+  },
+  "enriched": true
+}

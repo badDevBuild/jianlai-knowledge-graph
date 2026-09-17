@@ -1,0 +1,39 @@
+{
+  "name": "石狮子",
+  "original_name": "白玉狮子 / 镇宅神兽",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是顾璨在其州城新府邸安置的仙家重器。不同于寻常石狮，它们由白玉精雕而成，是顾氏一门在大骊 权势熏天的视觉化象征 。",
+  "aliases": [
+    "镇宅石兽"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第3章 日出",
+      "owner": "卢家"
+    }
+  ],
+  "subtype": "镇压类 / 傀儡类",
+  "holder": "顾璨",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "由仙家手笔打造，具备随宅邸气运升迁而开启更高灵智的潜力。",
+  "supernatural_ability": "“威慑邪祟”。这两尊狮子能压胜不详，其自身释放的仙家威严可令凡夫俗子与低阶鬼魅不敢靠近府邸半 步 。",
+  "evolution": {
+    "current_form": "蹲守在顾璨州城宅邸门口的两尊白玉狮子 。",
+    "materials_consumed": [
+      "州城地脉灵气"
+    ],
+    "potential_evolution": "若得金身点睛，可演化为镇守一方的护山傀儡。"
+  },
+  "visual": {
+    "static": "通体由白玉雕琢，通透无瑕，形态威严生动，气势夺人 。",
+    "active": "当有敌意者靠近，狮子会流露出一股金石肃杀之气，震慑心神 。"
+  },
+  "provenance": {
+    "origin": "大骊州城顶级匠人与仙家炼师联手打造。",
+    "karma_link": "见证了顾璨从泥瓶巷少年到书简湖小魔头的显赫地位转变 。"
+  },
+  "enriched": true
+}

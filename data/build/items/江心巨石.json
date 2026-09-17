@@ -1,0 +1,44 @@
+{
+  "name": "江心巨石",
+  "original_name": "天外飞石 / 敕鳞江大石",
+  "type": "材料",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "一块被古代高人以铁链钉死在江底的天外飞石，虽难以 开凿，却是极佳的聚拢气运之物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第899章 邻居",
+      "owner": "裴钱(搬运中)"
+    }
+  ],
+  "subtype": "重力/压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "敕鳞江采石署",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为天外陨铁的一种，若能彻底剥离其地脉铁链，可炼 制成镇压洲陆的法宝 。",
+  "supernatural_ability": "具有极其沉重的重力压胜，能够稳定方圆百里的水脉气 运，使江水不改道 。",
+  "evolution": {
+    "current_form": "屹立在江心、状如小山的巨石 。",
+    "materials_consumed": [
+      "天外飞铁",
+      "深海沉银"
+    ],
+    "potential_evolution": "可炼化为落魄山的“风水石”或“镇海物” 。"
+  },
+  "visual": {
+    "static": "色泽幽深，质地坚硬逾钢铁，表面有被水流冲刷出的古 老纹路 。",
+    "active": "当灵气贯注，巨石会发出类似金石鸣响，重压四周。"
+  },
+  "provenance": {
+    "origin": "位于旧虞氏王朝敕鳞江江心 。",
+    "karma_link": "崔东山因其材质特殊，建议陈平安买下并搬往仙都山作 为景观 。"
+  },
+  "enriched": true
+}

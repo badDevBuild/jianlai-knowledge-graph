@@ -1,0 +1,48 @@
+{
+  "name": "金瓜子",
+  "original_name": "赤金赏赐",
+  "type": "货币",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是小陌为了在浩然天下更好行走而备下的“零钱”，亦 体现了落魄山一种极具反差的豪横 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第884章 天下一词",
+      "owner": "小陌"
+    },
+    {
+      "chapter": "第888章 离京返乡",
+      "owner": "周米粒"
+    }
+  ],
+  "subtype": "消耗类",
+  "holder": "小陌 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "改艳",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽是世俗金银，但由于是大修士或神祇亲手炼制，可承 载微弱的香火情 。",
+  "supernatural_ability": "在小陌手中可作为打赏之物，因材质精纯且涉及大妖气 机，能作为某些低阶术法的引子 。",
+  "evolution": {
+    "current_form": "一把金光灿灿、形如瓜子的赤金颗粒 。",
+    "materials_consumed": [
+      "金元宝",
+      "仙家真气"
+    ],
+    "potential_evolution": "大量汇聚后可炼制为镇压宅邸的小型金身。"
+  },
+  "visual": {
+    "static": "小巧玲珑，色泽纯正，每一颗都带有明显的指捏痕迹（ 由改艳亲手揉捏） 。",
+    "active": "被丢出时带有微弱的金光，常用于解决山下的衣食琐事 。"
+  },
+  "provenance": {
+    "origin": "由大骊地支鬼修改艳为小陌量身定制 。",
+    "karma_link": "代表了小陌从蛮荒远古大妖向落魄山“随从”身份的入乡 随俗 。"
+  },
+  "enriched": true
+}

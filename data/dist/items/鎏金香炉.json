@@ -1,0 +1,51 @@
+{
+  "name": "鎏金香炉",
+  "original_name": "清德宗大隐仙修行香炉",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "此香炉虽然不是法宝品秩，但因其特殊的历史渊源（清德宗大隐仙遗物）而身价倍增，价值约一颗谷雨 钱 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第497章 我也会剑开天幕",
+      "owner": "唐锦绣 (购自陈平安)"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "唐锦绣",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "清德宗大隐仙",
+      "relation": "原主"
+    },
+    {
+      "name": "避暑娘娘",
+      "relation": "曾持有"
+    },
+    {
+      "name": "陈平安",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为清德宗上古真人的随身物，具有极高的道韵温养潜力，能辅助地仙以下修士冲击瓶颈。",
+  "supernatural_ability": "点燃山水香后，能帮助修道之人（包括鬼物精怪）迅速进入静气凝神、禅定坐忘之境 。",
+  "evolution": {
+    "current_form": "老旧的鎏金材质香炉 。",
+    "materials_consumed": [
+      "山水香"
+    ],
+    "potential_evolution": "若长期供奉于仙家祖师堂，可演化为镇压心魔的宗门重器。"
+  },
+  "visual": {
+    "static": "外表呈现出老旧的鎏金色彩，带有岁月的斑驳感 。",
+    "active": "点燃香火后，紫烟袅袅，香气能直接作用于修士神魂，使其灵台清明 。"
+  },
+  "provenance": {
+    "origin": "曾是北俱芦洲清德宗一位大隐仙年轻时的修行常伴之物 。",
+    "karma_link": "陈平安从鬼蜮谷剥落山避暑娘娘宝库中搜刮所得，后在铜臭城金粉坊卖给唐锦绣 。"
+  },
+  "enriched": true
+}

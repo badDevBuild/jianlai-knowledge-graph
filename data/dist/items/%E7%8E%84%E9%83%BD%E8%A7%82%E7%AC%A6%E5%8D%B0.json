@@ -1,0 +1,44 @@
+{
+  "name": "玄都观符印",
+  "original_name": "桃花又开印",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "玄都观符印（桃花又开）是道门剑仙一脉的代表性法宝。它承载了孙怀中的剑道真意，在中土神洲和宝 瓶洲战场上均展现过惊人的防御与镇压能力，是足以改变战局的大道重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第959章 一脚七境",
+      "owner": "孙怀中"
+    }
+  ],
+  "subtype": "镇压类 / 阵法类",
+  "holder": "曹溶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "孙怀中 (玄都观老观主)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道门剑仙一脉祖庭的信物，其威能随持有者的道法精进而无限提升 。",
+  "supernatural_ability": "“桃花再开”。具备极强的镇压与防御神通，能瞬间破除幻象，并为阵法增添多层稳固的天地禁制 。",
+  "evolution": {
+    "current_form": "一枚钤印在山水画册上的法印，印文为“桃花又开” 。",
+    "materials_consumed": [
+      "玄都观剑意",
+      "上古灵宝精华"
+    ],
+    "potential_evolution": "若印、剑合一，可演化出横跨一洲的巨型防御阵法 。"
+  },
+  "visual": {
+    "static": "印文法度森严且神意极长，显现出桃花盛开的绚烂意象 。",
+    "active": "激发时如漫天桃花飘落，每一片花瓣皆是凌厉剑气，能将一方天地化为剑气重地 。"
+  },
+  "provenance": {
+    "origin": "出自青冥天下大玄都观观主孙怀中之手 。",
+    "karma_link": "由孙怀中赠予曹溶，曾用于老龙城战场，增加了四层防御法衣，护住了整座大骊藩邸 。"
+  },
+  "enriched": true
+}

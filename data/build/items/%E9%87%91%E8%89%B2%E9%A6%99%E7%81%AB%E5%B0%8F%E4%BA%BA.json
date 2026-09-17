@@ -1,0 +1,47 @@
+{
+  "name": "金色香火小人",
+  "original_name": "文武双运金身小人",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这是落魄山最重要的家底之一。它不仅能帮助陈平安稳固魂魄，还是他身为“读书人”身份的大道体现， 曾在多次关键战役中作为心境的守门人 。",
+  "aliases": [
+    "金色香火小人"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第195章 镇剑楼",
+      "owner": "杨老头"
+    }
+  ],
+  "subtype": "守护类 / 功德类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "融合了骊珠洞天的文武两运，随陈平安功德积累可演化为稳固小天地的神灵法相 。",
+  "supernatural_ability": "**“巡狩小天地”**。能骑乘纯粹真气凝聚的火龙巡视气府，清扫魂魄深处的污秽杂质，并能凝聚山河气 运 。",
+  "evolution": {
+    "current_form": "约一指高、穿朱衣挂金书的金色小人 。",
+    "materials_consumed": [
+      "香火精华",
+      "浩然正气",
+      "金身碎片"
+    ],
+    "potential_evolution": "可作为合道天地的辅助手段，甚至在心相中开辟小千世界 。"
+  },
+  "visual": {
+    "static": "外貌神似陈平安，背剑挂经书，面容逐渐清晰，神色老气横秋 。",
+    "active": "在气府中骑龙巡狩时，金光灿烂，能够引动功德金光抵御天劫 。"
+  },
+  "provenance": {
+    "origin": "齐静春通过甲子教化，在骊珠洞天孕育出的文武气运结晶 。",
+    "karma_link": "连接着文圣一脉的传承，是陈平安修心路上的重要伙伴 。"
+  },
+  "enriched": true
+}

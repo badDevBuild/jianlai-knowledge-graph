@@ -1,0 +1,58 @@
+{
+  "name": "夜游剑",
+  "original_name": "太白剑尖",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安的**核心攻伐手段**之一。此剑因“太白”而生，在陈平安手中不仅是杀戮之器，更是他在人间黑 暗中**寻找公理与真相的指明灯** 。",
+  "aliases": [
+    "夜游"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第849章 那个一",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第874章 后手对后手",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第879章 动我心弦者",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1079章 人间半部书",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "白也",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "通过陈平安不断的拳意喂养与庚金精华淬炼，正逐步恢复其原本作为**顶级仙剑**的极致杀力 。",
+  "supernatural_ability": "继承了仙剑“太白”极致的**锋芒**，可轻易斩断世间法理与防御禁制 。",
+  "evolution": {
+    "current_form": "背负于青衫剑客身后的长剑 。",
+    "materials_consumed": [
+      "太白仙剑残片",
+      "龙君灰袍剑鞘"
+    ],
+    "potential_evolution": "若能寻齐其余太白碎片，可重现“诗无敌”的旷世风采 。"
+  },
+  "visual": {
+    "static": "剑身古朴，鞘口常有细微剑气溢出，剑柄被陈平安以左手习惯握持 。",
+    "active": "出鞘时“光亮如月”，剑气在夜幕中如同“持灯烛”前行，照耀万里 。"
+  },
+  "provenance": {
+    "origin": "由白也佩剑“太白”在扶摇洲一战崩碎后，陈平安所得最锋利的一截剑尖炼化而来 。",
+    "karma_link": "承载了白也的剑道传承与陈平安身为“剑客”的立身之本 。"
+  },
+  "enriched": true
+}

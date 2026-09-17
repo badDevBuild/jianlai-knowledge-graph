@@ -1,0 +1,48 @@
+{
+  "name": "定风波",
+  "original_name": "老蛟定风波玉牌",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这枚玉牌是陈平安的核心水法重器之一。它不仅是身份的象征，更是他在应对各种大江大河大妖时的最 后保障 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第768章 压压惊",
+      "owner": "春塘"
+    }
+  ],
+  "subtype": "镇压类 / 气运类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李柳",
+      "relation": "赠予者"
+    },
+    {
+      "name": "大山君魏檗",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "蕴含真龙级别的神性威压，对于天下所有走江化蛟的水裔有着天然的阶位压制 。",
+  "supernatural_ability": "“定风波”：能够平定一切由妖物引发的水患与狂风；能配合雷法印章镇杀孽龙恶蛟 。",
+  "evolution": {
+    "current_form": "翠绿欲滴的精致玉牌，铭文“老蛟定风波” 。",
+    "materials_consumed": [
+      "蛟龙之须",
+      "东海水运"
+    ],
+    "potential_evolution": "若能融入真龙精血，可进化为掌控一方大渎水权的“水监”玉牒 。"
+  },
+  "visual": {
+    "static": "色泽剔透，触手冰凉，表面隐约有龙纹游走 。",
+    "active": "激发时散发出古老深沉的龙威，光芒所及之处，浪潮平息，妖类拜伏 。"
+  },
+  "provenance": {
+    "origin": "由身负水神神性的李柳所赠，部分禁制由魏檗施展 。",
+    "karma_link": "见证了陈平安从书简湖回归后对水法权柄的进一步掌握 。"
+  },
+  "enriched": true
+}

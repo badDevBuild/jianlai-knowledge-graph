@@ -1,0 +1,45 @@
+{
+  "name": "金色拂尘",
+  "original_name": "拂尘",
+  "type": "灵物",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这柄**拂尘**（金色拂尘）是一件品秩极高的上等仙兵。其最大的特性是“不染”，即使长期处于阴冥之 地也能保持洁净，是极佳的护道至宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第633章 落座主位的那个年轻人",
+      "owner": "老真人"
+    }
+  ],
+  "subtype": "压胜类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "琼瓯",
+      "relation": "夺取自"
+    },
+    {
+      "name": "归灵湘",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "上等仙兵重宝，即便身处阴冥之地多年亦不沾染阴煞气息，潜力极深 。",
+  "supernatural_ability": "能够避开阴冥鬼差的视线，且不沾染阴煞污秽之气 。",
+  "evolution": {
+    "current_form": "由三千六百余根雪白丝线组成的拂尘",
+    "materials_consumed": [],
+    "potential_evolution": "炼化后可作为镇压宗门气运的重器"
+  },
+  "visual": {
+    "static": "绯紫色长木柄，由三千六百余根雪白丝线组成，衔有一枚小金环以缀拂子 。",
+    "active": "宝光流转，能够隔绝阴邪气息 。"
+  },
+  "provenance": {
+    "origin": "仙簪城开山祖师归灵湘的遗物 。",
+    "karma_link": "后流落至大妖琼瓯手中两千年，最终被陈平安收缴并打算赠予飞升城祖师堂 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,43 @@
+{
+  "name": "裁玉山",
+  "original_name": "散花滩道场",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "裁玉山不仅是竹枝派的祖业，更是陈平安通过分身陈旧 “观道”的重要场所，见证了正阳山势力的衰落 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1054章 也是故乡",
+      "owner": "正阳山 (名义买下) -> 竹枝派 (最终归还)"
+    }
+  ],
+  "subtype": "地理/道场类",
+  "holder": "郭惠风 (竹枝派)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "正阳山",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为邻近正阳山的关键山头，具有演化为剑阵阵眼的潜 力 。",
+  "supernatural_ability": "山中灵气浓郁，散花滩酒宴场景已被陈平安的分身详细 记录在册，融入其剑法天地 。",
+  "evolution": {
+    "current_form": "原属正阳山的藩属山头，现归还竹枝派 。",
+    "materials_consumed": [
+      "三十颗谷雨钱 (回购代价)"
+    ],
+    "potential_evolution": "可成为落魄山在一洲中部的战略支点 。"
+  },
+  "visual": {
+    "static": "山势奇峻，散花滩一带风景如画，常年云雾缭绕 。",
+    "active": "在陈平安的推演中，整座山的景象化作文字与词汇，支 撑其小千世界的逻辑运转 。"
+  },
+  "provenance": {
+    "origin": "宝瓶洲中部山脉，曾因正阳山扩张而被并入 。",
+    "karma_link": "郭惠风仅以三十颗谷雨钱便从竹皇手中买回此山，涉及 正阳山问剑后的妥协因果 。"
+  },
+  "enriched": true
+}

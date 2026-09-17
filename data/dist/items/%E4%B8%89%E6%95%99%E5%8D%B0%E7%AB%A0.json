@@ -1,0 +1,52 @@
+{
+  "name": "三教印章",
+  "original_name": "三教祖师私章 / 道经师宝印",
+  "type": "法宝",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是曹溶通过私人香火情求来的重宝，集齐了道教最高层级的认可。每一枚印章都代表了一位十四境大 修士的本心与道力，具有不可思议的压胜威能 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第184章 别有洞天",
+      "owner": "李希圣"
+    }
+  ],
+  "subtype": "镇压类 / 封禁类",
+  "holder": "曹溶",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "寇名",
+      "relation": "原主"
+    },
+    {
+      "name": "余斗",
+      "relation": "原主"
+    },
+    {
+      "name": "陆沉",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为三教道统权柄的象征，其神意高度随天地规矩的演变而永恒固化 。",
+  "supernatural_ability": "**“镇压万法”**。钤印之后可化为重重天地阵法禁制，如在老龙城一战中，曹溶以此增加了四层禁制屏 障，稳固山河气运 。",
+  "evolution": {
+    "current_form": "钤印在《山水花鸟册》中的一组印蜕。",
+    "materials_consumed": [
+      "三教文运",
+      "大道真意"
+    ],
+    "potential_evolution": "可脱离画册化为实体法印，直接敕令诸天神灵 。"
+  },
+  "visual": {
+    "static": "包含“道经师”、“文有第一，武无第二”、“石至如今”等印文，字迹法度严谨，神意极长 。",
+    "active": "激活时宝光冲霄，印文如金色星辰落地，瞬间重塑一方小世界的秩序 。"
+  },
+  "provenance": {
+    "origin": "由白玉京三位掌教及玄都观孙怀中等人亲手刻制 。",
+    "karma_link": "承载了青冥天下白玉京的法统，是曹溶护身保命的最高底牌 。"
+  },
+  "enriched": true
+}

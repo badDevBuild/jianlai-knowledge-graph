@@ -1,0 +1,41 @@
+{
+  "name": "流星锤",
+  "original_name": "天外流星锤",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这两枚流星锤看似是小巧的配饰，实则是杀力巨大的仙家兵器 。它们融合了星辰的纯粹密度与坠地冲力，是金甲神将在战场上最令人生畏的杀招 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第786章 那就打",
+      "owner": "金甲神将(蛮荒)"
+    },
+    {
+      "chapter": "第843章 共斩蛮荒",
+      "owner": "金甲骑士"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "金甲神将",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "取材自真实的天外流星，具备极高的硬度与纯粹的撞击力 。",
+  "supernatural_ability": "能够引动天外坠落之势，锤头虽小却重若千钧，击中目标时会引发类似流星坠地的剧烈爆炸 。",
+  "evolution": {
+    "current_form": "挂在腰间的两枚袖珍流星锤 。",
+    "materials_consumed": [
+      "天外陨星精华"
+    ],
+    "potential_evolution": "未知。"
+  },
+  "visual": {
+    "static": "外形如稚童玩耍的袖珍物件，色泽深邃，隐约可见星辰纹路 。",
+    "active": "掷出后瞬间变大，拖曳出长长的尾光，如同真实的流星划破夜空 。"
+  },
+  "provenance": {
+    "origin": "由一位无名金甲神将截获并炼化两颗坠入蛮荒的天外流星而成 。",
+    "karma_link": "曾被避暑行宫隐官一脉列为必杀妖族的携带之物，足见其威胁程度 。"
+  },
+  "enriched": true
+}

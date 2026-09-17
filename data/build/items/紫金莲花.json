@@ -1,0 +1,44 @@
+{
+  "name": "紫金莲花",
+  "original_name": "福地本源莲",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是落魄山提升福地品秩最重要的成果。它不仅是美景，更是福地天地规则与灵气循环的具象化核心 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第730章 万事俱备只欠风雪",
+      "owner": "落魄山"
+    }
+  ],
+  "subtype": "气运/本源类",
+  "holder": "莲藕福地（落魄山）",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "播种者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为福地品秩提升后的核心产物，随福地水运壮大而有望成为仙兵级灵根 。",
+  "supernatural_ability": "能够通过花开花落调节福地的灵气浓度，并滋养福地众生的修道资质 。",
+  "evolution": {
+    "current_form": "扎根于福地中心湖泊、含苞待放的紫金莲花 。",
+    "materials_consumed": [
+      "海量谷雨钱",
+      "精粹水运"
+    ],
+    "potential_evolution": "全开之时可造就出“禾下乘凉”的盛世仙境 。"
+  },
+  "visual": {
+    "static": "花苞巨大，色泽紫金交织，片片荷叶大如数亩地 。",
+    "active": "随风摇曳时，会散发出阵阵紫金道气，灵气浓郁如云雾 。"
+  },
+  "provenance": {
+    "origin": "由崔东山利用多枚谷雨钱与多种水法至宝，在福地中心种子生发而成 。",
+    "karma_link": "是落魄山将莲藕福地打造成核心财源与人才库的关键布局 。"
+  },
+  "enriched": true
+}

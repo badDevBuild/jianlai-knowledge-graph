@@ -1,0 +1,45 @@
+{
+  "name": "四把仙剑",
+  "original_name": "太白、道藏、万法、天真",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "四把仙剑是整个《剑来》战力体系的金字塔尖。它们不仅是杀伐利器，更是剑道精神的最高图腾，每一 把剑的易主或出鞘都意味着世界秩序的剧烈重组 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第588章 天下剑术天上来",
+      "owner": "多方势力"
+    },
+    {
+      "chapter": "第789章 持剑者",
+      "owner": "无（天地孕育/持剑者炼化）"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "白也、余斗、赵天籁、宁姚",
+  "holder_relation": "认主 / 寄托",
+  "previous_holders": [
+    {
+      "name": "孙怀中 (太白借予者)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为诸天万界剑道法统的显学代表，已达器物杀力的极致 。",
+  "supernatural_ability": "每把仙剑均自带一位战力等同于飞升境的剑灵。具备一剑劈开大世界、斩落王座大妖的无上威能 。",
+  "evolution": {
+    "current_form": "四把风格迥异的远古神剑 。",
+    "materials_consumed": [],
+    "potential_evolution": "代表了剑道“一”的演化，是合道更高境界的凭证 。"
+  },
+  "visual": {
+    "static": "外观各异，如太白剑光如雪，天真剑意含蓄 。",
+    "active": "出鞘时剑气冲斗牛，能一举破开多重天下禁制，令众生俯首 。"
+  },
+  "provenance": {
+    "origin": "分别发轫于道门、儒家及剑气长城的远古法统 。",
+    "karma_link": "这四把剑的归属与齐聚，直接影响到几座天下的气运分配与最终胜负 。"
+  },
+  "enriched": true
+}

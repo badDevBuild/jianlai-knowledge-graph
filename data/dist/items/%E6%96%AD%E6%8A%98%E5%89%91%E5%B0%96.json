@@ -1,0 +1,44 @@
+{
+  "name": "断折剑尖",
+  "original_name": "太白剑尖",
+  "type": "仙剑",
+  "grade": "未知",
+  "status": "损毁",
+  "description": "这是白也遗留在人间的最后锋芒。它在陈平安手中被大 炼为“夜游”，是落魄山最强的杀伐底牌。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第965章 猜先",
+      "owner": "张风海"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "白也",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为当世杀力最高的剑器碎片，随陈平安跻身仙人，可 展现一剑开天之威。",
+  "supernatural_ability": "继承了仙剑“太白”极致的锋芒，能无视十四境之下的所 有防御禁制。",
+  "evolution": {
+    "current_form": "陈平安手中的本命飞剑“夜游”。",
+    "materials_consumed": [
+      "仙剑太白碎片",
+      "剑客的一往无前"
+    ],
+    "potential_evolution": "若能与其余三截碎片重聚，可重现人间最得意之剑。"
+  },
+  "visual": {
+    "static": "只有一截短小的铁片，光华黯淡，却透着股令人胆寒的 凉意。",
+    "active": "递剑时如白虹贯日，剑光太白，照亮一洲山河。"
+  },
+  "provenance": {
+    "origin": "源自白也崩碎的仙剑“太白”。",
+    "karma_link": "白也兵解后选择将其赠予陈平安，认可其为剑客同道。"
+  },
+  "enriched": true
+}

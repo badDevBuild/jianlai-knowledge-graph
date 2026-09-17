@@ -1,0 +1,44 @@
+{
+  "name": "蒲扇",
+  "original_name": "老旧蒲扇",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安在落魄山竹楼或是远游休息时的常备物品 。它代表了《剑来》中凡俗生活与神仙修行的辩证 统一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1028章 桃李春风一杯酒",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "生活/修行类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "朱敛",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "随持有人心境提升，可成为“清风徐来”的悟道法具 。",
+  "supernatural_ability": "虽为凡物，却能平复修士心火，在酷暑中保持灵台清明 。",
+  "evolution": {
+    "current_form": "普普通通的泛黄蒲扇 。",
+    "materials_consumed": [
+      "山中草木",
+      "岁月烟火气"
+    ],
+    "potential_evolution": "可吸收修士气息，演化为“一扇驱暑”的灵器 。"
+  },
+  "visual": {
+    "static": "纹路粗糙，甚至有破损痕迹，常见于陈平安躺椅之上 。",
+    "active": "摇动间带起轻柔山风，与周围山水气象浑然一体 。"
+  },
+  "provenance": {
+    "origin": "市井坊间最为常见的避暑工具 。",
+    "karma_link": "象征着陈平安在修行巅峰依旧保持的“泥腿子”本色与平 常心 。"
+  },
+  "enriched": true
+}

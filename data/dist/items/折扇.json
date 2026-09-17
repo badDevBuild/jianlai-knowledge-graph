@@ -1,0 +1,84 @@
+{
+  "name": "折扇",
+  "original_name": "玉竹折扇 / 晏家铺子折扇",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这些折扇是陈平安在剑气长城“经营人心”的成功尝试。它们不仅深受女修青睐，更成为了**剑仙意气与 书生儒雅**的结合体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第106章 鱼龙混杂",
+      "owner": "年轻店主"
+    },
+    {
+      "chapter": "第411章 我要再想一想",
+      "owner": "崔东山"
+    },
+    {
+      "chapter": "第482章 另一个朱敛",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第510章 前辈我让你三拳吧",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第512章 出剑与否",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第598章 一拳就倒二掌柜",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第626章 新一任隐官",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第628章 万一",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第640章 愿挽天倾者请起身",
+      "owner": "郑大风"
+    },
+    {
+      "chapter": "第659章 居中武夫",
+      "owner": "崔东山"
+    },
+    {
+      "chapter": "第796章 不浩然",
+      "owner": "范清润"
+    }
+  ],
+  "subtype": "攻伐类 / 收藏类",
+  "holder": "陈平安 / 剑气长城众人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "晏家绸缎铺子",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随着陈平安对扇面文字的感悟加深，可演化为**“言出法随”**的文道法器 。",
+  "supernatural_ability": "**“剑意回响”**。扇面题款往往包含大剑仙的剑意或圣贤哲理，摇动间可平复心境，甚至具有**水法神 通** 。",
+  "evolution": {
+    "current_form": "玉竹扇骨，配以精美扇面，题有蝇头小楷 。",
+    "materials_consumed": [
+      "上等玉竹",
+      "大剑仙墨宝"
+    ],
+    "potential_evolution": "可作为**“次一等真迹”**，成为镇压山头风月的重器 。"
+  },
+  "visual": {
+    "static": "质感温润，扇面上字迹法度严谨，极见功力 。",
+    "active": "打开时金光微漾，文字仿佛会跃然于清风之中 。"
+  },
+  "provenance": {
+    "origin": "由陈平安在剑气长城时期亲自题款、雕琢 。",
+    "karma_link": "连接着剑气长城剑仙的**风流气概**与落魄山的文雅门风 。"
+  },
+  "enriched": true
+}

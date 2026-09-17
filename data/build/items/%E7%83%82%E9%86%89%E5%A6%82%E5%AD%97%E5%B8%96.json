@@ -1,0 +1,45 @@
+{
+  "name": "烂醉如字帖",
+  "original_name": "《烂醉如泥贴》",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一幅极其珍稀的字帖，其价值不在于文字本身，而在于它承载的真实水运与奇特精魅 。它是水属修道之人梦寐以求的至宝，能化虚为实，演变出一方大湖天地 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第805章 白衣与青衫",
+      "owner": "老秀才"
+    }
+  ],
+  "subtype": "水法类 / 意境类",
+  "holder": "老秀才",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李邺侯 (皎月湖水君)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为文庙圣贤推崇的重宝，其内蕴水运可支撑起一座庞大的水系道场 。",
+  "supernatural_ability": "字帖本身可视为一座水运浓郁的六百里大湖 。字帖中豢养有极其稀罕的“酒泥”精魅，在水则活，出水则醉，能吐出源源不断的顶级酒酿 。",
+  "evolution": {
+    "current_form": "上书“烂醉如”三字的名贵字帖 。",
+    "materials_consumed": [
+      "名贵水纹宣纸",
+      "酒泥精魅",
+      "大湖水运"
+    ],
+    "potential_evolution": "炼化后可作为蛟龙之属极佳的修道之地 。"
+  },
+  "visual": {
+    "static": "采用特殊的水纹宣纸，纸上散发着经久不散的醇厚酒气 。",
+    "active": "字帖上的文字仿佛在水中游曳，墨迹流动如活物 。"
+  },
+  "provenance": {
+    "origin": "源自皎月湖水府的秘藏 。",
+    "karma_link": "由李邺侯作为贺礼送给恢复文庙神位的老秀才 。"
+  },
+  "enriched": true
+}

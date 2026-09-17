@@ -1,0 +1,44 @@
+{
+  "name": "玉芝如意",
+  "original_name": "白玉灵芝 / 云水如意",
+  "type": "半仙兵",
+  "grade": "凡物",
+  "status": "损毁",
+  "description": "这是一件极尽仙气的道门重宝。其铭文“千年莹澈无瑕 之人，百世芝兰幽香之家”正是对持有者修道心境的高度 期许 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1206章 天壤间",
+      "owner": "黄连"
+    }
+  ],
+  "subtype": "防御/身法类",
+  "holder": "陈平安 (暂借分身)",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "云杪 (九真仙馆)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "承载了“白世芝兰幽香”的道门正统气数，有望演化为号 令云水的符节 。",
+  "supernatural_ability": "铭文蕴藉道意，辅助持有人进入“云水身”境地，身法变 幻莫测，如人过云水了无痕 。",
+  "evolution": {
+    "current_form": "质地莹澈、宝光内敛的白玉灵芝，刻有十一字铭文 。",
+    "materials_consumed": [
+      "九真仙馆秘藏道韵",
+      "千年玉髓"
+    ],
+    "potential_evolution": "可大炼为支撑起一座“水精境界”小天地的核心。"
+  },
+  "visual": {
+    "static": "洁白无暇，散发着沁人心脾的幽香，文字隐约有虹光流 转 。",
+    "active": "激发时会产生浓郁的紫金道气，修士身形随之虚化，化 作云烟远遁 。"
+  },
+  "provenance": {
+    "origin": "九真仙馆祖传宝物，后因鸳鸯渚之战赔礼赠予陈平安 。",
+    "karma_link": "陈平安以此物作为其仙风道骨分身的重要装饰，用以迷 惑强敌 。"
+  },
+  "enriched": true
+}

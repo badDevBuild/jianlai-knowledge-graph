@@ -1,0 +1,48 @@
+{
+  "name": "鬼道秘籍",
+  "original_name": "秘书灵笈 / 云窟福地遗书",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一部极其鸡肋却也极其珍稀的秘籍，虽仅限鬼修研习，但其在鬼道一途的地位极高，是曾掖从书生 书童转变为一宗之主的关键依仗 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1017章 又与谁问梅花消息",
+      "owner": "曾掖"
+    }
+  ],
+  "subtype": "修行类 / 鬼道秘法",
+  "holder": "曾掖",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云窟福地姜氏先祖",
+      "relation": "原主"
+    },
+    {
+      "name": "姜尚真",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "被誉为“可为鬼道中别开一法门”的至宝，其修行上限可达鬼仙境界 。",
+  "supernatural_ability": "记载有极其深奥的鬼物修行路径，可让鬼修打破阴阳界限，甚至具备在白昼行走的能力 。",
+  "evolution": {
+    "current_form": "一部古色古香的纸质书籍，由姜尚真重新题字 。",
+    "materials_consumed": [
+      "云窟福地道韵",
+      "阴冥灵气精华"
+    ],
+    "potential_evolution": "随曾掖修为精进，可演化为支撑“五岛派”这一鬼道宗门的根本法统 。"
+  },
+  "visual": {
+    "static": "书页泛黄，墨迹深沉，其上文字仿佛带有某种牵引神魂的魔力 。",
+    "active": "研习时，书页间会有阴冷而纯净的灵气流转，显化出各种奇诡的修行图景 。"
+  },
+  "provenance": {
+    "origin": "姜尚真先祖得自云窟福地的远古遗物 。",
+    "karma_link": "经由姜尚真之手赠予曾掖，助其在书简湖乱世中开山立派 。"
+  },
+  "enriched": true
+}

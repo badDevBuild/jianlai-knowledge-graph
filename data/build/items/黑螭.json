@@ -1,0 +1,38 @@
+{
+  "name": "黑螭",
+  "original_name": "黑螭",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "李退密的另一把本命飞剑，与白蛟合称“双蛟”，是剑气长城著名的杀伐利器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第617章 谁能与宁姚般配",
+      "owner": "李退密"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "李退密",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "仙人境剑修本命飞剑，与白蛟相辅相成 。",
+  "supernatural_ability": "祭出后如同一条百丈黑螭蛟龙，在战场上肆意翻卷绞杀敌军 。",
+  "evolution": {
+    "current_form": "百丈黑螭形态的剑光 。",
+    "materials_consumed": [
+      "阴冥水气",
+      "剑意"
+    ],
+    "potential_evolution": "与“白蛟”共同构建双龙戏珠的剑道格局 。"
+  },
+  "visual": {
+    "static": "剑身漆黑，剑气阴沉 。",
+    "active": "显化为百丈黑螭，气势威严，绞杀力极强 。"
+  },
+  "provenance": {
+    "origin": "李退密本命孕育 。",
+    "karma_link": "随主人镇守剑气长城多年 。"
+  },
+  "enriched": true
+}

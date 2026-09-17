@@ -1,0 +1,38 @@
+{
+  "name": "桐柏道场",
+  "original_name": "金桐道场 / 翥州羽客治所",
+  "type": "其他",
+  "grade": "洞天",
+  "status": "活跃",
+  "description": "这是青冥天下极负盛名的修行圣地。其主“翥州羽客”地 位尊崇，道场本身承载了极其深厚的道家法统 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1210章 劫道",
+      "owner": "韩昼锦"
+    }
+  ],
+  "subtype": "道场/传承类",
+  "holder": "翥州羽客 / 某位得道真君",
+  "holder_relation": "寄托",
+  "rank": "法宝",
+  "rank_potential": "作为青冥天下著名的道教名山，具备演化为“一洲祖庭” 的潜力 。",
+  "supernatural_ability": "道场内仙气充沛，常有羽客仙鹤盘旋。具备极强的山水 压胜力与教化文运 。",
+  "evolution": {
+    "current_form": "矗立于翥州、建筑宏丽的道教洞府群落 。",
+    "materials_consumed": [
+      "万年山根气数",
+      "纯正道门香火"
+    ],
+    "potential_evolution": "可升格为与白玉京遥相呼应的“地上仙城”。"
+  },
+  "visual": {
+    "static": "云雾缭绕，群山拥翠，处处可见远古篆文的崖刻榜书 。",
+    "active": "庆典时会有五彩祥云汇聚，钟鼓齐鸣，声闻百里 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代某位上仙的得道之地 。",
+    "karma_link": "与陈平安未来问剑青冥天下的因果路径有隐秘关联 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "大日",
+  "original_name": "耀耀荧荧之日 / 天外日月",
+  "type": "灵物",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "在《剑来》中，大日不仅是自然景象，更是火属灵气与 神性的终极载体。白景（谢狗）对其有着极高的偏好， 将其视为修行的最高目标 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1130章 有个不用回答的问题",
+      "owner": "曾属谢狗"
+    }
+  ],
+  "subtype": "本源/道场类",
+  "holder": "谢狗 / 远古火部神灵",
+  "holder_relation": "寄托",
+  "rank": "仙兵",
+  "rank_potential": "作为纯阳之气的极致，具备演化为巡天金乌或镇压万古 长夜的威力 。",
+  "supernatural_ability": "具备极高的品秩，可被大修士观想为道场，或炼化为能 够焚尽万物的本命物 。",
+  "evolution": {
+    "current_form": "天外太虚中悬浮的巨大恒星，或谢狗观想出的袖珍大日 。",
+    "materials_consumed": [
+      "日精",
+      "地脉龙气"
+    ],
+    "potential_evolution": "可被炼化为火部至高神灵的权柄象征 。"
+  },
+  "visual": {
+    "static": "在远古时代表现为天幕中的主要光源，金光四射 。",
+    "active": "在小天地中显化时，如一轮山头大小的灼热光球，能让 方圆百里气机沸腾 。"
+  },
+  "provenance": {
+    "origin": "源自宇宙初开时的阳气结晶 。",
+    "karma_link": "谢狗心心念念的道场所在地，象征其追求极致杀力的志 向 。"
+  },
+  "enriched": true
+}

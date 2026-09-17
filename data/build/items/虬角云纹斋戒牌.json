@@ -1,0 +1,48 @@
+{
+  "name": "虬角云纹斋戒牌",
+  "original_name": "道门斋心牌",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "一块含有远古仙兵道意的修心重宝，被老观主严令只能中炼而不可大炼。在陈平安的修道路上，它是守 住“本心”的关键器物。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第546章 剑客行事",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1119章 二十人与候补们（上）",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "修心/防御类",
+  "holder": "陈平安",
+  "holder_relation": "中炼 (木宅辅助物)",
+  "previous_holders": [
+    {
+      "name": "黄师",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "虽破碎不全，但因其承载仙兵级道意，中炼后可稳固心境，防范天魔。",
+  "supernatural_ability": "让修道之人“眼见影子，得见本心”，极大提升对抗外魔侵扰的能力。",
+  "evolution": {
+    "current_form": "一块雕有虬角云纹、印有“心”字的碧绿木牌。",
+    "materials_consumed": [
+      "纯净灵气",
+      "心头真灵"
+    ],
+    "potential_evolution": "陈平安将其炼入木宅气府，作为降伏心猿意马的“压门镜”。"
+  },
+  "visual": {
+    "static": "材质似碧玉似美木，反面刻有“田边沟渠幽濛胧，门扉日月荡精魄”。",
+    "active": "激发时散发温润道光，映照修士识海，使心湖如镜。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲武夫黄师在访山寻宝后赠予陈平安。",
+    "karma_link": "由老道人桓云初步鉴定，后经老观主指点其“中炼”之法。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "粉红道袍",
+  "original_name": "柳道醇法袍 / 琉璃阁主衣",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是柳赤诚（柳道醇）最著名的视觉标志。虽然颜色荒唐，却是一件品秩极高的护身重宝，象征着白帝 城那份不讲道理的强大与随心所欲 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1048章 此间山水如贼窟",
+      "owner": "柳赤诚"
+    }
+  ],
+  "subtype": "防御类 / 伪装类",
+  "holder": "柳赤诚",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "白帝城",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为白帝城的重要器物，具备承载顶级防御阵法并不断汲取山水灵气的潜力 。",
+  "supernatural_ability": "万法不侵。袍身能够自动卸去绝大部分术法冲击，并具备极佳的障眼法效果，使持有者在山上招摇过市 而不受干扰 。",
+  "evolution": {
+    "current_form": "一件色泽极其扎眼、极具辨识度的粉红色道袍 。",
+    "materials_consumed": [
+      "白帝城琉璃丝",
+      "珍稀染料精华"
+    ],
+    "potential_evolution": "配合特定的梳妆镜法宝，可演化为能幻化万千法相的顶级宝衣 。"
+  },
+  "visual": {
+    "static": "颜色极其艳丽，质地丝滑且带有内敛的光泽，处处透着一股不俗的仙气 。",
+    "active": "遭受攻击时会泛起粉色宝光，云纹似水流转，化解敌方的道道气机 。"
+  },
+  "provenance": {
+    "origin": "出自中土神洲白帝城，是郑居中师弟柳赤诚的标配 。",
+    "karma_link": "见证了柳赤诚在宝瓶洲与北俱芦洲各大山头的“作妖”历程 。"
+  },
+  "enriched": true
+}

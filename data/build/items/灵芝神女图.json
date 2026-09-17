@@ -1,0 +1,47 @@
+{
+  "name": "灵芝神女图",
+  "original_name": "壁画城神女图之一",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**灵芝神女图**象征长寿与如意，是修道之人极为看重的清供灵物，对稳固人身小天地气象有微妙益处 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第486章 不愧是老江湖",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第893章 下棋",
+      "owner": "无（赠予霁山府）"
+    }
+  ],
+  "subtype": "传承类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "庞兰溪",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "蕴含福德与生机，是辅助修行、稳固道心的佳品 。",
+  "supernatural_ability": "图中神女怀捧一支灵芝如意，具有祥瑞之气，可辅助修士入定修行 。",
+  "evolution": {
+    "current_form": "硬黄本白描画卷 。",
+    "materials_consumed": [
+      "文运浸染"
+    ],
+    "potential_evolution": "可演化为具有实体灵性的辅助修炼法宝 。"
+  },
+  "visual": {
+    "static": "神女怀抱灵芝，神态安详，线条流畅，具有典型的远古壁画风格 。",
+    "active": "展开时室内异香扑鼻，灵气盎然，使人神清气爽 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲骸骨滩壁画城 。",
+    "karma_link": "因陈平安在庞家府邸提出的“肺腑之言”触动了庞兰溪曾祖父，获赠此图 。"
+  },
+  "enriched": true
+}

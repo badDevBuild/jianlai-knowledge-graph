@@ -1,0 +1,56 @@
+{
+  "name": "抄手砚",
+  "original_name": "星宿抄手砚 / 日月同壁砚",
+  "type": "方寸物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "落魄山最具文气与杀力的方寸重宝。它不仅是文房珍玩，更是陈平安用来进行精密推演与储存战略资源 的枢纽。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第611章 风将起",
+      "owner": "郭竹酒"
+    },
+    {
+      "chapter": "第791章 横着走",
+      "owner": "眉山剑宗女子剑修"
+    },
+    {
+      "chapter": "第836章 火神求火",
+      "owner": "关翳然"
+    }
+  ],
+  "subtype": "空间/文房类",
+  "holder": "郭竹酒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "郑居中",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "内部空间极为稳固，能够承载金精铜钱这等重宝，具备演化为小洞天的潜力。",
+  "supernatural_ability": "砚背凿有眼柱，契合二十八星宿排列方式，能稳固神魂并辅助修士推演天机。",
+  "evolution": {
+    "current_form": "一方碧绿莹润、形制古朴的日月同壁抄手砚。",
+    "materials_consumed": [
+      "金精铜钱",
+      "星辰精华"
+    ],
+    "potential_evolution": "炼化后可成为一座真实存在的“星宿洞天”。"
+  },
+  "visual": {
+    "static": "质地细腻如玉，背面眼柱星罗棋布，每一根眼柱都隐约对应天上星位。",
+    "active": "开启时会产生阵阵灵气涟漪，星光流转，如同一幅微缩的宇宙图景。"
+  },
+  "provenance": {
+    "origin": "由白帝城城主郑居中赠予陈平安，用于盛放那数百颗金精铜钱。",
+    "karma_link": "承载了白帝城与陈平安之间的大道因果，后作为嫡传信物传给郭竹酒。"
+  },
+  "enriched": true
+}

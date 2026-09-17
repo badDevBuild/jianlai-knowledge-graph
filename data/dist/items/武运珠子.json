@@ -1,0 +1,42 @@
+{
+  "name": "武运珠子",
+  "original_name": "灵气珠子 / 道气珠子",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是白景在天外战场“捡钱”的战利品。她将汹涌的灵气大潮暂时归拢并凝练为实物，其品质之高足以作 为未来天下大势变动时的战略物资 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第466章 收武运吃珠子",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第560章 晨钟暮鼓无那炊烟",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "补益类 / 气运类",
+  "holder": "白景 (谢狗)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "这些珠子是直接从天外灵气大潮中凝练而成的精粹，蕴含极高的能量密度 。",
+  "supernatural_ability": "珠子分为灵气与道气两种，大珠小珠落玉盘，响声清脆悦耳 。",
+  "evolution": {
+    "current_form": "精粹至极的彩色珠子 。",
+    "materials_consumed": [
+      "天外灵气大潮",
+      "散乱道气"
+    ],
+    "potential_evolution": "可被高位修士直接炼化吸收，或作为阵法、重宝的动力核心 。"
+  },
+  "visual": {
+    "static": "通常存放在白玉盘中，呈现出晶莹剔透的光泽 。",
+    "active": "当修士在其中修炼时，会散发出浓郁的道韵气机 。"
+  },
+  "provenance": {
+    "origin": "白景在天外战场通过秘法采集、归拢灵气大潮后一分为二凝练而成 。",
+    "karma_link": "见证了落魄山成员参与天外合力阻拦蛮荒天下的壮举 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,56 @@
+{
+  "name": "青神山酒",
+  "original_name": "天下头等仙酿",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗品",
+  "description": "**青神山酒**被誉为**浩然天下第一仙酿** 。陈平安通过与青神山夫人的关系，获得了高品秩酒水，不仅作为酒铺的压箱底货，更是他**广结善 缘**的重要筹码 。",
+  "aliases": [
+    "竹海洞天酒",
+    "青神山酒酿",
+    "青神山酒水"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第582章 唯有饮者留其名",
+      "owner": "酒铺"
+    },
+    {
+      "chapter": "第585章 请与我陈平安共饮酒",
+      "owner": "魏晋"
+    },
+    {
+      "chapter": "第919章 只是朱颜改",
+      "owner": "袁宣/柳勖"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "陈平安 / 各大剑仙",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青神山夫人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为公认的天下第一仙酿，可助益上五境修士破境 。",
+  "supernatural_ability": "一口酒可抵百年苦修，能洗涤神魂，极大增强水属亲和力 。",
+  "evolution": {
+    "current_form": "酒质清亮如水，倒入杯中自生异象 。",
+    "materials_consumed": [
+      "竹海洞天精华",
+      "青神山露水"
+    ],
+    "potential_evolution": "传说中道祖曾以之浇灌，可令凡胎瞬间开窍 。"
+  },
+  "visual": {
+    "static": "装于剔透瓶中，带有竹香与草木清馨 。",
+    "active": "饮用时如见竹林风起，云海翻涌，令人飘然若仙 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲竹海洞天青神山 。",
+    "karma_link": "是社交场合的顶级重礼，象征着最深厚的山上缘分 。"
+  },
+  "enriched": true
+}

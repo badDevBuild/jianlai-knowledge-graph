@@ -1,0 +1,48 @@
+{
+  "name": "幽绿飞剑",
+  "original_name": "十五 / 碧玉短剑",
+  "type": "本命飞剑",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是陈平安最早获得的本命飞剑之一。它不仅为陈平安提供了早期稀缺的储物空间（方寸之地），更以 极致的速度契合了陈平安“快”的剑意根本。 , , ,",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第507章 如神祇高坐",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第576章 拳与飞剑我皆有",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间/攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "具有极高的成长性，可随主人的剑道境界提升速度与空间广度。",
+  "supernatural_ability": "兼具本命飞剑与方寸物功能，出剑极致快速且隐蔽，可斩断因果或隐匿气息。",
+  "evolution": {
+    "current_form": "长不过寸余、晶莹剔透的幽绿碧玉短剑。",
+    "materials_consumed": [
+      "金精铜钱",
+      "斩龙石"
+    ],
+    "potential_evolution": "大炼成功后可与主人荣辱与共，真正做到一剑破万法。"
+  },
+  "visual": {
+    "static": "通体幽绿，质感如春水柳叶，常藏于朱红养剑葫内。",
+    "active": "祭出时化作一抹幽绿剑光，速度快到令对手猝不及防，在空中拖曳出纤细如绳的光彩。"
+  },
+  "provenance": {
+    "origin": "由药铺杨老头以白玉簪子为交换赠送。",
+    "karma_link": "它是陈平安“初一十五”双剑组合之一，见证了其从窑工到剑修的转变。"
+  },
+  "enriched": true
+}

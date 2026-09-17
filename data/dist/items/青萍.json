@@ -1,0 +1,58 @@
+{
+  "name": "青萍",
+  "original_name": "尚未取名的第三把青色飞剑 / 萍",
+  "type": "本命飞剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "陈平安作为“末代隐官”的核心证道基石。它不仅是杀伐利刃，更是他在破碎命运中重塑“本我”的象征， 承载了剑气长城的万年因果 。",
+  "aliases": [
+    "第三把飞剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1160章 第三把飞剑",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1173章 就酒",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1181章 合龙",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1214章 天地通",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类 / 因果类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "陈清都",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为承载大妖真名并与半座剑气长城合道的关键，其品秩随陈平安的大道进阶而无限提升 。",
+  "supernatural_ability": "“合道因果”。承载妖族真名，能够压制神性，并与飞升城产生灵智感应 。",
+  "evolution": {
+    "current_form": "一柄青色飞剑，与飞升城产生了类似灵智元婴的感应 。",
+    "materials_consumed": [
+      "大妖真名",
+      "剑气长城气运"
+    ],
+    "potential_evolution": "成为主宰一座天下杀伐的“官子”之剑 。"
+  },
+  "visual": {
+    "static": "在陈平安眉心或气府中呈现为一抹青色流光 。",
+    "active": "祭出时如灯火初亮，瞬间化作金色长线，可笔直劈开任何大道屏障 。"
+  },
+  "provenance": {
+    "origin": "源自飞升城与剑气长城的最后意志 。",
+    "karma_link": "名字取自老大剑仙本命飞剑“浮萍”之首字，象征薪火相传 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "精炼长槊",
+  "original_name": "长槊",
+  "type": "匠器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是大骊王朝为了应对蛮荒妖族，在大渎战场大规模配备的山上兵器之一。它结合了兵家的杀伐真意与 墨家的机械工艺，是世俗军队抗衡山上修士的重要依靠 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第426章 南下",
+      "owner": "绣花江水神"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "大骊边军或金甲神人",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随主人的煞气与武运增长而变强",
+  "supernatural_ability": "具备破阵与穿刺术法的能力，其势沉重如山",
+  "evolution": {
+    "current_form": "经由墨家机关师精炼而成的长柄重型兵器",
+    "materials_consumed": [
+      "精铁",
+      "兵家煞气"
+    ],
+    "potential_evolution": "若浸染足够地仙鲜血可晋升为重器"
+  },
+  "visual": {
+    "static": "长约一丈，矛尖锐利且带有破甲纹路，杆身沉重且富有弹性",
+    "active": "挥动时带起剧烈的空气涟漪，能够压制中五境练气士的气机"
+  },
+  "provenance": {
+    "origin": "由大骊王朝调集山上修士与墨家匠人合力打造的军用兵器",
+    "karma_link": "是大骊铁骑征伐天下、推行“事功”学问的物质基础"
+  },
+  "enriched": true
+}

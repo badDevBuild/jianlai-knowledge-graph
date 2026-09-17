@@ -1,0 +1,38 @@
+{
+  "name": "镀金",
+  "original_name": "镀金 (本命飞剑)",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "宋幽微的第二把本命飞剑，以其辅助防御功能著称。它在战场上能为队友提供类似“镀金金身”的临时防 护，虽然名字低调，但在生死关头极具价值 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第912章 如此问剑",
+      "owner": "宋幽微"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "宋幽微",
+  "holder_relation": "大炼",
+  "rank": "灵器",
+  "rank_potential": "专门针对战场混战环境设计的防御飞剑，上限取决于持剑者的本命积蓄 。",
+  "supernatural_ability": "与“龙脉”相辅相成，能够在瞬间为同伴增添防护，极大降低了中五境剑修在混战中的陨落率 。",
+  "evolution": {
+    "current_form": "金丹境界剑修的本命飞剑之一 。",
+    "materials_consumed": [
+      "神仙钱灵气",
+      "庚金精华"
+    ],
+    "potential_evolution": "极致炼化后可将“虚假”的防御转化为真正的“金身”不朽。"
+  },
+  "visual": {
+    "static": "剑身带有细微的金色涂层感，气息稳定 。",
+    "active": "激发时如金粉挥洒，笼罩友军全身，形成一层难以攻破的屏障 。"
+  },
+  "provenance": {
+    "origin": "剑气长城宋氏剑修的特殊大道感悟 。",
+    "karma_link": "见证了无数次攻城战中的防御奇迹，是宋幽微的名号来源 。"
+  },
+  "enriched": true
+}

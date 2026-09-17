@@ -1,0 +1,50 @@
+{
+  "name": "水运精华",
+  "original_name": "碧绿水珠 / 大渎水精",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗品",
+  "description": "这是陈平安从埋河水神处获得的重宝，被范峻茂评价为“可遇不可求”的先天灵宝。它不仅帮助陈平安解 决了灵气倒灌的危机，更是他未来进阶上五境的根本依仗之一 。",
+  "aliases": [
+    "水珠"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第502章 压下一条线",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养类 / 炼物材料",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "埋河水神 (柳柔)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "大渎龙宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为先天灵宝，是炼化五行之水本命物的极致资粮，可随水府经营不断壮大 。",
+  "supernatural_ability": "蕴含一地水脉的大道根本，可修复水神金身，滋养修士水府，使气府窍穴灵气充盈 。",
+  "evolution": {
+    "current_form": "晶莹剔透、光华流转的碧绿水珠或玉简形态 。",
+    "materials_consumed": [
+      "万年水运精华",
+      "神性真灵"
+    ],
+    "potential_evolution": "已通过“炼三山”法诀炼化为陈平安的本命水府核心，在府内显化为龙湫与骊珠 。"
+  },
+  "visual": {
+    "static": "碧绿温润，散发着沁人心脾的凉意，内部似有江河奔涌之声 。",
+    "active": "炼化时如甘霖润泽万物，可显化出龙衔宝珠、江河绕山的异象 。"
+  },
+  "provenance": {
+    "origin": "源自上古大渎龙宫，被埋河水神赠予陈平安以报活命之恩 。",
+    "karma_link": "承载了桐叶洲大渎改道与陈平安重建长生桥的关键因果 。"
+  },
+  "enriched": true
+}

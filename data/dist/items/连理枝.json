@@ -1,0 +1,44 @@
+{
+  "name": "连理枝",
+  "original_name": "连理竹",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "这是落魄山极具象征意义的镇山灵物，由陈平安从中土文庙求购而来，包含连理竹、文气竹和武运竹， 旨在夯实落魄山与其下宗的道脉根基 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第688章 江湖见面道辛苦",
+      "owner": "米裕/魏檗"
+    }
+  ],
+  "subtype": "气运类 / 镇压类",
+  "holder": "陈平安 / 落魄山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青神山夫人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为青神山出品的顶级灵竹，具备镇压宗门气运、引动文武二运的极致潜力 。",
+  "supernatural_ability": "具备极其强大的凝聚气运、稳固山根水脉之能，与文气竹、武运竹相辅相成 。",
+  "evolution": {
+    "current_form": "翠绿且富有灵性的两棵连理竹 。",
+    "materials_consumed": [
+      "浩然天下文武气运",
+      "青神山灵气"
+    ],
+    "potential_evolution": "种植于落魄山后可演化为支撑宗门气运的大道根基 。"
+  },
+  "visual": {
+    "static": "色泽莹澈，竹节清晰，两竹交织共生，散发出浓郁的草木清香 。",
+    "active": "在庆典或大阵开启时，竹影摇曳，金光流溢，可勾连整座山头的风水格局 。"
+  },
+  "provenance": {
+    "origin": "源自竹海洞天青神山 。",
+    "karma_link": "陈平安在文庙大门外与青神山夫人面议购得，代表了落魄山与青神山的特殊因缘 。"
+  },
+  "enriched": true
+}

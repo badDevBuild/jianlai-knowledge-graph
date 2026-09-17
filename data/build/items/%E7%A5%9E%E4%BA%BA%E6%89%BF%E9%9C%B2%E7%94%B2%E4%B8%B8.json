@@ -1,0 +1,53 @@
+{
+  "name": "神人承露甲丸",
+  "original_name": "神人承露甲（祖宗甲）",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“**西嶽**”是神人承露甲的八副**祖宗甲**之一。它蕴含着远古兵家的不传之秘，虽然陈平安入手时残 破不堪，但其真实价值甚至足以让元婴地仙垂涎 。",
+  "aliases": [
+    "西嶽",
+    "甘露甲",
+    "祖宗甘露甲",
+    "兵家甲丸"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第247章 就此一别，山高水长",
+      "owner": "宋雨烧"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "魏羡",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "持有"
+    },
+    {
+      "name": "远古神灵",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为八副原始“祖宗甲”之一，具有极高的神道上限，其防御力远超后世仿品 。",
+  "supernatural_ability": "承接神露，具备极强的因果律防御，能抵挡地仙级以上的强力攻伐 。",
+  "evolution": {
+    "current_form": "设置有高人禁制的破旧甲丸 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "神灵金身碎片"
+    ],
+    "potential_evolution": "可恢复远古时代的完全体防御神力 。"
+  },
+  "visual": {
+    "static": "看起来像是一枚不起眼、甚至略显破烂的古旧甲丸 。",
+    "active": "披挂后显现出厚重的神道气息，甲胄上刻有五岳真形流转的异象 。"
+  },
+  "provenance": {
+    "origin": "倒悬山灵芝斋的压箱底货物，因禁制重重被陈平安“捡漏” 。",
+    "karma_link": "陈平安将其作为“西地利”的核心交给魏羡，助其在老龙城死战 。"
+  },
+  "enriched": true
+}

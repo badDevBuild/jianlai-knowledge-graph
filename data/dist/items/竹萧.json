@@ -1,0 +1,44 @@
+{
+  "name": "竹萧",
+  "original_name": "“谪仙人”竹笛",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一件带有凄美色彩的半仙兵，虽因受损严重未能名 列仙兵，其蕴含的剑气与道意依然极为惊人 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1008章 一坛四十年的老酒",
+      "owner": "薛如意"
+    }
+  ],
+  "subtype": "音律/压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云卿（蛮荒大妖）",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "若能寻回“露支风券”的完整传承，可升格为真正的仙兵 。",
+  "supernatural_ability": "曾是一头飞升境大妖的定情物。笛声悠扬，能引动天地 异象 。",
+  "evolution": {
+    "current_form": "一支刻有“谪仙人”三字的竹笛 。",
+    "materials_consumed": [
+      "上古灵竹",
+      "飞升境神魂余韵"
+    ],
+    "potential_evolution": "可配合仙家曲谱发挥出洗涤神魂、镇压心魔之效。"
+  },
+  "visual": {
+    "static": "通体青翠，刻有“谪仙人”与“曾批给露支风券”的小楷 。",
+    "active": "吹奏时流光溢彩，能产生风卷云涌的宏大声势。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下，大妖云卿的随身至宝 。",
+    "karma_link": "陈平安在剑气长城牢狱中获得，代表了与蛮荒强者的因 果交锋 。"
+  },
+  "enriched": true
+}

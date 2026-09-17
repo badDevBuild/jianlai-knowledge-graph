@@ -1,0 +1,106 @@
+{
+  "name": "旱烟杆",
+  "original_name": "老烟杆子",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不仅是一件烟具，更是陈平安继承“老实人”处世风格与应对“天算”的重要法宝 。",
+  "aliases": [
+    "竹竿旱烟"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第60章 有鬼",
+      "owner": "杨老头"
+    },
+    {
+      "chapter": "第63章 原来如此",
+      "owner": "杨老头"
+    },
+    {
+      "chapter": "第196章 我辈武夫",
+      "owner": "杨老头"
+    },
+    {
+      "chapter": "第807章 木人哑语",
+      "owner": "纳兰先秀"
+    },
+    {
+      "chapter": "第854章 一只笼中雀",
+      "owner": "杨老头"
+    },
+    {
+      "chapter": "第889章 何谓披星戴月",
+      "owner": "杨老头 -> 陈平安"
+    },
+    {
+      "chapter": "第895章 今宵爽快",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第896章 日月皆如水上萍",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第941章 那就我行我素",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1043章 头顶三尺有谁",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1052章 有张空椅子",
+      "owner": "佟文畅"
+    },
+    {
+      "chapter": "第1107章 陈道友关门待客",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1123章 二十人与候补们（五）",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1137章 如书如句读",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1193章 师兄弟的序和跋",
+      "owner": "郦老夫子"
+    }
+  ],
+  "subtype": "辅助类 / 仪式类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "原主"
+    },
+    {
+      "name": "郑大风",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "其材质足以作为炼化“五行之火”或“光阴”本命物的辅助基石 。",
+  "supernatural_ability": "“香火演化”。烟斗中的余烬可模拟远古祭祀的氛围，帮助持用者在光阴长河中维持神智清明，抵御岁月 的侵蚀 。",
+  "evolution": {
+    "current_form": "青铜或老檀木材质的烟杆，带有厚重的包浆 。",
+    "materials_consumed": [
+      "金精铜钱灵气",
+      "纯粹真气磨砺"
+    ],
+    "potential_evolution": "作为开启某些远古神灵府邸的钥匙。"
+  },
+  "visual": {
+    "static": "外表平淡无奇，常被陈平安随手插在腰间或藏于袖中 。",
+    "active": "吞云吐雾时，烟雾呈现出不散的云霞状，能根据持用者心意改变天机走向 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天杨家药铺，由“地仙之祖”杨老头传下 。",
+    "karma_link": "连接了陈平安的武道修行与杨老头的神道传承 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "松涛墨",
+  "original_name": "",
+  "type": "材料",
+  "grade": "文房",
+  "status": "消耗",
+  "description": "极为名贵的御制古墨。这不仅是文人墨客的至宝，在修士手中更是炼制**“金书铁券”**或高阶符箓的必 备基材 。",
+  "aliases": [
+    "松涛墨"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第133章 同行",
+      "owner": "崔瀺"
+    }
+  ],
+  "subtype": "消耗类 / 文房类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因其取自千年古松，蕴含的文气可增强符箓的压胜威力 。",
+  "supernatural_ability": "**“松涛阵阵”**。以手指轻敲墨锭，会发出悦耳的松涛声；以此墨书写的文字，墨香可滞留数年之久 。",
+  "evolution": {
+    "current_form": "三锭质地坚硬、漆黑如玉的御制墨锭 。",
+    "materials_consumed": [
+      "千年古松烟",
+      "仙家秘法炼制"
+    ],
+    "potential_evolution": "若由圣人亲自研磨，可点化为具备**“墨精臣子”**之能的灵物 。"
+  },
+  "visual": {
+    "static": "墨锭表面光滑，刻有精美的山水纹饰，散发着沁人心脾的清香 。",
+    "active": "研磨时有微弱的风鸣声，落笔后字迹隐约有道光流转 。"
+  },
+  "provenance": {
+    "origin": "源自神水国御制，取自被敕封为“木公先生”的千年古松 。",
+    "karma_link": "承载着神水国的余韵与大骊北岳的山水气运 。"
+  },
+  "enriched": true
+}

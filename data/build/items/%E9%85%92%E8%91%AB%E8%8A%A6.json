@@ -1,0 +1,48 @@
+{
+  "name": "酒葫芦",
+  "original_name": "养剑葫 / 姜壶",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**酒葫芦 (养剑葫)** 是《剑来》中最具标志性的器物，不仅能纳海量美酒，更是剑修孕育本命飞剑的至宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第720章 不能白忙一场",
+      "owner": "于玄"
+    }
+  ],
+  "subtype": "滋养类 / 攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗 (大骊朝廷)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "姜姓剑修",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "若为道祖亲植葫芦藤所结之物，可升格为“心事”、“立即”等仙兵级存在 。",
+  "supernatural_ability": "**“温养飞剑”**。除了储存美酒，内部自成小天地，能够极快地温养并壮大飞剑的锋芒与灵智 。",
+  "evolution": {
+    "current_form": "朱红色或银白色的精巧小葫芦，底款铭刻“姜壶”等文字 。",
+    "materials_consumed": [
+      "先天灵木精华",
+      "剑气淬炼"
+    ],
+    "potential_evolution": "极品养剑葫可容纳东海之水或千万飞剑，成就“斗量”级气象 。"
+  },
+  "visual": {
+    "static": "色泽温润，样式古朴，葫芦身常有天然道纹或后天铭文 。",
+    "active": "葫芦口会有“吞吐感”，伴随微光闪烁或细微的剑气气流旋涡 。"
+  },
+  "provenance": {
+    "origin": "部分源自道祖亲手种植的先天葫芦藤，部分为后世大修士采集灵木炼制 。",
+    "karma_link": "是剑修身份的象征，常因“姜壶”与“江湖”谐音而被游侠儿钟爱 。"
+  },
+  "enriched": true
+}

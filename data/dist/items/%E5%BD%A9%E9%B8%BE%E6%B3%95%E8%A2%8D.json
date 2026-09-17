@@ -1,0 +1,44 @@
+{
+  "name": "彩鸾法袍",
+  "original_name": "珠袍 / 锦绣法袍",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一种极具身份象征的法袍，常由中土神洲的顶级天才佩戴。它不仅提供强大的防御，还象征着持有 者背后的庞大势力，如弘农杨氏等豪门 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第250章 从最北到最南",
+      "owner": "灵犀派(传说)"
+    }
+  ],
+  "subtype": "防御类 / 飞行类",
+  "holder": "杨玉篇 (或其他中土豪阀子弟)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土神洲豪阀杨氏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为中土豪阀子弟的标配，其材质多为仙家云锦，具备极高的灵气防御力 。",
+  "supernatural_ability": "**“乘鸾御风”**。此法袍能够与仙禽青鸾产生共鸣，甚至可化作符箓形态以便于随身携带和急速穿梭 。",
+  "evolution": {
+    "current_form": "华丽夺目的珠宝长袍，常随乘鸾少女现世 。",
+    "materials_consumed": [
+      "仙家云锦",
+      "青鸾精魂"
+    ],
+    "potential_evolution": "若能进补金精铜钱，有望升格为具备“灵性神识”的半仙兵 。"
+  },
+  "visual": {
+    "static": "袍身缀满珠宝，光彩夺目，带有半透明的流动感，衣褶如行云流水 。",
+    "active": "激发时会散发出如青鸾振翅般的清辉，屏蔽外界污秽气机 。"
+  },
+  "provenance": {
+    "origin": "产自中土神洲，多为顶级王朝或仙家豪阀造办处定制 。",
+    "karma_link": "见证了中土天才子弟参与骊珠洞天机缘争夺的历史 。"
+  },
+  "enriched": true
+}

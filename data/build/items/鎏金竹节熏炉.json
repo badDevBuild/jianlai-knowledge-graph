@@ -1,0 +1,43 @@
+{
+  "name": "鎏金竹节熏炉",
+  "original_name": "",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一件品相极佳的小型灵器，价值数颗小暑钱。虽非攻伐杀戮之物，却承载了落魄山与浮萍剑湖的一 份善缘情谊 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第529章 落魄山的家底",
+      "owner": "陈如初"
+    }
+  ],
+  "subtype": "文房清供 / 熏香类",
+  "holder": "陈如初 (暖树)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "荣畅 (浮萍剑湖)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽作为文房小件，但因其材质与工艺，随主修行可长久温养灵性。",
+  "supernatural_ability": "具备安神定心之效，作为文房雅玩，可助持有者静心研习。",
+  "evolution": {
+    "current_form": "小巧可爱的鎏金竹节样式熏炉 。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "长期受落魄山灵气滋养，有望成为具备更高辅佐功效的案头清供。"
+  },
+  "visual": {
+    "static": "外形为精致的竹节样式，表面鎏金，工艺考究且气质不俗 。",
+    "active": "燃香时烟气缭绕，与竹节造型相得益彰，散发淡淡神仙气 。"
+  },
+  "provenance": {
+    "origin": "浮萍剑湖嫡传弟子荣畅的随身物件 。",
+    "karma_link": "荣畅在落魄山客房入住期间，见陈如初面相讨喜，将其作为见面礼赠予 。"
+  },
+  "enriched": true
+}

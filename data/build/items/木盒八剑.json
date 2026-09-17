@@ -1,0 +1,48 @@
+{
+  "name": "木盒八剑",
+  "original_name": "陆沉袖珍剑盒",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陆沉最为珍视的家底之一。盒内藏有秋水、游凫、刻意、凿窍、南冥、游刃、蜩甲、山木八剑，每 一把剑的命名都寓意着对剑道的独特理解 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第868章 干架",
+      "owner": "陆芝"
+    }
+  ],
+  "subtype": "剑阵类",
+  "holder": "陆芝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "陆沉",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "由白玉京三掌教陆沉亲手铸造，每一把都蕴含独特剑道，作为组合剑阵威力堪称仙兵极致 , 。",
+  "supernatural_ability": "“芥子纳须弥”。剑盒内自成一座广袤无垠的小天地。八剑各有神通，如“南冥”可造就天池大阵，“蜩甲” 可作为飞行法袍 , 。",
+  "evolution": {
+    "current_form": "一只袖珍小剑盒，内藏八把细弱丝线、如小龙蜿蜒的飞剑 。",
+    "materials_consumed": [
+      "远古剑意",
+      "陆沉的剑道感悟"
+    ],
+    "potential_evolution": "随陆芝境界提升及飞剑炼化，可演变为足以困杀上五境修士的移动天地 , 。"
+  },
+  "visual": {
+    "static": "外表是一只精致的木匣，盒内八剑小巧袖珍，处于浮游状态 。",
+    "active": "祭出时剑气纵横交错，八剑化作流光结阵，气象可媲美传说中的洞天道场 , 。"
+  },
+  "provenance": {
+    "origin": "白玉京南华城主陆沉亲自锻炼而成的重宝 。",
+    "karma_link": "由陈平安从陆沉处“借”得后转送陆芝，用以弥补其防御薄弱的短板 。"
+  },
+  "enriched": true
+}

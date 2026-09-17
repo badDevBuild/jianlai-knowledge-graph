@@ -1,0 +1,44 @@
+{
+  "name": "杨家药汤",
+  "original_name": "杨家秘制汤药",
+  "type": "丹药",
+  "grade": "灵药",
+  "status": "消耗",
+  "description": "这是杨老头用来“救死扶伤”最常用的手段。虽然收费昂 贵，却是小镇上最能让“命薄之人”活下去的希望 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第56章 点头",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "医疗/滋养类",
+  "holder": "陈平安 / 顾璨 / 宁吉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "发放者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "具备“枯木逢春”之神效，可作为帮助练气士“脱胎换骨” 的药引 。",
+  "supernatural_ability": "能极大程度地排解体内积垢，稳固气府，提高修士对天 地灵气的亲和力 。",
+  "evolution": {
+    "current_form": "在灶房陶罐中挑灯熬制的浓稠液体 。",
+    "materials_consumed": [
+      "山中草药",
+      "灵泉水"
+    ],
+    "potential_evolution": "可精炼为“九转紫金丹”的汤底。"
+  },
+  "visual": {
+    "static": "汤色深沉，药香扑鼻，在灯火下显出一种温润的质感 。",
+    "active": "服下后全身会感到一股温热气流走遍四肢百骸，排除黑 色污垢 。"
+  },
+  "provenance": {
+    "origin": "杨家铺子秘传，蕴含神道秘术 。",
+    "karma_link": "连接了陈平安对“救命之恩”的报答与对杨老头规矩的初 次认知 。"
+  },
+  "enriched": true
+}

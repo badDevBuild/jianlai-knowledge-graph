@@ -1,0 +1,50 @@
+{
+  "name": "翻书风",
+  "original_name": "圣贤书风",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这是一缕极有灵性的“文人风”。它选择了曹晴朗作为主人，象征着落魄山文脉的薪火相传，体现了读书 人“知行合一”的理念 。",
+  "aliases": [
+    "翻书风"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第165章 如果陈平安在这里",
+      "owner": "儒家书院"
+    }
+  ],
+  "subtype": "辅助类 / 文运类",
+  "holder": "曹晴朗",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "亚圣嫡传",
+      "relation": "原主"
+    },
+    {
+      "name": "刘羡阳",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为文运精华，随曹晴朗治学深厚，可演化为能翻动“天地大书”的圣贤之风 。",
+  "supernatural_ability": "“开卷有益”。能自动为读书人翻找关键篇章，并加快其对学问真意的理解速度 。",
+  "evolution": {
+    "current_form": "一缕萦绕在书案四周、带有淡淡墨香的清风。",
+    "materials_consumed": [
+      "儒家浩然正气",
+      "百家文运"
+    ],
+    "potential_evolution": "可成为支撑一座书院学风长存的“文脉气旋” 。"
+  },
+  "visual": {
+    "static": "无形无质，唯有在翻书时可见书页无风自动，伴有悦耳的翻动声 。",
+    "active": "当曹晴朗深思时，清风会卷起周遭文气，形成如龙吸水的异象 。"
+  },
+  "provenance": {
+    "origin": "源自中土神洲亚圣一脉的嫡传馈赠 。",
+    "karma_link": "连接着刘羡阳与陈平安的友谊，也是曹晴朗跻身儒家圣贤的预兆 。"
+  },
+  "enriched": true
+}

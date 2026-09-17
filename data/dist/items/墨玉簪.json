@@ -1,0 +1,37 @@
+{
+  "name": "墨玉簪",
+  "original_name": "",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是大剑仙柳洲极具辨识度的配饰。柳洲曾被誉为有望跻身飞升境的天才，后转去下棋，此簪常伴其左 右 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第140章 千奇（下）",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "饰品类 / 辅助类",
+  "holder": "柳洲",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为大剑仙随身之物，长期受剑气与文气淬炼，具备极高灵性 。",
+  "supernatural_ability": "“稳固神魂”。在大剑仙修行或弈棋时帮助平复心境 。",
+  "evolution": {
+    "current_form": "一枚质地温润的墨色玉发簪 。",
+    "materials_consumed": [
+      "上等墨玉"
+    ],
+    "potential_evolution": "若融入特定的剑道真意，可演化为承载本命飞剑的载体 。"
+  },
+  "visual": {
+    "static": "色泽深邃，乌黑发亮，常被柳洲别在发髻间，与紫袍相衬 。",
+    "active": "在施展道法或弈棋至深处时，簪身会有细微的墨色流光 。"
+  },
+  "provenance": {
+    "origin": "出自中土神洲，是大剑仙柳洲的随身雅物 。",
+    "karma_link": "见证了柳洲因下棋输给绣虎而失去飞剑“金穗”的往事 。"
+  },
+  "enriched": true
+}

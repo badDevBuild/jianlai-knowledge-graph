@@ -1,0 +1,38 @@
+{
+  "name": "笼中雀(仿)",
+  "original_name": "仿陈平安飞剑",
+  "type": "本命飞剑",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "**笼中雀(仿)**是吴霜降针对陈平安打造的针对性神兵 。其战力虽受时间限制，但在其生效期间，几可等同于 真正的仙兵威能 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第781章 齐聚",
+      "owner": "吴霜降"
+    }
+  ],
+  "subtype": "攻守/禁制类",
+  "holder": "吴霜降",
+  "holder_relation": "持有",
+  "rank": "半仙兵",
+  "rank_potential": "虽是仿品，但在吴霜降手中可支撑起足以对峙十四境的 小天地 。",
+  "supernatural_ability": "能在一炷香内完美复制陈平安原版飞剑的“自成天地”神 通 。",
+  "evolution": {
+    "current_form": "剑光如雀，在掌心中盘旋的袖珍飞剑。",
+    "materials_consumed": [
+      "剑仙遗物",
+      "空间碎片"
+    ],
+    "potential_evolution": "若能完全解析“笼中雀”本源，可演化为真实的洞天基石 。"
+  },
+  "visual": {
+    "static": "形似细针，剑身微缩，隐约可见其中的空间波动 。",
+    "active": "祭出后瞬间张开方圆百里的无形壁障，将敌人隔绝于现 世之外 。"
+  },
+  "provenance": {
+    "origin": "吴霜降凭借对陈平安出剑轨迹的推演与自身造诣，仿制 出的三把名剑之一 。",
+    "karma_link": "在夜航船一战中，向陈平安展示了“以假乱真”的至高境 界 。"
+  },
+  "enriched": true
+}

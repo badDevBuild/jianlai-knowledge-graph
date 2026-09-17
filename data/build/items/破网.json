@@ -1,0 +1,43 @@
+{
+  "name": "破网",
+  "original_name": "雪花钱网 / 姜尚真的“网”",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此网是姜尚真最标志性的法宝之一，专用于在极端环境下高效攫取资源，其盈利能力令上五境修士亦感 到眼热 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第498章 天地无拘束",
+      "owner": "姜尚真"
+    }
+  ],
+  "subtype": "捕获类 / 采集类",
+  "holder": "姜尚真",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姜氏先祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "能承载海量灵气，配合姜尚真的遁法，是诸天寻宝的顶级利器 。",
+  "supernatural_ability": "能够在大规模灵气潮汐或光阴长河中大肆搜刮、捕获流散的灵气、神仙钱及道气 。",
+  "evolution": {
+    "current_form": "平时看似无形或呈破败状的灵力网 。",
+    "materials_consumed": [
+      "云窟福地灵气"
+    ],
+    "potential_evolution": "可配合姜尚真的“一片柳叶”飞剑，在光阴长河中截留因果 。"
+  },
+  "visual": {
+    "static": "常态下难以察觉，隐藏在袖中或窍穴内 。",
+    "active": "祭出时如巨网遮天蔽日，灵光流溢，疯狂吸纳周边一切游离的灵能 。"
+  },
+  "provenance": {
+    "origin": "出自玉圭宗云窟福地，是姜尚真横行天下的生财重器 。",
+    "karma_link": "见证了姜尚真在蛮荒天下腹地与阿良等人“坐地分赃”的多次行动 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "桂花小酿",
+  "original_name": "桂花酿 / 仙家酒水",
+  "type": "丹药",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "桂花小酿是落魄山与老龙城范氏交好的物化象征，也是陈平安远游途中 常备的“口粮酒”之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第256章 同样是少年郎",
+      "owner": "范二 -> 郑大风"
+    },
+    {
+      "chapter": "第257章 桂花岛之巅",
+      "owner": "范家"
+    }
+  ],
+  "subtype": "滋养类/消耗类",
+  "holder": "陈平安 / 范二",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老龙城范氏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为范家招牌酒水，蕴含清淡灵气，长期饮用可滋养神魂 。",
+  "supernatural_ability": "入口清甜，能缓慢补充修士气府内的灵气流散，并有**平复心境**之效 。",
+  "evolution": {
+    "current_form": "带有浓郁桂花香气的透明灵液 。",
+    "materials_consumed": [
+      "万年桂花精粹",
+      "灵泉水"
+    ],
+    "potential_evolution": "若加入老蛟金丹，可升格为小炼药酒 。"
+  },
+  "visual": {
+    "static": "酒液澄澈，在阳光下泛着淡黄色光泽，装于精致瓷瓶或养剑葫中 。",
+    "active": "饮用时灵气随酒香入喉，四肢百骸会有微弱暖意产生 。"
+  },
+  "provenance": {
+    "origin": "产自老龙城范家，以桂花岛祖宗桂树之花酿造 。",
+    "karma_link": "见证了陈平安与范二、范峻茂等人的深厚交情 。"
+  },
+  "enriched": true
+}

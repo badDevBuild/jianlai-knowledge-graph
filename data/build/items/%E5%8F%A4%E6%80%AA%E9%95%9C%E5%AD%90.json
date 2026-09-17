@@ -1,0 +1,44 @@
+{
+  "name": "古怪镜子",
+  "original_name": "停水镜 / 实境镜",
+  "type": "法宝",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这并非普通照妖镜，而是能干预现实与幻觉的重宝。它通过捕捉修士的影子和心相，在镜中重塑一个完 整的、带有道力的世界。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第555章 师徒练拳皆可怜",
+      "owner": "狮子峰(守护)"
+    }
+  ],
+  "subtype": "摹拓/禁锢类",
+  "holder": "苦手 (地支之巳)",
+  "holder_relation": "大炼 (本命物)",
+  "previous_holders": [
+    {
+      "name": "卖镜人脉络",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随着持有者境界攀升，可从摹拓玉璞境实境进化为摹拓仙人乃至洞天福地实境。",
+  "supernatural_ability": "能够摹拓出一位修士的“实境”假象。具备“山转水停”之意，可使观者心神深陷其中。",
+  "evolution": {
+    "current_form": "背面刻有回文诗铭文的古朴铜镜。",
+    "materials_consumed": [
+      "月华精华",
+      "神识道韵"
+    ],
+    "potential_evolution": "若能跻身仙人境，可演化出“镜中世界”，真假难辨。"
+  },
+  "visual": {
+    "static": "背面篆刻“人心方寸，天心方丈”等回文诗，镜面幽暗。",
+    "active": "激发时如明月升空，镜光所照之处，万物呈现出一种静止的实境假象。"
+  },
+  "provenance": {
+    "origin": "源自上古“卖镜人”一脉的秘传。",
+    "karma_link": "由地支修士苦手持有，陈平安曾因其几乎在心境较量中吃亏。"
+  },
+  "enriched": true
+}

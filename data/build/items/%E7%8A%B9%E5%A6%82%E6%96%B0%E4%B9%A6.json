@@ -1,0 +1,44 @@
+{
+  "name": "犹如新书",
+  "original_name": "曹晴朗手刻印章",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是曹晴朗为先生陈平安刻制的私人藏书印。印文“犹 如新书”寄托了其对读书一事的最高感悟，反映了落魄山 一脉质朴的治学风格 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1078章 山中一幅画",
+      "owner": "曹晴朗"
+    }
+  ],
+  "subtype": "文房/印章类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "曹晴朗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为学生对先生的馈赠，承载了“温故知新”的治学气运 ，有希望进化为文房至宝 。",
+  "supernatural_ability": "具备稳定书房文气、助人进入“春风翻书”意境的神效 。",
+  "evolution": {
+    "current_form": "一方葫芦状的藏书印 。",
+    "materials_consumed": [
+      "优质石材",
+      "曹晴朗的诚心墨意"
+    ],
+    "potential_evolution": "可演化为见证文脉传承的“传道玺”。"
+  },
+  "visual": {
+    "static": "造型为精巧的小葫芦，刀法稳重且充满灵气 。",
+    "active": "钤印时隐约可见“先生独坐，春风翻书”的虚幻气象 。"
+  },
+  "provenance": {
+    "origin": "曹晴朗在落魄山书房精心雕琢而成 。",
+    "karma_link": "是曹晴朗赠予先生陈平安的生日礼物，象征师徒情深 。"
+  },
+  "enriched": true
+}

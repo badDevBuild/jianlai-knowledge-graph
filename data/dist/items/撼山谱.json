@@ -1,0 +1,83 @@
+{
+  "name": "撼山谱",
+  "original_name": "顾祐武学秘籍",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是**撼山拳**的根本宗旨所在，开篇序文即强调武夫气节 。陈平安通过日复一日的练习，将书中的虚幻道理转化为了实 实在在的**百万拳意** 。它是贯穿陈平安从窑工少年成长为**止境宗师**的关键物件 。",
+  "aliases": [
+    "拳谱",
+    "《撼山谱》",
+    "《撼山》"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第38章 九境",
+      "owner": "陈平安 (暂管)"
+    },
+    {
+      "chapter": "第41章 练拳",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第42章 天才",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第54章 大敌当前",
+      "owner": "顾粲(陈平安保管)"
+    },
+    {
+      "chapter": "第69章 夜幕",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第84章 我有一剑",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第191章 做买卖也是修行",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第198章 少年想要远游",
+      "owner": "陈平安(代为保管)"
+    },
+    {
+      "chapter": "第463章 十年之约已过半",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "武学类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "顾祐",
+      "relation": "原主"
+    },
+    {
+      "name": "顾粲",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "承载了老宗主顾祐的毕生武道感悟，是跻身止境的指路明灯 。",
+  "supernatural_ability": "包含**走桩、立桩、睡桩**等核心练拳法门，强调**拳意绝不可退 **的宗师气概 。",
+  "evolution": {
+    "current_form": "纸张泛黄的古旧书籍",
+    "materials_consumed": [
+      "持之以恒的百万拳意"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "封面上书有“撼山谱”三字，内页记载了详尽的拳法图解与心得批注 。",
+    "active": "翻阅时可感受到一股扑面而来的刚健拳意 。"
+  },
+  "provenance": {
+    "origin": "由曾经无敌于人间的止境武夫顾祐所著 。",
+    "karma_link": "陈平安代顾粲保管此书，并凭此练就了最扎实的武道根基 。"
+  },
+  "enriched": true
+}

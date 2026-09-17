@@ -1,0 +1,44 @@
+{
+  "name": "黄眉金肚子画作",
+  "original_name": "袒胸露乳老者图 / 龙脉发源图",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这并非传统的仕女或山水画，而是陈平安用来整理人间 万物脉络、模拟灵气循环的一种高端心相载体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1024章 辛苦最怜天上月",
+      "owner": "刘幽州"
+    }
+  ],
+  "subtype": "道场/记录类",
+  "holder": "陈平安 (心境显化)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "敬仰楼",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "通过观想这位吐出五彩天财地宝的老者，可模拟出一座 中等福地的规格 。",
+  "supernatural_ability": "画中老者大腹便便，每一次呼气都能从口中吐出五彩绚 烂的天材地宝幻象 。",
+  "evolution": {
+    "current_form": "一幅被陈平安收纳、并在心相天地中不断充实的画卷 。",
+    "materials_consumed": [
+      "地脉龙气",
+      "仙家笔墨"
+    ],
+    "potential_evolution": "若集齐人间金身碎片，可据此重建一座远古天庭遗址 。"
+  },
+  "visual": {
+    "static": "画中是一位袒胸露乳的老者，鼾声如雷，面容被烟雾缭 绕 。",
+    "active": "当心神沉浸时，可见老者吐纳之间，流光溢彩的轨迹散 落天地四方 。"
+  },
+  "provenance": {
+    "origin": "源自陈平安对龙脉起始与天地造化的深刻感悟 。",
+    "karma_link": "与陈平安构建“三千小千世界”的宏大志向紧密相连 。"
+  },
+  "enriched": true
+}

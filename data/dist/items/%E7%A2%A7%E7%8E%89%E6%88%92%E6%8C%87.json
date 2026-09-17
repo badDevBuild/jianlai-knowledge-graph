@@ -1,0 +1,50 @@
+{
+  "name": "碧玉戒指",
+  "original_name": "十五 / 碧玉簪子 (交易前身)",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安早期最重要的方寸物。其前身为一支看似普通却暗藏玄机的碧玉发簪，陈平安通过与杨老头的“ 公平买卖”，换取了这件兼具储物与飞剑功能的重宝 。",
+  "aliases": [
+    "碧玉戒指"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第96章 山水有神怪",
+      "owner": "妇人"
+    }
+  ],
+  "subtype": "空间/攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "大炼 (本命物)",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "赠予者"
+    },
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为“最小洞天”，其内空间与杀力随主人武道/修道境界同步成长 。",
+  "supernatural_ability": "内含稳定方寸空间；可化为飞剑“十五”，出剑极致快速 。",
+  "evolution": {
+    "current_form": "温润翠绿的碧玉环状物（或簪子状态），灵气内敛 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "剑气淬炼"
+    ],
+    "potential_evolution": "可作为五行之木的替代本命物或纯粹的空间重宝 。"
+  },
+  "visual": {
+    "static": "色泽如初春柳叶，材质通透，触手微凉 。",
+    "active": "御动时化作一抹幽绿流萤，在空中带出纤细如发的剑光轨迹 。"
+  },
+  "provenance": {
+    "origin": "陈平安以齐静春所赠之物从药铺杨老头处交换而来 。",
+    "karma_link": "是陈平安从凡俗武夫迈向剑修、且获得首个储物空间的转折性法宝 。"
+  },
+  "enriched": true
+}

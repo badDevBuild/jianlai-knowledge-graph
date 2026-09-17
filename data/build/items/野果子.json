@@ -1,0 +1,46 @@
+{
+  "name": "野果子",
+  "original_name": "山中奇珍 / 随手采摘之物",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "消耗",
+  "description": "野果子代表了《剑来》中“伟大日常”的一部分。它们虽 非重宝，却在一场场长途跋涉中，给予了主角团最直接 的慰藉 。",
+  "aliases": [
+    "野果子"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第67章 远行",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养/生活类",
+  "holder": "陈平安 / 李槐 / 张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "各大名山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽是路边随手可得，但在灵气沛然处生长，亦是炼制初 级灵丹的材料 。",
+  "supernatural_ability": "口感清脆，具备生津止渴、平复气血的微弱功效，适合 长途跋涉的修行者 。",
+  "evolution": {
+    "current_form": "各色鲜艳的山间果实，如红枣、杨梅等 。",
+    "materials_consumed": [
+      "山根灵气",
+      "日光滋养"
+    ],
+    "potential_evolution": "若受大修士栽培，可成为“仙家朱果”。"
+  },
+  "visual": {
+    "static": "色泽亮丽，表面挂着晨露，散发出质朴的果香 。",
+    "active": "食用后能产生一股微弱的暖意流入丹田，缓解体力的疲 劳 。"
+  },
+  "provenance": {
+    "origin": "多产自于太徽剑宗翩然峰、狮子峰等名山 。",
+    "karma_link": "见证了陈平安及其好友在远游路途中质朴的生活态度 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "铁锁井",
+  "original_name": "真龙生气之井",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "位于骊珠洞天小镇内的重要遗迹，实则是一座巨大的符箓阵法，用以镇压最后一条真龙的龙颈气府，防 止其“抬头” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第711章 谜语",
+      "owner": "落魄山 (实际控制)"
+    }
+  ],
+  "subtype": "封禁/神道类",
+  "holder": "王朱 (稚圭)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "三教圣人",
+      "relation": "原主"
+    },
+    {
+      "name": "三山九侯先生",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为压胜整个人间蛟龙气运的关键枢纽，随真龙复位而力量交汇 。",
+  "supernatural_ability": "是残存真龙王朱的“生气所在”，能让其与外界天地气机感通 。",
+  "evolution": {
+    "current_form": "小镇内一口带铁链的深井 。",
+    "materials_consumed": [
+      "锁龙铁链",
+      "骊珠洞天水运"
+    ],
+    "potential_evolution": "随真龙点睛可能演化为直通东海的水路门户 。"
+  },
+  "visual": {
+    "static": "井水深不见底，带有森森寒意，井口垂有沉重铁链 。",
+    "active": "当真龙气息浮现时，井水会泛起金色涟漪，气象诡谲 。"
+  },
+  "provenance": {
+    "origin": "三山九侯先生为镇压真龙而打造的符箓布局之一 。",
+    "karma_link": "见证了王朱在泥瓶巷的蛰伏与发迹 。"
+  },
+  "enriched": true
+}

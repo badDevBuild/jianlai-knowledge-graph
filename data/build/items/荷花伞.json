@@ -1,0 +1,47 @@
+{
+  "name": "荷花伞",
+  "original_name": "碧绿荷花伞 / 碧荷伞",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是崔东山随身携带的标志性器物之一，既是文雅的遮阳具，也是杀伐果断的山上灵器 。",
+  "aliases": [
+    "荷叶",
+    "荷花伞",
+    "小荷叶"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第147章 请破阵",
+      "owner": "白衣女子"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为岁除宫宫主的赠礼，材质特殊且能与持有者拳意剑气共鸣 。",
+  "supernatural_ability": "可化伞为刀或剑，承载雄浑拳罡，具备极强的防御与近战反击能力 。",
+  "evolution": {
+    "current_form": "碧绿荷花样式的油纸伞",
+    "materials_consumed": [
+      "灵气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "外表呈碧绿色，收束时如荷花花苞，轻盈且富有生机 。",
+    "active": "撑开或挥动时展现出翠绿光泽，伞柄坚韧如法剑，可抵挡高频率的灵器撞击 。"
+  },
+  "provenance": {
+    "origin": "由岁除宫宫主吴霜降赠予崔东山 。",
+    "karma_link": "见证了崔东山与各方地仙及家族弟子的多次冲突 。"
+  },
+  "enriched": true
+}

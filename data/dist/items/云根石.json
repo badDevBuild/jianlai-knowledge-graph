@@ -1,0 +1,62 @@
+{
+  "name": "云根石",
+  "original_name": "无瑕石",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "消耗",
+  "description": "云根石是云霞山的立身之本，因其极佳的灵气亲和力， 成为浩然天下剑修梦寐以求的损耗品 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第9章 天雨虽宽",
+      "owner": "云霞山"
+    },
+    {
+      "chapter": "第10章 食牛之气",
+      "owner": "云霞山"
+    },
+    {
+      "chapter": "第18章 五去其三",
+      "owner": "苻南华"
+    },
+    {
+      "chapter": "第20章 横生枝节",
+      "owner": "云霞山"
+    },
+    {
+      "chapter": "第253章 有人送剑有人等",
+      "owner": "云霞山"
+    },
+    {
+      "chapter": "第872章 天下地上",
+      "owner": "云霞山"
+    },
+    {
+      "chapter": "第1170章 青衫落座",
+      "owner": "蔡金简(欠债方)"
+    }
+  ],
+  "subtype": "淬炼/资源类",
+  "holder": "云霞山 (宝瓶洲宗门)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为顶尖的五行之金材料，是炼制仙家磨剑石和外丹的 关键 , 。",
+  "supernatural_ability": "质地无瑕无垢，最适宜用来淬炼剑锋或作为丹药引子 。能帮助练气士稳定心境，洁净气府 。",
+  "evolution": {
+    "current_form": "灵气升腾、色泽莹润的天然矿石 。",
+    "materials_consumed": [
+      "云海灵气",
+      "山根精华"
+    ],
+    "potential_evolution": "可精炼为支撑剑修本命飞剑的大道磨石 。"
+  },
+  "visual": {
+    "static": "呈现出温润的白玉感，表面隐约有云气缭绕，触感细腻 。",
+    "active": "在阳光下会映射出五彩绚烂的光华，被誉为“天上尤物” 。"
+  },
+  "provenance": {
+    "origin": "产自宝瓶洲云霞山，由云海精华凝聚而成 。",
+    "karma_link": "连接了云霞山的财源与剑气长城剑修的磨剑需求 。"
+  },
+  "enriched": true
+}

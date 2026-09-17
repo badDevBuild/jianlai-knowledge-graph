@@ -1,0 +1,37 @@
+{
+  "name": "劫灰",
+  "original_name": "符箓残渣 / 灰烬",
+  "type": "材料",
+  "grade": "灵材",
+  "status": "活跃",
+  "description": "**劫灰并非无用之物**，在符箓大家眼中，它是解析敌 方术法的关键线索。于玄曾通过陈平安提供的符箓残渣 ，识破了元婴境妖族首创的复杂符线逻辑 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1158章 护道",
+      "owner": "无"
+    }
+  ],
+  "subtype": "研究/溯源类",
+  "holder": "于玄",
+  "holder_relation": "持有",
+  "rank": "其他",
+  "rank_potential": "若能从灰烬中提取完整的道意残余，可逆向破解失传的 大符 。",
+  "supernatural_ability": "包含大符破碎后的原始道痕。符箓大家可凭此“顺藤摸 瓜”，推演出制符者的境界、手法甚至是首创道诀 , 。",
+  "evolution": {
+    "current_form": "细微的灰白色粉末，隐约有金光或焦灼气味 。",
+    "materials_consumed": [
+      "损毁的各种高阶符箓"
+    ],
+    "potential_evolution": "可在炼丹或炼物时作为一种带有天威意蕴的添加剂。"
+  },
+  "visual": {
+    "static": "看似寻常的灰烬，实则每一粒都沉重如石，散发着微弱 的雷电或五行波动 。",
+    "active": "由于玄等宗师以秘法捻动时，会显化出重组的金色符线 残影 。"
+  },
+  "provenance": {
+    "origin": "符箓大阵或高阶符箓在承受剧烈冲击或自毁后留下的遗 迹 。",
+    "karma_link": "见证了桐叶洲大战中妖族与人族顶尖符阵的博弈 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,64 @@
+{
+  "name": "竹衣",
+  "original_name": "清凉",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "一件极其罕见的竹制法袍，原为中土君主所藏。其工艺巧夺天工，能够将身周环境转化为辅助修行的微 型洞天 。",
+  "aliases": [
+    "法袍竹衣",
+    "素纱竹衣",
+    "竹衣素纱法袍"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第517章 读书人和江湖人以及美人",
+      "owner": "隋景澄"
+    },
+    {
+      "chapter": "第520章 久仰久仰",
+      "owner": "隋景澄"
+    },
+    {
+      "chapter": "第523章 大河之畔遇陆地蛟龙",
+      "owner": "隋景澄"
+    },
+    {
+      "chapter": "第750章 万年山巅十一人",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "隋景澄",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "世外高人",
+      "relation": "赠予者"
+    },
+    {
+      "name": "中土大王朝君主",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为“仙家重宝”，通过吸收天地灵气与温养神魂，具备进阶为更高品相法袍的可能 。",
+  "supernatural_ability": "能够调理阴阳，避暑御寒，使穿着者时刻如同置身于袖珍洞天福地中，极大加速修行进度 。",
+  "evolution": {
+    "current_form": "由泛黄竹片编制而成的长衫",
+    "materials_consumed": [
+      "天地精华",
+      "灵气"
+    ],
+    "potential_evolution": "常青道法化身"
+  },
+  "visual": {
+    "static": "由不计其数的泛黄竹片精致编织而成，质地纤薄而极其坚韧 。",
+    "active": "穿着时仙气十足，自带微光，隐约可见灵气如细水在竹纹间流淌 [11-13]。"
+  },
+  "provenance": {
+    "origin": "源自竹海洞天青神山 。",
+    "karma_link": "由神秘高人赠予隋景澄，与其神魂相连，成为其在修行路上的重要凭仗 。"
+  },
+  "enriched": true
+}

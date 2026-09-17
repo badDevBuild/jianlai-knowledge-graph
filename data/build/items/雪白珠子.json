@@ -1,0 +1,50 @@
+{
+  "name": "雪白珠子",
+  "original_name": "灵犀珠",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "灵犀珠是极为罕见的辅助类重宝，尤其在转世开窍一事上具有不可替代的作用。它属于“有价无市”的珍 稀存在，不仅是身份的象征，更是建立山上香火情的重要纽带 。",
+  "aliases": [
+    "雪白珠子"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第106章 鱼龙混杂",
+      "owner": "妇人"
+    },
+    {
+      "chapter": "第312章 变故",
+      "owner": "周肥"
+    }
+  ],
+  "subtype": "辅助/神识类",
+  "holder": "南簪 (大骊太后)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊皇室",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "通过摩挲和气运滋养，可作为贯穿前世今生的大道桥梁，具备极高的修行辅助价值 。",
+  "supernatural_ability": "具有“灵犀一点通”的功效，能帮助修士开悟心神、记起前世记忆，并辅助突破修行关隘 。",
+  "evolution": {
+    "current_form": "由十二颗雪白珠子组成的手钏",
+    "materials_consumed": [
+      "前世残余灵光",
+      "神识精华"
+    ],
+    "potential_evolution": "圆满状态的宿命导引器"
+  },
+  "visual": {
+    "static": "珠体通圆，色泽莹润雪白，散发出柔和且明亮的光芒 。",
+    "active": "摩挲珠子时，珠内会显化出前世刻骨铭心的记忆画面，宛如真实的镜花水月 。"
+  },
+  "provenance": {
+    "origin": "稀有的山上宝物，通常为底蕴深厚的宗门常备，用以接引转世祖师 。",
+    "karma_link": "大骊太后南簪曾以此维持自身神智与记忆，却在大骊京城被陈平安的扈从小陌以剑气禁锢 。"
+  },
+  "enriched": true
+}

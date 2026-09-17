@@ -1,0 +1,52 @@
+{
+  "name": "金穗长剑",
+  "original_name": "麦穗飞剑 / 金秋",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“金秋”是崔东山的标志性佩剑，不仅杀力惊人，更象征着其“事功”学问的外化。它在东华山一役中展现 了极高的剑道位阶，是落魄山一脉的重要战略武力。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第476章 江清月近人",
+      "owner": "杨花"
+    },
+    {
+      "chapter": "第477章 人心中须有日月",
+      "owner": "杨花"
+    }
+  ],
+  "subtype": "攻伐类 / 传讯类",
+  "holder": "崔东山",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "柳洲",
+      "relation": "原主"
+    },
+    {
+      "name": "崔瀺 (绣虎)",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为崔东山的本命伴生法宝之一，随其修为提升，可演化为支撑小千世界的根本剑理 。",
+  "supernatural_ability": "**金穗镇杀**：具备极强的穿透力，能轻易钉死元婴修士的金丹；并在特定范围内担任监察与传讯之职 。",
+  "evolution": {
+    "current_form": "形若金色麦穗的袖珍飞剑 。",
+    "materials_consumed": [
+      "远古剑意",
+      "白帝城炼物秘法"
+    ],
+    "potential_evolution": "可配合阵法演化，显化出如大骊国师虚相法护阵般的宏大气象 。"
+  },
+  "visual": {
+    "static": "外表呈灿烂的金色，形态精巧，酷似一颗饱满成熟的麦穗 。",
+    "active": "飞行时拖曳出细微的金色雷光，可瞬间分化或构建剑气雷池 。"
+  },
+  "provenance": {
+    "origin": "由中土神洲某位大剑仙亲手铸造 。",
+    "karma_link": "原为谪仙山剑仙柳洲所有，因下棋赌输给绣虎而易主，后传予崔东山 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,53 @@
+{
+  "name": "隐官飞剑",
+  "original_name": "剑仙 / 夜游",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是隐官陈平安最具代表性的杀伐利器。其内核由仙剑太白的精华炼制，剑鞘则取自大妖龙君的遗存， 承载了剑气长城与浩然天下双重剑道气运 , , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第628章 万一",
+      "owner": "隐官一脉"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "白也 (残片原主)",
+      "relation": "曾持有"
+    },
+    {
+      "name": "苻畦",
+      "relation": "赠予者"
+    },
+    {
+      "name": "陈清都",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "融合了仙剑“太白”的最强剑尖部分，具备破碎天幕、一剑破万法的至强杀力 , 。",
+  "supernatural_ability": "剑光如月，能照彻人间夜幕；具备极强的斩邪特性，能直接斩碎大妖金丹及仙人遗蜕 , 。",
+  "evolution": {
+    "current_form": "以龙君灰袍为鞘的白鞘长剑 。",
+    "materials_consumed": [
+      "太白剑尖",
+      "龙君遗蜕",
+      "五彩琉璃碎片"
+    ],
+    "potential_evolution": "若集齐太白所有残片，可重现天下第一仙剑之姿 。"
+  },
+  "visual": {
+    "static": "剑身雪白，剑气内敛如秋水 。",
+    "active": "出剑时化作一道金色长线，光彩夺目，剑意高出天外 , 。"
+  },
+  "provenance": {
+    "origin": "融合了太白剑残片与剑气长城战利品 , 。",
+    "karma_link": "陈清都将其作为陈平安与宁姚的婚嫁贺礼，象征剑道的传承与守护 。"
+  },
+  "enriched": true
+}

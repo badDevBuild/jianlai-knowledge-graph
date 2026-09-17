@@ -1,0 +1,38 @@
+{
+  "name": "拜师茶",
+  "original_name": "开山弟子礼",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "拜师茶是落魄山最神圣的仪式之一，代表了陈平安对其 “事功”学问传承的正式认可。每当有新弟子入门，此茶 即是身份与责任的载体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1133章 道上青天",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "礼仪/契约类",
+  "holder": "陈平安 / 崔东山 / 裴钱",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "承载了师徒传承的法统气运，具有稳固宗门因果的效力 。",
+  "supernatural_ability": "作为师徒名分的正式确立，具备一定的愿力加持，可让 师门长辈在冥冥中护佑弟子 。",
+  "evolution": {
+    "current_form": "清香四溢的仙家茶水，盛放在素雅瓷杯中 。",
+    "materials_consumed": [
+      "灵泉水",
+      "名山茶叶"
+    ],
+    "potential_evolution": "若弟子跻身极高境界，此茶之因果可演化为祖师堂的“ 护身符” 。"
+  },
+  "visual": {
+    "static": "清澈透亮，冒着淡淡的白雾，带有沁人心脾的茶香 。",
+    "active": "敬茶与接茶时，师徒间的气运会产生细微的共鸣，甚至 引发祖师挂像的震动 。"
+  },
+  "provenance": {
+    "origin": "源自儒家与山上宗门的传统礼制 。",
+    "karma_link": "连接了陈平安与其弟子（如崔东山、裴钱）之间的生死 契约与传道承诺 。"
+  },
+  "enriched": true
+}

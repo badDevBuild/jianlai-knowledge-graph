@@ -1,0 +1,48 @@
+{
+  "name": "养心壶",
+  "original_name": "山魈壶",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "养心壶是老龙城苻家都倍加珍爱的重宝，其不仅具有极大的存储空间，更能裨益修行者的心境建设 。对于地仙而言，它是极少数能被称为“无价”的方寸物，象征着持有人深厚的气运 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第659章 居中武夫",
+      "owner": "宋集薪"
+    }
+  ],
+  "subtype": "辅助类 / 空间类",
+  "holder": "宋集薪",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宋集薪",
+      "relation": "原主"
+    },
+    {
+      "name": "苻南华",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为极罕见的养心重器，其内部洞天具备随持有者心境而扩张的特殊灵性 。",
+  "supernatural_ability": "壶内自成小洞天，最适宜地仙修士在此修养道心、润泽气府 。",
+  "evolution": {
+    "current_form": "落款为“山魈”的古朴小巧紫砂茶壶 , 。",
+    "materials_consumed": [
+      "地脉灵气",
+      "道门水运"
+    ],
+    "potential_evolution": "若能由上五境修士温养，可演化为稳固神魂的道场核心 。"
+  },
+  "visual": {
+    "static": "外表看似一只普通的古旧茶壶，壶底印有“山魈”二字落款 , 。",
+    "active": "壶身散发出淡淡的紫气，能让周围环境变得宁静祥和 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天早期流传出的古老遗物 , 。",
+    "karma_link": "宋集薪在小镇期间“捡破烂”所得，后卖给苻南华，最终以藩王身份强行收回 , 。"
+  },
+  "enriched": true
+}

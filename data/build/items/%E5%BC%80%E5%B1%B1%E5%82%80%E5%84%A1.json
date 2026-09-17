@@ -1,0 +1,40 @@
+{
+  "name": "开山傀儡",
+  "original_name": "符箓力士 / 搬山傀儡",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这种傀儡被广泛用于搬迁整座山峰或建立仙府，大骊王朝在修建剑舟及山岳渡船时曾大规模投入使用 。",
+  "aliases": [
+    "开山傀儡"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第83章 梦想",
+      "owner": "大骊朝廷/钦天监"
+    }
+  ],
+  "subtype": "劳役/负重类",
+  "holder": "大骊工部 / 山上仙府",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "高品阶的傀儡可负重万斤，等同于中五境修士的部分膂力 。",
+  "supernatural_ability": "力大无穷，能搬迁山岳、拖拽巨大的山岳渡船 。",
+  "evolution": {
+    "current_form": "身形如小山般巨大的金甲或木质傀儡 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "搬山精怪之魂"
+    ],
+    "potential_evolution": "可进一步炼化为具备战斗能力的金甲神人 。"
+  },
+  "visual": {
+    "static": "如同雕塑般屹立，身上布满复杂的能量回路 。",
+    "active": "行走时地动山摇，每一步都能踏断山脊，双目金光流转 。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭役使神灵的遗留手段，后由墨家传承 。",
+    "karma_link": "连接了远古苦役文化与后世王朝基建的纽带 。"
+  },
+  "enriched": true
+}

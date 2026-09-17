@@ -1,0 +1,48 @@
+{
+  "name": "牛毛",
+  "original_name": "紫金养剑葫",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "道祖留下的七大养剑葫芦之一，以“量”著称。虽然名字普通，但品秩极高，是各大宗门梦寐以求的战略 级重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第699章 天下第一人",
+      "owner": "苏稼 (曾属)"
+    }
+  ],
+  "subtype": "养剑类",
+  "holder": "正阳山 (苏稼曾持有)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "原主"
+    },
+    {
+      "name": "苏稼",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道祖亲植的七大养剑葫芦之一，其养剑数量上限极高，为世间之最 。",
+  "supernatural_ability": "养剑数量最多 。能够同时温养规模庞大的飞剑群体而不损灵性 。",
+  "evolution": {
+    "current_form": "紫金材质的亚腰葫芦 。",
+    "materials_consumed": [
+      "剑气",
+      "天地灵气"
+    ],
+    "potential_evolution": "可作为剑道大宗门聚拢剑气、批量温养飞剑的镇山之宝 。"
+  },
+  "visual": {
+    "static": "色泽紫金，小巧玲珑，表面有天然道纹 。",
+    "active": "开启时可喷薄出如牛毛般细密且数量巨大的飞剑，剑光遮天蔽日 。"
+  },
+  "provenance": {
+    "origin": "道祖成仙前亲自在浩然天下种下的一根葫芦藤，其上结出的七颗葫芦之一 。",
+    "karma_link": "曾随苏稼名动一洲，后因苏稼落魄被正阳山收缴 。"
+  },
+  "enriched": true
+}

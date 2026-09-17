@@ -1,0 +1,49 @@
+{
+  "name": "锦囊",
+  "original_name": "丁掌门锦囊",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "包含三种关键指引的特制口袋，分别对应了韦玉殿在异乡开店、弟子得宝与拜会高人的机缘。",
+  "aliases": [
+    "小锦囊"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第431章 岛上来了个账房先生",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1098章 骄傲",
+      "owner": "韦玉殿"
+    }
+  ],
+  "subtype": "辅佐类",
+  "holder": "韦玉殿",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "丁掌门",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "内含天时命理，指引关键的大道缘分。",
+  "supernatural_ability": "包含多条批命谶语（如“遇龙则停，逢青则喜”），能在关键时刻指引持有者避祸得福。",
+  "evolution": {
+    "current_form": "绣有精美图案的小型丝绸口袋。",
+    "materials_consumed": [
+      "风雷笺"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "精致的锦缎袋子，绳结处往往设有法术封禁。",
+    "active": "打开后可见写有谶语的特殊纸笺，灵光流转。"
+  },
+  "provenance": {
+    "origin": "流霞洲曲江上巳剑派丁掌门所赠。",
+    "karma_link": "指引韦玉殿在剑气长城遗址与陈平安完成关键的“交接”。"
+  },
+  "enriched": true
+}

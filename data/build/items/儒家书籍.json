@@ -1,0 +1,45 @@
+{
+  "name": "儒家书籍",
+  "original_name": "《小学》《礼乐》《观止》",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是**修行路上的避风港**。对于陈平安而言，书籍不 仅是知识，更是与齐先生的精神纽带，是他在乱世中坚 持“讲道理”的底气来源,。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第157章 自古圣贤皆寂寞",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "教化/滋养类",
+  "holder": "陈平安 / 曹晴朗 / 宋集薪",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "其他",
+  "rank_potential": "虽材质平凡，但通过修学者日复一日的研读，可生发出 稳固道心的“读书声”,。",
+  "supernatural_ability": "书籍可以**养气、养目、养心**。能平复修行者的急躁 心境，在面对化外天魔时守住灵台清明,。",
+  "evolution": {
+    "current_form": "市井版刻质朴、纸质泛黄的薄册子,。",
+    "materials_consumed": [
+      "宣纸",
+      "笔墨",
+      "苦读之心"
+    ],
+    "potential_evolution": "若受大儒长期温养，可演化为具有压胜功德的“文宝”。"
+  },
+  "visual": {
+    "static": "书皮陈旧但整洁，字迹端正法度森严,。",
+    "active": "朗读时若心有诚意，书页间会隐现微弱白光，阻隔阴风 邪气侵袭,。"
+  },
+  "provenance": {
+    "origin": "产自大骊各地书肆，部分为齐静春亲自选定赠予学生, 。",
+    "karma_link": "承载了陈平安从泥腿子转型为“读书人”的关键因果,。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "道藏(仿)",
+  "original_name": "仿仙剑道藏",
+  "type": "仙剑",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "**道藏(仿)**是吴霜降仿造的四把仙剑之一。它承载了 吴霜降对道门道统的理解，是其跻身十四境的证道工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第777章 还礼",
+      "owner": "吴霜降"
+    },
+    {
+      "chapter": "第779章 剑斩十四",
+      "owner": "吴霜降"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为“下一等真迹”，若能吸收白玉京道门法统，有望恢 复仙兵品秩。",
+  "supernatural_ability": "蕴含道门最高法统的拆解与重塑之意，能压制非正统术 法。",
+  "evolution": {
+    "current_form": "带有数百道细微缺口的古朴长剑，品秩已跌。",
+    "materials_consumed": [
+      "远古道脉残余",
+      "神仙钱"
+    ],
+    "potential_evolution": "修补后可重现吴霜降问剑白玉京时的杀力。"
+  },
+  "visual": {
+    "static": "剑身铭文密布，道气凛然，即便受损仍有金石之声。",
+    "active": "出剑时显化万千金色云篆，可化为大江长河般的符箓剑 阵。"
+  },
+  "provenance": {
+    "origin": "吴霜降耗费无数资源，针对白玉京二掌教佩剑仿制而成 。",
+    "karma_link": "见证了岁除宫对白玉京的终极挑战，后作为赔礼赠予陈 平安。"
+  },
+  "enriched": true
+}

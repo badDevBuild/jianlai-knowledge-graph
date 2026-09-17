@@ -1,0 +1,44 @@
+{
+  "name": "牛角弓",
+  "original_name": "云梦长松",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这把古弓不仅是一件杀力惊人的神兵，更是牵扯到“悬弓福地”隐秘机缘的关键节点 。陈平安得手后一直将其慎重存放于扶摇麓道场，未敢轻易炼化 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第473章 放入壶中洗剑去",
+      "owner": "马录"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "虬髯客张三",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古神兵，它不仅是顶级的远程攻伐利器，更是开启特定远古遗址的唯一凭证 。",
+  "supernatural_ability": "具备惊人的杀力，远古时代曾有修士持此弓射落数头天外飞升境大妖 。",
+  "evolution": {
+    "current_form": "巴掌大小、造型古朴的袖珍小弓 。",
+    "materials_consumed": [
+      "远古巨龙之筋",
+      "万年长松木"
+    ],
+    "potential_evolution": "作为钥匙可开启“悬弓福地”内无人涉足的远古洞天遗址 。"
+  },
+  "visual": {
+    "static": "玲珑袖珍，仿佛稚童嬉戏的玩具，弓身上铭刻有微细的“云梦长松”字样 。",
+    "active": "祭出后会恢复正常弓箭大小，散发出苍茫的远古神性与杀伐气象 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代，曾是某位得道真人的随身兵刃，失踪已久 。",
+    "karma_link": "陈平安在夜航船条目城通过以物易物的方式从张三处换取 。"
+  },
+  "enriched": true
+}

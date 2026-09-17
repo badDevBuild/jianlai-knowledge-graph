@@ -1,0 +1,38 @@
+{
+  "name": "雀屏",
+  "original_name": "飞剑“雀屏”",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是属于蛮荒天下天干修士一脉的强大飞剑，以极其复杂的“眼光分剑光”神通著称。在攻城战中，该飞 剑曾展现出瞬间摧毁大片建筑、横扫州府官邸的恐怖杀力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第708章 圆脸姑娘",
+      "owner": "仙藻"
+    }
+  ],
+  "subtype": "攻伐类 / 幻象类",
+  "holder": "蛮荒女子剑修",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为托月山百剑仙候补的本命物，其分化神通具备成长为“剑气长河”的极致上限 。",
+  "supernatural_ability": "孔雀开屏。能分化出九九八十一道翎羽剑光，每一道剑光上的“翎眼”可继续生发更多细微飞剑 。",
+  "evolution": {
+    "current_form": "色彩绚烂、形似翎羽的袖珍飞剑。",
+    "materials_consumed": [
+      "孔雀大妖精血",
+      "五彩精粹"
+    ],
+    "potential_evolution": "进化后可演化为能够遮蔽半洲视线的巨大幻象剑阵。"
+  },
+  "visual": {
+    "static": "剑身薄如蝉翼，光彩夺目，带有天然的五彩斑斓。",
+    "active": "出剑时如万千孔雀翎羽同时绽放，翠绿流萤横跨虚空，景象华美至极 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下托月山 。",
+    "karma_link": "是蛮荒天下针对剑气长城守卫战专门培育的杀伐手段 。"
+  },
+  "enriched": true
+}

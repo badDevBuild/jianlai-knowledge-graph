@@ -1,0 +1,44 @@
+{
+  "name": "雷击古木与灵芝",
+  "original_name": "雷击木灵芝",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这是一桩由于“天降之福”造就的机缘。枯死的雷击木是 灵芝的修道之地，对于山神府君而言是极好的补益之物 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第892章 世外高人",
+      "owner": "无 (半个有主)"
+    }
+  ],
+  "subtype": "滋养/机缘类",
+  "holder": "姜莹 (霁山府君)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "梁爽",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "灵芝一旦开窍，可演化为能够汲取一洲雷法真意的顶级 仙药 , 。",
+  "supernatural_ability": "灵芝依托雷击木生长，具备极强的净化之力和稳固山河 气运的神效 。",
+  "evolution": {
+    "current_form": "在山间吸收雷电余威、缓慢生长的古木与灵芝 。",
+    "materials_consumed": [
+      "天劫余威",
+      "地脉气数"
+    ],
+    "potential_evolution": "可成长为协助神祇跻身上五境的“成道之资” 。"
+  },
+  "visual": {
+    "static": "古木焦黑却内藏生机，灵芝隐约有雷纹流转 。",
+    "active": "在风雨雷电交加时，会引动空中的雷光进行自我淬炼 。"
+  },
+  "provenance": {
+    "origin": "桐叶洲大梁国边境山头所得 。",
+    "karma_link": "由梁老真人主动让出，最终归属于霁山府君姜莹 , 。"
+  },
+  "enriched": true
+}

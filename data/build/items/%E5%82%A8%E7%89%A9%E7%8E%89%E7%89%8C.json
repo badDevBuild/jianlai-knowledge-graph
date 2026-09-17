@@ -1,0 +1,48 @@
+{
+  "name": "储物玉牌",
+  "original_name": "素白玉牌 / 咫尺物玉牌",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安最重要的**咫尺物**，其珍稀程度令地仙也为之垂涎。它不仅承载了陈平安远游途中的所有 厚实家底，更是其作为落魄山山主“财力”的化身。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第384章 下完棋抄完书",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "郑大风",
+      "relation": "赠予者"
+    },
+    {
+      "name": "灵芝斋",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "材质极其稀罕，内部空间巨大且稳固，具备演化为“小洞天”的极高潜质。",
+  "supernatural_ability": "具备极大的储物空间（约莫如泥瓶巷祖宅大小），且能完全隔绝外界对内部宝物气息的感应。",
+  "evolution": {
+    "current_form": "通体素白、无任何雕饰的方形白玉牌。",
+    "materials_consumed": [
+      "山根水精",
+      "陈平安的心神磨砺"
+    ],
+    "potential_evolution": "可被炼化为具备自我生息能力的微型天地，承载持有者的心相世界。"
+  },
+  "visual": {
+    "static": "质地细腻，触感如丝绸，通透莹澈，无铭文。",
+    "active": "开启时玉牌表面泛起平静的灵气涟漪，陈平安曾在其边缘刻下隐秘文字。"
+  },
+  "provenance": {
+    "origin": "郑大风在老龙城灰尘药铺以此物作为结清因果的赠礼。",
+    "karma_link": "见证了陈平安从积攒家当到布局天下的心路历程，是其收藏各种重宝的核心容器。"
+  },
+  "enriched": true
+}

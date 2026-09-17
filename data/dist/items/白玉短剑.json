@@ -1,0 +1,44 @@
+{
+  "name": "白玉短剑",
+  "original_name": "十五",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“十五”是陈平安最重要的家底之一，它既是一把能够取人首级的飞剑，也是收纳无数法宝的移动宝库 , 。其最大的特色是可以在只有二境修为时就被驾驭，且内部空间极大，足以放置半仙兵等重器 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第655章 高处无人",
+      "owner": "王光景"
+    }
+  ],
+  "subtype": "攻伐类 / 方寸物",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为具备空间属性的特殊飞剑，可通过炼化珍稀斩龙石提升杀力与空间稳固性 , 。",
+  "supernatural_ability": "拥有“方寸”神通，可在剑身内开辟极大的储物空间，且能隔绝外界一切天机感应 , 。",
+  "evolution": {
+    "current_form": "长不过寸余、通体温润的碧玉短剑形态 , 。",
+    "materials_consumed": [
+      "白玉簪",
+      "斩龙台"
+    ],
+    "potential_evolution": "可大炼为五行之外的特殊本命物，兼具飞剑取头颅与咫尺洞天之妙 , 。"
+  },
+  "visual": {
+    "static": "质地细腻如白玉（实为碧玉），外观呈现袖珍小巧的短剑样式 , 。",
+    "active": "祭出时化作幽绿流萤，轨迹诡谲无形，能瞬息穿梭于虚实之间 , 。"
+  },
+  "provenance": {
+    "origin": "由骊珠洞天药铺杨老头（青童天君）亲手炼制 , 。",
+    "karma_link": "陈平安以齐静春所赠玉簪作为交换，从杨老头处购得此物以作南下傍身之用 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "青冥鱼",
+  "original_name": "无",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这尾青冥鱼由阿良在冲澹江捕获，强行斩断其与旧主的神意牵连后赠予李槐，被李槐夹在《断水大崖》 一书中 。它后来进入了齐静春的字帖，如鱼得水，极其欢快 。",
+  "aliases": [
+    "青冥鱼"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第108章 春蒐",
+      "owner": "李锦"
+    },
+    {
+      "chapter": "第111章 斗笠",
+      "owner": "李槐 (阿良赠送)"
+    }
+  ],
+  "subtype": "精魅",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "阿良",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "在名家字帖中温养，灵气充沛，神意可不断壮大",
+  "supernatural_ability": "可豢养在书籍中，能与主人神意牵连，悠然自得地游曳于字里行间",
+  "evolution": {
+    "current_form": "青冥鱼",
+    "materials_consumed": [
+      "天地灵气",
+      "字帖神意"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "青色游鱼模样的袖珍精魅",
+    "active": "在方寸之地扭尾游曳，灵气充沛"
+  },
+  "provenance": {
+    "origin": "由阿良在红烛镇附近的冲澹江中随手拘禁而来",
+    "karma_link": "阿良将其赠予李槐，作为对其“狗屎运”的一种补偿与奖励"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "北衙特制马鞭",
+  "original_name": "缠金丝马鞭 / 追风紫鸾鞭",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是大王朝高层权贵的标配，象征着持有者不仅拥有世 俗权柄，亦有在山下江湖横行无忌的本钱 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1208章 大江流",
+      "owner": "司徒殿武"
+    }
+  ],
+  "subtype": "威仪/辅助类",
+  "holder": "背剑少年 (陈平安分身)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大隋/大骊皇家造办处",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若能融入真实的紫鸾精魂，可进化为能够“破空追风”的 攻伐法宝 。",
+  "supernatural_ability": "挥动时有金芒闪烁，能大幅提升灵物坐骑（如青骢马） 的速度，并能惊退寻常山精 。",
+  "evolution": {
+    "current_form": "柄部镶嵌宝石、鞭身缠绕精金丝的豪华马鞭 。",
+    "materials_consumed": [
+      "精金丝",
+      "龙脊木"
+    ],
+    "potential_evolution": "可炼制为具备“神速”法则的兵家重器。"
+  },
+  "visual": {
+    "static": "极尽豪奢，透着一股大王朝京都权贵的富贵气象 。",
+    "active": "策马时如一抹紫色残影，伴随阵阵风雷之声，气势夺人 。"
+  },
+  "provenance": {
+    "origin": "出自大王朝北衙禁军或皇家御用机构 。",
+    "karma_link": "陈平安以此伪装成豪门子弟游历江湖，见证了多次荒郊 野岭的侠义事迹 。"
+  },
+  "enriched": true
+}

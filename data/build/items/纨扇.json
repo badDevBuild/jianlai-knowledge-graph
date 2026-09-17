@@ -1,0 +1,48 @@
+{
+  "name": "纨扇",
+  "original_name": "避暑纨扇 / 仕女团扇",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不仅是一把装饰用的团扇，更是一件能够“压胜山水 、聚拢气运”的重宝。它代表了青冥天下岁除宫一脉的高 雅审美 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1208章 大江流",
+      "owner": "宫艳"
+    }
+  ],
+  "subtype": "辅助/遮蔽类",
+  "holder": "白衣神女 (龙宫) / 酡颜夫人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "月宫共主",
+      "relation": "原主"
+    },
+    {
+      "name": "李邺侯",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为月宫旧藏，若能重新注入纯粹月魄，可重返仙兵品 秩 。",
+  "supernatural_ability": "具备“明月生凉”神通。扇面能够显化出仕女持扇的层叠 幻象，迷惑敌人神识，并能大范围驱散暑气与瘴气 。",
+  "evolution": {
+    "current_form": "材质细腻、绘有百花或仕女图的圆扇 。",
+    "materials_consumed": [
+      "远古月华",
+      "仙家绢布"
+    ],
+    "potential_evolution": "可演化为能掌控一地小天候的“清凉世界”。"
+  },
+  "visual": {
+    "static": "扇面如水月般通透，文字秀丽，带有某种不属于人间的 清冷感 。",
+    "active": "挥动时月色如水流淌，产生阵阵清凉之意，伴有空灵的 女子歌声 。"
+  },
+  "provenance": {
+    "origin": "源自远古月宫，曾是某位上位神灵的随身之物 。",
+    "karma_link": "见证了南海水君与陈平安之间的重礼交际与赔罪 。"
+  },
+  "enriched": true
+}

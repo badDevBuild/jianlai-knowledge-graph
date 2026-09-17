@@ -1,0 +1,47 @@
+{
+  "name": "仿琉璃阁",
+  "original_name": "仿制琉璃阁",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "**仿琉璃阁**是陈平安用于临时管理中等层次阴物的工具，虽然品相低于阎罗殿，但在隐蔽性上更具优 势 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第446章 风雪宜哉",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第448章 驱马上丘垅",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "拘押类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "俞桧",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽是仿品，但在收纳地仙级阴物方面极具优势 。",
+  "supernatural_ability": "拥有十二间专门针对中五境练气士阴魂的屋舍，可供其死后保持灵智不散 。",
+  "evolution": {
+    "current_form": "仿照白帝城琉璃阁样式的灵器物件 。",
+    "materials_consumed": [
+      "灵气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "外形微缩精美，酷似真正的琉璃阁，散发着微弱的道意涟漪 。",
+    "active": "激发后能开辟临时通道，接引特定阴物进入其中躲避阳气侵蚀 。"
+  },
+  "provenance": {
+    "origin": "陈平安在书简湖从月钩岛地仙俞桧处购买/获得 。",
+    "karma_link": "曾被用来安置北燕国战场上死于刺杀的六境修士阴魂 。"
+  },
+  "enriched": true
+}

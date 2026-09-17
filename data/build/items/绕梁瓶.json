@@ -1,0 +1,44 @@
+{
+  "name": "绕梁瓶",
+  "original_name": "玉春瓶",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "绕梁瓶（或指玉春瓶）是流霞洲青宫山的标志性产物。它不仅是一件精美的文房清供，更是融入了山上 秘法炼制的重宝，常出现在顶级仙子的案头或胭脂榜评选的配套中 。",
+  "aliases": [
+    "绕梁瓶"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第173章 逆旅",
+      "owner": "青衣小童 (交易给陈平安)"
+    },
+    {
+      "chapter": "第189章 猛字楼外说剑之二三事",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "珍玩/文房类",
+  "holder": "山上高阶女修",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "流霞洲青宫山秘法烧造，具名动九洲之资 。",
+  "supernatural_ability": "具有极高的聚气与凝神功效，能大幅提升修士的才情气象及驻颜之能 。",
+  "evolution": {
+    "current_form": "青宫山秘法烧造的玉瓶",
+    "materials_consumed": [
+      "流霞洲特产瓷土",
+      "青宫山秘法"
+    ],
+    "potential_evolution": "可进阶为承载洞天水运的水法重器"
+  },
+  "visual": {
+    "static": "器型秀雅精美，质地细腻，通常带有“绕梁”或“玉春”等名家款识 。",
+    "active": "在灵气激发下，瓶身会泛起如虹光彩，并散发出阵阵仙家清香 。"
+  },
+  "provenance": {
+    "origin": "出自流霞洲青宫山，是山上女修梦寐以求的奢侈雅物 。",
+    "karma_link": "象征着山上宗门的底蕴与高雅的生活方式 。"
+  },
+  "enriched": true
+}

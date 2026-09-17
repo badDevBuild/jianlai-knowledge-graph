@@ -1,0 +1,52 @@
+{
+  "name": "谷雨帖",
+  "original_name": "求醉帖 / 烂醉如泥贴",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是老秀才为陈平安求取的重宝之一。字帖融合了柳七的词采与李邺侯的藏书文气，是极少数能兼具“ 文”“水”两道极致意蕴的仙兵遗物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第527章 思无邪即从容",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文运/意境类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老秀才 (文圣)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "李邺侯 (原皎月湖水君)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "柳七",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "字帖本身不仅是书法神品，更可作为开辟一方“六百里大湖”水域的阵图底本 。",
+  "supernatural_ability": "蕴含极强的文运道韵与“酒虫”神异。字帖内藏有一方水运浓郁的修行之地 。",
+  "evolution": {
+    "current_form": "水纹宣纸字帖，墨迹满纸酒气，清香扑鼻 。",
+    "materials_consumed": [
+      "圣贤文气",
+      "大泽水运"
+    ],
+    "potential_evolution": "可炼化为落魄山或下宗祖师堂的镇山之宝，聚拢一方文运气数 。"
+  },
+  "visual": {
+    "static": "纸张上有细微如丝线的“酒泥”虫游曳，文字气势雄健 。",
+    "active": "观摩时可见字中意象，有“山水相逢、大醉一场”的幻境气象 。"
+  },
+  "provenance": {
+    "origin": "由柳七撰写，在文庙议事期间由李邺侯作为贺礼赠予文圣转交陈平安 。",
+    "karma_link": "承载了文圣一脉与中土诸位名士的深厚香火情 。"
+  },
+  "enriched": true
+}

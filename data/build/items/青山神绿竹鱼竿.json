@@ -1,0 +1,44 @@
+{
+  "name": "青山神绿竹鱼竿",
+  "original_name": "绿竹鱼竿",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安以青神山竹子打造的随身物件之一。它不仅是一件渔具，更是他在游历山水间磨砺心境、观察江 河水脉的媒介。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第782章 天下圣贤豪杰",
+      "owner": "张条霞"
+    }
+  ],
+  "subtype": "垂钓类 / 修心类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青神山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "取材自青神山绿竹，具备极强的灵气承载能力。",
+  "supernatural_ability": "能够平定水波，对水裔精怪具有天然的亲和与压胜之力，适合垂钓稀有的水产灵物。",
+  "evolution": {
+    "current_form": "一根由青翠绿竹打造的修长鱼竿。",
+    "materials_consumed": [
+      "青神山绿竹",
+      "紫竹"
+    ],
+    "potential_evolution": "可配合“水字印”炼化为具备拘押江河龙种能力的“打龙篙”。"
+  },
+  "visual": {
+    "static": "颜色青翠欲滴，竹节均匀，透着淡淡的草木清香。",
+    "active": "入水后丝线稳如泰山，能够感应到方圆百里内的水运流动。"
+  },
+  "provenance": {
+    "origin": "材质取自青神山（青山神），由陈平安亲自打造。",
+    "karma_link": "陈平安曾用此物在多处水域垂钓，其材质见证了落魄山与青神山的因果。"
+  },
+  "enriched": true
+}

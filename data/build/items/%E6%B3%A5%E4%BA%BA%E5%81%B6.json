@@ -1,0 +1,44 @@
+{
+  "name": "泥人偶",
+  "original_name": "五枚泥人塑像",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这套泥人是李槐多宝格中的“麾下大将” 。它们并非死物，而是蕴含高深数术与符箓秘法的半死之物，能在危急时刻显化神通庇护主人 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第405章 山巅斗法",
+      "owner": "李槐"
+    }
+  ],
+  "subtype": "傀儡类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏晋",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若能以五行精髓持续喂养，最高战力可等同于七、八境练气士 。",
+  "supernatural_ability": "结合了阴阳家、墨家傀儡术与符箓派学问，温养得当可“活”过来并自行御敌 。",
+  "evolution": {
+    "current_form": "半指高的五枚泥塑小人，分别是游侠、道人、武将、骑鹤仙子与更夫 。",
+    "materials_consumed": [
+      "持有者气机",
+      "五行精髓"
+    ],
+    "potential_evolution": "可演化为具备独立战斗能力的仙家傀儡 。"
+  },
+  "visual": {
+    "static": "工艺极其精湛，虽然微小，但眉目服饰栩栩如生 。",
+    "active": "祭出时可显化出对应的神异姿态，如剑仙出剑、金甲擂鼓等 。"
+  },
+  "provenance": {
+    "origin": "风雪庙大剑仙魏晋赠送 。",
+    "karma_link": "魏晋为报答陈平安护送李宝瓶等人的情谊，赠予李槐作为护身礼物 。"
+  },
+  "enriched": true
+}

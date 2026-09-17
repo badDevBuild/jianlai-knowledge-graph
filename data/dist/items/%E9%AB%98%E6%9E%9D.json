@@ -1,0 +1,38 @@
+{
+  "name": "高枝",
+  "original_name": "本命飞剑“高枝”",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是宝瓶洲某位德高望重的元婴老剑仙的本命飞剑 。其名“高枝”，寓意剑光居高临下，出剑时气势雄壮，是典型的攻坚型飞剑 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第721章 白也去也",
+      "owner": "老剑修(宝瓶洲)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "某元婴老剑修",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为老牌元婴剑仙的本命物，其剑意凝聚程度极高，可随主人的修为进一步淬炼杀力 。",
+  "supernatural_ability": "**“剑光坠落”**。能够化作一大圈恢弘剑光笼罩战场，剑光如雨后如山岳倾轧，能将大范围内的目标彻 底炸碎 。",
+  "evolution": {
+    "current_form": "寄托于元婴剑修窍穴内的本命飞剑 。",
+    "materials_consumed": [
+      "庚金精华",
+      "百年剑气温养"
+    ],
+    "potential_evolution": "若能跻身玉璞境，其覆盖范围与爆炸威力将呈倍数增长 。"
+  },
+  "visual": {
+    "static": "在窍穴内微缩如针，蕴含极高的金属密度感 。",
+    "active": "祭出时剑意凌厉，形成巨大的金色或雪白光圈，从高处轰然坠地 。"
+  },
+  "provenance": {
+    "origin": "由宝瓶洲某位资深元婴老剑修在长期修行中孕育而成 。",
+    "karma_link": "在保卫家乡战役中多次立功，尤其在处理大规模敌军时杀力巨大 。"
+  },
+  "enriched": true
+}

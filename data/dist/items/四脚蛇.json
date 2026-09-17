@@ -1,0 +1,55 @@
+{
+  "name": "四脚蛇",
+  "original_name": "王琼琚 / 寒酥",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "泥瓶巷的奇异生灵之一。它曾是宋集薪在小镇生活时的宠物，看似猥琐胆小，实则承载了部分龙气机缘 ，现为东海水府的背葫芦少年 , 。",
+  "aliases": [
+    "幼蛟",
+    "土脚蛇"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1章 惊蛰",
+      "owner": "宋集薪"
+    },
+    {
+      "chapter": "第415章 人间最得意",
+      "owner": "宋集薪"
+    },
+    {
+      "chapter": "第657章 再来一碗阳春面",
+      "owner": "宋集薪(原)"
+    }
+  ],
+  "subtype": "气运类 / 走兽",
+  "holder": "王朱（东海水君）",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "宋集薪",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "虽然资质看似平庸，但作为真龙遗蜕的一部分，具备跻身地仙甚至更高神位的潜力 。",
+  "supernatural_ability": "“真龙庇护”。能够反哺主人的龙气，在宋集薪尚未发迹时便主动投靠，助其聚拢大骊国祚气运 , 。",
+  "evolution": {
+    "current_form": "被真龙王朱收为扈从，赐名王琼琚，担任水府司职 。",
+    "materials_consumed": [
+      "谷雨钱",
+      "大蛇胆石"
+    ],
+    "potential_evolution": "完全炼形后可成就真龙后裔的金身 , 。"
+  },
+  "visual": {
+    "static": "外表是乡野常见的土黄色四脚小蛇，常趴在门槛晒太阳 , 。",
+    "active": "静止时恢复真身，通体如琉璃般晶莹，额头隆起，峥嵘初露 , 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天泥瓶巷，真龙陨落地衍生出的异种 。",
+    "karma_link": "因畏惧真龙王朱而选择投靠大骊皇子宋集薪，后被王朱强制收为随从 , 。"
+  },
+  "enriched": true
+}

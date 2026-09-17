@@ -1,0 +1,38 @@
+{
+  "name": "金衣蟹",
+  "original_name": "书简湖金衣蟹",
+  "type": "灵物",
+  "grade": "灵材",
+  "status": "消耗",
+  "description": "金衣蟹是**书简湖乃至桐叶洲最负盛名的珍馐**。尤其是‘竹枝’品种， 极难捕获，常作为岛主会盟或豪门盛宴的最高标准象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第428章 秋狩时分，请君入瓮",
+      "owner": "无"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "书简湖地仙 / 权贵豪门",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "长期在灵气充沛的水域生长，可转化为含有浓郁水运精华的灵食 。",
+  "supernatural_ability": "口感极佳，蕴含充沛的水运灵气。食用后可裨益修行，尤其是水法练气 士，被视为辅助破境的珍品 。",
+  "evolution": {
+    "current_form": "个头极大、背部带有淡金色纹路的螃蟹 。",
+    "materials_consumed": [
+      "书简湖水运",
+      "天地灵气"
+    ],
+    "potential_evolution": "若是年份极高，可化为水府中的传讯精魅。"
+  },
+  "visual": {
+    "static": "蟹壳坚硬如铁，呈现出一种暗金色的光泽 。",
+    "active": "烹制后异香扑鼻，雾气中隐约有金光流动 。"
+  },
+  "provenance": {
+    "origin": "产自书简湖深水区域 。",
+    "karma_link": "董水井通过经营此类顶级河鲜，成功在大泉王朝和书简湖之间建立了一 条稳固的财路 。"
+  },
+  "enriched": true
+}

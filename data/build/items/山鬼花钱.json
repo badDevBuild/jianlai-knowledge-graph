@@ -1,0 +1,38 @@
+{
+  "name": "山鬼花钱",
+  "original_name": "山鬼雷公八卦花钱",
+  "type": "货币",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是典型的“大开门”物件，在夜航船的包袱斋中常有出 现。虽然不是杀伐利器，却是极具人间烟火气的辟邪重 物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1093章 雪光",
+      "owner": "顾灵验"
+    }
+  ],
+  "subtype": "灵物/民俗类",
+  "holder": "包袱斋 / 散修",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "作为具有辟邪寓意的特殊货币，受香火浸染后可演化为 压胜阴物的法器 。",
+  "supernatural_ability": "正面刻有山鬼符文，背面有雷公八卦图案，具备微弱的 辟邪、定惊及镇宅功效 。",
+  "evolution": {
+    "current_form": "形制古朴的青铜质地花钱，常作为挂件或镇库之用 。",
+    "materials_consumed": [
+      "精铜",
+      "微量灵气"
+    ],
+    "potential_evolution": "可炼化入“五雷法印”，增强对山精鬼魅的压制力。"
+  },
+  "visual": {
+    "static": "钱币外圆内方，刻有山鬼、雷公等民俗神祇的简练线条 ，带有厚重的包浆 。",
+    "active": "在遭遇邪祟时，钱币会微微发热，散发出淡淡的雷火气 息。"
+  },
+  "provenance": {
+    "origin": "浩然天下民俗文化与山上符箓道的结合产物 。",
+    "karma_link": "连接了山下百姓的祈愿与山上修士的压胜手段。"
+  },
+  "enriched": true
+}

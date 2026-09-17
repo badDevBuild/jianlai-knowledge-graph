@@ -1,0 +1,44 @@
+{
+  "name": "雷鸣鼓腹瓶",
+  "original_name": "神霄山雷瓶",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是林守一早期修行雷法的核心法宝，帮助他完成了从凡人向练气士的能量积蓄 。其独特的“鼓腹”设计使其能容纳海量雷电，是极其罕见的收集类灵器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第400章 远游北归",
+      "owner": "林守一"
+    }
+  ],
+  "subtype": "辅助/收集类",
+  "holder": "林守一",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "大隋书院夫子",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "通过不断采集各大名山雷云，有望炼化为雷部正统的攻伐重器 。",
+  "supernatural_ability": "收集雷电：专门用于在雷雨季节或雷泽之地搜集并储存狂暴的雷电真意 。",
+  "evolution": {
+    "current_form": "肚大颈窄的青瓷瓶，瓶身带有雷云纹路 。",
+    "materials_consumed": [
+      "神霄山雷云精华",
+      "金精铜粉"
+    ],
+    "potential_evolution": "可作为林守一修习《云上琅琅书》中雷法的核心补给资源 。"
+  },
+  "visual": {
+    "static": "瓶身散发出淡淡的电芒，靠近时可听到细微的雷鸣声 。",
+    "active": "开启瓶塞后，可释放出积攒的雷电之力，声如擂鼓，威力惊人 。"
+  },
+  "provenance": {
+    "origin": "由大隋山崖书院的一位精通雷法的夫子赠予林守一 。",
+    "karma_link": "林守一曾在神霄山以此瓶闭关数月，从而真正踏入雷法修行的大门 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "琉璃碎块",
+  "original_name": "五彩琉璃碎块 / 飞升境金身碎片",
+  "type": "材料",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这是**世间最顶级的炼物仙材**。陈平安曾从战场遗址 中捞取此类碎块，计划将其作为落魄山成员未来金身的 基石 。",
+  "aliases": [
+    "琉璃碎片"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1186章 何谓剑仙如云",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "强化/锻造类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杜懋",
+      "relation": "原主"
+    },
+    {
+      "name": "桐叶宗",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为飞升境修士的道果显化，是重塑顶尖神灵金身或甲 胄的核心资粮 。",
+  "supernatural_ability": "蕴含大修士大道崩溃后的残余力量，可用于稳固神灵金 身或在炼物时赋予极高防御属性 。",
+  "evolution": {
+    "current_form": "闪烁着五彩琉璃光泽的小块碎片，沉重异常 。",
+    "materials_consumed": [
+      "飞升境修士魂魄残余",
+      "光阴长河精华"
+    ],
+    "potential_evolution": "归拢后可重塑为等同于上五境战力的金身傀儡 。"
+  },
+  "visual": {
+    "static": "如同被打碎的彩虹宝石，散发出内敛的五彩辉光 。",
+    "active": "融入阵法或器物时，会流淌出浓稠的辉光，瞬间修复破 损处 。"
+  },
+  "provenance": {
+    "origin": "飞升境修士渡劫失败身死道消后，由破碎的金身剥落而 成 。",
+    "karma_link": "见证了杜懋等大修士的陨落以及一洲气运的流散 。"
+  },
+  "enriched": true
+}

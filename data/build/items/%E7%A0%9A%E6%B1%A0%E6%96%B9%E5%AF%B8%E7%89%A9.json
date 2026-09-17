@@ -1,0 +1,48 @@
+{
+  "name": "砚池方寸物",
+  "original_name": "日月同壁抄手砚 / 山君砚",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这方砚台是白帝城珍藏的重宝，既是顶级的方寸物，也是一件极具文人风气的清供。它不仅装载了陈平 安的大量神仙钱，更是他在修行炼物之道时的重要参考 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第720章 不能白忙一场",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "空间类 / 文房类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "郑居中",
+      "relation": "赠予者"
+    },
+    {
+      "name": "沛湘 (原主后代或藏家)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由白帝城郑居中赠送，内部空间稳固，具备向小型洞天演化的上限 [20-22]。",
+  "supernatural_ability": "“在在处处，神灵护持”。不仅具备极大的储物空间，其砚池底部还刻有能稳定心神的古老铭文 。",
+  "evolution": {
+    "current_form": "夔龙纹虫蛀砚台样式，侧面刻有“山君”二字。",
+    "materials_consumed": [
+      "金精铜钱",
+      "岁月道韵"
+    ],
+    "potential_evolution": "随陈平安炼物造诣提升，可演化为可随身携带的微缩道场 。"
+  },
+  "visual": {
+    "static": "日月同壁形制，砚背凿有对应二十八星宿的眼柱，古朴且沉重 。",
+    "active": "开启时会有云垂水立的异象，内部空间广袤，灵气充沛 。"
+  },
+  "provenance": {
+    "origin": "中土白帝城，后由郑居中赠予陈平安以装载神仙钱 。",
+    "karma_link": "朱敛曾在其上添刻铭文及“不言侯”花押，承载了落魄山与白帝城的微妙因果 。"
+  },
+  "enriched": true
+}

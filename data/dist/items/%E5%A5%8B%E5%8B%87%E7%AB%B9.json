@@ -1,0 +1,44 @@
+{
+  "name": "奋勇竹",
+  "original_name": "十德竹之一",
+  "type": "材料",
+  "grade": "灵植",
+  "status": "活跃",
+  "description": "**奋勇竹是《剑来》中极具正气的灵木材料** 。它不仅是落魄山“家底”的象征，更是纯粹武夫和兵家修士砥砺体魄 的最佳辅助物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第461章 不当那善财童子",
+      "owner": "魏檗"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "通过文运浸润可演化为记录君子功德的“功德木” 。",
+  "supernatural_ability": "具有“兵威已振，譬如破竹”的势头，天然压胜山川鬼魅 。",
+  "evolution": {
+    "current_form": "青翠欲滴的灵竹，竹节整齐，质地沁凉 。",
+    "materials_consumed": [
+      "竹海洞天灵气",
+      "浩然气"
+    ],
+    "potential_evolution": "可作为落魄山竹楼和各种法器的核心主材 。"
+  },
+  "visual": {
+    "static": "色泽如玉，带有淡淡清香，表面隐约可见自然生成的符文脉络 。",
+    "active": "以此制成的打鬼鞭或书箱可散发出震慑阴物的灵光 。"
+  },
+  "provenance": {
+    "origin": "源自竹海洞天青神山，由魏檗在棋墩山精心栽植 。",
+    "karma_link": "见证了陈平安为李宝瓶打造书箱及建造落魄山竹楼的因果 [1-3]。"
+  },
+  "enriched": true
+}

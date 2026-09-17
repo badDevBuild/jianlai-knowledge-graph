@@ -1,0 +1,44 @@
+{
+  "name": "九真仙馆宝镜",
+  "original_name": "仙人宝镜",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "九真仙馆的传承至宝，以**“水精境界”**和**“捉剑术”**闻名于世，是仙人云杪在山上立身之本的核心 法宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第793章 很绣虎",
+      "owner": "云杪"
+    }
+  ],
+  "subtype": "压胜类 / 侦测类",
+  "holder": "云杪",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "九真仙馆历代祖师",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为九真仙馆的**本命至宝**，具有极高的道门正统加持，是一方山头的镇压重器 。",
+  "supernatural_ability": "具备三层山水禁制：第一层“持镜紫清”可斩伐百精；第二层包含三条火龙，能焚烧灵气；第三层为祈雨 道诀，可禁锢飞剑 。",
+  "evolution": {
+    "current_form": "雪白铜镜 。",
+    "materials_consumed": [
+      "火龙真意",
+      "九真仙馆祈雨道诀"
+    ],
+    "potential_evolution": "可配合“天绳缚鬼神”术法进一步增强捉剑能力 。"
+  },
+  "visual": {
+    "static": "镜面刻有两圈铭文，分别为“古镜照神，体素储洁，乘月反真”等字样 。",
+    "active": "镜面亮如白日，铭文显化为山水禁制，火龙飞速旋转，法相宝光大如井口 。"
+  },
+  "provenance": {
+    "origin": "源自中土神洲九真仙馆，是该道门的法统承载物 。",
+    "karma_link": "在鸳鸯渚一战中，云杪以此镜对敌陈平安的飞剑 。"
+  },
+  "enriched": true
+}

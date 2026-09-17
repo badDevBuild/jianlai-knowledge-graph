@@ -1,0 +1,44 @@
+{
+  "name": "狂草字帖",
+  "original_name": "书癫子县尉墨宝",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这些字帖钤印有“幼蛟气壮”、“墨池仙人”等私章，每一幅都蕴含着极致的精气神，被陈平安认为价值远 胜一般神仙钱 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第453章 吾心安处打个盹儿",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "秘籍类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "梅釉国疯癫酒鬼县尉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因其文字神采与大道契合，具备被炼化为镇山之宝的潜力 。",
+  "supernatural_ability": "字迹回旋进退莫不合道，具有“临水照之字化蛟龙，夜间远游鬼神惊”的神异力量 。",
+  "evolution": {
+    "current_form": "一大摞气势奔放、神采动人的狂草字帖 。",
+    "materials_consumed": [
+      "宣纸",
+      "仙家酒酿 (以酒易字)"
+    ],
+    "potential_evolution": "可作为落魄山藏书楼的传家宝，供门内弟子参悟拳意与剑道 。"
+  },
+  "visual": {
+    "static": "笔墨淋漓，字里行间充斥着书家谪仙人的狂放气概 。",
+    "active": "观摩时能感到如同剑光破空、重拳凿阵的冲击感 。"
+  },
+  "provenance": {
+    "origin": "陈平安在梅釉国一处县衙内，以五壶仙家美酒向一位醉酒县尉换得 。",
+    "karma_link": "体现了“一笔写去不问文意”的浪漫修行观，是陈平安极少主动收藏的雅物 。"
+  },
+  "enriched": true
+}

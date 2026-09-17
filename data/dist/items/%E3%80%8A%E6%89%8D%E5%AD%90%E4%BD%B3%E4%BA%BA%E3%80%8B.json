@@ -1,0 +1,47 @@
+{
+  "name": "《才子佳人》",
+  "original_name": "才子佳人小说",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这类书籍在《剑来》中代表了极重的人间烟火气，是儒家教化与市井欲 望博弈的微观阵地，常被朱敛等人用来磨砺道心 。",
+  "aliases": [
+    "《才子佳人》"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第238章 春风送君千万里",
+      "owner": "年幼狐仙"
+    }
+  ],
+  "subtype": "文化类 / 小说",
+  "holder": "朱敛 / 萧形",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "敬仰楼",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "凝聚人间七情六欲，在大修士手中可化为构建心相世界的底本 。",
+  "supernatural_ability": "虽无杀伐威力，却能通过文字浸染，影响福地民风并聚拢文运 。",
+  "evolution": {
+    "current_form": "市井书肆常见的小说刻本，多描写男女情爱或鬼怪神异 。",
+    "materials_consumed": [
+      "宣纸",
+      "笔墨",
+      "人心愿力"
+    ],
+    "potential_evolution": "受文运加持后可演化为具有“书中鱼”蠹鱼的灵物载体 。"
+  },
+  "visual": {
+    "static": "版刻质朴或精美，墨香沉淀，书页间可能藏有细微的蠹鱼 。",
+    "active": "翻阅时文字如水流转，能引人入胜，使人心境起伏 。"
+  },
+  "provenance": {
+    "origin": "产自浩然天下各大书肆，或由藕花福地、百花福地流传 。",
+    "karma_link": "朱敛常通过此类书籍揣摩人心，辅助陈平安经营福地 。"
+  },
+  "enriched": true
+}

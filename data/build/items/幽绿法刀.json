@@ -1,0 +1,48 @@
+{
+  "name": "幽绿法刀",
+  "original_name": "青霞法刀",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这把幽绿法刀是陈平安在太平山之役中从仙人韩玉树手中夺得的战利品。它不仅是一件锋锐的兵器，更 承载了青霞洞天的部分古老法统，被陈平安视为研究高端炼物之道的重要标本 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1117章 先后问剑白玉京",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "韩玉树",
+      "relation": "夺取自"
+    },
+    {
+      "name": "万瑶宗开山祖师",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为出自青霞洞天的古老重器，具备通过吸收神性余韵进一步进阶为半仙兵的资质 。",
+  "supernatural_ability": "“破障斩虚”。刀身蕴含极强的阴柔毒辣之气，曾被韩玉树用于偷袭高阶修士。陈平安夺取后，试图以此 作为炼物试验的载体 。",
+  "evolution": {
+    "current_form": "通体呈现晶莹剔透的幽绿色，锋刃极为纤细 。",
+    "materials_consumed": [
+      "青霞洞天道蕴",
+      "修士神魂精血"
+    ],
+    "potential_evolution": "若能补全青霞洞天的核心道诀，可成为执掌一方洞天的禁忌兵器。"
+  },
+  "visual": {
+    "static": "刀身如初春柳叶，晶莹润泽，散发着淡淡的幽光 。",
+    "active": "出刀时带起连绵的幽绿涟漪，能像切开纸页般割开普通修士的护身气场 。"
+  },
+  "provenance": {
+    "origin": "万瑶宗开山祖师得自于三山福地附近的青霞洞天 。",
+    "karma_link": "见证了太平山风波中万瑶宗韩氏的陨落与落魄山的崛起 。"
+  },
+  "enriched": true
+}

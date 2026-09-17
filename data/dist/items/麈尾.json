@@ -1,0 +1,60 @@
+{
+  "name": "麈尾",
+  "original_name": "拂尘",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这是一件品秩极高的仙兵级麈尾（拂尘）。其最大特色在于其在阴冥之地长久留存而不腐、不染的特性 ，是修道之人稳固道心、辟邪除魔的无上利器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第662章 去而复还",
+      "owner": "道门圣人"
+    },
+    {
+      "chapter": "第671章 天寒加衣",
+      "owner": "老道人"
+    },
+    {
+      "chapter": "第814章 般配",
+      "owner": "杨清恐"
+    },
+    {
+      "chapter": "第1213章 意气生",
+      "owner": "元承负"
+    }
+  ],
+  "subtype": "压胜类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "琼瓯",
+      "relation": "夺取自"
+    },
+    {
+      "name": "归灵湘",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为上等仙兵品秩的重宝，具备震慑阴冥万鬼、洁净天地灵气的极致潜力 。",
+  "supernatural_ability": "具备“不染”特性，即便身处阴冥之地多年也不沾染阴煞气息；能避开阴冥鬼差的视线 。",
+  "evolution": {
+    "current_form": "绯紫色长木柄，由三千六百余根雪白丝线组成，衔有一枚小金环 。",
+    "materials_consumed": [
+      "远古月魄",
+      "纯净灵气"
+    ],
+    "potential_evolution": "若能由高位道官大炼，可成为执掌一方天地的教化法物 。"
+  },
+  "visual": {
+    "static": "质地古朴，木柄呈绯紫色，丝线洁白如雪且极其纤细 。",
+    "active": "挥动时宝光流转，能够驱散阴邪迷雾，保持方圆之地的清净 。"
+  },
+  "provenance": {
+    "origin": "仙簪城开山祖师归灵湘的遗物 。",
+    "karma_link": "曾流落至大妖琼瓯之手两千年，后被陈平安在蛮荒天下收缴，并计划赠予飞升城祖师堂 。"
+  },
+  "enriched": true
+}

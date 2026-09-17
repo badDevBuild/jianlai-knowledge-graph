@@ -1,0 +1,50 @@
+{
+  "name": "春梦蛛",
+  "original_name": "五彩梦蛛 / 旖旎蛛",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "常被宗门用作砥砺弟子道心的工具，也是某些旁门左道辅助修炼的必需 品 。",
+  "aliases": [
+    "五彩蜘蛛"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第287章 北行",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第760章 不对",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "精魅/砥砺类",
+  "holder": "陆台",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吞宝鲸店铺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "在大修士手中可演化为编织“幻境小天地”的核心引子。",
+  "supernatural_ability": "喜好采撷梦境，在主人入睡后于头顶织网，引导其进入旖旎梦境，消受 春宵 。",
+  "evolution": {
+    "current_form": "指甲盖大小、五彩斑斓的蜘蛛 。",
+    "materials_consumed": [
+      "七情六欲",
+      "修士梦境"
+    ],
+    "potential_evolution": "可配合特定道脉演化为“红尘洗心阵”。"
+  },
+  "visual": {
+    "static": "通体五彩，形态讨喜，丝线呈半透明的彩色 。",
+    "active": "织网时散发出迷幻的宝光，覆盖主人的识海 。"
+  },
+  "provenance": {
+    "origin": "产自崇尚双修的道派或特定的欲望秘境 。",
+    "karma_link": "陆台花费六百雪花钱购买，认为其形态可爱，体现了其随性的修道心性 。"
+  },
+  "enriched": true
+}

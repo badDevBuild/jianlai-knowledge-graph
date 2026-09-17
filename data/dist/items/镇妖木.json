@@ -1,0 +1,38 @@
+{
+  "name": "镇妖木",
+  "original_name": "压胜木器",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "一种在**山上极其流行**的压胜灵器，常与搜山图、照妖镜配合使用。 它在低阶练气士手中能起到**护道**作用，确保在荒郊野岭不被寻常精魅侵扰。 陈平安在远游途中曾见识过此类法宝如何通过**材质与符文**的配合来压制邪祟。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第219章 道士吟诗",
+      "owner": "神诰宗小道童"
+    }
+  ],
+  "subtype": "镇压/压胜类",
+  "holder": "神诰宗修士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随修士灵气温养可增强对低阶妖物的压制力。",
+  "supernatural_ability": "能够配合缚妖索、打鬼鞭等物，先天压胜山川鬼魅与湖泽精怪。",
+  "evolution": {
+    "current_form": "篆刻有雷符或镇妖咒文的木质令牌或短棒。",
+    "materials_consumed": [
+      "灵气",
+      "香火"
+    ],
+    "potential_evolution": "若由雷击木制成，可进化为具备天威的雷木法器。"
+  },
+  "visual": {
+    "static": "通常由桃木、枣木制成，表面布满复杂的压胜纹路。",
+    "active": "祭出时散发淡淡灵光，令妖魔胆战心惊，甚至不敢靠近修士方圆数丈。"
+  },
+  "provenance": {
+    "origin": "多出自神诰宗、龙虎山等正统符箓派山头。",
+    "karma_link": "是浩然天下练气士远游跋涉、探幽访仙的必备之物。"
+  },
+  "enriched": true
+}

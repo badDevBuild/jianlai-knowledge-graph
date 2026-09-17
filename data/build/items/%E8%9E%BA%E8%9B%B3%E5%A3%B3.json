@@ -1,0 +1,48 @@
+{
+  "name": "螺蛳壳",
+  "original_name": "破碎小洞天秘境 / 咫尺物",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件极具空间玄学的法宝。陈平安在夜航船一役中得手，它象征着“微小中见博大”的修道哲思，被 预定为落魄山重要成员的修行根基 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1024章 辛苦最怜天上月",
+      "owner": "刘幽州"
+    }
+  ],
+  "subtype": "空间类 / 传承类",
+  "holder": "箜篌 (由陈平安转赠)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "吴霜降",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为破碎小洞天炼化而成的空间秘宝，具有演化为独立法统发龙之地的潜力 。",
+  "supernatural_ability": "“螺蛳壳里做道场” 。能在极其微小的空间内构建出宏大的道场或府邸，内部气象可媲美传说中的洞天 。",
+  "evolution": {
+    "current_form": "被炼化为“咫尺物”的一处破碎小洞天 。",
+    "materials_consumed": [
+      "远古洞天碎片",
+      "岁除宫禁制"
+    ],
+    "potential_evolution": "可作为落魄山谱牒修士未来的道场所在，法统之源 。"
+  },
+  "visual": {
+    "static": "外表看似寻常的袖珍器物，实则重叠了多重山水禁制 。",
+    "active": "开启后显现出广袤无垠的小天地，内部可安置如“歇龙石”等宏大建筑 。"
+  },
+  "provenance": {
+    "origin": "由吴霜降在夜航船上赠予，实为炼化后的破碎秘境 。",
+    "karma_link": "陈平安计划将其交予箜篌，作为其修行与建立法统的基础 。"
+  },
+  "enriched": true
+}

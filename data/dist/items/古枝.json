@@ -1,0 +1,46 @@
+{
+  "name": "古枝",
+  "original_name": "礼圣树枝 / 戳地木枝",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这根树枝是礼圣（小夫子）早年的悟道之物。陆沉远游 时常将其作为手杖，看似寻常，实则蕴含着天地间最初 的“规矩” 。",
+  "aliases": [
+    "坠有绿芽的古老树枝"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1075章 夫子自道扪心自问",
+      "owner": "白景"
+    }
+  ],
+  "subtype": "法理/干扰类",
+  "holder": "陆沉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "礼圣 (小夫子)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "承载了礼圣最初圈画大道的真意，具备演化为定鼎天地 之规矩的潜力 。",
+  "supernatural_ability": "能在地面戳点、圈画并发出“咄咄”声响 。具备干扰他人视线、使其无法看破持有者真实相貌 的神异 。",
+  "evolution": {
+    "current_form": "一根坠有绿芽的普通树枝 。",
+    "materials_consumed": [
+      "远古道韵",
+      "礼法真意"
+    ],
+    "potential_evolution": "若能补全礼圣教化功德，可化为支撑天地秩序的“法纪 之杖”。"
+  },
+  "visual": {
+    "static": "平平无奇的枯木，顶端缀有一抹极具生命力的嫩绿幼芽 。",
+    "active": "陆沉拄着它行走于街道时，树梢在地面蹦跳发出的声音 具有独特的节奏感 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代礼圣在蛮荒大地圈画道理时的随手之物 。",
+    "karma_link": "象征着从蛮荒无序向浩然有序的演化逻辑 。"
+  },
+  "enriched": true
+}

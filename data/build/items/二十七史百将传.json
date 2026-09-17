@@ -1,0 +1,48 @@
+{
+  "name": "二十七史百将传",
+  "original_name": "百将传全集",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一套承载了无数将领功业的重宝。虽然曾因残缺而 降低了价值，但在陈平安的运作下，成为了稳固大骊地 方神道秩序的重要工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第949章 让道",
+      "owner": "张平"
+    },
+    {
+      "chapter": "第976章 炼剑即远游",
+      "owner": "李锦(原)"
+    }
+  ],
+  "subtype": "历史/军事类",
+  "holder": "张平 (处州城隍)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李锦 (冲澹江水神)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "集齐全部卷轴并得到兵家圣人批注，可演化为召唤英灵 的“点将录” 。",
+  "supernatural_ability": "记载了历史上无数名将的生平，蕴含极其浓郁的沙场气 象与武运 。",
+  "evolution": {
+    "current_form": "缺失了第二册的古老版刻书籍 。",
+    "materials_consumed": [
+      "浩然气",
+      "万古武运"
+    ],
+    "potential_evolution": "文字离纸化形，可形成护卫城隍庙的虚影甲士。"
+  },
+  "visual": {
+    "static": "书皮古朴，字迹苍劲，翻阅时隐约能闻战鼓声 。",
+    "active": "特定篇章在夜间会发出暗红色光芒，伴随煞气流动 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝流散在外的宫廷秘藏书籍 。",
+    "karma_link": "李锦为了报答落魄山的恩情，将其赠送给陈平安指定的 张平 。"
+  },
+  "enriched": true
+}

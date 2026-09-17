@@ -1,0 +1,48 @@
+{
+  "name": "九帝钱",
+  "original_name": "九帝雕母钱",
+  "type": "货币",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "由南山国国库秘藏的九枚雕母钱，代表了九段国强民安的太平岁月。它们既是货币的始祖，也是极其罕 见的探测类灵物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第965章 猜先",
+      "owner": "洪淼"
+    },
+    {
+      "chapter": "第1067章 大师兄和小师弟",
+      "owner": "柴御"
+    }
+  ],
+  "subtype": "压胜类 / 探测类",
+  "holder": "柴御",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "南山国国库",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为九个鼎盛年号的母钱，具备推演国祚起伏与山河社稷变迁的位格 。",
+  "supernatural_ability": "“九珠连环，地脉现形”。撒入地表可准确探测地脉深浅，寻觅隐秘的仙府洞穴与风水变动 。",
+  "evolution": {
+    "current_form": "一袋装满九个不同年号的金色雕母钱币 。",
+    "materials_consumed": [
+      "人间王朝龙气",
+      "太古金精"
+    ],
+    "potential_evolution": "受龙气长期温养后，可升格为镇压一国气运的“镇坛钱” 。"
+  },
+  "visual": {
+    "static": "形制古朴精美，字口如斩，边缘锋利，散发出威严的皇家气息 。",
+    "active": "探测时会随身而动，落地点会泛起微弱金光，指引地底深处的灵气脉络 。"
+  },
+  "provenance": {
+    "origin": "柴御家族世代担任南山国钱法堂官员，此钱为国库拣选的样钱之首 。",
+    "karma_link": "与柴御修行的金铁、土脉秘术相辅相成，是其行走江湖的立身资本 。"
+  },
+  "enriched": true
+}

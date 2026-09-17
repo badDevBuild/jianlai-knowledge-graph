@@ -1,0 +1,48 @@
+{
+  "name": "翠绿竹枝",
+  "original_name": "“行气铭”绿竹杖",
+  "type": "灵物",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是一根大有来头的绿竹杖，铭刻有古代道家高位的“行气铭”道诀。它在落魄山中属于顶尖的辅助修行 重宝，体现了长辈对晚辈修行大道的期许 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第176章 无聊就是没得聊",
+      "owner": "贺小凉"
+    }
+  ],
+  "subtype": "辅助类 / 传承类",
+  "holder": "柴芜",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "赠予者"
+    },
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "产自青冥天下，蕴含古老道诀，具备演化为“行气之源”的潜力 。",
+  "supernatural_ability": "“行气引导”。杖身铭刻的古老道诀能引导修士呼吸吐纳，加速灵气在经脉中的运转速度，极其裨益体魄 。",
+  "evolution": {
+    "current_form": "一根碧绿如玉、刻有行书“行气铭”的绿竹手杖 。",
+    "materials_consumed": [
+      "上古青竹",
+      "道家真意"
+    ],
+    "potential_evolution": "可作为下宗弟子磨砺剑气与真气的核心教具。"
+  },
+  "visual": {
+    "static": "苍翠欲滴，触手冰凉，竹节分明，杖身文字行云流水，带有岁除宫的古雅风范 。",
+    "active": "使用时会有清风萦绕，隐约可见文字流光沿着持杖者的经脉流转 。"
+  },
+  "provenance": {
+    "origin": "由岁除宫宫主吴霜降在夜航船作为见面礼赠予崔东山 。",
+    "karma_link": "崔东山原想将其作为传家宝，后作为破境贺礼转送给落魄山二代弟子柴芜 。"
+  },
+  "enriched": true
+}

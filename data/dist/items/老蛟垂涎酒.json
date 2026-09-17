@@ -1,0 +1,52 @@
+{
+  "name": "老蛟垂涎酒",
+  "original_name": "元婴老蛟金丹小炼药酒",
+  "type": "丹药",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是一种极其珍贵的药酒。陈平安在老龙城一役中体魄受创，范峻茂以此酒赠予他，助其修缮武夫体魄 。徐远霞曾以此酒连饮三口，成功洗涤自身真气，看到了破开五境瓶颈的希望 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第422章 江湖夜雨",
+      "owner": "紫阳府"
+    },
+    {
+      "chapter": "第423章 人间且慢行",
+      "owner": "紫阳府"
+    },
+    {
+      "chapter": "第424章 御剑而去云海中",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "补益类",
+  "holder": "陈平安",
+  "holder_relation": "持有 / 消耗",
+  "previous_holders": [
+    {
+      "name": "范峻茂 (老龙城范家)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为极高品秩的药酒，通过消耗元婴老蛟金丹精华，具有不可替代的体魄修补功效 。",
+  "supernatural_ability": "**“洗髓修身”**。能够迅速修缮武夫在死战中受损的体魄根本，帮助武夫洗涤纯粹真气中的污秽 。",
+  "evolution": {
+    "current_form": "储存于酒壶之中的小炼药酒 。",
+    "materials_consumed": [
+      "元婴境老蛟金丹",
+      "云海水运精华"
+    ],
+    "potential_evolution": "根据所加入的妖丹品秩不同（如十二境大妖妖丹），其药力上限可达惊人地步 。"
+  },
+  "visual": {
+    "static": "酒液呈微黄色，隐约透出龙涎香气 。",
+    "active": "饮用后体表会有热气蒸腾，拳意随之激荡，帮助消化积郁已久的浊气 。"
+  },
+  "provenance": {
+    "origin": "由范峻茂利用蛟龙沟元婴老蛟的金丹小炼而成 。",
+    "karma_link": "是范家为补偿陈平安在老龙城之战中的损耗而赠予的重礼 。"
+  },
+  "enriched": true
+}

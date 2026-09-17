@@ -1,0 +1,38 @@
+{
+  "name": "大雪",
+  "original_name": "乌鞘长刀",
+  "type": "其他",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是大端国师裴杯的标志性兵器。虽然名为长刀，却因其主人的无敌拳意而拥有了超越一般仙兵的威慑 力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第806章 青白之争",
+      "owner": "曹慈"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "裴杯 (女子武神)",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为天下武道前三之人的配兵，其杀力已达人间止境 。",
+  "supernatural_ability": "刀气雄厚无比，能够正面抗衡上五境大修士的剑光与术法 。",
+  "evolution": {
+    "current_form": "一把乌黑剑鞘的狭长刀刃 。",
+    "materials_consumed": [
+      "天外陨铁",
+      "止境武夫拳意"
+    ],
+    "potential_evolution": "随持有者武道破境，可产生斩断因果的天地异象。"
+  },
+  "visual": {
+    "static": "刀鞘漆黑如墨，磨损痕迹清晰，显得厚重而沉稳 。",
+    "active": "出鞘时伴有如雪花飘落的冰冷杀气，光芒所及，万物寂灭 。"
+  },
+  "provenance": {
+    "origin": "由中土神洲大端王朝女子武神裴杯持有的神兵 。",
+    "karma_link": "裴杯在倒悬山炼剑、在天外天拳杀化外天魔的核心依仗 。"
+  },
+  "enriched": true
+}

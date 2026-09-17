@@ -1,0 +1,46 @@
+{
+  "name": "三清香",
+  "original_name": "倒悬山特制仙香",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "三清香是山上公认的顶级祭祀耗材，象征着**客有诚意、神享好香**的 山水法统 。",
+  "aliases": [
+    "倒悬山敬神香"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第284章 姑娘请自重",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "祭祀/安神类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "倒悬山上香楼",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "凝聚人间香火正气，是礼敬高位神灵、稳固山根水脉的必备物 。",
+  "supernatural_ability": "焚烧后香气空灵，能吸引神灵降真，并辅助修行者排除心猿意马 。",
+  "evolution": {
+    "current_form": "装于香筒内的八十一根细长仙香 。",
+    "materials_consumed": [
+      "上古沉香",
+      "道教敕咒灵气"
+    ],
+    "potential_evolution": "若由大天师点燃，可化为直通九霄的“通天香”。"
+  },
+  "visual": {
+    "static": "色泽深沉，质地坚实，未燃即有清心寡欲之感 。",
+    "active": "点燃后烟气笔直如一线，久经山风而不散，呈现淡金色 。"
+  },
+  "provenance": {
+    "origin": "产自倒悬山上香楼，是该地最为著名的特产之一 。",
+    "karma_link": "陈平安购入此物用于落魄山山神庙，见证了他对山水规矩的敬重 。"
+  },
+  "enriched": true
+}

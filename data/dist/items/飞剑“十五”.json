@@ -1,0 +1,52 @@
+{
+  "name": "飞剑“十五”",
+  "original_name": "小酆都",
+  "type": "本命飞剑",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "“十五”是一把罕见的具备空间神通的飞剑，它既是陈平安的随身私库，也是极其阴险的杀伐利器 [18-20]。",
+  "aliases": [
+    "本命剑",
+    "方寸物",
+    "方寸物十五"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第205章 负剑南渡",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第503章 不听道理是最好",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头 (青童天君)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "随陈平安境界提升，可分化飞剑数量极大，且空间神通愈发玄妙 。",
+  "supernatural_ability": "兼具本命飞剑与方寸物功能，内部自成空间，出剑轨迹隐蔽诡谲 [18-20]。",
+  "evolution": {
+    "current_form": "碧绿如玉的袖珍小剑 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "斩龙石"
+    ],
+    "potential_evolution": "演化为独立的剑中小天地 。"
+  },
+  "visual": {
+    "static": "长约一寸，通体碧绿，温润如玉 。",
+    "active": "飞行时带起幽绿色流萤，能够无视部分空间阻隔 。"
+  },
+  "provenance": {
+    "origin": "由药铺杨老头以陈平安的白玉簪子为代价交换所得 。",
+    "karma_link": "陈平安最早获得的本命飞剑之一，多次在关键战斗中奇袭敌手 。"
+  },
+  "enriched": true
+}

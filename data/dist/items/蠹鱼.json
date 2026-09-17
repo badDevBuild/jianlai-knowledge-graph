@@ -1,0 +1,46 @@
+{
+  "name": "蠹鱼",
+  "original_name": "文灵精魅 / 书中鱼",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "蠹鱼是《剑来》中极具书卷气的灵物。它们既是书籍的守护者，也象征着学问传承的生命力，甚至有大妖以此为名 , , 。",
+  "aliases": [
+    "蠹鱼"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第107章 渔网",
+      "owner": "无"
+    }
+  ],
+  "subtype": "精怪类",
+  "holder": "李槐",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "古旧典籍",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随书籍品秩提升，可演化为能修补文字、查漏补缺的“书灵” , 。",
+  "supernatural_ability": "寄生于古书之中，以文气为食，能保护书籍不腐不朽，并能指引有缘人发现书中微言大义 , 。",
+  "evolution": {
+    "current_form": "细小如丝线、通体透明的灵性小虫 , 。",
+    "materials_consumed": [
+      "万卷书香",
+      "圣贤文运"
+    ],
+    "potential_evolution": "可进阶为具有大妖潜质的“书城不夜”主宰 。"
+  },
+  "visual": {
+    "static": "平日隐匿在书页缝隙中，极难被肉眼察觉 。",
+    "active": "被惊动时会化作一抹微弱的银色流萤，在字里行间穿梭 。"
+  },
+  "provenance": {
+    "origin": "源自传承千年的古老典籍，由浓郁的文字灵气孕育而成 , 。",
+    "karma_link": "李槐的《断水大崖》中便豢养着此类灵物，是其福缘深厚的体现 。"
+  },
+  "enriched": true
+}

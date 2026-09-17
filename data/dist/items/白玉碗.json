@@ -1,0 +1,48 @@
+{
+  "name": "白玉碗",
+  "original_name": "书始白玉碗",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "**白玉碗**是水法修行者的梦寐以求之物，其内部温养的金色蛟龙象征着对水属性灵气的极致掌控 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第495章 好人兄",
+      "owner": "木茂"
+    }
+  ],
+  "subtype": "水法类",
+  "holder": "李柳 (由行雨神女持有)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "骸骨滩壁画城",
+      "relation": "原主"
+    },
+    {
+      "name": "杨凝性",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为掌管行云布雨的神物，若能完全炼化并配合大渎水运，具备镇压一地水脉之能 。",
+  "supernatural_ability": "**蛟龙布雨**：碗内寄居有一条金色蛟龙，可受持有者敕令进行大规模的行云布雨 。",
+  "evolution": {
+    "current_form": "一只质地纯净、温润如脂的白玉瓷碗 。",
+    "materials_consumed": [
+      "大渎水运精华",
+      "香火愿力"
+    ],
+    "potential_evolution": "可演化为职掌四海水运的顶级礼器 。"
+  },
+  "visual": {
+    "static": "碗身莹白无瑕，内部隐约可见金色流光在水影中游动 。",
+    "active": "碗中波光粼粼，金蛟腾空而起，瞬间引发漫天云雾与雷雨气象 。"
+  },
+  "provenance": {
+    "origin": "出自北俱芦洲骸骨滩壁画城的九位神女图之一 。",
+    "karma_link": "原由杨凝性获得，后转至李柳手中，成为其执掌江河水运的权柄象征 。"
+  },
+  "enriched": true
+}

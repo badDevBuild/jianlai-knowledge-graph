@@ -1,0 +1,44 @@
+{
+  "name": "太师椅",
+  "original_name": "黄花梨官帽椅",
+  "type": "匠器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "落魄山及下宗接待贵客的标准坐具。 特别是由**老厨子朱敛**亲自督造的样式，每一把都蕴含了极高的**文气与匠心** 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第586章 喝尽人间腌臜事",
+      "owner": "隐官大人"
+    }
+  ],
+  "subtype": "辅助/家具类",
+  "holder": "落魄山/青萍剑宗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "朱敛",
+      "relation": "制作方"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "若由老厨子朱敛亲自刻字，可具备温养气色的功效。",
+  "supernatural_ability": "能够稳固修士的坐姿气象，帮助读书人进入“无忧”心境 。",
+  "evolution": {
+    "current_form": "造型简洁、线条流畅的黄花梨木椅 。",
+    "materials_consumed": [
+      "名贵木材",
+      "朱敛刀法"
+    ],
+    "potential_evolution": "高阶者可作为“神人尸坐”法的辅助法座 。"
+  },
+  "visual": {
+    "static": "背板多刻有卷草、云纹或灵芝图案，色泽温润如古玉 。",
+    "active": "落座后似有清风拂面，椅背铭文如“风和日丽”会有微光闪烁 。"
+  },
+  "provenance": {
+    "origin": "多由朱敛参照藕花福地《营造法式》亲手打造 。",
+    "karma_link": "见证了落魄山从“落魄”到“仙家府邸”的门面变迁 。"
+  },
+  "enriched": true
+}

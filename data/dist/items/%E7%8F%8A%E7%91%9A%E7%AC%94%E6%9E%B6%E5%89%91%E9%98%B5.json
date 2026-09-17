@@ -1,0 +1,48 @@
+{
+  "name": "珊瑚笔架剑阵",
+  "original_name": "红珊瑚笔架 / 玉版城剑阵",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是一件集观赏性与极端杀力于一身的重器。它不仅是顶级的文房珍玩，更是陈平安在天外战场对抗强 敌的重要阵法依托 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第873章 刻字",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "阵法类 / 攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "叶瀑 (云纹王朝皇帝)",
+      "relation": "夺取自"
+    },
+    {
+      "name": "东海龙宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "其核心是开启远古大渎龙宫遗址的钥匙，具备演化为掌控整座龙宫水域的至高权柄 , 。",
+  "supernatural_ability": "“笔脱架而剑起”。笔架上搁放的十二把袖珍飞剑可瞬间结阵，每一剑都蕴含仙兵级杀力，甚至能作为“ 大五嶽符”的支撑 , , 。",
+  "evolution": {
+    "current_form": "一只红珊瑚材质的笔架，上置十二把飞剑 。",
+    "materials_consumed": [
+      "龙宫水精",
+      "万年珊瑚红"
+    ],
+    "potential_evolution": "若能配合《珊瑚帖》完全解禁，可重现远古水下龙宫的完整防御体系 。"
+  },
+  "visual": {
+    "static": "鲜艳欲滴、色泽动人的红珊瑚笔架，形制玲珑可爱 。",
+    "active": "激发时，十二把飞剑化作交织的虹光，在阵法中穿梭，声势如雷鸣 , 。"
+  },
+  "provenance": {
+    "origin": "源自远古东海龙宫的“木作”精品 , 。",
+    "karma_link": "陈平安在蛮荒天下玉版城以“借”的名义强行夺取，后由陆沉帮忙拆解禁制 , 。"
+  },
+  "enriched": true
+}

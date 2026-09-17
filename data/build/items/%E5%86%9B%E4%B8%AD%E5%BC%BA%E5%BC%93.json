@@ -1,0 +1,38 @@
+{
+  "name": "军中强弓",
+  "original_name": "步军大弓 / 制式长弓",
+  "type": "匠器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "大骊王朝横扫宝瓶洲的基石之一。正是这些数以万计的强弓，让山上仙 师不敢轻易干涉世俗王朝的兴衰 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第234章 夜宿古寺有妖气",
+      "owner": "徐远霞"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "大骊边军 / 徐远霞",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "作为大规模生产的制式武器，虽然单体潜力有限，但规模化使用可改变 战局 。",
+  "supernatural_ability": "具有极佳的韧性，普通箭矢射出亦能击穿寻常皮甲。对妖族低阶小怪有 震慑作用 。",
+  "evolution": {
+    "current_form": "结构稳固、利于大规模战阵使用的木石长弓 。",
+    "materials_consumed": [
+      "老桑木",
+      "牛筋弦"
+    ],
+    "potential_evolution": "若浸染武夫精血，可晋升为灵器级的“破甲弓” 。"
+  },
+  "visual": {
+    "static": "外表厚重且朴实，弓背多有战斗留下的磨损痕迹 。",
+    "active": "箭雨齐射时声如蝗群，在战场上空形成黑压压的一片阴影 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝各级兵工厂大批量制造 。",
+    "karma_link": "是凡俗士卒对抗妖魔的最后尊严 。"
+  },
+  "enriched": true
+}

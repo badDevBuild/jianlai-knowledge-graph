@@ -1,0 +1,44 @@
+{
+  "name": "兵家经纬甲",
+  "original_name": "祖宗经纬甲",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "兵家甲丸体系中辈分最高的“祖宗”级重器。它不同于后世量产的甲丸，其防御逻辑涉及深层的空间法则 与灵气积淀，是兵家修士赖以生存的终极防具 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第859章 年轻人们",
+      "owner": "刘幽州赠予众人"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "多位持有者 (包括蛮荒大妖及佛国)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "兵家初祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为兵家甲丸的始祖，其防御力随注入的灵气多寡而增长，无上限 。",
+  "supernatural_ability": "“经甲”提供无量世界般的空间避法效果；“纬甲”则能通过汲取无穷灵气构建出不可摧破的物理防御 。",
+  "evolution": {
+    "current_form": "经、纬两卷原型甲丸 。",
+    "materials_consumed": [
+      "远古神灵金身碎片",
+      "大霜甲残迹"
+    ],
+    "potential_evolution": "若由十四境大修士穿戴，可真正实现万法不侵，无视飞升境剑修的斩击 。"
+  },
+  "visual": {
+    "static": "看起来是古朴的甲丸或护心镜 。",
+    "active": "披挂后金光与色彩交织，形成层层叠叠的空间屏障，宛如实质化的灵气海洋 。"
+  },
+  "provenance": {
+    "origin": "兵家初祖参考远古神甲“大霜”的残骸仿造而成的开山鼻祖之作 , 。",
+    "karma_link": "经甲曾遗落在西方佛国，而纬甲则由蛮荒天下一位资历极老的飞升境女剑修持有 。"
+  },
+  "enriched": true
+}

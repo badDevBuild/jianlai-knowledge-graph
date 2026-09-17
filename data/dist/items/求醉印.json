@@ -1,0 +1,44 @@
+{
+  "name": "求醉印",
+  "original_name": "求醉耶，勿醉也",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一方充满生活情趣的私章，体现了二掌柜在紧凑战事之余的随性与洒脱 。它深受剑修喜爱，常被挂在酒铺的无事牌旁 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第608章 下棋坏道心，酒水辣肚肠",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "篆刻/文房类",
+  "holder": "落魄山/酒铺客官",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随酒客的江湖声望与饮酒意境而增长灵性 。",
+  "supernatural_ability": "具备静心解忧的神通，能助人从宿醉中清醒，亦能助人入梦寻真 。",
+  "evolution": {
+    "current_form": "六字对章印蜕 。",
+    "materials_consumed": [
+      "雪花钱",
+      "酒气"
+    ],
+    "potential_evolution": "可作为打开“酒泉杯”内景乾坤的信物 。"
+  },
+  "visual": {
+    "static": "字体跳脱，有几分醉后的狂草神意 。",
+    "active": "印章周身萦绕淡淡酒香，钤印时文字如游鱼入水 。"
+  },
+  "provenance": {
+    "origin": "陈平安为酒铺二掌柜时，应酒鬼剑修之邀而刻 。",
+    "karma_link": "见证了陈平安与剑气长城一众酒客的“酒肉情分” 。"
+  },
+  "enriched": true
+}

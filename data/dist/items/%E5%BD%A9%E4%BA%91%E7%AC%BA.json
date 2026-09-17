@@ -1,0 +1,44 @@
+{
+  "name": "彩云笺",
+  "original_name": "岁除宫信纸",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是青冥天下岁除宫特有的珍稀文房用具，不仅是文人 雅玩，更是大修士施展通天手段、追踪因果或传递道门 秘法的重要媒介 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第803章 先下一城",
+      "owner": "柳赤诚"
+    }
+  ],
+  "subtype": "书信/文房类",
+  "holder": "吴霜降",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "岁除宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为岁除宫特产，长期浸染十四境道意可升华为道门重 器。",
+  "supernatural_ability": "自带岁除宫特有的清凉之气，具有极强的因果牵引与承 载神魂意气的功能 。",
+  "evolution": {
+    "current_form": "质地细腻、散发冷冽气息的洁白信纸 。",
+    "materials_consumed": [
+      "岁除宫寒泉水",
+      "云海精华"
+    ],
+    "potential_evolution": "可作为绘制“白日举形”等飞升大符的顶级符纸 。"
+  },
+  "visual": {
+    "static": "纸张洁白无瑕，表面隐约可见细微的冰晶纹路，散发冷 冽气息 。",
+    "active": "书写后文字如积雪融化，亦可化为折纸白蛇形态在虚空 中游走 。"
+  },
+  "provenance": {
+    "origin": "青冥天下岁除宫自制 。",
+    "karma_link": "吴霜降以此纸绘制姻缘符，牵引陈平安与宁姚的因果线 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,62 @@
+{
+  "name": "小玄壁",
+  "original_name": "彩雀府仙茗",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗品",
+  "description": "这是彩雀府的镇山特产，曾在古书中被大文豪亲笔题名 。因产量极低，即使在山上也是有钱难买的稀罕物 。",
+  "aliases": [
+    "小玄壁茶饼"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第538章 隔在远远乡",
+      "owner": "彩雀府"
+    },
+    {
+      "chapter": "第539章 相逢偶然，离别悄然",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第547章 有些练拳不一样",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第563章 忽如远行客",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第810章 教拳",
+      "owner": "彩雀府"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "陈平安 (暂存)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "彩雀府",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "产自彩雀府后山仅有的十二株老茶树，是文人雅士心中的无上神品 。",
+  "supernatural_ability": "煮茶时，茶汤中可见潮起潮落、斗转星移之异象 。",
+  "evolution": {
+    "current_form": "秘法炒制而成的茶饼或茶罐 。",
+    "materials_consumed": [
+      "桃花水",
+      "珍禽彩雀衔摘"
+    ],
+    "potential_evolution": "可大幅提升饮茶者的心境清明，甚至辅助破开小瓶颈 。"
+  },
+  "visual": {
+    "static": "茶叶被精制成团，质地紧结 。",
+    "active": "入水后茶香沁人心脾，汤色如玉且带有星辰倒影 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲彩雀府后山 。",
+    "karma_link": "彩雀府掌律武峮赠送给陈平安，作为其指点法袍秘术的回礼 。"
+  },
+  "enriched": true
+}

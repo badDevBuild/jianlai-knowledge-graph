@@ -1,0 +1,42 @@
+{
+  "name": "紫葫芦",
+  "original_name": "于玄养剑葫",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此葫芦不仅是于玄的本命物，更是其作为天下符箓祖师 爷的身份象征，内部收藏了海量的星辰道韵 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1056章 酒力不支吾",
+      "owner": "曹耕心"
+    },
+    {
+      "chapter": "第1059章 凝眸处最痴绝",
+      "owner": "曹耕心"
+    }
+  ],
+  "subtype": "收纳/温养类",
+  "holder": "于玄",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为十四境大修士的贴身法宝，内含一方微型星河天地 。",
+  "supernatural_ability": "葫芦内部星光璀璨，汇聚成河，宛如将整条天上银河摹 拓在内 。",
+  "evolution": {
+    "current_form": "晶莹剔透的紫色葫芦，悬挂于腰间 。",
+    "materials_consumed": [
+      "诸天星辰精华",
+      "不朽道意"
+    ],
+    "potential_evolution": "可作为开辟“云梦小洞天”的枢纽 。"
+  },
+  "visual": {
+    "static": "质地如玉，表面流溢紫气，内部可见星点攒簇 。",
+    "active": "开启时灵气如潮水喷涌，伴随宏大的大道涟漪 。"
+  },
+  "provenance": {
+    "origin": "符箓于玄多年炼化之物，蕴含其合道星河的真意 。",
+    "karma_link": "是于玄作为中土神洲十大高手的核心法器 。"
+  },
+  "enriched": true
+}

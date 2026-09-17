@@ -1,0 +1,38 @@
+{
+  "name": "山河图",
+  "original_name": "虚幻画卷“山河”",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "《山河图》是崔东山艺术造诣与道法心境的巅峰之作，与《芥子图》并称双璧。它以极致的留白反衬出 人间的博大，是落魄山最神秘的收藏之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第717章 左右终于不为难",
+      "owner": "崔瀺"
+    }
+  ],
+  "subtype": "意境类 / 绘画类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为崔东山仙人境心相的具现，意境之深远几近大道尽头，可承载整座天下的人心起伏 。",
+  "supernatural_ability": "“小中见大”。整幅长卷仅有一点墨汁，却能显化出世间所有山川的厚重道意，令人领悟“大道至简”的真 意 。",
+  "evolution": {
+    "current_form": "洁白无瑕的长卷，中心仅有一粒漆黑墨点。",
+    "materials_consumed": [
+      "仙人精气神",
+      "至纯墨意"
+    ],
+    "potential_evolution": "可与《芥子图》合一，成就一座真正的大千世界 。"
+  },
+  "visual": {
+    "static": "外观极简，全卷皆为留白，唯有一点如芥子般的墨迹 。",
+    "active": "运神观照时，那一点墨汁会变幻出千万山水景象，气象宏大 。"
+  },
+  "provenance": {
+    "origin": "崔东山在第五座天下凭借记忆与大道演化亲手绘制 。",
+    "karma_link": "体现了崔东山“山河入梦，我即山河”的造化造诣 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "芥子符",
+  "original_name": "缩地符 / 方寸符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "活跃",
+  "description": "这是练气士行走天下必备的保命符之一。它将浩瀚山河 缩减于一纸之间，体现了修行者对空间法则的初步掌握 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1068章 碧波万顷客眼青",
+      "owner": "袁黄 (陈平安赠送)"
+    }
+  ],
+  "subtype": "空间/远遁类",
+  "holder": "陈平安 / 曾掖",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "受修士神识滋养，可提升至“瞬息千里”的半仙兵品秩， 甚至开启独立小空间 。",
+  "supernatural_ability": "芥子纳须弥，能够让使用者在转瞬之间缩地成寸，跨越 方圆数十丈的障碍 。",
+  "evolution": {
+    "current_form": "记载于《丹书真迹》中的常用符箓 。",
+    "materials_consumed": [
+      "空间碎片精华",
+      "纯粹真气"
+    ],
+    "potential_evolution": "可演化为具备“袖里乾坤”雏形的法宝 。"
+  },
+  "visual": {
+    "static": "符纸纹路繁复，看似狭小，实则灵气波动深邃 。",
+    "active": "激发时周围空间产生微弱扭曲，使用者身形如鬼魅般消 失重现 。"
+  },
+  "provenance": {
+    "origin": "源自上古空间术法，由李希圣通过《真迹》传授使用法 。",
+    "karma_link": "陈平安以此符在多次围杀中脱困，是其战法中“出其不 意”的核心 。"
+  },
+  "enriched": true
+}

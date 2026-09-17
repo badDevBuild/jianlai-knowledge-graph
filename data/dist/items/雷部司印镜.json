@@ -1,0 +1,50 @@
+{
+  "name": "雷部司印镜",
+  "original_name": "雷部司印镜",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这件重宝曾隶属于上古雷部，虽然在漫长岁月中雷电光华消磨殆尽，但其根脚极高，是专门针对水裔与 罪臣的威慑法器 。",
+  "aliases": [
+    "白玉印章",
+    "雷部司印镜"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第146章 靠山和帮手",
+      "owner": "崔瀺"
+    },
+    {
+      "chapter": "第148章 少年有事问春风",
+      "owner": "崔瀺"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "崔瀺 (少年皮囊)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "雷部正神",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为上古雷部神祇遗物，可通过接引雷电精华不断修复并恢复远古威势 。",
+  "supernatural_ability": "内蕴雷电光华，可强行镇压气机，镜面受损后能通过吸收天雷自动修复 。",
+  "evolution": {
+    "current_form": "残破的圆镜",
+    "materials_consumed": [
+      "电闪雷鸣的云海雷电"
+    ],
+    "potential_evolution": "完整的雷部神灵司印"
+  },
+  "visual": {
+    "static": "形似圆镜，虽然破败不堪，但材质坚硬，非中五境修士能破 。",
+    "active": "激发时镜面可喷涌出雷电光华，与剑气对抗时会不断崩碎并重生 。"
+  },
+  "provenance": {
+    "origin": "源自上古雷部，曾为某位职掌雷法的正神持有 。",
+    "karma_link": "是大骊国师崔瀺用于对抗陈平安剑气的底牌之一 。"
+  },
+  "enriched": true
+}

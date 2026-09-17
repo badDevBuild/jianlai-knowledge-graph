@@ -1,0 +1,48 @@
+{
+  "name": "账本",
+  "original_name": "隐官脉络簿 / 功劳簿",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是隐官一脉的立身之本，不仅是冷冰冰的数字，更是 每一位剑修性命与本命飞剑的具象体现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1037章 天公作美",
+      "owner": "湘君 (原属虞醇脂)"
+    },
+    {
+      "chapter": "第1087章 复仇是一场独饮",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "记录/因果类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "历任隐官",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随着陈平安对战局与人心的推演，账本可演化为操控一 洲因果的“生死簿”。",
+  "supernatural_ability": "详细记载剑气长城攻守战的战损、物资流转及妖族大能 信息。配合陈平安的算力，可精确推算出斩杀特定妖族 的“性价比” [1-3]。",
+  "evolution": {
+    "current_form": "层层叠叠、堆积如山的秘档卷宗 。",
+    "materials_consumed": [
+      "千万里足迹记录",
+      "战场情报"
+    ],
+    "potential_evolution": "演化为支撑“三千小千世界”逻辑运转的根本规律 。"
+  },
+  "visual": {
+    "static": "厚重的纸本，字迹法度严谨，内有大量朱笔批注和签条 。",
+    "active": "翻阅时，文字如游鱼般游曳，显化出战场的微观地理与 因果连线 。"
+  },
+  "provenance": {
+    "origin": "源自剑气长城避暑行宫与躲寒行宫数千年的档案积淀 。",
+    "karma_link": "承载了剑气长城万年刑徒剑修的功罪与遗愿 。"
+  },
+  "enriched": true
+}

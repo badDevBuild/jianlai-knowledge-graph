@@ -1,0 +1,37 @@
+{
+  "name": "半仙兵珠子",
+  "original_name": "天外灵气结晶",
+  "type": "灵物",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这颗宝珠在陈平安眼中不仅是横财，更是他布局落魄山和莲藕福地未来数百年的重要筹码 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第530章 他的本命瓷和弟子们",
+      "owner": "鸦儿 (被强行植入)"
+    }
+  ],
+  "subtype": "资源类 / 补给类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "半仙兵",
+  "rank_potential": "足以支撑起一座福地的灵气循环，甚至助其连升数阶 。",
+  "supernatural_ability": "蕴含极其纯净的海量灵气，能够瞬间补充大修士的损耗，或用于炼化本命物 。",
+  "evolution": {
+    "current_form": "青杏状的圆润宝珠 。",
+    "materials_consumed": [
+      "天外灵气潮汐"
+    ],
+    "potential_evolution": "可揉碎融入莲藕福地，化作天地间的造化灵气 。"
+  },
+  "visual": {
+    "static": "色泽如青杏，外表温润，内部似有液体在缓缓流动 。",
+    "active": "散发出璀璨的生命神光，引动周边山水气韵共鸣 。"
+  },
+  "provenance": {
+    "origin": "陈平安在天外战场“收尾”阶段，凭借其在阵法中枢的贡献所得 。",
+    "karma_link": "是其作为“隐官”参与天外议事并获得文庙认可的实物奖励 。"
+  },
+  "enriched": true
+}

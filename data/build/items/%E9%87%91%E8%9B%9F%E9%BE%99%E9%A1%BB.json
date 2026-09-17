@@ -1,0 +1,48 @@
+{
+  "name": "金蛟龙须",
+  "original_name": "老蛟金须 / 缚妖索",
+  "type": "法宝",
+  "grade": "天材地宝",
+  "status": "活跃",
+  "description": "采自蛟龙沟十境老蛟的金色胡须，是炼制顶级拘押类法宝的绝佳材料。陈平安将其制成的缚妖索在北俱 芦洲等多地斩妖除魔，表现不俗 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第266章 磨损心中万古刀",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "拘押类",
+  "holder": "陈平安",
+  "holder_relation": "小炼",
+  "previous_holders": [
+    {
+      "name": "蛟龙沟金色老蛟",
+      "relation": "原主"
+    },
+    {
+      "name": "左右",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "可进一步融入雷电精华或高阶水运提升品秩，具有成长为半仙兵的潜力 。",
+  "supernatural_ability": "**“禁锢真灵”**。炼化为“缚妖索”后，中五境之下的妖族一旦被缠绕，极难挣脱，甚至能禁锢元婴大妖 片刻 。",
+  "evolution": {
+    "current_form": "金色长绳（缚妖索）",
+    "materials_consumed": [
+      "金色龙须",
+      "道门青词云纹"
+    ],
+    "potential_evolution": "若由大天师级别的存在持续加持，可演化为“斩龙索” 。"
+  },
+  "visual": {
+    "static": "两根纠缠在一起的金色长须，带有天然的龙威，平时可作为腰带使用 。",
+    "active": "祭出后化作一道璀璨金光，能随心意飞掠，自动捆绑目标并消融阴煞戾气 。"
+  },
+  "provenance": {
+    "origin": "剑修左右在蛟龙沟斩杀十境老蛟后，将其留下的龙须赠予陈平安 。",
+    "karma_link": "由倒悬山看门人张禄请托符箓高人，通过剥落青词云纹辅助炼制而成 。"
+  },
+  "enriched": true
+}

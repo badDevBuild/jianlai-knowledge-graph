@@ -1,0 +1,44 @@
+{
+  "name": "黄庭经",
+  "original_name": "三千真言 / 黄庭内景经 / 黄庭外景经",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是道门公认的高级经典，不仅在山上仙家地位崇高， 也被山下文人名士推崇，是求取长生久视的必备典籍 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第759章 递剑接剑与问剑",
+      "owner": "刘茂"
+    }
+  ],
+  "subtype": "道门根本/金丹类",
+  "holder": "刘茂 (三皇子)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大泉皇室",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "被誉为“三千真言，直指金丹”，是道门修行金丹大道的 核心秘籍 。",
+  "supernatural_ability": "包含内外中三景，能稳固道心，润泽气府，阐述“金丹 大道”之玄妙 。",
+  "evolution": {
+    "current_form": "南齐国武林殿聚珍版，玉版纸质地 。",
+    "materials_consumed": [
+      "名家眉批",
+      "文运印章"
+    ],
+    "potential_evolution": "可演化为支撑修士跻身上五境的“道之大纲”。"
+  },
+  "visual": {
+    "static": "装帧极其考究，纸张如玉石般温润，钤印、花押多达十 数枚 。",
+    "active": "研读时字里行间有道意流转，文字仿佛具备灵性，可助 人入定 。"
+  },
+  "provenance": {
+    "origin": "道门洞玄部经典 。",
+    "karma_link": "刘茂在黄花观中以此经修行，陈平安曾在此抄录其中篇 章 。"
+  },
+  "enriched": true
+}

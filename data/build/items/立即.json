@@ -1,0 +1,60 @@
+{
+  "name": "立即",
+  "original_name": "立即",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "七大养剑葫芦之一，以“快”绝世。其温养出的飞剑“白驹”在光阴缝隙中穿梭，是天底下最难防御的飞剑 之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第699章 天下第一人",
+      "owner": "未知"
+    },
+    {
+      "chapter": "第703章 又一年五月初五",
+      "owner": "刘材"
+    },
+    {
+      "chapter": "第709章 白云送刘十六归山",
+      "owner": "刘材"
+    },
+    {
+      "chapter": "第932章 吾为东道主（中）",
+      "owner": "刘材"
+    },
+    {
+      "chapter": "第1145章 也是剑修与自由",
+      "owner": "刘材"
+    }
+  ],
+  "subtype": "养剑类",
+  "holder": "刘材",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "温养之剑可达到无视光阴阻滞的极致速度，实现真正意义上的瞬杀 。",
+  "supernatural_ability": "飞剑最小最细微，出剑速度最快 。能温养出无视光阴长河阻滞的飞剑“白驹” 。",
+  "evolution": {
+    "current_form": "亚腰葫芦形态，与“心事”配套持有 。",
+    "materials_consumed": [
+      "光阴砂",
+      "雷电真意"
+    ],
+    "potential_evolution": "进化完全后可让持有者在时间停滞的状态下完成连续斩击 。"
+  },
+  "visual": {
+    "static": "材质莹澈，肉眼几乎无法捕捉其边缘流转的光影 。",
+    "active": "出剑时只见月色微动，敌手尚未察觉便已首身分离 。"
+  },
+  "provenance": {
+    "origin": "道祖亲植葫芦藤所产七宝之一 。",
+    "karma_link": "现归刘材所有。其名寓意“立等即成”，针对光阴法则的压胜极其强悍 。"
+  },
+  "enriched": true
+}

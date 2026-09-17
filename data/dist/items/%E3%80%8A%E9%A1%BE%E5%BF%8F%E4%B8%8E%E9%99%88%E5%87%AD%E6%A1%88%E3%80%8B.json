@@ -1,0 +1,48 @@
+{
+  "name": "《顾忏与陈凭案》",
+  "original_name": "山水故事游记",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一部描述**书简湖旧事**的小说，通过化名讽刺了当时的人心险恶 。它既是陈平安的**修心笔记**，也是蛮荒大妖用来算计陈平安的工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第689章 一个年轻人的小故事",
+      "owner": "市井流传"
+    }
+  ],
+  "subtype": "记录类",
+  "holder": "蛮荒天下众生",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    },
+    {
+      "name": "离真",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随书中故事流传广度增加，可演化为针对特定因果的“问心局” 。",
+  "supernatural_ability": "书中内容含沙射影，记载了顾忏（顾粲）与陈凭案（陈平安）在罄竹湖（书简湖）的恩怨情仇，能扰乱 他人道心 。",
+  "evolution": {
+    "current_form": "版刻精良、行文质朴的山水游记书籍 。",
+    "materials_consumed": [
+      "书简湖往事",
+      "人心鬼蜮"
+    ],
+    "potential_evolution": "若被大妖重新编纂，可变为剥离剑修气运的邪道秘籍 。"
+  },
+  "visual": {
+    "static": "封面书名显眼，纸张厚实，笔墨浓郁，记录了许多“红粉佳人”与“少年游侠”的故事 。",
+    "active": "翻阅时文字如影随形，可让看客产生“梦醒时分”的幻觉，看遍人间悲欢离合 。"
+  },
+  "provenance": {
+    "origin": "由陈平安在书简湖期间的见闻感悟编撰而成 。",
+    "karma_link": "记录了陈平安在“不讲理”的世界里试图“讲道理”的艰难历程 。"
+  },
+  "enriched": true
+}

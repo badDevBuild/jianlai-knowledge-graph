@@ -1,0 +1,44 @@
+{
+  "name": "杨家药散",
+  "original_name": "杨家秘制药膏 / 止痛散",
+  "type": "丹药",
+  "grade": "灵药",
+  "status": "消耗",
+  "description": "这是陈平安年少采药时常换取的报酬。虽然价格昂贵，却是他在无数次濒死边缘活下来的重要支撑 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第100章 脚下河山",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "医疗类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽由凡草研磨，但在青童天君的手段下，具备重塑肉体元气的神效 , 。",
+  "supernatural_ability": "能迅速止血镇痛，排解体内因厮杀积攒的阴煞之气，稳固气府 , 。",
+  "evolution": {
+    "current_form": "灰褐色或黑色的粉末，带有浓郁的草药苦味 , 。",
+    "materials_consumed": [
+      "小镇山中草药",
+      "神道气韵"
+    ],
+    "potential_evolution": "可作为炼制上乘“金丹”的辅料。"
+  },
+  "visual": {
+    "static": "通常盛放在质朴的瓷瓶或瓷罐中，毫不起眼 , 。",
+    "active": "涂抹或服下后，患处会升起微弱的白烟，并伴有清凉感 。"
+  },
+  "provenance": {
+    "origin": "产自骊珠洞天杨家药铺，由杨老头亲自调配 。",
+    "karma_link": "是杨老头对小镇少年的一份隐晦护道与“公平交易”的酬劳 , 。"
+  },
+  "enriched": true
+}

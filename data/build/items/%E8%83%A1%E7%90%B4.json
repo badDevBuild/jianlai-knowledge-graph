@@ -1,0 +1,38 @@
+{
+  "name": "胡琴",
+  "original_name": "背胡琴",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是**目盲道人及其弟子的标志性物件**。在世俗与山 上的跨界游历中，它承载了那份“不走寻常路”的修行姿 态 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1194章 君从故乡来",
+      "owner": "小道士"
+    }
+  ],
+  "subtype": "乐器/修行类",
+  "holder": "贾晟 (目盲道人)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随修行者于红尘中磨砺，可演化为能引动“天籁”的法器 。",
+  "supernatural_ability": "音色清越，能平复心境，在喧嚣市井中营造出一份出尘 的寂静 。",
+  "evolution": {
+    "current_form": "背负在道士身后的古朴胡琴，木质斑驳 。",
+    "materials_consumed": [
+      "岁月道韵",
+      "人间烟火气"
+    ],
+    "potential_evolution": "可配合道门真言演化为“音阵” 。"
+  },
+  "visual": {
+    "static": "琴弦细韧，散发出经年的沧桑气息 。",
+    "active": "拉动时，琴声伴随灵气涟漪，能牵引周围的山水气机 。"
+  },
+  "provenance": {
+    "origin": "随贾老神仙师徒行走江湖的随身之物 。",
+    "karma_link": "见证了小镇市井生活的变迁与修道者的红尘磨砺 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "凿窍",
+  "original_name": "陆沉八剑之一",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陆沉八剑之一，以“凿窍”命名，寓意对人体窍穴与气机流转的极致破坏。它是陆芝在蛮荒腹地厮杀、执 行针对性斩首行动的核心利刃之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第856章 两三事",
+      "owner": "陆芝"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陆芝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为白玉京三掌教亲手铸造的重宝，蕴含陆沉对特定剑道的深刻理解，杀力处于仙兵巅峰 。",
+  "supernatural_ability": "剑身自带精纯剑意，配合持剑者剑气，能如风水先生寻龙点穴般精准破坏修士的人身天地山河，所到之 处气府崩碎 。",
+  "evolution": {
+    "current_form": "袖珍长剑，平时藏于陆沉剑盒 。",
+    "materials_consumed": [
+      "白玉京道韵",
+      "远古剑道真意"
+    ],
+    "potential_evolution": "若能与剑盒内其余七剑结阵，可演化为媲美洞天道场的剑道小天地 。"
+  },
+  "visual": {
+    "static": "在剑盒内细弱丝线，形如蜿蜒游动的小龙 。",
+    "active": "祭出时剑光凌厉，能够精准锁定并凿穿敌方气府经络 。"
+  },
+  "provenance": {
+    "origin": "白玉京三掌教陆沉亲手炼制 。",
+    "karma_link": "由陈平安从陆沉处借得后转赠陆芝，用以弥补其防御短板 。"
+  },
+  "enriched": true
+}

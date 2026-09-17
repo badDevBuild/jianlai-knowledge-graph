@@ -1,0 +1,43 @@
+{
+  "name": "受损长剑",
+  "original_name": "战场遗剑",
+  "type": "匠器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是陈平安在斩杀离真后，在返回城头途中顺手捡起的一把长剑 。尽管已是残次品，却因其沉重的质感被陈平安珍藏 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第650章 剑修家乡何在",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "不知名剑修",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽已受损，但因材质极佳，可作为研习剑理的“磨刀石” 。",
+  "supernatural_ability": "无特殊神通，但其材质足以震慑寻常山水神祇 。",
+  "evolution": {
+    "current_form": "刃口开卷、锈迹斑斑的长剑 。",
+    "materials_consumed": [
+      "五金精粹"
+    ],
+    "potential_evolution": "可被回炉重炼或作为剑修飞剑的“口粮” 。"
+  },
+  "visual": {
+    "static": "入手极沉，虽已损毁严重，但仍可见其原本精良的工艺 。",
+    "active": "挥动时仍有微弱剑气残余 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城战场上捡漏所得 。",
+    "karma_link": "见证了年轻隐官在战场废墟中物尽其用的包袱斋本质 。"
+  },
+  "enriched": true
+}

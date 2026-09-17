@@ -1,0 +1,50 @@
+{
+  "name": "宋集薪春联",
+  "original_name": "泥瓶巷旧宅对联",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这些春联见证了骊珠洞天破碎坠地前后的微妙变迁。它们代表了那个“搬柴哥哥”对命运的抗争，也成为 陈平安回忆中不可磨灭的风景 。",
+  "aliases": [
+    "春联",
+    "宋集薪春联"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第81章 国师",
+      "owner": "宋集薪(原) / 崔瀺(现)"
+    },
+    {
+      "chapter": "第82章 先生学生，师兄师弟",
+      "owner": "崔瀺（偷自宋集薪）"
+    }
+  ],
+  "subtype": "因果类 / 装饰类",
+  "holder": "大骊藩王府邸",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宋集薪",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "承载了骊珠洞天两名少年龙虎斗的因果，其存在的意义在于历史见证。",
+  "supernatural_ability": "“因果纠缠”。作为宋集薪离乡前的最后印记，它无形中牵引着泥瓶巷两栋祖宅的气运气机 。",
+  "evolution": {
+    "current_form": "红纸黑字，虽经风雨却字迹如新，具有某种压胜气象 。",
+    "materials_consumed": [
+      "大骊先帝龙气 (隐性)"
+    ],
+    "potential_evolution": ""
+  },
+  "visual": {
+    "static": "贴在泥瓶巷宋集薪祖宅大门，红纸耀眼，笔法中带有不羁之意 。",
+    "active": "在特定的光阴长河切片中，能映照出少年宋集薪对邻居的挑衅与期待 。"
+  },
+  "provenance": {
+    "origin": "由宋集薪在离开泥瓶巷前亲自张贴 。",
+    "karma_link": "标志着大骊皇权对小镇气运的正式切入，以及陈平安与宋集薪命运的彻底分离 。"
+  },
+  "enriched": true
+}

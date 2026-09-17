@@ -1,0 +1,55 @@
+{
+  "name": "名刀祥符",
+  "original_name": "狭刀祥符",
+  "type": "匠器",
+  "grade": "神兵",
+  "status": "活跃",
+  "description": "这是李宝瓶求学路上最重要的护身兵刃。它不仅是一件杀伐利器，更是能够震慑山水神灵、稳固持有人 武道心境的至宝 。",
+  "aliases": [
+    "名刀祥符",
+    "祥符狭刀"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第141章 百怪（上）",
+      "owner": "李宝瓶"
+    }
+  ],
+  "subtype": "压胜类 / 攻伐类",
+  "holder": "李宝瓶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "神水国",
+      "relation": "原主"
+    },
+    {
+      "name": "魏檗 / 棋墩山蛇蟒",
+      "relation": "曾持有"
+    },
+    {
+      "name": "阿良",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为远古蜀国地界神水国的镇国之宝，虽被视为法宝，实则拥有半仙兵的品秩潜力 。",
+  "supernatural_ability": "“镇压武运”。能够聚拢并稳固一地的武道气运，对妖邪具有天然的压胜作用 。",
+  "evolution": {
+    "current_form": "绿鞘狭刀 。",
+    "materials_consumed": [
+      "上古神金",
+      "神水国国运"
+    ],
+    "potential_evolution": "若能配合神水国失传的皇室秘法，可晋升为真正的仙兵重器。"
+  },
+  "visual": {
+    "static": "狭长刀身，配以绿色刀鞘，气象庄严且内敛 。",
+    "active": "出鞘后寒光映照山河，隐约可见武运如真龙盘踞 。"
+  },
+  "provenance": {
+    "origin": "源自远古蜀国神水国，后流落至骊珠洞天被棋墩山蛇蟒收藏 。",
+    "karma_link": "阿良在棋墩山“坐地分赃”时赠予李宝瓶，承载着神水国残余的气数 。"
+  },
+  "enriched": true
+}

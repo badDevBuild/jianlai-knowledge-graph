@@ -1,0 +1,48 @@
+{
+  "name": "老龙城云海",
+  "original_name": "老龙城阵法核心 / 远古仙人遗物",
+  "type": "其他",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "老龙城云海不仅是绝美的仙家风景，更是宝瓶洲南方最重要的战略防御屏障，其内部蕴含的水运精华极 多 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第251章 老龙城",
+      "owner": "老龙城苻家"
+    },
+    {
+      "chapter": "第261章 有剑从云海来",
+      "owner": "苻家"
+    }
+  ],
+  "subtype": "气运 / 阵法类",
+  "holder": "苻家",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古仙人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "承载一城气运，是老龙城屹立千年的根本，具备抵御蛮荒天下王座大妖的威能 。",
+  "supernatural_ability": "能够隔绝天机，作为跨洲渡船的航标，并在战时化作杀伤力巨大的剑气长河 。",
+  "evolution": {
+    "current_form": "高悬于老龙城上空的广袤云海 。",
+    "materials_consumed": [
+      "万年水运",
+      "老龙城气运"
+    ],
+    "potential_evolution": "作为开启“天地通”或某种远古禁制的关键组件 。"
+  },
+  "visual": {
+    "static": "乘坐云上渡船俯瞰可见，浩瀚无边，唯身处城内不可见 。",
+    "active": "异变时可化作百丈巨浪或雪白长剑，劈开天幕，声势惊天动地 。"
+  },
+  "provenance": {
+    "origin": "远古仙人留下的遗物，与世间最后一条真龙上岸的因果深度绑定 。",
+    "karma_link": "是苻家世代传承的立身之本，后因某种变故突兀消失，引起山上震动 。"
+  },
+  "enriched": true
+}

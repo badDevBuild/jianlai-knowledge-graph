@@ -1,0 +1,48 @@
+{
+  "name": "七色彩衣甘露甲",
+  "original_name": "彩衣甲 / 祖宗甲",
+  "type": "法宝",
+  "grade": "仙家重宝",
+  "status": "活跃",
+  "description": "世间极度罕见的远古重宝，曾由高位神灵披挂巡狩，其品秩远胜后世兵家仿制的任何甲丸 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第714章 出两剑",
+      "owner": "赊月"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "赊月",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "披甲者",
+      "relation": "原主"
+    },
+    {
+      "name": "铸造者",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古八副“祖宗”甘露甲之一，是世间一切甘露甲的法统来源 。",
+  "supernatural_ability": "防御惊人，自带五彩流光，能将攻击化作飞天彩带般的虚无，万法不侵 。",
+  "evolution": {
+    "current_form": "七彩缤纷、光彩夺目的华丽宝甲 。",
+    "materials_consumed": [
+      "远古神灵金身碎片",
+      "日精月华"
+    ],
+    "potential_evolution": "可随持有者神性提升而完全显化为远古披甲者姿态 。"
+  },
+  "visual": {
+    "static": "彩绘精美，宛如天女衣袂，宝光流转不息 。",
+    "active": "激发时如彩虹环绕，显现出“无量世界”的防御气象 。"
+  },
+  "provenance": {
+    "origin": "远古铸造者仿照披甲者战衣，于荧惑熔炉内采集日精炼制而成 。",
+    "karma_link": "记录在蛮荒天下的甲子帐秘录中，是身份极其尊贵的象征 。"
+  },
+  "enriched": true
+}

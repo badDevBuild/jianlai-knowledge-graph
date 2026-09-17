@@ -1,0 +1,47 @@
+{
+  "name": "圣人法相",
+  "original_name": "金身法相 / 巍峨神像",
+  "type": "其他",
+  "grade": "未知",
+  "status": "显化",
+  "description": "圣人法相是《剑来》战力体系的天花板体现。它不仅代表了极致的力量，更是圣贤守护苍生、维持世间 秩序的物质象征 。",
+  "aliases": [
+    "圣人法相"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第143章 百怪（下）",
+      "owner": "崔瀺"
+    }
+  ],
+  "subtype": "镇压类 / 权柄类",
+  "holder": "礼圣 / 齐静春 / 崔瀺",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "中土文庙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为大道秩序的化体，法相高度与神圣程度直接对应持有者的道行与功德 。",
+  "supernatural_ability": "“口含天宪”。法相所在即为规矩，可以强行镇压一切不合礼法的术法与大妖，甚至能只手遮天 。",
+  "evolution": {
+    "current_form": "身高千丈乃至数百万里、通体金光焕然的巍峨身形 。",
+    "materials_consumed": [
+      "浩然正气",
+      "山河功德",
+      "金身碎片"
+    ],
+    "potential_evolution": "若能合道整座天下，法相即可化为守护人间的永恒天幕 。"
+  },
+  "visual": {
+    "static": "神情肃穆，大如星辰，双目如日月，盘坐于云端或虚空之中 。",
+    "active": "伸手一挥即可破碎云海，举手投足间引动天地共鸣，压制一切邪祟 。"
+  },
+  "provenance": {
+    "origin": "源自儒家三教祖师及陪祀圣贤的毕生修为凝聚 。",
+    "karma_link": "是浩然天下“规矩”的终极体现，在老龙城、剑气长城等大战中发挥定海神针之效 。"
+  },
+  "enriched": true
+}

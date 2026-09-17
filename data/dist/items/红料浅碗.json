@@ -1,0 +1,47 @@
+{
+  "name": "红料浅碗",
+  "original_name": "红玻璃浅碗",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安从三个落魄的孩子手中以**“包袱斋”路数**买下的几件小东西之一。 虽非杀伐重器，却是陈平安悉心拣选用来磨砺裴钱心性、充实她“多宝盒”的雅物。 ,",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第477章 人心中须有日月",
+      "owner": "石柔"
+    }
+  ],
+  "subtype": "文房杂项",
+  "holder": "裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "地龙山包袱斋小贩",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为文房清供，长期接触文运或灵气可提升其温润度。",
+  "supernatural_ability": "具备极佳的观赏价值，能够让人见之心喜。",
+  "evolution": {
+    "current_form": "一只色泽润透的浅碗。",
+    "materials_consumed": [
+      "红料 (特制玻璃/玉石)"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "**色泽红润透明**，质感细腻如玉。",
+    "active": "在灯光或月光下会映照出柔和的红色涟漪。 []"
+  },
+  "provenance": {
+    "origin": "陈平安在北俱芦洲远游期间，从地龙山渡口的包袱斋小贩处买下。",
+    "karma_link": "作为陈平安送给裴钱的众多“小惊喜”之一，承载了师徒间的情谊。"
+  },
+  "enriched": true
+}

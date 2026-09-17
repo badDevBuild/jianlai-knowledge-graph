@@ -1,0 +1,100 @@
+{
+  "name": "养剑葫",
+  "original_name": "姜壶",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安的第一只养剑葫，由于大炼于人身，已成为他修行剑道 不可分割的一部分 。陈平安对其极为珍视，曾多次耗费巨资为其提升品秩 。",
+  "aliases": [
+    "养剑葫 (陈平安)",
+    "姜壶",
+    "养剑葫芦",
+    "酒壶",
+    "朱红酒葫芦",
+    "朱红葫芦",
+    "酒葫芦"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第62章 树倒",
+      "owner": "未知"
+    },
+    {
+      "chapter": "第93章 墙上有个字",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第204章 故人来送剑去",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第208章 去也",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第219章 道士吟诗",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第224章 才子佳人",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第227章 出剑了",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第238章 春风送君千万里",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第247章 就此一别，山高水长",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第330章 过山过水，遇姚而停",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第370章 新年新气象",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1021章 君亦且自疑",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "养剑类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    },
+    {
+      "name": "大骊王朝武库",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "在不断喂养金精铜钱后，其品秩已稳步提升至半仙兵级别 。",
+  "supernatural_ability": "不仅能温养飞剑，还可洗练飞剑上的杂质，并具备一定的储物空间 。",
+  "evolution": {
+    "current_form": "朱红色的小葫芦 。",
+    "materials_consumed": [
+      "大量金精铜钱",
+      "飞升境琉璃金身碎块"
+    ],
+    "potential_evolution": "有潜力晋升为真正的仙兵 。"
+  },
+  "visual": {
+    "static": "朱红色泽，材质温润，底部刻有“姜壶”二字，样式古朴耐看 。",
+    "active": "温养飞剑时，葫芦口会有微弱的剑气吞吐，光华流转不定 。"
+  },
+  "provenance": {
+    "origin": "原本是大骊王朝的内库收藏，由魏檗代为赠予陈平安 。",
+    "karma_link": "其名字“姜壶”谐音“江湖”，象征着陈平安仗剑走江湖的开端 。"
+  },
+  "enriched": true
+}

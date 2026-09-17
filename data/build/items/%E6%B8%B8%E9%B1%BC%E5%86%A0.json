@@ -1,0 +1,44 @@
+{
+  "name": "游鱼冠",
+  "original_name": "鱼尾冠",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是青冥天下与浩然天下道门修士常用的法冠。柔荑所 戴之冠尤为特殊，融合了芙蓉、莲花与鱼尾三种意象， 代表了极高的道门地位 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第938章 吾为东道主（八）",
+      "owner": "陆沉"
+    }
+  ],
+  "subtype": "服饰/道教法冠",
+  "holder": "柔荑 / 宝瓶洲道士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白玉京",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "高位道官所戴之冠，随修为提升可演化为承载洞天灵气 的法宝 。",
+  "supernatural_ability": "道冠形制独特，有助于佩戴者感悟天时，在某些流派中 象征着“鱼化龙”的晋升之意 。",
+  "evolution": {
+    "current_form": "形态为芙蓉之上开莲花、莲花之上现鱼尾的奇异道冠 。",
+    "materials_consumed": [
+      "仙家美玉",
+      "灵气"
+    ],
+    "potential_evolution": "顶级游鱼冠可幻化为护体金光，防御神魂冲击。"
+  },
+  "visual": {
+    "static": "道冠精致玲珑，鱼尾部分栩栩如生，散发淡淡的青光 。",
+    "active": "佩戴者施法时，道冠上的莲花与鱼尾会产生微弱的动态 ，如游鱼潜水 。"
+  },
+  "provenance": {
+    "origin": "源自青冥天下白玉京的传统法衣建制 。",
+    "karma_link": "在宝瓶洲神诰宗等门派中广为流传，象征道教法统 。"
+  },
+  "enriched": true
+}

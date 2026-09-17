@@ -1,0 +1,60 @@
+{
+  "name": "心事",
+  "original_name": "心事",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "七大养剑葫芦之一，以“锋”闻名。其温养出的飞剑“碧落”具有恐怖的穿透力与破法能力，是剑修杀伐权 柄的巅峰体现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第699章 天下第一人",
+      "owner": "未知"
+    },
+    {
+      "chapter": "第703章 又一年五月初五",
+      "owner": "刘材"
+    },
+    {
+      "chapter": "第709章 白云送刘十六归山",
+      "owner": "刘材"
+    },
+    {
+      "chapter": "第932章 吾为东道主（中）",
+      "owner": "刘材"
+    },
+    {
+      "chapter": "第1145章 也是剑修与自由",
+      "owner": "刘材"
+    }
+  ],
+  "subtype": "养剑类",
+  "holder": "刘材",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "配合其温养的飞剑“碧落”，杀力上限直指“一剑破万法”的最高境界 。",
+  "supernatural_ability": "温养之剑最为锋芒无匹 。具备“上穷碧落”的特性，专门压胜各类小天地与屏障 。",
+  "evolution": {
+    "current_form": "亚腰葫芦形态，常与“立即”并列悬挂 。",
+    "materials_consumed": [
+      "无上杀意",
+      "虚空碎片"
+    ],
+    "potential_evolution": "若能完全炼化，可实现一剑破万剑的霸道神通 。"
+  },
+  "visual": {
+    "static": "气息极度内敛，葫芦表面若隐若现“心事”二字，给人一种如芒在背的锋利感 。",
+    "active": "出剑即破法，能瞬间贯穿重重空间与防御禁制 。"
+  },
+  "provenance": {
+    "origin": "道祖亲植葫芦藤所产七宝之一 。",
+    "karma_link": "由神秘剑修刘材持有，作为邹子针对陈平安等人的重要棋子 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,49 @@
+{
+  "name": "金色莲花",
+  "original_name": "紫金莲花",
+  "type": "灵物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "陈平安在棋墩山从魏檗处得到的淡金色莲子 。此物原是神水国皇室珍藏，后被陈平安种在落魄山竹楼后的小池塘中，并最终随池塘迁入莲藕福地 , 。它是福地跻身上等品秩的关键，也是未来精魅证道的契机 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第811章 练手",
+      "owner": "刘聚宝"
+    }
+  ],
+  "subtype": "镇山类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "神水国皇室",
+      "relation": "原主"
+    },
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随福地品秩提升可成长为具有神性的紫金莲花 , 。",
+  "supernatural_ability": "能够稳固并凝聚大量的灵气和机缘，作为福地及山头的气运枢纽 。",
+  "evolution": {
+    "current_form": "池塘中含苞待放的紫金花苞",
+    "materials_consumed": [
+      "三万斤灵泉水",
+      "谷雨钱灵气",
+      "福地水运"
+    ],
+    "potential_evolution": "打破元婴瓶颈成为跻身上五境的精魅"
+  },
+  "visual": {
+    "static": "最初是一粒略显干瘪的淡金色种子，拇指大小 。",
+    "active": "在池塘中生发出巨大的荷叶，紫金色的花苞随风摇曳，流溢出紫金光彩 , 。"
+  },
+  "provenance": {
+    "origin": "神水国皇库",
+    "karma_link": "由陆沉遗留在浩然天下，后经魏檗转交给陈平安 ,"
+  },
+  "enriched": true
+}

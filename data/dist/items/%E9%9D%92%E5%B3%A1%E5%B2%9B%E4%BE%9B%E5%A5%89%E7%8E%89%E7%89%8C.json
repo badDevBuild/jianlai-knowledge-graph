@@ -1,0 +1,58 @@
+{
+  "name": "青峡岛供奉玉牌",
+  "original_name": "青峡岛客卿信物",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是陈平安在书简湖期间最为重要的身份标识。他以这块玉牌为掩护，名为账房先生实为监察隐官，在 一座座混乱的岛屿间厘清是非对错 。",
+  "aliases": [
+    "供奉玉牌"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第448章 驱马上丘垅",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第451章 过桥",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第454章 明月当空",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "身份类",
+  "holder": "陈平安 (化名账房先生)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "田湖君",
+      "relation": "赠予者"
+    },
+    {
+      "name": "刘志茂",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "代表了书简湖顶级岛屿的权柄，随着青峡岛并入真境宗，其威慑力覆盖整个书简湖 。",
+  "supernatural_ability": "“威慑群岛”。佩戴此牌可在书简湖这片“无法之地”免受寻常野修袭扰，并作为青峡岛“账房先生”行使监 管、查账等权力的凭证 。",
+  "evolution": {
+    "current_form": "质地古朴的玉牌，刻有青峡岛特有的阵法标识 。",
+    "materials_consumed": [
+      "书简湖灵气",
+      "截江真君法力"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "悬挂于腰间，玉色深沉，内里隐约有水脉纹路流转 。",
+    "active": "在面对不逊之徒时，玉牌气机会与青峡岛护山大阵遥相呼应，产生压迫感 。"
+  },
+  "provenance": {
+    "origin": "书简湖青峡岛祖师堂，由田湖君代师尊刘志茂交予陈平安 。",
+    "karma_link": "陈平安以此身份走遍书简湖，清算顾璨留下的因果烂账 。"
+  },
+  "enriched": true
+}

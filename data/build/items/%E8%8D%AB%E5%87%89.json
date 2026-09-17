@@ -1,0 +1,37 @@
+{
+  "name": "荫凉",
+  "original_name": "凉荫",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "即飞剑“凉荫”，在不同记载中互为别名。该剑意取自“凉绿树荫”，是马致跻身金丹的关键 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第262章 一叶扁舟，翩翩少年",
+      "owner": "马致"
+    }
+  ],
+  "subtype": "攻伐/温养类",
+  "holder": "马致",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "其剑意在金丹境中属于顶尖，具备极高的道意契合度 。",
+  "supernatural_ability": "压制暑气，生发清泉寒意，对修行火法的练气士有天然的克制作用 。",
+  "evolution": {
+    "current_form": "墨色袖珍飞剑",
+    "materials_consumed": [
+      "水运精华"
+    ],
+    "potential_evolution": "半仙兵品秩"
+  },
+  "visual": {
+    "static": "质感沉稳，虽为飞剑却有重器气象 。",
+    "active": "剑气浓厚，如同在酷暑中强行撑开一片阴凉树荫 。"
+  },
+  "provenance": {
+    "origin": "老龙城范家首席供奉马致的本命飞剑 。",
+    "karma_link": "因郑大风与陈平安的买卖，马致以此剑为陈平安喂剑指点 。"
+  },
+  "enriched": true
+}

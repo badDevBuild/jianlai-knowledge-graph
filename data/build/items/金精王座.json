@@ -1,0 +1,48 @@
+{
+  "name": "金精王座",
+  "original_name": "金精宝座",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是蛮荒天下巅峰战力的象征，不仅是一座战争堡垒，更是曜甲试图通过炼化神灵金身跻身十四境的合 道契机。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第613章 十四王座，我龙抬头",
+      "owner": "金袍大妖"
+    },
+    {
+      "chapter": "第683章 何处不问剑",
+      "owner": "曜甲"
+    }
+  ],
+  "subtype": "镇压类 / 气运类",
+  "holder": "大妖曜甲",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蛮荒天下大祖",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为蛮荒天下十四王座之一，其上限取决于炼化浩然天下山水神祇金身的数量。",
+  "supernatural_ability": "能够炼化并吸收山水神祇的金身碎片；具备“大日悬空”之姿，可俯瞰众生并对抗天道约束。",
+  "evolution": {
+    "current_form": "破碎倒悬的巨大山岳，高台平整如镜，形似巨大的金精铜钱。",
+    "materials_consumed": [
+      "山水神祇金身碎片",
+      "大妖尸骨铁链"
+    ],
+    "potential_evolution": "若能吸纳特定神祇真身转世，可成就真正的大道不朽。"
+  },
+  "visual": {
+    "static": "整座山岳倒悬于空，山尖朝地，无数大妖尸骨打造的铁链穿透并牵连着山体碎石。",
+    "active": "高台如镜面般反射夺目光彩，边缘浮现金色铭文，并能显化出百丈高的金身神灵法相。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下英灵殿产物，由蛮荒大祖炼化后赐予曜甲。",
+    "karma_link": "与浩然天下的山水官场气运及神灵金身存在天然的掠夺与压胜关系。"
+  },
+  "enriched": true
+}

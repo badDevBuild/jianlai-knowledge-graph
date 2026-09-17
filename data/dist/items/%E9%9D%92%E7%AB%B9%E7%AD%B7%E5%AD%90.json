@@ -1,0 +1,48 @@
+{
+  "name": "青竹筷子",
+  "original_name": "青神山神霄竹筷",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是被老掌柜感叹**“奢侈过分”**的宝贝 。它不仅是顶级的文房/餐具，更是陈平安与张山峰 真挚友谊的实物见证 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第881章 眼神",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养/压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "张山峰",
+      "relation": "赠予者"
+    },
+    {
+      "name": "胭脂郡战利品",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由于材质极为罕见，若能重新炼化为“打鬼鞭”，威力倍 增 , 。",
+  "supernatural_ability": "一根篆刻“青神山”，一根篆刻“神霄竹” 。具有天然的净化功效，能测百毒，并压制地下阴 物 。",
+  "evolution": {
+    "current_form": "一双青翠欲滴、灵气凝聚不散的竹筷 , 。",
+    "materials_consumed": [
+      "神霄绿竹",
+      "洞天清气"
+    ],
+    "potential_evolution": "可作为炼制“金法曹”等辅佐本命物的重要辅材 。"
+  },
+  "visual": {
+    "static": "色泽如翠玉，竹节纹路清晰，隐约可见雷纹 。",
+    "active": "在遇到不洁之物时会微微震颤，散发出清新的草木香气 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲竹海洞天青神山 。",
+    "karma_link": "张山峰为了偿还“光明铠”的人情，坚持将其送给陈平安 ，体现了生死之交的厚道 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,43 @@
+{
+  "name": "长枪",
+  "original_name": "破阵",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "名为“破阵”，是兵家初祖姜赦的成名神兵。它既是杀力巨大的仙兵，也承载着远古时代武夫成神的战意 与雷法权柄 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第611章 风将起",
+      "owner": "大妖 -> 阿良"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "姜赦",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "藕神祠",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为兵家初祖的成道神兵，其位阶高于“斩勘” 。",
+  "supernatural_ability": "蕴藉着蛮荒天下最为精纯的雷法神意 ；长枪所向，能够轻易摧破上五境修士的法宝与禁制 。",
+  "evolution": {
+    "current_form": "长枪或长剑形态（可随主心意变换）",
+    "materials_consumed": [
+      "远古神灵尸骸"
+    ],
+    "potential_evolution": "作为兵家最高权柄的象征，随武道合道可发挥无限威力。"
+  },
+  "visual": {
+    "static": "符箓遍布，金光流动，枪身比寻常战阵铁枪更长 。",
+    "active": "贯穿神灵头颅时枪尖隐约有雷鸣声，雷电交织 。"
+  },
+  "provenance": {
+    "origin": "兵家初祖以一具远古神灵的尸骸炼化而成 。",
+    "karma_link": "曾长期供奉于青冥天下鱼符王朝水底的藕神祠中 。"
+  },
+  "enriched": true
+}

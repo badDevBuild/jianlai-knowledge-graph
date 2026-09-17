@@ -1,0 +1,43 @@
+{
+  "name": "无字拳谱",
+  "original_name": "十一境拳意",
+  "type": "典籍",
+  "grade": "无形",
+  "status": "活跃",
+  "description": "这并非传统的纸质书籍，而是兵家初祖十一境拳法的具象化 。它在陈平安的修行中起到了至关重要的作用，使其拳法达到了“气盛”巅峰 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第754章 选址",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "武学类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "兵家初祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "随着陈平安跻身武道止境，可演化为开创崭新武学流派的根基 。",
+  "supernatural_ability": "无招胜有招，每一丝拳意都能引起人身山河的共鸣，具有开山断江之威 。",
+  "evolution": {
+    "current_form": "嵌套在陈平安人身小天地山河中的拳法脉络 。",
+    "materials_consumed": [
+      "十一境武夫神意"
+    ],
+    "potential_evolution": "可与陈平安自身的剑道融合，成就“拳剑合一”之境 。"
+  },
+  "visual": {
+    "static": "并无实体书页，隐匿于陈平安的筋骨经络之中 。",
+    "active": "出拳时神光激荡，显化出神人擂鼓或山河倒转的恐怖异象 。"
+  },
+  "provenance": {
+    "origin": "兵家初祖遗留在人间的武学真意 。",
+    "karma_link": "与韩玉树的仙人遗蜕互为互补，由陈平安在实战中领悟 。"
+  },
+  "enriched": true
+}

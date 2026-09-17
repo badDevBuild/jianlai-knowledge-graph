@@ -1,0 +1,44 @@
+{
+  "name": "定心丸",
+  "original_name": "罗纨入天目计划",
+  "type": "其他",
+  "grade": "灵药",
+  "status": "活跃",
+  "description": "这是陈平安擅长“补漏”与“布局”的体现。它通过对敌人的资源再利用，化解了可能冲击落魄山与大泉姚 氏合作关系的潜在危机。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第392章 山雨欲来符满楼",
+      "owner": "柳清青 (狐妖赠送)"
+    }
+  ],
+  "subtype": "计谋/心理类",
+  "holder": "三山福地 (受益方)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "策划者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "此“丸”非丹药，而是针对人心与大势的精密算计。若成，可稳固整座福地与大宗门之间的盟友关系。",
+  "supernatural_ability": "**“自证清白”**。通过让罗纨伪装成仙人韩玉树，演戏给天目书院看，从而消除外界对万瑶宗及其背后 因果的疑虑。",
+  "evolution": {
+    "current_form": "一个由陈平安策划、姜尚真配合执行的心理博弈策略。",
+    "materials_consumed": [
+      "韩玉树仙人遗蜕",
+      "罗纨的幻化秘术"
+    ],
+    "potential_evolution": "可演化为控制三山福地舆论走向的长期手段。"
+  },
+  "visual": {
+    "static": "无实体。体现在韩绛树等人的心境平复上。",
+    "active": "当罗纨以韩玉树面目出现在天目书院时，宝光冲天，足以乱真。"
+  },
+  "provenance": {
+    "origin": "由陈平安在解决狮子园危机后，针对三山福地万瑶宗后续因果所制定。",
+    "karma_link": "陈平安通过此举偿还因果，并为落魄山在桐叶洲的布局铺路。"
+  },
+  "enriched": true
+}

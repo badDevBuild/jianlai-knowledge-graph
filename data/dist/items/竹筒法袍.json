@@ -1,0 +1,44 @@
+{
+  "name": "竹筒法袍",
+  "original_name": "袖珍法袍",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一批由远古剑修小陌亲手编织的法袍。它们被巧妙地收纳在数十个小竹筒中，每一件都承载了他在 明月之上的漫长岁月，现成为落魄山丰厚家底的一部分。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第877章 事多如牛毛",
+      "owner": "小陌"
+    }
+  ],
+  "subtype": "防御类 / 储纳类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "小陌 (陌生)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为远古大妖随手编织之物，虽未及仙兵，却具备独特的道脉传承意义。",
+  "supernatural_ability": "小巧竹筒内藏有大幅布料或成型法袍。小陌在皓彩明月长眠时随手编织，能隔绝气机。",
+  "evolution": {
+    "current_form": "五六十只高低粗细不一的青色竹筒。",
+    "materials_consumed": [
+      "月魄精华",
+      "远古丝线"
+    ],
+    "potential_evolution": "若作为落魄山拜山头的见面礼分发，可形成稳固的门派气象。"
+  },
+  "visual": {
+    "static": "袖珍可爱的青色小竹筒，堆叠在掌心中。",
+    "active": "取出法袍后如云气展开，虽未达半仙兵，却质地精良，自带清凉道意。"
+  },
+  "provenance": {
+    "origin": "小陌（喜烛）在蛮荒天下皓彩明月沉睡期间所制。",
+    "karma_link": "作为死士小陌送给公子陈平安用于收买人心、开山立派的敲门砖。"
+  },
+  "enriched": true
+}

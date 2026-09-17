@@ -1,0 +1,44 @@
+{
+  "name": "秋水谱",
+  "original_name": "《庄子·秋水》意境图",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陆沉赠予（借予）陆芝的八剑之一及其配套剑谱。每一 剑都代表了陆沉对一条大道的理解，具有极强的压胜力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第903章 天地孤鹤",
+      "owner": "李邺侯"
+    }
+  ],
+  "subtype": "剑道/法理类",
+  "holder": "陆沉 / 陆芝",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "蕴含陆沉对“秋水时至，百川灌河”这一剑道的深刻理解 ，是通往十四境的捷径 。",
+  "supernatural_ability": "剑法中包含“不自多”之理，能让对手陷入“井底之蛙”的 认知障壁中 。",
+  "evolution": {
+    "current_form": "白玉京南华城的一把长剑与配套剑谱 。",
+    "materials_consumed": [
+      "十四境道道意",
+      "北海水精"
+    ],
+    "potential_evolution": "可演化为涵盖四海的“归墟剑道”。"
+  },
+  "visual": {
+    "static": "剑身如秋水般波光粼粼，谱本上有文字游曳如鱼 。",
+    "active": "出剑时伴有河水倒灌、天地广袤的宏大幻象 。"
+  },
+  "provenance": {
+    "origin": "由白玉京三掌教陆沉亲手炼制 。",
+    "karma_link": "体现了道家“逍遥”与“齐物”在剑术上的极致运用 。"
+  },
+  "enriched": true
+}

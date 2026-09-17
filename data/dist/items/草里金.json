@@ -1,0 +1,46 @@
+{
+  "name": "草里金",
+  "original_name": "手捻小葫芦",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "虽然这只是一个世俗寻常的小物件，但它寄托了裴钱对师父的模仿与对江湖的憧憬。在落魄山的欢笑声 中，这只小葫芦成了裴钱最爱不释手的“家当”之一 。",
+  "aliases": [
+    "手捻葫芦"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第395章 一碗鸡汤不知道",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "收藏类 / 助兴类",
+  "holder": "裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为品相极佳的天然灵物，随裴钱武道拳意的磨砺，有希望生发出一丝压胜精怪的神通 。",
+  "supernatural_ability": "**“心意寄托”**。个头虽极小，却被视作“行走江湖”的标志性物件，能帮助持有者在枯燥的远游中排解 忧闷 。",
+  "evolution": {
+    "current_form": "一只手捻大小、色泽金黄的黄皮小葫芦 。",
+    "materials_consumed": [
+      "天然葫芦",
+      "岁月包浆"
+    ],
+    "potential_evolution": "若能由高人点睛，可化为类似“收妖葫芦”的微型法器 。"
+  },
+  "visual": {
+    "static": "娇小玲珑，色泽油亮，如同一颗纯金打造的种子，故名“草里金” 。",
+    "active": "在手中盘玩时，会发出细微清脆的声音，隐约散发出草木的芬芳 。"
+  },
+  "provenance": {
+    "origin": "购自青鸾国京城的集市铺子 。",
+    "karma_link": "陈平安因裴钱羡慕师父的养剑葫，故而为其买下，满足其“行走江湖”的愿望 。"
+  },
+  "enriched": true
+}

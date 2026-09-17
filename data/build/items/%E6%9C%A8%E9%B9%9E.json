@@ -1,0 +1,48 @@
+{
+  "name": "木鹞",
+  "original_name": "彩绘木偶 / 机关傀儡",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是李槐最钟情的物件，虽然在众多仙家重宝中品秩不高，却承载了李槐单纯的童心与最初的江湖梦想 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第387章 纸鸢起飞鸟散",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第535章 天上纸鸢有分别",
+      "owner": "崔东山/柳清风"
+    }
+  ],
+  "subtype": "傀儡类 / 寄托类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "做工精美绝伦，若由高明墨家匠人点睛，可演化为具有灵性的战斗或生活傀儡 。",
+  "supernatural_ability": "**“灵性护卫”**。作为李槐的“头号大将”，在灵气浸染下能产生细微动作，具备一定的自主意识 。",
+  "evolution": {
+    "current_form": "手掌长短、做工精美的彩绘木偶 。",
+    "materials_consumed": [
+      "上古灵木",
+      "五彩真意"
+    ],
+    "potential_evolution": "可配合墨家傀儡术，化为守护主人的神将或灵仆 。"
+  },
+  "visual": {
+    "static": "五彩斑斓，形制小巧，常被李槐放在娇黄木匣或小书箱内 。",
+    "active": "在特定环境下（如夜航船或灵气浓郁处）会产生拟人化的反馈或灵光溢出 。"
+  },
+  "provenance": {
+    "origin": "棋墩山土地公魏檗的千年家底之一 。",
+    "karma_link": "李槐在棋墩山通过“分赃”获得，从此成为其游学路上的忠实伴侣 。"
+  },
+  "enriched": true
+}

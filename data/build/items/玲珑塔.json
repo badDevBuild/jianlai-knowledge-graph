@@ -1,0 +1,46 @@
+{
+  "name": "玲珑塔",
+  "original_name": "玲珑塔 / 仿白玉京宝塔",
+  "type": "法宝",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "**“玲珑塔”**（七彩琉璃宝塔）是谢灵跻身玉璞境的关键依仗。它不仅是身份的象征，更是**佛道兼备 的压胜重器**，其真实品秩足以令世间地仙仰望 。",
+  "aliases": [
+    "镇妖塔"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第305章 远观近看",
+      "owner": "谢灵"
+    }
+  ],
+  "subtype": "压胜/镇压类",
+  "holder": "谢灵",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道祖手植葫芦藤相关的分支重宝，具备镇压一洲气运与万鬼的无限上限 。",
+  "supernatural_ability": "共有九层及三十六块匾额。能强力镇压世间一切上五境以下的邪魔外道与阴灵 。",
+  "evolution": {
+    "current_form": "半尺高的七彩琉璃小塔 。",
+    "materials_consumed": [
+      "远古琉璃",
+      "三十六块秘制匾额"
+    ],
+    "potential_evolution": "完全炼化后可显化为接天通地的三十六层真境 。"
+  },
+  "visual": {
+    "static": "高约半尺，通体七彩琉璃，宝光莹莹，每一层都悬挂有微小匾额 。",
+    "active": "祭出时雷音滚滚，霞光流转，化作百丈宏伟建筑镇压一方山河 。"
+  },
+  "provenance": {
+    "origin": "白玉京三掌教陆沉赠予谢灵的收徒礼 。",
+    "karma_link": "与骊珠洞天谢氏家族的道缘、及白玉京对宝瓶洲的布局深有关联 。"
+  },
+  "enriched": true
+}

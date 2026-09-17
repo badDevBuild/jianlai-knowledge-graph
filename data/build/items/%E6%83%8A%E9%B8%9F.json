@@ -1,0 +1,38 @@
+{
+  "name": "惊鸟",
+  "original_name": "细蠓飞雀",
+  "type": "其他",
+  "grade": "本命飞剑",
+  "status": "活跃",
+  "description": "**一种极具干扰性的邪道术法生物**。它们能在无声无 息间破坏修士的道心与神魂，使其深陷迷魂阵而无法自 拔 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第792章 仙人术法",
+      "owner": "于樾"
+    }
+  ],
+  "subtype": "幻术/束缚类",
+  "holder": "虞醇脂",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "若能融合大量淫邪气气，可演化为控制元婴甚至玉璞境 修士神魂的杀招 。",
+  "supernatural_ability": "身躯虚幻，能自由出入他人七窍，通过拖拽粉色线条如 织布般围困目标，打造“风流帐”迷魂阵 。",
+  "evolution": {
+    "current_form": "渺小如细蠓的粉色飞雀虚影 。",
+    "materials_consumed": [
+      "粉色桃花水",
+      "修士神魂意气"
+    ],
+    "potential_evolution": "进化为真正的“艳尸”伴生灵物 。"
+  },
+  "visual": {
+    "static": "肉眼几乎不可见，唯有在特定光线下显现出丝缕粉色线 条 。",
+    "active": "在大阵中疯狂穿梭，将目标脑袋包裹如粽子，产生致幻 效果 。"
+  },
+  "provenance": {
+    "origin": "源自邪道“艳尸”一脉的修习术法 。",
+    "karma_link": "虞醇脂用来打造温柔乡、收割过往修士精气的致命陷阱 。"
+  },
+  "enriched": true
+}

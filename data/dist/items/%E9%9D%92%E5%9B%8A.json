@@ -1,0 +1,42 @@
+{
+  "name": "青囊",
+  "original_name": "小绣袋 / 储物青囊",
+  "type": "方寸物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "青囊是浩然天下练气士最常用的储物工具之一。无论是 裴钱的小钱袋子，还是曾掖的法宝收纳，皆以此为载体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第994章 飞鸟回掌故",
+      "owner": "诰命夫人"
+    },
+    {
+      "chapter": "第1035章 自有宽路",
+      "owner": "宁吉 (陆沉赠)"
+    }
+  ],
+  "subtype": "收纳类",
+  "holder": "山下修士 / 曾掖 / 裴钱",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "虽属于基础空间法宝，但长期浸染修士灵气可稳固内部 小天地 。",
+  "supernatural_ability": "芥子纳须弥，能够装载大量远游所需的天材地宝或神仙 钱，并具备一定的隔绝因果窥探之力 。",
+  "evolution": {
+    "current_form": "样式素雅的青色小袋子，常悬于腰间 。",
+    "materials_consumed": [
+      "法力丝线",
+      "空间碎片"
+    ],
+    "potential_evolution": "极少数可晋升为具有“袖里乾坤”雏形的法宝 。"
+  },
+  "visual": {
+    "static": "刺绣精美，色泽青翠或玄青，表面隐约有符文流转 。",
+    "active": "开启时会有微弱的灵气涟漪，内部空间比肉眼所见广阔 无数 。"
+  },
+  "provenance": {
+    "origin": "多由墨家机关师或符箓派炼师缝制 。",
+    "karma_link": "连接修士的世俗财富与修道家底 。"
+  },
+  "enriched": true
+}

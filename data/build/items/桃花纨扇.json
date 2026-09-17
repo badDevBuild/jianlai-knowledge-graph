@@ -1,0 +1,48 @@
+{
+  "name": "桃花纨扇",
+  "original_name": "月宫旧藏避暑扇",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此扇名为“避暑”，曾是大泉王朝及周边文人骚客的心头爱。它不仅是一件强大的防御法宝，更是陈平安 在桐叶洲开凿大渎、调理山水的重要辅助器物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第719章 我是东山啊",
+      "owner": "沉禧"
+    }
+  ],
+  "subtype": "防御类 / 气运类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李邺侯 (皎月湖水君)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "明月共主 (远古)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为月宫遗存，具备吸纳月色精华、聚拢山水气运的极致潜质 。",
+  "supernatural_ability": "“避暑”。不仅能压胜山水，更能让持扇者在酷暑中保持心境清凉，并具备水法攻伐神通 。",
+  "evolution": {
+    "current_form": "绘有桃花、明月等意象的精美纨扇。",
+    "materials_consumed": [
+      "月魄精华",
+      "山水气运"
+    ],
+    "potential_evolution": "若能补全在人间流转受损的道韵，可恢复仙兵品秩 。"
+  },
+  "visual": {
+    "static": "小圆团扇样式，古色古香，扇面上题有“明月生凉宝扇闲”等文字 。",
+    "active": "扇动时月华流溢，能在大旱之地降下甘霖，驱散一切炎蒸与心魔 。"
+  },
+  "provenance": {
+    "origin": "源自远古明月共主，后被李邺侯作为贺礼赠予陈平安 。",
+    "karma_link": "承载了南婆娑洲大水之畔的情感寄托与水运交换 。"
+  },
+  "enriched": true
+}

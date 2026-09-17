@@ -1,0 +1,39 @@
+{
+  "name": "月晕",
+  "original_name": "月晕",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "夏远翠持有的飞剑，以其优美的剑光和强大的领域压制力知名。其别称“地上霜”贴切地描述了出剑时万 物肃杀、剑气遍地的气象 。",
+  "aliases": [
+    "地上霜"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第821章 落魄山观礼正阳山",
+      "owner": "夏远翠"
+    }
+  ],
+  "subtype": "攻伐类 / 领域类",
+  "holder": "夏远翠",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "具备将整座山头化作剑气领域的潜力 。",
+  "supernatural_ability": "别称“地上霜”。祭出后剑气铺散，如同清冷月光覆盖大地，使范围内气温骤降且剑气森然 。",
+  "evolution": {
+    "current_form": "本命飞剑",
+    "materials_consumed": [
+      "月魄精华"
+    ],
+    "potential_evolution": "可配合特定的月光术法增强压制力。"
+  },
+  "visual": {
+    "static": "剑身流转着如月华般的淡白色光泽 。",
+    "active": "剑光如虹，所过之处如同覆盖了一层晶莹的白霜 。"
+  },
+  "provenance": {
+    "origin": "夏远翠本命飞剑 。",
+    "karma_link": "承载了正阳山满月峰的部分山水气运。"
+  },
+  "enriched": true
+}

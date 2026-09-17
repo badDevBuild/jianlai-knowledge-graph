@@ -1,0 +1,38 @@
+{
+  "name": "火灵",
+  "original_name": "火灵 (本命飞剑)",
+  "type": "本命飞剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "火灵是陈清流实现其“证道之路”的另一关键手段。它不仅在战斗中提供暴烈的攻击，更在宏观层面参与 了对浩然天下气运的梳理 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第961章 少年最匆匆",
+      "owner": "陈清流"
+    }
+  ],
+  "subtype": "攻伐类 / 压胜类",
+  "holder": "陈清流 (斩龙人)",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "与“水源”相辅相成，是平衡阴阳五行的至高剑道载体 。",
+  "supernatural_ability": "“火德焚天”。与“水源”配合，能让陈清流在面对水火双系修士时占据绝对主动，一剑出则灵气枯竭，火 元消散 。",
+  "evolution": {
+    "current_form": "十四境剑修陈清流的第二把本命飞剑 。",
+    "materials_consumed": [
+      "太阳精火",
+      "地心熔岩真意"
+    ],
+    "potential_evolution": "可演化为焚尽大千世界的灭世红莲之姿 。"
+  },
+  "visual": {
+    "static": "剑身赤红如火，不时有细微的金色电弧在表面跳跃，剑气爆裂 。",
+    "active": "递剑时如红莲绽放，火光照彻百里，能够瞬间蒸干对方体内的水属灵气 。"
+  },
+  "provenance": {
+    "origin": "陈清流证道十四境过程中的大道显化 。",
+    "karma_link": "与其“水源”飞剑共同构筑了针对五行平衡的绝对杀力 。"
+  },
+  "enriched": true
+}

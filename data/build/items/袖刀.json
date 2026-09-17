@@ -1,0 +1,44 @@
+{
+  "name": "袖刀",
+  "original_name": "朝露",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安在北游途中反杀刺客所得的战利品，曾因被佛门神通禁锢而显现出特殊的因果余烬。陈平安对其 评价极高，视为与敌搏命的重器。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第546章 剑客行事",
+      "owner": "徐杏酒/赵青纨"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "割鹿山刺客",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "虽是上古兵器仿品，但在纯粹武夫手中可发挥出破开天地禁制的恐怖杀力。",
+  "supernatural_ability": "具备“朝露”之意，出刀极快且隐蔽，能斩断因果丝线或光阴阻滞。",
+  "evolution": {
+    "current_form": "袖珍短刀，刀身篆刻“朝露”。",
+    "materials_consumed": [
+      "武夫拳意",
+      "杀气"
+    ],
+    "potential_evolution": "若能与“暮霞”双刀合璧，可演化出更高阶的武道神通。"
+  },
+  "visual": {
+    "static": "刀长不过数寸，刀鞘古雅，由于常年绑缚在手臂上，几无外放气息。",
+    "active": "拔刀时如白昼流萤，光芒一闪即逝，快到令地仙都难以捕捉。"
+  },
+  "provenance": {
+    "origin": "源自桐叶洲刺客组织“割鹿山”。",
+    "karma_link": "见证了陈平安从书简湖之后的生死磨砺，是其压箱底的保命手段。"
+  },
+  "enriched": true
+}

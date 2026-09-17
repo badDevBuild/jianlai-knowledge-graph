@@ -1,0 +1,40 @@
+{
+  "name": "金丹",
+  "original_name": "金丹客的根本",
+  "type": "丹药",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "金丹是练气士中五境的核心，其品秩高低决定了未来的大道成就 。在书简湖等乱世之地，一颗金丹往往象征着一方霸主的地位 。",
+  "aliases": [
+    "上古金丹"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第753章 最难是个今日无事",
+      "owner": "倪元簪"
+    }
+  ],
+  "subtype": "修行/根基类",
+  "holder": "中五境练气士",
+  "holder_relation": "寄托",
+  "rank": "法宝",
+  "rank_potential": "丹成一品者被视为飞升候补，具备冲击上五境的潜力 。",
+  "supernatural_ability": "练气士结成金丹后可阴神出窍，寿元大幅增长，初步具备逍遥天地的资格 。",
+  "evolution": {
+    "current_form": "修士气府丹室中凝聚的本源灵气结晶 。",
+    "materials_consumed": [
+      "天地灵气",
+      "大药精元"
+    ],
+    "potential_evolution": "可孕育元婴，最终化为阳神身外身 。"
+  },
+  "visual": {
+    "static": "位于气府深处，呈圆球状，光华内敛 。",
+    "active": "散发出五彩流光，照彻人身小天地，随呼吸吞吐灵气 。"
+  },
+  "provenance": {
+    "origin": "练气士跨越“龙门”关隘后的修行产物 。",
+    "karma_link": "象征着修士正式跻身“我辈人”行列 。"
+  },
+  "enriched": true
+}

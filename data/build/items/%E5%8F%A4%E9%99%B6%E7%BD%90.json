@@ -1,0 +1,44 @@
+{
+  "name": "古陶罐",
+  "original_name": "大阵枢纽陶罐",
+  "type": "法宝",
+  "grade": "重宝",
+  "status": "活跃",
+  "description": "此物是苗稼在遗址中获得的机缘。它不仅是强力的大阵枢纽，更是研究远古计量法度和兵家战阵的重要 实物载体 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1018章 道深者言浅",
+      "owner": "苗稼"
+    }
+  ],
+  "subtype": "阵法枢纽 / 计量类",
+  "holder": "苗稼",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "古代兵家修士",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为天地间最早的计量之物，其在确定“规矩”与“容积”层面具有不可估量的大道上限 , 。",
+  "supernatural_ability": "能够作为阵法枢纽驾驭整座遗址的天地灵气；由于其计量本能，可作为确定万物容积的始祖工具 , 。",
+  "evolution": {
+    "current_form": "一个外表极为粗糙、形制古老的陶罐 。",
+    "materials_consumed": [
+      "古代兵家煞气",
+      "光阴长河水运精华"
+    ],
+    "potential_evolution": "若能寻得与之配套的铁钉，可演化为能够禁锢飞仙的极致压胜牢笼 。"
+  },
+  "visual": {
+    "static": "质地粗糙，容量约为一升，看似普通却内含乾坤 。",
+    "active": "运转阵法时，罐身会散发出沉稳的气息，强行调配四周的灵气流向 , 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的兵家秘境遗址 。",
+    "karma_link": "极有可能是某位古代兵家修士的骨灰坛，在漫长岁月中通灵成为重宝 。"
+  },
+  "enriched": true
+}

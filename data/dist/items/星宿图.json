@@ -1,0 +1,44 @@
+{
+  "name": "星宿图",
+  "original_name": "二十八星宿图",
+  "type": "法宝",
+  "grade": "未知",
+  "status": "损毁",
+  "description": "**星宿图**是陈平安极其重要的阵法至宝。它融合了阴 阳家术算与符箓之道，是其“算计天下”的具象体现。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第777章 还礼",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "阵法/困杀类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "郑居中",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随持有人对星象与术算的领悟，可演化为支撑小千世界 的根本支柱。",
+  "supernatural_ability": "法天象地，能在方寸间构建出庞大的星空禁制，使敌人 陷入“有涯与无涯”的迷障。",
+  "evolution": {
+    "current_form": "基于古砚材质炼化的一座小洞天。",
+    "materials_consumed": [
+      "日月同壁古砚",
+      "金精铜钱"
+    ],
+    "potential_evolution": "可与搜山阵叠合，成为“北斗注死”大阵的基石。"
+  },
+  "visual": {
+    "static": "外表是一方古朴的砚台，背面凿有二十八星宿眼柱。",
+    "active": "祭出后白昼转夜，星空璀璨，显现出二十八尊巍峨神将 法相。"
+  },
+  "provenance": {
+    "origin": "得自郑居中，由陈平安在闭关期间结合顾粲炼物法诀炼 化。",
+    "karma_link": "是陈平安在天外战场统筹大局的关键工具。"
+  },
+  "enriched": true
+}

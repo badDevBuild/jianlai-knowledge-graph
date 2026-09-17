@@ -1,0 +1,46 @@
+{
+  "name": "舍利子",
+  "original_name": "佛龛 / 舍利佛宝",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这尊**“随身佛”**（佛龛）是佛家门生的核心法器。在蛮荒战场与新天地的纷争中，它象征着**慈悲与 因果的镇压力量**，能够以佛法慈悲化解滔天戾气 。",
+  "aliases": [
+    "佛骨"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第307章 眼底脚下",
+      "owner": "心相寺"
+    }
+  ],
+  "subtype": "辅助/镇魂类",
+  "holder": "少年僧人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "西方佛国某高僧",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随僧人修行闭口禅及功德积累，内部佛光可演化为无量世界 。",
+  "supernatural_ability": "具备极其强大的宁神与镇邪效果。能够拘禁远古余孽于荷池天地中，使其小如芥子 。",
+  "evolution": {
+    "current_form": "背在身后、用棉布遮掩起来的佛龛 。",
+    "materials_consumed": [
+      "万年香火",
+      "高僧骨血"
+    ],
+    "potential_evolution": "演化为真正的金刚不败之身或西方净土法界 。"
+  },
+  "visual": {
+    "static": "常年被棉布遮掩，朴实无华，背负在少年僧人身后 。",
+    "active": "开启时佛光照彻十方，内里显现出朵朵金色荷花，神圣庄严 。"
+  },
+  "provenance": {
+    "origin": "来自西方佛国，是佛家证果圣人的传承信物 。",
+    "karma_link": "与少年僧人游历五彩天下、及平定远古余孽的功德密不可分 。"
+  },
+  "enriched": true
+}

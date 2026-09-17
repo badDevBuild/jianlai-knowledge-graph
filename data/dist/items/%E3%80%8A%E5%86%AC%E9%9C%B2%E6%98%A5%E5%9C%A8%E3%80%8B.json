@@ -1,0 +1,43 @@
+{
+  "name": "《冬露春在》",
+  "original_name": "春露圃山水集子",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是春露圃定期刊印的仙家刊物，类似于山上的新闻集锦。陈平安因其在玉莹崖的壮举被记录其中，这 也是他声名鹊起的见证。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第563章 忽如远行客",
+      "owner": "谈陵(赠予陈平安)"
+    }
+  ],
+  "subtype": "文献/见闻类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "春露圃 (谈陵)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽非功法，但因其记录了众多剑仙的事迹与真意，具有极高的文化与悟道价值。",
+  "supernatural_ability": "书中文字蕴含淡淡的“人烟气”与“仙灵气”，可供修士通过文字观想剑仙风采。",
+  "evolution": {
+    "current_form": "版刻精良、带有淡淡药草与竹香的书籍。",
+    "materials_consumed": [
+      "春露圃文运"
+    ],
+    "potential_evolution": "若能集齐历代集子，可拼凑出一幅完整的宝瓶洲修行变迁图。"
+  },
+  "visual": {
+    "static": "封面古雅，纸张厚实且防蛀，字迹优美。",
+    "active": "翻阅至特定篇章时（如陈平安与柳质清饮茶），文字会呈现微弱光华。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲春露圃。",
+    "karma_link": "见证了陈平安以“曹某”身份在北俱芦洲结下的深厚缘分，包括其与柳质清的饮茶问道。"
+  },
+  "enriched": true
+}

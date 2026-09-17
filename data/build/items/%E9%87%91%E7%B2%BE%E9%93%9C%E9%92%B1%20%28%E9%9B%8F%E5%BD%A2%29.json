@@ -1,0 +1,44 @@
+{
+  "name": "金精铜钱 (雏形)",
+  "original_name": "压胜钱雏形",
+  "type": "货币",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是在**莲藕福地**中出现的罕见灵物，其性质接近于大骊王朝早期流通的“压胜钱” , 。它具备神道加持效果，是地仙级修士都难以寻觅的重宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1068章 碧波万顷客眼青",
+      "owner": "绿腰娘娘"
+    }
+  ],
+  "subtype": "气运压胜类",
+  "holder": "绿腰娘娘",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "叠叶山庙祝",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "具备演化为“祖钱”或“母钱”的潜力，能够大幅提升一地神道气运 , 。",
+  "supernatural_ability": "能够将虚无缥缈的**祠庙香火炼虚为实**，凝聚成实物钱币 。",
+  "evolution": {
+    "current_form": "金色铜钱雏形",
+    "materials_consumed": [
+      "香火愿力",
+      "金身碎片"
+    ],
+    "potential_evolution": "正式炼化后可成为真正的金精铜钱，具备压胜山河之能 , 。"
+  },
+  "visual": {
+    "static": "通体金黄，质地沉重，其文字与形制不同于世俗钱币 。",
+    "active": "散发出浓郁的神性光辉，能与山水神灵的金身产生感应 。"
+  },
+  "provenance": {
+    "origin": "叠叶山乞花场山神庙 。",
+    "karma_link": "由一位身份不明的鬼物庙祝利用远古工艺在藕花福地内秘密铸造 。"
+  },
+  "enriched": true
+}

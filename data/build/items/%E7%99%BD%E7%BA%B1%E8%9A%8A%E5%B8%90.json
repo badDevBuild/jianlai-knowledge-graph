@@ -1,0 +1,38 @@
+{
+  "name": "白纱蚊帐",
+  "original_name": "碧纱护身符 / 阴宅庇护所",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是《剑来》中关于“幽明殊途”的微观工具。鬼物依靠 白纱蚊帐躲避天灾，寻找文气充沛的读书人作为寄托， 以延续自身的修行 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1151章 登顶",
+      "owner": "毛锥"
+    }
+  ],
+  "subtype": "防御/隐匿类",
+  "holder": "山中鬼物 / 阴物修士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "受文气浸染后，可进化为能够让鬼物白日行走的“通关 文牒”。",
+  "supernatural_ability": "作为阴物的“阴宅”，能够遮挡烈日与罡风，保护鬼魅不 被天地气机消磨 。",
+  "evolution": {
+    "current_form": "质地轻柔、带有微弱灵气的白纱布料。",
+    "materials_consumed": [
+      "云根丝",
+      "阴煞之气"
+    ],
+    "potential_evolution": "可进阶为“碧纱护身符”，助鬼物避开刀兵劫数 。"
+  },
+  "visual": {
+    "static": "半透明的白纱，触感冰凉，散发出丝丝凉意。",
+    "active": "包裹阴物时，白纱会产生阵阵涟漪，隔绝阳气侵袭。"
+  },
+  "provenance": {
+    "origin": "源于民间对鬼魂庇护的习俗，后经修士炼化。",
+    "karma_link": "通常是落魄文人与修道鬼物之间的因果纽带。"
+  },
+  "enriched": true
+}

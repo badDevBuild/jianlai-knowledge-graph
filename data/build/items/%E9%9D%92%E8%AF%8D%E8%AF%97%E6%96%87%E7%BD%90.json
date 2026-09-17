@@ -1,0 +1,46 @@
+{
+  "name": "青词诗文罐",
+  "original_name": "粗糙古陶罐 / 计量之罐",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此罐不仅是衡量实物的标准，更是测量道行的天平。它在光阴长河中能察觉同脉气息，是极其罕见的能 够干预空间容积的远古重宝 。",
+  "aliases": [
+    "青词诗文罐"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第188章 大规大矩和鸡毛蒜皮",
+      "owner": "包袱斋"
+    }
+  ],
+  "subtype": "阵法类 / 计量类",
+  "holder": "苗稼",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古兵家修士",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为天地间最早的计量之物，它在确定“容积”这一概念上拥有原始的大道权柄 。",
+  "supernatural_ability": "**“转虚为实”**。作为大阵枢纽，能够驾驭遗址内的天地灵气，并可收拢、提炼精粹道气 。",
+  "evolution": {
+    "current_form": "一个外表极为粗糙、容量约为一升的古陶罐 。",
+    "materials_consumed": [
+      "兵家煞气",
+      "岁月道韵"
+    ],
+    "potential_evolution": "可能进一步揭示其作为“骨灰坛”的身份，唤醒远古兵家英灵 。"
+  },
+  "visual": {
+    "static": "质地古旧粗糙，毫无纹饰，看起来像个寻常的瓦罐 。",
+    "active": "作为枢纽时，罐口会产生巨大的灵气漩涡，能从光阴长河中“打捞”特定道脉的气息 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代对“度量衡”的最初定义，后曾为某位兵家修士所有 。",
+    "karma_link": "帮助苗稼脱胎换骨，拥有一副金玉根骨，是其在遗址修行的根本依仗 。"
+  },
+  "enriched": true
+}

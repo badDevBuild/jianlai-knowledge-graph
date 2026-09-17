@@ -1,0 +1,38 @@
+{
+  "name": "楚夫人嫁衣",
+  "original_name": "红衣嫁衣",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此嫁衣不仅是楚夫人的身份象征，更是她施展鬼道术法的基础，名列浩然天下邪魔外道重器之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第127章 对视",
+      "owner": "楚夫人"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "楚夫人 (萧愻)",
+  "holder_relation": "寄托",
+  "rank": "法宝",
+  "rank_potential": "作为**艳尸一脉**的本命重器，其防御力和幻化能力随主人的怨气增长而变强 。",
+  "supernatural_ability": "能够**制造幻象**和鬼蜮，压制入侵者的神魂 。法袍本身具备强大的**抗法属性**，水火不侵 。",
+  "evolution": {
+    "current_form": "鲜红如血的长裙嫁衣 。",
+    "materials_consumed": [
+      "阴煞戾气",
+      "神魂精血"
+    ],
+    "potential_evolution": "风流帐 。"
+  },
+  "visual": {
+    "static": "色彩**鲜艳夺目**，充满浓郁的婚庆气息却又透着阴森的冷意 。",
+    "active": "在战斗中如红霞飘荡，能够显化出无数女子虚影迷惑敌人 。"
+  },
+  "provenance": {
+    "origin": "楚夫人死后化为艳尸时所穿，凝聚了其生前的怨念与大道 。",
+    "karma_link": "象征其悲剧的命运以及在鬼道修行中的极高造诣 。"
+  },
+  "enriched": true
+}

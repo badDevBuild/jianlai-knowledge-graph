@@ -1,0 +1,44 @@
+{
+  "name": "如意冠",
+  "original_name": "大掌教冠冕",
+  "type": "灵物",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "白玉京规格最高的冠冕之一，不仅是权力的象征，更是道法最近道祖的修道者的身份证明 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第726章 真无敌",
+      "owner": "白玉京大掌教一脉"
+    }
+  ],
+  "subtype": "饰品/神道类",
+  "holder": "白玉京大掌教 (寇名)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "本身即是道祖法脉的延伸，拥有“言出法随，万事如意”的因果加持 。",
+  "supernatural_ability": "辅助修士合道，清除一切外道干扰，提供极致的清静心境 。",
+  "evolution": {
+    "current_form": "顶端如云头或灵芝形状的华贵冠冕 。",
+    "materials_consumed": [
+      "先天紫金",
+      "圣人道韵"
+    ],
+    "potential_evolution": "无 。"
+  },
+  "visual": {
+    "static": "尊贵非凡，伴有淡淡的桃符清香，云气缭绕 。",
+    "active": "佩戴者出场即为天地中心，万物随心而动，法则退散 。"
+  },
+  "provenance": {
+    "origin": "道祖亲手制作，赠予首徒作为白玉京掌教信物 。",
+    "karma_link": "代表了青冥天下至高无上的规矩与法理 。"
+  },
+  "enriched": true
+}

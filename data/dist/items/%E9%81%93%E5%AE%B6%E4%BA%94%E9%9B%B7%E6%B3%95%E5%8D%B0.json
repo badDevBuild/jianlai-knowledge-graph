@@ -1,0 +1,48 @@
+{
+  "name": "道家五雷法印",
+  "original_name": "攒簇五雷月盈印",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此印代表了道门正宗的雷法权柄，虽然目前因残缺而威力受限，但其天地枢机的本质并未改变 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第616章 月色洗剑为斫贼",
+      "owner": "陈平安 (战利品)"
+    }
+  ],
+  "subtype": "雷法类 / 攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "离真",
+      "relation": "夺取自"
+    },
+    {
+      "name": "天师府某位高真",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "曾为半仙兵，受损后跌境，若能补全天款并配合五雷正法，可恢复至巅峰威能 [21-23]。",
+  "supernatural_ability": "能够敕令风雨雷电，印面上的三十六尊神灵可点睛开眼，爆发出如天劫般的雷电长鞭 。",
+  "evolution": {
+    "current_form": "枣核大小、质地似玉非木的雷击槐木六满印 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "五行灵气"
+    ],
+    "potential_evolution": "陈平安正尝试为其补齐天款，未来可演化为镇压落魄山下宗的传法印 。"
+  },
+  "visual": {
+    "static": "印面刻有“攒簇五雷”等十六字真言，四面绘刻精美的各部神灵图案 。",
+    "active": "雷电攒簇于掌心，显化出十六条金色雷鞭，具有横扫千军之势 。"
+  },
+  "provenance": {
+    "origin": "由得道高人从一处古老“槐府”废墟中捡拾的雷击槐木制成 。",
+    "karma_link": "陈平安从离真处缴获后，将其寄存作为五行之木的辅佐重器 。"
+  },
+  "enriched": true
+}

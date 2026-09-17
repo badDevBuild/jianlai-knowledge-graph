@@ -1,0 +1,50 @@
+{
+  "name": "十八剑仙画卷",
+  "original_name": "远古十八剑仙画卷",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此画卷曾是离真构建雷池大劫的十八件重宝之一，虽然受损跌境，但内藏的剑仙神意对剑修而言仍是无 价之宝 。",
+  "aliases": [
+    "十八位剑仙画卷"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第614章 为何话多",
+      "owner": "离真"
+    }
+  ],
+  "subtype": "阵法类 / 召唤类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "离真",
+      "relation": "夺取自"
+    },
+    {
+      "name": "蛮荒天下",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "虽因大战受损严重，但作为落魄山或下宗护山大阵的枢纽，可结合太平山阵图展现惊人杀力 [1-3]。",
+  "supernatural_ability": "激活后可从画中走出十八位芥子大小的剑仙英灵镜像，每一位出剑都相当于地仙剑修的倾力一击 。",
+  "evolution": {
+    "current_form": "古木轴杆裂开、画面残破的陈旧卷轴 。",
+    "materials_consumed": [
+      "太平山阵图",
+      "十二飞剑"
+    ],
+    "potential_evolution": "可作为落魄山未来攻伐大阵的核心，镇压一宗山水气运 。"
+  },
+  "visual": {
+    "static": "古意盎然的破损画卷，由于曾受光阴长河冲刷，画面略显漫漶 。",
+    "active": "展开时如同一条剑气运转的天然轨迹，十八位白衣剑仙御剑悬停，剑气重霄 。"
+  },
+  "provenance": {
+    "origin": "记载了蛮荒天下历史上十八位顶尖剑修的英灵真意 。",
+    "karma_link": "陈平安在战场上斩杀离真后，作为战利品将其捡漏收入囊中 。"
+  },
+  "enriched": true
+}

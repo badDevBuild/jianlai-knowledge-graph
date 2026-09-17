@@ -1,0 +1,38 @@
+{
+  "name": "墙根劝架符",
+  "original_name": "静心安宁符 / 劝和符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是陈平安分身行走江湖、在阴影处调节人心关系的利 器。虽非大符，却处处透着泥瓶巷少年的细腻心机与生 存智慧 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第996章 云上琅琅杏花香",
+      "owner": "郑大风"
+    }
+  ],
+  "subtype": "辅助/宁神类",
+  "holder": "陈平安 (分身) / 宁吉",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随着画符者剑气与神意融合，可达到“言出法随”止戈避 祸之效 。",
+  "supernatural_ability": "能够平复周遭戾气，使人心境祥和，常被陈平安分身隐 匿于墙根处用于化解不必要的冲突 。",
+  "evolution": {
+    "current_form": "以最普通的黄纸材质画就的入室级符箓 。",
+    "materials_consumed": [
+      "丹砂",
+      "纯粹真气"
+    ],
+    "potential_evolution": "若能承载于金色符纸，可演化为镇压一地躁动火气的“ 定场符” 。"
+  },
+  "visual": {
+    "static": "符纸泛黄，红泥印迹端正，平时悄然贴在墙根阴影处 。",
+    "active": "激发时散发出淡淡的清凉意，能够消弭一定范围内的口 舌争端或杀意 。"
+  },
+  "provenance": {
+    "origin": "陈平安结合《丹书真迹》与市井生存经验自创的使用法 。",
+    "karma_link": "体现了落魄山“以理服人”的处世逻辑 。"
+  },
+  "enriched": true
+}

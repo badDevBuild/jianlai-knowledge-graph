@@ -1,0 +1,48 @@
+{
+  "name": "雕母",
+  "original_name": "老龙窟雕母钱",
+  "type": "货币",
+  "grade": "珍宝",
+  "status": "活跃",
+  "description": "这枚雕母并非普通货币，而是某种古老钱法传承的根基 ，其稀有程度更在谷雨钱之上 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1056章 酒力不支吾",
+      "owner": "未知 (曾属老龙窟)"
+    }
+  ],
+  "subtype": "灵物/阵法类",
+  "holder": "顾璨 / 崇玄署",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老鼋",
+      "relation": "原主"
+    },
+    {
+      "name": "清德宗隐仙",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为母钱，具有感应并牵引天下所有同源神仙钱的潜力 。",
+  "supernatural_ability": "曾由清德宗隐仙亲手铸造，蕴含极其罕见的“泉府”气运 ，可作为开启某些秘境的钥匙 [10-12]。",
+  "evolution": {
+    "current_form": "质地非凡的古老铜钱样机 。",
+    "materials_consumed": [
+      "金精铜钱精华",
+      "龙宫水运"
+    ],
+    "potential_evolution": "可演化为掌控一方王朝财政命脉的符印 。"
+  },
+  "visual": {
+    "static": "钱文清晰，字口深峻，散发出内敛的金石宝光 。",
+    "active": "激活后能引发周围神仙钱的共鸣，产生灵气旋涡 。"
+  },
+  "provenance": {
+    "origin": "源自北俱芦洲老龙窟，原本是老鼋给女儿的嫁妆 。",
+    "karma_link": "涉及杨凝性与陈平安在鬼蜮谷的夺宝因果 。"
+  },
+  "enriched": true
+}

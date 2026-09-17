@@ -1,0 +1,41 @@
+{
+  "name": "百剑仙谱印",
+  "original_name": "酒铺定制印章",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安在剑气长城期间的巅峰之作。 每一方印章都代表了一位**剑仙的人格**与荣耀，是**隐官大人**在修行界留下的一大名声 。",
+  "aliases": [
+    "百剑仙印谱",
+    "皕剑仙印谱"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第590章 连雨不知春将去",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "加持/收藏类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "每一方印章都契合一位剑仙的心境，具有极高的道韵研究价值。",
+  "supernatural_ability": "承载了剑气长城百位剑仙的真名与剑意，可作为护身符或传家宝 。",
+  "evolution": {
+    "current_form": "各种石材、木材篆刻而成的私章，底款奇特 。",
+    "materials_consumed": [
+      "蛇胆石",
+      "剑仙剑意"
+    ],
+    "potential_evolution": "最终汇编成《百剑仙印谱》，成为流传九洲的神品 。"
+  },
+  "visual": {
+    "static": "形制各异，边款内容多为人生感悟或豪言壮语 。",
+    "active": "钤印时会有剑气波动，甚至能够隐约听到剑仙的低声呢喃 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城酒铺经营期间亲手篆刻 。",
+    "karma_link": "连接了陈平安与剑气长城无数剑仙的“文字缘” 。"
+  },
+  "enriched": true
+}

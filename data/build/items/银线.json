@@ -1,0 +1,38 @@
+{
+  "name": "银线",
+  "original_name": "剑气丝线 / 灵骨纹路",
+  "type": "材料",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "它是高阶修道之人用来精细操控灵气与法则的媒介 。在缝衣人手中，这些丝线更是禁锢神魂、重塑肉身的绝佳工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第625章 叛变",
+      "owner": "李退密"
+    }
+  ],
+  "subtype": "构建/炼造类",
+  "holder": "陈平安 / 英灵鬼物",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随着炼造技艺的提升，可用于搭建小千世界的筋骨脉络 。",
+  "supernatural_ability": "细微如发丝，能搭建天地框架，甚至能够切割空间 , 。",
+  "evolution": {
+    "current_form": "由本命飞剑分化而出的细微金色或银色长线 。",
+    "materials_consumed": [
+      "剑气精华",
+      "金身碎屑"
+    ],
+    "potential_evolution": "万千丝线交织，可实现“支离”大道，承载众多本命物 。"
+  },
+  "visual": {
+    "static": "在古老英灵的骨架上呈现为天然的银色纹路，流光溢彩 。",
+    "active": "出剑或布阵时，如千万条流萤在天幕穿梭，缝补道法漏洞 , 。"
+  },
+  "provenance": {
+    "origin": "部分源自高阶剑修的飞剑神通，部分源自远古遗迹残余 , 。",
+    "karma_link": "陈平安曾以此法在天外笼中雀内营建琉璃阁等道场 。"
+  },
+  "enriched": true
+}

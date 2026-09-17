@@ -1,0 +1,50 @@
+{
+  "name": "甘露",
+  "original_name": "神人承露甲",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**甘露 (神人承露甲)** 是兵家甲丸的始祖级重器，包括“西岳”、“山鬼”、“彩衣”等名目，每副皆具备不可理喻的防御力 。",
+  "aliases": [
+    "甘霖"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第607章 大师伯出剑，小师弟下棋",
+      "owner": "吴承霈"
+    },
+    {
+      "chapter": "第617章 谁能与宁姚般配",
+      "owner": "吴承霈"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "魏羡 / 谢谢 / 各洲供奉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "铸造者 (十二高位神灵)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为兵家甲丸的“祖宗”，通过金身碎片修复后可重回半仙兵甚至更高品秩 。",
+  "supernatural_ability": "**“承露护身”**。具备极强的体魄防御力，能够抵御陆地剑仙的倾力一击，并具有“金石屏障”的神通 。",
+  "evolution": {
+    "current_form": "拳头大小的古朴丹丸（甲丸） 。",
+    "materials_consumed": [
+      "远古神灵金身碎片",
+      "五色土"
+    ],
+    "potential_evolution": "若能凑齐“金乌”、“经纬”等多种形制，可演化为完整的兵家“祖宗甲”阵列 。"
+  },
+  "visual": {
+    "static": "通常为黑色或杂色丹丸，质地沉重且冰冷 。",
+    "active": "瞬间延展为覆盖全身的厚重甲胄，甲片上隐有五岳纹路或云海异象 。"
+  },
+  "provenance": {
+    "origin": "由远古“铸造者”仿照“披甲者”真身甲胄而制的八副原始版本 。",
+    "karma_link": "这些甲丸是浩然天下兵家战力的核心保障，与山河社稷气运紧密相连 。"
+  },
+  "enriched": true
+}

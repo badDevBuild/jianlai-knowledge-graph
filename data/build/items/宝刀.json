@@ -1,0 +1,48 @@
+{
+  "name": "宝刀",
+  "original_name": "名泉",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "名刀“名泉”是大泉王朝的象征，曾被用于手刃前朝末代皇帝，具有特殊的政治与气运意义 。它在针对蛟龙之属时具有天然的阶位压制作用，是人间君主无比推崇的利器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第218章 仙师驾到",
+      "owner": "徐某人"
+    }
+  ],
+  "subtype": "气运/压胜类",
+  "holder": "高简 (越人歌)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大泉姚氏 (姚岭之)",
+      "relation": "原主"
+    },
+    {
+      "name": "曾先生 (不记名师父)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "曾作为斩断前朝龙脉国祚的重器，蕴含一定的龙气与压胜神力 。",
+  "supernatural_ability": "天然压胜鬼怪神异，能够通过斩杀身负龙气之人汲取气运 。",
+  "evolution": {
+    "current_form": "大泉王朝镇国重器，装饰华丽的战刀 。",
+    "materials_consumed": [
+      "天外飞石",
+      "皇室龙气"
+    ],
+    "potential_evolution": "作为针对水裔蛟龙的斩龙利刃 。"
+  },
+  "visual": {
+    "static": "木质刀鞘蒙绿鲨皮，刀柄嵌满珍宝 。",
+    "active": "出鞘时寒光盈室，带有浓郁的肃杀之气与龙气余韵 。"
+  },
+  "provenance": {
+    "origin": "大泉王朝宝库秘藏两百余年的镇国之宝，由天外飞石铸造 。",
+    "karma_link": "在大泉京城失窃后，由高简（简明）在曾先生指引下取回 。"
+  },
+  "enriched": true
+}

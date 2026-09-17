@@ -1,0 +1,42 @@
+{
+  "name": "剑光",
+  "original_name": "剑气流萤 / 剑意长虹",
+  "type": "其他",
+  "grade": "无",
+  "status": "消耗",
+  "description": "剑光是《剑来》中战斗的核心视觉元素。它不只是光影 ，更是剑修道心与力量的集中释放，代表了“剑术最高” 的绝对自信 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1135章 再见陈平安",
+      "owner": "小陌"
+    },
+    {
+      "chapter": "第1168章 台阶上的他们",
+      "owner": "未知强者 (牵引天象者)"
+    }
+  ],
+  "subtype": "攻伐/表现类",
+  "holder": "陈平安 / 宁姚 / 各大剑仙",
+  "holder_relation": "持有",
+  "rank": "其他",
+  "rank_potential": "随剑修境界提升，可演化为截断光阴或破碎虚空的终极 锋芒 。",
+  "supernatural_ability": "是剑意与剑气的具象化，能够无视绝大多数法术屏障， 直接伤及修士神魂 [19-21]。",
+  "evolution": {
+    "current_form": "剑修出剑时拖拽出的流光或光线 。",
+    "materials_consumed": [
+      "纯粹剑气",
+      "本命意气"
+    ],
+    "potential_evolution": "极致处可演化为“一剑破万法”的绝对领域 。"
+  },
+  "visual": {
+    "static": "不可见，仅表现为一种森严的压迫感 。",
+    "active": "表现为雪白、淡金或青色的长线，划破云海，甚至能在 大地上留下万年不散的沟壑 。"
+  },
+  "provenance": {
+    "origin": "源自剑修本命飞剑的内蕴锋芒 。",
+    "karma_link": "代表了剑客对天地不平事的直接回应 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "云雾长剑",
+  "original_name": "墨箓飞剑 / 漆黑巨剑",
+  "type": "仙剑",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是一种极其罕见的墨箓剑术传承。飞剑在云雾中隐匿 气象，专注于斩杀海中巨物，体现了剑修极致的专业杀 力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1205章 云深处",
+      "owner": "米裕"
+    }
+  ],
+  "subtype": "攻伐/压胜类",
+  "holder": "金甲洲剑修 (高云树)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "金甲洲宗门",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为专门针对水裔、蛟龙之属的压胜之剑，具备演化为 “斩龙剑”的潜力 。",
+  "supernatural_ability": "口吐剑丸，离身百丈后变为墨色巨剑，铭刻有仙家墨箓 ，具备“直斩长鲸海水开”的威势 。",
+  "evolution": {
+    "current_form": "三寸长的莹光剑丸，实战时化为漆黑长剑 。",
+    "materials_consumed": [
+      "深海玄铁",
+      "仙家墨箓"
+    ],
+    "potential_evolution": "可进阶为无视水路阻隔、定鼎江河的半仙兵。"
+  },
+  "visual": {
+    "static": "呈现为一粒流光溢彩的剑丸，气息内敛 。",
+    "active": "出鞘后剑气森森，伴随雷鸣，如墨龙入海，劈开万丈波 涛 。"
+  },
+  "provenance": {
+    "origin": "源自金甲洲正统剑修宗门传承 。",
+    "karma_link": "在彩衣渡船遭遇海市蜃楼时，作为压胜大蜃的核心杀招 出现 。"
+  },
+  "enriched": true
+}

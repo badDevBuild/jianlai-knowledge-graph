@@ -1,0 +1,43 @@
+{
+  "name": "碧云楼甲胄",
+  "original_name": "披甲者仿制品",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这件甲胄是白玉京**碧云楼**的镇楼重宝，是研究远古兵家道法的关键证据 。其品秩之高，使得吴霜降等十四境大修士在提到它时都不得不给予极大关注 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1069章 朵朵青云玉清宫",
+      "owner": "碧云楼"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "碧云楼",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "上古神灵",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古神兵遗物，其防御力在同类甲胄中位居巅峰 。",
+  "supernatural_ability": "具备极强的抗打击能力，甚至能**抵消高位剑修的本命神通** , 。",
+  "evolution": {
+    "current_form": "封禁中的古老甲胄",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "若能解除封印并由合适的兵家修士炼化，可重现披甲者的神威 。"
+  },
+  "visual": {
+    "static": "被层层禁制包裹，常年存放于碧云楼镇岳宫中 。",
+    "active": "激活后会产生厚重的金石道气，形成坚不可摧的防御屏障 。"
+  },
+  "provenance": {
+    "origin": "远古天庭“披甲者”甲胄的三件赝品之一 。",
+    "karma_link": "由白玉京镇岳宫宫主黄界首亲自看管，是太阴女冠吾洲极其渴望的合道之物 , 。"
+  },
+  "enriched": true
+}

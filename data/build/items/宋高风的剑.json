@@ -1,0 +1,46 @@
+{
+  "name": "宋高风的剑",
+  "original_name": "铁水",
+  "type": "重器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是梳水国剑圣宋雨烧在隐退期间随身携带的长剑。它的更换见证了宋家两代人的悲剧与江湖地位的更 迭 , 。",
+  "aliases": [
+    "宋高风的剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第243章 千军万马之前，我喝一口酒",
+      "owner": "宋雨烧 -> 宋凤山"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "宋雨烧",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宋高风",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为梳水国第一大剑道宗门的家族传承佩剑，在一洲江湖名气极大 。",
+  "supernatural_ability": "**“剑气如水”**。剑气沉重且连绵不绝，虽然在山上评价略逊于“屹然”，但在江湖中无坚不摧 , 。",
+  "evolution": {
+    "current_form": "宋雨烧在儿子宋高风战死后常年佩戴的长剑 。",
+    "materials_consumed": [
+      "百炼精钢",
+      "地脉寒气"
+    ],
+    "potential_evolution": ""
+  },
+  "visual": {
+    "static": "剑身色泽幽暗，隐隐有水纹流动，名为“铁水” 。",
+    "active": "出鞘时剑鸣清越，杀意内敛却极其厚重 。"
+  },
+  "provenance": {
+    "origin": "梳水国剑水山庄的家族传承兵刃 。",
+    "karma_link": "宋雨烧在儿子死后收起“屹然”改佩此剑，直到再次面临大敌才重新启用祖传名剑 。"
+  },
+  "enriched": true
+}

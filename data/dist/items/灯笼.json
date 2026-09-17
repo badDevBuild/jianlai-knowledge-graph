@@ -1,0 +1,38 @@
+{
+  "name": "灯笼",
+  "original_name": "引魂灯",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "在《剑来》世界中，灯笼常出现在乱葬岗或受损的城隍阁周围。它不仅是照明工具，更是能感知邪祟、 牵引英灵的重要灵器 [4-6]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第434章 青衣姑娘吃着糕点",
+      "owner": "宋老夫子"
+    }
+  ],
+  "subtype": "辅助/牵引类",
+  "holder": "山泽野修/幽冥官吏",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "可通过吸收香火愿力增强照幽范围",
+  "supernatural_ability": "能够照亮阴阳边界，指引魂魄去向，并在黑暗中屏蔽部分阴煞之气",
+  "evolution": {
+    "current_form": "寻常样式的纸质或绢布灯笼，内燃长明火",
+    "materials_consumed": [
+      "香火",
+      "灵气"
+    ],
+    "potential_evolution": "若得圣人点睛，可演化为能够定住神魂的法宝"
+  },
+  "visual": {
+    "static": "散发淡淡的黄色或荧白光芒，在大雨中亦不熄灭",
+    "active": "光芒可以穿透浓郁的阴冥瘴气，并在灯影下形成一片祥和净土"
+  },
+  "provenance": {
+    "origin": "源自道门或民间针对祭祀与幽冥行走的术法器物",
+    "karma_link": "连接了生人对亡者的追思与阴冥秩序的维系"
+  },
+  "enriched": true
+}

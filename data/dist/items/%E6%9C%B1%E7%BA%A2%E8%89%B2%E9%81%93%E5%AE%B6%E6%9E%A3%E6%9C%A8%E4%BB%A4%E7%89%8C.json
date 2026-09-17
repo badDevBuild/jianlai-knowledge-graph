@@ -1,0 +1,48 @@
+{
+  "name": "朱红色道家枣木令牌",
+  "original_name": "道家枣木咫尺物",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一枚极其珍贵的空间法宝，属于传说中的“咫尺物” 。它承载了陈平安在北俱芦洲获得的多份山水机缘，是其积累家底的重要工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第547章 有些练拳不一样",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "存储类 / 空间类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "孙清 (彩雀府)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "远古仙府水殿",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为极罕见的“咫尺物”，其内部空间可随炼化程度进一步稳固，容纳更宏大的实物 。",
+  "supernatural_ability": "拥有极大的内部空间，能够收纳诸如大型藻井、龙椅等沉重且巨大的仙家实物 。",
+  "evolution": {
+    "current_form": "朱红色的道家枣木令牌，质地坚韧 。",
+    "materials_consumed": [
+      "雷击木",
+      "空间道韵"
+    ],
+    "potential_evolution": "可演化为支撑小型洞天福地运转的空间枢纽 。"
+  },
+  "visual": {
+    "static": "色泽深红如枣，木质细腻且坚硬，表面刻有古朴的道门符文，入手温润 。",
+    "active": "开启时散发出阵阵仙气，内部空间仿佛独立存在的虚空 。"
+  },
+  "provenance": {
+    "origin": "得自北俱芦洲一处远古仙府的“水殿”遗址 。",
+    "karma_link": "彩雀府府主孙清为报答陈平安的交易，将其作为酬劳的一部分赠予 。"
+  },
+  "enriched": true
+}

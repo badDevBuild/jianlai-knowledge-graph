@@ -1,0 +1,44 @@
+{
+  "name": "光华真君持剑符",
+  "original_name": "佩剑神官符 / 朱衣神人符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "损毁",
+  "description": "这是地支一脉用于“补缺”杀力的顶级符箓，能够承载远古神灵的部分神性。其召唤出的神官在战斗中表 现出极强的压胜作用，是正统道门秘传的显化 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第293章 鹰不飞",
+      "owner": "黄尚"
+    }
+  ],
+  "subtype": "召唤类 / 攻伐类",
+  "holder": "地支修士 (戌)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊刑部",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "属于大骊秘制的高阶符箓，随使用者神识强弱可召唤不同战力的神官投影 。",
+  "supernatural_ability": "“敕令请神”。可召唤出一尊具有古老神异气息的佩剑神官，其战力可媲美上五境修士的投影 。",
+  "evolution": {
+    "current_form": "布满云纹符箓的特殊材质符纸 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "大骊国运"
+    ],
+    "potential_evolution": "若配合特定的降真仪轨，可使神官短暂拥有实质形体 。"
+  },
+  "visual": {
+    "static": "符纸表面绘有朱衣神官图像，戴芙蓉冠，佩长剑，珠缀衣缝，神态威严 。",
+    "active": "激活后神官法相现世，身披五色甲胄，剑气森严，每一步跨出皆能引发地脉震动 。"
+  },
+  "provenance": {
+    "origin": "由大骊朝廷集结顶尖符师与缝衣人合力打造 。",
+    "karma_link": "地支一脉的秘密武器，用于针对特定强敌或镇压一洲气运 。"
+  },
+  "enriched": true
+}

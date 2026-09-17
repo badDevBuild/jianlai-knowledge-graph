@@ -1,0 +1,47 @@
+{
+  "name": "雪白铃铛",
+  "original_name": "宝塔铃",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这枚铃铛是北俱芦洲极其罕见的“听妖铃”，曾被心声斋主人余远记录在册，价值远胜寻常符箓。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第509章 人间灯火辉煌",
+      "owner": "黑衣小姑娘"
+    }
+  ],
+  "subtype": "警示类 / 破障类",
+  "holder": "狄元封 / 孙道人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "不知名白骨修士",
+      "relation": "遗落自"
+    },
+    {
+      "name": "大源王朝古寺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "名列《无声集》，虽然排名靠后，但被视为一等一的珍稀老物件。",
+  "supernatural_ability": "自鸣示警。每当有妖物鬼祟靠近便会自行响起，且能助修士明目静心，破除山水迷障。",
+  "evolution": {
+    "current_form": "一枚造型古朴的青铜宝塔样式铃铛。",
+    "materials_consumed": [
+      "佛家法力"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "原本悬挂于大源古寺檐下，带有佛家惊觉、欢喜之意。",
+    "active": "感知到煞气时铃声急促震天，龙门境下鬼魅皆无法阻挡。"
+  },
+  "provenance": {
+    "origin": "源自大源王朝一座被拆毁的古寺，后在深山洞窟的白骨身上被寻见。",
+    "karma_link": "见证了北俱芦洲散修在秘境中寻宝的因果。"
+  },
+  "enriched": true
+}

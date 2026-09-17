@@ -1,0 +1,38 @@
+{
+  "name": "凤髻",
+  "original_name": "立凤发簪",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件极具杀伤力的**位移法宝**。在战斗中通过“凤髻”的瞬移效果，可以实现神出鬼没的**斩首行 动** 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1044章 道上不敢有郑",
+      "owner": "山上仙家"
+    }
+  ],
+  "subtype": "位移类 / 空间类",
+  "holder": "某位剑修 (锁云宗之战参与者)",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "随持有者神识锁定范围增长，可实现跨洲级的瞬间挪移 。",
+  "supernatural_ability": "轻轻摇晃发簪，金光如水纹荡漾，可使持有者顷刻间消失并出现在预定坐标 。",
+  "evolution": {
+    "current_form": "一支雕刻有精美立凤图案的发簪 。",
+    "materials_consumed": [
+      "上古神金",
+      "空间道纹"
+    ],
+    "potential_evolution": "可演化为承载持有者“阳神”的本命遁法器物 。"
+  },
+  "visual": {
+    "static": "簪头有一只傲然挺立的凤凰，金光内敛，工艺极尽繁复 。",
+    "active": "使用时凤凰如欲振翅，金光如涟漪散开，遮蔽天机 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的宫廷神官遗物 。",
+    "karma_link": "常为刺客或精于遁法的剑修所收藏 。"
+  },
+  "enriched": true
+}

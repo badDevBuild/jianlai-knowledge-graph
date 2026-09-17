@@ -1,0 +1,39 @@
+{
+  "name": "雷局册子",
+  "original_name": "《雷局》心得",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安将所学、所见、所偷师的雷法知识熔铸一炉 的产物，包含了对远古雷部一府两院三司架构的深刻推 衍 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第887章 春山",
+      "owner": "林守一"
+    }
+  ],
+  "subtype": "术法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "结合了龙虎山、九真仙馆以及远古雷部的多方真意，是 自创神通的雏形 。",
+  "supernatural_ability": "记载了如何将雷法真意凝练于掌心，实现“造化万千一 掌中”的雷电操控 。",
+  "evolution": {
+    "current_form": "陈平安亲笔撰写的雷法修行总结 。",
+    "materials_consumed": [
+      "五雷正法真意",
+      "云水身法心得",
+      "九真仙馆秘籍"
+    ],
+    "potential_evolution": "可演化为开启“万法雷池”的法脉大纲 。"
+  },
+  "visual": {
+    "static": "书页上密密麻麻写满了关于雷部诸司、雷兵运行的注解 。",
+    "active": "研读时，文字间隐隐有金光电火跳跃，伴随细微的雷鸣 声 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城期间总结多方雷法所得 。",
+    "karma_link": "是落魄山未来法统中关于雷法修行的核心参考 。"
+  },
+  "enriched": true
+}

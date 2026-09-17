@@ -1,0 +1,53 @@
+{
+  "name": "炭笼",
+  "original_name": "炭笼 / 贴身暖炉",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是**落魄山标志性的生活雅物**。它象征着陈平安对身边人的细致关 怀，是抵御异乡风雪的物理与心理双重屏障 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第443章 凉风大饱",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第445章 炭笼火炉寒人心",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第685章 自由和远游",
+      "owner": "顾璨"
+    }
+  ],
+  "subtype": "生活/滋养类",
+  "holder": "仙尉 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "朱敛",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "长期随身温养，可演化为具有‘不灭火种’意境的护身法器 。",
+  "supernatural_ability": "内部装载特制白炭，不仅能长效供暖，更能通过温热气机平复修士的心 猿意马，滋养神魂 。",
+  "evolution": {
+    "current_form": "造型精致的金属暖手炉，外覆镂空锦缎套子 。",
+    "materials_consumed": [
+      "精铜",
+      "落魄山白炭",
+      "纯粹拳意温养"
+    ],
+    "potential_evolution": "若融入地脉暖气，可升华为防御阴寒煞气的重器 。"
+  },
+  "visual": {
+    "static": "外表温润，镂空处透出隐约的红光，散发淡淡炭香 。",
+    "active": "在严寒中会形成一层肉眼难见的暖气罩，阻隔风雪 。"
+  },
+  "provenance": {
+    "origin": "落魄山大管家朱敛亲手打造 。",
+    "karma_link": "体现了落魄山‘家’的温情，是陈平安送给‘体弱’同门的重要礼物 。"
+  },
+  "enriched": true
+}

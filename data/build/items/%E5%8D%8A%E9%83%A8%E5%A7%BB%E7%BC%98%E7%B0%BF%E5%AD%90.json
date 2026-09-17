@@ -1,0 +1,44 @@
+{
+  "name": "半部姻缘簿子",
+  "original_name": "姻缘簿残卷",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这本簿子承载了世间最难消受的因果。柳七试图通过炼化此物，将满篇悲苦化为大道坦途，是《剑来》 中涉及情感与规则碰撞的重要奇物。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第743章 天下小心火烛",
+      "owner": "曹组"
+    }
+  ],
+  "subtype": "气运类 / 因果类",
+  "holder": "柳七",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蔡道煌 (远古姻缘神)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "一旦合二为一，可掌控众生姻缘红线，是冲击十四境的关键法物。",
+  "supernatural_ability": "记载天下有情人的姓名与宿命。持有者可借此演算天机，甚至通过红线干扰高位修士的道心。",
+  "evolution": {
+    "current_form": "半部散发着淡淡红光的古旧簿子。",
+    "materials_consumed": [
+      "红尘因果",
+      "神道遗泽"
+    ],
+    "potential_evolution": "补全后可成就“天下撮合山”的至高权柄。"
+  },
+  "visual": {
+    "static": "书页泛黄，其间隐约可见无数红丝缠绕，文字忽明忽暗。",
+    "active": "翻阅时可显化出光阴长河中众生的情感纠葛，产生迷魂夺魄的力量。"
+  },
+  "provenance": {
+    "origin": "远古天庭定婚店，由姻缘神掌管。",
+    "karma_link": "下半部由朝歌手持，柳七为此远游青冥天下，寻求合道契机。"
+  },
+  "enriched": true
+}

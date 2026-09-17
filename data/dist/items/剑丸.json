@@ -1,0 +1,55 @@
+{
+  "name": "剑丸",
+  "original_name": "泥丸",
+  "type": "其他",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是一枚具有深厚历史渊源的珍稀剑丸，虽然陈平安由于资质和机缘原因未能大炼，但将其赠予曹晴朗 ，寓意着文脉与剑道的延续 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第614章 为何话多",
+      "owner": "离真"
+    },
+    {
+      "chapter": "第615章 离真死了",
+      "owner": "离真 (原属观照)"
+    },
+    {
+      "chapter": "第680章 解契",
+      "owner": "杜山阴"
+    }
+  ],
+  "subtype": "攻伐类 / 传承类",
+  "holder": "曹晴朗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "吴懿",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为上古西岳真人的传承之物，具有极高的道缘潜力，可直指金丹大道 [8-10]。",
+  "supernatural_ability": "剑丸内蕴“面壁千年无人知，三清只需泥土身”的道门真意，能赋予持有者一份极好的道缘 。",
+  "evolution": {
+    "current_form": "一道纤细漆黑的袖珍剑光，存放在特制剑匣内 。",
+    "materials_consumed": [
+      "上古西岳金气"
+    ],
+    "potential_evolution": "最适合作为五行之土的本命物进行大炼，甚至可能成就一种特殊的剑道法统 。"
+  },
+  "visual": {
+    "static": "藏于镂刻有神官蛟龙与女仙图案的木匣中，呈现出漆黑如泥的稳重光华 。",
+    "active": "开匣时会浮现出紫金文字，随后剑气流溢，金光璀璨 。"
+  },
+  "provenance": {
+    "origin": "出自上古时代中土西岳的一位得道真人，曾是某座储君之山的镇山至宝 。",
+    "karma_link": "由吴懿赠送给陈平安，后作为陈平安送给其学生曹晴朗的结丹贺礼 。"
+  },
+  "enriched": true
+}

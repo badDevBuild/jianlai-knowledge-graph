@@ -1,0 +1,52 @@
+{
+  "name": "黄绫袋子",
+  "original_name": "墨蛟袋",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "黄绫袋子是一件结合了空间储物与驭兽神通的顶级法宝。它曾是蛮荒大妖离垢的傍身物，现落入姜尚真 之手，不仅能装下海量物资，更困有一条战力惊人的墨蛟作为扈从 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第708章 圆脸姑娘",
+      "owner": "卢检心 (原属雨四)"
+    },
+    {
+      "chapter": "第1129章 今宵明月",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间类 / 奴役类",
+  "holder": "姜尚真",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "离垢",
+      "relation": "原主"
+    },
+    {
+      "name": "雨四",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为离垢收藏的重宝之一，具备禁锢并炼化蛟龙之属的大道权柄 。",
+  "supernatural_ability": "能够将蛟龙之属拘押其中化为奴隶。抖动袋子可召唤墨蛟现身护道，亦是顶级的乾坤物 。",
+  "evolution": {
+    "current_form": "小巧玲珑的黄绫材质口袋，袋口有云霓丝绳系挂 。",
+    "materials_consumed": [
+      "蛟龙精魂",
+      "云霓精华"
+    ],
+    "potential_evolution": "若能吸收更多龙气，可进化为能够装载江河的社稷重器。"
+  },
+  "visual": {
+    "static": "质地古朴的黄色锦缎小袋，指尖触碰后会有云霓透出，墨色小蛟在表面游曳 。",
+    "active": "开启时水雾弥漫，伴有沉闷的雷鸣声，巨大的墨蛟可从中脱壳而生 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下甲子帐大妖遗存 。",
+    "karma_link": "由姜尚真通过算计从雨四手中强行夺取，成为其“周首席”身份的一件重要收成 。"
+  },
+  "enriched": true
+}

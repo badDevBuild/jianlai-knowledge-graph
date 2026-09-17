@@ -1,0 +1,47 @@
+{
+  "name": "四方镇圭",
+  "original_name": "齐静春之圭 / 玉圭",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是齐静春极为珍视的儒教重器。依循礼制，唯有一国天子或坐镇 圣人可执。它见证了齐静春对恩师的思念以及其不惜身死也要守护 小镇规矩的君子风骨 。",
+  "aliases": [
+    "镇圭",
+    "四方镇圭"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第45章 阳光",
+      "owner": "观湖书院 (目标)"
+    }
+  ],
+  "subtype": "礼器/镇压类",
+  "holder": "齐静春",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文圣",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "承载文圣一脉气运，是坐镇一方、制定“规矩”的法理载体 。",
+  "supernatural_ability": "具有**镇压四方安定**、寄寓礼制与法度的神通，能作为儒家圣人 施展言出法随的媒介 。",
+  "evolution": {
+    "current_form": "长一尺二寸的玉圭",
+    "materials_consumed": [
+      "浩然正气",
+      "文脉气运"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "四角雕刻有**四镇之山**，正面刻有密密麻麻的小篆铭文，背面刻 有“**筋骨极壮，神意极长**” 。",
+    "active": "散发温润玉光，镇压方圆百里气机，使天地法度回归严谨 。"
+  },
+  "provenance": {
+    "origin": "文圣老秀才传予弟子齐静春的礼器 。",
+    "karma_link": "象征齐静春坐镇骊珠洞天、为一洲续命的圣人职责 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "水珠",
+  "original_name": "灵气珠 / 碧绿珠子",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这些水珠是极其珍贵的修行资粮，沈霖与李源曾赠予陈平安这类宝物，助力其稳固水府根基。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第672章 人生梦复梦",
+      "owner": "无 (后被陈平安和老聋儿瓜分)"
+    }
+  ],
+  "subtype": "滋养/材料类",
+  "holder": "陈平安 / 谢狗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "济渎灵源公",
+      "relation": "赠予者"
+    },
+    {
+      "name": "雨四",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "多颗汇聚可炼化为高纯度的水运精华或补给金丹的丹药。",
+  "supernatural_ability": "天然孕育的水运精华，可大幅增加水属本命物的灵气，甚至能让枯竭的水府瞬间“涨水”。",
+  "evolution": {
+    "current_form": "幽幽碧绿的水滴，重如金石。",
+    "materials_consumed": [
+      "大渎水运",
+      "天地灵气大潮"
+    ],
+    "potential_evolution": "百余颗可合炼成类似“蜃泽水丹”的仙品。"
+  },
+  "visual": {
+    "static": "如碧绿翡翠般晶莹剔透，悬浮于空中。",
+    "active": "投入水中会激起阵阵灵气巨浪，饮用则能洗涤魂魄。"
+  },
+  "provenance": {
+    "origin": "多产自天外灵气大潮或高位水神治所。",
+    "karma_link": "陈平安在蛮荒远游中曾大举搜刮此类物资回馈落魄山。"
+  },
+  "enriched": true
+}

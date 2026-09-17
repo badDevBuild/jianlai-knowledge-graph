@@ -1,0 +1,38 @@
+{
+  "name": "新月",
+  "original_name": "月照深井 / 井中月异象",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“新月”在书中既指代书简湖等地的自然景观，也暗指陈平安本命飞剑的神通意境。当它与“井中月”结合 时，能在小天地内营造出极强的控制力 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1047章 梧桐更兼细雨",
+      "owner": "邢云"
+    }
+  ],
+  "subtype": "剑道/意境类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随着陈平安对光阴与剑道的感悟加深，可演化为真实的月魄法则 。",
+  "supernatural_ability": "月光流转之处，可形成暂时的光阴凝滞或视觉欺骗，上下月色共鸣 , 。",
+  "evolution": {
+    "current_form": "作为陈平安本命飞剑“井中月”的神通显化 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "月华"
+    ],
+    "potential_evolution": "由“井底月”晋升为“井口月”，最终演变为“天上月” 。"
+  },
+  "visual": {
+    "static": "表现为清冷、皎洁的月光，带有某种静止的质感 。",
+    "active": "一轮明月碎又圆，剑光在月色掩护下神出鬼没 。"
+  },
+  "provenance": {
+    "origin": "源自陈平安对光阴长河的独特感悟与本命飞剑神通 。",
+    "karma_link": "与书简湖的静谧湖面及藕花福地的月夜有极深联系 。"
+  },
+  "enriched": true
+}

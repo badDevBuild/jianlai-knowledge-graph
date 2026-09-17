@@ -1,0 +1,47 @@
+{
+  "name": "引路符",
+  "original_name": "阳气挑灯符 / 秉烛符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "这是陈平安掌握最熟练的功能性符箓之一。它不仅是照明工具，更是修 行者在迷茫中坚守本心的象征 。",
+  "aliases": [
+    "反挑灯符"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第296章 作别",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "破障/照明类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "传授者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随画符者心境提升，可演化为具有“言灵”指引效果的圣贤大符。",
+  "supernatural_ability": "专门用于破开乱葬岗等地的“鬼打墙”迷障。符纸一出，可在身前凝聚出 阳气之灯，指引生路 。",
+  "evolution": {
+    "current_form": "黄纸材质，符胆内蕴含一点至阳真气 。",
+    "materials_consumed": [
+      "黄纸",
+      "朱砂",
+      "正气点睛"
+    ],
+    "potential_evolution": "可进阶为能够在诸天万界寻找失踪神魂的“九幽路引”。"
+  },
+  "visual": {
+    "static": "符文呈灯笼状，线条圆润，带有淡淡的暖意 。",
+    "active": "激发后化作一点柔和金光，在前方引路，光芒所及处幻象消散 。"
+  },
+  "provenance": {
+    "origin": "源自《丹书真迹》入门篇章的秘法 。",
+    "karma_link": "陈平安在远游途中多次使用此符化解阴煞危机，体现了其“步步为营”的 修行理念 。"
+  },
+  "enriched": true
+}

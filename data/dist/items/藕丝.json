@@ -1,0 +1,46 @@
+{
+  "name": "藕丝",
+  "original_name": "飞剑“沉陆”",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是小陌最钟情的一把飞剑，以极纯粹的杀力著称。虽然名字听着柔弱，实则预示着一场决定生死的全 力搏命 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第892章 世外高人",
+      "owner": "小陌"
+    },
+    {
+      "chapter": "第1216章 定风波",
+      "owner": "小陌"
+    },
+    {
+      "chapter": "第1217章 一叶落",
+      "owner": "小陌"
+    }
+  ],
+  "subtype": "攻伐类 / 牵引类",
+  "holder": "小陌",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "作为飞升境巅峰大妖的核心本命物，随小陌跻身十四境可引动整片星河之力 。",
+  "supernatural_ability": "**“牵引星辰”**。能够从天外太虚之中牵引一颗远古星辰坠落大地，产生毁天灭地的破坏力 。",
+  "evolution": {
+    "current_form": "小陌持有的三把主攻伐本命飞剑之首 。",
+    "materials_consumed": [
+      "万年飞升境剑意精华",
+      "星辰核心"
+    ],
+    "potential_evolution": "其杀力将随持剑者对星辰法则的感悟加深而不断接近十四境上限 。"
+  },
+  "visual": {
+    "static": "通常隐匿于小陌的本命窍穴中，不显形迹 。",
+    "active": "出剑时会引发天象剧变，雷鸣震动，巨大的星辰轨迹从高空划过，威势笼罩方圆千里 。"
+  },
+  "provenance": {
+    "origin": "小陌本命孕育 。",
+    "karma_link": "由陈平安为其取名，寓意小陌与公子之间“藕断丝连”的深厚情谊 。"
+  },
+  "enriched": true
+}

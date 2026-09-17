@@ -1,0 +1,38 @@
+{
+  "name": "薏酒",
+  "original_name": "桐叶洲特色薏酒",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是桐叶洲一处渡口鱼市附近的特色小吃配酒。米裕以 此酒招待嫩道人，体验到了浩然天下最质朴的社交文化 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1024章 辛苦最怜天上月",
+      "owner": "米裕"
+    }
+  ],
+  "subtype": "滋养/饮食类",
+  "holder": "米裕 / 嫩道人",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "作为一地民俗之物，随酿造技法提升可具备祛湿化瘀的 灵效 。",
+  "supernatural_ability": "滋味独特，能够稍微平复修士长途跋涉后的焦躁心境 。",
+  "evolution": {
+    "current_form": "盛放在寻常酒壶中的酒液 。",
+    "materials_consumed": [
+      "薏仁",
+      "山泉水"
+    ],
+    "potential_evolution": "若加入灵药，可进化为“仙家薏米酿”。"
+  },
+  "visual": {
+    "static": "酒液色泽清亮，透着淡淡的草本香气 。",
+    "active": "饮用时，修士神情会随之放松，融入山野市井的烟火气 中 。"
+  },
+  "provenance": {
+    "origin": "桐叶洲境内的苍蝇馆子或市井酒肆 。",
+    "karma_link": "见证了米裕与嫩道人在桐叶洲一处小镇酒桌上的“神仙 日子” 。"
+  },
+  "enriched": true
+}

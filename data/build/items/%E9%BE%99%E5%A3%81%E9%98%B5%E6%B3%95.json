@@ -1,0 +1,40 @@
+{
+  "name": "龙壁阵法",
+  "original_name": "龙壁 / 皇宫龙壁",
+  "type": "其他",
+  "grade": "阵法",
+  "status": "活跃",
+  "description": "大隋皇宫的护山大阵，已经百余年未曾动用。当强敌来袭时，龙壁阵法会显现出壮观的金色蛟龙意象， 是世俗皇权抗衡修行强者的底气所在 。",
+  "aliases": [
+    "龙壁阵法"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第170章 喝好酒的大宗师",
+      "owner": "大隋皇宫"
+    }
+  ],
+  "subtype": "防御类 / 阵法类",
+  "holder": "大隋皇室",
+  "holder_relation": "寄托",
+  "rank": "法宝",
+  "rank_potential": "作为承平已久王朝的护卫力量，在大战期间展现出极强的防御上限 。",
+  "supernatural_ability": "开启后可将整座皇宫与外界隔绝，形成金色的防御层，对邪祟有极强的压制力 。",
+  "evolution": {
+    "current_form": "与皇宫地面、屋脊、墙壁合一的金色阵法 。",
+    "materials_consumed": [
+      "大隋国运",
+      "龙气"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "潜伏于宫殿建筑之中，外表不显异样 。",
+    "active": "阵法开启后，宫廷地面与墙壁覆盖金色流水，隐约可见虚幻的蛟龙在金水中张牙舞爪 。"
+  },
+  "provenance": {
+    "origin": "大隋王朝建国初期所筑的宫廷防御阵法 。",
+    "karma_link": "代表大隋皇权的威严与王朝最后的防线 。"
+  },
+  "enriched": true
+}

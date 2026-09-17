@@ -1,0 +1,48 @@
+{
+  "name": "阳春面",
+  "original_name": "二掌柜阳春面",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗品",
+  "description": "这是剑气长城酒铺的招牌小吃。虽然食材简朴，却因为陈平安的“买酒免费送面”策略，成为了剑修们茶 余饭后的谈资 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第599章 阳春面上的葱花",
+      "owner": "陶文"
+    }
+  ],
+  "subtype": "生活/辅助类",
+  "holder": "酒铺酒客",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "叠嶂",
+      "relation": "原主"
+    },
+    {
+      "name": "张嘉贞",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "因其承载了二掌柜的人心算计与江湖气，具有特殊的慰藉道心作用 。",
+  "supernatural_ability": "无显著超自然能力，但在一颗雪花钱的酒水之外免费赠送，极得人心 。",
+  "evolution": {
+    "current_form": "热气腾腾、撒有葱花的素面 。",
+    "materials_consumed": [
+      "面条",
+      "葱花"
+    ],
+    "potential_evolution": "无 [无]。"
+  },
+  "visual": {
+    "static": "分量很足，面条劲道，汤底清亮 。",
+    "active": "散发出诱人的麦香与葱香，在剑气森严的城池中显得极具烟火气 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城酒铺推行的商业策略，由张嘉贞负责制作 。",
+    "karma_link": "是二掌柜“收买人心”的利器，见证了酒铺的繁荣 。"
+  },
+  "enriched": true
+}

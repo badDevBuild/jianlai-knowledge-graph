@@ -1,0 +1,46 @@
+{
+  "name": "洞天",
+  "original_name": "骊珠洞天 / 蛊皿",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "骊珠洞天曾被设计为一个封闭的“养蛊皿”，专门用于汲 取气运并控制特定灵魂，其碎裂标志着旧秩序的终结 , 。",
+  "aliases": [
+    "长春洞天"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第891章 青萍剑宗",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "秘境/封闭地界",
+  "holder": "大骊王朝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为最后一条真龙陨落之地，具有滋养大龙脉、产生多 份大机缘的无穷潜力 。",
+  "supernatural_ability": "运行着“本命瓷”残酷体系，能够将在此出生的孩子与特 定瓷器绑定以控制其命运 , 。",
+  "evolution": {
+    "current_form": "现已破碎下坠，化为宝瓶洲的大骊龙泉郡 。",
+    "materials_consumed": [
+      "真龙灵血",
+      "气运积淀"
+    ],
+    "potential_evolution": "其核心机缘（如金色鲤鱼、火龙手镯）已散落各处 。"
+  },
+  "visual": {
+    "static": "表面是个平凡的圆形盆地，四面环山，有龙须河横穿其 中 。",
+    "active": "当本命瓷破碎时，笼罩在小镇上方的宿命枷锁随之消失 。"
+  },
+  "provenance": {
+    "origin": "三千年前屠龙战役后造就的禁闭之地 。",
+    "karma_link": "是陈平安命运的起点，也是浩然天下诸多大佬博弈的棋 盘 , 。"
+  },
+  "enriched": true
+}

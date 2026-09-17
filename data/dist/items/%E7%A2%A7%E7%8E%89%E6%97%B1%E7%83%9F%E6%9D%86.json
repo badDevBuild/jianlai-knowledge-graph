@@ -1,0 +1,44 @@
+{
+  "name": "碧玉旱烟杆",
+  "original_name": "老烟杆 / 遮天烟斗",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安从杨老头处习得的一种深沉处世手段。通过 吞云吐雾，他不仅在调理气息，更是在混沌一条光阴长 河，使人难以推算其真正意图 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1084章 高两境",
+      "owner": "佟文畅"
+    }
+  ],
+  "subtype": "隐匿/气运类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "传授者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随着持有者对光阴长河理解的加深，可演化为干扰天道 的混元重宝 。",
+  "supernatural_ability": "吐出的烟雾即是人间香火，能够有效遮蔽天机，使其脱 离光阴长河的推演与窥探 。",
+  "evolution": {
+    "current_form": "一只质地莹润的碧玉材质旱烟杆 。",
+    "materials_consumed": [
+      "人间香火",
+      "光阴流水精粹"
+    ],
+    "potential_evolution": "可炼制为支撑“光阴迷宫”的一界支柱。"
+  },
+  "visual": {
+    "static": "碧绿幽深，烟杆表面有长期摩挲留下的润泽包浆 。",
+    "active": "吞云吐雾时，烟雾缭绕成各种奇相，与周边天地气机完 全隔绝 。"
+  },
+  "provenance": {
+    "origin": "陈平安在学拳与游历过程中，习得自药铺杨老头的神道 手段 。",
+    "karma_link": "陈平安借此在天外战场和复杂局势中保护自身因果不外 泄 。"
+  },
+  "enriched": true
+}

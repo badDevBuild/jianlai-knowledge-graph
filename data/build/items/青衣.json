@@ -1,0 +1,48 @@
+{
+  "name": "青衣",
+  "original_name": "樱桃青衣",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“青衣”在此特指樱桃青衣一脉的身份法衣，象征着行走在阴影中的公道裁判者 。它不仅是一件衣物，更是持有者大道心境的具象化 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第400章 远游北归",
+      "owner": "未知仙家"
+    }
+  ],
+  "subtype": "身份标识/传承类",
+  "holder": "石柔 (与其身份相关)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "公孙泠泠",
+      "relation": "原主"
+    },
+    {
+      "name": "秦不疑",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为“洗冤人”一脉的法统象征，承载着天地间的公道与正气 。",
+  "supernatural_ability": "避祸降福：由于带有极其纯粹的文气与执念，能在大雾或因果迷障中指引方向 。",
+  "evolution": {
+    "current_form": "特定的青色服饰，材质虽非顶级仙材却极其坚韧 , 。",
+    "materials_consumed": [
+      "浩然正气",
+      "洗冤人愿力"
+    ],
+    "potential_evolution": "配合特定秘法可化为能隐匿气息、穿梭幽明的“阴阳袍” 。"
+  },
+  "visual": {
+    "static": "色泽深青，形制古朴，衣襟处常有代表身份的特殊暗纹 , 。",
+    "active": "在施展“樱桃青衣”秘术时，衣物会散发出淡淡的樱桃香味，且有灵光护体 。"
+  },
+  "provenance": {
+    "origin": "发轫于浩然天下名为“洗冤人”的神秘散修组织 。",
+    "karma_link": "石柔的灵魂容器与此身份紧密相连，是她在书简湖与陈平安结缘的引线 。"
+  },
+  "enriched": true
+}

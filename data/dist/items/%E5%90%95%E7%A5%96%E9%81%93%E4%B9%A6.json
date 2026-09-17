@@ -1,0 +1,48 @@
+{
+  "name": "吕祖道书",
+  "original_name": "直指金丹剑诀",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一部在浩然天下山巅亦名震四方的**剑道真传**，被认为能让普通修士在修行路上**事半功倍**， 是落魄山最厚实的家底之一。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第940章 倚天万里须长剑",
+      "owner": "李槐"
+    }
+  ],
+  "subtype": "修行类 / 剑诀",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吕喦",
+      "relation": "原主"
+    },
+    {
+      "name": "李槐",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "在青冥天下亦被视为足以引发上五境修士**生死争夺**的顶级秘籍。",
+  "supernatural_ability": "**“直指金丹”**。该书能为修士开辟一条通往金丹境的**坦途**，且文字中蕴含**剑术道化**的极高造 诣。",
+  "evolution": {
+    "current_form": "一部被誉为“道法之纲纪”的**道家洞玄部**经典。",
+    "materials_consumed": [
+      "上古道意",
+      "纯阳精气"
+    ],
+    "potential_evolution": "完全炼化后可令修士达成**“明虽灭尽，灯炉犹存”**的圆满心境。"
+  },
+  "visual": {
+    "static": "由名贵的**玉版纸**制成，书页上有不计其数的藏书印与花押。",
+    "active": "激发时文字会产生**金光雷鸣**，甚至呈现出**“三千真言”**的大道异象。"
+  },
+  "provenance": {
+    "origin": "由**吕喦**亲笔撰写，遗留在人间以待**有缘人**。",
+    "karma_link": "是李槐在梦粱国**黄粱派**由于运道极佳而随手“捡到”的神级道书。"
+  },
+  "enriched": true
+}

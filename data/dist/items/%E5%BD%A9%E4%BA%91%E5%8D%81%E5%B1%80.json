@@ -1,0 +1,44 @@
+{
+  "name": "彩云十局",
+  "original_name": "彩云子",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "彩云十局不仅是一套棋具，更是顶级的推演法宝。 崔东山曾以此物展示白帝城的底蕴，并借此与山巅大修士博弈。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第353章 五千甲围山",
+      "owner": "卢白象"
+    }
+  ],
+  "subtype": "棋道类 / 阵法类",
+  "holder": "崔东山",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "郑居中",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为白帝城顶级棋道宝物，蕴含无尽演算推导之力，是合道棋盘的关键组件。",
+  "supernatural_ability": "“步步生莲”。每一颗棋子皆由白帝城琉璃阁“滴水”大炼而成，下棋时能引动云烟氤氲、水雾升腾。 棋子内藏剑气，可结成杀机四伏的棋阵。",
+  "evolution": {
+    "current_form": "青瓷棋罐盛放的黑白棋子。",
+    "materials_consumed": [
+      "白帝城彩云精华",
+      "琉璃阁水精"
+    ],
+    "potential_evolution": "完全收集并炼化后，可演化为“彩云谱”等级的至高棋道领域。"
+  },
+  "visual": {
+    "static": "棋子温润如玉，白子如雪，黑子如墨，在阳光下呈现半透明质感。",
+    "active": "双指捻动时，棋子四周会有微型彩云环绕，落地后如雷震动，剑气纵横。 ,"
+  },
+  "provenance": {
+    "origin": "中土神洲白帝城城主郑居中亲手炼制的弈棋重宝。",
+    "karma_link": "崔东山将其视为“老祖宗”家底的一部分，常用来显摆其与白帝城的深厚渊源。"
+  },
+  "enriched": true
+}

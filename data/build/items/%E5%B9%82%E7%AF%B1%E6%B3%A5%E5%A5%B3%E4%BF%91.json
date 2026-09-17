@@ -1,0 +1,55 @@
+{
+  "name": "幂篱泥女俑",
+  "original_name": "十二绝色仙女俑之一",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "此泥俑是**“十二绝色”系列中的一尊**，其工艺水平代表了白帝城的高深造化。 虽然洪扬波多年未曾解开机关，但张彩芹认为此物与陈平安有缘，是极具分量的赠礼。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第475章 水堵不如疏",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第477章 人心中须有日月",
+      "owner": "李槐 (陈平安代送)"
+    }
+  ],
+  "subtype": "收藏类 / 机关类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "张彩芹 (青蚨坊东家)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "洪扬波 (青蚨坊老掌柜)",
+      "relation": "曾持有"
+    },
+    {
+      "name": "落魄野修",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为“十二绝色”套组之一，若能集齐全部泥俑，其整体品秩将产生质变。",
+  "supernatural_ability": "**幂篱本身是一件精巧的法器**，设有极其复杂的机关。",
+  "evolution": {
+    "current_form": "戴着幂篱的泥塑女俑。",
+    "materials_consumed": [
+      "白帝城神仙土"
+    ],
+    "potential_evolution": "解开机关后可窥见女俑真容，并展现出完整的法宝异象。"
+  },
+  "visual": {
+    "static": "做工精美绝伦，尺寸小巧，**女俑头戴遮面的幂篱**。",
+    "active": "触发机关后，幂篱会产生玄妙变化，流溢出神仙气象。"
+  },
+  "provenance": {
+    "origin": "出自中土白帝城一位惊才绝艳的上五境神仙之手。",
+    "karma_link": "洪扬波以两百雪花钱从野修处捡漏得来，后由东家张彩芹决定赠予陈平安。 ,"
+  },
+  "enriched": true
+}

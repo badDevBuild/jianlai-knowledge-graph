@@ -1,0 +1,46 @@
+{
+  "name": "龙门符",
+  "original_name": "纯阳化龙符",
+  "type": "符箓",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这是**吕祖赠予落魄山水蛟的至宝**，不仅是化龙的通行证，更是**纯阳一脉对落魄山门风的认可** 。",
+  "aliases": [
+    "龙门"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第985章 关门弟子",
+      "owner": "周米粒"
+    }
+  ],
+  "subtype": "蜕变类 / 压胜类",
+  "holder": "陈灵均",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吕喦 (纯阳道人)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "蕴含纯阳道人的根本真意，具备让天下水裔一举跨越龙门的终极权限 。",
+  "supernatural_ability": "可让水族精怪直接获得通过“走水”化龙的资格，并受纯阳剑意庇护，免受一般山巅修士的觊觎 。",
+  "evolution": {
+    "current_form": "一张金光灿烂、道意深藏的珍稀符箓 。",
+    "materials_consumed": [
+      "纯阳道气",
+      "大玄都观桃木精气"
+    ],
+    "potential_evolution": "完全激发后可作为水族跻身十四境的合道契机 。"
+  },
+  "visual": {
+    "static": "符文蕴含“纯阳”二字，隐约可见金龙盘踞之象 。",
+    "active": "激发时如日升东海，能让水裔体魄瞬间金质化，引动天地龙气共鸣 。"
+  },
+  "provenance": {
+    "origin": "纯阳道人吕喦亲自绘制 。",
+    "karma_link": "由于陈灵均在青衫渡的“厚道”待客，得此天大福缘 。"
+  },
+  "enriched": true
+}

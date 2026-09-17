@@ -1,0 +1,45 @@
+{
+  "name": "真气八两符",
+  "original_name": "真气八两符",
+  "type": "符箓",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "杨老头为陈平安设计的炼体工具。四张符箓分别贴在四肢，让武夫的一口真气始终处于高压状态，陈平 安到达老龙城前成功将其破开 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第249章 姹紫嫣红开遍",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第253章 有人送剑有人等",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助类 / 炼体类",
+  "holder": "陈平安 (曾持有)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为杨老头针对性磨砺陈平安体魄的特殊符箓，其任务在陈平安晋升第四境后即告完成 。",
+  "supernatural_ability": "能够束缚武夫体内的纯粹真气，强制使其在睡眠时也自行流转并淬炼体魄，增加破境的难度和成色 。",
+  "evolution": {
+    "current_form": "四张贴附于陈平安手腕与脚踝处的隐形符箓 。",
+    "materials_consumed": [],
+    "potential_evolution": "在陈平安打破武夫三境瓶颈跻身第四境时，符箓会自行破碎退散 。"
+  },
+  "visual": {
+    "static": "通常情况下不显于形，但在气机流转时，手腕和脚踝处会露出隐约的符箓模样 。",
+    "active": "符箓如同沉重的枷锁束缚住武夫体魄，直至其体魄强韧到足以支撑破境，符箓会轰然碎裂 。"
+  },
+  "provenance": {
+    "origin": "小镇药铺杨老头的私人赠礼 。",
+    "karma_link": "此符的存在促使陈平安在漫长的走龙道航程中日夜练拳，奠定了极强的武道底蕴 。"
+  },
+  "enriched": true
+}

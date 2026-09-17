@@ -1,0 +1,38 @@
+{
+  "name": "红牙板",
+  "original_name": "白玉盘子",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是白景用来收拢和固化天地灵气的珍贵器物。在蛮荒腹地和天外战场，白景常以此盘接住凝练的灵气 珠子，响声清脆，展现出一种大修行的悠然气象 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第524章 陈平安和齐景龙的道理",
+      "owner": "歌姬(老渔翁侍女)"
+    }
+  ],
+  "subtype": "滋养/收集类",
+  "holder": "白景 (谢狗)",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为远古大妖的随身器物，能持续凝聚天地间最高品秩的灵气与道气 。",
+  "supernatural_ability": "能将汲取的灵气和道气一分为二，凝聚成精粹至极的珠子 。",
+  "evolution": {
+    "current_form": "两个质地通透的白玉盘子 。",
+    "materials_consumed": [
+      "天地灵气",
+      "道气"
+    ],
+    "potential_evolution": "长期温养可作为承载大千世界气运的道场核心 。"
+  },
+  "visual": {
+    "static": "洁白无瑕的玉质圆盘 。",
+    "active": "使用时灵气珠子落在盘中，发出如“大珠小珠落玉盘”般清脆悦耳的响声 。"
+  },
+  "provenance": {
+    "origin": "白景作为远古“道士”在漫长岁月中的积攒 。",
+    "karma_link": "见证了白景在天外战场“勤俭持家”地收集灵气大潮，与陈平安等人的大道之争相呼应 。"
+  },
+  "enriched": true
+}

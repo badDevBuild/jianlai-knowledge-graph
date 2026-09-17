@@ -1,0 +1,44 @@
+{
+  "name": "云水镇宅符",
+  "original_name": "镇宅符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安用来超度书简湖冤魂的关键符箓之一，通过此符的镇守，让魂魄残缺的阴物能在阳间保持神志清 明 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第440章 又一年下雪时",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御/镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "传承自"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "符胆蕴含上古圣贤真意，对阴物具有先天的压制力",
+  "supernatural_ability": "符胆中央有金书三山九侯先生讳字，可稳固宅邸气机，防止邪祟入室",
+  "evolution": {
+    "current_form": "金纸或黄纸符箓，字体古朴法度严谨",
+    "materials_consumed": [
+      "丹砂",
+      "道门灵气"
+    ],
+    "potential_evolution": "可配合阵法演化为“云水大阵”"
+  },
+  "visual": {
+    "static": "符纸表面云纹波动，字迹隐隐生光",
+    "active": "激发时会形成一层水润的金色屏障，冲洗宅内的污秽之气"
+  },
+  "provenance": {
+    "origin": "出自《丹书真迹》，是三山九侯先生一脉的入门法道",
+    "karma_link": "陈平安在书简湖利用此符为横死之人的阴灵提供清净之地"
+  },
+  "enriched": true
+}

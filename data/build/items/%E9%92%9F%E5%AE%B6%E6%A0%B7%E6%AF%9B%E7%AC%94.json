@@ -1,0 +1,44 @@
+{
+  "name": "钟家样毛笔",
+  "original_name": "中土钟家样",
+  "type": "匠器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "一种源自中土神洲的名贵毛笔样式。虽然在那老掌柜眼中只是寻常，但在裴钱心中却是最适合师父的礼 物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第602章 年纪轻轻二掌柜",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "文房类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "裴钱",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "长期在文气浓郁之地温养，可孕育出文灵 。",
+  "supernatural_ability": "专写小楷，落笔时有高古之风，势巧形密，有助于书写者进入禅定境 。",
+  "evolution": {
+    "current_form": "笔杆细长，篆刻有十二字小篆 。",
+    "materials_consumed": [
+      "名贵竹材",
+      "兽毫"
+    ],
+    "potential_evolution": "若得圣贤点睛，可成为能够画龙点睛的法宝 [无]。"
+  },
+  "visual": {
+    "static": "笔杆刻字极细，质地坚韧，呈现出一种陈旧而雅致的色泽 。",
+    "active": "书写时灵气流转，字迹隐隐生光，经久不褪 。"
+  },
+  "provenance": {
+    "origin": "裴钱在倒悬山集市，花费一颗雪花钱精心挑选，送给师父陈平安 。",
+    "karma_link": "体现了弟子对师父的敬重与对求学之道的传承 。"
+  },
+  "enriched": true
+}

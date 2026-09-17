@@ -1,0 +1,51 @@
+{
+  "name": "桃花糕",
+  "original_name": "岁朝糕点 / 庙会贡品",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是人间最具烟火气的灵物之一，常出现在大骊京城的 芒种送花神习俗中，代表了世俗与仙道的和谐共生 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第84章 我有一剑",
+      "owner": "阮秀"
+    },
+    {
+      "chapter": "第204章 故人来送剑去",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第224章 才子佳人",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第305章 远观近看",
+      "owner": "阮秀"
+    }
+  ],
+  "subtype": "消耗/民俗类",
+  "holder": "封姨 / 陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "凝聚了人间辞旧迎新的美好愿景，可作为滋养神魂的“ 香火物” 。",
+  "supernatural_ability": "无明显杀力。但能缓解疲劳，增强持有者对草木灵气的 感知力 。",
+  "evolution": {
+    "current_form": "以当季桃花瓣与灵泉水制作的甜点 。",
+    "materials_consumed": [
+      "新鲜桃花",
+      "蜂蜜",
+      "万年土（少量）"
+    ],
+    "potential_evolution": "若由仙女俑之灵加持，可演化为“驻颜糕” 。"
+  },
+  "visual": {
+    "static": "形状如五瓣桃花，色彩娇艳，晶莹剔透，如同玉石雕成 。",
+    "active": "散发出的香气能惊退部分小型虫类精魅 。"
+  },
+  "provenance": {
+    "origin": "源自大骊京城花神庙或百花福地的传统习俗 。",
+    "karma_link": "象征着陈平安与封姨等远古神灵之间微妙的“邻里”关系 。"
+  },
+  "enriched": true
+}

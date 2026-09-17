@@ -1,0 +1,58 @@
+{
+  "name": "山海志",
+  "original_name": "浩然天下风土概况 / 山海补志",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安离开倒悬山前往桐叶洲前购买的必备工具书，帮助他了解九 洲风土人情与修真势力分布 。",
+  "aliases": [
+    "山海经"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第285章 一盒胭脂",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第292章 小巷雨夜",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第303章 人间多不平",
+      "owner": "无"
+    },
+    {
+      "chapter": "第403章 拜访",
+      "owner": "于禄"
+    }
+  ],
+  "subtype": "地理/百科类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "倒悬山鹳雀客栈",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为记录天下气运与地理变迁的仙家书籍，其价值随世界版图的完善而 增长。",
+  "supernatural_ability": "一页之上可记载十数幅图画与数千文字，内容随翻阅实时流转 。记载有天下名山大川、仙府遗址、以及如杨璿等工匠名家的珍稀作 品 。",
+  "evolution": {
+    "current_form": "仙家书籍，画面与文字如水似云，缓缓流转 。",
+    "materials_consumed": [
+      "仙家纸张",
+      "地理气运"
+    ],
+    "potential_evolution": "若能补全失传篇章，可演化为观测一洲山水脉络的“掌观山河”辅助重器 。"
+  },
+  "visual": {
+    "static": "书页质地厚实，封面古朴，透着淡淡的墨香 。",
+    "active": "翻开时，书上的文字与地理图像会呈现出动态流转的效果，宛如云烟变 幻 。"
+  },
+  "provenance": {
+    "origin": "由中土文庙或各大洲负责堪舆的修士编撰。",
+    "karma_link": "记录了陈平安远游途中对浩然天下宏观规矩与地理层级的认知 。"
+  },
+  "enriched": true
+}

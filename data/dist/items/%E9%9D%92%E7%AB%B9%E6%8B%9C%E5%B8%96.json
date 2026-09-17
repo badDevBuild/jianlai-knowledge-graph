@@ -1,0 +1,38 @@
+{
+  "name": "青竹拜帖",
+  "original_name": "竹拜帖",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "**仙家名门交往中不可或缺的礼仪文书** 。陈平安在游历过程中多次使用，体现了落魄山规矩谨严、礼数周到的家风 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第741章 我那陈道友",
+      "owner": "苏子"
+    }
+  ],
+  "subtype": "社交/信物类",
+  "holder": "陈平安 / 各大宗门",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "随主人的身份抬升，可成为具备法律效力的某种敕令。",
+  "supernatural_ability": "作为正式访问的凭证，蕴含持有者的微弱气息，可破开基础的山门禁制 。",
+  "evolution": {
+    "current_form": "青竹削制而成的薄片拜帖 。",
+    "materials_consumed": [
+      "青神山绿竹",
+      "书法笔意"
+    ],
+    "potential_evolution": "可进阶为具备传讯功能的“青书玉简”"
+  },
+  "visual": {
+    "static": "质地坚韧，色泽苍翠，表面刻有端正的拜访文字 。",
+    "active": "递交时灵光一闪，与山门阵法产生感应 。"
+  },
+  "provenance": {
+    "origin": "仙家门派之间社交往来的正统礼制 。",
+    "karma_link": "见证了陈平安从山下少年到一宗之主的身份转变 。"
+  },
+  "enriched": true
+}

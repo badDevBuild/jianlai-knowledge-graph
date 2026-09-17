@@ -1,0 +1,55 @@
+{
+  "name": "山字印",
+  "original_name": "山河印之一",
+  "type": "法宝",
+  "grade": "景观",
+  "status": "活跃",
+  "description": "齐静春赠予陈平安的两方印章之一，与“水字印”合称山河印。它承载了齐静春对陈平安的护道期望 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第601章 裴钱的小钱袋子",
+      "owner": "未知"
+    },
+    {
+      "chapter": "第726章 真无敌",
+      "owner": "山青"
+    },
+    {
+      "chapter": "第727章 五至高，四仙剑，一白也",
+      "owner": "山青"
+    },
+    {
+      "chapter": "第1147章 入室操戈",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "镇压/封禁类",
+  "holder": "陈平安",
+  "holder_relation": "曾持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为“山河”对章之一，其巅峰威力可镇压一洲气运 。",
+  "supernatural_ability": "能与山川大地产生共鸣，压胜江河水裔，稳固一地山根 。",
+  "evolution": {
+    "current_form": "已损毁（碎裂于蛟龙沟） 。",
+    "materials_consumed": [
+      "蛇胆石"
+    ],
+    "potential_evolution": "无 [无]。"
+  },
+  "visual": {
+    "static": "由上等蛇胆石篆刻，印章外表有山岳起伏之纹路 。",
+    "active": "钤印时会有万钧重压，引发山崩地裂之势 。"
+  },
+  "provenance": {
+    "origin": "由齐静春亲手篆刻，赠予陈平安用于镇压自身气运 。",
+    "karma_link": "在蛟龙沟为阻拦老蛟攻击而破碎，是陈平安极大的遗憾 。"
+  },
+  "enriched": true
+}

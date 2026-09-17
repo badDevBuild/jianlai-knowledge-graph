@@ -1,0 +1,44 @@
+{
+  "name": "魁罡仙人酿",
+  "original_name": "九转紫金液 / 魁罡老酒",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是道门最顶级的修行资粮之一。其霸道的药效要求饮 者必须拥有强横的体魄，否则会爆体而亡 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第88章 粉墨登场",
+      "owner": "阿良"
+    }
+  ],
+  "subtype": "滋养/修行类",
+  "holder": "陈平安 / 岁除宫客卿",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道门高真",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为道门炼丹一脉的产物，具备重塑“仙人风骨”的极限 潜力 。",
+  "supernatural_ability": "饮用后能引动“魁罡”之气，压制体内邪魔，强行拓宽修 士气府，对冲击金丹有奇效 。",
+  "evolution": {
+    "current_form": "酒液厚重如汞，散发出浓稠的紫金道气 。",
+    "materials_consumed": [
+      "雷部精粹",
+      "九转金丹碎屑"
+    ],
+    "potential_evolution": "炼化后可成为稳固“雷局”本命物的核心资粮 。"
+  },
+  "visual": {
+    "static": "盛放在绘有星斗图案的深紫瓷瓶中，即便不开启也能感 到阵阵天威 。",
+    "active": "倒入碗中时，酒液上有雷光游走，映照得满室生辉 。"
+  },
+  "provenance": {
+    "origin": "出自白玉京青翠城或上古道门雷部传承 。",
+    "karma_link": "见证了陆沉与陈平安在剑气长城、夜航船上的多次对饮 与交易 。"
+  },
+  "enriched": true
+}

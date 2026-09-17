@@ -1,0 +1,52 @@
+{
+  "name": "青竹行山杖",
+  "original_name": "绿竹杖",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "**青竹行山杖**是陈平安一脉远游时的标配器物。它既是纯粹武夫砥砺体魄的辅助工具，也是落魄山成 员之间**情谊传承**的见证 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第689章 一个年轻人的小故事",
+      "owner": "姜尚真"
+    },
+    {
+      "chapter": "第1120章 二十人与候补们（中）",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "周米粒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "小陌",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随持有人功德与拳意温养，可进化为法宝品秩的行山重器 。",
+  "supernatural_ability": "具备极其坚韧的质地，能配合“疯魔剑法”使用，具有镇压山水气运、震慑山精水怪之效 。",
+  "evolution": {
+    "current_form": "材质轻洁、青翠欲滴的竹根制长杖 。",
+    "materials_consumed": [
+      "青神山竹根",
+      "雷池脉络"
+    ],
+    "potential_evolution": "若融合“薪火”雷鞭，可演化为具备天劫威能的护道重器 。"
+  },
+  "visual": {
+    "static": "通常由掘后山竹根制成，表面光滑且带有天然节理，常由黑衣小姑娘肩挑或手持 。",
+    "active": "挥动时自带“仙气”，可引动方圆之内的灵气涟漪，显现出“天桥派”武学气概 。"
+  },
+  "provenance": {
+    "origin": "材质多出自竹海洞天青神山，或由落魄山竹楼余料加工而成 。",
+    "karma_link": "象征着“行走大地、脚踏实地”的修行宗旨，也是落魄山“右护法”的身份标志 。"
+  },
+  "enriched": true
+}

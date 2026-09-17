@@ -1,0 +1,47 @@
+{
+  "name": "清水",
+  "original_name": "仙家泉水 (灵湫/浮钱泉)",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这并非寻常之水，而是采自各大宗门禁地。在大礼往来 或修行闭关中具有不可替代的作用 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第819章 问剑做客两不误",
+      "owner": "冷绮"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "长春宫",
+      "relation": "原主"
+    },
+    {
+      "name": "云霞山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "不同名泉汇聚可炼制出更高品阶的洗髓灵液 。",
+  "supernatural_ability": "如长春宫灵湫之水，用来煮茶可使女子容颜常驻 。",
+  "evolution": {
+    "current_form": "盛放在大罐或方寸物中的清冽液体 。",
+    "materials_consumed": [
+      "名山水脉精华"
+    ],
+    "potential_evolution": "可作为炼制顶级仙酿“长春仙酿”的核心基底 。"
+  },
+  "visual": {
+    "static": "色泽清亮，灵气升腾，即便封存在罐中也散发寒意或清 香 。",
+    "active": "煮沸时云蒸霞蔚，水汽如龙蛇游动 。"
+  },
+  "provenance": {
+    "origin": "采自长春宫、云霞山等仙家禁地名泉 。",
+    "karma_link": "曹晴朗代师收集，是陈平安在大隋京城及远游途中的收 藏 。"
+  },
+  "enriched": true
+}

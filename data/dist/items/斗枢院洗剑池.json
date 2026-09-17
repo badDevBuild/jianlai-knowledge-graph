@@ -1,0 +1,44 @@
+{
+  "name": "斗枢院洗剑池",
+  "original_name": "雷池",
+  "type": "其他",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这是远古雷部的遗珍，池水即电浆。它不仅是一处地利，更是修行雷法与铸造兵器的神圣领域。后被挂 砚神女视为机缘整体带走 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第495章 好人兄",
+      "owner": "火铃"
+    }
+  ],
+  "subtype": "雷法/资源类",
+  "holder": "挂砚神女",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "敕雷神将",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古雷部核心遗址，蕴含极高位阶的雷电真意，是淬炼兵器的绝佳之地 。",
+  "supernatural_ability": "池内积聚浓稠如水的电浆，能够清洗、淬炼神兵利器 ；后被挂砚神女以“掣电”古砚整体搬迁收取 。",
+  "evolution": {
+    "current_form": "原本为积霄山巅的大型雷池 。",
+    "materials_consumed": [
+      "远古雷部神性",
+      "雷电电浆"
+    ],
+    "potential_evolution": "可作为顶级雷法道场或仙兵淬火池。"
+  },
+  "visual": {
+    "static": "巨大的池子，池内电浆翻滚，旁有一块歪斜石碑，刻有“斗枢院洗剑池” 。",
+    "active": "金色雷电如廊柱倾斜落下，轰鸣声震动天地 。"
+  },
+  "provenance": {
+    "origin": "远古天庭雷部“一府两院三司”中的重要设施 。",
+    "karma_link": "曾是雷部神将清洗兵器的重地，后遗落在鬼蜮谷积霄山 。"
+  },
+  "enriched": true
+}

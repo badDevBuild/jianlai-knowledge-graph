@@ -1,0 +1,47 @@
+{
+  "name": "方寸缩地符",
+  "original_name": "缩地符 / 方寸符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是陈平安从《丹书真迹》中学到的经典入门符箓，不仅用于保命撤退 ，更是他在战斗中通过空间位移占据先手的重宝 。",
+  "aliases": [
+    "方寸缩地符"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第237章 小暑过后，春风犹在",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随画符者境界提升，可演化为一瞬千里的金色方寸符 。",
+  "supernatural_ability": "能让使用者在转瞬之间缩地成寸，一步踏出即可去往方圆十丈内的任意 一处 。",
+  "evolution": {
+    "current_form": "《丹书真迹》所载的入门符箓，多以黄纸绘制 。",
+    "materials_consumed": [
+      "黄玺符纸",
+      "朱砂",
+      "一口纯粹真气"
+    ],
+    "potential_evolution": "可进阶为无视空间禁制的金色材质方寸符 。"
+  },
+  "visual": {
+    "static": "质地细腻的符纸，绘有复杂的空间折叠云纹 。",
+    "active": "激发时符光一闪，身形如琉璃消散，瞬间出现在别处 。"
+  },
+  "provenance": {
+    "origin": "源自道门符箓派正统传承 。",
+    "karma_link": "陈平安常以此符配合“神人擂鼓式”拳法近身搏杀 。"
+  },
+  "enriched": true
+}

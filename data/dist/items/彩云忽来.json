@@ -1,0 +1,44 @@
+{
+  "name": "彩云忽来",
+  "original_name": "殷沉遗印",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一枚极具情感分量的印章。老剑修殷沉在临终前放 下所有个人恩怨，以此印明志，是隐官陈平安极为珍视 的收藏之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第786章 那就打",
+      "owner": "殷沉(已故)"
+    }
+  ],
+  "subtype": "篆刻/意境类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "殷沉",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "承载了一位老剑修临终前的剑意与执念，具备稳固道心 、破除心魔的潜质 。",
+  "supernatural_ability": "印文蕴含“拨云见日”之意，能让持有者在绝境中保持神 识清明 。",
+  "evolution": {
+    "current_form": "一方石质朴拙、刀法刚劲的私章 。",
+    "materials_consumed": [
+      "元婴剑修心血",
+      "战场残余意气"
+    ],
+    "potential_evolution": "若能受万年剑意淬炼，可进阶为具备攻击神通的法宝。"
+  },
+  "visual": {
+    "static": "印身如古木，文字苍劲有力，边款记录了剑客的生死感 悟 。",
+    "active": "钤印时会有淡淡的彩霞之气升腾，伴随若有若无的剑鸣 。"
+  },
+  "provenance": {
+    "origin": "由剑气长城元婴老剑修殷沉在赴死前对照印谱临摹刻成 。",
+    "karma_link": "见证了剑气长城剑修“慷慨赴死”的精神传承 。"
+  },
+  "enriched": true
+}

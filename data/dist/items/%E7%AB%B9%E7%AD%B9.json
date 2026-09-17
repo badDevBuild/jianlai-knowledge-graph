@@ -1,0 +1,38 @@
+{
+  "name": "竹筹",
+  "original_name": "算筹 / 卦筹",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是《剑来》中智者与天道博弈的微观载体 。在曹州狐等人的手中，它是战场运筹帷幄的根本 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第974章 一家团圆",
+      "owner": "常庚"
+    }
+  ],
+  "subtype": "术算/工具类",
+  "holder": "曹州狐 / 阴阳家修士",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "随着使用者术算境界的提升，可作为推演天下大势的阵 法核心 。",
+  "supernatural_ability": "辅助推演星象、卜卦，能够理清复杂的人事脉络 。",
+  "evolution": {
+    "current_form": "细长的竹制棒状物，表面刻有刻度或符号 。",
+    "materials_consumed": [
+      "灵竹",
+      "心力"
+    ],
+    "potential_evolution": "可演化为能标注“化外天魔”或“天机变幻”的精密仪器 。"
+  },
+  "visual": {
+    "static": "质朴无华，色泽枯黄或青绿，整齐排列在筹筒中 。",
+    "active": "演算时竹筹自行飞旋，能够在大脑中构建出复杂的世界 模型 。"
+  },
+  "provenance": {
+    "origin": "源自上古时代的术算体系 。",
+    "karma_link": "常为名将或大阴阳家所用，代表了理智与秩序的结合 。"
+  },
+  "enriched": true
+}

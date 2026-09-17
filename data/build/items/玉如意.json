@@ -1,0 +1,44 @@
+{
+  "name": "玉如意",
+  "original_name": "灵芝如意",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这枚玉如意是浩然天下公认的修行至宝。它因道祖的加持而带有一种天然的秩序感，是所有练气士梦寐 以求的闭关辅助之物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第949章 让道",
+      "owner": "韩澄江"
+    }
+  ],
+  "subtype": "修行类 / 环境类",
+  "holder": "灵芝斋",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道祖留下的遗物，具备改变一地气运、造就临时洞天的终极潜力 。",
+  "supernatural_ability": "“灵气浸染”：能将方圆之地转化为临时性的洞天福地，使在此修行者的感悟与恢复速度提升一倍 。",
+  "evolution": {
+    "current_form": "一枚摆放在倒悬山灵芝斋内的灵芝外形如意 。",
+    "materials_consumed": [
+      "道门玄气",
+      "上古灵玉"
+    ],
+    "potential_evolution": "不可估量，是维持倒悬山商贸平衡的核心神物 。"
+  },
+  "visual": {
+    "static": "通体温润，形似灵芝，散发出柔和且连绵不绝的清正道气 。",
+    "active": "激活时，周遭会出现祥瑞云气，灵气浓郁到如雾霭般飘荡 。"
+  },
+  "provenance": {
+    "origin": "道祖遗留在浩然天下的神物之一 。",
+    "karma_link": "是灵芝斋作为倒悬山头等客栈的立身之本，即便豪门子弟亦一房难求 。"
+  },
+  "enriched": true
+}

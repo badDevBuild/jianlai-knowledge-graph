@@ -1,0 +1,48 @@
+{
+  "name": "万年灯犀角",
+  "original_name": "续命灯残留物",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是纳兰烧苇赖以转世重生的核心奇物。它不仅是一件续命的法宝，更见证了剑气长城剑仙与岁除宫之 间隐秘而深重的因果交换 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第704章 朱颜敛藏",
+      "owner": "斐然"
+    }
+  ],
+  "subtype": "续命类 / 辅助类",
+  "holder": "纳兰烧苇",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "剑气长城",
+      "relation": "原主"
+    },
+    {
+      "name": "岁除宫",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为承载巅峰剑仙魂魄的容器，具备辅助阴魂重塑金身、在异乡转世成功的极致底蕴 。",
+  "supernatural_ability": "能够在修士身死后锁住最后一点真灵不灭，并通过秘法在灯芯处点燃魂火，指引魂魄重返阳间 。",
+  "evolution": {
+    "current_form": "作为续命灯的核心部分，目前协助纳兰烧苇在仙蜕中重塑神魂 。",
+    "materials_consumed": [
+      "飞升境仙蜕精华",
+      "长明灯油"
+    ],
+    "potential_evolution": "在灵魂完全融合后，可转化为增强新体魄神魂强度的本命至宝 。"
+  },
+  "visual": {
+    "static": "质地如玉，散发着微弱却恒定的暖色灯火，给人以安稳神魂之感 。",
+    "active": "灯火大放光彩时，可照彻幽冥，屏蔽岁月的冲刷，使得魂魄在转世过程中不失灵智 。"
+  },
+  "provenance": {
+    "origin": "来自剑气长城秘藏的续命手段 。",
+    "karma_link": "由吴霜降通过岁除宫提供飞升境仙蜕，促成纳兰烧苇的重生 。"
+  },
+  "enriched": true
+}

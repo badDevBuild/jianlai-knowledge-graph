@@ -1,0 +1,84 @@
+{
+  "name": "白玉灵芝",
+  "original_name": "九真仙馆灵芝如意",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "白玉灵芝不仅是一件极佳的飞行与遁走辅助法宝，更承载了九真仙馆的核心道法真意 。陈平安凭借此物模拟出的“云水身”气象，甚至能瞒过不少地仙修士的耳目 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第792章 仙人术法",
+      "owner": "云杪"
+    },
+    {
+      "chapter": "第797章 果然",
+      "owner": "云杪"
+    },
+    {
+      "chapter": "第807章 木人哑语",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第816章 大鱼如龙",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第817章 刻舟求剑",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第818章 少年过河",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第825章 太上宗主",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第826章 本命瓷",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第885章 道簪",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第978章 今日无事",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1127章 二十人与候补们（九）",
+      "owner": "陈平安(原属云杪)"
+    }
+  ],
+  "subtype": "辅助类 / 遁法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云杪",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "蕴含极深的水木双属性道韵，若能由丹鼎派高人重新淬炼，可重返仙兵之列 。",
+  "supernatural_ability": "辅助施展“水云身”神通，能让修士身法如同竹密水过、山高云飞，无视地形障碍 。",
+  "evolution": {
+    "current_form": "一支雕刻精美、温润如羊脂的白玉灵芝 , 。",
+    "materials_consumed": [
+      "千年灵芝精华",
+      "九真仙馆灵气"
+    ],
+    "potential_evolution": "可炼化为护持道心的本命法宝 。"
+  },
+  "visual": {
+    "static": "通体莹白，散发着沁人心脾的药香，上有铭文“千年莹澈无瑕之人，百世芝兰幽香之家” 。",
+    "active": "使用时会生发出一圈圈乳白色的云雾涟漪，使得持有者身形变得飘渺不定 。"
+  },
+  "provenance": {
+    "origin": "中土神洲九真仙馆的传承重宝 。",
+    "karma_link": "仙人云杪在鸳鸯渚战败后，将其赠予陈平安作为赔罪礼 。"
+  },
+  "enriched": true
+}

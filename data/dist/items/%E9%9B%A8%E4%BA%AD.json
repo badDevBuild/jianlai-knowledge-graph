@@ -1,0 +1,44 @@
+{
+  "name": "雨亭",
+  "original_name": "且停亭 / 避雨仙崖",
+  "type": "法宝",
+  "grade": "本命飞剑",
+  "status": "活跃",
+  "description": "**陈平安在夜航船上的合法产业**。它代表了主人在规 则丛林中的特殊地位，是避开大人物视线的绝佳隐匿点 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第794章 明白",
+      "owner": "云杪"
+    }
+  ],
+  "subtype": "道场/社交类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李十郎",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着“买山券”笔画填补，可成为夜航船上永恒存在的道 场 。",
+  "supernatural_ability": "具备“风雨不动”之威，能隔绝外界神识窥探，是交换情 报与暂时休养的绝对安全区 。",
+  "evolution": {
+    "current_form": "条目城中一座名为“且停亭”的小亭子 。",
+    "materials_consumed": [
+      "条目城气运",
+      "儒家文运"
+    ],
+    "potential_evolution": "可扩建为完整的“芥子园” 。"
+  },
+  "visual": {
+    "static": "古朴典雅，匾额楹联文采斐然，四周被浓郁的文气笼罩 。",
+    "active": "当主人持券进入时，亭内会浮现出往古来今的历史条目 。"
+  },
+  "provenance": {
+    "origin": "陈平安在夜航船条目城通过撰写《性恶》篇从城主李十 郎处赢得 。",
+    "karma_link": "见证了陈平安在夜航船上“讲道理”的巅峰时刻 。"
+  },
+  "enriched": true
+}

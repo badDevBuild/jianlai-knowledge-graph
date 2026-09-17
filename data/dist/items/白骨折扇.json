@@ -1,0 +1,48 @@
+{
+  "name": "白骨折扇",
+  "original_name": "玉竹折扇 / 玉竹扇子",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "**白骨折扇**（此处对应源文件中的**玉竹折扇**）不仅是陈平安“负笈游学”形象的文雅装点，更是一 件品相极高的文房重器，能协助持有者在修道途中保持神清气爽 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第494章 天上白玉京",
+      "owner": "持扇精怪"
+    }
+  ],
+  "subtype": "辅助类 / 压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "某位不知名仙人",
+      "relation": "原主"
+    },
+    {
+      "name": "崔东山",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "其材质如玉竹般温润，且扇骨刻有十八罗汉，随持有者正气滋养可生发清凉意境 。",
+  "supernatural_ability": "**扇底聚春风**：具备极佳的祛暑功效，且扇骨上的罗汉刻像具备一定的镇压邪祟之力 。",
+  "evolution": {
+    "current_form": "扇面素白无文字、扇骨雕工精绝的折扇 。",
+    "materials_consumed": [
+      "玉竹",
+      "名家雕工"
+    ],
+    "potential_evolution": "可作为文人雅士的案头清供，随持有者心境提升而产生微妙道意 。"
+  },
+  "visual": {
+    "static": "扇骨一侧刻有栩栩如生的十八罗汉，另一侧刻有“蟠桃结实三千岁”等名句 。",
+    "active": "扇动时有清风徐来，能拂去人心头燥气，令环境变得澄净素洁 。"
+  },
+  "provenance": {
+    "origin": "原为与崔东山对弈输掉飞剑“金秋”之人的心爱珍宝 。",
+    "karma_link": "崔东山在陈平安远游北俱芦洲前相赠，承载了学生对先生远游的护道心意 。"
+  },
+  "enriched": true
+}

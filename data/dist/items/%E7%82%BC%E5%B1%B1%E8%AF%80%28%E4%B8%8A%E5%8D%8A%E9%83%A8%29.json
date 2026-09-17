@@ -1,0 +1,44 @@
+{
+  "name": "炼山诀(上半部)",
+  "original_name": "《炼山》",
+  "type": "典籍",
+  "grade": "秘籍",
+  "status": "活跃",
+  "description": "这是兵家与地仙共用的顶级炼化秘术，专门用于掌控山 河地理。哪怕只有半部，也足以让飞升境大妖视若珍宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第807章 木人哑语",
+      "owner": "桃亭"
+    }
+  ],
+  "subtype": "炼化/搬山类",
+  "holder": "嫩道人 (桃亭)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老瞎子",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "若能寻得下半部，可具备吞噬一洲地脉、成就十四境的 能力 。",
+  "supernatural_ability": "能够以撵山、控山之术，强行炼化名山大川入己身 。",
+  "evolution": {
+    "current_form": "被老瞎子视为“垃圾”随手丢出的残篇秘籍 。",
+    "materials_consumed": [
+      "上古道韵",
+      "大地精气"
+    ],
+    "potential_evolution": "与蛮荒天下搬山老祖的神通合流，破开飞升境瓶颈 。"
+  },
+  "visual": {
+    "static": "书页残破，看似寻常古籍，实则沉重如山岳 。",
+    "active": "研读时周身会产生巨大的重力场，隐约可见群山崩碎的 幻象 。"
+  },
+  "provenance": {
+    "origin": "老瞎子十万大山的收藏 。",
+    "karma_link": "嫩道人凭借此诀在桐叶洲建立功勋，并在大道竞争中获 得先机 。"
+  },
+  "enriched": true
+}

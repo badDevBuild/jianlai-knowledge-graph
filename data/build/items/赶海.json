@@ -1,0 +1,38 @@
+{
+  "name": "赶海",
+  "original_name": "寻宝/采撷",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "指在**龙宫洞天**或广袤海域采集灵物的行为 。涉及对水中精怪、美石和灵草的攫取，是众多水裔神祇生存的根基 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1108章 求之不得大风流",
+      "owner": "叶澹"
+    }
+  ],
+  "subtype": "修行行为/辅助类",
+  "holder": "龙宫修士/散修",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "长期在深海灵压下进行可磨砺道心与水法掌控力 。",
+  "supernatural_ability": "采集海中特产，如虬珠、龙涎、金鱼等，用于炼丹或制作灵器 。",
+  "evolution": {
+    "current_form": "多表现为使用龙王篓、竹编小笼等工具进行的采集行为 。",
+    "materials_consumed": [
+      "水运",
+      "灵气"
+    ],
+    "potential_evolution": "通过攫取灵物，可演化为掌控局部水域水脉的权柄 。"
+  },
+  "visual": {
+    "static": "海边或水底留下的各种采集印记及工具 。",
+    "active": "水雾升腾，灵气聚拢，珍稀水族被纷纷捕获 。"
+  },
+  "provenance": {
+    "origin": "南海、东海水域或龙宫洞天 。",
+    "karma_link": "修士获取水属资源的传统手段，是赚取神仙钱的主要途径 。"
+  },
+  "enriched": true
+}

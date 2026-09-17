@@ -1,0 +1,44 @@
+{
+  "name": "秋水雁翎刀",
+  "original_name": "仙剑“秋水”",
+  "type": "仙剑",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "**秋水**（常在视觉上表现为雁翎样式）是陆沉剑盒中 的重宝之一。它最恐怖的地方在于能够直接剥夺敌人的 施法根基，使其气府自溃 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第784章 议事",
+      "owner": "郭藕汀"
+    }
+  ],
+  "subtype": "攻伐/破坏类",
+  "holder": "陆芝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为陆沉亲手铸造的道剑，其剑道真意随持剑者的杀力 增长而觉醒 。",
+  "supernatural_ability": "被此剑击中后，修士气府内的灵气会如洪水决堤般瞬间 倾泻、枯竭 。",
+  "evolution": {
+    "current_form": "收纳于袖珍剑盒内，如细小丝线。现世后为清亮如秋水 的长剑 。",
+    "materials_consumed": [
+      "太虚真意",
+      "江海之精"
+    ],
+    "potential_evolution": "可配合其余七剑形成“南华”大剑阵。"
+  },
+  "visual": {
+    "static": "剑身雪亮，纹理如层层雁翎交织，散发着冷冽的水汽 。",
+    "active": "挥动时带起万丈水幕，剑光所过之处空间如水纹荡漾 。"
+  },
+  "provenance": {
+    "origin": "由白玉京三掌教陆沉亲手炼制，寓意其对一条剑道的理 解 。",
+    "karma_link": "陈平安从陆沉处借得后转赠给陆芝，使其补齐了防御短 板并增强了爆发力 。"
+  },
+  "enriched": true
+}

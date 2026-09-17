@@ -1,0 +1,51 @@
+{
+  "name": "国师印",
+  "original_name": "大骊国师官印",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "大骊国师印不仅是世俗权力的象征，更是陈平安用来实践“事功”学问、补全自身人身天地缺漏的关键法 器 。",
+  "aliases": [
+    "旧国师印",
+    "新国师印"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1180章 再出山",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1191章 太阳和野草",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "权柄类 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔瀺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为承载大骊国祚的核心法器，能够随陈平安对一洲政令的颁布而不断吸纳民心气运 。",
+  "supernatural_ability": "“敕令封正”。通过在大骊国书与公文上钤印，不仅能决定武将升迁，还能让持印者建立起某种虚无缥缈 却真实不虚的“人天感应” 。",
+  "evolution": {
+    "current_form": "陈平安目前持有新旧两方官印，正尝试将其彻底炼化 。",
+    "materials_consumed": [
+      "大骊国运",
+      "地脉龙气"
+    ],
+    "potential_evolution": "若能完全炼化并与“道化”结合，可作为跻身更高境界的道基 。"
+  },
+  "visual": {
+    "static": "材质坚韧，底款镌刻有象征国师威严的篆文，呈现出金石气象 。",
+    "active": "钤印时会有国运金光流转，每一道印痕都仿佛在山河地脉中钉下锚点 。"
+  },
+  "provenance": {
+    "origin": "大骊第一任国师崔瀺所传 。",
+    "karma_link": "是崔瀺死后留给小师弟陈平安最重要的政治与大道遗产之一 。"
+  },
+  "enriched": true
+}

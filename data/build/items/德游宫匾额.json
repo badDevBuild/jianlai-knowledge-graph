@@ -1,0 +1,44 @@
+{
+  "name": "德游宫匾额",
+  "original_name": "沈霖新匾额",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不仅是一块匾额，更是沈霖这位大渎正神权柄升格的 象征。它承载了“游思六经”与“补地缺”的高远意境 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第949章 让道",
+      "owner": "沈霖"
+    }
+  ],
+  "subtype": "象征/气运类",
+  "holder": "沈霖 (济渎灵源公)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "受一洲水运与大渎神号浸染，可成为统领水族仙灵的正 式法印 。",
+  "supernatural_ability": "匾额文字蕴含“德高游水”的道法真意，能极大稳固大渎 水府的民心与神力 。",
+  "evolution": {
+    "current_form": "陈平安亲笔书写、悬挂在大渎公府正门上方的巨型匾额 。",
+    "materials_consumed": [
+      "大渎水精",
+      "隐官剑意"
+    ],
+    "potential_evolution": "可演化为庇护整条大渎两岸百姓的“安澜”阵眼。"
+  },
+  "visual": {
+    "static": "笔力雄浑，墨迹中隐约有金丝游走，位置高悬于原府邸 匾额之上 。",
+    "active": "每逢潮汐起伏，匾额会散发深蓝色光辉，平抑风浪 。"
+  },
+  "provenance": {
+    "origin": "陈平安为了祝贺沈霖升任大渎公侯而亲手书写 。",
+    "karma_link": "见证了陈平安与沈霖多年来的道义往来，以及陈平安对 济渎水系的关切 。"
+  },
+  "enriched": true
+}

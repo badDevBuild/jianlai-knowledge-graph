@@ -1,0 +1,48 @@
+{
+  "name": "碧游府玉简",
+  "original_name": "水运玉简 / 祈雨诗诀玉简",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "消耗",
+  "description": "这是埋河碧游府真正的镇宅之宝，其记载的道诀被誉为“一步登仙”。它是陈平安在修行路上获得的最顶 级的法统传承之一。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第391章 君子救与不救",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "传承类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "埋河水神",
+      "relation": "赠予者"
+    },
+    {
+      "name": "上古龙王",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "源自上古大渎龙宫，承载了飞升境级别的证道真意，可直指白玉京高楼奥秘。",
+  "supernatural_ability": "**“万物可炼”**。包含一套调理阴阳、中和五行的仙家道诀。修炼者可在气府内开辟深井，汲取天地灵 气化为精纯水运。",
+  "evolution": {
+    "current_form": "质地温润的青色玉简，蕴含浓郁的水运精华。",
+    "materials_consumed": [
+      "大渎水精",
+      "远古神性"
+    ],
+    "potential_evolution": "炼化后的文字可化作碧绿衣裳的小人儿，在气府内守护道根。"
+  },
+  "visual": {
+    "static": "晶莹剔透，光华流转，正面刻有祈雨诗，背面有详细的仙法旁注。",
+    "active": "激发时文字会脱离玉简，化作灵动的光点在空中飞旋，如满空飞线。"
+  },
+  "provenance": {
+    "origin": "埋河水神从上古大渎龙宫废墟中寻获。",
+    "karma_link": "作为陈平安救命之恩的回礼，成为其修补长生桥及炼化五行本命物的核心资粮。"
+  },
+  "enriched": true
+}

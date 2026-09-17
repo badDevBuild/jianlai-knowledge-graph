@@ -1,0 +1,44 @@
+{
+  "name": "古砖砚台",
+  "original_name": "虞氏开国古砖砚",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此砚取材于具有数百年历史的开国古砖，虽曾被弃置于渡口地摊，实则承载了一国之文脉与地气，是陈 平安收集的文房珍玩之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第899章 邻居",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文房类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "于负山",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "取材于带有国祚龙气的开国古砖，随文运浸染可提升灵性 。",
+  "supernatural_ability": "由于取材自虞氏开国年号古砖，砚台自带一份稳固山河的厚重道意，适合辅助炼字修行 。",
+  "evolution": {
+    "current_form": "形制古朴、带有陈旧年号铭文的砖砚 。",
+    "materials_consumed": [
+      "虞氏国祚龙气",
+      "江底水运精华"
+    ],
+    "potential_evolution": "可配合其它龙宫遗留的墨锭，演化出文运异象 。"
+  },
+  "visual": {
+    "static": "外表粗粝，色泽深沉，底款铭刻有虞氏开国年号 。",
+    "active": "研磨时墨汁如镜，隐约可见山河轮廓与龙蛇游走之态 。"
+  },
+  "provenance": {
+    "origin": "旧虞氏王朝敕鳞江畔的采石衙署旧物 。",
+    "karma_link": "陈平安在墨线渡与负山道友“谈生意”时获得，是补齐文房家当的重要物件 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,43 @@
+{
+  "name": "玉漏",
+  "original_name": "玉漏",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陶烟波除了本命飞剑外随身悬佩的长剑。该剑出产自神秘的古蜀国遗迹，虽然不是本命飞剑，但杀 力依然不容小觑，具有浓厚的远古气息 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第821章 落魄山观礼正阳山",
+      "owner": "陶烟波"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陶烟波",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "古蜀国剑仙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为古遗迹重器，若经顶级铸剑师重新淬炼，可重回法宝级巅峰 。",
+  "supernatural_ability": "蕴含古蜀国的残余剑道气运，对同属古蜀地界的妖族有天然的压胜作用 。",
+  "evolution": {
+    "current_form": "佩剑实物",
+    "materials_consumed": [
+      "古蜀残金"
+    ],
+    "potential_evolution": "被大炼为本命辅助物"
+  },
+  "visual": {
+    "static": "剑身质地如玉，隐约有沙漏滴水之声在剑鞘内回荡 。",
+    "active": "挥动时剑气精准，一招一式皆有节奏感，仿佛在计算对手的死期。"
+  },
+  "provenance": {
+    "origin": "来自一处古蜀国遗迹 。",
+    "karma_link": "见证了正阳山对古蜀气运的收集与继承。"
+  },
+  "enriched": true
+}

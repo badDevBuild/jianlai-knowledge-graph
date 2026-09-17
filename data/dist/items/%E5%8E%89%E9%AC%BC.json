@@ -1,0 +1,47 @@
+{
+  "name": "厉鬼",
+  "original_name": "怨魂/阴物",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "指生前有大执念或惨死而魂魄不散的**灵体** 。在鬼蜮谷等地被聚拢炼化，陈平安曾通过**阎王殿**收拢此类阴物，为其完成遗愿 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1080章 天上雨下",
+      "owner": "豆蔻"
+    },
+    {
+      "chapter": "第1082章 下了场大雪",
+      "owner": "豆蔻"
+    },
+    {
+      "chapter": "第1119章 二十人与候补们（上）",
+      "owner": "豆蔻"
+    }
+  ],
+  "subtype": "魂魄类",
+  "holder": "鬼修/鬼蜮谷",
+  "holder_relation": "寄托",
+  "rank": "匠器",
+  "rank_potential": "吞噬阴气或金身碎片可演化为阴兵、鬼帅乃至鬼王 。",
+  "supernatural_ability": "能够产生煞气侵蚀生人体魄，执念深重者可自开法场 。",
+  "evolution": {
+    "current_form": "神识昏昧、带有暴虐气息的阴影或灵体 。",
+    "materials_consumed": [
+      "阴气",
+      "生人精血",
+      "怨念"
+    ],
+    "potential_evolution": "可炼化为守山英灵或作为傀儡、阎王殿的核心 。"
+  },
+  "visual": {
+    "static": "身形模糊，散发阴冷白雾或黑色瘴气 。",
+    "active": "显化真身时狰狞恐怖，常伴有凄厉哀号，能凝练为实体攻击 。"
+  },
+  "provenance": {
+    "origin": "古战场遗址、乱葬岗或如书简湖等杀业沉重之地 。",
+    "karma_link": "连接阴冥与阳间的受难生灵，常被用于缝衣人或鬼修的邪道修行 。"
+  },
+  "enriched": true
+}

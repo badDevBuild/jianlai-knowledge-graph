@@ -1,0 +1,51 @@
+{
+  "name": "骊珠洞天（珠子）",
+  "original_name": "小镇 / 龙穴 / 骊珠",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "损毁/转化",
+  "description": "它是**最后一条真龙的坠落处**，曾是数千年窑火不熄的龙窑重地 。其特殊的地理格局被用于压制真龙复生，并烧制影响孩童命运 的本命瓷 。",
+  "aliases": [
+    "破碎珠子",
+    "骊珠洞天（珠子）"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第68章 天下有春",
+      "owner": "齐静春（暂持）"
+    }
+  ],
+  "subtype": "位面类",
+  "holder": "大骊王朝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "曾持有"
+    },
+    {
+      "name": "最后一条真龙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "曾位列三十六小洞天之一，破碎后转化为福地并持续演化 。",
+  "supernatural_ability": "产出**本命瓷**，压胜一洲蛟龙气运。其核心“骊珠”曾是真龙的大 道显化 。",
+  "evolution": {
+    "current_form": "龙泉郡（福地）",
+    "materials_consumed": [
+      "真龙血肉气运",
+      "圣人坐镇心血"
+    ],
+    "potential_evolution": "重返洞天品秩"
+  },
+  "visual": {
+    "static": "表面为一处封闭的圆形盆地，四面环山，产出瓷器与蛇胆石 。",
+    "active": "破碎时金光冲天，展现出真龙衔珠、云海翻涌的宏大异象 。"
+  },
+  "provenance": {
+    "origin": "远古最后一条真龙陨落后，由三教圣人联手打造的压胜之地 。",
+    "karma_link": "陈平安的出生地，亦是多位大修士博弈的棋盘中心 。"
+  },
+  "enriched": true
+}

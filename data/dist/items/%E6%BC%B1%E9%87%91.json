@@ -1,0 +1,44 @@
+{
+  "name": "漱金",
+  "original_name": "漱金金砂 / 远古遗金",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是陈平安从各处秘境和战场搜集而来的珍稀金属材料 。在剑气长城和老龙城的多次炼物过程中，它起到了支 撑气府框架的重要作用 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第980章 也在心乡",
+      "owner": "刘茂"
+    }
+  ],
+  "subtype": "灵材/炼物类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "落宝滩/秘境",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为远古异兽吐出的金砂，其密度极高，是炼制金性本 命物或稳固法相的关键辅材 。",
+  "supernatural_ability": "蕴含精纯的金属神性，能够中和水火，增强本命气府的 坚韧程度 。",
+  "evolution": {
+    "current_form": "细微的金色碎砂，质地极重 。",
+    "materials_consumed": [
+      "地脉金精",
+      "神灵遗骸余韵"
+    ],
+    "potential_evolution": "可熔炼入“五彩金匮灶”，提升炼制成品的金性纯度 。"
+  },
+  "visual": {
+    "static": "细如米粒的金色砂砾，在阴影中亦能散发微弱光泽 。",
+    "active": "炼化时化作一滩流动不息、炽热如岩浆的液体金浆 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的奇特异兽或特定金矿脉 。",
+    "karma_link": "涉及陈平安构建“人身小天地”及“金生水”的五行循环架 构 。"
+  },
+  "enriched": true
+}

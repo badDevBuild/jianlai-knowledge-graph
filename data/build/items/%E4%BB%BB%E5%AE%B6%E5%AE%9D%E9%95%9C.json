@@ -1,0 +1,44 @@
+{
+  "name": "任家宝镜",
+  "original_name": "巫山镜 / 古铜梳妆镜",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此镜在陈平安构建的幻象天地中被视为真正的仙家福缘。它代表了旁门左道中极高层次的空间应用，是 能在生死一线磨砺修士心境的重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1101章 随手斩飞升",
+      "owner": "顾璨(目前在流霞舟上)"
+    }
+  ],
+  "subtype": "空间类 / 幻觉类",
+  "holder": "某位豪门女子 (幻象中)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "古老宗门",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为“山市”或特定秘境的遗留物，具备演化为独立小洞天的上限 。",
+  "supernatural_ability": "“云雨秘境”。镜内隐藏着一处特殊空间，既可作为旖旎香艳的温柔乡，也可作为研习玄妙道法的修行场 。",
+  "evolution": {
+    "current_form": "镜面古朴、镜柄刻有“巫山”古篆的青铜梳妆镜 。",
+    "materials_consumed": [
+      "云雨道韵",
+      "神魂碎片"
+    ],
+    "potential_evolution": "若能完全炼化，可成为掌控一方“山市”气运的枢纽 。"
+  },
+  "visual": {
+    "static": "外表是一把纤尘不染的古铜镜，质感温润，透着一股不俗的仙气 。",
+    "active": "激发后镜面如涟漪荡漾，会将持镜者吸入其中，现出重重楼阁异象 。"
+  },
+  "provenance": {
+    "origin": "实为仙家遗物，因缘际会下流落至凡俗街市 。",
+    "karma_link": "名为“巫山”，寓意云雨变幻与大道幽深，与持有者的情感及道心磨砺相关 。"
+  },
+  "enriched": true
+}

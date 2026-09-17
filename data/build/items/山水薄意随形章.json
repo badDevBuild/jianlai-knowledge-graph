@@ -1,0 +1,52 @@
+{
+  "name": "山水薄意随形章",
+  "original_name": "曾见青衫章",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "**一件融合了顶级石材与神级雕工的艺术重宝**。其印 文与边款寄托了陈平安对“剑仙风流”与“书生意气”的双 重追求 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第792章 仙人术法",
+      "owner": "林清 (赠予陈平安)"
+    },
+    {
+      "chapter": "第798章 一剑破万法",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "艺术/镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "林清",
+      "relation": "赠予者"
+    },
+    {
+      "name": "杨璇",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "因其材质产自老坑福地，若受山君封正，可直接镇压一 洲地脉 。",
+  "supernatural_ability": "刻有《溪山行旅图》，具备“穷尽幽微”之工，印文可引 动天地共鸣 。",
+  "evolution": {
+    "current_form": "老坑田黄材质，雕工细腻，入手极沉 。",
+    "materials_consumed": [
+      "老坑田黄石",
+      "大师雕工"
+    ],
+    "potential_evolution": "可作为构建陈平安“书房小天地”的核心压胜物 。"
+  },
+  "visual": {
+    "static": "色泽金黄如蜜，表面有细微的丝线纹路，背面刻有山水 意境 。",
+    "active": "钤印时会有青色剑光与读书声传出，显现出“曾见青衫” 的异象 。"
+  },
+  "provenance": {
+    "origin": "由老坑福地雕刻大师杨璇制作，渝州丘氏客卿林清赠予 陈平安 。",
+    "karma_link": "陈平安与中土神洲文人大家结下善缘的证明 。"
+  },
+  "enriched": true
+}

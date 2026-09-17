@@ -1,0 +1,44 @@
+{
+  "name": "天下青山",
+  "original_name": "蛮荒大岳青山 / 阵眼之山",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "“天下青山”是地缘政治与大道气运的交汇点，谁能掌控 青山，谁就握住了大地的脉搏 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1053章 有人说过",
+      "owner": "范峻茂"
+    }
+  ],
+  "subtype": "气运/山水类",
+  "holder": "文庙 / 蛮荒天下 (旧主)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古神灵",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为一洲山岳祖根，具有镇压天下气数、对抗“陆沉”的 终极潜能 。",
+  "supernatural_ability": "山势巍峨，天然聚拢方圆数千里的地脉灵气。其山志记 载着远古时代的山川真名 。",
+  "evolution": {
+    "current_form": "蛮荒天下的一座孤高大岳 。",
+    "materials_consumed": [
+      "万年香火",
+      "地脉龙气"
+    ],
+    "potential_evolution": "可演化为连接数座天下的“天柱” 。"
+  },
+  "visual": {
+    "static": "山色如黛，常年云雾缭绕，山巅有一座不迁之祖的祠庙 。",
+    "active": "震动时，整座天下的山岳都会与之产生共鸣，气势恢宏 。"
+  },
+  "provenance": {
+    "origin": "远古时代天地生成的祖山之一 。",
+    "karma_link": "涉及陈平安“剑开托月山”后，对蛮荒山河气运的重塑与 分割 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "香火",
+  "original_name": "众生愿力 / 祭祀之烟",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "神道运作的核心能量。通过“描金”与“封正”，香火可转化为稳固的金身。它是考核山水官场政绩的重要 标准 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1047章 梧桐更兼细雨",
+      "owner": "柳水"
+    }
+  ],
+  "subtype": "神道/资源类",
+  "holder": "山水正神",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "高纯度的“描金”香火可直接提升神灵位阶 。",
+  "supernatural_ability": "滋养神灵金身，帮助鬼物在阳间行走，亦可炼化为攻伐术法 , 。",
+  "evolution": {
+    "current_form": "缭绕在祠庙之中的银白色或淡金色烟雾 。",
+    "materials_consumed": [
+      "百姓虔诚心意",
+      "香火田收益"
+    ],
+    "potential_evolution": "汇聚成香火长河，成就神道不朽 。"
+  },
+  "visual": {
+    "static": "如细丝般游走的云气 。",
+    "active": "凝结为实质的金色沙粒，或形成宏大的神灵法相 。"
+  },
+  "provenance": {
+    "origin": "百姓的祭祀与祈祷 。",
+    "karma_link": "“香火情”是贯穿山下与山上的重要经济与情感纽带 。"
+  },
+  "enriched": true
+}

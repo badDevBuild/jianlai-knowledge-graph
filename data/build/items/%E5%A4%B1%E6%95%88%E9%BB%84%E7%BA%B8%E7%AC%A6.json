@@ -1,0 +1,40 @@
+{
+  "name": "失效黄纸符",
+  "original_name": "祛秽涤尘符残片 / 灵气殆尽符",
+  "type": "符箓",
+  "grade": "废品",
+  "status": "损毁",
+  "description": "陈平安由于性格谨慎节俭，并未丢弃这些废符，而是将它们收入方寸物“ 十五”中，作为功臣留念 。",
+  "aliases": [
+    "飞鹰堡门符"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第292章 小巷雨夜",
+      "owner": "飞鹰堡"
+    }
+  ],
+  "subtype": "杂项/纪念类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "基本无实战潜力，但作为“记账本”可承载画符者的心境感悟。",
+  "supernatural_ability": "无。原本具备的祛秽、吸收煞风功能已随灵气流失消失 。",
+  "evolution": {
+    "current_form": "灵气惨淡，几乎与寻常书籍纸张无异的泛黄旧符纸 。",
+    "materials_consumed": [
+      "时光磨损",
+      "灵气消耗"
+    ],
+    "potential_evolution": "无。仅作为陈平安修行的历史见证。"
+  },
+  "visual": {
+    "static": "纸张略显凹凸不平，原本鲜红的朱砂已变得灰暗 。",
+    "active": "即便注入气机也无法引发灵气共鸣，只能看到微弱的纤维纹路 。"
+  },
+  "provenance": {
+    "origin": "陈平安在走龙道渡船上练拳二十万次期间消耗而成 。",
+    "karma_link": "见证了陈平安在远游途中“练拳百万”的艰辛历程 。"
+  },
+  "enriched": true
+}

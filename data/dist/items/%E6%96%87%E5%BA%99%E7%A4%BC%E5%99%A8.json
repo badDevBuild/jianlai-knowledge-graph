@@ -1,0 +1,44 @@
+{
+  "name": "文庙礼器",
+  "original_name": "祭器 / 礼制重器",
+  "type": "灵物",
+  "grade": "礼器",
+  "status": "活跃",
+  "description": "茅小冬曾从大隋京城文庙“借取”大量礼器送往东华山， 帮助陈平安利用其中文运破开炼物关隘 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第764章 祖师堂内",
+      "owner": "落魄山"
+    }
+  ],
+  "subtype": "文运/镇压类",
+  "holder": "茅小冬 / 陈平安",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "大隋文庙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "汲取一国文运后可晋升为压胜妖邪的法宝 。",
+  "supernatural_ability": "蕴含极其浓郁的浩然气与文运，可用于辅助修士炼化“ 金性”本命物，或稳固书院小天地 。",
+  "evolution": {
+    "current_form": "包括香炉、简册、祭碗在内的一组文庙供奉器物 。",
+    "materials_consumed": [
+      "儒家文运",
+      "圣贤道韵"
+    ],
+    "potential_evolution": "可作为构建“书山学海”阵法的核心节点 。"
+  },
+  "visual": {
+    "static": "古朴凝重，即便不施展法力也自带一种让人心静的威严 。",
+    "active": "在炼物过程中，器物内的文运会化作金色文字流泻而出 ，映照山巅 。"
+  },
+  "provenance": {
+    "origin": "由中土文庙统一监制，分发各地书院学宫 。",
+    "karma_link": "是陈平安在东华山炼化第二件本命物“金色文胆”的关键 资粮 。"
+  },
+  "enriched": true
+}

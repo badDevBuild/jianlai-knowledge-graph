@@ -1,0 +1,38 @@
+{
+  "name": "龙脉",
+  "original_name": "龙脉 (本命飞剑)",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是宋幽微的本命飞剑之一。虽然常被戏称为“笑话”般的神通，但在惨烈的战场上，其提供的“法袍级 防御”却是实打实的保命底牌 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第912章 如此问剑",
+      "owner": "宋幽微"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "宋幽微",
+  "holder_relation": "大炼",
+  "rank": "灵器",
+  "rank_potential": "其防御属性在战场上具有极高的实用性，随着剑修境界提升，可演化为大阵 。",
+  "supernatural_ability": "能够为战场上陷入困境的剑修提供额外的防御，仿佛为其凭空披上一件法宝品秩的救命法袍 。",
+  "evolution": {
+    "current_form": "作为宋幽微两把本命飞剑之一，处于金丹级稳固期 。",
+    "materials_consumed": [
+      "地脉精金",
+      "沙场血气"
+    ],
+    "potential_evolution": "有望与“镀金”双剑合璧，形成绝对防御领域。"
+  },
+  "visual": {
+    "static": "藏于剑修气府中，显现出土黄色的浑厚剑气 。",
+    "active": "出剑后化作一道流光，落在友军身上，显化为一件金光四溢的能量铠甲 。"
+  },
+  "provenance": {
+    "origin": "由剑气长城本土剑修宋幽微本命孕育 。",
+    "karma_link": "在战场上多次救人于水火，象征着剑修之间同生共死的义气 。"
+  },
+  "enriched": true
+}

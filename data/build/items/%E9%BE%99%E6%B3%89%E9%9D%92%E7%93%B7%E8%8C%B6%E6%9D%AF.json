@@ -1,0 +1,44 @@
+{
+  "name": "龙泉青瓷茶杯",
+  "original_name": "梅子青茶盏 / 龙窑立件",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是骊珠洞天的特产，不仅是精美瓷器，更承载着小镇 窑工世代相传的手艺与坚韧 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第929章 与诸君借取千山万水（十）",
+      "owner": "杨花(待客用)"
+    }
+  ],
+  "subtype": "器皿/生活类",
+  "holder": "陈平安 / 大骊权贵",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宝溪窑",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽为民窑，但若得名师点睛或浸染仙家灵水，可升格为 灵器 。",
+  "supernatural_ability": "瓷质细腻，能极好地锁住灵茶的香气与药性，使饮者心 旷神怡 。",
+  "evolution": {
+    "current_form": "釉色梅子青，胎薄如纸，晶莹剔透 。",
+    "materials_consumed": [
+      "紫金土",
+      "龙须河水"
+    ],
+    "potential_evolution": "可演化为承载“本命瓷”碎片的容器 。"
+  },
+  "visual": {
+    "static": "釉面如雨过天青，触手如凝脂，带有自然的细微冰裂纹 。",
+    "active": "盛装灵水时，杯身会浮现淡淡的云气涟漪 。"
+  },
+  "provenance": {
+    "origin": "大骊龙泉郡宝溪窑老窑头亲手烧造 。",
+    "karma_link": "陈平安少年时期的学徒岁月，是其与“泥土”打交道的起 点 。"
+  },
+  "enriched": true
+}

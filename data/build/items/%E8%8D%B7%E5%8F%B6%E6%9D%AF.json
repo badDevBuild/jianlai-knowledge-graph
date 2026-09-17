@@ -1,0 +1,38 @@
+{
+  "name": "荷叶杯",
+  "original_name": "荷叶杯",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是青冥天下十四境女冠吾洲的标志性器物 。它不仅体现了其作为“天下第一炼师”的高超技艺，更折射出大修士在山巅之上的寂寥与洒脱 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第954章 心乡满桌",
+      "owner": "吾洲"
+    }
+  ],
+  "subtype": "辅助类 / 酒器",
+  "holder": "吾洲",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为十四境大修的随身雅物，蕴含浓厚的水德与草木生气，可作为洗练道心的载体 。",
+  "supernatural_ability": "自行酒水满溢。杯中仙酿源源不断，且酒香能舒缓修士神魂，辅助感悟大道 。",
+  "evolution": {
+    "current_form": "一只碧绿如新摘荷叶、水润剔透的精致杯盏 。",
+    "materials_consumed": [
+      "太阴月魄",
+      "大渎水精"
+    ],
+    "potential_evolution": "可演化为容纳一方湖泊水运的顶级储能法宝。"
+  },
+  "visual": {
+    "static": "色泽如雨过天青，杯缘呈现自然卷曲的荷叶边缘状，触之生温 。",
+    "active": "饮酒时杯内会浮现出微型荷塘异象，酒液荡漾间如有神灵在其间行走 。"
+  },
+  "provenance": {
+    "origin": "产自青冥天下，与吾洲“万物可炼”的合道之路密切相关 。",
+    "karma_link": "见证了吾洲在藕神祠等地的修行岁月，是其超然心态的体现 。"
+  },
+  "enriched": true
+}

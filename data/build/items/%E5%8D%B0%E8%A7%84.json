@@ -1,0 +1,44 @@
+{
+  "name": "印规",
+  "original_name": "老檀木印规",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安赠送给高野侯的定宅之宝。它象征着飞升城泉府办事“合情合理、循规蹈矩”的原则，是落魄 山家底中极具象征意义的礼器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第914章 一张桌子",
+      "owner": "高野侯(陈平安赠)"
+    }
+  ],
+  "subtype": "辅助类 / 礼器",
+  "holder": "高野侯",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽在山上估值不高，但其承载的规矩真意具有稳固山头气运的长远影响 。",
+  "supernatural_ability": "“循规蹈矩”。能够辅助持有人在管理庶务与篆刻印章时心境平和，定下规矩之基 。",
+  "evolution": {
+    "current_form": "老檀木材质的曲尺状木片 。",
+    "materials_consumed": [
+      "千年文气",
+      "法家道韵"
+    ],
+    "potential_evolution": "若长期受一洲山水气运熏染，可进化为能够制定小天地律法的重器。"
+  },
+  "visual": {
+    "static": "古朴的老檀木材质，造型为古怪的曲尺状，其上刻有“循规蹈矩”等铭文 。",
+    "active": "当主事者处理泉府账目时，印规会散发出淡淡的檀香，使四周气场变得肃穆有序 。"
+  },
+  "provenance": {
+    "origin": "陈平安私人珍藏多年的文房古物 。",
+    "karma_link": "作为泉府建立的礼物赠予高野侯，寓意飞升城财政管理的“规矩” 。"
+  },
+  "enriched": true
+}

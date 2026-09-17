@@ -1,0 +1,48 @@
+{
+  "name": "春宫图",
+  "original_name": "剥落山神仙图 / 人间美艳篇",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这在《剑来》世界中不仅是艳俗之物，更是承载了特定 修道法门（如彩炼术）的媒介。在陈平安眼中多为需要 收缴的腌臜物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第992章 邀请函",
+      "owner": "狐国"
+    }
+  ],
+  "subtype": "艺术/修行类",
+  "holder": "陈平安 (收缴) / 沛湘",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "避暑娘娘",
+      "relation": "原主"
+    },
+    {
+      "name": "敬仰楼",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "若为真迹，其中蕴含的“房中术”可助妖物或邪修突破金 丹瓶颈 。",
+  "supernatural_ability": "画中男女动态如生，通过“想象”和“回响”神通，能让观 者陷入粉色迷障或感悟阴阳之道 。",
+  "evolution": {
+    "current_form": "巨幅壁画或硬黄本字画卷轴 。",
+    "materials_consumed": [
+      "众生欲望",
+      "月魄精华"
+    ],
+    "potential_evolution": "可演化为“风流帐”或“温柔乡”等空间类法宝 。"
+  },
+  "visual": {
+    "static": "画面设色艳丽，人物线条极其优美且大胆，配有各类咏 美诗词 。",
+    "active": "开启时产生粉色雾霭，画中人物会逐渐走出卷轴，诱人 心神 。"
+  },
+  "provenance": {
+    "origin": "源自剥落山广寒殿避暑娘娘的闺房，由敬仰楼搜集整理 。",
+    "karma_link": "常被朱敛作为“不务正业”的借口，实则涉及合欢山等地 的邪道因果 。"
+  },
+  "enriched": true
+}

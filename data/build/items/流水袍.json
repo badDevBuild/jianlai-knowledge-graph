@@ -1,0 +1,44 @@
+{
+  "name": "流水袍",
+  "original_name": "仙家法袍",
+  "type": "法宝",
+  "grade": "半仙兵",
+  "status": "损毁",
+  "description": "一种高端仙家衣物。顶级的流水法袍如“金翠城”出品，能通过“水路分阴阳”使修行事半功倍 。陈平安曾持有类似的“金醴”法袍，后通过喂食金精铜钱升至仙兵品秩 。",
+  "aliases": [
+    "流水袍"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第114章 再见阿良",
+      "owner": "宋长镜"
+    },
+    {
+      "chapter": "第115章 人间有个老秀才（上）",
+      "owner": "宋长镜"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "高阶修士",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "视材质而定，顶级法袍如“金醴”可成长为仙兵 。",
+  "supernatural_ability": "具有半透明感与流动性，自带微光，能自动缝补破损 。",
+  "evolution": {
+    "current_form": "如云雾缭绕、水纹涟漪流转的衣物 。",
+    "materials_consumed": [
+      "灵气",
+      "金精铜钱 (针对特定升级)"
+    ],
+    "potential_evolution": "可达到“水路分阴阳”之境，让修士日夜皆可炼气 。"
+  },
+  "visual": {
+    "static": "材质丝滑流光，褶皱柔和流畅，质感介于云雾与丝绸之间 。",
+    "active": "流溢出五彩云箓的雾霭，如同披挂一幅彩绘山水画卷 。"
+  },
+  "provenance": {
+    "origin": "多出自彩雀府、老君巷或金翠城等炼造名地 。",
+    "karma_link": "象征修士的阶层与大道理念的映射 。"
+  },
+  "enriched": true
+}

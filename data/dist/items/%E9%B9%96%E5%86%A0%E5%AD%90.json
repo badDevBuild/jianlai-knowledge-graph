@@ -1,0 +1,44 @@
+{
+  "name": "鹖冠子",
+  "original_name": "黄花观秘藏《鹖冠子》",
+  "type": "典籍",
+  "grade": "珍品",
+  "status": "活跃",
+  "description": "陈平安极为推崇的古籍，他在其中悟出了“人一能之己 百之”的坚毅道理，并借此了解阴阳家陆氏的学问脉络 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第759章 递剑接剑与问剑",
+      "owner": "刘茂 (暂存)"
+    }
+  ],
+  "subtype": "天文/哲学类",
+  "holder": "陈平安 (从黄花观借阅)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘茂 (龙洲道人)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "内含“天地人事，三者复一”的合道真理，是解析蛮荒天 下的重要参考 。",
+  "supernatural_ability": "包含度量篇、泰鸿篇在内的多篇古老真解，可辅助推演 天象列星之变 。",
+  "evolution": {
+    "current_form": "一本装帧考究、多有先贤批注的古籍 。",
+    "materials_consumed": [
+      "上古道韵",
+      "大泉文气"
+    ],
+    "potential_evolution": "其中的“夜行篇”字句可化为真实的虚空行道步法 。"
+  },
+  "visual": {
+    "static": "封面古旧，纸张带有淡淡的药香味，文字清朗 。",
+    "active": "研读时字里行间有星光闪动，显现出天地经纬之气象 。"
+  },
+  "provenance": {
+    "origin": "大泉王朝蜃景城黄花观的镇观之宝 。",
+    "karma_link": "陈平安因在黄花观与刘茂的这场“缘分”而得此书 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,43 @@
+{
+  "name": "日光月辉连弧镜",
+  "original_name": "日月光大明镜",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是骊珠洞天内一件极其特殊的“照妖镜”。它见证了小镇三千年的阴阳流转，虽然外表平凡，却是所有 照妖镜类法器的源头级宝物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第451章 过桥",
+      "owner": "马笃宜"
+    }
+  ],
+  "subtype": "压胜类 / 照妖类",
+  "holder": "某小镇居民",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "无名高人",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "被誉为“照妖镜里的老祖宗”，具备极高的位阶压制力 。",
+  "supernatural_ability": "能够照破世间一切妖魔邪祟，使其显出真身，具有极强的辟邪功能 。",
+  "evolution": {
+    "current_form": "一把带有云雷连弧纹的青铜小镜 。",
+    "materials_consumed": [
+      "日月精华"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "镜面光洁，背面饰有云雷连弧纹路，边缘刻有“日月之光，天下大明”八字 。",
+    "active": "触发时金光与月华交织，令观者眼眸生疼，邪祟不敢近身 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天内深藏的古老机缘之一 。",
+    "karma_link": "曾长期镶嵌在一条破败小巷的门墙之上，后被一名有缘人取走 。"
+  },
+  "enriched": true
+}

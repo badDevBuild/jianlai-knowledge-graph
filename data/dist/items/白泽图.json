@@ -1,0 +1,50 @@
+{
+  "name": "白泽图",
+  "original_name": "搜山图",
+  "type": "典籍",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "白泽图是记载天下精怪、大妖底细的绝密档案。它是文庙能够制定山河禁忌、约束妖族的根本依仗 [16-18]。",
+  "aliases": [
+    "白泽图"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第214章 风雨夜行",
+      "owner": "张山(赠予陈平安)"
+    }
+  ],
+  "subtype": "传承类 / 监测类",
+  "holder": "中土文庙",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "白泽",
+      "relation": "原主"
+    },
+    {
+      "name": "老秀才",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为记录天下精怪根脚的图谱，其内容随世间大妖生灭而变动 。",
+  "supernatural_ability": "“识破真名”。记载了所有大妖的真名与大道根脚，是压胜妖族的终极重器 。",
+  "evolution": {
+    "current_form": "记载详实的画卷或典籍 。",
+    "materials_consumed": [
+      "白泽之才",
+      "天下精怪之气运"
+    ],
+    "potential_evolution": "可配合九鼎镇压一洲山河气运 。"
+  },
+  "visual": {
+    "static": "看起来是幅古旧的画卷，上绘千百种山精鬼怪，气象森严 。",
+    "active": "展开时宝光流转，能够显化大妖本相，让妖邪无所遁形 。"
+  },
+  "provenance": {
+    "origin": "由远古十豪候补白泽亲手搜集并编写 。",
+    "karma_link": "是礼圣与白泽联手制定人间规矩的产物 。"
+  },
+  "enriched": true
+}

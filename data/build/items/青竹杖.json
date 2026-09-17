@@ -1,0 +1,48 @@
+{
+  "name": "青竹杖",
+  "original_name": "行气铭绿竹杖",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这根竹杖是吴霜降赠予崔东山的顶级法宝，蕴含了极其强悍的攻伐神通 。杖身刻有的“行气铭”是辈分极高的古老道诀，具有极高的研究与实战价值 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第778章 谈笑中",
+      "owner": "吴霜降"
+    },
+    {
+      "chapter": "第1084章 高两境",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类 / 辅助类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为仙杖山祖师秘术的集大成载体，具备演化为上古真龙战力的潜质 。",
+  "supernatural_ability": "“绿竹化龙”。能幻化为一条真龙，一爪即可抓碎山岳，一尾可扫断江河 。杖首嵌有记载远古道诀的青玉 。",
+  "evolution": {
+    "current_form": "古意苍苍、装饰有青玉杖首的青竹杖 。",
+    "materials_consumed": [
+      "仙杖山秘法",
+      "远古真龙气息"
+    ],
+    "potential_evolution": "崔东山计划将其赠予弟子柴芜，配合其武道破境 。"
+  },
+  "visual": {
+    "static": "竹身古朴，杖首装饰有青玉，玉色苍翠欲滴 。",
+    "active": "激发后竹杖会扭曲身躯，瞬间膨胀为一条巨大的龙，龙鳞熠熠生辉 。"
+  },
+  "provenance": {
+    "origin": "吴霜降在夜航船条目城赠予崔东山的见面礼 。",
+    "karma_link": "承载了仙杖山的祖师秘术，是吴霜降与崔东山（及绣虎）博弈后的赠物 。"
+  },
+  "enriched": true
+}

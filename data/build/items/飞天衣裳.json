@@ -1,0 +1,44 @@
+{
+  "name": "飞天衣裳",
+  "original_name": "白红双色灵衣",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一种极其罕见的灵异服饰。它能脱离人体在空中长期悬浮盘旋，常被误认为是神女降世或艳鬼作祟 ，具有极强的视觉辨识度 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第311章 人外有人",
+      "owner": "未知"
+    }
+  ],
+  "subtype": "灵异类 / 防御类",
+  "holder": "未知（出现在鬼宅遗址）",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "鬼宅主人",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为极具灵性的服饰类宝物，具备在空中自动盘旋并抵御阴气侵袭的潜质 。",
+  "supernatural_ability": "能够在空中萦绕回旋且不落地，自带某种轻灵飘渺的障眼法与灵动气机 。",
+  "evolution": {
+    "current_form": "白、红两件在空中萦绕不落的衣裳 。",
+    "materials_consumed": [
+      "阴气精华",
+      "幻术道韵"
+    ],
+    "potential_evolution": "若被女修祭炼，可成为飞天法袍的一部分。"
+  },
+  "visual": {
+    "static": "色彩明艳，丝织工艺精湛，如同敦煌壁画上的飞天服饰 。",
+    "active": "在月夜下于闺阁楼外萦绕飞舞，不沾尘土，灵气流转间如有人形隐现 。"
+  },
+  "provenance": {
+    "origin": "出现在一处赶考书生夜游的鬼宅废墟中 。",
+    "karma_link": "与福地内的灵异传闻相关，是老厨子朱敛通过“镜花水月”观察到的奇景之一 。"
+  },
+  "enriched": true
+}

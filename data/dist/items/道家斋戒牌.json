@@ -1,0 +1,43 @@
+{
+  "name": "道家斋戒牌",
+  "original_name": "虬角云纹斋戒牌 / 斋心牌",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一件半仙兵品秩的重宝，虽破碎有缺，但道意极高 。陈平安将其炼化后用来镇压木属气府 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第569章 山主又要远游",
+      "owner": "姜尚真"
+    }
+  ],
+  "subtype": "修心/防御类",
+  "holder": "陈平安",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "黄师 (武夫)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "承载着仙兵道意，对对抗外魔有奇效 。",
+  "supernatural_ability": "让修道之人“眼见影子，得见本心”，抵御天魔 。",
+  "evolution": {
+    "current_form": "刻有“心”字的玉质或雷击木牌 。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "老观主建议中炼入木宅，可辅助稳固心境 。"
+  },
+  "visual": {
+    "static": "正面篆刻“心”字，反面刻有“田边沟渠幽濛胧，门扉日月荡精魄” 。",
+    "active": "激发时散发温润道光，映照修士识海 。"
+  },
+  "provenance": {
+    "origin": "陈平安在访山寻宝过程中由武夫黄师赠予 。",
+    "karma_link": "属于上古道门斋心一脉的遗物 。"
+  },
+  "enriched": true
+}

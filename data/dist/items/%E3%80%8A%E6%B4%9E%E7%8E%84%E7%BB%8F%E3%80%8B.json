@@ -1,0 +1,35 @@
+{
+  "name": "《洞玄经》",
+  "original_name": "道法之纲纪",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "《洞玄经》是道门中至高无上的经典之一，其地位超然，代表了道教法脉的正统与规矩 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第199章 黄雀去又返",
+      "owner": "神诰宗上宗"
+    }
+  ],
+  "subtype": "道经类",
+  "holder": "神诰宗中土上宗",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为道门核心巨著，拥有统摄诸法的地位，具有极高的道统意义 。",
+  "supernatural_ability": "被誉为“道法之纲纪”，是道家修行与律法的重要参考 。",
+  "evolution": {
+    "current_form": "道教巨著 。",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "珍贵异常的道教典籍，通常由专门的“掌书真人”管理 。",
+    "active": "未知"
+  },
+  "provenance": {
+    "origin": "源自中土神洲的道教大宗门（神诰宗上宗） 。",
+    "karma_link": "神诰宗天君祁真曾举荐其师弟（李希圣）前往中土上宗担任掌书真人 。"
+  },
+  "enriched": true
+}

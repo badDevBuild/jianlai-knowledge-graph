@@ -1,0 +1,50 @@
+{
+  "name": "长檠",
+  "original_name": "壁画神女",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "**披麻宗壁画城传说中的神女之一**。曾长久栖息于地宫壁画中，后选择离开壁画追随主人。她不仅是 极美的视觉存在，更是具备实战能力的灵物护卫 。",
+  "aliases": [
+    "长檠"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第234章 夜宿古寺有妖气",
+      "owner": "陈平安(拾取)"
+    },
+    {
+      "chapter": "第486章 不愧是老江湖",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "守护类 / 辅助类",
+  "holder": "未知（已离开壁画）",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "披麻宗壁画城",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为拥有独立灵智的壁画精魅，随主人的境界提升而增强，具备进化为高位神灵护法的潜质 。",
+  "supernatural_ability": "**“照耀幽明”**。手持长杆金色荷花灯，具备破除迷障、指引神魂之能，亦能作为战斗护法现身 。",
+  "evolution": {
+    "current_form": "已离开壁画、具备独立人形的灵体精魅 。",
+    "materials_consumed": [
+      "上古壁画灵气",
+      "主人精血温养"
+    ],
+    "potential_evolution": "可作为长期伴随主人的得道剑侍或神女护法 。"
+  },
+  "visual": {
+    "static": "原为壁画城地宫中的精美彩绘神女像 。",
+    "active": "现身时身姿曼妙，手持长杆金色荷花灯，身披彩带，周身散发柔和宝光 。"
+  },
+  "provenance": {
+    "origin": "源自骸骨滩披麻宗壁画城的远古地宫 。",
+    "karma_link": "属于“走出壁画”的九位神女之一，与披麻宗及选中其的主人有着深厚宿缘 。"
+  },
+  "enriched": true
+}

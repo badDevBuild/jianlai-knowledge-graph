@@ -1,0 +1,47 @@
+{
+  "name": "木头傀儡",
+  "original_name": "彩绘木偶",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这只傀儡是李槐在棋墩山获得的大道机缘之一 。虽然体型小巧，但在修行者眼中是一件极佳的**灵性器物** 。它曾长期“居住”在李宝瓶的**绿竹小书箱**内，见证了少年 们的求学之路 。",
+  "aliases": [
+    "木人",
+    "木人桩",
+    "木头傀儡"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第36章 古书",
+      "owner": "宋集薪/稚圭"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为具备灵性的仙家造物，可随持有者气运而生发神异 。",
+  "supernatural_ability": "具备初级灵智，可作为机关傀儡进行简单的日常互动 。",
+  "evolution": {
+    "current_form": "手掌长短的彩绘木偶",
+    "materials_consumed": [
+      "天地灵气"
+    ],
+    "potential_evolution": "高级墨家机关傀儡"
+  },
+  "visual": {
+    "static": "做工精美绝伦、栩栩如生的**手掌长短彩绘木偶** 。",
+    "active": "能够进行灵活的动作，眼神灵动 。"
+  },
+  "provenance": {
+    "origin": "由棋墩山土地爷魏檗从百宝阁中取出的珍藏之物 。",
+    "karma_link": "李槐对其一见钟情，成为其远游路上的重要伙伴 。"
+  },
+  "enriched": true
+}

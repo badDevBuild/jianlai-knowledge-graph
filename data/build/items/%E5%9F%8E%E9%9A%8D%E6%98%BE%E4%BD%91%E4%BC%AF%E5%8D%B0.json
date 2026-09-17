@@ -1,0 +1,52 @@
+{
+  "name": "城隍显佑伯印",
+  "original_name": "胭脂郡城隍印",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**城隍显佑伯印是道教正统的镇守法印**。其品秩极高，具备“神器唯有德者持之”的大道因果，在对抗 胭脂郡妖邪入侵的过程中发挥了定海神针般的作用 。",
+  "aliases": [
+    "彩衣国胭脂郡城隍显佑伯印",
+    "精铁官印",
+    "城隍显佑伯印"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第230章 下 黑云压城",
+      "owner": "未知 (失踪)"
+    }
+  ],
+  "subtype": "压胜/雷法类",
+  "holder": "张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "沈温",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为天师府大天师手笔，配合五雷正法可镇压整座大洲的幽冥邪祟 。",
+  "supernatural_ability": "蕴含浩荡天威，能压胜山川邪祟，庇护一郡风水。配合雷法时可召唤天雷，破除万般邪法 。",
+  "evolution": {
+    "current_form": "龙虎山天师亲自篆刻的法印 。",
+    "materials_consumed": [
+      "大天师精元",
+      "三百年香火"
+    ],
+    "potential_evolution": "可成为统摄一地神道秩序的核心重器。"
+  },
+  "visual": {
+    "static": "法印由精铁铸造（外表），实则内蕴紫金神光，印文为龙虎山秘传 。",
+    "active": "祭出时伴有宏大的雷鸣声，金光照彻阴晦，令鬼魅不敢直视 。"
+  },
+  "provenance": {
+    "origin": "由龙虎山天师府某代大天师亲自篆刻赐予彩衣国 。",
+    "karma_link": "沈温死前将其赠给有德之人陈平安，后转至张山峰手中 。"
+  },
+  "enriched": true
+}

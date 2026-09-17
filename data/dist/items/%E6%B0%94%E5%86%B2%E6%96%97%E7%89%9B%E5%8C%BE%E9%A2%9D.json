@@ -1,0 +1,47 @@
+{
+  "name": "气冲斗牛匾额",
+  "original_name": "小镇牌坊匾额",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "位于小镇牌坊上。宁姚曾在此领悟剑道，齐静春曾将其中的‘冲’‘ 斗’二字道意敕入宁姚佩剑中，导致匾额精气神大损 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第14章 五月初五",
+      "owner": "小镇牌坊"
+    },
+    {
+      "chapter": "第58章 先生",
+      "owner": "无"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "骊珠洞天 (牌坊)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "原本蕴含宝瓶洲极高的剑道气数，被摘取文字后品秩大幅下降 。",
+  "supernatural_ability": "蕴含**浩荡剑意与文运气数**，可用于砥砺剑修心境或加持飞剑 。",
+  "evolution": {
+    "current_form": "文字精神黯淡的石刻匾额",
+    "materials_consumed": [
+      "剑道气数 (流失)"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "位于十二脚牌坊一面，行楷书写，神韵恣意妄为 。",
+    "active": "被敕令时会绽放出刺眼光芒，其中‘冲’‘斗’二字曾化为金光融入飞 剑 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天入口牌坊的组成部分 。",
+    "karma_link": "作为小镇的“规矩”之一，承载了一洲剑道的兴衰因果 。"
+  },
+  "enriched": true
+}

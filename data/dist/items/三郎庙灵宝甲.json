@@ -1,0 +1,56 @@
+{
+  "name": "三郎庙灵宝甲",
+  "original_name": "灵宝护甲 / 三郎庙甲胄",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "名动天下的护身重宝，与恨剑山仿剑、佛光寺袈裟齐名，在剑修众多的北俱芦洲极受欢迎 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第812章 登山",
+      "owner": "崔公壮 (后被陈平安缴获)"
+    },
+    {
+      "chapter": "第813章 饮者",
+      "owner": "陈平安 (原属崔公壮)"
+    },
+    {
+      "chapter": "第978章 今日无事",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "北俱芦洲及宝瓶洲地仙",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三郎庙",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为北俱芦洲防御甲胄之首，若得地仙心血温养，防御力可直追半仙兵 。",
+  "supernatural_ability": "能够抵御上五境修士，尤其是剑修飞剑的剧烈冲击，是练气士的救命底牌 。",
+  "evolution": {
+    "current_form": "铸造精良的金属甲胄，常带有三郎庙特定炼师的落款 。",
+    "materials_consumed": [
+      "精炼五金",
+      "符箓加持"
+    ],
+    "potential_evolution": "可作为兵家甲丸的基底进行再次精炼 。"
+  },
+  "visual": {
+    "static": "通体流溢灵光，质感坚固而轻盈，护心镜处尤为明亮 。",
+    "active": "穿戴者周身泛起防御涟漪，可抵消绝大部分针对神魂与体魄的术法伤害 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲最大的兵器铺子——三郎庙 。",
+    "karma_link": "刘景龙曾亲自前往三郎庙为陈平安购置此类宝甲，送予落魄山弟子 。"
+  },
+  "enriched": true
+}

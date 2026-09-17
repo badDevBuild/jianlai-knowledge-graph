@@ -1,0 +1,37 @@
+{
+  "name": "《快哉亭棋谱》",
+  "original_name": "蒋龙骧棋谱",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是溪庐先生的成名之作，广泛流传于各大王朝的庙堂与书院 。林君璧与玄参等年轻才俊常以此书作为博弈参考 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第609章 唯恐大梦一场",
+      "owner": "溪庐先生(作者)"
+    }
+  ],
+  "subtype": "棋道/算筹类",
+  "holder": "邵元王朝/溪庐先生",
+  "holder_relation": "寄托",
+  "rank": "重器",
+  "rank_potential": "作为邵元王朝的文教重宝，其文运影响力跨越数洲 。",
+  "supernatural_ability": "包含诸多神仙手与无理手，能助修士勘破心魔迷障 。",
+  "evolution": {
+    "current_form": "官刻本典籍 。",
+    "materials_consumed": [
+      "白帝城彩云子真意"
+    ],
+    "potential_evolution": "可配合“彩云谱”形成完整的阴阳弈棋道统 。"
+  },
+  "visual": {
+    "static": "版刻严谨，多有大修士的朱笔批注 。",
+    "active": "阅读时棋子敲击声不绝于耳，如在耳畔指点江山 。"
+  },
+  "provenance": {
+    "origin": "中土邵元王朝 。",
+    "karma_link": "陈平安曾在避暑行宫闲暇时翻阅此类术算专著，对蒋龙骧刮目相看 。"
+  },
+  "enriched": true
+}

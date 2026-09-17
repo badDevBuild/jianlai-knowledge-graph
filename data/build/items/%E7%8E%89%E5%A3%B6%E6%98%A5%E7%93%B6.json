@@ -1,0 +1,37 @@
+{
+  "name": "玉壶春瓶",
+  "original_name": "灵器瓷瓶",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是鬼蜮谷中练气士常用的法器，多被用来在至阴之地收集灵气。对于修行阴冥之法的修士而言，是极 其便捷的辅助工具。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第490章 肤腻城的下马威",
+      "owner": "老修士"
+    }
+  ],
+  "subtype": "收集/滋养类",
+  "holder": "老修士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "通过持续收集精纯阴气，可提升内部灵水品格。",
+  "supernatural_ability": "能从天地间聚拢、采撷纯粹的阴气，并将其凝聚为一粒如粟米大小的灵气水珠。",
+  "evolution": {
+    "current_form": "瓷制小瓶。",
+    "materials_consumed": [
+      "天地阴气"
+    ],
+    "potential_evolution": "若能长期温养，有望孕育出更高品阶的阴冥之水。"
+  },
+  "visual": {
+    "static": "形制曼妙，曲线如同女子身段，质地通透。",
+    "active": "瓶口处会产生吸力，牵引四周阴气汇聚，并悬浮有灵光水珠。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲鬼蜮谷及周边地界。",
+    "karma_link": "常为精于鬼道、需要纯净阴气滋养魂魄或法器的练气士持有。"
+  },
+  "enriched": true
+}

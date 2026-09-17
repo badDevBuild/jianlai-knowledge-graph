@@ -1,0 +1,48 @@
+{
+  "name": "蛮荒地理图",
+  "original_name": "远古三山四海五嶽十渎图",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此图不仅是地理记录，更是蛮荒天下军帐调度、围困剑 仙的核心战术依据。它承载了远古神道对地理秩序的绝 对掌控力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1195章 定场诗",
+      "owner": "郭渡"
+    }
+  ],
+  "subtype": "地图/阵图类",
+  "holder": "绶臣",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "原主"
+    },
+    {
+      "name": "周密",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为周密赐予弟子绶臣的重宝，其不仅记录了蛮荒版图 ，更蕴含远古三山正宗态势，具备演化为“剑冢”的潜力 。",
+  "supernatural_ability": "图中三山分别职掌阴阳造化、五行之属，定生死之期、 长短之事，主星象分野，兼管水裔鱼龙之命 。",
+  "evolution": {
+    "current_form": "绘于剑匣之上的远古阵图 。",
+    "materials_consumed": [
+      "远古神性道韵",
+      "三山真形图意"
+    ],
+    "potential_evolution": "经周密炼化后可成为能温养九把飞剑、孕育九种神通的 “剑冢” 。"
+  },
+  "visual": {
+    "static": "绘刻在剑匣表面的复杂宏大地图，展现出神人尸坐、山 野猿行、云隐龙飞的古老山川态势 。",
+    "active": "激活时图景中的山川河岳产生真实气压，可压制进入阵 中的外来气机，并引导飞剑精准杀敌 。"
+  },
+  "provenance": {
+    "origin": "最早由万法宗师三山九侯先生铸造而成，后流落至周密 手中 。",
+    "karma_link": "见证了蛮荒天下对浩然山川法则的复刻与对抗 。"
+  },
+  "enriched": true
+}

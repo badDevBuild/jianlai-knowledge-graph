@@ -1,0 +1,50 @@
+{
+  "name": "木弓",
+  "original_name": "云梦长松",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "此弓绝非凡物，其名**“云梦长松”**。它不仅是陈平安的一件强大神兵，更是开启一座未曾现世的远古 洞天之契机，是典型的“烫手山芋”级重宝 。",
+  "aliases": [
+    "木弓"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第48章 放纸鸢",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第51章 对峙",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "权柄类 / 攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "张三 (虬髯客)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古遗迹的关联重器，其威力取决于持弓者的体魄强度与大道契合度 。",
+  "supernatural_ability": "“秘境之钥”。该弓是开启某处无人涉足的远古洞天遗址的唯一钥匙，本身具有射落高位大妖的潜力 。",
+  "evolution": {
+    "current_form": "一把看起来材质古朴、实则神华内敛的木质长弓 。",
+    "materials_consumed": [
+      "云梦神木",
+      "远古气韵"
+    ],
+    "potential_evolution": "一旦大炼并与持弓者神魂融合，可化为掌控一处洞天的绝对权柄 。"
+  },
+  "visual": {
+    "static": "弓身呈现出类似松木的自然纹理，触手沉重且带有淡淡的草木清香 。",
+    "active": "拉满弓时有风雷声随之而起，仿佛能牵动一方天地的灵气汇聚为箭 。"
+  },
+  "provenance": {
+    "origin": "陈平安于夜航船条目城，从化名张三的虬髯客手中交换所得 。",
+    "karma_link": "连接着远古天庭的射官职守与后世秘境的开启因果 。"
+  },
+  "enriched": true
+}

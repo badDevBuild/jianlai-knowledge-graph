@@ -1,0 +1,38 @@
+{
+  "name": "青蓑衣",
+  "original_name": "避雨蓑衣",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "**青蓑衣是《剑来》中“野修美学”的视觉具象** 。它承载了陈平安在北俱芦洲期间“步步为营、低调行事”的处世智慧 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第468章 御剑去往祖师堂",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "隐匿类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "在大修士手中可演化为隔绝神识窥探的“欺天衣”。",
+  "supernatural_ability": "配合面皮使用，可有效掩盖修士的真实气息，是山泽野修隐匿行踪的标 配 。",
+  "evolution": {
+    "current_form": "寻常材质编织的青色蓑衣，常与斗笠配套使用 。",
+    "materials_consumed": [
+      "凡俗草料",
+      "微量灵气"
+    ],
+    "potential_evolution": "若浸染上古大妖精血，可进化为具备隐身神通的法衣。"
+  },
+  "visual": {
+    "static": "看起来粗糙厚重，散发着草木干枯后的沉郁气息 。",
+    "active": "在雨幕中行走时，雨水会被气机弹开，使穿着者身形模糊 。"
+  },
+  "provenance": {
+    "origin": "产自宝瓶洲或北俱芦洲的山下市井 。",
+    "karma_link": "陈平安多次利用其伪装成普通刀客或野修，游历于云上城等是非之地 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "双泉酒",
+  "original_name": "人间第二泉酒",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "消耗",
+  "description": "这是青萍剑宗扬名一洲的灵物，象征着下宗在桐叶洲的 生机与待客之道 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1050章 酒桌之上无敌手",
+      "owner": "无"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "陈平安 / 仙都山",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随仙都山水脉兴盛，可成为远近闻名的仙家贡酒。",
+  "supernatural_ability": "取自“人间第二泉”清泉酿造，具有洗涤灵气杂质、清润 气府的功效 。",
+  "evolution": {
+    "current_form": "以仙都山溪涧水酿制的醇酒 。",
+    "materials_consumed": [
+      "仙都山泉水",
+      "灵谷"
+    ],
+    "potential_evolution": "若浸入“酒虫”，可演化为助人破境的“道露” 。"
+  },
+  "visual": {
+    "static": "酒液清冽，散发着草木与泉水的双重清香 。",
+    "active": "饮用后，修士周身会出现淡淡的月色涟漪。"
+  },
+  "provenance": {
+    "origin": "由陈平安在仙都山开辟水脉后亲自定名 。",
+    "karma_link": "寓意“天上团圆月，人间第二泉”，承载了下宗的山水气 象 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,53 @@
+{
+  "name": "斗鸡杯",
+  "original_name": "市井酒杯",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安在游历途中购买的一只**普通酒杯**。 虽然不值钱，但它是陈平安远游途中为数不多的**额外花销**，被他视为自己江湖生涯的一份纪念。 在倒悬山宁府时，他曾将其作为自己的**江湖家当**展示给宁姚看。",
+  "aliases": [
+    "斗鸡杯"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第215章 画眉",
+      "owner": "刘臻/楚姓书生"
+    },
+    {
+      "chapter": "第249章 姹紫嫣红开遍",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第295章 远望",
+      "owner": "待收集"
+    }
+  ],
+  "subtype": "生活器具类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "梳水国渡口商铺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为凡俗物品无直接增长潜力，但承载了陈平安的江湖履历。",
+  "supernatural_ability": "无特殊神通，仅用于日常饮酒。",
+  "evolution": {
+    "current_form": "寻常的陶瓷酒杯。",
+    "materials_consumed": [
+      "无"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "一只带有斗鸡图案的彩色瓷杯。",
+    "active": "盛酒时平平无奇，是陈平安难得的额外开销之物。"
+  },
+  "provenance": {
+    "origin": "陈平安在梳水国和松溪国接壤处的仙家渡口购买。",
+    "karma_link": "见证了陈平安在北俱芦洲南下的江湖历程。"
+  },
+  "enriched": true
+}

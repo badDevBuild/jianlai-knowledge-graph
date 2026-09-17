@@ -1,0 +1,64 @@
+{
+  "name": "下狱阎罗殿",
+  "original_name": "下狱",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是鬼修体系中的核心重器，既是囚笼也是圣地。陈平安在书简湖期间将其作为安置枉死生灵、推行其 “账房道理”的重要载体。",
+  "aliases": [
+    "仿制琉璃阁",
+    "\"下狱\"阎罗殿"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第453章 吾心安处打个盹儿",
+      "owner": "曾掖"
+    },
+    {
+      "chapter": "第456章 水落石出书简湖",
+      "owner": "顾璨"
+    },
+    {
+      "chapter": "第464章 出拳并无区别",
+      "owner": "顾璨"
+    },
+    {
+      "chapter": "第534章",
+      "owner": "顾璨"
+    }
+  ],
+  "subtype": "拘押/养魂类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘志茂",
+      "relation": "原主"
+    },
+    {
+      "name": "马远致",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "通过吸纳阴煞之气并投入神仙钱温养，可进阶为拥有三千六百间屋舍的“大狱”品相。",
+  "supernatural_ability": "专用于拘押阴灵鬼物，内部自成空间，设有三百六十五间独立屋舍，可在阴风中温养残损魂魄 。",
+  "evolution": {
+    "current_form": "底座篆刻“下狱”二字的袖珍木质阁楼。",
+    "materials_consumed": [
+      "阴煞之气",
+      "雪花钱",
+      "小暑钱"
+    ],
+    "potential_evolution": "可演化为承载鬼修阴神远游的顶级道场。"
+  },
+  "visual": {
+    "static": "一臂高的阴沉木材质袖珍阁楼，造型古朴阴森。",
+    "active": "祭出时散发惨淡青烟，鬼哭神嚎，可将鬼物缩为芥子大小收入其中。"
+  },
+  "provenance": {
+    "origin": "书简湖青峡岛秘藏，是鬼修一脉梦寐以求的本命至宝。",
+    "karma_link": "陈平安曾用其收拢书简湖横死冤魂，作为清算因果的容器。"
+  },
+  "enriched": true
+}

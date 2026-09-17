@@ -1,0 +1,44 @@
+{
+  "name": "渡船把柄账本",
+  "original_name": "春幡斋商贸秘册",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安作为“账房隐官”的巅峰之作。他以此书在春幡斋议事中强行压价，为剑气长城续命三年 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第634章 搬山倒海",
+      "owner": "剑气长城"
+    }
+  ],
+  "subtype": "经济/战略类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "邵云岩",
+      "relation": "协助编撰"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随着对八洲贸易的垄断，此书将成为左右浩然天下物资流向的“法典”。",
+  "supernatural_ability": "详细记录了往返倒悬山的八洲渡船及其背后势力的所有“短板”与私密交易 。",
+  "evolution": {
+    "current_form": "一本厚重的金丝捆系账册，由隐官一脉合力整理 。",
+    "materials_consumed": [
+      "避暑行宫秘档",
+      "跨洲商贸谍报"
+    ],
+    "potential_evolution": "可演变为落魄山及其下宗在桐叶洲建立经济秩序的总纲 。"
+  },
+  "visual": {
+    "static": "外表庄严，书页翻动间隐有算盘珠子碰撞之声 。",
+    "active": "在议事大堂亮出时，足以让八洲船主心惊胆战，俯首听命 。"
+  },
+  "provenance": {
+    "origin": "陈平安担任隐官期间，为了在商贸战中占据优势而编撰 。",
+    "karma_link": "连接了剑气长城的生存物资与浩然天下的巨额财富 。"
+  },
+  "enriched": true
+}

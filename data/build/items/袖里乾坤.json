@@ -1,0 +1,44 @@
+{
+  "name": "袖里乾坤",
+  "original_name": "壶中天地",
+  "type": "其他",
+  "grade": "未知",
+  "status": "损毁",
+  "description": "这是修道之人的顶尖神通，陈平安在剑气长城期间由于境界被压制，曾对此极为神往。它不仅是储物之所，更是高阶修士斗法与掌控天地的标志。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第663章 醉酒",
+      "owner": "黄鸾"
+    }
+  ],
+  "subtype": "空间/神通类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随修士境界提升，其内天地范围可无限扩张，甚至能装载活物与整座城池。",
+  "supernatural_ability": "上五境修士独有的神通，能够收纳万物于袖中。陈平安以此手段收纳了红珊瑚笔架及诸多法宝。崔东山的神通甚至能控制袖内生灵的感知与神识。",
+  "evolution": {
+    "current_form": "修士大袖飘摇，内藏无垠空间。",
+    "materials_consumed": [
+      "灵气",
+      "空间法则"
+    ],
+    "potential_evolution": "可演化为真正独立的小千世界。"
+  },
+  "visual": {
+    "static": "外表仅为寻常衣袖。",
+    "active": "挥袖之间，风起云涌，可产生巨大的吸力或抖落出堆积如山的重宝。"
+  },
+  "provenance": {
+    "origin": "源自远古神灵空间权柄的碎片演化。",
+    "karma_link": "是陈平安身为“包袱斋”收集机缘的核心手段。"
+  },
+  "enriched": true
+}

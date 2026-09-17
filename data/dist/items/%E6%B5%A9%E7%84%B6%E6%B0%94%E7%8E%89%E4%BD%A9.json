@@ -1,0 +1,54 @@
+{
+  "name": "浩然气玉佩",
+  "original_name": "“吾善养浩然气”玉佩",
+  "type": "灵物",
+  "grade": "仙兵",
+  "status": "遗失",
+  "description": "它是陈平安身份的象征之一，代表了**文圣一脉的法统**。玉佩不仅能辅助修行，更是对抗阴秽煞气的 天然克星，是陈平安最重要的补给与防御道具 。",
+  "aliases": [
+    "金色玉佩"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第365章 道理听与不听，剑在",
+      "owner": "中年儒士 -> 老秀才"
+    },
+    {
+      "chapter": "第368章 人间苦难说不得也",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助/能量类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中年儒士（文庙圣贤）",
+      "relation": "原主"
+    },
+    {
+      "name": "老秀才",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "蕴含圣贤文运，随持有者心境提升而神性愈发饱满 。",
+  "supernatural_ability": "能够**自行汲取天地灵气**，相当于一座悬挂在腰间的微型洞天 。",
+  "evolution": {
+    "current_form": "金黄色材质的玉佩 。",
+    "materials_consumed": [
+      "云海水精",
+      "浩然正气"
+    ],
+    "potential_evolution": "能与持有者的“金色文胆”产生共鸣，强化人身小天地的防卫 。"
+  },
+  "visual": {
+    "static": "金黄色泽，正面刻有“吾善养浩然气”六字 。",
+    "active": "激发时金光溢彩，能产生灵气旋涡，甚至能瞬间吸干周边浓郁的灵气潮汐 。"
+  },
+  "provenance": {
+    "origin": "中土文庙圣贤赠予文圣一脉的谢礼 。",
+    "karma_link": "陈平安在老龙城云海炼物时以此物保命，裴钱亦对其极度喜爱 。"
+  },
+  "enriched": true
+}

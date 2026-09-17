@@ -1,0 +1,43 @@
+{
+  "name": "碧玉诗文八宝鸟笼",
+  "original_name": "非资料库信息",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "非资料库信息：这是落魄山大管家朱敛心爱的器物之一，专门用于安置从藕花福地带出的莲花小人等灵 物。笼身上的诗文不仅是装饰，更蕴含着宁心静气的道意，是落魄山“家底”中极具温情色彩的宝物。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第629章 处处杀机",
+      "owner": "老掌柜"
+    }
+  ],
+  "subtype": "灵物收纳类",
+  "holder": "朱敛",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为专门用于温养精魅、灵物的特殊法宝，其品秩随内部灵物（如莲花小人）的成长而提升。",
+  "supernatural_ability": "非资料库信息：内部自成天地，充满灵气，能极大延缓灵物灵气的流逝，并提供安稳的居住环境。",
+  "evolution": {
+    "current_form": "饰有八宝与诗文的碧玉鸟笼。",
+    "materials_consumed": [
+      "非资料库信息"
+    ],
+    "potential_evolution": "可演化为承载洞天福地一脉气运的灵物宫殿。"
+  },
+  "visual": {
+    "static": "通体由精美碧玉打造，笼身镂刻有精致诗文，笼底饰以八宝图案。",
+    "active": "非资料库信息：激活后内部会散发出柔和的翠绿光芒，灵物在其中居住如身处仙境。"
+  },
+  "provenance": {
+    "origin": "非资料库信息：陈平安早期远游时获得的珍贵法宝。",
+    "karma_link": "与莲花小人等落魄山灵物的大道根基息息相关。"
+  },
+  "enriched": true
+}

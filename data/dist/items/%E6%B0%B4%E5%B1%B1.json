@@ -1,0 +1,38 @@
+{
+  "name": "水山",
+  "original_name": "水山",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是剑气长城老剑修程荃的本命飞剑，以其独特的“山水转化”神通著称 。在抵御蛮荒大妖重光的进攻中，其山岳压顶与寒水封路的手段立下了赫赫战功 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第624章 剑修",
+      "owner": "程荃"
+    }
+  ],
+  "subtype": "攻伐类 / 镇压类",
+  "holder": "程荃",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为跌境元婴老剑修程荃的本命物，其法理位阶极高，具备再次演化为仙兵的底蕴 。",
+  "supernatural_ability": "飞剑所过之处可在高空显化碧玉山峰砸向敌人，山峰被击碎后会化作碧水湖水瞬间冰冻战场 。",
+  "evolution": {
+    "current_form": "具备山水流转意象的本命飞剑形态 。",
+    "materials_consumed": [
+      "碧水湖精华",
+      "山岳气运"
+    ],
+    "potential_evolution": "若程荃重返上五境，此剑可真正实现“水连天、山固壤”的大道气象 。"
+  },
+  "visual": {
+    "static": "剑身流转着类似水波的幽绿光泽 。",
+    "active": "在战场上空制造出一座座巍峨碧色山岳，砸落时气势磅礴，碎裂后则伴随刺骨寒气与大水 。"
+  },
+  "provenance": {
+    "origin": "老剑修程荃本命孕育 。",
+    "karma_link": "程荃驻守在城池以南的剑仙私宅中，是剑气长城对抗蛮荒移山众妖的利器 。"
+  },
+  "enriched": true
+}

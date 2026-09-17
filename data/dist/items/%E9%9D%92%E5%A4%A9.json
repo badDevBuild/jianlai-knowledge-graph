@@ -1,0 +1,38 @@
+{
+  "name": "青天",
+  "original_name": "剑道青天",
+  "type": "其他",
+  "grade": "符箓",
+  "status": "活跃",
+  "description": "“青天”在白也的剑道中不仅是自然景观，更是“德”与“ 力”的结合。它象征着读书人仗剑而行、俯瞰万古的胸襟 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1147章 入室操戈",
+      "owner": "吴霜降"
+    }
+  ],
+  "subtype": "意境/压胜类",
+  "holder": "白也",
+  "holder_relation": "寄托",
+  "rank": "仙兵",
+  "rank_potential": "代表了浩然天下剑术的极致，具备演化为一座独立位面 大道的潜能。",
+  "supernatural_ability": "能够以剑意“指挥旋青天”，展现出“指挥若定、天人合 一”的宏大剑道领域 。",
+  "evolution": {
+    "current_form": "无形的剑道意境，显化于白也诗篇与出剑轨迹中。",
+    "materials_consumed": [
+      "浩然之气",
+      "仙剑太白意气"
+    ],
+    "potential_evolution": "若能补全，可成就“怀抱圆阔青天”的十五境至高神位 。"
+  },
+  "visual": {
+    "static": "不可见。唯有当白也立于山巅或海上，四周天空显得格 外广袤深邃。",
+    "active": "出剑时青天旋转，指挥浮云，举动摇白日，展现出破碎 万法、重塑规矩的视觉奇观 。"
+  },
+  "provenance": {
+    "origin": "白也毕生诗情与剑意的融合显化。",
+    "karma_link": "连接了人间最得意与浩然天道的契合。"
+  },
+  "enriched": true
+}

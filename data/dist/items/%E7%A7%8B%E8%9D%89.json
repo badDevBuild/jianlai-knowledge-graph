@@ -1,0 +1,38 @@
+{
+  "name": "秋蝉",
+  "original_name": "虚舟",
+  "type": "本命飞剑",
+  "grade": "本命飞剑",
+  "status": "活跃",
+  "description": "**秋蝉**（又名虚舟）是傅噤极其重要的本命物。它继 承了白帝城一脉“不拘泥于形式”的剑道风格，诡谲且强 大 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第782章 天下圣贤豪杰",
+      "owner": "傅噤"
+    }
+  ],
+  "subtype": "攻伐/隐遁类",
+  "holder": "傅噤",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "随傅噤跻身上五境，此剑可具备“蝉蜕”般的神速与破障 之力 。",
+  "supernatural_ability": "名为“虚舟”，具备无迹可寻的飞行轨迹与极强的穿透神 通 。",
+  "evolution": {
+    "current_form": "在傅噤气府中温养的轻盈飞剑。",
+    "materials_consumed": [
+      "白帝城剑气",
+      "远古剑意"
+    ],
+    "potential_evolution": "有望晋升为足以问剑白玉京的顶级杀伐兵器。"
+  },
+  "visual": {
+    "static": "形制纤细，色泽如秋日枯叶，薄如蝉翼 。",
+    "active": "祭出时如秋风扫叶，快到极致时剑身透明，唯闻蝉鸣 。"
+  },
+  "provenance": {
+    "origin": "白帝城城主关门弟子傅噤的天赋觉醒 。",
+    "karma_link": "是“小白帝”在数座天下年轻十人中占据高位的重要本钱 。"
+  },
+  "enriched": true
+}

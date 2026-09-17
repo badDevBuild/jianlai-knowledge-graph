@@ -1,0 +1,47 @@
+{
+  "name": "冥府摆渡符",
+  "original_name": "光阴渡口符",
+  "type": "符箓",
+  "grade": "仙兵",
+  "status": "消耗",
+  "description": "这是陈平安为了履行对英灵亡魂的承诺，强行以功德驱动的神奇符箓，代表了儒家弟子的当仁不让 。",
+  "aliases": [
+    "陆氏摆渡符"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第296章 作别",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "引导类/神道类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "制造者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "基于《丹书真迹》中的古老法门，随画符者功德积累，其接引能力可跨越生死边界 。",
+  "supernatural_ability": "能为英灵亡魂在光阴长河中开辟临时渡口，引导其安全前往酆都归宿 。",
+  "evolution": {
+    "current_form": "金色材质的厚重符箓 。",
+    "materials_consumed": [
+      "自身功德",
+      "金色符纸",
+      "精纯灵气"
+    ],
+    "potential_evolution": "演化为具备稳定接引之力的“神道印记” 。"
+  },
+  "visual": {
+    "static": "金色符纸上文字流动，隐约有水路纹路显现 。",
+    "active": "激发后脚下会出现金色莲花或由诗篇筑成的道路，带领数万英灵共赴冥府 。"
+  },
+  "provenance": {
+    "origin": "陈平安根据《丹书真迹》与自身在大赛中的感悟自创绘制 。",
+    "karma_link": "为了安置三万战死沙场的英灵，陈平安不惜损耗阴德而绘制此符 。"
+  },
+  "enriched": true
+}

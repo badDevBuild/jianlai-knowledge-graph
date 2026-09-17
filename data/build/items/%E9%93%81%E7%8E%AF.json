@@ -1,0 +1,48 @@
+{
+  "name": "铁环",
+  "original_name": "锁龙铁链 / 锁龙索",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这条铁链曾锁住了世间最后一条真龙的肉身万年之久 。在姜韫得手后，它不仅成为了一件攻守兼备的半仙兵，更因其“铁山丛林”的意境，使得持有者的防 御力堪称金丹境无敌 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第699章 天下第一人",
+      "owner": "老观主"
+    }
+  ],
+  "subtype": "压胜类 / 束缚类",
+  "holder": "姜韫",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "骊珠洞天铁锁井",
+      "relation": "原主"
+    },
+    {
+      "name": "云林姜氏老祖",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "全名为“斩龙索”，完全解开禁制后可作为针对蛟龙之属的最高位压胜法宝 。",
+  "supernatural_ability": "能够强行束缚真龙，炼化入体后可将修士人身小天地淬炼为“铁山丛林”道场 。",
+  "evolution": {
+    "current_form": "粗壮的黑色铁链，环环相扣，被姜韫当做腰带系挂 。",
+    "materials_consumed": [
+      "远古神灵真意",
+      "真龙灵血"
+    ],
+    "potential_evolution": "若能获得真正的斩龙台气息淬炼，可进阶为神兵“斩龙索” 。"
+  },
+  "visual": {
+    "static": "质地冷硬，色泽幽黑，透着一股让水裔精怪胆战心惊的肃杀气象 。",
+    "active": "祭出后如龙抬头，铁环摩擦声震动地脉，能将方圆百里的水运强行镇压 。"
+  },
+  "provenance": {
+    "origin": "原为骊珠洞天铁锁井中束缚真龙骊珠的铁链 。",
+    "karma_link": "由姜韫在骊珠洞天破碎时所得，不仅是重宝，更是一份沉重的神道因果 。"
+  },
+  "enriched": true
+}

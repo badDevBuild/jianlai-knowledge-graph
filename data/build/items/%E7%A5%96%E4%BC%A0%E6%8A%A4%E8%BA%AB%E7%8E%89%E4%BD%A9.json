@@ -1,0 +1,52 @@
+{
+  "name": "祖传护身玉佩",
+  "original_name": "龙宫玉佩",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "损毁",
+  "description": "这是李氏家族最重要的底蕴之一。它的流转见证了李氏兄弟间的性格差异，最终由陈平安将其交还给最 疼爱的后辈，成为其求学之路的护身符 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第335章 庙堂与山野的对峙",
+      "owner": "高树毅"
+    }
+  ],
+  "subtype": "防御类 / 护身类",
+  "holder": "李宝瓶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李宝箴",
+      "relation": "曾持有"
+    },
+    {
+      "name": "李希圣",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为李氏祖传重宝，承载了一国之水运，温养得法可成仙兵 。",
+  "supernatural_ability": "遮蔽天机。持有者会被阵法笼罩，能够抵御高阶修士的神识窥探与恶意攻击 。",
+  "evolution": {
+    "current_form": "质地细腻、铭刻有“龙宫”字样的白玉玉佩 。",
+    "materials_consumed": [
+      "上古龙宫水精",
+      "圣人道意"
+    ],
+    "potential_evolution": "可配合特定口诀开启一座微型水下道场 。"
+  },
+  "visual": {
+    "static": "温润如脂，触手生凉，散发出淡淡的蓝色水灵气 。",
+    "active": "激活时会出现若隐若现的水纹屏障，水光涟漪阻绝外界冲击 。"
+  },
+  "provenance": {
+    "origin": "福禄街李氏家族代代传承的保命符 。",
+    "karma_link": "原本由李希圣赠予李宝箴，后被陈平安在青鸾国战后夺取，并转赠给李宝瓶 。"
+  },
+  "enriched": true
+}

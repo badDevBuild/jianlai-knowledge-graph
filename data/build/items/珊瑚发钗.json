@@ -1,0 +1,44 @@
+{
+  "name": "珊瑚发钗",
+  "original_name": "万瑶宗信物发钗",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这枚发钗是万瑶宗女修韩绛树的重要法宝，亦是进出三山福地的凭证。落入陈平安手中后，成为了他制 衡该宗门并深入探察三山福地因果的重要工具。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第749章 梦里求真，仙人喂拳",
+      "owner": "韩绛树 (被陈平安夺取)"
+    }
+  ],
+  "subtype": "信物类 / 气运类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "韩绛树",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为三山福地万瑶宗上五境女修的随身信物，材质极佳，蕴含深厚的福地气运 。",
+  "supernatural_ability": "具备破解三山福地特定禁制的神通；由于材质源自深海，具备极强的水属性亲和力 。",
+  "evolution": {
+    "current_form": "赤红色珊瑚发钗 。",
+    "materials_consumed": [
+      "深海精华",
+      "福地灵气"
+    ],
+    "potential_evolution": "若能重返三山福地由大炼师重塑，可升格为半仙兵级别的宗门重器。"
+  },
+  "visual": {
+    "static": "通体赤红，质地莹润，如红珊瑚自然雕琢而成，散发淡淡宝光 。",
+    "active": "破解禁制时，钗头会绽放出如红云般的涟漪，强行开山辟路 。"
+  },
+  "provenance": {
+    "origin": "源自桐叶洲隐秘的三山福地万瑶宗 。",
+    "karma_link": "陈平安在针对万瑶宗韩绛树的行动中将其夺取，以此获悉了该宗门的布局与秘密 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,49 @@
+{
+  "name": "墨家甲丸光明铠",
+  "original_name": "古榆国地字号法宝 / 光明铠",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此物是由**墨家机关师**与**道家符箓派**联手锻造的防御至宝。它曾保护树妖在陈平安的重拳下生还 ，是极其罕见的**随身武库**核心件 。",
+  "aliases": [
+    "墨家甲丸光明铠"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第242章 月下打瀑，一挂彩虹",
+      "owner": "张山峰"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "楚姓书生（树妖）",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为墨家与道门联手打造的珍稀产物，修缮后可成为一等一的保命护身符 。",
+  "supernatural_ability": "甲丸可瞬间化为液态水银般覆盖全身，防御力极强，且带有光明正大的压胜气息 。",
+  "evolution": {
+    "current_form": "带有细微裂纹的青白色圆球 。",
+    "materials_consumed": [
+      "真气灌溉"
+    ],
+    "potential_evolution": "完全修缮后可恢复地字号法宝的巅峰威能 。"
+  },
+  "visual": {
+    "static": "平时是一颗青白色的圆球，流光溢彩，体积如拳头大小 。",
+    "active": "激活后显现为一件洁白如雪、精光闪闪的光明铠，宛如天王神像 。"
+  },
+  "provenance": {
+    "origin": "古榆国皇家库藏，后被楚姓书生携带至彩衣国 。",
+    "karma_link": "陈平安在彩衣国混战中捡漏所得，后以极低价格转卖给张山峰作为赠礼 。"
+  },
+  "enriched": true
+}

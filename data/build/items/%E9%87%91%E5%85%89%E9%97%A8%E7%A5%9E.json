@@ -1,0 +1,49 @@
+{
+  "name": "金光门神",
+  "original_name": "彩绘符箓门神 / 护法神将",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这是《剑来》中代表“守护”的视觉符号。它将古老的压 胜术转化为实打实的防御力量，是修士与凡人共享的屏 障 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第189章 猛字楼外说剑之二三事",
+      "owner": "陈平安家"
+    },
+    {
+      "chapter": "第1110章 纯粹剑修们",
+      "owner": "宋聘"
+    }
+  ],
+  "subtype": "防御/镇压类",
+  "holder": "落魄山 / 山下客栈",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊皇家/龙虎山",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "受人间香火万年浸染，可显化为具备玉璞境实力的金身 护法 。",
+  "supernatural_ability": "一旦有邪祟靠近，便会走出身披金甲的神人，执搏搓锐 ，直接噬食鬼魅 。",
+  "evolution": {
+    "current_form": "张贴于大门之上的彩绘泥塑或符箓神像 。",
+    "materials_consumed": [
+      "上古神木",
+      "香火灵气",
+      "龙虎山法咒"
+    ],
+    "potential_evolution": "若由天师印钤印，可升华为具备“雷部神将”战力的仙兵 。"
+  },
+  "visual": {
+    "static": "两尊威风凛凛的神像，一左一右，目露凶光，身披金甲 。",
+    "active": "邪祟入侵时，神像金光大作，神人从画中走出，伴随阵 阵雷鸣 。"
+  },
+  "provenance": {
+    "origin": "源自上古神道教门，常用于官署与重要仙家宅邸的护卫 。",
+    "karma_link": "见证了落魄山对山水规矩的坚守，也是各方势力博弈的 见证 。"
+  },
+  "enriched": true
+}

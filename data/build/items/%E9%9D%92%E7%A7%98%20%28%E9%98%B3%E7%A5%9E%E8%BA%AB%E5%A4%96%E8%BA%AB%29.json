@@ -1,0 +1,38 @@
+{
+  "name": "青秘 (阳神身外身)",
+  "original_name": "飞升境野修 / 阳神分身",
+  "type": "其他",
+  "grade": "神通",
+  "status": "活跃",
+  "description": "一位被低估的飞升境大修士。他在浩然大势中选择了投 靠陈平安一方，成为落魄山与大势博弈的重要底牌 [20-22]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第799章 登高望远",
+      "owner": "冯雪涛"
+    }
+  ],
+  "subtype": "修行类",
+  "holder": "冯雪涛",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为飞升境巅峰修士，具备冲击十四境的潜力 。",
+  "supernatural_ability": "精通各种驳杂的野修术法，尤其擅长隐匿气息与绘制高 阶符箓 。",
+  "evolution": {
+    "current_form": "身穿蟒服、佩戴白玉腰带的得道高人形象 。",
+    "materials_consumed": [
+      "天地灵气",
+      "野修功德"
+    ],
+    "potential_evolution": "若能合道成功，可演化为一方天地的法统之源 。"
+  },
+  "visual": {
+    "static": "气态雍容，面容清癯，腰别铁锏 。",
+    "active": "出手时雷火交织，身形在云海中忽隐忽现，气象恢弘 。"
+  },
+  "provenance": {
+    "origin": "皑皑洲资历极深的野修大修士 。",
+    "karma_link": "因姜尚真的缘故成为玉圭宗供奉，后在陈平安算计下参 与共斩兵家初祖 [22-24]。"
+  },
+  "enriched": true
+}

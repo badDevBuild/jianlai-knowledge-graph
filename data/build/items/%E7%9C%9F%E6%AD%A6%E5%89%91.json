@@ -1,0 +1,55 @@
+{
+  "name": "真武剑",
+  "original_name": "真武",
+  "type": "灵器",
+  "grade": "法剑",
+  "status": "活跃",
+  "description": "陈平安在青蚨坊购买的残破古剑，后转赠给龙虎山外门道士张山峰。此剑被刘羡阳评价为神意极重，远 非普通灵器可比 。",
+  "aliases": [
+    "真武法剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第248章 神仙买卖，后会有期",
+      "owner": "张山峰 (陈平安赠送)"
+    },
+    {
+      "chapter": "第376章 君子武备",
+      "owner": "张山峰"
+    },
+    {
+      "chapter": "第379章 前兆",
+      "owner": "张山峰"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "青蚨坊",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因其刻有“真武”二字，被认为与龙虎山及真武山的大道法统存在某种深刻因果，潜力巨大 。",
+  "supernatural_ability": "剑身虽然遍布细微裂纹且锈迹斑斑，但其材质极佳，蕴含着让金丹剑仙都感到“很重”的雄厚神意 。",
+  "evolution": {
+    "current_form": "剑鞘已失、剑身残破的青铜古剑 。",
+    "materials_consumed": [],
+    "potential_evolution": "若能寻得名师修缮，有望恢复其作为道门重器的真正锋芒 。"
+  },
+  "visual": {
+    "static": "一柄青铜材质的古剑，剑身刻有模糊不清的“真武”二字，表面多有伤痕 。",
+    "active": "在被识货之人（如刘羡阳）评价时，剑身会发出清脆的颤鸣声 。"
+  },
+  "provenance": {
+    "origin": "陈平安在梳水国渡口的青蚨坊以四百枚雪花钱买下 。",
+    "karma_link": "城隍沈温曾提及此印记与“有德者”的因果，陈平安后将其赠予好友张山峰 。"
+  },
+  "enriched": true
+}

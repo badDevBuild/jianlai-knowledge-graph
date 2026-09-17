@@ -1,0 +1,51 @@
+{
+  "name": "青崖",
+  "original_name": "月宫镜",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "青崖是一件极具传奇色彩的宝物，经历了从**月宫镜**到**仙家法袍**的形态演变 。它承载着“且放白鹿青崖间”的旷达意境，是白也在青冥天下修道时的重要随身物品 。",
+  "aliases": [
+    "龙须河畔青崖",
+    "青崖(古镜)"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第743章 天下小心火烛",
+      "owner": "白也"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "白也",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古月宫",
+      "relation": "原主"
+    },
+    {
+      "name": "藕花福地",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "该物本是**远古月宫重宝**，具备通过汲取月魄精华重返**仙兵**品秩的上限 。",
+  "supernatural_ability": "具备**“清凉境界”**，可护持持有人道心，使其在修行时免受外魔侵扰 。",
+  "evolution": {
+    "current_form": "青色法袍 。",
+    "materials_consumed": [
+      "月宫镜残片",
+      "远古明月精华"
+    ],
+    "potential_evolution": "可由顶尖炼师重塑为完整的远古月宫镜 。"
+  },
+  "visual": {
+    "static": "外表是一袭**质地古雅的青色法袍**，常与白鹿、古松相伴 。",
+    "active": "激发时会产生一种**如临青崖、白云生发**的玄妙意境，袍身宝光流溢 。"
+  },
+  "provenance": {
+    "origin": "源自远古月宫，曾在斩龙一役后坠入藕花福地水底 。",
+    "karma_link": "后由老观主与白也相关机缘牵引，在青冥天下显化为法袍形式 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "印章-雁撞墙",
+  "original_name": "皕剑仙印谱之一",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是《皕剑仙印谱》中颇具名气的一方印章 。印名取自剑气长城那堵横亘万年的高墙，象征着剑修对大妖的绝对防御与决死之心 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第608章 下棋坏道心，酒水辣肚肠",
+      "owner": "郁狷夫"
+    }
+  ],
+  "subtype": "篆刻/文房类",
+  "holder": "落魄山/晏家",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由于承载了剑气长城守城剑意，极具收藏与研究价值 。",
+  "supernatural_ability": "印文蕴含一种坚韧不拔、宁死不退的守城道意，能稳固修道者剑心 。",
+  "evolution": {
+    "current_form": "三字朱文方印 。",
+    "materials_consumed": [
+      "剑气长城顽石",
+      "隐官剑气"
+    ],
+    "potential_evolution": "无 [无]。"
+  },
+  "visual": {
+    "static": "“雁撞墙”三字布局奇特，笔画如飞雁撞向高墙，极其悲壮 。",
+    "active": "钤印后纸面隐隐有剑鸣声，让人联想到剑气长城的高耸城头 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城避暑行宫期间篆刻 。",
+    "karma_link": "郁狷夫翻看印谱时曾为此印驻足，感怀剑修的慷慨赴死 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "铁骑",
+  "original_name": "铁骑",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "铁骑是金甲洲玉璞境野修司徒积雪的本命飞剑 。该剑的特色在于其名字背后所蕴含的“兵戈气象”，在战场上攻守平衡，深受对手忌惮 。虽然在剑气长城的巅峰排名中不算最亮眼，但在实战中表现极其稳健 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第622章 对峙",
+      "owner": "司徒积雪"
+    }
+  ],
+  "subtype": "攻伐类 / 阵法类",
+  "holder": "司徒积雪",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为金甲洲野修司徒积雪的本命飞剑，具备极强的战场适应性 。",
+  "supernatural_ability": "虽然纯粹杀力在顶尖剑修中不算出众，但胜在攻守兼备，极难应对 。",
+  "evolution": {
+    "current_form": "本命飞剑形态 。",
+    "materials_consumed": [
+      "战场武运",
+      "庚金精粹"
+    ],
+    "potential_evolution": "随司徒积雪的剑道感悟加深，可演化出如同万马奔腾的剑气洪流 。"
+  },
+  "visual": {
+    "static": "剑身沉重且透着一股肃杀之气 。",
+    "active": "祭出时剑光沉稳，如同铁骑冲阵，能硬抗同境修士的多种法宝轰砸 。"
+  },
+  "provenance": {
+    "origin": "司徒积雪本命孕育 。",
+    "karma_link": "由司徒积雪在金甲洲野修厮杀中磨砺而成 。"
+  },
+  "enriched": true
+}

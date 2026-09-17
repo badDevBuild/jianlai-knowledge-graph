@@ -1,0 +1,49 @@
+{
+  "name": "节气梅（梅核）",
+  "original_name": "青色梅核 / 千年杨梅树种",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是吴懿从紫阳府秘库中拣选出的珍稀之物，连灵韵派老祖师都求而不得。它将成为陈平安经营落魄山 版图、提升山头底蕴的重要资源 。",
+  "aliases": [
+    "青色梅核"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第481章 天下月色，此山最多",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴懿",
+      "relation": "赠予者"
+    },
+    {
+      "name": "紫阳府",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "具备演化为千年灵树并镇压山头灵脉的潜力，对山水气运裨益极大 。",
+  "supernatural_ability": "埋入土中后一年即可长成。每逢二十四节气当天，树体会自动向四周散发精纯灵气，犹如天然的聚灵阵 法 。",
+  "evolution": {
+    "current_form": "一颗生机勃勃、呈现青绿色的饱满梅核 。",
+    "materials_consumed": [
+      "节气灵气"
+    ],
+    "potential_evolution": "在落魄山藩属山头落地生根，最终长成高耸入云的仙家灵木 。"
+  },
+  "visual": {
+    "static": "外壳坚硬且带有天然纹理，隐约透出勃勃生机 。",
+    "active": "生根发芽速度极快，开花时节灵光四溢，异香扑鼻 。"
+  },
+  "provenance": {
+    "origin": "黄庭国紫阳府珍藏的孤品灵种 。",
+    "karma_link": "由紫阳府开山老祖吴懿作为落魄山开山贺礼赠予陈平安，见证了双方的盟友关系 。"
+  },
+  "enriched": true
+}

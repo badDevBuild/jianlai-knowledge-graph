@@ -1,0 +1,48 @@
+{
+  "name": "螭篆",
+  "original_name": "螭篆",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是桐叶宗嫡传剑修李完用的佩剑，承载了桐叶宗上代宗主的法脉，是他在乱世中护道的根本 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第694章 最高处的山巅境",
+      "owner": "李完用"
+    },
+    {
+      "chapter": "第852章 大概",
+      "owner": "李完用"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "李完用",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "桐叶宗上任宗主",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为桐叶宗嫡传宝剑，承载了宗门的剑道气数，具备晋升半仙兵的底蕴 。",
+  "supernatural_ability": "剑意如同螭龙游走，能够与桐叶洲本土气运产生感应，杀力雄浑 。",
+  "evolution": {
+    "current_form": "带有古老螭龙铭文的长剑 。",
+    "materials_consumed": [
+      "桐叶洲山水灵气",
+      "宗门剑意"
+    ],
+    "potential_evolution": "若能获得真正的螭龙之属精血淬炼，有望进化为具备水法神通的神兵 。"
+  },
+  "visual": {
+    "static": "剑身篆刻有古老的螭纹，透着一股肃穆的宗门法统气息 。",
+    "active": "出剑时伴有龙吟之声，剑光如墨色螭龙穿梭，气势磅礴 。"
+  },
+  "provenance": {
+    "origin": "桐叶洲桐叶宗祖师堂 。",
+    "karma_link": "李完用作为“叛逆剑修”，在宗门剧变后依然持此剑远游，象征着对旧宗门剑道的某种传承与坚守 。"
+  },
+  "enriched": true
+}

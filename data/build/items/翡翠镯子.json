@@ -1,0 +1,48 @@
+{
+  "name": "翡翠镯子",
+  "original_name": "冰糯翡翠手镯",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "产自**灵璧山**的珍稀灵器，对于识破妖族伪装有奇效 。曾被肤腻城女鬼持有，后归陈平安，见证了其在桐叶洲的商业周旋 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1086章 泥瓶内的老酒",
+      "owner": "秦筝"
+    }
+  ],
+  "subtype": "辅助/鉴定类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "灵璧山供奉",
+      "relation": "原主"
+    },
+    {
+      "name": "肤腻城女鬼",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随文气或龙气浸染可提升感知深度 。",
+  "supernatural_ability": "靠近妖物时会产生气色共鸣，辅助指认隐匿形迹的妖族修士 。",
+  "evolution": {
+    "current_form": "质地通透、名为“冰糯”的翡翠环状饰品 。",
+    "materials_consumed": [
+      "水运精华",
+      "灵气"
+    ],
+    "potential_evolution": "可作为开启特定遗址或龙宫禁制的“敲门砖” 。"
+  },
+  "visual": {
+    "static": "苍翠欲滴，触手生温，内部隐有流光 。",
+    "active": "遇到妖物伪装时会产生特殊的灵气涟漪，帮助识破障眼法 。"
+  },
+  "provenance": {
+    "origin": "灵璧山皇室供奉之物，后流转于鬼蜮谷及书简湖 。",
+    "karma_link": "陈平安在野云渡通过交易所得，涉及皇室供奉的信誉 。"
+  },
+  "enriched": true
+}

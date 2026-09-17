@@ -1,0 +1,49 @@
+{
+  "name": "紫金莲种子",
+  "original_name": "淡金色莲子",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是陈平安远游初期获得的珍稀灵物，最初并不起眼 。后经由崔东山之手，将其作为**落魄山福地提升品秩**的关键，成功开出一朵紫金莲花，象征着生 机与道统的延续 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第222章 有些离别可以再会",
+      "owner": "落魄山(魏檗)"
+    },
+    {
+      "chapter": "第417章 那些入秋的喜怒哀乐",
+      "owner": "落魄山"
+    }
+  ],
+  "subtype": "演化类 / 滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗与黑蛇",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "拥有**开辟大湖、生发气运**的极致潜力，能随福地升阶而成长。",
+  "supernatural_ability": "**“聚拢水运”**。能够自动吸纳周遭水灵气，并作为紫金莲花的护水使居住地，稳固一方天地气机 。",
+  "evolution": {
+    "current_form": "在落魄山池塘中生发而出的紫金莲花 。",
+    "materials_consumed": [
+      "谷雨钱",
+      "大渎水运",
+      "虬珠"
+    ],
+    "potential_evolution": "可演化为支撑福地晋升为“上等品秩”的核心大道显化 。"
+  },
+  "visual": {
+    "static": "原本是拇指大小、略显干瘪的淡金色莲子 。",
+    "active": "落入池塘后化为巨大的紫金色花苞，叶大如数亩地，摇曳生姿，道气弥漫 。"
+  },
+  "provenance": {
+    "origin": "陈平安在棋墩山魏檗处的百宝阁内拣选所得 。",
+    "karma_link": "连接着落魄山与莲藕福地的晋升因果，是陈平安最重要的家底之一 。"
+  },
+  "enriched": true
+}

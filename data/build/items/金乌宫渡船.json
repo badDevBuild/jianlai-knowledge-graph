@@ -1,0 +1,38 @@
+{
+  "name": "金乌宫渡船",
+  "original_name": "金乌宫跨洲渡船",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是金乌宫对外展示底蕴、进行贸易的核心工具 。虽然在书中戏份不多，但却是北俱芦洲东南沿海商贸往来的重要枢纽 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第698章 要问拳",
+      "owner": "金乌宫"
+    }
+  ],
+  "subtype": "跨洲/运输类",
+  "holder": "金乌宫 (柳质清所属宗门)",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "依靠北俱芦洲的强大财力与工艺，承载力与防御力均属上乘 。",
+  "supernatural_ability": "能够御风远游，甚至在必要时开启雷云禁制抵御攻击 。",
+  "evolution": {
+    "current_form": "拥有仙家气派的大型渡船，外壁常有雷纹或金乌图案 。",
+    "materials_consumed": [
+      "神仙钱",
+      "大量高阶木石材质"
+    ],
+    "potential_evolution": "若能获得更多大山君的通关文牒，可开辟更多横跨大洲的黄金航线 。"
+  },
+  "visual": {
+    "static": "体型巨大，如同一座移动的山头，仙气缭绕 。",
+    "active": "航行时雷声阵阵，破开云海，带起长达数里的气流尾翼 。"
+  },
+  "provenance": {
+    "origin": "由北俱芦洲金乌宫耗费巨资打造 。",
+    "karma_link": "见证了陈平安以“曹某”身份一剑劈开金乌宫雷云的惊人举动 。"
+  },
+  "enriched": true
+}

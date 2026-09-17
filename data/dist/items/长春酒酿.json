@@ -1,0 +1,38 @@
+{
+  "name": "长春酒酿",
+  "original_name": "长春仙酿 / 灵湫酒",
+  "type": "丹药",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是浩然天下最受女修追捧的驻颜神物。其核心竞争力 在于长春宫独有的泉水与酿造法 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第870章 惜哉",
+      "owner": "正阳山/陈平安"
+    }
+  ],
+  "subtype": "滋养/驻颜类",
+  "holder": "长春宫 / 姚近之",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "长期饮用可洗髓伐骨，让修士体魄趋近于“常青”状态 。",
+  "supernatural_ability": "能够延缓衰老，温补气府，对阴神受伤的修道者有极佳 的治愈效果 。",
+  "evolution": {
+    "current_form": "盛放在长春宫特制白瓷瓶中的清冽酒液 。",
+    "materials_consumed": [
+      "长春宫灵湫泉水",
+      "千年桃花精魂"
+    ],
+    "potential_evolution": "若能融合“不老药”，可进化为仙兵级长生药 。"
+  },
+  "visual": {
+    "static": "酒液色泽翠绿，香气清远，如初春山林之气 。",
+    "active": "开坛后灵气化为云雾，能在室内形成小型花开异象 。"
+  },
+  "provenance": {
+    "origin": "产自宝瓶洲长春宫，是大名鼎鼎的招牌特产 。",
+    "karma_link": "见证了姚近之等大泉皇族与长春宫之间的深厚盟约 。"
+  },
+  "enriched": true
+}

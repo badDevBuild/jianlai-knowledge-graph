@@ -1,0 +1,45 @@
+{
+  "name": "铜钱(郑居中赠)",
+  "original_name": "二十八星宿古砚咫尺物",
+  "type": "方寸物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这件物品初为郑居中盛放金精铜钱的容器，后被陈平安 通过古老炼物诀化为一座袖珍小洞天，是其布局未来的 关键重宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1079章 人间半部书",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "空间/演化类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "郑居中",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为陈平安构建“三千小千世界”的物理枢纽，具备演化 完整位面的潜力 。",
+  "supernatural_ability": "内含三千眼柱，能承载极其雄厚的金精铜钱与光阴长河 。具备“天地相通”的空间权柄 。",
+  "evolution": {
+    "current_form": "一方篆刻日月同壁、背有眼柱的古砚 。",
+    "materials_consumed": [
+      "300颗金精铜钱",
+      "光阴流水",
+      "水字印神韵"
+    ],
+    "potential_evolution": "演化为支撑十四境大道的“大道星图” 。"
+  },
+  "visual": {
+    "static": "形制为日月同壁的抄手砚，背部凿有二十八星宿排列的 眼柱 。",
+    "active": "开启后，砚背星宿化为真实星空，灵气如潮水般流转 。"
+  },
+  "provenance": {
+    "origin": "由中土神洲白帝城城主郑居中赠予 。",
+    "karma_link": "陈平安凭此解决了灵气倒灌的隐患，将其炼化为自身小 天地的核心地基 。"
+  },
+  "enriched": true
+}

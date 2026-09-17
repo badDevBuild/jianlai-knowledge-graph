@@ -1,0 +1,37 @@
+{
+  "name": "烂绳茶",
+  "original_name": "云门渡口苦茶",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "消耗",
+  "description": "这是云窟福地路边摊位上的典型产物。陈平安以“曹沫”身份远游时曾提及此物，认为这是坑骗外乡人的 小把戏 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第755章 做客",
+      "owner": "叶芸芸"
+    }
+  ],
+  "subtype": "饮食类",
+  "holder": "云门渡口商贩",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "无 [无]。",
+  "supernatural_ability": "仅能作为解渴之物，带有微弱的灵气 。",
+  "evolution": {
+    "current_form": "在烂绳亭中大桶熬制的廉价茶水 。",
+    "materials_consumed": [
+      "普通茶叶"
+    ],
+    "potential_evolution": "无 [无]。"
+  },
+  "visual": {
+    "static": "茶色浑浊，装在粗瓷碗中 。",
+    "active": "无 [无]。"
+  },
+  "provenance": {
+    "origin": "云窟福地云门渡口的烂绳亭 。",
+    "karma_link": "常被用作坑骗初入福地的“稚鸟”修士 。"
+  },
+  "enriched": true
+}

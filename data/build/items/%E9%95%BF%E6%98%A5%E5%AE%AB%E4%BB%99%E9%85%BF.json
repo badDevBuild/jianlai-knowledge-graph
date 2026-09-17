@@ -1,0 +1,40 @@
+{
+  "name": "长春宫仙酿",
+  "original_name": "长春酿",
+  "type": "灵物",
+  "grade": "灵酒",
+  "status": "活跃",
+  "description": "这是**长春宫赖以成名的基业**。在山上商贸中，它是 大骊王朝赏赐功臣的重要礼品 。",
+  "aliases": [
+    "长春酿"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1194章 君从故乡来",
+      "owner": "刘老成/高冕"
+    }
+  ],
+  "subtype": "滋养/驻颜类",
+  "holder": "长春宫女修 / 陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "若能加入灵湫泉水之精，可具有长生不老的微弱潜力 。",
+  "supernatural_ability": "灵气充沛，具有延年益寿与永葆青春之神效，极受山上 女修追捧 。",
+  "evolution": {
+    "current_form": "香气扑鼻、清亮澄澈的灵气酒液 。",
+    "materials_consumed": [
+      "长春宫灵湫泉水",
+      "百花精粹"
+    ],
+    "potential_evolution": "可炼化为供上五境修士服用的“长春丹”药引 。"
+  },
+  "visual": {
+    "static": "盛放在精美的瓷瓶中，酒香凝而不散 。",
+    "active": "饮用后能使人容光焕发，周身生发淡淡的生机气象 。"
+  },
+  "provenance": {
+    "origin": "由宝瓶洲长春宫秘制，取水自禁地灵湫 。",
+    "karma_link": "见证了长春宫在一洲战事中的特殊贡献与人脉积累 。"
+  },
+  "enriched": true
+}

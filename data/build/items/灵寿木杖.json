@@ -1,0 +1,39 @@
+{
+  "name": "灵寿木杖",
+  "original_name": "灵寿木手杖",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这根手杖是青冥天下显灵观观主“药师”的随身重宝。它代表了道门高人的一种超然物外、云水生涯的修 行状态 。",
+  "aliases": [
+    "灵寿木手杖"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1197章 天下见陈",
+      "owner": "李药师"
+    }
+  ],
+  "subtype": "辅助类 / 行走类",
+  "holder": "“药师” (显灵观观主)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为道门高真常伴之物，具备转化为顶级破障行山杖的潜力 。",
+  "supernatural_ability": "具备辅助修士云游、延年益寿及稳固气息的功效 。",
+  "evolution": {
+    "current_form": "一根产自虢山的灵寿木制成的手杖 。",
+    "materials_consumed": [
+      "灵寿木"
+    ],
+    "potential_evolution": "有望进化为能够引导地脉灵气、辟除万邪的法杖 。"
+  },
+  "visual": {
+    "static": "样式古拙，木纹自然，散发着淡淡的草木清香 。",
+    "active": "持杖行走时，似有无形的道气涟漪在木纹间穿梭流转 。"
+  },
+  "provenance": {
+    "origin": "取材于虢山（Guo Mountain），是显灵观道官“药师”的标志性物品 。",
+    "karma_link": "与白玉京灵宝城止戈宫辖下的道门法脉紧密相连 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "青神山竹鞘",
+  "original_name": "屹然剑鞘 / 泛黄青竹鞘",
+  "type": "灵物",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "梳水国剑圣宋雨烧成名兵刃“屹然”的配套剑鞘，其价值在青神山封山后被山巅修士重新评估为无价之宝 。",
+  "aliases": [
+    "青神山竹鞘"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第245章 林间簌簌，风雨如晦",
+      "owner": "宋雨烧"
+    }
+  ],
+  "subtype": "容器类 / 压胜类",
+  "holder": "宋雨烧",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "别洲武神",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为青神山神霄竹制成的灵物，具备极高的材质底蕴，可完美承载上古剑意 。",
+  "supernatural_ability": "“温养剑意”。内部异常坚韧且毫无磨损，能极大程度地保护并温养神兵的锋芒 。",
+  "evolution": {
+    "current_form": "泛黄的特殊青竹材质剑鞘 。",
+    "materials_consumed": [
+      "神霄竹",
+      "武神神意"
+    ],
+    "potential_evolution": "可作为打造顶级木属法宝的根本核心 。"
+  },
+  "visual": {
+    "static": "外表质朴泛黄，材质为特殊青竹，无明显铭文 。",
+    "active": "与名剑屹然配合时，可完美收敛其“裂岳斩渎”的霸道剑气 。"
+  },
+  "provenance": {
+    "origin": "源自竹海洞天青神山 。",
+    "karma_link": "由别洲武神持有时遗落于宝瓶洲梳水国，见证了宋雨烧剑圣名号的崛起与沉浮 。"
+  },
+  "enriched": true
+}

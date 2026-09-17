@@ -1,0 +1,38 @@
+{
+  "name": "袖中磨刀",
+  "original_name": "磨刀人近身术",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "**袖中磨刀**指代“磨刀人”刘宗独步江湖的近身短刀术 。他虽贵为武学大宗师，却一向行事内敛，将“剔骨刀”视为老伙计，直到关键时刻才展露锋芒 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第317章 别人无敌当如何",
+      "owner": "刘宗"
+    }
+  ],
+  "subtype": "武学技击类",
+  "holder": "刘宗",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "虽是世俗武学，但在止境武夫手中杀力足以威胁地仙 。",
+  "supernatural_ability": "**“瞬息解构”**。一种极其精密的近身短刀技击术，能在极短距离内对目标进行“剔骨”般的精准切割 。",
+  "evolution": {
+    "current_form": "刘宗与其相依为命的剔骨刀所配合的武学 。",
+    "materials_consumed": [
+      "纯粹拳意",
+      "百年磨砺"
+    ],
+    "potential_evolution": "可融入剑气十八停等高阶真气运转法门，提升爆发力 。"
+  },
+  "visual": {
+    "static": "表面上刘宗只是个低调的铺子掌柜，刀身藏于袖中 。",
+    "active": "出手时寒光一闪，极难被察觉，配合“崩拳”等招式具有极强压迫感 。"
+  },
+  "provenance": {
+    "origin": "源自藕花福地，是刘宗自学成才的实战绝学 。",
+    "karma_link": "刘宗凭借此术跻身福地“天下十人”，后随陈平安游历并传授部分拳理 。"
+  },
+  "enriched": true
+}

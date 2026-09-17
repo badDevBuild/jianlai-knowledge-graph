@@ -1,0 +1,38 @@
+{
+  "name": "青丝",
+  "original_name": "天阙峰古藤 / 仙子梳妆台青丝",
+  "type": "灵物",
+  "grade": "灵材",
+  "status": "活跃",
+  "description": "这是青羊宫最著名的自然神迹之一。古藤长年挂于云表 ，不仅是风景，更被视为此地山水气运的实体延伸 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1061章 假无敌真无敌",
+      "owner": "蔡道煌"
+    }
+  ],
+  "subtype": "景观/道场类",
+  "holder": "清境山青羊宫",
+  "holder_relation": "寄托",
+  "rank": "重器",
+  "rank_potential": "长期在云海中汲取水运精华，有望演化为具备捆缚神魔 能力的天然灵宝。",
+  "supernatural_ability": "青藤枝叶茂盛，长达百丈，能够随着云海起伏波动，自 生灵气涟漪 。",
+  "evolution": {
+    "current_form": "扎根于天阙峰青羊宫左翼崖畔的古老青藤 。",
+    "materials_consumed": [
+      "清境山灵气",
+      "云海月魄"
+    ],
+    "potential_evolution": "可被炼师截取，作为炼制顶级“缚妖索”或“拂尘”的原材 料。"
+  },
+  "visual": {
+    "static": "藤蔓从悬崖垂挂而下，碧绿如染，宛如少女的长发 。",
+    "active": "在云雾缭绕中，藤蔓如同仙子以云海为溪水梳洗长发， 蔚为壮观 。"
+  },
+  "provenance": {
+    "origin": "清境山天阙峰自然生长的上古植物 。",
+    "karma_link": "成为天阙峰著名景观“仙子梳妆台”的核心，承载一山之 气象 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,58 @@
+{
+  "name": "暮霞",
+  "original_name": "割鹿",
+  "type": "法宝",
+  "grade": "仙家重宝",
+  "status": "活跃",
+  "description": "与“朝露”对应的另一柄符刀，原为割鹿山女刺客的随身利刃。 陈平安因其旧名“暮霞”带有某种因果，遂将其改名为“割鹿”，体现了其身为隐官的凌厉风格。",
+  "aliases": [
+    "割鹿"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第523章 大河之畔遇陆地蛟龙",
+      "owner": "陈平安(战利品)"
+    },
+    {
+      "chapter": "第525章 击掌",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第561章 两破境",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第905章 长不大的家乡",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "割鹿山女刺客",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "通过陈平安的温养，其杀伐意气更上一层楼。",
+  "supernatural_ability": "具备极佳的隐匿效果，出刀时犹如晚霞般绚烂却致命。,",
+  "evolution": {
+    "current_form": "篆刻有“暮霞”二字的符刀。",
+    "materials_consumed": [
+      "煞气",
+      "剑气"
+    ],
+    "potential_evolution": "陈平安将其正式改名为“割鹿”，赋予其更强的武道神意。"
+  },
+  "visual": {
+    "static": "刀身呈现出一种奇异的暗红色，工艺极其精良。",
+    "active": "挥动时带起如晚霞般的流光，轨迹诡谲难测。"
+  },
+  "provenance": {
+    "origin": "源自割鹿山组织，是一件传承有序的刺客法宝。",
+    "karma_link": "由陈平安在战斗中获得，后作为其压箱底的杀招之一。,"
+  },
+  "enriched": true
+}

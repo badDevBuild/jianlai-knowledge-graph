@@ -1,0 +1,44 @@
+{
+  "name": "镇圭",
+  "original_name": "玉圭 / 齐静春之圭",
+  "type": "重器",
+  "grade": "仙兵",
+  "status": "遗失",
+  "description": "这件重器是儒家礼制的象征，通常唯有一国天子或坐镇圣人可执 。它见证了齐静春在小镇最后的岁月以及对师门学问的坚守 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第58章 先生",
+      "owner": "儒家亚圣（原主）"
+    }
+  ],
+  "subtype": "礼器/镇压类",
+  "holder": "齐静春",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文圣 (老秀才)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "承载着文圣一脉的儒家气运和一洲之地的规矩法度 。",
+  "supernatural_ability": "具有镇压四方安定、平定山河气象的神通 。在圣人手中，它是制定规矩、言出法随的媒介 。",
+  "evolution": {
+    "current_form": "长一尺二寸的玉圭 。",
+    "materials_consumed": [
+      "文脉气运",
+      "浩然正气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "一尺二寸长，四角雕刻有四镇之山，正面刻有密密麻麻的小篆铭文 。背面刻有“筋骨极壮，神意极长”八个大字 。",
+    "active": "激发时散发出莹润的玉色光芒，能够平定方圆百里的紊乱气机 。"
+  },
+  "provenance": {
+    "origin": "文圣老秀才传授给弟子齐静春的礼器 。",
+    "karma_link": "象征着齐静春坐镇骊珠洞天，为一洲百姓续命的责任与风骨 。"
+  },
+  "enriched": true
+}

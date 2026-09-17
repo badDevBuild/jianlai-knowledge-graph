@@ -1,0 +1,44 @@
+{
+  "name": "三尸",
+  "original_name": "董家创始剑",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "“三尸”剑是剑气长城董家的立身之本。**它象征着剑修不畏生死的逆天意志**，其名号在蛮荒天下大妖 中具有极强的震慑力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第272章 陈平安，你听我说",
+      "owner": "董家开山老祖"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "董家开山老祖",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "董家历代家主",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为剑气长城最顶尖的本命物之一，其威力随持有者斩杀大妖的数量而不断叠加 。",
+  "supernatural_ability": "具备极其恐怖的杀伐力。名字源于其原主曾孤身深入蛮荒腹地，**一路上连斩三头上五境大妖**的赫赫 战绩 。",
+  "evolution": {
+    "current_form": "品秩极高的远古仙兵 。",
+    "materials_consumed": [
+      "上五境妖族金丹",
+      "煞气精华"
+    ],
+    "potential_evolution": "完全合道后可成为镇压一洲气运的杀伐重器 。"
+  },
+  "visual": {
+    "static": "剑身透着一股令人胆寒的肃杀之气，铭文蕴含古老神意。",
+    "active": "出剑时剑光分三色，寓意斩断“贪嗔痴”三尸，令妖物神魂瞬间崩碎 。"
+  },
+  "provenance": {
+    "origin": "诞生于剑气长城，由董家创始祖师在生死搏杀中砥砺而成 。",
+    "karma_link": "代表了董家在剑气长城崛起的辉煌历史 。"
+  },
+  "enriched": true
+}

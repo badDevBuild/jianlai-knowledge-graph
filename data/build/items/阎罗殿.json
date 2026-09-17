@@ -1,0 +1,48 @@
+{
+  "name": "阎罗殿",
+  "original_name": "“下狱”阎罗殿",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安在书简湖历练期间最重要的道具。他不仅将其作为安置阴灵的居所，更是将其作为行善积德 、清算因果的功德簿载体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第446章 风雪宜哉",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "收纳类 / 滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘志茂",
+      "relation": "曾持有"
+    },
+    {
+      "name": "青峡岛密库",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "鬼修一脉的至宝，若能不断吞噬强大的鬼物阴灵，可升格为拥有三千六百间屋舍的“大狱” 。",
+  "supernatural_ability": "**“阴冥滋养”**。内部自带阴风煞气，可让被收纳其中的阴灵鬼物保持神智清明，并缓慢增长修为 。",
+  "evolution": {
+    "current_form": "底座刻有“下狱”二字的精巧木质阁楼 。",
+    "materials_consumed": [
+      "阴沉木",
+      "鬼道禁制"
+    ],
+    "potential_evolution": "若由仙人境鬼修温养，可演化为独立的小幽冥界 。"
+  },
+  "visual": {
+    "static": "外形如同一座袖珍的宫殿建筑，门窗紧闭，透着丝丝寒气 。",
+    "active": "开启时有青烟掠出，鬼哭狼嚎之声隐现，能瞬间将方圆之内的魂魄摄入其中 。"
+  },
+  "provenance": {
+    "origin": "书简湖青峡岛密库收藏的顶级鬼道器物 。",
+    "karma_link": "陈平安用其收拢那些因顾璨而死的冤魂，试图通过调查账本为他们完成遗愿 。"
+  },
+  "enriched": true
+}

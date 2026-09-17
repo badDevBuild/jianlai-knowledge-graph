@@ -1,0 +1,46 @@
+{
+  "name": "镇水兽石雕",
+  "original_name": "桥下龙种像",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这尊石雕不仅是工艺品，更是仙府遗址中控制水运的关键节点。虽然经历了千万年光阴，依然保持着强 大的镇压能力 。",
+  "aliases": [
+    "趴蝮"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第308章 杀机四伏",
+      "owner": "无"
+    }
+  ],
+  "subtype": "镇压类",
+  "holder": "仙府遗址 (北俱芦洲)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "上古仙人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为仙府核心水系的枢纽，具备吸收一洲水运从而进阶为法宝的潜力 。",
+  "supernatural_ability": "**“稳固山根”**。天然压胜一切水裔怪异，使其无法在洞府内兴风作浪，并能汇聚四周灵气转化为精纯 水运 。",
+  "evolution": {
+    "current_form": "雕刻在白玉拱桥石墩上的异兽塑像 。",
+    "materials_consumed": [
+      "天外陨石",
+      "济渎水精"
+    ],
+    "potential_evolution": "若能获得真龙点睛，可幻化为活物护守大渎。"
+  },
+  "visual": {
+    "static": "头顶双犄角，身披龙鳞，形似龙种却又非龙。位于白玉桥下石墩处，探头望水，栩栩如生 。",
+    "active": "在灵气波动剧烈时，石像会散发出微弱的青色光芒，压制周围激荡的水流 。"
+  },
+  "provenance": {
+    "origin": "源自北俱芦洲某处远古仙府遗址的水道中枢 。",
+    "karma_link": "此物名称在古籍中颇为神秘，引起了陈平安的特别关注与沉思 。"
+  },
+  "enriched": true
+}

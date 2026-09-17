@@ -1,0 +1,38 @@
+{
+  "name": "“书生到此是豪雄”印章",
+  "original_name": "隐官手刻印章",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安“不务正业”的巅峰之作，旨在通过金石艺术 表达其对“学问”与“剑道”关系的深刻理解 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1055章 书生到此",
+      "owner": "沈沉"
+    }
+  ],
+  "subtype": "文房/气运类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "承载了陈平安在剑气长城的隐官气运，有望升格为法宝 。",
+  "supernatural_ability": "印文蕴含儒家书生与剑客豪杰的双重意境，具有稳固心 境、压胜阴物的功效 。",
+  "evolution": {
+    "current_form": "取材自剑气长城寻常石材的私章 。",
+    "materials_consumed": [
+      "剑气长城石材",
+      "飞剑十五刻工"
+    ],
+    "potential_evolution": "可作为《皕剑仙印谱》的核心收藏 。"
+  },
+  "visual": {
+    "static": "字口如斩，法度森严，印文风格追求神似其传道长辈 。",
+    "active": "钤印时隐约可见剑气流转，文字仿佛能化作真实的剑意 光芒 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城期间，为了经营绸缎铺子而亲手雕刻 。",
+    "karma_link": "连接了陈平安的读书人底色与隐官的杀伐决断 。"
+  },
+  "enriched": true
+}

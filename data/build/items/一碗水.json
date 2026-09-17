@@ -1,0 +1,38 @@
+{
+  "name": "一碗水",
+  "original_name": "白碗 / 观照碗",
+  "type": "灵器",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "被誉为“山上人的缩影”。郑大风、陈灵均和朱敛经常关起门来，对着这碗水点评天下仙子、探讨人间腌 臜事。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第623章 炼剑",
+      "owner": "大妖重光"
+    }
+  ],
+  "subtype": "沟通/娱乐类",
+  "holder": "山上修士 / 郑大风",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "视碗中水的来源而定，如取自正阳山滚雷潭的水可窥见雷法异象。",
+  "supernatural_ability": "投入神仙钱并灌注灵气后，可跨越千万里观看仙家名山的奇景或神仙人物的起居。",
+  "evolution": {
+    "current_form": "普通的白瓷碗，内盛清水，水面平滑如镜。",
+    "materials_consumed": [
+      "雪花钱",
+      "山水气数精华"
+    ],
+    "potential_evolution": "若有“酒泉杯”之能，可实现实时的跨洲音画互动。"
+  },
+  "visual": {
+    "static": "看上去就是一碗寻常的水，但在阳光下会折射出七彩涟漪。",
+    "active": "水面会徐徐展开动态画卷，画面纤毫毕现，令人如同身临其境。"
+  },
+  "provenance": {
+    "origin": "由云窟福地等擅长水法与幻术的门派开发售卖。",
+    "karma_link": "是山上神仙打发光阴、关注“胭脂评”的主要途径，也是落魄山众人的重要娱乐方式。"
+  },
+  "enriched": true
+}

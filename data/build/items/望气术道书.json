@@ -1,0 +1,44 @@
+{
+  "name": "望气术道书",
+  "original_name": "秘书灵笈 / 钦天监典籍",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "白帝城收藏的庞大文献系统的一部分。涉及阴阳家、堪舆家及钦天监的最高学问，是郑居中推演天下棋 局的重要依据 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1065章 江湖寂寥一百年",
+      "owner": "顾璨(赠予落魄山)"
+    }
+  ],
+  "subtype": "术法类",
+  "holder": "白帝城 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "郑居中",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "集齐多部后，可让修士洞察一洲龙脉起伏与国祚兴衰 。",
+  "supernatural_ability": "传授格龙、观星、辨析灵气流向的方法，辅佐寻找洞天福地 。",
+  "evolution": {
+    "current_form": "厚重的版本典籍，多有大修士的摘抄批注 。",
+    "materials_consumed": [
+      "星象知识",
+      "堪舆术法"
+    ],
+    "potential_evolution": "转化为可让人“天眼通”的本命道法。"
+  },
+  "visual": {
+    "static": "纸张可能带有金丝或玉质光泽，文字明灭不定 。",
+    "active": "翻阅时书页上可浮现出缩小的山川地理形势图 。"
+  },
+  "provenance": {
+    "origin": "白帝城刻书局汇总天下搜刮而来的道书 。",
+    "karma_link": "顾璨在白帝城修行时曾借阅此类书籍逾两千卷 。"
+  },
+  "enriched": true
+}

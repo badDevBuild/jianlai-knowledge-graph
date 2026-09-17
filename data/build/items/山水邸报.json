@@ -1,0 +1,56 @@
+{
+  "name": "山水邸报",
+  "original_name": "山上邸报",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "山水邸报不仅是消遣，更是山上势力的“琅琊榜”。它记录了修行者的位 次与宗门的兴衰，影响着整座天下的利益分配 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第539章 相逢偶然，离别悄然",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第704章 朱颜敛藏",
+      "owner": "刘羡阳"
+    },
+    {
+      "chapter": "第923章 与诸君借取千山万水（四）",
+      "owner": "檀溶"
+    },
+    {
+      "chapter": "第1067章 大师兄和小师弟",
+      "owner": "苏乘"
+    }
+  ],
+  "subtype": "信息/传讯类",
+  "holder": "一洲修士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "山海宗 / 柳絮岛",
+      "relation": "主笔"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "记录天下的言语若带有“本命字”神意，可作为某种咒术的引子。",
+  "supernatural_ability": "具备极强的时效性，可跨洲传递消息，是“名声”流传的主要途径 。",
+  "evolution": {
+    "current_form": "大小如堪舆图，售价数颗雪花钱 。",
+    "materials_consumed": [
+      "秘制墨水",
+      "跨洲传讯阵法"
+    ],
+    "potential_evolution": "可演化为具有实时画面的“镜花水月”实录版。"
+  },
+  "visual": {
+    "static": "折叠的纸册，常有“金字招牌”落款，纸张散发檀香 。",
+    "active": "展开时文字可自动排序或显现，偶尔伴随微缩的战斗残像 。"
+  },
+  "provenance": {
+    "origin": "由各洲专门负责收集情报的机构（如柳絮岛）运营 。",
+    "karma_link": "贯穿全书，是陈平安从“泥腿子”到“隐官”声望变迁的见证者 。"
+  },
+  "enriched": true
+}

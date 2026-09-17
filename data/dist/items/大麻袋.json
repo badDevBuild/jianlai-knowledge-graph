@@ -1,0 +1,38 @@
+{
+  "name": "大麻袋",
+  "original_name": "蛇皮口袋 / 粗布大袋",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "在《剑来》中，大麻袋往往代表了一种极其务实的“包袱斋”美学 。陈平安曾多次背着它走过废墟与城池，将其装满那些外人眼中的“破烂”，实则是一笔笔丰厚的神 仙钱 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第702章 数座天下第十一",
+      "owner": "老妪"
+    }
+  ],
+  "subtype": "收纳类",
+  "holder": "陈平安 / 山泽野修",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "虽然只是凡物，但因其承载过众多仙家重宝，逐渐带有某种“不走空”的气运 。",
+  "supernatural_ability": "无特殊神通，但容量惊人，是包袱斋身份的象征 。",
+  "evolution": {
+    "current_form": "一只质地坚韧、半新不旧的粗布大口袋 。",
+    "materials_consumed": [
+      "凡俗麻布",
+      "路途的风霜"
+    ],
+    "potential_evolution": "若能融入空间碎片，有望成为最低阶的“方寸物” 。"
+  },
+  "visual": {
+    "static": "看着就是市井人家装粮食或木炭的普通袋子 。",
+    "active": "装满宝物后，沉甸甸的，外表凹凸不平，露出各种瓶罐或书籍的轮廓 。"
+  },
+  "provenance": {
+    "origin": "购自普通的市井杂货铺 。",
+    "karma_link": "象征着陈平安作为“泥腿子”武夫起步、一点一滴积攒家当的艰辛路程 。"
+  },
+  "enriched": true
+}

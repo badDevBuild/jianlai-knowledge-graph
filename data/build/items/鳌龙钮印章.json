@@ -1,0 +1,44 @@
+{
+  "name": "鳌龙钮印章",
+  "original_name": "知足/知不足对章",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安在野云渡地界购得的印章。虽然不值几颗神仙钱 ，但其印文极其契合陈平安此时的处境，被其视为值得 珍藏的文房雅玩 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第894章 天下皆知",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文房/篆刻类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "野云渡铺子",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽无名家落款，但因其材质与印文意境，随着持有者心 境提升可产生“知足不辱”的大道压胜。",
+  "supernatural_ability": "知足、知不足两印相合，可稳固修士心境，于纷纷扰扰 的人间因果中保持清明。",
+  "evolution": {
+    "current_form": "鳌龙纽造型的印章一对，无边款。",
+    "materials_consumed": [
+      "古玉",
+      "金石气"
+    ],
+    "potential_evolution": "若由金石大家重刻边款，可晋升为重器。"
+  },
+  "visual": {
+    "static": "一对印钮雕刻为鳌龙形状的印章，知足、知不足二印并 列。",
+    "active": "钤印时会有淡淡的金光闪烁，文字显化出一股“知止”的 道韵。"
+  },
+  "provenance": {
+    "origin": "陈平安在桐叶洲野云渡（野云渡）捡漏购得 。",
+    "karma_link": "体现了陈平安“知足”与“知不足”的人生哲学与修行态度 。"
+  },
+  "enriched": true
+}

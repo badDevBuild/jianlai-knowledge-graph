@@ -1,0 +1,50 @@
+{
+  "name": "隐官",
+  "original_name": "隐官玉牌 / 隐官令",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "隐官一脉的权力象征。它不仅是身份证明，更是一件能够操控全城阵法、查阅万年禁忌档案、定夺千万 人生死的因果重器。",
+  "aliases": [
+    "隐官飞剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第643章 等个人",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "权柄类 / 阵法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "萧愻",
+      "relation": "曾持有"
+    },
+    {
+      "name": "剑气长城",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "承载半座剑气长城的合道契机，其位阶等同于飞升城城主之印 。",
+  "supernatural_ability": "一言而定人生死；在剑气长城禁地内通行无碍，可调动避暑、躲寒两座行宫的所有绝密档案与剑修权限 。",
+  "evolution": {
+    "current_form": "篆刻有“隐官”二字的素雅古玉牌",
+    "materials_consumed": [
+      "剑气长城气运",
+      "历代隐官神性"
+    ],
+    "potential_evolution": "与持有者大道完全融合，成为掌控整座天下剑道气运的枢纽。"
+  },
+  "visual": {
+    "static": "质地细腻、古色古香的玉牌，其上“隐官”二字笔画苍劲且法度森严 。",
+    "active": "激发时散发出森严的压胜剑气，能短暂隔绝一方小天地，压制敌方神识 。"
+  },
+  "provenance": {
+    "origin": "源自剑气长城“隐官”一脉历代传承 。",
+    "karma_link": "由陈清都属意传给陈平安，使其掌握了对抗蛮荒天下的最高智略与杀伐权柄 。"
+  },
+  "enriched": true
+}

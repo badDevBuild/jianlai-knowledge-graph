@@ -1,0 +1,44 @@
+{
+  "name": "长剑与金色剑鞘",
+  "original_name": "横秋",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此长剑与其配套的金色剑鞘是秋气湖水君宫花的随身重器 。剑名“横秋”，寓意剑气所过，万物肃杀，不仅是攻伐利刃，更是她作为一方神灵的执法信物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第788章 问剑去",
+      "owner": "持剑者"
+    }
+  ],
+  "subtype": "攻伐类 / 压胜类",
+  "holder": "宫花",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "古代武学宗师",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "名剑“横秋”具备随持有者神魂壮大而提升剑意深度的潜力 。",
+  "supernatural_ability": "具备“横秋”之意，能压制一切由死气或阴气生发的邪祟；剑气清亮，专克水裔怪异 。",
+  "evolution": {
+    "current_form": "背负于身后的古剑与金色剑鞘 。",
+    "materials_consumed": [
+      "深海金丝",
+      "玄铁精金"
+    ],
+    "potential_evolution": "可进一步炼化月魄精华，提升其辟邪权柄 。"
+  },
+  "visual": {
+    "static": "剑鞘通体裹缠细密的金色丝线，透着古朴而高贵的气息 。",
+    "active": "出鞘时剑光如练，呈青词道意，能够瞬间照亮大面积水域或阴暗处 。"
+  },
+  "provenance": {
+    "origin": "古代武学宗师遗留，由英灵鬼物宫花取回 。",
+    "karma_link": "见证了宫花从武夫英灵转为秋气湖水君的神道历程 。"
+  },
+  "enriched": true
+}

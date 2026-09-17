@@ -1,0 +1,38 @@
+{
+  "name": "百花",
+  "original_name": "百花福地印记 / 十花酿",
+  "type": "灵物",
+  "grade": "本命飞剑",
+  "status": "活跃",
+  "description": "**统称百花福地所产的一系列文雅灵物**。它们在山上 极受追捧，甚至能影响到一国君主的审美与文运 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第792章 仙人术法",
+      "owner": "于樾"
+    }
+  ],
+  "subtype": "滋养/传承类",
+  "holder": "文庙 / 百花福地",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随着花神位格提升，可演变为掌控天下花期天时的权柄 。",
+  "supernatural_ability": "包含百花之精华，能润泽肌肤、滋养神魂，并在斗法中 显化出百花盛开的异象以压制秽气 。",
+  "evolution": {
+    "current_form": "常以胭脂、水粉或仙酿的形式存在 。",
+    "materials_consumed": [
+      "百花精魄",
+      "福地月魄"
+    ],
+    "potential_evolution": "若得道祖点化，可成“解语花” 。"
+  },
+  "visual": {
+    "static": "流光溢彩，带有经久不散的奇异花香 。",
+    "active": "使用时会有花雨落下，伴随神女起舞的幻象 。"
+  },
+  "provenance": {
+    "origin": "源自百花福地，曾向龙虎山天师府进贡 。",
+    "karma_link": "与天下女修的“红粉因缘”密不可分 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "《铁剑轻弹集》",
+  "original_name": "",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安在红烛镇购得的“孤本”。它是作者在漫长岁月中历经人世百态的感悟，既是文学佳作，也是涉及 蛟龙气运的珍贵物证 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第178章 我看一座山",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "传承类 / 文运类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "程水东",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为古蜀遗孤、大儒程水东的毕生心血，蕴含极高的文运与蛟龙气数 , 。",
+  "supernatural_ability": "**“温养气象”**。长期研读可滋养浩然正气，且书中可能藏有古蜀蛟龙一脉的隐秘修行心得 , 。",
+  "evolution": {
+    "current_form": "纸质书籍，由黄庭国老侍郎程水东所著 。",
+    "materials_consumed": [
+      "文人笔墨",
+      "老蛟灵气"
+    ],
+    "potential_evolution": "若能获得作者本人点化，可演化为镇压一洲文脉的至宝 , 。"
+  },
+  "visual": {
+    "static": "装订古朴，书名挺拔有力，纸张透着淡淡的墨香 。",
+    "active": "研读时字里行间仿佛有剑鸣与龙吟之声，文气勃发 , 。"
+  },
+  "provenance": {
+    "origin": "作者程水东实为古蜀国遗留的一条万年老蛟 。",
+    "karma_link": "见证了老蛟潜伏人间、最终重返大骊文脉并担任林鹿书院副山长的历程 。"
+  },
+  "enriched": true
+}

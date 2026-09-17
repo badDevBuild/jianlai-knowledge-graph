@@ -1,0 +1,49 @@
+{
+  "name": "杨家铺子的药",
+  "original_name": "杨家秘制药膏 / 止痛散",
+  "type": "丹药",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是陈平安年少时采药所得的报酬之一，不仅是良药， 更是杨老头对他进行“打磨”的重要工具 。",
+  "aliases": [
+    "杨家铺子的药",
+    "药汤",
+    "小瓷瓶",
+    "回阳丹"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第51章 对峙",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "医疗/滋养类",
+  "holder": "陈平安 / 顾璨",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头 (药铺)",
+      "relation": "发放者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽由凡俗草药混炼，但在圣人杨老头的手段下，具备重 塑肉体长生桥的雏形效力 。",
+  "supernatural_ability": "具备极强的止痛与生肌之功，能帮助修士在身受重伤后 保存最后一线元气 。",
+  "evolution": {
+    "current_form": "黑褐色的药膏或粉末，散发出浓郁的草药苦味 。",
+    "materials_consumed": [
+      "山中茯苓",
+      "上古秘方"
+    ],
+    "potential_evolution": "可配合特定的吐纳术，转化为帮助武夫跻身“止境”的淬 体丹 。"
+  },
+  "visual": {
+    "static": "装在普通的瓷瓶或瓷罐中，毫不起眼 。",
+    "active": "涂抹或吞服后，伤口处会升起淡淡的白烟，并伴随清凉 感 。"
+  },
+  "provenance": {
+    "origin": "产自骊珠洞天镇口的杨家铺子，由青童天君亲自配制 。",
+    "karma_link": "连接了杨老头对小镇孩子的“公平买卖”因果，曾多次救 陈平安于危难 。"
+  },
+  "enriched": true
+}

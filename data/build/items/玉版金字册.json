@@ -1,0 +1,43 @@
+{
+  "name": "玉版金字册",
+  "original_name": "金字玉册道诀",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一部极其珍稀的道门功法秘籍，不仅本身是件仙兵重宝，更记载了跨越生死门槛、直通玉璞乃至飞 升境界的修行法门 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第267章 临近倒悬山",
+      "owner": "中年汉子 -> 老舟子"
+    }
+  ],
+  "subtype": "功法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "记载了某种旁门飞升之法，由于品秩极高，只有境界足够的修士才能开卷 。",
+  "supernatural_ability": "册内金字蕴含雷电真意，能够牵引紫金道气，修士可通过研习此册寻找跻身上五境的登天之路 。",
+  "evolution": {
+    "current_form": "碧色玉册金字道书。",
+    "materials_consumed": [
+      "上古道门神髓"
+    ],
+    "potential_evolution": "完全参悟后可演化出完整的“白日举形”大神通 。"
+  },
+  "visual": {
+    "static": "一叠由碧绿色玉石片串联而成的册子，上边刻满了流光溢彩的金字 。",
+    "active": "开启时散发出浓郁的紫金道气，如百千龙蛇驾驭雷电，气势宏大 。"
+  },
+  "provenance": {
+    "origin": "青冥天下岁除宫的至宝 。",
+    "karma_link": "吴霜降在夜航船战后赠予陈平安，作为双方因果了断的补偿 。"
+  },
+  "enriched": true
+}

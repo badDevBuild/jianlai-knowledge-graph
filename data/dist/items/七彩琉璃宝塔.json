@@ -1,0 +1,44 @@
+{
+  "name": "七彩琉璃宝塔",
+  "original_name": "玲珑宝塔 / 镇妖塔",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "此塔是龙泉剑宗谢灵的**核心重器**。虽然陆沉早年含糊其辞称其为半仙兵，但随着谢灵登高，其内部 蕴含的白玉京正统法性逐渐显露，被确认为当世罕见的**防御性仙兵** 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第995章 有限杯长少年",
+      "owner": "谢灵"
+    }
+  ],
+  "subtype": "镇压类",
+  "holder": "谢灵",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "初期被视为半仙兵，随着谢灵境界提升，展现出真正**仙兵级**的镇压威能 。",
+  "supernatural_ability": "能够镇压世间一切上五境之下的邪魔外道与阴灵鬼物，具备极致的**防御与封禁**神通 。",
+  "evolution": {
+    "current_form": "一座高九层、半尺高的七彩琉璃小塔 。",
+    "materials_consumed": [
+      "白玉京道韵",
+      "纯净灵气"
+    ],
+    "potential_evolution": "完全炼化后，塔上匾额文字会产生**大道感应**，自成一座镇妖法场 。"
+  },
+  "visual": {
+    "static": "塔身散发七彩宝光，每一层四面各悬挂有一枚匾额，共计三十六块 。",
+    "active": "祭出时宝塔会急剧放大，宝光直冲云霄，伴随**雷鸣之声**镇压目标 。"
+  },
+  "provenance": {
+    "origin": "出自白玉京三掌教**陆沉**之手 。",
+    "karma_link": "作为陆沉送给谢灵的“收徒礼”/“见面礼”，也是由于谢家祖上谢实的因果 。"
+  },
+  "enriched": true
+}

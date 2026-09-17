@@ -1,0 +1,48 @@
+{
+  "name": "《大水断崖》",
+  "original_name": "无",
+  "type": "典籍",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这本书是陈平安送给李槐的启蒙读物。 虽然购买时看似寻常，实则是**由于李槐的“狗屎运”**才发现了其中隐藏的文灵异象。 ,",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第476章 江清月近人",
+      "owner": "李槐"
+    }
+  ],
+  "subtype": "灵异类书籍",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "冲澹江水神 (老掌柜)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "书中寄居着多位文灵精魅，随着李槐读书渐多，这些精魅有望修成正果。 ,",
+  "supernatural_ability": "**内藏精魅**。书中豢养有极其细微的“蠹鱼”和一尾“青冥鱼”，能够游曳于字里行间。 ,",
+  "evolution": {
+    "current_form": "看似崭新的纸质书籍。",
+    "materials_consumed": [
+      "文字精气",
+      "山水灵气"
+    ],
+    "potential_evolution": "其中的精魅可转化为灵智更高的“文灵”，甚至影响持有者的学问造诣。"
+  },
+  "visual": {
+    "static": "封皮普通，但在灵气映照下可见字里行间的波纹。",
+    "active": "翻阅时**蠹鱼会在文字缝隙中穿梭**，灵气波动如江河。"
+  },
+  "provenance": {
+    "origin": "陈平安在红烛镇冲澹江书铺购得，市价九两二钱。",
+    "karma_link": "李槐凭借极佳的福缘，使书中的精魅转投至齐静春的字帖中。"
+  },
+  "enriched": true
+}

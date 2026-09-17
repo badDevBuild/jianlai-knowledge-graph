@@ -1,0 +1,48 @@
+{
+  "name": "墨猴",
+  "original_name": "龙宾 / 墨精",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "一种极其罕见的文房灵物，是“龙宾”脉络的体现。它不 仅能提升书法符箓的品秩，更是文人墨客大道契机的象 征。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第907章 浩荡百川流",
+      "owner": "温煜"
+    },
+    {
+      "chapter": "第1047章 梧桐更兼细雨",
+      "owner": "温煜"
+    }
+  ],
+  "subtype": "文运/滋养类",
+  "holder": "蒋去 / 暖树",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "戴塬",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "长期吸食名墨文气，可化为墨龙，成就非凡的文房法宝 。",
+  "supernatural_ability": "以“龙宾”自称，喜好在名贵古墨上游走，所过之处文气 氤氲，能令笔下文字带有真灵 。",
+  "evolution": {
+    "current_form": "如苍蝇大小的小道人形象，或为墨精之身。",
+    "materials_consumed": [
+      "古墨精粹",
+      "儒家文运"
+    ],
+    "potential_evolution": "进化为“墨龙”，可镇压一方书院文脉 。"
+  },
+  "visual": {
+    "static": "停留在墨锭上，形如微缩的人像，不仔细观察极难察觉 。",
+    "active": "在研墨时会活跃起来，吞吐墨香，引动室内的灵气涟漪 。"
+  },
+  "provenance": {
+    "origin": "源自中土神洲古老门阀的御制古墨，得道成精。",
+    "karma_link": "被陈平安从戴塬处获得并转赠给蒋去，以辅佐其符箓修 行 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "道书秘笈",
+  "original_name": "万物可炼法诀 / 祈雨碑道诀",
+  "type": "典籍",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这本**道书秘笈**是陈平安在书简湖时期最重要的转折点。它不仅教导了**“万物可炼”**的手段，更暗 藏了应对飞升境瓶颈的玄机 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第542章 羊肠小道，人人野修",
+      "owner": "孙道人"
+    }
+  ],
+  "subtype": "传承类 / 炼物类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "柳柔 (埋河水神)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "大渎龙王",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "涉及白玉京第四城的通天大道，是跻身上五境、度化心魔的关键传承 。",
+  "supernatural_ability": "阐述五行之道运转至理，能够炼化金身与香火；可引导灵气在气府间精准流转，修补受损大道 。",
+  "evolution": {
+    "current_form": "五千余字的文字真灵，现存于陈平安的水府之中 。",
+    "materials_consumed": [
+      "水运精华",
+      "功德灵光"
+    ],
+    "potential_evolution": "可演化为四条登天之路，帮助修士避开歧途 。"
+  },
+  "visual": {
+    "static": "原本刻在水运玉简之上，文字洁净精微 。",
+    "active": "炼化后化为一个个身穿碧绿衣裳的小人儿，在气府中绘画门神、描绘水图 。"
+  },
+  "provenance": {
+    "origin": "得自碧游府前身的上古“河渎龙宫”废墟 。",
+    "karma_link": "埋河水神感念陈平安的恩德，将这门毕生心血所在、直指大道的法诀倾囊相授 。"
+  },
+  "enriched": true
+}

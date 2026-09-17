@@ -1,0 +1,43 @@
+{
+  "name": "群真",
+  "original_name": "八骏名剑之一",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "群真是蛮荒天下十四王座大妖袁首的配剑，属于“八骏流散”中的渠黄仿剑。此剑品秩极高，足以让寻常 地仙见之胆寒 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第724章 一斩再斩，唯我得意",
+      "owner": "袁首"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "袁首",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "上古铸剑师",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为上古八骏名剑之一，拥有极高的杀力，是蛮荒天下巅峰大妖袁首的配剑 , 。",
+  "supernatural_ability": "具备惊人的破坏力，曾在扶摇洲战场上对抗白也的剑阵 , 。",
+  "evolution": {
+    "current_form": "古意森森的长剑 。",
+    "materials_consumed": [
+      "上古金精"
+    ],
+    "potential_evolution": "若能集齐八骏名剑并重新熔铸，或许能再现上古神兵威能 。"
+  },
+  "visual": {
+    "static": "剑身带有古朴的质感，铭文清晰，透出一股厚重的杀气 。",
+    "active": "出鞘时剑气纵横，能够震碎云海，显现出蛮横的攻伐气象 , 。"
+  },
+  "provenance": {
+    "origin": "由中土大铸剑师耗费毕生心血打造的“八骏”系列名剑之一 。",
+    "karma_link": "曾被袁首用来作为进攻剑气长城的利刃 。"
+  },
+  "enriched": true
+}

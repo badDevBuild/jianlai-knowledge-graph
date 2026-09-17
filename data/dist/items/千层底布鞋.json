@@ -1,0 +1,43 @@
+{
+  "name": "千层底布鞋",
+  "original_name": "家常布鞋",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安在作为云游道人“陈迹”或负笈游学者时常穿的鞋 子，即便身怀仙兵重宝，依然保持着这种朴素的行走方 式 。",
+  "aliases": [
+    "千层底老布鞋"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第887章 春山",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第989章 醉得不知人间第几天",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "服饰类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "虽是凡俗之物，但随着持有人行走千万里山河，可浸染 拳意或道韵 。",
+  "supernatural_ability": "无明显神通，但象征着武夫脚踏实地的修行基调 。",
+  "evolution": {
+    "current_form": "普通棉布缝制的千层底鞋子 。",
+    "materials_consumed": [
+      "棉麻"
+    ],
+    "potential_evolution": "可演化为承载“行万里路”感悟的心境载体 。"
+  },
+  "visual": {
+    "static": "质朴且干净，呈现典型的山下市井装束 。",
+    "active": "行走于山水间，身姿迅捷，却不带起半点尘土，显现出 缩地成寸的自然神采 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝仙游县等地的市井鞋铺 。",
+    "karma_link": "陈平安远游时的标志性装束，代表了他作为“泥腿子”的 本色 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "罗汉金身",
+  "original_name": "佛门金刚不坏身 / 罗汉遗骨",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "罗汉金身是佛家修行的极致体现。其肉身坚韧程度远超世间一般法宝，其蕴含的神圣能量是压制阴秽煞 气的天然克星 。",
+  "aliases": [
+    "金身"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第311章 人外有人",
+      "owner": "原藏于白河寺，现可能在南苑国皇宫"
+    },
+    {
+      "chapter": "第320章 井口边的老道人",
+      "owner": "云泥"
+    }
+  ],
+  "subtype": "佛家重宝 / 材料类",
+  "holder": "西方佛国",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "西方佛国金身罗汉",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为佛门证果者的最高成就，其部分遗存（如鲜血、骨骼）皆拥有无上佛力 。",
+  "supernatural_ability": "金身罗汉的血液呈金色，可用于书写最顶尖的《金刚经》符箓，防御力足以抵挡陆地剑仙的倾力一击 。",
+  "evolution": {
+    "current_form": "处于不败不朽状态的佛门躯壳或其神圣遗存 。",
+    "materials_consumed": [
+      "万年功德",
+      "佛法感悟"
+    ],
+    "potential_evolution": "演化为菩萨果位或真正的金刚不坏法界。"
+  },
+  "visual": {
+    "static": "肤如金铸，宝相庄严，散发出淡淡的檀香味与祥和佛光 。",
+    "active": "激发时佛光照彻十方，邪祟难近，血液流淌出金子般的光泽 。"
+  },
+  "provenance": {
+    "origin": "源自西方佛国，由高僧证得罗汉果位后练就 。",
+    "karma_link": "其血液常被顶级符师借取，用于绘制镇杀妖魔的“金刚护身符” 。"
+  },
+  "enriched": true
+}

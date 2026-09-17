@@ -1,0 +1,38 @@
+{
+  "name": "乌鞘长刀",
+  "original_name": "裴杯佩刀",
+  "type": "其他",
+  "grade": "兵器",
+  "status": "活跃",
+  "description": "这是大端王朝女子武神、国师裴杯的标志性兵刃 。在皑皑洲的最北方，她曾持此刀独自远游，向世人 展示了纯粹武夫的极致气概 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第968章 抢徒弟",
+      "owner": "秦不疑"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "裴杯",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为浩然天下女子武神、中土十人之一的佩刀，具有震 慑整座大洲气运的威力 。",
+  "supernatural_ability": "蕴含纯粹武夫的极致杀力，能够压制同境修士的灵气波 动，出鞘即见生死 。",
+  "evolution": {
+    "current_form": "悬挂在女子武神腰间的乌木鞘长刀 。",
+    "materials_consumed": [
+      "中土武运",
+      "神兵材质"
+    ],
+    "potential_evolution": "可随着持刀者武道境界的突破，演化为斩断因果的武道 至宝 。"
+  },
+  "visual": {
+    "static": "刀鞘漆黑如墨，质感古朴，不露锋芒 。",
+    "active": "出鞘后刀光如雪，能够撕裂云海，气势如虹 。"
+  },
+  "provenance": {
+    "origin": "中土神洲大端王朝 。",
+    "karma_link": "代表了浩然天下纯粹武夫的巅峰战力，曾令无数山上修 士闻之色变 。"
+  },
+  "enriched": true
+}

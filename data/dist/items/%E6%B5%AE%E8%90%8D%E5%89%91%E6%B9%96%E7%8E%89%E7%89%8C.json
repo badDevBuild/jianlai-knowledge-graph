@@ -1,0 +1,47 @@
+{
+  "name": "浮萍剑湖玉牌",
+  "original_name": "浮萍剑湖祖师堂特殊玉牌",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是浮萍剑湖极其珍贵的嫡传凭证，除了身份象征外，其作为**咫尺物**的功能使其价值远超一般灵器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第526章 伏线拎起即杀机",
+      "owner": "隋景澄"
+    }
+  ],
+  "subtype": "存储类 / 凭证类",
+  "holder": "隋景澄",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "荣畅",
+      "relation": "赠予者"
+    },
+    {
+      "name": "浮萍剑湖祖师堂",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为宗门嫡传信物，承载了一洲剑道气运，具备随着持有人境界提升而强化的潜力。",
+  "supernatural_ability": "不仅象征浮萍剑湖嫡传身份，更是一件极其罕见的**咫尺物**，通常唯有上五境修士才能拥有。",
+  "evolution": {
+    "current_form": "祖师堂特殊玉牌。",
+    "materials_consumed": [
+      "仙家美玉"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "质地细腻，造型古朴，牌面刻有象征浮萍剑湖的符文，散发出淡淡的剑意波动。",
+    "active": "激活时可开启内部小天地存储物品，剑气流溢，能震慑寻常宵小。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲浮萍剑湖祖师堂。",
+    "karma_link": "由浮萍剑湖大师兄荣畅代师赠予隋景澄，确立其嫡传身份 。"
+  },
+  "enriched": true
+}

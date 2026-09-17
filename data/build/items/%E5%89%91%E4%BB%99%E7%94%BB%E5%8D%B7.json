@@ -1,0 +1,52 @@
+{
+  "name": "剑仙画卷",
+  "original_name": "远古十八剑仙画卷",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此画卷曾是离真构建“雷池大劫”的十八件核心重宝之一 。虽然在战斗中受损严重，但内藏的远古剑仙神意通过陈平安与刘景龙的修复，已成为落魄山最强的 防御枢纽 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第623章 炼剑",
+      "owner": "敬剑阁 (陈平安暂取)"
+    },
+    {
+      "chapter": "第767章 落魄山的镜花水月",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "阵法类 / 召唤类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "离真",
+      "relation": "夺取自"
+    },
+    {
+      "name": "蛮荒天下",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "在落魄山可结合“太平山阵图”与多把名剑，演化为极具杀力的护山大阵 。",
+  "supernatural_ability": "激活后可从画中走出十八位剑仙英灵镜像，每一位出剑威力均等同于地仙剑修的全力一击 。",
+  "evolution": {
+    "current_form": "古木轴杆裂开、画面残破的陈旧卷轴 。",
+    "materials_consumed": [
+      "太平山阵图",
+      "十二把剑仙飞剑"
+    ],
+    "potential_evolution": "由刘景龙操刀，将其提升为具有自主灵智、能镇压一宗气运的顶级攻伐阵法 。"
+  },
+  "visual": {
+    "static": "一幅古意盎然的残破画卷，画中人物面貌在光阴冲刷下略显模糊 。",
+    "active": "展开后如同剑气运转的天然轨迹，十八位白衣剑仙御剑现身，气象重霄 。"
+  },
+  "provenance": {
+    "origin": "记载了蛮荒天下历史上十八位顶尖剑修的英灵真意 。",
+    "karma_link": "陈平安在战场击杀离真后将其作为战利品收入囊中，后成为落魄山底蕴 。"
+  },
+  "enriched": true
+}

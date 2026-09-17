@@ -1,0 +1,52 @@
+{
+  "name": "兵家金乌甲",
+  "original_name": "金乌宝甲 / 兵家甲丸",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这是兵家三种顶级甲丸之一。陈平安以此物作为其庞大“家底”的一部分，不仅是为了防御，更是在研究 兵家铸造与神性融合的奥秘。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第429章 有些重逢是最坏的",
+      "owner": "朱荧王朝剑修"
+    },
+    {
+      "chapter": "第813章 饮者",
+      "owner": "陈平安 (原属崔公壮)"
+    }
+  ],
+  "subtype": "防御类 / 铠甲",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔公壮",
+      "relation": "夺取自"
+    },
+    {
+      "name": "大骊朝廷",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为“大霜”神甲的直系衍生，若能融入神灵金身碎片，有机会跻身仙兵品秩。",
+  "supernatural_ability": "具备极强的物理与术法防御力；能与持有者的武夫真气产生共鸣，大幅度提升体魄抗击打能力。",
+  "evolution": {
+    "current_form": "一粒光彩夺目的金色丹丸（甲丸）。",
+    "materials_consumed": [
+      "金精铜钱精华",
+      "神灵金身碎片"
+    ],
+    "potential_evolution": "可演化为具有“金乌巡天”护体异象的终极甲胄。"
+  },
+  "visual": {
+    "static": "静止时为一颗金色质地的圆润丹丸，表面有细微的火属道纹。",
+    "active": "穿戴时金光灿烂，甲片如鳞片般瞬间覆盖全身，整个人犹如一尊金色战神。"
+  },
+  "provenance": {
+    "origin": "由大骊工部与墨家机关师、符师联手打造的山上顶级甲胄。",
+    "karma_link": "陈平安在北俱芦洲锁云宗养云峰通过“讲道理”从九境武夫崔公壮手中“借”得。"
+  },
+  "enriched": true
+}

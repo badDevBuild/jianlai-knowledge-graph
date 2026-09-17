@@ -1,0 +1,48 @@
+{
+  "name": "鱼竿",
+  "original_name": "袖珍月竿 / 龙宫钓具",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这杆鱼竿在北俱芦洲水龙宗一系极负盛名。它不仅是顶级的捕获类法宝，更是一件能够辅助感悟“水月 虚实”的修行利器，曾见证了无数水族机缘的诞生 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第990章 双喜临门",
+      "owner": "令狐蕉鱼"
+    }
+  ],
+  "subtype": "辅助类 / 捕获类",
+  "holder": "令狐蕉鱼",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "权清秋",
+      "relation": "原主 (祖传)"
+    },
+    {
+      "name": "司徒梦鲸",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为能够“钓起明月”的奇物，其上限取决于持有者对水月大道的感悟 。",
+  "supernatural_ability": "能够以水中明月为鱼饵，专门垂钓珍稀水族，尤其是拜月修行的水仙与蛟龙，功效媲美半只“龙王篓” 。",
+  "evolution": {
+    "current_form": "短如佩剑，竿身裹缠银色丝线，如月色流淌 。",
+    "materials_consumed": [
+      "月魄精华",
+      "深海寒铁"
+    ],
+    "potential_evolution": "若能配合极致的“观海”心境，可钓取光阴长河中的“大鱼” 。"
+  },
+  "visual": {
+    "static": "外观精致小巧，如同文人书案上的摆件，散发着清冷的月辉 。",
+    "active": "甩竿时银线划破长空，勾动湖海异象，引得水裔万千俯首 。"
+  },
+  "provenance": {
+    "origin": "源自中土大龙湫一脉，是权氏家族世代传承的重宝 。",
+    "karma_link": "由仙人司徒梦鲸作为补偿与嘉奖，赠予小龙湫弟子令狐蕉鱼 。"
+  },
+  "enriched": true
+}

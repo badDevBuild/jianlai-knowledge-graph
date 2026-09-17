@@ -1,0 +1,46 @@
+{
+  "name": "竹黄刻刀",
+  "original_name": "韦谅书案文刀",
+  "type": "匠器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这把刻刀反映了山上雅士“君子武备”的文化，既是实用的文房工具，也是身份和品味的体现 。",
+  "aliases": [
+    "文刀"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第399章 礼物",
+      "owner": "韦谅"
+    }
+  ],
+  "subtype": "文房类 / 辅助类",
+  "holder": "韦谅",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "韦氏家族",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为“君子武备”之一，虽品秩非顶级法宝，但在法家修士手中具备法度压胜感 。",
+  "supernatural_ability": "“镇纸封禁”。可作为简易镇纸稳固书案气场，在处理机密档案时辅助屏蔽窥探 , 。",
+  "evolution": {
+    "current_form": "贴竹黄材质的裁纸小刀，存放于紫檀木匣中 。",
+    "materials_consumed": [
+      "上等竹黄",
+      "文气浸染"
+    ],
+    "potential_evolution": "可通过承载更多法度禁制演化为判官笔类的杀伐法器。"
+  },
+  "visual": {
+    "static": "色泽淡黄如玉，质感温润，线条洗练 。",
+    "active": "刀锋划过纸张时并无灵气激荡，但在懂行者眼中法度严森 。"
+  },
+  "provenance": {
+    "origin": "青鸾国大都督韦谅的私人收藏，属于其“文刀”系列之一 , 。",
+    "karma_link": "见证了韦谅在青鸾国及大骊官场的布局与谋划 , 。"
+  },
+  "enriched": true
+}

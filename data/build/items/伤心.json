@@ -1,0 +1,37 @@
+{
+  "name": "伤心",
+  "original_name": "伤心",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "正阳山辈分最高的掌律老祖师夏远翠持有的两把本命飞剑之一。它以极高的隐蔽性和致命的杀力著称， 是正阳山应对外敌问剑的核心手段 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第821章 落魄山观礼正阳山",
+      "owner": "夏远翠"
+    }
+  ],
+  "subtype": "攻伐类 / 攻心类",
+  "holder": "夏远翠",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为正阳山玉璞境老祖师的压箱底飞剑，具备演化为仙兵级别的纯粹杀力 。",
+  "supernatural_ability": "杀力卓绝，能够杀人于无形之中。其杀伤力在特定环境下甚至超过了吴提京的“鸳鸯” 。",
+  "evolution": {
+    "current_form": "本命飞剑",
+    "materials_consumed": [
+      "正阳山剑气精华"
+    ],
+    "potential_evolution": "随持剑者破境跻身仙人境而提升品秩。"
+  },
+  "visual": {
+    "static": "常驻于剑修窍穴中，不见形质。",
+    "active": "出剑无形无迹，敌人往往在心生“伤心”意向时便已中剑 。"
+  },
+  "provenance": {
+    "origin": "正阳山老祖师夏远翠本命孕育 。",
+    "karma_link": "与夏远翠的另一飞剑“月晕”共同构筑正阳山的顶层防御体系。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "青衫法袍",
+  "original_name": "春草",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "**此袍代表了落魄山内敛、规矩的修行风气** 。它曾陪伴陈平安走过北俱芦洲的险恶山河，最终传承给下一代弟子 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第464章 出拳并无区别",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "曹晴朗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽暂未达到法宝品秩，但随着灵气不断温养可进阶为中五境法衣 。",
+  "supernatural_ability": "具有“避暑胜地”之美誉，能缓慢汲取并蓄存天地灵气以供修士吐纳 。",
+  "evolution": {
+    "current_form": "质地细腻的竹丝编织而成的湛青色长袍 。",
+    "materials_consumed": [
+      "青神山竹丝",
+      "大量神仙钱（用于修缮）"
+    ],
+    "potential_evolution": "可进阶为无视普通水火侵袭的高阶防护法衣 。"
+  },
+  "visual": {
+    "static": "素雅洁净，带有天然的青草香气，褶皱处流溢微弱的绿色雾霭 。",
+    "active": "被激发时法袍会产生灵气涟漪，形成保护修士气府的天然屏障 。"
+  },
+  "provenance": {
+    "origin": "陈平安游历途中购得，后经多次修缮 。",
+    "karma_link": "陈平安将其作为临别赠礼送给得意学生曹晴朗 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,51 @@
+{
+  "name": "淡金色莲子",
+  "original_name": "干瘪的种子",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这颗莲子见证了陈平安从草鞋少年到山主的转变。它在落魄山静待花开，代表了**落魄山生机勃勃的未 来气象** 。",
+  "aliases": [
+    "淡金色莲子",
+    "金莲种子"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第104章 坐地分赃",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第141章 百怪（上）",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养类 / 演化类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗 / 棋墩山蛇蟒",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽然此时品相不佳，但蕴含着深厚的大道灵气，具备演化为**仙家荷池**的根基 。",
+  "supernatural_ability": "**“生发道意”**。作为骊珠洞天外泄灵物被蛇蟒收集，具有极强的山水气运亲和力 。",
+  "evolution": {
+    "current_form": "拇指大小，略显干瘪的淡金色种子 。",
+    "materials_consumed": [
+      "落魄山灵泉水",
+      "日月精华"
+    ],
+    "potential_evolution": "在落魄山竹楼后的池塘中生发，成为落魄山**山水运化**的标志之一 。"
+  },
+  "visual": {
+    "static": "色泽淡金，质地坚硬，看起来平淡无奇 。",
+    "active": "放入水中后会引动周遭灵气起伏 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天外泄的灵秀之气 。",
+    "karma_link": "陈平安在棋墩山分赃时最后挑选的物品，象征着他**“捡漏”与“守拙”**的性格 。"
+  },
+  "enriched": true
+}

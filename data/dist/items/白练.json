@@ -1,0 +1,38 @@
+{
+  "name": "白练",
+  "original_name": "江河之水 / 挂山白练",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一种常用来形容天地间宏大水运景致的词汇 。在一些特定秘境中，它也可能指代某种能够隐匿身形的特殊灵体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第630章 刺杀隐官",
+      "owner": "徐凝"
+    }
+  ],
+  "subtype": "水法/视觉奇观类",
+  "holder": "山川神祇",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为一地水运的具象，其品秩随河川神位升迁而增强 。",
+  "supernatural_ability": "能够显化为奔流不息的白色绸缎状，具有极强的水属性亲和力与压胜感 。",
+  "evolution": {
+    "current_form": "由高处坠落或法宝倾泻而出的雪白水流 。",
+    "materials_consumed": [
+      "大渎水运精华",
+      "神灵灵气"
+    ],
+    "potential_evolution": "可配合仙家阵法演化为防御极强的“水云身” 。"
+  },
+  "visual": {
+    "static": "如同一条静止悬挂在青色崖壁间的白色布匹 。",
+    "active": "在大日照耀下，折射出璀璨的虹光，水汽氤氲，如龙擘青天 , 。"
+  },
+  "provenance": {
+    "origin": "多见于水路发达的灵山或由水部神灵的净瓶倾倒而成 , 。",
+    "karma_link": "常被用来形容高位水神或大妖（如老虬）出行的威仪气象 。"
+  },
+  "enriched": true
+}

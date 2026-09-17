@@ -1,0 +1,68 @@
+{
+  "name": "朱红色酒葫芦",
+  "original_name": "姜壶",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安最为标志性的物件之一。它不仅是装载美酒的容器，更是温养他本命飞剑的核心。随着陈平 安远游千万里，此葫芦也逐渐在不断的杀伐与磨砺中成长，成为了名动一洲的重宝 [15-17]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第175章 敕令",
+      "owner": "白老爷"
+    },
+    {
+      "chapter": "第220章 山水印",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第427章 人生不是书上的故事",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第656章 学塾那边",
+      "owner": "曹耕心"
+    },
+    {
+      "chapter": "第1009章 年少曾学登山法",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1113章 境界岂可匀一匀",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "养剑类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "大骊宋氏/魏檗",
+      "relation": "赠予者"
+    },
+    {
+      "name": "姜姓剑修",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法器",
+  "rank_potential": "作为可成长型养剑葫，通过吸收金精铜钱与剑气可向半仙兵甚至仙兵品秩晋升 。",
+  "supernatural_ability": "底款“姜壶”寓意“江湖”，内部自成方寸空间，能装载美酒并加速温养飞剑 。",
+  "evolution": {
+    "current_form": "朱红色小葫芦",
+    "materials_consumed": [
+      "金精铜钱",
+      "纯粹剑气"
+    ],
+    "potential_evolution": "成长为名副其实的“江湖”级半仙兵养剑重器"
+  },
+  "visual": {
+    "static": "色泽朱红温润，小巧玲珑，表面摩挲得光可鉴人，底款刻有古朴的“姜壶”二字 。",
+    "active": "葫芦口常有微光闪烁，内部飞剑如“初一”、“十五”在其中穿梭时会发出细微的剑鸣 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝皇室库藏，由魏檗作为买山彩头赠予陈平安 。",
+    "karma_link": "承载了陈平安行走江湖的初心与剑道开端的因果 。"
+  },
+  "enriched": true
+}

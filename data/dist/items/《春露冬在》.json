@@ -1,0 +1,38 @@
+{
+  "name": "《春露冬在》",
+  "original_name": "春露圃山水邸报",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是北俱芦洲与桐叶洲极为流行的**山上读物**。它不仅是修士了解大势的窗口，更是各大门派博取眼 球、进行政治博弈的重要阵地 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第500章 有些遇见",
+      "owner": "春露圃渡船"
+    }
+  ],
+  "subtype": "宣传类",
+  "holder": "春露圃",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为一洲最具影响力的刊物，其记载内容的广度决定了其蕴含的香火情分量 。",
+  "supernatural_ability": "“名动天下”。一旦在集子上刊印姓名，不仅能大幅提升修士的声望，还能为所在山头聚拢无形的气运 。",
+  "evolution": {
+    "current_form": "定期刊印的山水集子 。",
+    "materials_consumed": [
+      "山上秘闻",
+      "神仙钱"
+    ],
+    "potential_evolution": "可演化为具备监察天下气象之能的特殊灵器 。"
+  },
+  "visual": {
+    "static": "版刻极其精美，纸张考究，通常配有当世名家的彩绘插画 。",
+    "active": "翻阅时文字隐现灵光，能呈现出极其传神的人物神态与山水意境 。"
+  },
+  "provenance": {
+    "origin": "由桐叶洲著名山头春露圃负责编撰并刊印 。",
+    "karma_link": "春露圃为向陈平安示好，曾主动邀请其在集子上留名，体现了“山上名声即神仙钱”的逻辑 。"
+  },
+  "enriched": true
+}

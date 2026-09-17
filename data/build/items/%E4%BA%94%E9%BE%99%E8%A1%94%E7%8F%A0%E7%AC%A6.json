@@ -1,0 +1,45 @@
+{
+  "name": "五龙衔珠符",
+  "original_name": "五龙衔珠雷法符 / 五龙开罡雷法",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗",
+  "description": "这是钟魁赠予陈平安的顶级保命符箓。其采用的“风雷纸”材质在大泉王朝亦属罕见，凝聚了圣贤与雷法 的双重神意，是针对高级鬼物的绝杀底牌 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第358章 过桥登山",
+      "owner": "陈平安 (已消耗)"
+    }
+  ],
+  "subtype": "攻伐类 / 镇杀类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "钟魁",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随持有者掌握雷法深浅，可演化为指挥雷部众神的雷电枢机 。",
+  "supernatural_ability": "祭出时天地变色，能引动五道极强雷霆，化作金色雷龙衔珠而至，专门克制高阶阴鬼与作祟水裔 。",
+  "evolution": {
+    "current_form": "书写在带有龙爪篆纹金色风雷纸上的顶级符箓 。",
+    "materials_consumed": [
+      "金色符纸",
+      "浩荡浩然气",
+      "雷电神意"
+    ],
+    "potential_evolution": "若能获得真正的雨师或雷部敕令，威力可直接威胁飞升境大妖 。"
+  },
+  "visual": {
+    "static": "符纸泛着淡淡金光，笔触之间仿佛有微小雷电游走，气势凌人 。",
+    "active": "激发后，天幕会骤然雷雨交加，五条金龙法相破空而出，衔珠吐雷 。"
+  },
+  "provenance": {
+    "origin": "由大伏书院君子钟魁通过其先生游历龙虎山所得真意所创 。",
+    "karma_link": "钟魁为了报答陈平安的交情，耗费大量心神与珍贵材质在碧游府为其手书而成 。"
+  },
+  "enriched": true
+}

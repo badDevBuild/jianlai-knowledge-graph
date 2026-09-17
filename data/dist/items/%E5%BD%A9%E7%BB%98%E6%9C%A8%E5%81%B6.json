@@ -1,0 +1,74 @@
+{
+  "name": "彩绘木偶",
+  "original_name": "木偶小人",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "李槐在棋墩山一见钟情的宝物，长期存放在娇黄木匣中 。它是李槐**童年趣事**的物化体现，也是他作为“天选之人”的福缘见证 。",
+  "aliases": [
+    "彩绘木偶"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第104章 坐地分赃",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第121章 快哉风",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第130章 山水少年",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第136章 山下皆如此",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第155章 相谈甚欢",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第162章 被大隋欺负的孩子们",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第168章 世间父亲皆英雄",
+      "owner": "李槐"
+    },
+    {
+      "chapter": "第400章 远游北归",
+      "owner": "李槐"
+    }
+  ],
+  "subtype": "傀儡类 / 趣味类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗 / 棋墩山蛇蟒",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "属于高明的**墨家傀儡术**或阴阳家秘法，虽然目前仅为玩偶，却具备通灵的基础 。",
+  "supernatural_ability": "**“栩栩如生”**。做工精美绝伦，具备极强的灵动感，深受具有大福缘之人（李槐）的喜爱 。",
+  "evolution": {
+    "current_form": "手掌长短的彩绘木偶 。",
+    "materials_consumed": [
+      "灵木",
+      "秘制彩绘颜料"
+    ],
+    "potential_evolution": "若由墨家钜子重新点睛，可演化为具有护主之能的**战斗傀儡** 。"
+  },
+  "visual": {
+    "static": "色彩斑斓，身形小巧，面部表情极其生动 。",
+    "active": "在内视或特定灵气催动下，隐约有神异流转 。"
+  },
+  "provenance": {
+    "origin": "出自北俱芦洲某处仙府，由魏檗收藏后赠予李槐 。",
+    "karma_link": "李槐远游路上的头号“大将”，与其性格中的**纯真与好运**相呼应 。"
+  },
+  "enriched": true
+}

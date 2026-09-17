@@ -1,0 +1,44 @@
+{
+  "name": "上上签",
+  "original_name": "灵签",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陆沉在小镇摆摊多年、游戏人间的核心道具。虽然 外表平凡，却能引动天下气数，是白玉京三掌教布局的 重要媒介。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第906章 补缺",
+      "owner": "李槐"
+    }
+  ],
+  "subtype": "占卜/气运类",
+  "holder": "陆沉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白玉京",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为陆沉摆摊解签的核心道具，承载了青冥天下白玉京 的因果演算之力，具有窥探天机之能。",
+  "supernatural_ability": "配合陆沉的阴阳演化术，可占断吉凶，指引机缘，甚至 能够牵引出如陈平安等人的大道走向 。",
+  "evolution": {
+    "current_form": "寻常竹木签子，其色古朴。",
+    "materials_consumed": [
+      "白玉京道韵",
+      "众生愿力"
+    ],
+    "potential_evolution": "可演化为能干预命理的“天道律令” 。"
+  },
+  "visual": {
+    "static": "签筒内整齐摆放的竹签，刻有生涩难懂的签文。",
+    "active": "落地之时，签文浮现微光，在陆沉口中化为玄之又玄的 谶语 。"
+  },
+  "provenance": {
+    "origin": "源自白玉京南华城，随陆沉远游浩然天下。",
+    "karma_link": "在骊珠洞天被陆沉用来“守株待兔”，筛选合适的大道继 承人 。"
+  },
+  "enriched": true
+}

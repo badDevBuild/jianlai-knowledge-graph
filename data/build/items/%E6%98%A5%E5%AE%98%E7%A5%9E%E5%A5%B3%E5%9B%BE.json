@@ -1,0 +1,43 @@
+{
+  "name": "春官神女图",
+  "original_name": "壁画城神女图之一",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**春官神女图**是九神女中最为华丽的一幅，代表了万物复苏的原始神性，是陈平安收藏中极具文气的 一件重宝 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第486章 不愧是老江湖",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "传承类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "庞兰溪",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "主掌万物生长与生机，潜质深厚 。",
+  "supernatural_ability": "图中神女置身百花丛中，万鸟飞旋，能敕令百花开落，具有极强的生机转化能力 。",
+  "evolution": {
+    "current_form": "硬黄本白描长卷 。",
+    "materials_consumed": [
+      "天地灵气"
+    ],
+    "potential_evolution": "若神女觉醒，可执掌一方福地的四季流转与花信香泽 。"
+  },
+  "visual": {
+    "static": "繁花簇拥神女，众鸟环绕，画面繁复而有序，意境深远 。",
+    "active": "灵气激发时，画中鸟雀似欲振翅飞出，花香流溢而出 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲骸骨滩壁画城 。",
+    "karma_link": "此图见证了陈平安在北俱芦洲对“道”与“术”的进一步体悟 。"
+  },
+  "enriched": true
+}

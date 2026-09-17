@@ -1,0 +1,46 @@
+{
+  "name": "龙须鲤",
+  "original_name": "金须鲤 / 小湖蛟",
+  "type": "灵物",
+  "grade": "灵兽",
+  "status": "活跃",
+  "description": "这不仅是极佳的观赏灵鱼，更是山上宗门长期经营、用来收割昂贵材料 的重要资产 。",
+  "aliases": [
+    "龙鲤"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第287章 北行",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "滋养/材料类",
+  "holder": "陆台",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吞宝鲸店铺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "通过吸纳龙气，可成长为具备走江资格的“金须龙鲤”。",
+  "supernatural_ability": "成年后会生长出蛟龙长须，其须是炼制缚妖索和拂尘的顶级天材地宝 。",
+  "evolution": {
+    "current_form": "巴掌大小，长有两根细微蛟须的鲤鱼 。",
+    "materials_consumed": [
+      "水脉灵气",
+      "微量龙血"
+    ],
+    "potential_evolution": "若长出数尺长的金须，可进化为半步化蛟的“灵源使者”。"
+  },
+  "visual": {
+    "static": "鱼鳞呈亮银色，两根龙须在水中随波飘动，眼神富有灵性 。",
+    "active": "游动时带起水运涟漪，能够感知方圆十里内的水系变动 。"
+  },
+  "provenance": {
+    "origin": "多产自北俱芦洲铜绿湖等名胜大泽 。",
+    "karma_link": "陆台购买多条用于繁衍，计划在自家山头打造一池龙须鲤 。"
+  },
+  "enriched": true
+}

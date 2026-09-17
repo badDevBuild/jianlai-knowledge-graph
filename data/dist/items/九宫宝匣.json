@@ -1,0 +1,50 @@
+{
+  "name": "九宫宝匣",
+  "original_name": "分赃匣子 / 压胜木匣",
+  "type": "方寸物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是**李槐最为珍视的‘聚宝盆’**。匣子不仅装满了他的泥人与书籍， 更象征着他在《剑来》世界中那种不讲道理的深厚福缘 [30-32]。",
+  "aliases": [
+    "九宫格宝匣"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第459章 都在有酒的江湖",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "空间/承载类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    },
+    {
+      "name": "古老地脉",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为承载了大量气运的物件，可演化为支撑起一座小型福地的‘地基’ 。",
+  "supernatural_ability": "内部含有极大的方寸空间，且自带异香，能长期保存灵物神性不散。其 材质天然压胜阴物 。",
+  "evolution": {
+    "current_form": "长条形状，色泽由黄转红，木质坚韧如金石 。",
+    "materials_consumed": [
+      "万年阴沉木",
+      "地脉气运"
+    ],
+    "potential_evolution": "可作为‘九宫阵法’的核心枢纽，封禁一切邪魔。"
+  },
+  "visual": {
+    "static": "质感温润，表面有天然的云纹流转，透着一股陈年旧物的沧桑感 。",
+    "active": "打开时会有宝光瑞气溢出，伴随极其好闻的木头清香 。"
+  },
+  "provenance": {
+    "origin": "埋藏于棋墩山地底无数年 。",
+    "karma_link": "李槐凭借其惊人的运气获得此物，成为了他‘大富大贵’江湖路的主要载 体 。"
+  },
+  "enriched": true
+}

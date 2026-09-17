@@ -1,0 +1,46 @@
+{
+  "name": "鳌山幻楼",
+  "original_name": "海市蜃楼",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**鳌山幻楼（海市蜃楼）是剑气长城的空间技术极致**。它不仅是繁荣的商贸集市，更是整座城池在末 日降临时最后的一线生机所在 。",
+  "aliases": [
+    "幻楼"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第286章 对坐观人，自己知道",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "空间/阵法类",
+  "holder": "飞升城",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "萧愻之前某任隐官",
+      "relation": "制造者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为“三山阵法”的核心组件，其空间承载力随剑气长城的气运同步增长",
+  "supernatural_ability": "自成小天地，内部琼楼玉宇如仙境；在战时可作为“飞升台”的剑尖，带领整座城池跨越虚空",
+  "evolution": {
+    "current_form": "宏伟高耸的建筑群，涵盖大小屋舍三千余间",
+    "materials_consumed": [
+      "远古蜃珠",
+      "大修士精血"
+    ],
+    "potential_evolution": "完全化实，成为一座永恒漂浮于云海之上的神仙之城"
+  },
+  "visual": {
+    "static": "层层叠叠的精美建筑，灯火如昼，宛若云端天宫",
+    "active": "每百年会经历一次“由实转虚”的周期变化，届时宝光流转，震撼人心"
+  },
+  "provenance": {
+    "origin": "由剑气长城历代隐官联手打造，作为撤退与飞升的战略后手",
+    "karma_link": "见证了剑气长城由浩然天下向五彩天下的举城迁徙"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "奋勇竹书箱",
+  "original_name": "绿竹小书箱 / 奋勇竹箱",
+  "type": "其他",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这只书箱陪伴陈平安走过了两洲千万里山河。它不仅是一个存储工具，更是落魄山“书生底色”的实物化 体现，内里装载了他在江湖中收集的道理与机缘 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第471章 听说你要问剑",
+      "owner": "李槐/林守一"
+    }
+  ],
+  "subtype": "装备类 / 存储类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "所选材质“奋勇竹”为竹海洞天十德竹之一，具备“兵威已振，譬如破竹”的气运 。",
+  "supernatural_ability": "材质坚韧，能承载极重负荷，且对阴秽之物有一定的天然压胜力 。",
+  "evolution": {
+    "current_form": "泛黄、有修补痕迹的竹制书箱 。",
+    "materials_consumed": [
+      "奋勇竹",
+      "魏檗的赠予"
+    ],
+    "potential_evolution": "随陈平安远游，可作为安置各种灵物（如莲花小人）的临时道场 。"
+  },
+  "visual": {
+    "static": "外表并不崭新，透着岁月沉淀的泛黄色泽，带有修补的痕迹，典型书生负笈造型 。",
+    "active": "在风雪或山水中能保护内里的书籍、印章和灵物免受侵蚀 。"
+  },
+  "provenance": {
+    "origin": "由陈平安利用魏檗赠送的棋墩山奋勇竹余料亲手打造 。",
+    "karma_link": "是陈平安“负笈游学”形象的核心视觉符号，承载其求学与修行的初心 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "黄纸除秽符",
+  "original_name": "除秽符",
+  "type": "符箓",
+  "grade": "凡物",
+  "status": "消耗品",
+  "description": "虽然杀力为零，却是修行者保持“出尘”气象的实惠物件。陈平安远游路上消耗极多，属于典型的生活必 备符箓。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第618章 夏日炎炎，风雪路远",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助/清净类",
+  "holder": "陈平安 / 山下豪绅",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "虽然品秩不高，但在某些阴煞之地可作为侦测与净化的常备工具。",
+  "supernatural_ability": "散发微弱灵气，吸收周边邪祟煞风与污渍，使环境保持澄净素洁。",
+  "evolution": {
+    "current_form": "最普通的黄纸符箓，字迹端正。",
+    "materials_consumed": [
+      "凡俗丹砂",
+      "清泉水"
+    ],
+    "potential_evolution": "可升级为“金光镇宅符”，具备一定的御敌能力。"
+  },
+  "visual": {
+    "static": "纸张略显粗糙，符文笔画简单，常见于道观门首。",
+    "active": "自燃或贴附后，会有一层淡淡的清凉之气扩散，驱散周边的腐朽气味。"
+  },
+  "provenance": {
+    "origin": "记载于《丹书真迹》的前几页，是符箓派修士的入门必修课。",
+    "karma_link": "陈平安在渡船上日夜练拳期间，以此符确保屋内空气清新，不留汗臭气味。"
+  },
+  "enriched": true
+}

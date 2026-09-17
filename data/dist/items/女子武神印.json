@@ -1,0 +1,43 @@
+{
+  "name": "女子武神印",
+  "original_name": "裴杯私人章",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这方印章是郁泮水在玄密王朝花园中向林君璧展示的重宝 。它不仅是一方私人藏章，更记载了当世最强武夫之间的某种大道博弈 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第608章 下棋坏道心，酒水辣肚肠",
+      "owner": "郁狷夫"
+    }
+  ],
+  "subtype": "篆刻/文房类",
+  "holder": "郁泮水",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "裴杯",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "承载了女子武神的滔天拳意，其压胜之力随武道高度而增长 。",
+  "supernatural_ability": "印文“女子武神，陈曹身边”，边款刻有“绮云在天，拳犹然在那天上天”，具有镇压一洲武运之能 。",
+  "evolution": {
+    "current_form": "一方气象宏大的石刻印章 。",
+    "materials_consumed": [
+      "中土大端武运"
+    ],
+    "potential_evolution": "若能集齐陈平安、曹慈的相关印章，可演化为武道终极重器 。"
+  },
+  "visual": {
+    "static": "质地古朴，印面文字锋芒毕露，似有拳罡流转 。",
+    "active": "钤印时天地震颤，金光直透太虚，展现出神人观山河的气象 。"
+  },
+  "provenance": {
+    "origin": "中土大端王朝女子武神裴杯的随身之物 。",
+    "karma_link": "反映了裴杯对曹慈与陈平安这两位晚辈武夫的重视 。"
+  },
+  "enriched": true
+}

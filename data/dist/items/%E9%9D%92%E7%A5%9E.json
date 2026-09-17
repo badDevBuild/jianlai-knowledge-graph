@@ -1,0 +1,38 @@
+{
+  "name": "青神",
+  "original_name": "青神山夫人 / 竹海共主",
+  "type": "灵物",
+  "grade": "古剑",
+  "status": "活跃",
+  "description": "她是竹海洞天的灵魂所在，也是浩然天下公认的最具出 尘气质的古老神灵。她的存在象征着生机与不朽 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第806章 青白之争",
+      "owner": "裴杯"
+    }
+  ],
+  "subtype": "本源/神道类",
+  "holder": "青神山",
+  "holder_relation": "寄托",
+  "rank": "仙兵",
+  "rank_potential": "作为一座小洞天的主人，其存在本身即是大道的一环 。",
+  "supernatural_ability": "执掌天下竹类生长与枯荣，能够赋予凡木以灵性 。",
+  "evolution": {
+    "current_form": "从未走出洞天之外的神秘女性神祇 。",
+    "materials_consumed": [
+      "天地灵气",
+      "众生功德"
+    ],
+    "potential_evolution": "若能合道整座天下，可成为真正的造物主之一 。"
+  },
+  "visual": {
+    "static": "清秀绝俗，身处竹海深处，被浓郁的青翠道气笼罩 。",
+    "active": "现身时会有万木伏首、云海避让的异象，一指点出即可 生发万物 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的草木化灵 。",
+    "karma_link": "与文圣、陈平安皆有深厚渊源，多次在关键时刻赠予灵 竹机缘 。"
+  },
+  "enriched": true
+}

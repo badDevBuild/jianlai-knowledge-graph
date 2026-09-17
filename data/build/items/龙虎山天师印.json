@@ -1,0 +1,44 @@
+{
+  "name": "龙虎山天师印",
+  "original_name": "大天师印",
+  "type": "重器",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "天师印是龙虎山的镇山神物，不仅用于降妖除魔，更是主持罗天大醮、封正山水神祇的核心法器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1033章 人间校书",
+      "owner": "未知(提及)"
+    }
+  ],
+  "subtype": "礼器 / 压胜类",
+  "holder": "赵天籁",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "历代龙虎山大天师",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为龙虎山道统的象征，印章威能随持有人功德与天师府香火的延续而永恒存在 。",
+  "supernatural_ability": "可为符箓层层加持，配合五雷正法使用时威力惊人 。具备压胜天下妖邪的天然位阶，一印落下万鬼避退 。",
+  "evolution": {
+    "current_form": "一方象征龙虎山最高权柄的法印 。",
+    "materials_consumed": [
+      "万年雷池精华",
+      "历代天师道气"
+    ],
+    "potential_evolution": "配合仙剑“万法”使用，可执掌浩然天下的雷法天道 。"
+  },
+  "visual": {
+    "static": "印身紫气萦绕，印文苍劲，透着一股不容侵犯的威严 。",
+    "active": "钤印时雷声隐隐，金光大作，可瞬间在天地间立起一道雷电禁制 。"
+  },
+  "provenance": {
+    "origin": "龙虎山天师府祖传信物 。",
+    "karma_link": "唯有历代大天师可持，代表了浩然天下道门的一脉正宗 。"
+  },
+  "enriched": true
+}

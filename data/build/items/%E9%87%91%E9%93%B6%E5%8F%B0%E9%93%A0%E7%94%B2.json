@@ -1,0 +1,47 @@
+{
+  "name": "金银台铠甲",
+  "original_name": "五彩甲胄",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是陈平安为分身“齐谐”准备的重宝，利用了飞升境修士杜懋道化后的精华。它象征着陈平安在炼物与 分身之道上的极高造诣，也是落魄山防御体系的重要一环 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第270章 好久不见，宁姑娘",
+      "owner": "中土神洲某王朝"
+    }
+  ],
+  "subtype": "防御类 / 承载类",
+  "holder": "齐谐 (陈平安分身)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    },
+    {
+      "name": "杜懋",
+      "relation": "材料来源"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "由飞升境大修士遗留的五彩琉璃金身碎片炼化而成，具备跻身仙兵的潜质 。",
+  "supernatural_ability": "仿制自岁除宫吴霜降的法相铠甲，能大幅提升分身的体魄防御力与大道承载力 。",
+  "evolution": {
+    "current_form": "悬浮于分身齐谐身旁的五彩甲胄 。",
+    "materials_consumed": [
+      "飞升境琉璃金身碎片 (36块)"
+    ],
+    "potential_evolution": "若能继续进补金精铜钱或神性，可演化为真正的不动金身 。"
+  },
+  "visual": {
+    "static": "宝光焕然，流转着五彩光华，甲胄纹路细密如云水 。",
+    "active": "披挂后分身气象森严，甲胄缝隙中有金光如流水般溢出 。"
+  },
+  "provenance": {
+    "origin": "陈平安将杜懋兵解后散落的五彩琉璃碎片收集并重新炼制 。",
+    "karma_link": "其形制参照了吴霜降那尊身披彩甲、巍峨如神明的法相 。"
+  },
+  "enriched": true
+}

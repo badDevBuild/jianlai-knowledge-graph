@@ -1,0 +1,52 @@
+{
+  "name": "飞鸢",
+  "original_name": "玄密王朝跨洲渡船",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是连接落魄山主宗与桐叶洲下宗的重要交通工具，象征着落魄山正式建立起成熟的商业运行体系 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第576章 拳与飞剑我皆有",
+      "owner": "齐狩"
+    },
+    {
+      "chapter": "第578章 文圣一脉师兄弟",
+      "owner": "齐狩"
+    },
+    {
+      "chapter": "第621章 学剑",
+      "owner": "齐狩"
+    }
+  ],
+  "subtype": "跨洲渡船",
+  "holder": "落魄山 / 青萍剑宗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "玄密王朝",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为大宗门的标志性产业，通过后续不断投入神仙钱修缮，可成为支撑跨洲贸易的核心枢纽 。",
+  "supernatural_ability": "具备极佳的御风速度与负重能力，可无视大部分海上恶劣天候 。",
+  "evolution": {
+    "current_form": "跨洲级大型楼船 。",
+    "materials_consumed": [
+      "谷雨钱",
+      "墨家机关术"
+    ],
+    "potential_evolution": "与“雷车”、“翻墨”等组成庞大船队，垄断多条洲际航线 。"
+  },
+  "visual": {
+    "static": "形制宏伟，船身刻有精美的符文，呈现出一种稳重而又不失灵动的气象 。",
+    "active": "航行于云海中时，如同一只巨大的飞鸢俯瞰山河 。"
+  },
+  "provenance": {
+    "origin": "中土神洲玄密王朝 。",
+    "karma_link": "由玄密王朝作为观礼礼物并由大白鹅（崔东山）主导修缮，现服务于下宗商贸 ,。"
+  },
+  "enriched": true
+}

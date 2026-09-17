@@ -1,0 +1,46 @@
+{
+  "name": "《青山绿水帖》",
+  "original_name": "青绿山水画卷 / 山河帖",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此帖不仅是书法或绘画作品，更是一门高深莫测的空间术法。崔东山常以此推演一洲大势，是其运筹帷 幄的重要工具 [15-17]。",
+  "aliases": [
+    "《青山绿水帖》"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第165章 如果陈平安在这里",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "方寸物 / 阵法类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古画圣",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "随崔东山对山河社稷图的补全，可演化为一方真实的“上等福地” 。",
+  "supernatural_ability": "“掌上山河”。画中草木皆为实物，可随心挪移山根水脉，亦能作为困杀仙人的顶级阵法 。",
+  "evolution": {
+    "current_form": "一幅运用了工笔白描与青绿山水技法的巨大画轴 。",
+    "materials_consumed": [
+      "一洲地气",
+      "仙人精血"
+    ],
+    "potential_evolution": "可作为下宗青萍剑宗的“法统地图”，护佑一方安宁 。"
+  },
+  "visual": {
+    "static": "纸张古旧却意境深远，画中青山翠绿如滴，绿水波光粼粼 。",
+    "active": "卷轴摊开时，山峰会从画中拔地而起，江河倾泻而出，瞬间改换天地气象 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代对山河神灵的摹写与崇拜 。",
+    "karma_link": "承载了崔东山“东山再起”的野心，是其营建仙都山的核心基础 。"
+  },
+  "enriched": true
+}

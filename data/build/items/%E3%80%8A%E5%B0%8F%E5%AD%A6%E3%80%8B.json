@@ -1,0 +1,45 @@
+{
+  "name": "《小学》",
+  "original_name": "蒙学经典 / 养气书",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是《剑来》中“道理”的最初起点。在权贵眼中它一文 不值，在泥瓶巷少年手中却是对抗世界的底气 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第182章 道理就在剑鞘里",
+      "owner": "陈平安(原属宋集薪)"
+    }
+  ],
+  "subtype": "教化/滋养类",
+  "holder": "宋集薪 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊各地书肆",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为儒家道理的根基，随着修学者明理，可聚拢浩然正 气 。",
+  "supernatural_ability": "读书可以养气、养目、养心。虽材质平凡，却承载着“ 大道在明明德”的微言大义 [17-19]。",
+  "evolution": {
+    "current_form": "市井版刻质朴的纸质薄册子 。",
+    "materials_consumed": [
+      "宣纸",
+      "笔墨",
+      "教化功德"
+    ],
+    "potential_evolution": "若得圣人批注，可演化为言出法随的文宝 。"
+  },
+  "visual": {
+    "static": "书皮泛黄，字迹端正，边缘常有翻阅留下的磨损痕迹 。",
+    "active": "朗读时若心有诚意，书页间会有微弱的白光，可安稳心 境 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝通用的蒙学教材，随处可见 。",
+    "karma_link": "连接了陈平安与宋集薪早年的人性博弈，体现了“道理 越大越不值钱”的世俗冷暖 。"
+  },
+  "enriched": true
+}

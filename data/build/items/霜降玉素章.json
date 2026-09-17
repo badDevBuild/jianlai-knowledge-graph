@@ -1,0 +1,44 @@
+{
+  "name": "霜降玉素章",
+  "original_name": "无字霜降章",
+  "type": "重器",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是陈平安个人篆刻艺术的集大成载体。其简约的外表 下，隐藏着极为坚韧的材质与深厚的剑气传承。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第914章 一张桌子",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "篆刻/镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "董不得",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "玉石品相极佳，被陈平安亲手雕琢后，具有镇压一方气 府、养护神魂的潜力 。",
+  "supernatural_ability": "材质为极其珍稀的霜降玉，天生带有冷冽正气，能破除 由于“走火入魔”引发的心魔幻境。",
+  "evolution": {
+    "current_form": "温润通透的白玉印章，无雕琢装饰。",
+    "materials_consumed": [
+      "霜降玉精",
+      "仙人道韵"
+    ],
+    "potential_evolution": "可作为陈平安“心境小天地”中四方神像的镇坛印。"
+  },
+  "visual": {
+    "static": "通体雪白如霜，触手冰凉，光线下有如细雪飞舞的异象 。",
+    "active": "雕琢时金石声铿锵，隐约有剑鸣从中传出 。"
+  },
+  "provenance": {
+    "origin": "由剑修董不得赠予，原是其从灵芝斋重金购买的珍贵玉 料。",
+    "karma_link": "陈平安以此为载体雕琢多枚私章，作为行走江湖的名片 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,61 @@
+{
+  "name": "彩雀府法袍",
+  "original_name": "彩雀府锦绣法袍",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "彩雀府的立身之本，因其工艺精湛且能裨益神祇修行而在浩然天下享有盛名 。 这种法袍不仅是防御重器，更是大骊王朝与其建立长期商贸合作的核心纽带 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第538章 隔在远远乡",
+      "owner": "彩雀府"
+    },
+    {
+      "chapter": "第561章 两破境",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第562章 南归北游",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第810章 教拳",
+      "owner": "彩雀府"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "武峮",
+      "relation": "赠予者"
+    },
+    {
+      "name": "彩雀府",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "通过融入蛮荒天下“金翠城”的编织秘法，品秩可跨越台阶式提升 。",
+  "supernatural_ability": "具备极佳的聚拢山水灵气功效 。 能够帮助城隍、文武庙英灵等阴冥官吏在白昼巡游阳间，具有“水路分阴阳”之妙 。",
+  "evolution": {
+    "current_form": "上品法袍形制，带有脂粉气 。",
+    "materials_consumed": [
+      "金翠城织造术",
+      "云麾缂丝",
+      "通经断纬秘法"
+    ],
+    "potential_evolution": "具备向半仙兵乃至仙兵品秩进化的底子 。"
+  },
+  "visual": {
+    "static": "色彩艳丽，呈现金、翠两色，编织纹路精美如孔雀翎眼 。",
+    "active": "光线映照下会有波光粼粼的“水路”显现，夜间如湍濑潺湲，白昼则曦光澄澈 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲彩雀府，核心技艺参考了蛮荒天下金翠城的古老道脉 。",
+    "karma_link": "陈平安将金翠城法袍遗物交给彩雀府拆解，获赠此头等法袍作为补偿 。"
+  },
+  "enriched": true
+}

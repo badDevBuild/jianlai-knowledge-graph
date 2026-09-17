@@ -1,0 +1,44 @@
+{
+  "name": "彩丝香囊",
+  "original_name": "“花信期”绢香囊 / 燕子纹香囊",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这枚香囊不仅是周海镜的贴身之物，更是她个人情感与家乡传统的缩影。在尔虞我诈的京城修行界，它 代表了她内心深处的一份纯粹与坚守 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第392章 山雨欲来符满楼",
+      "owner": "柳清青"
+    }
+  ],
+  "subtype": "装饰类 / 象征类",
+  "holder": "周海镜",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "家乡渔民习俗",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽为凡俗之物，但承载了纯粹武夫的乡情与心境，具有一定的道意温养潜力 。",
+  "supernatural_ability": "**“身份标识”**。按照周海镜家乡的习俗，佩戴此类绣有燕子纹的香囊意味着女子已嫁为人妇，象征身 心皆有所属 。",
+  "evolution": {
+    "current_form": "随身系挂的绢质香囊 。",
+    "materials_consumed": [
+      "彩丝",
+      "绢布"
+    ],
+    "potential_evolution": "若得香火浸染，可演化为稳固神魂的仙家饰品 。"
+  },
+  "visual": {
+    "static": "精致的绢质香囊，表面绣有生动的燕子纹饰 。",
+    "active": "随步履摇曳，散发出淡淡的草木或药草清香 。"
+  },
+  "provenance": {
+    "origin": "源自周海镜家乡——某大骊藩属国沿海渔民的传统习俗 。",
+    "karma_link": "见证了周海镜从平凡渔女到大骊地支武夫的成长历程 。"
+  },
+  "enriched": true
+}

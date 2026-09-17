@@ -1,0 +1,48 @@
+{
+  "name": "令牌",
+  "original_name": "道家枣木令牌 / 咫尺物令牌",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这枚令牌标志着陈平安告别了“包袱斋”的原始积累阶段，拥有了真正属于大修级别的空间法宝。它承载 了多份山水机缘，是落魄山财富流转的重要工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第545章 为何敢怒不敢言",
+      "owner": "孙清"
+    }
+  ],
+  "subtype": "存储类 / 阵法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "孙清 (彩雀府)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "仙府遗址水殿",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "不仅具备巨大的存储空间，还可作为操控大型山水阵法的核心枢纽 。",
+  "supernatural_ability": "是一件极为罕见的“咫尺物”。炼化后可收纳如藻井、龙椅等巨大实物 。",
+  "evolution": {
+    "current_form": "朱红色的道家枣木令牌 。",
+    "materials_consumed": [
+      "雷击木",
+      "五行灵气"
+    ],
+    "potential_evolution": "若能与相关法印合拢，可演化为掌管一方洞天的司命权柄。"
+  },
+  "visual": {
+    "static": "材质坚韧，色泽深红，其上刻画有神秘符文，入手温润 。",
+    "active": "开启时散发出阵阵仙气，内部空间仿佛一方独立存在的虚空 。"
+  },
+  "provenance": {
+    "origin": "得自北俱芦洲一处远古仙府的“水殿”遗址 。",
+    "karma_link": "陈平安将仙府藻井卖给彩雀府后，由孙清作为报酬的一部分赠予 。"
+  },
+  "enriched": true
+}

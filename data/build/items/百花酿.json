@@ -1,0 +1,68 @@
+{
+  "name": "百花酿",
+  "original_name": "百花仙酒",
+  "type": "丹药",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是浩然天下女修最向往的“驻颜神药”。陈平安将其视 为落魄山待客及笼络山水神祇的重要物资 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第840章 家乡",
+      "owner": "封姨"
+    },
+    {
+      "chapter": "第841章 新剑修",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第844章 重返剑气长城",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第845章 官子无敌",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第882章 花实",
+      "owner": "封姨"
+    },
+    {
+      "chapter": "第883章 看酒",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第994章 飞鸟回掌故",
+      "owner": "无"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "封姨",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "窖藏年份越久，蕴含的生发之气越强，可助枯木逢春 。",
+  "supernatural_ability": "具有极其阴柔且纯粹的生机，能延缓容颜衰老，亦能让 地仙之下的修士直接被沛然灵气“醉倒” 。",
+  "evolution": {
+    "current_form": "封存在万年土泥封下的陈年仙酿。",
+    "materials_consumed": [
+      "百花福地灵泉",
+      "季节气运"
+    ],
+    "potential_evolution": "融合“水中火”意境后可进化为合道材料。"
+  },
+  "visual": {
+    "static": "酒液色泽五彩斑斓，开坛后香气形成实质的云雾 。",
+    "active": "饮用时可见四季更替幻象，让人道心瞬间进入清凉地。"
+  },
+  "provenance": {
+    "origin": "百花福地核心产出。",
+    "karma_link": "陈平安在火神庙通过回答封姨的问心局，获赠此酒 。"
+  },
+  "enriched": true
+}

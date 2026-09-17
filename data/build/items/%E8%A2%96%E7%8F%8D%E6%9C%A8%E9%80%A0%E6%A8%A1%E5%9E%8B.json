@@ -1,0 +1,44 @@
+{
+  "name": "袖珍木造模型",
+  "original_name": "翡翠点将台",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这件**袖珍模型**实际上是一座移动的**点将台**。它让水神能够在任何环境下瞬间集结并释放其水府 最精锐的军事力量，是虞阚在山上立身的底牌 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1053章 有人说过",
+      "owner": "赵端瑾"
+    }
+  ],
+  "subtype": "召唤类 / 空间类",
+  "holder": "虞阚",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青简水府",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为能够容纳并炼化水府精锐战力的容器，具备演化为“水上军阵”中枢的潜力 。",
+  "supernatural_ability": "沙场点兵。模型内部寄存有受水府敕封的武将及其麾下精锐士卒（如黄甲、洪胄），可随主人心意现身 御敌 。",
+  "evolution": {
+    "current_form": "一块精雕细琢的袖珍“点将台”模型 。",
+    "materials_consumed": [
+      "翡翠精粹",
+      "水府香火"
+    ],
+    "potential_evolution": "若能融入更多水脉气运，可承载更多品秩更高的英灵武将 。"
+  },
+  "visual": {
+    "static": "外形呈微缩的点将台形状，质地莹润，雕刻工艺极尽繁复 。",
+    "active": "一经抛出，会从中掠出数道纤细虹光，化为体型如常人的魁梧披甲神将 。"
+  },
+  "provenance": {
+    "origin": "青简水府府主虞阚的随身重宝 。",
+    "karma_link": "是书简湖水府权柄的具象化，体现了水神对麾下兵马的绝对掌控 。"
+  },
+  "enriched": true
+}

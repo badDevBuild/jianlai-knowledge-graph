@@ -1,0 +1,48 @@
+{
+  "name": "金黄色怪鱼",
+  "original_name": "金鲤 / 龙种",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这类鱼因受真龙陨落后的气运滋养，成为世间罕见的灵 物，是各方势力争夺的“龙种” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1043章 头顶三尺有谁",
+      "owner": "无（被放生）"
+    }
+  ],
+  "subtype": "滋养/化龙类",
+  "holder": "大泉及各水府",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李二",
+      "relation": "原主"
+    },
+    {
+      "name": "高煊",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "受龙气浸染多年，具备“鱼龙变”的潜力，可化为真龙 。",
+  "supernatural_ability": "能够吞吐灵气，滋养一池风水。其龙须价值连城，可炼 制顶级缚妖索 。",
+  "evolution": {
+    "current_form": "鱼鳞灿灿的金黄色鱼类，长有真实龙须 。",
+    "materials_consumed": [
+      "龙宫水运",
+      "大渎龙气"
+    ],
+    "potential_evolution": "跃过龙门后可进化为真正的龙属神灵 。"
+  },
+  "visual": {
+    "static": "浑身金黄，鱼须颤巍巍如水草飘摇 。",
+    "active": "游动时伴随云雾，雷雨天可随云升空，显化龙威 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天陨落真龙的灵气孕育，分布在龙须河及周边水 域 。",
+    "karma_link": "涉及骊珠洞天最大的几份大道福缘流向 。"
+  },
+  "enriched": true
+}

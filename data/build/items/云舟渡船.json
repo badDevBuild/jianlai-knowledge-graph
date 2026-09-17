@@ -1,0 +1,44 @@
+{
+  "name": "云舟渡船",
+  "original_name": "和气斋 / 飞鸢",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "落魄山旗下的核心跨洲渡船。该船不仅航速冠绝同侪，且被崔东山进行了深度武装，是落魄山家底厚实 的象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第755章 做客",
+      "owner": "姜尚真"
+    }
+  ],
+  "subtype": "辅助类 / 运输类",
+  "holder": "落魄山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姜尚真",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "通过后续刻画阵法，可转化为具备远程定点打击能力的“剑舟” 。",
+  "supernatural_ability": "以福地月色与白云炼化而成，夜间航行速度极快 。",
+  "evolution": {
+    "current_form": "通体雪白的楼船 。",
+    "materials_consumed": [
+      "福地月魄",
+      "云海精华"
+    ],
+    "potential_evolution": "可由崔东山改造成类似大骊军方的重型攻伐剑舟 。"
+  },
+  "visual": {
+    "static": "船身通体雪白，形制雅致，云雾缭绕，宛如仙境楼阁 。",
+    "active": "远游时风驰电掣，船身外围会有符箓力士显化，如同纤夫拉船 。"
+  },
+  "provenance": {
+    "origin": "云林姜氏云窟福地私人珍藏 。",
+    "karma_link": "由落魄山首席供奉姜尚真赠予，用于打通三洲商贸航线 。"
+  },
+  "enriched": true
+}

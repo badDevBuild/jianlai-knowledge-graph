@@ -1,0 +1,38 @@
+{
+  "name": "传信飞剑",
+  "original_name": "剑房飞剑 / 通讯符剑",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "山上神仙用于远程交流的标准配备。陈平安继任隐官后，曾特意为成员定制了刻名飞剑 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第940章 倚天万里须长剑",
+      "owner": "高枕"
+    }
+  ],
+  "subtype": "传讯/辅助类",
+  "holder": "各大宗门 / 隐官一脉",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "高品级飞剑可跨越天下天幕，承载极强的加密禁制 。",
+  "supernatural_ability": "极速飞行，无视大多数山水屏障，用于在各洲之间传递机密情报 。",
+  "evolution": {
+    "current_form": "小巧玲珑的袖珍飞剑，剑身刻有名字或宗门标志 。",
+    "materials_consumed": [
+      "秘银",
+      "神识印记"
+    ],
+    "potential_evolution": "成套的飞剑可形成通讯网络，甚至具备一定的自卫能力 。"
+  },
+  "visual": {
+    "static": "长约数寸，剑身如冰雪覆盖，宝光流转 。",
+    "active": "化作一道雪白或青色的长虹划破长空，瞬息千里 。"
+  },
+  "provenance": {
+    "origin": "出自宗门剑房，由大匠师专门打造 。",
+    "karma_link": "它是维持一洲山水官场与宗门联系的命脉工具 。"
+  },
+  "enriched": true
+}

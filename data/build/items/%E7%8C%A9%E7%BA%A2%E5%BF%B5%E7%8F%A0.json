@@ -1,0 +1,39 @@
+{
+  "name": "猩红念珠",
+  "original_name": "山岳念珠",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "消耗",
+  "description": "**猩红念珠**是蛮荒天下巅峰战力的体现。它将原本厚重的山川气运极度压缩，是猿首在战场上横冲直 撞、力压群仙的标志性兵器 。",
+  "aliases": [
+    "保命念珠"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第313章 驭剑",
+      "owner": "周仕"
+    }
+  ],
+  "subtype": "重压/攻伐类",
+  "holder": "猿首",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "每一颗念珠皆为一座大山，杀力随炼化的山岳品秩而增强 。",
+  "supernatural_ability": "每一颗珠子落地即可化为真实的**雄山大岳**，具备极强的压胜与撞击威力 。",
+  "evolution": {
+    "current_form": "一串由众多山岳炼化而成的粗糙石子念珠 。",
+    "materials_consumed": [
+      "桐叶洲多座名山"
+    ],
+    "potential_evolution": "若能收集并炼化浩然天下五岳，可成就毁天灭地的杀伐神器 。"
+  },
+  "visual": {
+    "static": "看似一串平凡无奇、棱角分明的石子，缠绕在大妖手臂上 。",
+    "active": "祭出时，石子会瞬间膨胀为真实的巨岳，带起排山倒海的罡气压向敌人 。"
+  },
+  "provenance": {
+    "origin": "由蛮荒天下王座大妖“猿首”亲手炼制 。",
+    "karma_link": "猿首在桐叶洲战场肆意劫掠，将诸多大山炼入此珠中以增强战力 。"
+  },
+  "enriched": true
+}

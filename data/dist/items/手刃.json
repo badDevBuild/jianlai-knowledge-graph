@@ -1,0 +1,46 @@
+{
+  "name": "手刃",
+  "original_name": "手刃神兵",
+  "type": "其他",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这把剑曾在黄庭国大水府邸一战中露面，与伏龙观“老蛟砚”并称。它是下五境散修中极罕见的上等神兵 。",
+  "aliases": [
+    "手刃"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第142章 百怪（中）",
+      "owner": "散修剑修"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "散修剑客",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道家游方高人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "虽非本命飞剑，但在道门真传下，其锋芒可破开寻常地仙的护体罡气 。",
+  "supernatural_ability": "“削铁如泥”。剑身自带破甲神通，专克金甲神人和硬度极高的重型法宝 。",
+  "evolution": {
+    "current_form": "镌刻有“手刃”二字篆文的神兵利器 。",
+    "materials_consumed": [
+      "天外陨铁",
+      "道门真火"
+    ],
+    "potential_evolution": "若能融入剑修精血，可进化为能够伤及神魂的“斩灵剑”。"
+  },
+  "visual": {
+    "static": "剑身雪亮，篆文古朴，透着森森寒意 。",
+    "active": "挥动时带起一线长虹，剑气如实质般割裂空气 。"
+  },
+  "provenance": {
+    "origin": "源自中土神洲某位隐世道门高人的亲手馈赠 。",
+    "karma_link": "象征着散修剑客在江湖中“以杀止杀、手刃仇雠”的决绝道心 。"
+  },
+  "enriched": true
+}

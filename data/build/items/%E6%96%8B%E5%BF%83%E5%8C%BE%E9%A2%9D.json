@@ -1,0 +1,43 @@
+{
+  "name": "斋心匾额",
+  "original_name": "道门斋心牌 / 虬角云纹斋戒牌",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此物虽破碎不全，却承载了仙兵级数的道意，属于可遇不可求的重宝。在陈平安的人身小天地内，它起 到辅佐其守住本心的重要作用 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第535章 天上纸鸢有分别",
+      "owner": "白云观观主"
+    }
+  ],
+  "subtype": "护持类 / 修心类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "武夫黄师",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "其道意虽有缺，但作为半仙兵遗留，具有极高的参悟价值 。",
+  "supernatural_ability": "能够让修道之人“眼见影子，得见本心”，对抗化外天魔的侵扰，稳定道心 。",
+  "evolution": {
+    "current_form": "一块刻有“心”字的虬角云纹斋戒牌 。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "老观主建议此物由于道意有缺，仅宜中炼，不宜作为本命物大炼 。"
+  },
+  "visual": {
+    "static": "正面篆刻一个“心”字，反面刻有诗句“田边沟渠幽濛胧，门扉日月荡精魄” 。",
+    "active": "激发时散发出淡淡道韵，能够照彻持有人内心的阴影，使其保持澄澈 。"
+  },
+  "provenance": {
+    "origin": "得自北俱芦洲仙府遗址的一场机缘 。",
+    "karma_link": "由武夫黄师在访山寻宝过程中赠送给陈平安，后被带回落魄山作为重要的修心器物 。"
+  },
+  "enriched": true
+}

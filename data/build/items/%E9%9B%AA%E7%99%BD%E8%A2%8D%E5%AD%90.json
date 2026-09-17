@@ -1,0 +1,50 @@
+{
+  "name": "雪白袍子",
+  "original_name": "法袍金醴",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这件袍子又名**金醴**，是一件极为罕见的成长性法袍 。它伴随陈平安远游千万里，在不断吸收**金精铜钱**后，其品 秩从法宝一路晋升为**仙兵** 。在实战中，它不仅能防御强力攻击，还能协助持有者在灵气匮 乏时维持气府运转 。",
+  "aliases": [
+    "雪白袍子"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第32章 桃叶",
+      "owner": "白袍男子"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "龙虎山天师",
+      "relation": "原主"
+    },
+    {
+      "name": "蛟龙沟元婴老蛟",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "通过喂养**金精铜钱**，具备从法宝成长为半仙兵乃至顶级仙兵的 极高潜力 。",
+  "supernatural_ability": "具备**金身描漆**之效，能够自行汲取并转化天地灵气以温养气府 窍穴 。",
+  "evolution": {
+    "current_form": "仙兵品秩法袍",
+    "materials_consumed": [
+      "金精铜钱",
+      "飞升境琉璃金身碎块"
+    ],
+    "potential_evolution": "半仙兵级别以上防御重器"
+  },
+  "visual": {
+    "static": "平时呈现为一件普通的**雪白长袍**，质地细腻 。",
+    "active": "激发时会显现出金色团龙图案，金光如流水般在衣褶间穿梭流转 。"
+  },
+  "provenance": {
+    "origin": "最初由龙虎山天师府的一位仙人持有，后遗落在海外并被蛟龙沟恶 蛟抢夺 。",
+    "karma_link": "与龙虎山道统及陈平安的剑修之路存在因果关联 。"
+  },
+  "enriched": true
+}

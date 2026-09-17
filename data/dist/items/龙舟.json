@@ -1,0 +1,52 @@
+{
+  "name": "龙舟",
+  "original_name": "沉水龙舟 / 翻墨",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“翻墨”龙舟是落魄山正式跻身仙家大宗门的标志性产业之一，其运转由珠钗岛弟子协助，极大增强了宗 门的商贸调度能力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第556章 山上何物最动人",
+      "owner": "无(寻找中)"
+    },
+    {
+      "chapter": "第559章 欲言已忘言",
+      "owner": "刘重润(原)/落魄山(现)"
+    },
+    {
+      "chapter": "第567章 何谓从容",
+      "owner": "落魄山(卢白象携带)"
+    }
+  ],
+  "subtype": "交通类 / 贸易类",
+  "holder": "落魄山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘重润",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随落魄山商贸版图扩张，可升级为跨洲级别的巨型楼船 。",
+  "supernatural_ability": "具备极强的辟水与御风能力，载货量巨大，是宗门经营流水财路的核心工具 。",
+  "evolution": {
+    "current_form": "名为“翻墨”的龙舟渡船 。",
+    "materials_consumed": [
+      "灵气",
+      "金精铜钱"
+    ],
+    "potential_evolution": "作为未来跨洲贸易的枢纽，可与“风鸢”、“雷车”等渡船组成庞大船队 。"
+  },
+  "visual": {
+    "static": "形制精美的巨型楼船，船身刻有复杂的避水符文，气势不凡 。",
+    "active": "航行时在水面或云海中划出巨大的涟漪，周身笼罩在防御灵光中 。"
+  },
+  "provenance": {
+    "origin": "与水殿一同打捞出水的亡国遗物 。",
+    "karma_link": "刘重润为报答落魄山的打捞与庇护之恩，将龙舟赠予陈平安 。"
+  },
+  "enriched": true
+}

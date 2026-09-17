@@ -1,0 +1,48 @@
+{
+  "name": "甲午生",
+  "original_name": "甲午佩剑",
+  "type": "仙剑",
+  "grade": "古剑",
+  "status": "活跃",
+  "description": "这是姜尚真向崔东山“借”来的重宝，在问剑正阳山时曾 作为其身份象征之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第768章 压压惊",
+      "owner": "崔东山"
+    },
+    {
+      "chapter": "第823章 你试试看",
+      "owner": "姜尚真 (借自崔东山)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "姜尚真",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "随持剑者的心境变化而演化出不同的战阵气象 。",
+  "supernatural_ability": "蕴含强大的甲午年岁岁运气，对敌时具有破甲与震慑效 果 。",
+  "evolution": {
+    "current_form": "一把由崔东山炼制的长剑 。",
+    "materials_consumed": [
+      "远古剑气",
+      "甲午年岁精"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "剑身宽厚，刻有古朴年号文字 。",
+    "active": "出鞘时剑气如虹，伴有如龙低吼的异象 。"
+  },
+  "provenance": {
+    "origin": "崔东山根据自身道法感悟在仙都山炼制 。",
+    "karma_link": "见证了姜尚真在落魄山担任首席供奉的“名正言顺” 。"
+  },
+  "enriched": true
+}

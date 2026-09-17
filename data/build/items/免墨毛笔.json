@@ -1,0 +1,48 @@
+{
+  "name": "免墨毛笔",
+  "original_name": "湖竹笔 / 小雪锥",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是符箓修士梦寐以求的利器。它将书法艺术与修行法 力合而为一，让陈平安即便在灵气匮乏时亦能勉强“写丹 书” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1206章 天壤间",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文房/修行类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "紫竹岛岛主",
+      "relation": "赠予者"
+    },
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着使用者灵气品秩的提升，可进化为具备“笔底生花 、字口如斩”威力的符道圣物 。",
+  "supernatural_ability": "无需蘸墨，只需修士呵出一口灵气，即可如饱蘸墨汁般 书写，且墨迹防蛀百年 。",
+  "evolution": {
+    "current_form": "紫竹笔管或竹管，笔尖有透明锋颖，篆刻有“风雪小锥” 等字样 。",
+    "materials_consumed": [
+      "青神山神霄竹",
+      "修士精纯灵气"
+    ],
+    "potential_evolution": "可演化为能绘制“金色大符”的本命法宝。"
+  },
+  "visual": {
+    "static": "材质轻洁，色泽如玉，手感温润，笔杆上刻有精致小篆 。",
+    "active": "落笔时金光点点，墨色随心念变化（五行之属），墨香 沁人心脾 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲紫竹岛或由高深符师李希圣秘制 。",
+    "karma_link": "陈平安凭借此笔在多处战场书写镇妖、破障大符，成就 符道名声 。"
+  },
+  "enriched": true
+}

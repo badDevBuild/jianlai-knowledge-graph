@@ -1,0 +1,44 @@
+{
+  "name": "快雪帖",
+  "original_name": "崔瀺十六帖之一",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是崔瀺散落人间的十六幅传世名帖之一。每一字皆是 绣虎对天道的独特解析，被无数藏家视为无价之宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第789章 持剑者",
+      "owner": "刘十六（君倩）"
+    }
+  ],
+  "subtype": "文运/字帖类",
+  "holder": "浩然天下大藏家",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔瀺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为绣虎遗留的笔墨，蕴含通天术法与一洲气运之先兆 。",
+  "supernatural_ability": "文字中蕴含“大雪封山、万象皆寂”的法理，能辅助高位 修士感悟天地气机 。",
+  "evolution": {
+    "current_form": "一幅神采飞扬、法度严谨的行书字帖 。",
+    "materials_consumed": [
+      "圣贤意气",
+      "宣纸墨宝"
+    ],
+    "potential_evolution": "若十六帖合一，可显化出绣虎生前所有的谋划宏图。"
+  },
+  "visual": {
+    "static": "墨色深沉，纸张泛起若有若无的白光，观之使人通体清 凉 。",
+    "active": "研读时字里行间有飞雪异象，文字仿佛在白云中跳跃 。"
+  },
+  "provenance": {
+    "origin": "由大骊国师崔瀺亲笔书写 。",
+    "karma_link": "代表了绣虎一生“语不惊人死不休”的才情与孤傲 。"
+  },
+  "enriched": true
+}

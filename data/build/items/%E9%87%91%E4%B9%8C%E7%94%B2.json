@@ -1,0 +1,66 @@
+{
+  "name": "金乌甲",
+  "original_name": "兵家金乌甲",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "作为**兵家最高规格的甲丸**之一，金乌甲是兵家炼金之术的巅峰 。它凝聚了远古神灵的不朽特质，是陈平安在应对高境界厮杀时的生存依仗 。",
+  "aliases": [
+    "金乌甲"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第356章 道争毫厘，左右徘徊",
+      "owner": "许轻舟"
+    },
+    {
+      "chapter": "第506章 诸位只管取剑",
+      "owner": "杜俞 (姜尚真赠)"
+    },
+    {
+      "chapter": "第698章 要问拳",
+      "owner": "裴钱"
+    },
+    {
+      "chapter": "第812章 登山",
+      "owner": "崔公壮 (后被陈平安缴获)"
+    },
+    {
+      "chapter": "第910章 故地重游如翻书",
+      "owner": "杜俞"
+    }
+  ],
+  "subtype": "防御类 / 甲胄",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "兵家初祖 (制造者)",
+      "relation": "原主"
+    },
+    {
+      "name": "崔公壮",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "源自远古神甲“大霜”的变体，具备极强的武运压胜能力 。",
+  "supernatural_ability": "激发后**金光流溢如油水**，能提供绝对防御，且可无限制吸纳周遭灵气 。",
+  "evolution": {
+    "current_form": "由于受损现呈现为一颗拳头大小、金光灿烂的甲丸 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "日精"
+    ],
+    "potential_evolution": "修复完整后，可防御飞升境修士的倾力一击 。"
+  },
+  "visual": {
+    "static": "呈甲丸状态时色泽金黄，带有灼热的神性气息 。",
+    "active": "披挂后全身金光大放，神圣威严，寻常法术难伤分毫 。"
+  },
+  "provenance": {
+    "origin": "由兵家初祖在神甲“大霜”基础上，利用日精与金身碎片炼制而成 。",
+    "karma_link": "陈平安在养云峰从崔公壮处“借走”，使其成为其后期重要的护身装备 。"
+  },
+  "enriched": true
+}

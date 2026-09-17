@@ -1,0 +1,38 @@
+{
+  "name": "雪花",
+  "original_name": "雪花",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**雪花**是北俱芦洲中部大剑仙**郦采**的本命飞剑。郦采以此剑闻名天下，在剑气长城战功彪炳，曾 亲手毁去蛮荒玉璞境剑修的大道根本 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第508章 好人小姑娘",
+      "owner": "郦采"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "郦采",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "作为北俱芦洲顶尖剑仙的本命物，杀力极其惊人 。",
+  "supernatural_ability": "具备极致的寒气与锋芒，足以在战场上斩落飞升境大妖 。",
+  "evolution": {
+    "current_form": "本命飞剑",
+    "materials_consumed": [
+      "剑气",
+      "神仙钱"
+    ],
+    "potential_evolution": "随主人境界提升而增强 。"
+  },
+  "visual": {
+    "static": "形制未详，隐于窍穴。",
+    "active": "出剑时剑光如雪，能够轻易割裂天地屏障 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲中部剑仙郦采炼化而成 。",
+    "karma_link": "郦采凭借此剑在剑气长城和浩然战场立下赫赫战功 。"
+  },
+  "enriched": true
+}

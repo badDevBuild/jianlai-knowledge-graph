@@ -1,0 +1,48 @@
+{
+  "name": "龙门造像碑",
+  "original_name": "古老造像碑",
+  "type": "重器",
+  "grade": "古物",
+  "status": "活跃",
+  "description": "此碑是**陇山国与清德宗**历史的见证，其背后隐藏着“一声开鼓辟金扉，三十仙材上翠微”的宏大往事 。它是陈平安构建**人身小天地**、夯实水府根基的重要器物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第495章 好人兄",
+      "owner": "木茂"
+    }
+  ],
+  "subtype": "镇压类 / 传承类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "避暑娘娘",
+      "relation": "曾持有"
+    },
+    {
+      "name": "陇山国皇室",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为承载陇山国文武气运及清德宗道统的遗物，具有极高的炼化价值 , 。",
+  "supernatural_ability": "碑身铭刻有密密麻麻的古篆文，炼化后可显化“龙门”异象，助力水裔或修士跨越关隘 , 。",
+  "evolution": {
+    "current_form": "刻有密密麻麻篆文的古老石碑 。",
+    "materials_consumed": [
+      "国祚龙气",
+      "清德宗道韵"
+    ],
+    "potential_evolution": "陈平安曾尝试将其炼化入本命水府，使其在水运长河中显化为“龙门” 。"
+  },
+  "visual": {
+    "static": "碑身古朴，文字内容晦涩，碑头刻有巨大的“龙门”二字 , 。",
+    "active": "炼化时文字一笔一划绽放金光，如金石激荡 。"
+  },
+  "provenance": {
+    "origin": "源自北俱芦洲陇山国，曾收藏于该国皇史宬 。",
+    "karma_link": "陈平安在鬼蜮谷剥落山宝库中通过分赃与“书生”杨凝性交换得来 。"
+  },
+  "enriched": true
+}

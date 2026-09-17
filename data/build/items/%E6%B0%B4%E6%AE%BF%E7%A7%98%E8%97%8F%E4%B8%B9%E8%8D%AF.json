@@ -1,0 +1,44 @@
+{
+  "name": "水殿秘藏丹药",
+  "original_name": "碧绿丹药 / 珠钗岛水丹",
+  "type": "丹药",
+  "grade": "灵药",
+  "status": "消耗",
+  "description": "这是陈平安修复“水字印”本命物的关键。这种丹药每出现一颗，都会在书简湖引发腥风血雨，象征着昔 日水下皇权的余晖 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第439章 于不练剑时磨剑",
+      "owner": "刘重润 -> 陈平安"
+    }
+  ],
+  "subtype": "补益类 / 滋养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘重润",
+      "relation": "原主 (珠钗岛岛主)"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为亡国水殿的最后秘藏，其品秩足以令元婴地仙垂涎三尺，对水属根基有逆天改命之效 。",
+  "supernatural_ability": "“大补水运”。能够迅速修缮受损的水属气府，并极大地滋养、提升水属性本命物的品秩与灵气上限 。",
+  "evolution": {
+    "current_form": "翠绿欲滴的晶莹丹丸，药力凝练如水 。",
+    "materials_consumed": [
+      "大渎水精",
+      "亡国江河气运"
+    ],
+    "potential_evolution": "服用后可在气府中凝练出如“骊珠”般的本源核心 。"
+  },
+  "visual": {
+    "static": "封存在名贵瓷瓶内，药力外溢使得瓶身隐有彩虹光晕 。",
+    "active": "入口即化为清凉激荡的水运洪流，能够瞬间填补枯竭的水府，引发百丈高浪般的气机波动 。"
+  },
+  "provenance": {
+    "origin": "产自刘重润故国的“南薰水殿”，汇聚了一国江河之精华 。",
+    "karma_link": "刘重润将其作为珠钗岛搬迁、寻求落魄山庇护的“定金”赠予陈平安 。"
+  },
+  "enriched": true
+}

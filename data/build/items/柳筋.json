@@ -1,0 +1,38 @@
+{
+  "name": "柳筋",
+  "original_name": "法刀“柳筋”",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "柳筋是缝衣人捻芯的本命法刀。它主要用于极其精细的缝衣术，能在不弄死对方的前提下，在骨骼和经 络上铭刻文字、符箓，是陈平安重塑脊柱与神魂防御的关键工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第679章 人间俱是远游客",
+      "owner": "捻芯"
+    }
+  ],
+  "subtype": "工具类 / 攻伐类",
+  "holder": "捻芯",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为缝衣人的本命法刀，随持刀者缝衣造诣的提升，对修士骨骼与魂魄的雕琢能力不断加强 。",
+  "supernatural_ability": "能够精准剥离大妖真名，在修士脊柱、骨骼上进行九叠篆、鸟虫篆等复杂篆刻而不伤及根本 。",
+  "evolution": {
+    "current_form": "形似柳叶、极其纤细的法刀 。",
+    "materials_consumed": [
+      "修士金丹精华",
+      "阴冥煞气"
+    ],
+    "potential_evolution": "可演化为具备“切刀”与“冲刀”双重极致神韵的剔骨神兵 。"
+  },
+  "visual": {
+    "static": "刀尖极其纤细，看似寻常短刀却带有森森寒气 。",
+    "active": "下刀时如木匠刨花，能从骨骼上刮下含有道意的碎屑 。"
+  },
+  "provenance": {
+    "origin": "缝衣人一脉相传的独门法兵 。",
+    "karma_link": "是捻芯行使“剥衣”与“穿衣”术法的核心媒介 。"
+  },
+  "enriched": true
+}

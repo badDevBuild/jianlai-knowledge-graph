@@ -1,0 +1,48 @@
+{
+  "name": "油灯",
+  "original_name": "囚禁吴霜降的油灯",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这盏油灯是宁府的特殊遗存之一，其内囚禁着曾经在剑气长城牢狱中活跃的白发童子 。它是隐官陈平安留给宁姚的重要资产，内藏乾坤。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第775章 会一会十四境",
+      "owner": "宁姚/陈平安"
+    }
+  ],
+  "subtype": "镇压类 / 空间类",
+  "holder": "宁姚",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    },
+    {
+      "name": "捻芯",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "承载着一位飞升境化外天魔的命理，具备演化为独立道场的能力 。",
+  "supernatural_ability": "内部开辟有山水禁制，能够完美镇压并囚禁飞升境规模的化外天魔 。",
+  "evolution": {
+    "current_form": "一盏看似寻常、灯芯微动的油灯 。",
+    "materials_consumed": [
+      "远古灯芯材质",
+      "剑气精华"
+    ],
+    "potential_evolution": "随着化外天魔（白发童子）的炼化，可成为某种连接阴阳的大道媒介 。"
+  },
+  "visual": {
+    "static": "古朴的小油灯，灯火昏黄，似灭不灭 。",
+    "active": "捻动灯芯即可打开山水禁制，释放出被囚禁的白发童子 。"
+  },
+  "provenance": {
+    "origin": "陈平安在剑气长城期间获得，离开前交由捻芯带往五彩天下 。",
+    "karma_link": "见证了陈平安与吴霜降（白发童子）之间的利益交换与因果纠缠 。"
+  },
+  "enriched": true
+}

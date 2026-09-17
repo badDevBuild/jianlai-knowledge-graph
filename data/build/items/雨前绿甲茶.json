@@ -1,0 +1,44 @@
+{
+  "name": "雨前绿甲茶",
+  "original_name": "绿甲茶",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "消耗",
+  "description": "这是浩然天下最清贵的灵茶。它代表了读书人的一种极 简而极雅的最高审美境界 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第790章 备战",
+      "owner": "清友福地"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "文庙 / 董老夫子",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆先生",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为清友福地的顶级特产，其茶香蕴含纯正的浩然气， 具备破除一切虚妄幻境的神效 。",
+  "supernatural_ability": "饮用后能使人神识清明，哪怕是圣人级别也会觉得心神 舒泰 。",
+  "evolution": {
+    "current_form": "色泽如绿甲般坚韧、叶芽均匀的干茶 。",
+    "materials_consumed": [
+      "清友福地灵根",
+      "谷雨前第一抹晨曦"
+    ],
+    "potential_evolution": "若以“人间第二泉”煮之，可显化“圣贤对坐”之象。"
+  },
+  "visual": {
+    "static": "茶叶形状紧结，色泽翠绿中带金，内敛宝光 。",
+    "active": "冲泡后茶汤碧绿，叶芽直立如甲兵列阵，水面有灵气如 龙蛇游动 。"
+  },
+  "provenance": {
+    "origin": "产自清友福地，由陆先生亲自采摘 。",
+    "karma_link": "由不夜侯专程送往文庙，董老夫子平时极不舍得饮用 。"
+  },
+  "enriched": true
+}

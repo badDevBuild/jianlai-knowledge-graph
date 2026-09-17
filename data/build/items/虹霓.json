@@ -1,0 +1,46 @@
+{
+  "name": "虹霓",
+  "original_name": "飞剑“虹霓”",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是剑仙胚子朝暮的两把本命飞剑之一。虽然在避暑行宫初期评定中品秩不算顶级，但其独特的色彩和 配合“滂沱”时产生的压制力使其在实战中表现出色 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第703章 又一年五月初五",
+      "owner": "朝暮"
+    },
+    {
+      "chapter": "第705章 化雪时",
+      "owner": "朝暮"
+    },
+    {
+      "chapter": "第1110章 纯粹剑修们",
+      "owner": "朝暮"
+    }
+  ],
+  "subtype": "攻伐类 / 幻象类",
+  "holder": "朝暮",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "在避暑行宫秘档中被评为“丙上”品秩，具备极佳的战场适应性 。",
+  "supernatural_ability": "剑光如虹，可演化出绚烂的景象干扰敌手，与飞剑“滂沱”配合时能引动天候异象 。",
+  "evolution": {
+    "current_form": "色彩绚烂的袖珍飞剑 。",
+    "materials_consumed": [
+      "远古剑意",
+      "天地灵气"
+    ],
+    "potential_evolution": "随持有者在谢松花的指点下修行，有望提升品秩至“乙”等 。"
+  },
+  "visual": {
+    "static": "剑身极细，散发着七彩光晕，如同微缩的彩虹 。",
+    "active": "祭出时划破长空，拖曳出长久的流萤轨迹，美如画卷但杀机四伏 。"
+  },
+  "provenance": {
+    "origin": "由剑气长城本土少年剑修朝暮本命孕育 。",
+    "karma_link": "现随师父谢松花远游浩然天下，在各洲战场历练 。"
+  },
+  "enriched": true
+}

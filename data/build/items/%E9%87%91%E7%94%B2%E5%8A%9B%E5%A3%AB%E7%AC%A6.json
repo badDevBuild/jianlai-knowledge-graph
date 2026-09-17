@@ -1,0 +1,47 @@
+{
+  "name": "金甲力士符",
+  "original_name": "金甲神人符 / 敕召符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "这是浩然天下最著名的守护符箓之一。它将神道威严与符法结合，是练 气士构建“阵法防御线”的常用手段 。",
+  "aliases": [
+    "金甲力士符"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第244章 大骊陈平安在此",
+      "owner": "锦袍老人"
+    }
+  ],
+  "subtype": "攻伐类 / 防御类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊皇室",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若由天师印钤印，可升华为具备“雷部神将”战力的仙兵 。",
+  "supernatural_ability": "符纸祭出后，可幻化为身高丈余、全身覆盖金甲的力士，力大无穷且不 畏生死 。",
+  "evolution": {
+    "current_form": "绘有神将披甲图案的金色材质符纸 。",
+    "materials_consumed": [
+      "金箔符纸",
+      "香火灵气",
+      "敕令真言"
+    ],
+    "potential_evolution": "可演化为具有自主心智、能镇压一山气运的“神人承露偶” 。"
+  },
+  "visual": {
+    "static": "符面金光熠熠，神将形象威严，带有淡淡的香火气息 。",
+    "active": "激发时伴随雷鸣声，神人从画中走出，执搏搓锐，直接噬食鬼魅 。"
+  },
+  "provenance": {
+    "origin": "源自上古神道教门，常用于官署与重要仙家宅邸的护卫 。",
+    "karma_link": "陈平安曾在梳水国战场见识此符压胜威力，后在落魄山大肆布防 。"
+  },
+  "enriched": true
+}

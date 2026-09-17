@@ -1,0 +1,52 @@
+{
+  "name": "藻井",
+  "original_name": "水殿古藻井",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件极具底蕴的远古建筑重宝，原为北俱芦洲仙府水殿之物 。因其体量巨大且能显著裨益门派气运，被彩雀府视为千金难买的镇宅之宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第545章 为何敢怒不敢言",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第546章 剑客行事",
+      "owner": "孙清"
+    }
+  ],
+  "subtype": "镇压类 / 气运类",
+  "holder": "孙清 (彩雀府)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "北俱芦洲远古仙府水殿",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为能够稳固一山水土、聚拢八方气运的奠基之物，具备演化为宗门核心阵枢的潜力 。",
+  "supernatural_ability": "即便在未大炼的情况下，也能在安置处显现出麟甲飞动、欲雨生雾的峥嵘气象，有效聚拢山水气运 。",
+  "evolution": {
+    "current_form": "体量巨大的建筑构件，带有远古仙府的加持禁制 。",
+    "materials_consumed": [
+      "远古仙家木料",
+      "神道愿力"
+    ],
+    "potential_evolution": "若经高深术法炼化，可成为宗门祖师堂的永久镇山重器 。"
+  },
+  "visual": {
+    "static": "工艺极其复杂繁密，圆心处为莲花，外圈为两条衔尾蛟龙与十六飞天，规制宏大且精美 。",
+    "active": "安置于祖师堂后，龙纹麟甲仿佛活物，引动四周云雾升腾，气象万千 。"
+  },
+  "provenance": {
+    "origin": "得自北俱芦洲一处名为“水殿”的远古仙府遗址 。",
+    "karma_link": "陈平安在访山寻宝中将其带离，后作为建立合作的筹码卖给彩雀府 。"
+  },
+  "enriched": true
+}

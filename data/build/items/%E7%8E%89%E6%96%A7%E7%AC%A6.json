@@ -1,0 +1,38 @@
+{
+  "name": "玉斧符",
+  "original_name": "月宫玉斧符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "活跃",
+  "description": "**玉斧符**是山上公认的顶级破障符。它不重杀伤而重 “破门”，是刺杀大修士的绝佳辅助工具。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第779章 剑斩十四",
+      "owner": "吴霜降"
+    }
+  ],
+  "subtype": "破障/因果类",
+  "holder": "吴霜降",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为“世间大符”，具有在光阴长河中强行开门的神通。",
+  "supernatural_ability": "“专门用来找人”，无视小天地屏障，即便面对十四境法 相也能一击必中。",
+  "evolution": {
+    "current_form": "一张散发月宫道韵、铭文极其繁复的金色符箓。",
+    "materials_consumed": [
+      "月魂精粹",
+      "远古神性"
+    ],
+    "potential_evolution": "可演化为破开两座天下壁垒的“钥匙”。"
+  },
+  "visual": {
+    "static": "符纸表面仿佛有一尊神灵持斧砍树的动态虚影。",
+    "active": "化为一把巨大的斫桂巨斧，一闪而逝，精准锁定敌人真 身。"
+  },
+  "provenance": {
+    "origin": "岁除宫吴霜降自创，源自远古月宫砍树的传说。",
+    "karma_link": "吴霜降以此符向世人展示了何谓“节俭”而出奇的斗法。"
+  },
+  "enriched": true
+}

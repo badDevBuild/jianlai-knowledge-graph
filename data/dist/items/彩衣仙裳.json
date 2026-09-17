@@ -1,0 +1,46 @@
+{
+  "name": "彩衣仙裳",
+  "original_name": "彩衣祖宗甲",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "遗失",
+  "description": "此裳为神人承露甲的八副**祖宗甲**之一，名列“彩衣”。其防御力冠绝当世，且天生压制寻常鬼魅，是 山巅强者梦寐以求的护身至宝 。",
+  "aliases": [
+    "彩衣仙裳"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第233章 尘埃落定",
+      "owner": "灵犀派 (被盗)"
+    }
+  ],
+  "subtype": "防御/神道类",
+  "holder": "未知",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古高位神灵",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为**祖宗甲**之一，具备演化为仙兵甚至神兵的防御潜力 。",
+  "supernatural_ability": "具备极其强大的神道防御力，是后世所有神人承露甲的参考原型之一 。",
+  "evolution": {
+    "current_form": "彩虹霓裳状的古老甲胄 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "武运"
+    ],
+    "potential_evolution": "回归远古披甲者神性形态 。"
+  },
+  "visual": {
+    "static": "呈现出七彩缤纷的绚烂光泽，如一挂远古彩虹 。",
+    "active": "宝光流转，化作层层法网护住全身，能够抵御大修士的全力攻伐 。"
+  },
+  "provenance": {
+    "origin": "远古十二高位神灵之一的“铸造者”仿制披甲者神甲而成 。",
+    "karma_link": "与兵家初祖的武道演化以及后期神道重塑深度关联 。"
+  },
+  "enriched": true
+}

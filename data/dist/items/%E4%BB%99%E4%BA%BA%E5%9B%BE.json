@@ -1,0 +1,52 @@
+{
+  "name": "仙人图",
+  "original_name": "仙人面壁图 / 扶鸾飞升图",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这不仅是一幅画，更是一份关于**飞升**的古老契机。 陈平安曾以此图作为与**杜含灵**博弈的关键棋子，展现了其深厚的心机布局。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第896章 日月皆如水上萍",
+      "owner": "叶芸芸"
+    },
+    {
+      "chapter": "第1035章 自有宽路",
+      "owner": "叶芸芸"
+    }
+  ],
+  "subtype": "阵法类 / 传承类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "沅国皇史宬",
+      "relation": "曾持有"
+    },
+    {
+      "name": "叶芸芸",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "其内部蕴含的**飞升秘法**可引导修士窥见更高的大道境界。",
+  "supernatural_ability": "画卷本身是一座**杀伐大阵**，一旦完全开启，其威力可等同于**飞升境剑修**的倾力一剑。",
+  "evolution": {
+    "current_form": "一幅笔墨厚重、意境深远的古老卷轴。",
+    "materials_consumed": [
+      "远古剑意",
+      "大道真髓"
+    ],
+    "potential_evolution": "若能配合**心相天地**使用，可演化为一方真实的**飞升洞天**。"
+  },
+  "visual": {
+    "static": "画中绘有一位仙人面向石壁而坐，线条简洁，古意盎然。",
+    "active": "激活时画卷会散发出**七彩琉璃光彩**，形成一道道撕裂虚空的**剑光**。"
+  },
+  "provenance": {
+    "origin": "源自上古时代的**敕鳞江**江底铁盒。",
+    "karma_link": "由叶芸芸从包袱斋处意外捡漏获得，后由陈平安持有真迹。"
+  },
+  "enriched": true
+}

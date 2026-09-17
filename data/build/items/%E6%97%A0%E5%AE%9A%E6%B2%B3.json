@@ -1,0 +1,38 @@
+{
+  "name": "无定河",
+  "original_name": "无定河",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "无定河是蛮荒女修子午梦擅长编织的梦境核心景观。它象征着离散与虚幻，是其用来摧毁敌手道心、拆 散有情人的强大幻术手段 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第683章 何处不问剑",
+      "owner": "仰止"
+    }
+  ],
+  "subtype": "幻象类 / 意境类",
+  "holder": "子午梦 (春宵)",
+  "holder_relation": "寄托",
+  "rank": "法宝",
+  "rank_potential": "作为梦境编织的核心意象，其威能随持有人梦境造诣的加深而无止境扩张 。",
+  "supernatural_ability": "“梦里无定河”。通过观想显化，能够在梦境中拆散原本亲密的人间道侣与眷侣 。",
+  "evolution": {
+    "current_form": "存在于观想与梦境中的虚幻河流水域 。",
+    "materials_consumed": [
+      "月魄精粹",
+      "众生梦境碎片"
+    ],
+    "potential_evolution": "若能合道蛮荒大水，可化作真实存在的阻断光阴之河 。"
+  },
+  "visual": {
+    "static": "在现实中不可见，仅存于持有者的神识与本命神通内 。",
+    "active": "在梦境世界中呈现为流转不定、波光诡谲的长河，让入梦者迷失其中 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下曳落河水域的阴郁意象 。",
+    "karma_link": "由天干修士子午梦通过秘法炼化为本命神通的一部分 。"
+  },
+  "enriched": true
+}

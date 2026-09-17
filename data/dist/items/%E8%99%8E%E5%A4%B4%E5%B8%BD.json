@@ -1,0 +1,54 @@
+{
+  "name": "虎头帽",
+  "original_name": "少年白也的帽子",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是少年白也最标志性的装束之一。它代表了这位曾经的人间最得意在经历生死转折后，选择以一种更 纯粹、更自在的姿态行走世间 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第728章 李花太白虎头帽",
+      "owner": "转世白也"
+    },
+    {
+      "chapter": "第731章 仰天大笑，夫复何言",
+      "owner": "白也"
+    },
+    {
+      "chapter": "第859章 年轻人们",
+      "owner": "白也"
+    },
+    {
+      "chapter": "第963章 饮尽一杯酒",
+      "owner": "白也"
+    },
+    {
+      "chapter": "第1064章 （1） 白也诗剑两无敌",
+      "owner": "白也"
+    }
+  ],
+  "subtype": "饰品/遮蔽类",
+  "holder": "白也（少年形态）",
+  "holder_relation": "持有",
+  "rank": "灵物",
+  "rank_potential": "随白也在青冥天下的“再成道”而增长灵性 。",
+  "supernatural_ability": "配合白也返璞归真的心境，能遮蔽天机，使其显得平淡无奇且意气豪迈 。",
+  "evolution": {
+    "current_form": "一只充满童趣、色彩明艳的虎头形状帽子 。",
+    "materials_consumed": [
+      "凡俗织物",
+      "圣贤意气"
+    ],
+    "potential_evolution": "无 [无]。"
+  },
+  "visual": {
+    "static": "做工扎实，显得十分稚气，与白也当下的少年容貌相得益彰 。",
+    "active": "戴上帽子后，白也举手投足间自有剑客挥手决浮云的气概 。"
+  },
+  "provenance": {
+    "origin": "白也重返浩然或游历青冥时，为掩饰身份、回归真我所戴 。",
+    "karma_link": "是“诗无敌”与“少年心”在视觉上的奇妙融合 。"
+  },
+  "enriched": true
+}

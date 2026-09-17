@@ -1,0 +1,44 @@
+{
+  "name": "仿造琉璃阁",
+  "original_name": "仿制琉璃阁",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件极具实用价值的鬼道灵器。它内部设有专门温养魂魄的禁制，陈平安在远游途中多次使用它来 引渡和安顿古战场遗址的英灵 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第534章",
+      "owner": "顾璨"
+    }
+  ],
+  "subtype": "空间类 / 灵物",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "俞桧",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽然是仿制品，但随着内部温养鬼物等级的提升，其空间稳定性和禁锢能力会不断加强 。",
+  "supernatural_ability": "内部设有十二间能够温养鬼将之流的屋舍，能够通过吸收神仙钱维持灵气，供阴物栖息修行 。",
+  "evolution": {
+    "current_form": "一件可收纳于咫尺物中的上乘灵器 。",
+    "materials_consumed": [
+      "雪花钱",
+      "阴煞之气"
+    ],
+    "potential_evolution": "若由主人跻身地仙，有望摹拓出以假乱真的仙人实境 。"
+  },
+  "visual": {
+    "static": "外形仿造中土白帝城琉璃阁，玲珑剔透，其内屋舍俨然 。",
+    "active": "开启后宝光流溢，可见内部阴鬼或鬼将穿行其间 。"
+  },
+  "provenance": {
+    "origin": "书简湖月钩岛地仙俞桧仿造白帝城琉璃阁所制 。",
+    "karma_link": "俞桧为了结缘主动将其卖给陈平安，陈平安用其收拢和安置那些横死的阴灵鬼魅 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,42 @@
+{
+  "name": "瀑布",
+  "original_name": "金色雨幕",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这并非自然景观，而是陈平安结合三教宗旨，以文字炼化而成的防御异象。 它不仅护卫着道场的核心，更体现了陈平安“书生”身份在道法上的极致运用 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第515章 琢磨",
+      "owner": "柳质清"
+    },
+    {
+      "chapter": "第661章 围杀一人和一人围杀",
+      "owner": "雨四"
+    }
+  ],
+  "subtype": "阵法 / 灵物",
+  "holder": "陈平安 (在五彩天下道场)",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "由三教经典文字凝聚而成，随陈平安道法精进而威能倍增 。",
+  "supernatural_ability": "具有极强的防御和温养功效，能隔绝外魔，同时在大道层面上对来犯之敌产生压胜。",
+  "evolution": {
+    "current_form": "垂挂在绛阙仙府顶楼外的三条金色雨幕。",
+    "materials_consumed": [
+      "三教经典文字",
+      "山河气运"
+    ],
+    "potential_evolution": "有望演化为真实的小千世界防御层 。"
+  },
+  "visual": {
+    "static": "看起来像是三道永不干涸的金色水流，自高处垂落。",
+    "active": "每一条雨线实则都是由细密的经典文字衔接而成，流光溢彩。"
+  },
+  "provenance": {
+    "origin": "由陈平安在五彩天下仙都山绸缪山景星峰自行凝练。",
+    "karma_link": "作为保护学生曹晴朗闭关破境的重要手段，也是其道场防御体系的核心 。"
+  },
+  "enriched": true
+}

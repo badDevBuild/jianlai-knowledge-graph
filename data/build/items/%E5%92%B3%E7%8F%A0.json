@@ -1,0 +1,38 @@
+{
+  "name": "咳珠",
+  "original_name": "鲜红色袖珍短剑",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "莲藕福地应运而生的四把本土飞剑之一。原本体弱多病、向往江湖的大家闺秀麦青，在翻阅咏剑诗时百 窍通明，从心窍处呕出此剑 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第526章 伏线拎起即杀机",
+      "owner": "徐铉侍女"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "麦青 (南苑国闺阁女子)",
+  "holder_relation": "大炼",
+  "rank": "灵器",
+  "rank_potential": "作为福地诞生的首批本命飞剑之一，拥有极强的灵性与成长空间 。",
+  "supernatural_ability": "能够像剑丸一样围绕主人旋转，如小鸟依人，天生亲近主人的文运与心意 。",
+  "evolution": {
+    "current_form": "长约寸余、鲜红色的袖珍短剑 。",
+    "materials_consumed": [
+      "心头热血",
+      "边塞诗词文气"
+    ],
+    "potential_evolution": "若能配合上品剑诀，可演化为斩断因果的杀伐重宝 。"
+  },
+  "visual": {
+    "static": "流光溢彩，剑身通红，蕴含着惊人的火属灵力 。",
+    "active": "破空飞行时如长虹划过，能在室内带起阵阵清凉且明亮的光华 。"
+  },
+  "provenance": {
+    "origin": "莲藕福地跻身上等品秩后，因文运与天时感应在麦青体内孕育而成 。",
+    "karma_link": "麦青因痴迷边塞诗词而得剑，体现了福地内“心想事成”的大道契机 。"
+  },
+  "enriched": true
+}

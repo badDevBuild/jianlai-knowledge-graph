@@ -1,0 +1,48 @@
+{
+  "name": "“掣电”挂砚",
+  "original_name": "掣电古砚",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“掣电”挂砚是远古雷部的遗珍，曾被用于清洗神将兵器。它在邵宝卷手中获得了新的生机，是其在北俱 芦洲获得的重要机缘之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第488章 缘来情根深种",
+      "owner": "挂砚神女"
+    }
+  ],
+  "subtype": "温养类 / 攻伐类",
+  "holder": "邵宝卷 (由挂砚神女持有)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "壁画城地宫",
+      "relation": "原主"
+    },
+    {
+      "name": "远古雷部神将",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由于能容纳一整座雷池，具备演化为雷法至宝甚至仙兵的杀力上限 。",
+  "supernatural_ability": "能够收纳、盛放整座雷池，将天雷化作金色墨汁储存在砚台中，供持有者随时调动雷电真意 。",
+  "evolution": {
+    "current_form": "一方小巧玲珑的古砚，常由神女悬挂于腰间 。",
+    "materials_consumed": [
+      "积霄山雷池",
+      "远古雷电精华"
+    ],
+    "potential_evolution": "若收集齐五雷真意，可成为代天行刑的审判重器 。"
+  },
+  "visual": {
+    "static": "砚身刻有“掣电”二字，质地古朴，隐有雷纹 。",
+    "active": "开启时可将整座积霄山雷池拔地而起吸入其中，砚中金光激荡，威压深重 。"
+  },
+  "provenance": {
+    "origin": "原为北俱芦洲骸骨滩壁画城中挂砚神女的伴生法宝 。",
+    "karma_link": "随神女一同择主邵宝卷，并在鬼蜮谷内吸取了积霄山的雷池造化 。"
+  },
+  "enriched": true
+}

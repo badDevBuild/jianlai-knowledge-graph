@@ -1,0 +1,50 @@
+{
+  "name": "甘霖",
+  "original_name": "本命飞剑“甘霖”",
+  "type": "本命飞剑",
+  "grade": "本命飞剑",
+  "status": "活跃",
+  "description": "大剑仙吴承霈的本命飞剑，在多次守城战中表现卓越 。它是极少数能够通过战场环境自我砥砺的异类飞剑 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第644章 下城头",
+      "owner": "吴承霈"
+    },
+    {
+      "chapter": "第645章 取金丹",
+      "owner": "吴承霈"
+    },
+    {
+      "chapter": "第664章 两位剑客",
+      "owner": "吴承霈"
+    },
+    {
+      "chapter": "第683章 何处不问剑",
+      "owner": "吴承霈"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "吴承霈",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为极特殊的飞剑，其杀力在战场上具有群攻优势 。",
+  "supernatural_ability": "飞剑无定式，可融入血肉深潭之中进行潜心炼剑 。",
+  "evolution": {
+    "current_form": "无形无迹的飞剑 。",
+    "materials_consumed": [
+      "战场意气",
+      "剑修灵力"
+    ],
+    "potential_evolution": "若能跻身仙人境，可造就出泽被四方的剑雨景象 。"
+  },
+  "visual": {
+    "static": "平时隐匿于气府，不可见其形 。",
+    "active": "祭出时如雨落人间，无孔不入 。"
+  },
+  "provenance": {
+    "origin": "剑气长城本土剑修吴承霈的本命物 。",
+    "karma_link": "代表了剑气长城中坚战力在持久战中的独特作用 。"
+  },
+  "enriched": true
+}

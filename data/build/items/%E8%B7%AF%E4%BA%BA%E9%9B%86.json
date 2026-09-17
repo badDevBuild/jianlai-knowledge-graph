@@ -1,0 +1,48 @@
+{
+  "name": "路人集",
+  "original_name": "陈灵均路人集",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是落魄山元婴水蛟陈灵均的个人秘籍。它不教杀人， 只教如何完美地“擦肩而过”而不引起大人物的注意 。",
+  "aliases": [
+    "《路人集》"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第987章 笛声里校书",
+      "owner": "陈灵均"
+    },
+    {
+      "chapter": "第1036章 各自修行",
+      "owner": "陈灵均"
+    },
+    {
+      "chapter": "第1064章 （1） 白也诗剑两无敌",
+      "owner": "陈灵均(景清)"
+    }
+  ],
+  "subtype": "记录/因果类",
+  "holder": "陈灵均",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随着名单不断增加，可能演化为具有“规避因果”及“天 机遮蔽”功能的奇书 。",
+  "supernatural_ability": "详细记录了一大批陈灵均“绝对不想招惹”的山巅大人物 ，名单包含其根脚与事迹 。",
+  "evolution": {
+    "current_form": "一本秘密撰写的纸质册子，常藏于陈灵均袖中 。",
+    "materials_consumed": [
+      "山水邸报情报",
+      "江湖八卦"
+    ],
+    "potential_evolution": "若被文庙收录，可作为评定一洲势力强弱的参考秘档 。"
+  },
+  "visual": {
+    "static": "封面平平无奇，内页字迹歪斜，部分名字被重点圈画（ 如陈清流） 。",
+    "active": "翻阅时陈灵均会心惊肉跳，书中人物气机若隐若现 。"
+  },
+  "provenance": {
+    "origin": "由陈灵均在落魄山闲暇时自发编撰，旨在“江湖保命” 。",
+    "karma_link": "体现了陈灵均作为“大爷”在面对真正强者时的求生本能 。"
+  },
+  "enriched": true
+}

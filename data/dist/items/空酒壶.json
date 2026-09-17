@@ -1,0 +1,48 @@
+{
+  "name": "空酒壶",
+  "original_name": "方寸物老祖宗",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这只酒壶在《剑来》世界中具有极高的历史价值，它代表了山上修士对空间掌控的最初尝试，其纪念意 义远大于实际功能 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1036章 各自修行",
+      "owner": "高酿"
+    }
+  ],
+  "subtype": "存储类 / 纪念类",
+  "holder": "高酿",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "矮小汉子 (远古大妖)",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为天下方寸物与咫尺物的源头原型之一，蕴含着最原始的空间法则 。",
+  "supernatural_ability": "具备极其稳定的内部空间，且能让酒水在其中通过微妙的灵气流转保持醇厚滋味 。",
+  "evolution": {
+    "current_form": "一只形制简单、看似寻常的空酒壶 。",
+    "materials_consumed": [
+      "上古空间碎片",
+      "特殊炼器神金"
+    ],
+    "potential_evolution": "虽是半成品，但若能补全禁制，可演化为小型洞天 。"
+  },
+  "visual": {
+    "static": "外表朴拙，不显任何法宝气象，像是在市井酒肆中常见的器皿 。",
+    "active": "晃动时能听到悦耳的酒水撞击声，即便壶中已空，依旧余韵悠长 。"
+  },
+  "provenance": {
+    "origin": "最早由天下十豪之一的兰锜铸造，是方寸物的鼻祖之一 。",
+    "karma_link": "陈平安在细眉河将其“随手”赠予河神高酿，高酿视其为神迹与重宝 。"
+  },
+  "enriched": true
+}

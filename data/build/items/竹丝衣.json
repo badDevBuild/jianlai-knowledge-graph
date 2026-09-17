@@ -1,0 +1,47 @@
+{
+  "name": "竹丝衣",
+  "original_name": "清凉袍",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "竹丝衣是一种极为罕见的修行至宝，以其卓越的**调理阴阳和聚拢灵气**的神通著称 。它被誉为“不亚于咫尺物的追求”，是高阶修士行走天下时的顶级行头 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第747章 秉烛夜游",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土大王朝君主",
+      "relation": "曾持有"
+    },
+    {
+      "name": "刘幽州",
+      "relation": "持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "源自青神山顶级工艺，具备**辅助修士跻身上五境**的极佳温养效果 。",
+  "supernatural_ability": "**“避暑胜地”**。能将日光转化为灵气，使穿戴者如置身洞天，极大提升水、木两法修士的修行速度 。",
+  "evolution": {
+    "current_form": "由细密竹丝编织而成的长衫 。",
+    "materials_consumed": [
+      "青神山万年竹丝"
+    ],
+    "potential_evolution": "可炼化为半仙兵品秩的“水路分阴阳”法袍 。"
+  },
+  "visual": {
+    "static": "色泽湛青，质地看似薄如蝉翼，实则坚韧异常，自带一股**草木清香** 。",
+    "active": "穿戴者在灵气激荡时，袍身会泛起阵阵**青翠雾霭**，隐约有竹林涛声回响 。"
+  },
+  "provenance": {
+    "origin": "出自竹海洞天青神山的独门编织秘术 。",
+    "karma_link": "陈平安通过此袍伪装身份，并以此验证了其卓越的防御与辅助能力 。"
+  },
+  "enriched": true
+}

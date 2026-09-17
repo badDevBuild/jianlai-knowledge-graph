@@ -1,0 +1,48 @@
+{
+  "name": "刑部无事牌",
+  "original_name": "太平无事牌 / 大骊刑部供奉牌",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是大骊王朝科层化管理山上修士的关键器物。它将原 本散乱的野修改编为受朝廷节制的“供奉”，是宝瓶洲地 缘政治秩序洗牌后的产物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第833章 好似拖拽虚舟",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1179章 一幅飞升合道图",
+      "owner": "谢狗, 陈平安, 黄衢"
+    }
+  ],
+  "subtype": "身份/护道类",
+  "holder": "落魄山众修士 / 大骊供奉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊刑部",
+      "relation": "颁发者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随持有者积累军功而提升品第，甲、乙、丙三字号宝库 分别对应不同品秩的供奉 。",
+  "supernatural_ability": "大骊军方与山上势力的契约凭证，持有者可调动一地官 府资源，并在危急时刻向大骊皇家及书院求援 。",
+  "evolution": {
+    "current_form": "玉石或特殊金属材质的牌子，刻有特定字号。",
+    "materials_consumed": [
+      "大骊国运",
+      "山上香火"
+    ],
+    "potential_evolution": "高等级无事牌可作为直接联系大骊宋氏皇室的信物。"
+  },
+  "visual": {
+    "static": "质地坚硬，正面刻有“太平无事”或大骊刑部印章，背面 记录编号。",
+    "active": "激发时会产生微弱的官气涟漪，阻隔寻常邪祟近身 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝为收编、管理山上野修而推行的身份认证体系 。",
+    "karma_link": "陈平安曾在落魄山为众人谋求此牌，作为大骊王朝官方 认可的“正统”身份。"
+  },
+  "enriched": true
+}

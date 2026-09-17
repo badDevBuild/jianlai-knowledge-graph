@@ -1,0 +1,61 @@
+{
+  "name": "压胜钱",
+  "original_name": "上梁钱 / 镇宅钱",
+  "type": "货币",
+  "grade": "法器",
+  "status": "消耗",
+  "description": "这是《剑来》中极具分量的特种钱币，不仅作为货币流 通，更是各方势力博弈与镇压气运的重要工具 , 。",
+  "aliases": [
+    "金色铜钱",
+    "青铜花钱",
+    "迎春钱",
+    "信物铜钱"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第26章 好说话",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第27章 点睛",
+      "owner": "赵繇 -> 稚圭"
+    },
+    {
+      "chapter": "第76章 背对",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1152章 箭跺",
+      "owner": "翠微宫"
+    }
+  ],
+  "subtype": "灵物/镇压类",
+  "holder": "陈平安 / 顾璨",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "药铺杨老头",
+      "relation": "发放者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随着炼化程度加深，可演化为具有镇压江河、压胜大妖 威力的法宝 , 。",
+  "supernatural_ability": "刻有“去殃除凶”“天下太平”等吉语 。能压胜山水阴煞，吸纳并转移气运 , 。",
+  "evolution": {
+    "current_form": "形制古朴的金精压胜钱 。",
+    "materials_consumed": [
+      "金精",
+      "人间香火愿力"
+    ],
+    "potential_evolution": "若集齐北斗丛星三十六天罡，可结成无视“请神”的大阵 。"
+  },
+  "visual": {
+    "static": "钱币外圆内方，边齿整齐，包浆醇厚，字口如斩 , 。",
+    "active": "祭出时可产生实质性的压制力，使邪祟难以近身 。"
+  },
+  "provenance": {
+    "origin": "源自三山九侯先生流传下的秘法 。",
+    "karma_link": "陈平安曾用压胜钱买下落魄山，确立了其山主的法统 。"
+  },
+  "enriched": true
+}

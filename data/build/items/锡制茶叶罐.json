@@ -1,0 +1,38 @@
+{
+  "name": "锡制茶叶罐",
+  "original_name": "灵茶存具",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安作为“山主”进行人情往来的必备之物，装载 着彩雀府产出的珍贵茶叶 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第882章 花实",
+      "owner": "马沅"
+    }
+  ],
+  "subtype": "道具/生活类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "作为存放“小玄壁”等灵茶的器皿，长期盛放顶级灵茶可 沾染清香道韵 , 。",
+  "supernatural_ability": "密封性极佳，能隔绝外界尘嚣，防止灵茶内部的浩然气 与灵效流失 。",
+  "evolution": {
+    "current_form": "工艺精湛的锡制罐子，常有各色封条 。",
+    "materials_consumed": [
+      "精锡",
+      "法阵封印"
+    ],
+    "potential_evolution": "可作为炼制低阶水属灵器的辅材。"
+  },
+  "visual": {
+    "static": "外表银亮素雅，触手微凉，表面刻有落魄山或产茶地的 标识 。",
+    "active": "开启时有一股沁人心脾的茶香混杂灵气溢出，形成微弱 的雾霭 。"
+  },
+  "provenance": {
+    "origin": "多为落魄山采购自山下老字号，用于包装赠礼 。",
+    "karma_link": "常作为陈平安结交山上高友（如袁灵殿、杨后觉）的媒 介 。"
+  },
+  "enriched": true
+}

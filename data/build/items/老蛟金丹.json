@@ -1,0 +1,48 @@
+{
+  "name": "老蛟金丹",
+  "original_name": "蛟龙沟元婴老蛟内丹",
+  "type": "丹药",
+  "grade": "未知",
+  "status": "遗失",
+  "description": "这是蛟龙沟元婴老蛟身死后留下的内丹。范峻茂感念陈平安在老龙城的因果，将其小炼后装入酒壶送给 陈平安，成为他伤后重塑体魄的关键资源 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第363章 谁能借我一剑",
+      "owner": "范峻茂 (原属陈平安)"
+    }
+  ],
+  "subtype": "滋养类 / 补益类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "元婴老蛟",
+      "relation": "原主"
+    },
+    {
+      "name": "范峻茂",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为元婴境蛟龙的精华，其不仅是修补体魄的圣药，更是炼化水属本命物的极佳辅材 。",
+  "supernatural_ability": "**“修缮金身”**。经由小炼后浸泡在酒水中，每日饮用两三口，对纯粹武夫体魄的修缮效果胜过任何灵 丹妙药 。",
+  "evolution": {
+    "current_form": "浸泡在酒壶中的药酒 。",
+    "materials_consumed": [
+      "元婴蛟龙精华",
+      "云海水精"
+    ],
+    "potential_evolution": "可作为五行之水的本命物炼化核心 。"
+  },
+  "visual": {
+    "static": "藏于酒壶之中，使得酒液色泽莹润 。",
+    "active": "饮用时药力如长龙入腹，温养五脏六腑 。"
+  },
+  "provenance": {
+    "origin": "源自蛟龙沟一头元婴境老蛟 。",
+    "karma_link": "大剑仙左右斩杀老蛟后将其遗物赠予陈平安，后由范峻茂帮其小炼 。"
+  },
+  "enriched": true
+}

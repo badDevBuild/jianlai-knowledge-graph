@@ -1,0 +1,48 @@
+{
+  "name": "狐皮美人符箓",
+  "original_name": "符纸美人 / 许氏符箓",
+  "type": "符箓",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是**清风城许氏名动天下的特产**。它通过将邪祟鬼道转化为高雅的‘ 案头玩物’或‘得力死士’，深刻影响了宝瓶洲的山上格局 。",
+  "aliases": [
+    "狐皮美人符",
+    "狐皮美人符纸"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第424章 御剑而去云海中",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助/傀儡类",
+  "holder": "大骊刑部供奉 / 豪门权贵",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "清风城许氏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随内嵌阴灵境界提升而增强，高阶可容纳元婴境鬼修 。",
+  "supernatural_ability": "以百年至三百年老狐皮制成，可吸纳阴灵鬼魅。落地后幻化为绝色女子 ，与活人无异，可代主人执行刺探、侍奉或护卫任务 。",
+  "evolution": {
+    "current_form": "带有淡淡狐香的特制符纸，上绘仕女图 。",
+    "materials_consumed": [
+      "百年狐皮",
+      "秘制丹青",
+      "阴灵神魂"
+    ],
+    "potential_evolution": "可由画师按特定相貌定制，甚至能承载一丝大妖真名 。"
+  },
+  "visual": {
+    "static": "质地细腻的皮质符纸，线条勾勒出女子轮廓，透着一股娇媚气机 。",
+    "active": "化为妙龄女子，身姿婀娜，甚至能模拟特定的微观神态与气息 。"
+  },
+  "provenance": {
+    "origin": "清风城许氏拥有的千年狐丘 。",
+    "karma_link": "清风城许氏以此物笼络一洲权贵及仙家，是其重要的外交与财政支柱 。"
+  },
+  "enriched": true
+}

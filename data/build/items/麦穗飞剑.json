@@ -1,0 +1,48 @@
+{
+  "name": "麦穗飞剑",
+  "original_name": "金秋",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“金秋”是崔东山的标志性佩剑，不仅杀力惊人，更象征着他“事功”学问的某种外化。它在东华山一役中 大放异彩，展现了极高的剑道位阶 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第409章 有些故事不用知道",
+      "owner": "未知强者"
+    }
+  ],
+  "subtype": "攻伐类 / 传讯",
+  "holder": "崔东山",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "某位不知名仙人",
+      "relation": "原主"
+    },
+    {
+      "name": "崔瀺 (绣虎)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为崔东山的本命伴生法宝之一，具有极高的灵性，且能辅助主人的阵法演化 。",
+  "supernatural_ability": "**传讯与镇杀**：具备极强的穿透力，能够轻易搅烂元婴修士的金丹，并在书院范围内充当传讯与监察 之职 。",
+  "evolution": {
+    "current_form": "形若金色麦穗的袖珍飞剑 。",
+    "materials_consumed": [
+      "远古剑意",
+      "白帝城炼物秘法"
+    ],
+    "potential_evolution": "随崔东山合道十四境，可演化为支撑小千世界的根本剑理 。"
+  },
+  "visual": {
+    "static": "外表呈灿烂的金色，形态精巧，酷似一颗成熟的金色麦穗 。",
+    "active": "飞行时拖曳出细微的金色雷光，能瞬间将目标钉死，甚至能显化出大骊国师的虚相法护阵 。"
+  },
+  "provenance": {
+    "origin": "崔东山当年与人下棋赌赢而来的仙人遗物 。",
+    "karma_link": "曾在山崖书院危机时刻现世，协助崔东山镇压潜入的元婴剑修 。"
+  },
+  "enriched": true
+}

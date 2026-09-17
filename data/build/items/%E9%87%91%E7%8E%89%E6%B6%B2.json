@@ -1,0 +1,50 @@
+{
+  "name": "金玉液",
+  "original_name": "魁罡仙人酿",
+  "type": "丹药",
+  "grade": "灵物",
+  "status": "消耗",
+  "description": "这是**道门最顶级的修行资粮之一**。其霸道的药效要 求服用者必须拥有强横体魄，是陈平安在“炼金”过程中 重要的辅佐灵物 。",
+  "aliases": [
+    "金玉液"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第142章 百怪（中）",
+      "owner": "寒食江大水府"
+    },
+    {
+      "chapter": "第143章 百怪（下）",
+      "owner": "寒食江水神"
+    }
+  ],
+  "subtype": "滋养/修行类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道门高真 (白玉京)",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "具备重塑“仙人风骨”的极限潜力，能强行拓宽气府 。",
+  "supernatural_ability": "饮用后能引动“魁罡”之气，压制体内邪魔，对冲击金丹 和稳固“雷局”有神效 。",
+  "evolution": {
+    "current_form": "酒液厚重如汞，散发出浓稠的紫金道气 。",
+    "materials_consumed": [
+      "雷部精粹",
+      "九转金丹碎屑"
+    ],
+    "potential_evolution": "可提纯为突破十四境所需的“大道金丹引” 。"
+  },
+  "visual": {
+    "static": "盛放在绘有星斗图案的深紫瓷瓶中，自带天威 。",
+    "active": "倒入碗中时，液面上有金色电光游走，散发出醉人的异 香 。"
+  },
+  "provenance": {
+    "origin": "出自白玉京青翠城或上古道门雷部传承 。",
+    "karma_link": "陆沉曾以此与陈平安对饮，是双方多次博弈的见证物 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "正阳山家谱册子",
+  "original_name": "正阳山情报秘录",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不只是一份简单的名单，而是陈平安筹划多年、针对 正阳山恩怨的复仇指南，每一个名字背后都代表着一桩 因果 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第819章 问剑做客两不误",
+      "owner": "刘羡阳 (陈平安赠)"
+    }
+  ],
+  "subtype": "记录类",
+  "holder": "陈平安 / 刘羡阳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随着情报的补完，可作为针对正阳山全宗的打击指南 。",
+  "supernatural_ability": "详细记载了正阳山诸峰剑修的真名、本命飞剑及性格弱 点，配合咒法或精准打击可收奇效 。",
+  "evolution": {
+    "current_form": "一本随身携带的纸质书册 。",
+    "materials_consumed": [
+      "谍报信息",
+      "心神推演"
+    ],
+    "potential_evolution": "可演化为记载敌方生死定数的“判官簿” 。"
+  },
+  "visual": {
+    "static": "封面质朴，内容笔迹工整，夹杂有许多标注与草稿 。",
+    "active": "翻阅点名之时，凡是被叫到名字且心虚者，皆会心神受 震 。"
+  },
+  "provenance": {
+    "origin": "由陈平安在书简湖及远游期间通过多方情报汇总而成 。",
+    "karma_link": "刘羡阳问剑正阳山时，陈平安将此册交予其作为“点名” 杀敌的参考 。"
+  },
+  "enriched": true
+}

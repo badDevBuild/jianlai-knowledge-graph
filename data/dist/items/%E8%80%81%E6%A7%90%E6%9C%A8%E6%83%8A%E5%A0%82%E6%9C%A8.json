@@ -1,0 +1,46 @@
+{
+  "name": "老槐木惊堂木",
+  "original_name": "老槐木 / 惊堂",
+  "type": "其他",
+  "grade": "灵材",
+  "status": "活跃",
+  "description": "作为陈平安**“说书先生”**身份的标志性物件，它取材于骊珠洞天的神木 。在剑气长城期间，他以此物在街巷拐角处与孩子们分享山水故事，潜移默化地传播道理 。",
+  "aliases": [
+    "养魂木"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第351章 明年十一",
+      "owner": "观妙天君"
+    }
+  ],
+  "subtype": "辅助类 / 文房",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "骊珠洞天老槐树",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "取材于带有祖荫的万年老槐，随陈平安功德增长，具备镇压心魔之效 。",
+  "supernatural_ability": "蕴含**骊珠洞天祖荫气运**，能遮蔽天机并辅助持有者在讲演道理时凝聚神识 。",
+  "evolution": {
+    "current_form": "陈平安担任说书先生时使用的老槐木器物 。",
+    "materials_consumed": [
+      "骊珠洞天老槐树残枝",
+      "自身文气"
+    ],
+    "potential_evolution": "若长期受浩然正气浸染，可升格为具有“口含天宪”余韵的法宝。"
+  },
+  "visual": {
+    "static": "质地沉稳、木纹深邃，色泽呈现出岁月积淀的古意 。",
+    "active": "使用时伴有清微的槐香，能让四周喧闹瞬间平复，如置身老槐树下 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天被砍倒的万年老槐树 。",
+    "karma_link": "见证了陈平安从小镇窑工学徒到剑气长城说书先生的心路转变 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "金漆椒图铺首",
+  "original_name": "豪门门环",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是顾粲在州城宅邸大门上的装饰。尽管带有僭越嫌疑，但也体现了顾粲家在龙泉郡不同寻常的地位 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第658章 翻一翻老黄历",
+      "owner": "顾家"
+    }
+  ],
+  "subtype": "建筑/装饰类",
+  "holder": "顾粲之母",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "若由仙家秘法金饰，可作为府邸防御阵法的节点。",
+  "supernatural_ability": "作为公侯府门才可使用的规格，具有震慑宵小、护卫家宅的象征意义 。",
+  "evolution": {
+    "current_form": "涂有金漆、雕刻为兽首（椒图）形状的门环 。",
+    "materials_consumed": [
+      "精铜",
+      "金漆"
+    ],
+    "potential_evolution": "可炼化为能够自主警示的门神傀儡配件 。"
+  },
+  "visual": {
+    "static": "色泽金煌，威武庄严，安装在厚重的宅门之上 。",
+    "active": "在官气或龙气加持下，能显现出神兽椒图的威压 。"
+  },
+  "provenance": {
+    "origin": "大骊龙泉郡（原小镇）权贵府邸的规制装饰 。",
+    "karma_link": "反映了顾粲母亲在离开书简湖后追求的世俗富贵地位 。"
+  },
+  "enriched": true
+}

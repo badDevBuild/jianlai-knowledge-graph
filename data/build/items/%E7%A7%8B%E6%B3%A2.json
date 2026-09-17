@@ -1,0 +1,37 @@
+{
+  "name": "秋波",
+  "original_name": "秋波",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "正阳山秋令山老祖师、宗门财神爷陶烟波的本命飞剑。这把剑以极端的阴寒杀力著称，专门针对练气士 的气府灵气进行冻结式破坏，极其歹毒 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第821章 落魄山观礼正阳山",
+      "owner": "陶烟波"
+    }
+  ],
+  "subtype": "攻伐类 / 阴寒类",
+  "holder": "陶烟波",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "随陶烟波对财富与气运的掌控力增强，剑气中的侵蚀力会同步提升 。",
+  "supernatural_ability": "剑路极其阴狠。剑气入体后会使练气士的气府寒气渐生，最终灵气凝结如冰，产生令人崩溃的锥心之疼 。",
+  "evolution": {
+    "current_form": "本命飞剑",
+    "materials_consumed": [
+      "秋水精华"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "剑名虽妩媚，剑身却透着一股肃杀的幽青色 。",
+    "active": "剑意如同秋风扫落叶，洗涤对手肝肠，气势阴冷 。"
+  },
+  "provenance": {
+    "origin": "正阳山财神爷陶烟波本命孕育 。",
+    "karma_link": "与陶烟波持有的古剑“玉漏”相辅相成。"
+  },
+  "enriched": true
+}

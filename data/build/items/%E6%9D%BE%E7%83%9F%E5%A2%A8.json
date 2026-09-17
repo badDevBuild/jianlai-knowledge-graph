@@ -1,0 +1,48 @@
+{
+  "name": "松烟墨",
+  "original_name": "神水国御制松烟墨 / 木公先生",
+  "type": "材料",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这是一块极具传奇色彩的御墨，源于一棵曾让大文豪推 松言未醉的古松。它不仅是顶级的书写材料，更是见证 王朝兴衰的灵物。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第955章 剑术归拢",
+      "owner": "辛苦"
+    }
+  ],
+  "subtype": "文房类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "洪扬波",
+      "relation": "曾持有"
+    },
+    {
+      "name": "神水国皇室",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为神水国御制孤品，其蕴含的文气若得名墨灵物“龙 宾”寄宿，有望进化为真正的文房重宝。",
+  "supernatural_ability": "灵气充沛且文气极重，书写的文字可稳固一国气运，对 妖物具有天然压胜力。",
+  "evolution": {
+    "current_form": "一块古色古香的御制墨锭。",
+    "materials_consumed": [
+      "千年“未醉松”松烟",
+      "神水国国运"
+    ],
+    "potential_evolution": "若能配合“墨猴”或“龙宾”使用，可幻化出墨龙镇压文脉 。"
+  },
+  "visual": {
+    "static": "质地坚硬，墨色幽深，表面刻有精美纹路与御制款识。",
+    "active": "研磨时散发阵阵清冷墨香，隐约可见松涛阵阵之异象。"
+  },
+  "provenance": {
+    "origin": "取自神水国被敕封为“木公先生”的千年古松。",
+    "karma_link": "因神水国覆灭而成为存世孤品，后被陈平安从青蚨坊购 得。"
+  },
+  "enriched": true
+}

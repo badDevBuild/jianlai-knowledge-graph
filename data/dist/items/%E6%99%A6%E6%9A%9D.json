@@ -1,0 +1,48 @@
+{
+  "name": "晦暝",
+  "original_name": "佩剑“晦暝”",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“晦暝”是剑气长城年轻天才陈李的佩剑。这把剑不仅是其战力的来源，更因其“剑仙遗物”的背景而具有 极高的象征意义，代表了陈李对古老剑脉的传承。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第682章 一线之上",
+      "owner": "陈李"
+    },
+    {
+      "chapter": "第1112章 吾辈剑修当如何",
+      "owner": "陈李"
+    }
+  ],
+  "subtype": "攻伐类 / 辅助类",
+  "holder": "陈李",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "北俱芦洲某位散修剑仙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "曾是资深剑仙遗物，承载了极高的剑道感悟，有助于持有者突破剑修境界瓶颈。",
+  "supernatural_ability": "与陈李的本命飞剑“寤寐”意境相合，能够构建出一座微型的小天地雏形。",
+  "evolution": {
+    "current_form": "款式古旧、剑意深沉的长剑。",
+    "materials_consumed": [
+      "战功",
+      "剑气温养"
+    ],
+    "potential_evolution": "若能完全契合前任主人的剑道，有望跻身半仙兵。"
+  },
+  "visual": {
+    "static": "剑身透着幽暗的光泽，气息内敛，给人一种昼夜更迭的厚重感。",
+    "active": "出剑时剑光溟蒙，虚实莫测，仿佛能吞噬周边的光明。"
+  },
+  "provenance": {
+    "origin": "曾是一位剑仙私宅主人的遗物，被陈李在剑气长城时期所得。",
+    "karma_link": "作为陈李“小隐官”身份的象征，见证了其在浮萍剑湖的快速成长。"
+  },
+  "enriched": true
+}

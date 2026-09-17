@@ -1,0 +1,46 @@
+{
+  "name": "云梦长弓",
+  "original_name": "云梦长松",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安在夜航船条目城获得的神兵。虽然目前被其雪藏于扶摇麓，但其作为“悬弓福地”核心机缘的身份 ，注定其在未来开拓遗址时具有不可替代的价值 。",
+  "aliases": [
+    "云梦长松"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1162章 （2） 手书于青天",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类 / 钥匙类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "张三 (虬髯客)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "品秩高于“斩勘”，具备射落飞升境大妖的威力，是远古洞天遗址的唯一开启信物 。",
+  "supernatural_ability": "“穿云射月”。远古时代，曾有故友手挽此弓，连连射落高居于天的飞升境大妖；同时它还是开启悬弓福 地内隐藏的远古洞天遗址的唯一钥匙 。",
+  "evolution": {
+    "current_form": "一把造型古朴、玲珑袖珍的古弓 。",
+    "materials_consumed": [
+      "远古神木",
+      "龙宫旧藏道韵"
+    ],
+    "potential_evolution": "若能在大气中进行“大炼”，可完全恢复远古神兵的杀力 。"
+  },
+  "visual": {
+    "static": "巴掌大小，看起来像稚童的玩物，铭文细微 。",
+    "active": "拉开时气象万千，能引发云梦泽的水运感应 。"
+  },
+  "provenance": {
+    "origin": "源自夜航船条目城的虬髯客收藏，实为上古龙宫水殿旧藏 。",
+    "karma_link": "陈平安在条目城与张三交易得手，此物牵涉到未来龙象剑宗在悬弓福地的布局 。"
+  },
+  "enriched": true
+}

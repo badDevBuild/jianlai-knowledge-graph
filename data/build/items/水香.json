@@ -1,0 +1,48 @@
+{
+  "name": "水香",
+  "original_name": "三清香 / 灵验心香",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这种高规格的香火不仅是敬神的工具，更是量化功德与气运的实物载体，常出现在重大的山水官场祭典 中 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第388章 行走四方",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第470章 没见过半仙兵？",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "仪轨类 / 消耗类",
+  "holder": "陈平安 / 各洲水神",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "上香楼",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为礼敬神灵的顶级媒介，能有效沟通天地气运，尤其对修补神灵金身有奇效 。",
+  "supernatural_ability": "**“感通幽明”**。能让神鬼礼敬，平定山水，甚至能在特定仪式中作为“引子”缝补一洲山河补地缺 。",
+  "evolution": {
+    "current_form": "装在香筒内的制式细香，或显化为无形的“心香” 。",
+    "materials_consumed": [
+      "五色土",
+      "大渎精华"
+    ],
+    "potential_evolution": "若辅以圣人文字，可化为支撑一洲天地的金色气运长河 。"
+  },
+  "visual": {
+    "static": "香筒内装，色泽古朴，香气清远而不俗 。",
+    "active": "点燃后青烟袅袅，在空中凝而不散，显化出山河异象或圣贤法相 。"
+  },
+  "provenance": {
+    "origin": "陈平安在倒悬山上香楼购买，亦有来自书简湖老先生的道统传承 。",
+    "karma_link": "见证了各洲水神礼敬桐叶洲的壮举，是缝补破碎山河的重要消耗品 。"
+  },
+  "enriched": true
+}

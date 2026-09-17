@@ -1,0 +1,38 @@
+{
+  "name": "青骑",
+  "original_name": "青骢马符箓 / 符箓坐骑",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "浩然天下极其实用的辅助性符箓。其便捷性使得地仙之下的修士也能享受日行千里的速度 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第721章 白也去也",
+      "owner": "山崖书院君子"
+    }
+  ],
+  "subtype": "坐骑/辅助类",
+  "holder": "大骊随军修士 / 陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "受不同官阶与文运加持，可具备破阵、传讯等多种复合功能 。",
+  "supernatural_ability": "由符箓幻化而成，具备山蛟血统，跋山涉水如履平地，不畏风雪 。",
+  "evolution": {
+    "current_form": "平时为一张画有青色骏马的符纸，祭出后为神俊马匹 。",
+    "materials_consumed": [
+      "金粉",
+      "精良符纸"
+    ],
+    "potential_evolution": "高阶者可化为具备飞行能力的青鸾或龙种 。"
+  },
+  "visual": {
+    "static": "笔触矫健，灵光微动的一张青色符纸 。",
+    "active": "奔跑时足下生烟，拖曳出长长的青色流萤，气势如虹 。"
+  },
+  "provenance": {
+    "origin": "大骊朝廷钦天监与墨家机关师联手研制的军用物资 。",
+    "karma_link": "是大骊铁骑在一洲之地“快马加鞭”的后勤保障 。"
+  },
+  "enriched": true
+}

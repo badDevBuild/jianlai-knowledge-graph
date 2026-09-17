@@ -1,0 +1,46 @@
+{
+  "name": "光阴水",
+  "original_name": "光阴流水 / 时间长河之水",
+  "type": "灵物",
+  "grade": "神物",
+  "status": "消耗",
+  "description": "光阴水是《剑来》中极高位格的灵物。它承载着世界的“真实记忆”，陈平安通过在心湖中炼化光阴流水 ，构建出了能够推演万物的小千世界 。",
+  "aliases": [
+    "光阴水"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第150章 去开山",
+      "owner": "齐静春"
+    }
+  ],
+  "subtype": "滋养类 / 演化类",
+  "holder": "李柳、陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "光阴长河",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为支撑世界运行的底层能量，可演化为掌控时间流速的终极神通 [26-28]。",
+  "supernatural_ability": "**“万物复始”**。能够洗刷神识，或者作为润滑剂使虚幻的心相天地趋于真实真相 。",
+  "evolution": {
+    "current_form": "呈现为七彩琉璃色或碧绿透明的液态精华 。",
+    "materials_consumed": [
+      "天地气运",
+      "神灵尸骸精气"
+    ],
+    "potential_evolution": "汇聚成“光阴长河”，成为连接过去与未来的物理通道 。"
+  },
+  "visual": {
+    "static": "水纹涟漪中夹杂着破碎的琉璃色彩，质地沉重且玄妙 。",
+    "active": "当修士逆流而上或截流取水时，会爆发绚烂火星，产生强大的天道反噬 。"
+  },
+  "provenance": {
+    "origin": "源自远古神灵陨落后的尸骸，是世界秩序的“血液” 。",
+    "karma_link": "见证了陈平安在书简湖的磨砺及在剑气长城的合道 。"
+  },
+  "enriched": true
+}

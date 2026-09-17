@@ -1,0 +1,100 @@
+{
+  "name": "皕剑仙印谱",
+  "original_name": "两百剑仙印谱",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是浩然天下与剑气长城公认的文化瑰宝。它不仅是一部艺术作品，更是隐官陈平安用以凝聚人心、传 承剑道精神的神圣之书 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第594章 落魄山上老与小",
+      "owner": "晏琢"
+    },
+    {
+      "chapter": "第598章 一拳就倒二掌柜",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第600章 学生弟子去见先生师父",
+      "owner": "郁狷夫"
+    },
+    {
+      "chapter": "第624章 剑修",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第664章 两位剑客",
+      "owner": "无"
+    },
+    {
+      "chapter": "第668章 四得其三",
+      "owner": "林君璧"
+    },
+    {
+      "chapter": "第669章 今天明天后天",
+      "owner": "陈平安(二掌柜)"
+    },
+    {
+      "chapter": "第868章 干架",
+      "owner": "杜俞"
+    },
+    {
+      "chapter": "第891章 青萍剑宗",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第928章 与诸君借取千山万水（九）",
+      "owner": "龚新舟"
+    },
+    {
+      "chapter": "第930章 与诸君借取千山万水（十一）",
+      "owner": "龚新舟"
+    },
+    {
+      "chapter": "第1048章 此间山水如贼窟",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1106章 家在此山中",
+      "owner": "曹耕心"
+    },
+    {
+      "chapter": "第1198章 锦上添花",
+      "owner": "陈平安(编订)"
+    },
+    {
+      "chapter": "第1202章 既然事功何为回报",
+      "owner": "杜俞"
+    }
+  ],
+  "subtype": "传承/收藏类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "晏家铺子",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "集齐两百位剑仙真名与剑意后，其杀力与压胜之力可直逼仙兵 。",
+  "supernatural_ability": "收录大量剑仙的印蜕与边款，具有极强的压胜阴邪、温养道心之力 。",
+  "evolution": {
+    "current_form": "装订精良、墨色浓郁的印章汇编书籍 。",
+    "materials_consumed": [
+      "精良版刻",
+      "两百位剑仙心力"
+    ],
+    "potential_evolution": "可进一步扩编为涵盖数座天下的神品印谱 。"
+  },
+  "visual": {
+    "static": "纸张考究，字迹法度森严，每一页都散发着淡淡的剑意 。",
+    "active": "诵读其中内容，可令人心潮澎湃，仿佛置身于城头之上 。"
+  },
+  "provenance": {
+    "origin": "由隐官陈平安在剑气长城避暑行宫期间亲笔撰写 。",
+    "karma_link": "是剑气长城剑修们“明志”与“交代遗言”的重要载体 。"
+  },
+  "enriched": true
+}

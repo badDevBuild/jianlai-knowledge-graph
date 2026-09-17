@@ -1,0 +1,45 @@
+{
+  "name": "十八停",
+  "original_name": "剑气十八停",
+  "type": "典籍",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "一种极其珍贵的剑修运气方式，涉及十八处上古窍穴（如凛冲穴、扶乩穴等）。它不仅是增强杀力的法 门，更是一种仪式，象征着对上古剑仙剑意的继承 。",
+  "aliases": [
+    "十八停"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第110章 无不散的筵席",
+      "owner": "阿良"
+    }
+  ],
+  "subtype": "运气法门",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "阿良",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "若能做到气机缓行如累土积水，则剑道高度可拔高极多",
+  "supernatural_ability": "通过特定的十八处气府窍穴流转气机，使纯粹真气如龙脉绵延，极大提升出拳或御剑的威力",
+  "evolution": {
+    "current_form": "十八停运气法",
+    "materials_consumed": [
+      "无"
+    ],
+    "potential_evolution": "高深剑道真意"
+  },
+  "visual": {
+    "static": "陈平安体内这股气起始于万山之祖“凛冲”穴",
+    "active": "气机流转瞬间百里乃至万里，体表有金石颤鸣，流淌金色流火"
+  },
+  "provenance": {
+    "origin": "上古无数剑修付出巨大代价得出的心血，由阿良改良并传授",
+    "karma_link": "阿良将此法教给陈平安，作为对其不使用珍贵剑气杀人的补偿"
+  },
+  "enriched": true
+}

@@ -1,0 +1,53 @@
+{
+  "name": "蝇拂酒",
+  "original_name": "拂尘 / 麈尾",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "消耗品",
+  "description": "这是蛮荒第一高城仙簪城的镇城重宝。该物随琼瓯在阴冥之地多年却不沾阴煞，极有来历。",
+  "aliases": [
+    "拂蝇酒"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第508章 好人小姑娘",
+      "owner": "碧山楼"
+    }
+  ],
+  "subtype": "仙兵 / 遗物",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "玄圃",
+      "relation": "曾持有"
+    },
+    {
+      "name": "琼瓯",
+      "relation": "曾持有"
+    },
+    {
+      "name": "归灵湘",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为当之无愧的山上仙兵重宝，即便在蛮荒天下也是位列前茅的重器。",
+  "supernatural_ability": "柄部刻有虫鸟篆“拂尘”二字。拥有三千六百根雪白丝线，能避开阴冥鬼差视线。",
+  "evolution": {
+    "current_form": "紫色木柄，衔一枚小金环以缀拂子。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "陈平安打算将其赠送给飞升城祖师堂。"
+  },
+  "visual": {
+    "static": "紫色木柄古朴，丝线雪白纤细。",
+    "active": "挥动时丝线随气机摇曳，不沾阴煞。"
+  },
+  "provenance": {
+    "origin": "仙簪城开山祖师归灵湘的遗物，是远古道簪的第二任主人。",
+    "karma_link": "从仙簪城城主手中作为战利品获得。"
+  },
+  "enriched": true
+}

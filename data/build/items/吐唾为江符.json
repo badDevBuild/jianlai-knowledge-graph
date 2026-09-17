@@ -1,0 +1,48 @@
+{
+  "name": "吐唾为江符",
+  "original_name": "万瑶宗水符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是符箓派修士梦寐以求的上品水符。它以“雨师敕令”为核心，展现了古代神人对水脉的掌控力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第750章 万年山巅十一人",
+      "owner": "韩玉树"
+    },
+    {
+      "chapter": "第997章 酒，剑，明月",
+      "owner": "陈平安 (战利品)"
+    }
+  ],
+  "subtype": "水法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "韩玉树",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为万瑶宗六大秘符之一，其水法威能在江河地带具有统治力 。",
+  "supernatural_ability": "能敕令江河水神，瞬间制造出截断大江的滔天水幕 。",
+  "evolution": {
+    "current_form": "碧绿颜色的符箓，材质坚韧，水气充沛 。",
+    "materials_consumed": [
+      "大渎精粹水运",
+      "冬至日江河水"
+    ],
+    "potential_evolution": "若能在心室立碑刻符，可成为本命水府的一部分 。"
+  },
+  "visual": {
+    "static": "符文布局如江河分叉，散发着幽幽的绿光 。",
+    "active": "祭出后化作一道横江而过的水墙，声势如万马奔腾 。"
+  },
+  "provenance": {
+    "origin": "三山福地万瑶宗祖传的六种秘符之一 。",
+    "karma_link": "陈平安通过剥离韩玉树的法统痕迹，掌握了其画符法门 。"
+  },
+  "enriched": true
+}

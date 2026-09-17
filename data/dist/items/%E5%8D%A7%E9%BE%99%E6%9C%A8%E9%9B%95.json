@@ -1,0 +1,46 @@
+{
+  "name": "卧龙木雕",
+  "original_name": "龙形镇纸",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**卧龙木雕**是赵氏家族的根本所在，曾在齐静春的见证下由赵繇 完成最后的传承仪式 。它象征着儒家“**修齐治平**”的志向与木属性的生机力量 。它是赵繇在修行路上斩妖除魔、聚拢气运的核心法具 。",
+  "aliases": [
+    "卧龙木雕"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第27章 点睛",
+      "owner": "赵家"
+    }
+  ],
+  "subtype": "镇纸类",
+  "holder": "赵繇",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "福禄街赵氏祖上",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为骊珠洞天“**五行之木**”的承载物，点睛后灵性大增，具备成 长为本命灵龙的潜力 。",
+  "supernatural_ability": "点睛化龙，能够感应并汇聚文武气运，具有镇压一方书斋风水之效 。",
+  "evolution": {
+    "current_form": "形似卧龙的木质雕刻物",
+    "materials_consumed": [
+      "赵家传承香火",
+      "齐静春所制小锥笔之墨"
+    ],
+    "potential_evolution": "本命木龙法相"
+  },
+  "visual": {
+    "static": "雕工精湛的**青色木质龙形**，初时龙眼处为空白 。",
+    "active": "赵繇亲手“点睛”后，木龙仿佛拥有了意识，能显化出峥嵘之象 。"
+  },
+  "provenance": {
+    "origin": "出自骊珠洞天福禄街赵氏，是该家族传承千年的家主信物 。",
+    "karma_link": "作为小镇最大的五份机缘之一，它代表了赵氏在山水官场中的法统 选择 。"
+  },
+  "enriched": true
+}

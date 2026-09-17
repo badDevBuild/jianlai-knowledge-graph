@@ -1,0 +1,56 @@
+{
+  "name": "姻缘簿",
+  "original_name": "姻缘簿子",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "姻缘簿不仅是记录名册，更是因果大道的具象。它见证了众生的悲欢离合，也是高位修士在情字一关证 道的重要法统载体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第974章 一家团圆",
+      "owner": "柳七/朝歌"
+    },
+    {
+      "chapter": "第1121章 二十人与候补们（三）",
+      "owner": "柳七 (半部)"
+    },
+    {
+      "chapter": "第1159章 逍遥游",
+      "owner": "商昀"
+    }
+  ],
+  "subtype": "因果类 / 灵物",
+  "holder": "朝歌 (掌管下半部) / 柳七 (寻觅中)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古姻缘神",
+      "relation": "原主"
+    },
+    {
+      "name": "蔡道煌",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古神道遗留的重器，是跻身十四境合道的重要契机，具备重塑天下姻缘规矩的潜力 。",
+  "supernatural_ability": "掌管天下有情人的姻缘红线。下半部簿子掌握在远古姻缘神转世的朝歌手中，合拢整部簿子可作为修士 合道的关键 。",
+  "evolution": {
+    "current_form": "分为上下两部，记载着世间男女的宿缘脉络 。",
+    "materials_consumed": [
+      "远古神性精华",
+      "众生情丝因果"
+    ],
+    "potential_evolution": "若能凑齐完整簿子，可演化为掌控众生情缘流转的大道法理 。"
+  },
+  "visual": {
+    "static": "古朴的书籍，书页中隐约可见无数交织的红线虚影 。",
+    "active": "当修士试图推演姻缘时，书页上会浮现出红色的光芒，红线如灵蛇般游走 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代职掌天下定婚店的蔡道煌 。",
+    "karma_link": "柳七游历青冥天下，正是希望凭借凑齐此簿子作为合道契机 。"
+  },
+  "enriched": true
+}

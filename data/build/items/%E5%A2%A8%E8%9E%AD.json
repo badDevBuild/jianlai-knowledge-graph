@@ -1,0 +1,44 @@
+{
+  "name": "墨螭",
+  "original_name": "黑螭 / 神仙窟古砚之螭龙",
+  "type": "本命飞剑",
+  "grade": "佩剑",
+  "status": "活跃",
+  "description": "李退密的本命飞剑之一，以其如黑夜般的隐蔽性和在大规模战争中的绞杀能力著称，体现了剑修在大道 上的刚健与不朽 。",
+  "aliases": [
+    "墨螭"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第184章 别有洞天",
+      "owner": "曹峻"
+    },
+    {
+      "chapter": "第195章 镇剑楼",
+      "owner": "曹峻"
+    }
+  ],
+  "subtype": "攻伐类 / 潜行类",
+  "holder": "李退密",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "作为巅峰剑仙的本命物，杀力位列剑气长城前列，有望进化为“真龙”形态的剑灵 。",
+  "supernatural_ability": "“翻江倒海”。祭出后如黑龙在大地上肆意翻滚，专门绞杀大规模妖族军阵 。",
+  "evolution": {
+    "current_form": "漆黑如墨的本命飞剑，带有浓郁水运 。",
+    "materials_consumed": [
+      "大妖精血",
+      "地脉水汽"
+    ],
+    "potential_evolution": "在极高境界下可化为真正的墨蛟神灵形态 。"
+  },
+  "visual": {
+    "static": "剑身漆黑，质感如墨玉，隐约有螭龙纹路流转 。",
+    "active": "出鞘后剑气森森，化作长达百丈的黑色蛟龙在战场横行，所过之处生灵皆碎 。"
+  },
+  "provenance": {
+    "origin": "由剑气长城仙人境剑修李退密在漫长岁月中炼化而成 。",
+    "karma_link": "曾与飞剑“白蛟”联袂出战，是剑气长城城头的重要战力之一 。"
+  },
+  "enriched": true
+}

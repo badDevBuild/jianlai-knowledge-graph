@@ -1,0 +1,38 @@
+{
+  "name": "金玉道书",
+  "original_name": "金玉书牒",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是夜航船主人的核心法宝，专门用于统计和记录数座天下顶尖战力的详细档案。它记录了包括白也、 左右、吴霜降等人的修道细节，是整座夜航船能够维持规矩运行的重要依据 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第909章 逍遥游",
+      "owner": "金粟"
+    }
+  ],
+  "subtype": "记录类 / 辅助类",
+  "holder": "夜航船之主 (中年文士)",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为夜航船的核心记录工具，具备随着记录的大道条目增多而不断进阶的潜力 。",
+  "supernatural_ability": "能够详细记载世间大修士、剑仙以及神兵遗物的根脚与生死动态 。",
+  "evolution": {
+    "current_form": "一本宝光焕然、由金玉材质打造的书牒 。",
+    "materials_consumed": [
+      "众生因果",
+      "天下条目"
+    ],
+    "potential_evolution": "可能演化为掌控夜航船所有城池因果的至高法典。"
+  },
+  "visual": {
+    "static": "外观宝光焕发，由金玉书牒合制而成，书页中记录着大德高僧与巅峰剑仙的名号 。",
+    "active": "翻开后，书页随心念变幻，显现出如白也、吴霜降等人的生平事迹与战力评定 。"
+  },
+  "provenance": {
+    "origin": "诞生于夜航船这一特殊小天地 。",
+    "karma_link": "由夜航船主人贴身持有，用于监察船上各座城池的异动 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "《路人集》",
+  "original_name": "陈灵均傍身秘籍",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈灵均为了能在复杂的浩然天下活命而编纂的“避 坑指南”。第一页原本留给陈清流，却因恐惧而涂抹，充 分展现了其“外圆内方”的处世逻辑 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1153章 借书",
+      "owner": "未知"
+    }
+  ],
+  "subtype": "记录/因果类",
+  "holder": "陈灵均",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "随着陈灵均走江化蛟与见识增长，该册子可能演化为避 开“天厌”的指南。",
+  "supernatural_ability": "详细记录了那些绝不能招惹、最好擦肩而过的山巅人物 （如斩龙人陈清流），具有“因果规避”的心理压胜 。",
+  "evolution": {
+    "current_form": "一本装订得并不精美、甚至第一页被浆糊黏住的册子。",
+    "materials_consumed": [
+      "纸张笔墨",
+      "江湖八卦"
+    ],
+    "potential_evolution": "演变为《天下大妖与剑仙避坑指南》。"
+  },
+  "visual": {
+    "static": "封面上歪歪扭扭写着《路人集》三个字，内容多为各路 高人的名讳与画像。",
+    "active": "翻阅时，持有者会心生警惕，自动在大脑中进行风险规 避的推演。"
+  },
+  "provenance": {
+    "origin": "由落魄山供奉陈灵均在黄湖山修行期间亲笔撰写。",
+    "karma_link": "连接了陈灵均的怂包性格与他对“江湖义气”的特殊理解 。"
+  },
+  "enriched": true
+}

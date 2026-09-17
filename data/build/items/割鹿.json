@@ -1,0 +1,48 @@
+{
+  "name": "割鹿",
+  "original_name": "暮霞",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安在北俱芦洲游历期间获得的一把仙家短刀。它原属于割鹿山刺客，与“曹子匕首”齐名，被陈 平安视为行走江湖作为“野修曹沫”身份的关键兵刃 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第713章 陈十一",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第970章 滚雪球",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "割鹿山刺客",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为与“曹子匕首”配套的锋刃，具备极强的杀伐潜力，可随持有者武道境界提升增强杀伤力 。",
+  "supernatural_ability": "极其锋锐，能配合“曹子匕首”施展近身肉搏的必杀技，对上五境之下的修士具有毁灭性威胁 。",
+  "evolution": {
+    "current_form": "袖中短刀 。",
+    "materials_consumed": [
+      "修士精血",
+      "煞气"
+    ],
+    "potential_evolution": "若能完全融合“暮霞”旧名之意，有望演化为具备虹光杀机的本命神兵。"
+  },
+  "visual": {
+    "static": "狭小如匕首，刀身铭刻有“暮霞”旧名 。",
+    "active": "出刀极快，寒光一闪即逝，常用于近身格斗中的瞬杀 。"
+  },
+  "provenance": {
+    "origin": "得自北俱芦洲一场针对陈平安的割鹿山刺客埋伏战 。",
+    "karma_link": "由隋景澄帮忙搜刮战利品所得，后由陈平安根据“曹子匕首”的典故改名为“割鹿” 。"
+  },
+  "enriched": true
+}

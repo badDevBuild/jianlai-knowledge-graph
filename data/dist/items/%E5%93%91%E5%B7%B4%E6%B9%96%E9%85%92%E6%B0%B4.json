@@ -1,0 +1,44 @@
+{
+  "name": "哑巴湖酒水",
+  "original_name": "哑巴湖特产 / 剑气酒",
+  "type": "货币",
+  "grade": "酒水",
+  "status": "活跃",
+  "description": "这是陈平安在剑气长城经营酒铺的立身之本。它见证了 无数剑仙的豪迈与离散，是落魄山最著名的文化符号之 一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第796章 不浩然",
+      "owner": "林君璧"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "陈平安/叠嶂",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "周米粒",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由于含有纯正的剑气长城遗留剑意，随时间推移将成为 绝版仙酿 。",
+  "supernatural_ability": "滋味极佳，可补给灵气，更有“喝了变哑巴”的山上趣谈 。",
+  "evolution": {
+    "current_form": "盛放在酒坛或酒壶中的清冽液体 。",
+    "materials_consumed": [
+      "哑巴湖湖水",
+      "剑气长城剑意"
+    ],
+    "potential_evolution": "极品者可作为修补飞剑灵性的洗剑水 。"
+  },
+  "visual": {
+    "static": "色泽清亮，开坛即有扑鼻的草木香气 。",
+    "active": "饮用后周身气机流转加快，隐约有剑鸣声 。"
+  },
+  "provenance": {
+    "origin": "源自陈平安家乡哑巴湖，由小水怪周米粒带往剑气长城 。",
+    "karma_link": "酒铺的“招牌菜”，连接了落魄山与剑气长城剑修的深厚 情谊 。"
+  },
+  "enriched": true
+}

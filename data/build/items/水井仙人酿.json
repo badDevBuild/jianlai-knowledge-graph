@@ -1,0 +1,46 @@
+{
+  "name": "水井仙人酿",
+  "original_name": "老水井仙人酿",
+  "type": "丹药",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是一种在北俱芦洲流传甚广的高级仙酿。陈平安在蜂尾渡等地的集市多次寻访并购买，将其视为远游 途中的重要补给。",
+  "aliases": [
+    "蜂尾渡水井仙人酿"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第414章 那些心尖上摇曳的悲欢离合",
+      "owner": "无"
+    }
+  ],
+  "subtype": "补益类 / 仙家酒酿",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云上城集市铺子",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "属于高品质仙家美酒，长期饮用可温养经脉，滋补神魂。",
+  "supernatural_ability": "具备极佳的口感与充沛的灵气，是修道之人解忧与补益的良品。",
+  "evolution": {
+    "current_form": "瓶装或罐装的透明液体。",
+    "materials_consumed": [
+      "天材地宝",
+      "灵泉水"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "酒液清澈剔透，盛放在古朴的瓷罐或酒壶中。",
+    "active": "开坛后异香扑鼻，带有淡淡的灵气波纹。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲著名的仙家酿造地，由陈平安在远游途中购得。",
+    "karma_link": "陈平安在北俱芦洲远游期间，曾多次购买此类酒水用于社交或个人温养。"
+  },
+  "enriched": true
+}

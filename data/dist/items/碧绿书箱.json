@@ -1,0 +1,48 @@
+{
+  "name": "碧绿书箱",
+  "original_name": "绿竹书箱 / 负笈书箱",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "落魄山子弟负笈远游的标志。它不仅是一件储物工具，更是陈平安对其门生“读万卷书行万里路”的期许 载体 。",
+  "aliases": [
+    "背篓",
+    "小竹箱",
+    "竹箱"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第120章 远游",
+      "owner": "林守一"
+    }
+  ],
+  "subtype": "传承类",
+  "holder": "李宝瓶 / 裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "制作者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为文脉精神的物化，随持有者学问精进而产生遮蔽天机的文运 。",
+  "supernatural_ability": "“辟邪驻香”。采用特殊灵竹编织，使其中存储的书籍万年不蠹，且在风雪中能散发出淡淡的安神香气 。",
+  "evolution": {
+    "current_form": "色泽碧绿、竹篾细密的小巧书箱 。",
+    "materials_consumed": [
+      "棋墩山奋勇竹",
+      "陈平安刻字竹简"
+    ],
+    "potential_evolution": "有望成为承载一洲文运的“圣贤笈” 。"
+  },
+  "visual": {
+    "static": "翠绿欲滴，竹篾交织处有明显的个人打磨痕迹 。",
+    "active": "在烈日或风雪中，箱体表面会浮现出一层微弱的灵光保护层 。"
+  },
+  "provenance": {
+    "origin": "陈平安在棋墩山为陪同远游的孩子们亲手打造 。",
+    "karma_link": "见证了李宝瓶等人从泥腿子到读书人的转折，是落魄山“家风”的体现 。"
+  },
+  "enriched": true
+}

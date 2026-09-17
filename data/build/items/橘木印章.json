@@ -1,0 +1,40 @@
+{
+  "name": "橘木印章",
+  "original_name": "秋后章",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这方印章是陆沉随性而为的产物，看似是文人的闲情逸致，实则是十四 境大修士在人间行走时布下的因果线索 。",
+  "aliases": [
+    "“休歇”木牌"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第548章 有事当如何",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文房/因果类",
+  "holder": "陆沉 (化身道士)",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "虽然材质平凡，但因承载了圣人或大修士的“道理”，具有定夺因果之能 。",
+  "supernatural_ability": "印文“秋后”，代表了结陈年旧账的律令，盖下后可牵动宿命因果 。",
+  "evolution": {
+    "current_form": "橘木质地，底款篆刻“秋后”二字 。",
+    "materials_consumed": [
+      "寻常橘木",
+      "刻刀磨砺"
+    ],
+    "potential_evolution": "若能融入“法家”本命法理，可升格为判官法印。"
+  },
+  "visual": {
+    "static": "质朴无华，带有橘木的天然纹路和淡淡木香 。",
+    "active": "落印时隐约有金光回响，文字似能直接烙印在对方神魂之上。"
+  },
+  "provenance": {
+    "origin": "由陆沉在游历玉宣国京城期间随手刻就 。",
+    "karma_link": "用于与特定人家收取“陈年旧账”，体现了大道循环、报应不爽的道理 。"
+  },
+  "enriched": true
+}

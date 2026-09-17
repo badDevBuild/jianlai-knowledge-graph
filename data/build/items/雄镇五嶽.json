@@ -1,0 +1,41 @@
+{
+  "name": "雄镇五嶽",
+  "original_name": "雄镇五嶽",
+  "type": "法宝",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这是剑气长城大剑仙岳青的两把佩剑之一，品秩高达半仙兵。它与岳青的本命飞剑“百丈泉”名声并列， 象征着镇压五岳、守护城头的雄浑气势 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第613章 十四王座，我龙抬头",
+      "owner": "岳青"
+    },
+    {
+      "chapter": "第683章 何处不问剑",
+      "owner": "岳青"
+    }
+  ],
+  "subtype": "镇压类 / 攻伐类",
+  "holder": "岳青",
+  "holder_relation": "持有",
+  "rank": "半仙兵",
+  "rank_potential": "作为大剑仙岳青的珍稀佩剑，是其冲击更高境界的辅佐重器 。",
+  "supernatural_ability": "具备极其沉重的威压感，能镇压四方气机；虽然非本命飞剑，但其蕴含的剑意极高 。",
+  "evolution": {
+    "current_form": "在鞘长剑",
+    "materials_consumed": [
+      "五岳山根之气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "古朴厚重，即便在鞘中也能感受到其肃杀气象 。",
+    "active": "资料中提到岳青参与城头防御时此剑“皆未出鞘”，以飞剑御敌为主 。"
+  },
+  "provenance": {
+    "origin": "资料未明确说明其具体出处。",
+    "karma_link": "作为岳青身份的象征，代表了剑气长城顶尖剑修的威严 。"
+  },
+  "enriched": true
+}

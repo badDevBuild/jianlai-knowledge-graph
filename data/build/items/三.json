@@ -1,0 +1,52 @@
+{
+  "name": "三",
+  "original_name": "三",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "七大养剑葫芦之一，以“质”取胜。被其温养过的飞剑，其坚韧程度在数座天下中皆属首屈一指 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第699章 天下第一人",
+      "owner": "白帝城城主大弟子"
+    },
+    {
+      "chapter": "第864章 单挑",
+      "owner": "傅噤"
+    }
+  ],
+  "subtype": "养剑类",
+  "holder": "傅噤",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "原主"
+    },
+    {
+      "name": "郑居中",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "侧重于对飞剑材质与神意的极致打磨，可赋予飞剑世间无双的硬度 。",
+  "supernatural_ability": "温养出来的飞剑最为坚韧 。能使普通剑胚在温养后具备抗衡仙兵的强韧程度 。",
+  "evolution": {
+    "current_form": "亚腰葫芦形态 。",
+    "materials_consumed": [
+      "地脉精铁",
+      "仙人道意"
+    ],
+    "potential_evolution": "可辅助剑修温养出足以碎裂星辰而不折损的极致飞剑 。"
+  },
+  "visual": {
+    "static": "质感厚重，表面隐约可见古老的“三”字云篆 。",
+    "active": "出剑时伴有金石交击的宏大声响，剑气极其凝练、坚不可摧 。"
+  },
+  "provenance": {
+    "origin": "道祖亲植葫芦藤所产七宝之一 。",
+    "karma_link": "由白帝城郑居中所得，后赠予其大弟子“小白帝”傅噤 。"
+  },
+  "enriched": true
+}

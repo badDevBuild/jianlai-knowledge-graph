@@ -1,0 +1,48 @@
+{
+  "name": "鸳鸯刀",
+  "original_name": "本命飞剑“鸳鸯”",
+  "type": "本命飞剑",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是正阳山天才剑修吴提京的本命飞剑。其神通极其不讲理，专门针对修士的情感与道心，被视为正阳 山针对风雷园的秘密武器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第378章 白衣僧人",
+      "owner": "年轻妇人(胭脂斋)"
+    }
+  ],
+  "subtype": "攻伐类 / 坏道类",
+  "holder": "吴提京",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "正阳山",
+      "relation": "原主"
+    },
+    {
+      "name": "李抟景",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为正阳山天才剑修吴提京的本命飞剑，具有极高的杀力与损人道心的神通，未来有望跻身仙兵品秩 。",
+  "supernatural_ability": "“鸳鸯”。能够先伤及修士心目中道侣的道心，随后反过来伤及修士自身的神魂 。",
+  "evolution": {
+    "current_form": "吴提京腰间仅悬佩的一小节剑格至剑柄，长剑处于隐匿状态 。",
+    "materials_consumed": [
+      "剑气长城剑意",
+      "庚金精华"
+    ],
+    "potential_evolution": "若能完全融合李抟景的剑道真意，可演化为斩断世间一切因果情缘的利刃 。"
+  },
+  "visual": {
+    "static": "腰间不悬佩剑，只有剑格至剑柄，似已失去剑身 。",
+    "active": "御剑时身形轻灵，剑气如水溢江河，剑意灵犀如芙蓉出水 。"
+  },
+  "provenance": {
+    "origin": "正阳山茱萸峰田婉寻获李抟景转世吴提京后，助其孕育而成 。",
+    "karma_link": "与风雷园李抟景有着深厚的大道渊源，旨在针对黄河与刘灞桥 。"
+  },
+  "enriched": true
+}

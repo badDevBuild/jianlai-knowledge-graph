@@ -1,0 +1,84 @@
+{
+  "name": "玉竹折扇",
+  "original_name": "玉竹扇子",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这把折扇不仅是陈平安“负笈游学”形象的文雅装点，更是一件品相极高的文房重器，承载了崔东山对先 生远游的希冀。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第481章 天下月色，此山最多",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第483章 好久不见",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第506章 诸位只管取剑",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第523章 大河之畔遇陆地蛟龙",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第595章 剑气长城巅峰十剑仙",
+      "owner": "元造化"
+    },
+    {
+      "chapter": "第627章 算账整座天下",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第704章 朱颜敛藏",
+      "owner": "朱敛"
+    },
+    {
+      "chapter": "第734章 逢雪宿芙蓉山",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第746章 夜归人",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第972章 借东风",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助类 / 文房清供",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "某位不知名仙人",
+      "relation": "原主"
+    },
+    {
+      "name": "崔东山",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "玉竹材质名贵且温润，随持有者浩然正气的滋养，可生发清凉意境 。",
+  "supernatural_ability": "**扇底聚春风**：一捻生秋意，具备极佳的祛暑功效；扇骨刻有十八罗汉，具备一定的镇压邪祟之力 。",
+  "evolution": {
+    "current_form": "扇面素白无文字、扇骨雕工精绝的玉竹折扇 。",
+    "materials_consumed": [
+      "玉竹",
+      "名家雕工"
+    ],
+    "potential_evolution": "当陈平安在扇面题款后，可与本命文胆产生共鸣，强化其儒家术法。"
+  },
+  "visual": {
+    "static": "扇骨一侧刻有十八罗汉，栩栩如生；另一侧刻有“蟠桃结实三千岁”等名句 。",
+    "active": "打开后扇面洁净，扇动时有清风徐来，能拂去人心头燥气 。"
+  },
+  "provenance": {
+    "origin": "原为与崔东山对弈而输掉飞剑“金秋”之人的心爱珍宝 。",
+    "karma_link": "崔东山在陈平安远游北俱芦洲前相赠，助其在异乡夏日保持从容 。"
+  },
+  "enriched": true
+}

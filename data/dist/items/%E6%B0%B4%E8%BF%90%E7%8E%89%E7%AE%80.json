@@ -1,0 +1,44 @@
+{
+  "name": "水运玉简",
+  "original_name": "祈雨碑文玉简",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安最重要的修行底牌之一。玉简中不仅记载了极高品秩的水法道诀，更蕴含着能让修士规避心 魔、直指大道的上古天机 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第758章 夜行",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "水法类 / 炼物类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "柳柔 (埋河水神)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "蕴藏远古大渎龙宫的根本法统，可演化出直指上五境的四条坦途 。",
+  "supernatural_ability": "“万物可炼”之仙家道诀；可化作绿衣童子协助修补水属气府与本命物 。",
+  "evolution": {
+    "current_form": "碧绿莹澈、刻满五千余字道诀的玉简 。",
+    "materials_consumed": [
+      "上古大渎水精",
+      "雨师敕令"
+    ],
+    "potential_evolution": "炼化成功后可成就“四天凉”境界，令心魔如临圣人禁地 。"
+  },
+  "visual": {
+    "static": "晶莹剔透，光华随水气流转，文字若隐若现 。",
+    "active": "文字可脱离玉简幻化为米粒大小的绿衣小人，在经脉中搬运水运 。"
+  },
+  "provenance": {
+    "origin": "源自上古大渎龙宫的水运精华 。",
+    "karma_link": "由埋河水神柳柔赠予陈平安，以报答其在碧游府授业解惑之恩 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "斩尸符",
+  "original_name": "真相符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是陆氏压箱底的保命手段，其高明之处在于其化身能 瞒过同境甚至更高境界修士的法眼 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第881章 眼神",
+      "owner": "陆尾"
+    },
+    {
+      "chapter": "第1118章 金榜题名",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "替死/逃遁类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆尾",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为中土陆氏首创的大符之一，其炼制秘法涉及神性演 化，具有极高的实战保命价值 , 。",
+  "supernatural_ability": "祭出此符后可化出与真身几乎无异的化身，能够替死一 次，代价是施术者仅跌一境 , 。",
+  "evolution": {
+    "current_form": "以金精铜钱熔化炼制而成的金色符箓 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "陆氏秘传道韵"
+    ],
+    "potential_evolution": "若能配合“忽然符”，可在瞬息间脱离十四境修士的锁定 。"
+  },
+  "visual": {
+    "static": "符纸呈现暗金色，上有密密麻麻的复杂云篆，散发出类 似神灵的威严气机 。",
+    "active": "激发时会显化出一个具备真身神魂波动的替身，真身则 借此隐匿或遁走 , 。"
+  },
+  "provenance": {
+    "origin": "中土神洲阴阳家陆氏祖传大符 。",
+    "karma_link": "陈平安从陆尾处夺取，用于应对高位修士的截杀 。"
+  },
+  "enriched": true
+}

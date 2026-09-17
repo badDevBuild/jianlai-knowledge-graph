@@ -1,0 +1,44 @@
+{
+  "name": "铁剑轻弹集",
+  "original_name": "程水东文集",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "该书是黄庭国大儒程水东的随笔集。作者真实身份是古蜀国遗留的高龄蛟龙，后受大骊国师招徕出任林 鹿书院副山长。此书在宝瓶洲北方文坛享有盛誉 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第420章 山水依旧",
+      "owner": "程老侍郎"
+    }
+  ],
+  "subtype": "文集 / 随笔",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "程水东 (黄庭国老侍郎)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽为纸本书籍，但因作者身份特殊且文气重，在山上文士眼中极具收藏价值 。",
+  "supernatural_ability": "无直接攻伐神通。作为儒家大贤之作，蕴含文运，长期翻阅可滋养儒生浩然气 。",
+  "evolution": {
+    "current_form": "黄庭国老侍郎程水东的著作，单行本 。",
+    "materials_consumed": [
+      "黄庭国特制纸张",
+      "大儒神意"
+    ],
+    "potential_evolution": "随作者重返庙堂担任书院副山长，其存世孤本价值将进一步攀升 。"
+  },
+  "visual": {
+    "static": "书页装订古雅，带有淡淡的墨香 。",
+    "active": "翻阅时文气流溢，令人心旷神怡 。"
+  },
+  "provenance": {
+    "origin": "黄庭国老侍郎、实为远古蛟龙后裔的程水东在隐居期间所著 。",
+    "karma_link": "陈平安在黄庭国边境书铺购得，与后来程水东出任大骊书院副山长的轨迹隐隐呼应 。"
+  },
+  "enriched": true
+}

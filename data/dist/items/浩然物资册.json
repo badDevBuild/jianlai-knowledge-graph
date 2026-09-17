@@ -1,0 +1,38 @@
+{
+  "name": "浩然物资册",
+  "original_name": "落魄山家底名录 / 战略储备册",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是落魄山的“功劳簿”与“钱袋子”。它揭示了一个惊人的事实：即便不靠大骊朝廷，落魄山的家底也已 富可敌国 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第635章 日就月将",
+      "owner": "隐官一脉"
+    }
+  ],
+  "subtype": "内政/后勤类",
+  "holder": "落魄山 (韦文龙)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随落魄山势力扩张，记录的资源将涵盖数座天下的奇珍。",
+  "supernatural_ability": "实时同步落魄山及其藩属山头的所有资产，包括神仙钱存量、法宝归属等 。",
+  "evolution": {
+    "current_form": "一本两页的小册子，内容涵盖谱牒成员与商贸现状 。",
+    "materials_consumed": [
+      "各国窑务秘档",
+      "大骊刑部记录"
+    ],
+    "potential_evolution": "与“隐官账本”对接后，可实现对宗门资源的极致调配 。"
+  },
+  "visual": {
+    "static": "巴掌大小，钤印有“落魄山陈平安”印章，字迹质朴 。",
+    "active": "呈递给大骊皇帝或文庙圣人时，其上文字会显现出宗门的浩大胜景 。"
+  },
+  "provenance": {
+    "origin": "落魄山账房先生韦文龙根据多年收支统计而成 。",
+    "karma_link": "体现了陈平安“见好就收”与“勤俭持家”的生存哲学 。"
+  },
+  "enriched": true
+}

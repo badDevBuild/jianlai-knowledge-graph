@@ -1,0 +1,45 @@
+{
+  "name": "青铜小镜",
+  "original_name": "云雷连弧纹镜 / 日月镜",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此镜是**照妖镜里的老祖宗**，表面刻有“日月之光，天下大明”八 个小字 。它曾长期默默无闻地镶嵌在小镇墙头，在洞天破碎后显露真容 ，被有缘人发现 。",
+  "aliases": [
+    "青铜小镜"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第65章 珠子",
+      "owner": "某路人"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "小镇外乡寻宝者",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "骊珠洞天破败小巷",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为照妖镜一脉的老祖宗，具备极高的压胜位格 。",
+  "supernatural_ability": "具备**“日月之光，天下大明”**之神效，可让妖邪无处遁形 。",
+  "evolution": {
+    "current_form": "青铜圆镜",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "镶嵌在小镇破败小巷大门顶上的青铜小镜，带有**云雷连弧纹** 。",
+    "active": "激发时铭文绽放光芒，具有极强的破障与照妖能力 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天遗留的远古法器 。",
+    "karma_link": "被小镇内的一名外乡修士捡漏所得 。"
+  },
+  "enriched": true
+}

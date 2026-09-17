@@ -1,0 +1,43 @@
+{
+  "name": "白玉螭龙发簪",
+  "original_name": "白玉簪 / 啄玉大家无款簪",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是一枚具有极高工艺价值的白玉发簪，陈平安视其为读书人的身份象征。在远游途中，它不仅是别发 之物，更是他练习雕刻与炼字的工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第341章 河上金桥",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "佩饰类 / 承载类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大泉京城孩儿巷摊主",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "材质极佳，被誉为“美玉材质最佳者”，可承载圣贤文字或高阶剑经 。",
+  "supernatural_ability": "**“文气承载”**。能够与持有者的神识、文气共鸣，陈平安常在其上雕刻铭文以砥砺心境 。",
+  "evolution": {
+    "current_form": "素身无篆文的白玉发簪，龙纹简洁流畅 。",
+    "materials_consumed": [
+      "上等白玉"
+    ],
+    "potential_evolution": "可演化为承载高位神灵神性的载体，如陈平安曾将其内部开辟为袖珍小洞天 。"
+  },
+  "visual": {
+    "static": "洁白无瑕，触手生温，螭龙纹样栩栩如生，尽显高古之风 。",
+    "active": "当陈平安运转气机或刻字时，簪身会有微弱的灵光流溢，字迹金光灿然 。"
+  },
+  "provenance": {
+    "origin": "陈平安在大泉王朝京城孩儿巷以三十两银子购得 。",
+    "karma_link": "由姚近之帮忙砍价捡漏，曾被陈平安用来刻下“言念君子，温其如玉”等文字 。"
+  },
+  "enriched": true
+}

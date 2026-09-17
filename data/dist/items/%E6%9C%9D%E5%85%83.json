@@ -1,0 +1,38 @@
+{
+  "name": "朝元",
+  "original_name": "冯青白佩剑",
+  "type": "仙剑",
+  "grade": "名剑",
+  "status": "遗失",
+  "description": "这是剑修冯青白的佩剑，名字取自道门“朝元”之意 。该剑不仅杀力惊人，更承载了藕花福地一部分隐秘的道家气运 , 。它是冯青白在福地江湖行走、跻身顶尖强者序列的象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第315章 他人争渡我破境",
+      "owner": "未知"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "冯青白",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为福地剑道巅峰的载体，在浩然天下有极高的成长天花板 。",
+  "supernatural_ability": "剑意精纯，出剑时能够产生类似道门朝元图的庄严异象，压制对手心神 , 。",
+  "evolution": {
+    "current_form": "长剑",
+    "materials_consumed": [
+      "剑客心血",
+      "道门真意"
+    ],
+    "potential_evolution": "有望炼化为本命飞剑，真正实现一剑破万法 。"
+  },
+  "visual": {
+    "static": "剑身铭刻有古朴纹路，与大纯阳万寿宫的“朝元图”意境相通 。",
+    "active": "出鞘时剑光如雷鸣，能轻易破开寻常修士的护体罡气 。"
+  },
+  "provenance": {
+    "origin": "藕花福地，与福地内的道门法统有千丝万缕的联系 , 。",
+    "karma_link": "在白河寺及南苑国城头的激战中，此剑是冯青白对抗强敌的核心 , 。"
+  },
+  "enriched": true
+}

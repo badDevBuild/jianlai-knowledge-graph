@@ -1,0 +1,40 @@
+{
+  "name": "小洞天日珠",
+  "original_name": "日精道气珠",
+  "type": "灵物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这些珠子是飞升境大妖白景在陈平安的“笼中雀”小天地内修炼时，通过汲取天外灵气潮汐并压缩而成的 纯正能量体，极具战略价值 。",
+  "aliases": [
+    "福地太阳"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第320章 井口边的老道人",
+      "owner": "井口边的老道人"
+    }
+  ],
+  "subtype": "温养/能量类",
+  "holder": "白景",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "由飞升境巅峰大妖在特定小天地（如笼中雀）内凝练而成，具备极高的灵气密度 。",
+  "supernatural_ability": "由大日精魄与精粹道气凝结，能直接补充海量灵气，辅助修士冲关或稳固境界 。",
+  "evolution": {
+    "current_form": "精粹至极的宝珠",
+    "materials_consumed": [
+      "大日精魄",
+      "天地道气"
+    ],
+    "potential_evolution": "融入福地可提升其灵气上限，使山河变色"
+  },
+  "visual": {
+    "static": "通体碧绿或金黄，光华内敛，珠圆玉润 。",
+    "active": "碎裂时灵气如潮水涌出，伴有日华或月魄的流光，声如“大珠小珠落玉盘” 。"
+  },
+  "provenance": {
+    "origin": "白景坐于袖珍大日之内，将吸收的灵气与道气一分为二凝练而成 。",
+    "karma_link": "是天外战场中大修士炼化天地能量的成果，部分曾赠予陈平安用于合道 。"
+  },
+  "enriched": true
+}

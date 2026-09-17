@@ -1,0 +1,38 @@
+{
+  "name": "墨色飞剑",
+  "original_name": "一尺有余的墨色飞剑",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此剑是老龙城范家老剑修马致的性命依仗。它以“树荫乘凉”为剑意根本，出剑时伴随着令人心悸的清冷 ，曾多次作为教导陈平安武道和剑理的“磨刀石” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第258章 群山之巅，上有武神",
+      "owner": "马致"
+    }
+  ],
+  "subtype": "攻伐/清寒类",
+  "holder": "马致",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为九境金丹剑修的本命物，其剑意已臻化境，能直接压制暑气 。",
+  "supernatural_ability": "**凉荫意境**：剑意近春寒、大雪、清泉，能让方圆百里之内暑气全消，自带一股森寒之气 。",
+  "evolution": {
+    "current_form": "一尺有余的墨色飞剑",
+    "materials_consumed": [
+      "天地灵气",
+      "云根石"
+    ],
+    "potential_evolution": "若能得到足够天材地宝，有望晋升为元婴级飞剑"
+  },
+  "visual": {
+    "static": "长约一尺，剑身呈现深沉的墨色，平时藏于金丹修士气府中 。",
+    "active": "现世后萦绕主人飞旋，拖曳出条条黑色流萤，满室剑气森寒 。"
+  },
+  "provenance": {
+    "origin": "范家金丹供奉马致苦心温养两百余载的本命物 。",
+    "karma_link": "曾在桂花岛上辅助陈平安淬炼三魂，夯实其第四境武道底子 。"
+  },
+  "enriched": true
+}

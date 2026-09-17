@@ -1,0 +1,37 @@
+{
+  "name": "杏花天",
+  "original_name": "本命飞剑“杏花天”",
+  "type": "本命飞剑",
+  "grade": "本命飞剑",
+  "status": "活跃",
+  "description": "这是纳兰玉牒双飞剑之一。它不仅具备极高的杀力，还因为独特的“节气”意境，在群战中占据优势 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第756章 剑修如云",
+      "owner": "纳兰玉牒"
+    }
+  ],
+  "subtype": "攻守兼备",
+  "holder": "纳兰玉牒",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "双剑合璧后，可演化出范围极广的“节气”剑阵 。",
+  "supernatural_ability": "能变幻出如春日杏花的繁密剑光，迷惑敌人视线并进行密集打击 。",
+  "evolution": {
+    "current_form": "纳兰玉牒拥有的两把飞剑之一 。",
+    "materials_consumed": [
+      "精纯剑气"
+    ],
+    "potential_evolution": "可与“花灯”融合，形成完整的小天地禁制 。"
+  },
+  "visual": {
+    "static": "剑身粉白相间，带有淡淡的花香味 。",
+    "active": "出剑时万花齐放，剑光如雨，景象绚烂异常 。"
+  },
+  "provenance": {
+    "origin": "纳兰家族剑道种子纳兰玉牒的本命物 。",
+    "karma_link": "见证了小账房纳兰玉牒从剑气长城到落魄山的转变 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "泛黄书籍",
+  "original_name": "鬼画符 / 三山道书",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安最为珍视的秘籍之一。虽然外表平凡，却内藏通 天之术，多次助他在死局中逆转乾坤 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第800章 牵红线",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1102章 夫君且展眉",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "术法/符箓类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李槐",
+      "relation": "赠予者"
+    },
+    {
+      "name": "杨老头",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "内含“三山九侯先生律令”，是解开远古符箓法统的关键 钥匙 。",
+  "supernatural_ability": "记载有“吾指一剑”穿墙术、三山符、缩地符等顶尖遁术 与破障法 。",
+  "evolution": {
+    "current_form": "纸张泛黄、残缺不全的古旧书籍 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "三山符道韵"
+    ],
+    "potential_evolution": "补全五页残篇后可直通上古神明律令 。"
+  },
+  "visual": {
+    "static": "封面无字，纸质绵软陈旧，散发着淡淡的霉味 。",
+    "active": "研读时文字如有生命，甚至能显化出远古山川的虚影 。"
+  },
+  "provenance": {
+    "origin": "药铺杨老头随手送给李槐，后被转赠给陈平安 。",
+    "karma_link": "陈平安凭借此书补全了对三山九侯先生道统的理解 。"
+  },
+  "enriched": true
+}

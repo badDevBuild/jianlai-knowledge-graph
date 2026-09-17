@@ -1,0 +1,42 @@
+{
+  "name": "黄藤酒",
+  "original_name": "温黄酒 / 烧酒",
+  "type": "丹药",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是**《剑来》世界中极具烟火气的修行资粮**。虽然品秩不一定高， 却是无数修士在漫长求道途中慰藉孤独的良伴 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第436章 直抒胸臆，知道一点",
+      "owner": "红酥"
+    },
+    {
+      "chapter": "第438章 人心似水低处去",
+      "owner": "红酥(赠予陈平安)"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "练气士 / 江湖武夫",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "若以灵泉水与高阶仙草酿造，可具有平复心境、稳固气府之神效 。",
+  "supernatural_ability": "入口辛辣转温润，能瞬间暖热修士气府，对在极寒之地修行的练气士有 破障之效 。",
+  "evolution": {
+    "current_form": "色泽金黄透明的酒液 。",
+    "materials_consumed": [
+      "仙家五谷",
+      "灵泉精华"
+    ],
+    "potential_evolution": "若经数百年窖藏，可产生‘酒虫’精魅 。"
+  },
+  "visual": {
+    "static": "盛放于质朴瓷瓶中，酒香沉郁 。",
+    "active": "倒入碗中时，酒液粘稠如琥珀，表面有微弱灵光 。"
+  },
+  "provenance": {
+    "origin": "多产自黄庭国或宝瓶洲各处名泉之地 。",
+    "karma_link": "陈平安在路途中常以此酒与江湖同道（如徐远霞）对饮，承载了‘大碗喝 酒’的快意江湖因果 。"
+  },
+  "enriched": true
+}

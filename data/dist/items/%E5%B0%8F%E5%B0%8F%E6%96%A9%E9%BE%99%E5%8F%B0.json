@@ -1,0 +1,47 @@
+{
+  "name": "小小斩龙台",
+  "original_name": "天真/宁姚磨剑石",
+  "type": "材料",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "被陈平安视为最重要的**磨剑石**。 它不仅是飞剑**初一、十五**的口粮，更是他与**宁姚**之间大道盟誓的见证物，极其珍贵 [20-22]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第585章 请与我陈平安共饮酒",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "加持/砥砺类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宁姚",
+      "relation": "赠予者"
+    },
+    {
+      "name": "陈清都",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为世间最顶级的磨剑材料，其价值不可估量，且随飞剑品质提升而损耗。",
+  "supernatural_ability": "天生压胜龙族，对飞剑有极致的砥砺效果，能极大提升飞剑的锋锐与灵性 。",
+  "evolution": {
+    "current_form": "长约尺许、铭刻有“天真”与“宁姚”字样的石条 。",
+    "materials_consumed": [
+      "远古天庭刑台残块"
+    ],
+    "potential_evolution": "随着初一、十五的反复磨砺，石块会逐渐变薄，反补飞剑 。"
+  },
+  "visual": {
+    "static": "质地厚重且冷峻，表面有独特的纹路，触手生寒 。",
+    "active": "磨剑时火星四溅，爆发出雷鸣般的响声，剑气充盈四周 。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭行刑台坠落人间后的碎片 。",
+    "karma_link": "宁姚将父母留下的珍藏赠予陈平安，见证了二人的情谊 。"
+  },
+  "enriched": true
+}

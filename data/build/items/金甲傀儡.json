@@ -1,0 +1,44 @@
+{
+  "name": "金甲傀儡",
+  "original_name": "金甲力士 / 朱兵神将",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "金甲傀儡是山上最常见的**重型劳力与护卫**，其造价极其昂贵。 它们不仅活跃在**基建战场**，也在很多仙府的巡守工作中扮演重要角色。 在蛮荒天下，金甲傀儡甚至被用来**驱赶远古凶兽**，其威慑力足以横扫中五境修士。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第416章 人生若有不快活",
+      "owner": "老瞎子"
+    }
+  ],
+  "subtype": "傀儡类",
+  "holder": "大骊工部 / 山上仙府",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "墨家",
+      "relation": "制作方"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "高阶者可具备元婴境战力，甚至通过吞噬金身碎片获得神性。",
+  "supernatural_ability": "力大无穷，擅长防御与负重，能够搬迁大山或在大渎开凿中担任主力。",
+  "evolution": {
+    "current_form": "体型巨大、身披金甲的金属或木石构造体。",
+    "materials_consumed": [
+      "灵石动力",
+      "神灵金身碎片"
+    ],
+    "potential_evolution": "若能开启灵智，可演化为具有自主战术思维的‘神将’。"
+  },
+  "visual": {
+    "static": "如同一座移动的金属堡垒，双目紧闭，身上布满复杂的符文回路。",
+    "active": "开启时金光万丈，行走如地动山摇，能一拳击穿地仙修士的护体罡气。"
+  },
+  "provenance": {
+    "origin": "融合了墨家机关术与道家符箓派的巅峰技艺。",
+    "karma_link": "见证了大骊王朝在宝瓶洲大兴土木、扩充版图的野心。"
+  },
+  "enriched": true
+}

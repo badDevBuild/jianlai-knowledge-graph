@@ -1,0 +1,43 @@
+{
+  "name": "香火房档案",
+  "original_name": "青峡岛香火房档案",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这些档案不仅是人员名单，更是书简湖“无法之地”过往罪恶的见证，陈平安借此找寻阴物魂魄并助其完 成遗愿。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第432章 且将书上道理放一放",
+      "owner": "青峡岛"
+    }
+  ],
+  "subtype": "记录类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青峡岛",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为因果梳理的底本，其价值随陈平安对书简湖脉络的厘清而增长。",
+  "supernatural_ability": "详细记载了岛上所有修士、杂役的生平、籍贯及社会关系，甚至是那些横死之人的残缺信息。",
+  "evolution": {
+    "current_form": "叠放整齐、内容繁杂的纸质簿籍。",
+    "materials_consumed": [
+      "众生因果"
+    ],
+    "potential_evolution": "被陈平安整合为记录被害者遗愿与“账目”的系统化谱牒。"
+  },
+  "visual": {
+    "static": "厚薄不一的泛黄书册，墨迹斑驳。",
+    "active": "查阅时往往伴随着对过去阴暗面的深究，沉重压抑。"
+  },
+  "provenance": {
+    "origin": "青峡岛香火房的内部行政记录。",
+    "karma_link": "是陈平安在书简湖为顾璨所杀之人进行“算账”与补救的关键依据。"
+  },
+  "enriched": true
+}

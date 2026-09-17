@@ -1,0 +1,48 @@
+{
+  "name": "福地形势图册",
+  "original_name": "胭脂图 / 剥落山神仙图",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不只是一本图集，更是福地众生百态的实物档案。陈 平安将其收缴后，作为梳理山河气运的重要参考 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1063章 多余即是温柔",
+      "owner": "沛湘/陈平安"
+    }
+  ],
+  "subtype": "记录/因果类",
+  "holder": "陈平安 (收缴)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "敬仰楼",
+      "relation": "制作人"
+    },
+    {
+      "name": "沛湘 / 避暑娘娘",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "集齐全部篇章（五岳、帝王、美艳等）可作为掌控一处 福地众生因果的法典 。",
+  "supernatural_ability": "记载福地山川脉络与重要人物，通过“想象”与“回响”神 通，能使图中人动态如生，甚至诱人心神 。",
+  "evolution": {
+    "current_form": "内容详实、分门别类，配有精美工笔插图的厚重册子 。",
+    "materials_consumed": [
+      "福地气运",
+      "众生欲望"
+    ],
+    "potential_evolution": "可演化为支撑“三千小千世界”逻辑运转的根本规律。"
+  },
+  "visual": {
+    "static": "装订精美，纸张考究。如《人间美艳篇》配有彩笺底色 的仕女画像 。",
+    "active": "翻阅时，图中人物如走出卷轴，笔触灵动，带有淡淡的 脂粉气或杀伐气 。"
+  },
+  "provenance": {
+    "origin": "由藕花福地敬仰楼搜集整理，后与狐国沛湘合作编撰 。",
+    "karma_link": "连接了陈平安对福地秩序的重塑以及对朱敛等人的因果 管理 。"
+  },
+  "enriched": true
+}

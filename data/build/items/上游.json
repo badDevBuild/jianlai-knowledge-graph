@@ -1,0 +1,46 @@
+{
+  "name": "上游",
+  "original_name": "本命飞剑“上游”",
+  "type": "本命飞剑",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是白景作为远古“白昼”大妖的最强利器之一。它代表 了剑道在时间维度上的极致成就，是郑居中算计天下大 势的重要工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1003章 合道所在",
+      "owner": "白景"
+    },
+    {
+      "chapter": "第1141章 兵家必争之地",
+      "owner": "白景"
+    },
+    {
+      "chapter": "第1164章 人间压胜",
+      "owner": "白景(谢狗)"
+    }
+  ],
+  "subtype": "攻伐/因果类",
+  "holder": "白景 (谢狗)",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "作为远古巅峰剑修的本命，具备逆流光阴、溯源杀敌的 终极潜力 。",
+  "supernatural_ability": "其名“上游”，意在占据光阴长河的制高点，具备压制同 境飞剑的大道权柄，并能作为“铺路”之物引导剑光 。",
+  "evolution": {
+    "current_form": "温养在白景气府中的精粹剑光 。",
+    "materials_consumed": [
+      "远古剑意",
+      "光阴流水"
+    ],
+    "potential_evolution": "可与“下游”合力，构筑出截断万古的剑意长河 。"
+  },
+  "visual": {
+    "static": "不可见，仅表现为一种高屋建瓴、俯瞰众生的压迫感 。",
+    "active": "出剑时如大水从天而降，剑气逆行光阴，无视任何空间 距离 。"
+  },
+  "provenance": {
+    "origin": "由白景在远古时代独立孕育而成 。",
+    "karma_link": "被郑居中借去，用于对黄镇实施毁灭性的“官子”杀招 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,47 @@
+{
+  "name": "天真(仿)",
+  "original_name": "仿仙剑天真",
+  "type": "仙剑",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是吴霜降最晚制成的仿剑。它不仅是兵器，更是吴霜 降对剑气长城万年剑道的某种致敬与推演。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第777章 还礼",
+      "owner": "吴霜降"
+    },
+    {
+      "chapter": "第779章 剑斩十四",
+      "owner": "吴霜降"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "因与宁姚的大道气息契合，未来有望协助陈平安成就至 高剑道。",
+  "supernatural_ability": "剑气极其纯粹，不带半点人间烟火气，能够无视部分空 间防御。",
+  "evolution": {
+    "current_form": "虽然品秩跌落，但剑意保持得最为完整的仿剑。",
+    "materials_consumed": [
+      "剑气长城古老剑意"
+    ],
+    "potential_evolution": "若由宁姚执掌，可短时间内发挥出仙兵威力。"
+  },
+  "visual": {
+    "static": "如同一汪清水，剑身近乎透明，寒气逼人。",
+    "active": "动时无声，杀敌于无形，如天公抖擞，气势宏大。"
+  },
+  "provenance": {
+    "origin": "吴霜降针对剑气长城宁姚所持仙剑仿制。",
+    "karma_link": "吴霜降苦等多年才获得此剑的剑意雏形。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "文圣留书",
+  "original_name": "老秀才所赠典籍",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是文圣老秀才为关门弟子陈平安精心挑选的**修行与治学典籍** 。其意义远超普通功法，代表了**儒家文脉**在最艰难时刻的薪火相传 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第581章 陋巷处又有学塾",
+      "owner": "左右 (文圣赠予)"
+    },
+    {
+      "chapter": "第833章 好似拖拽虚舟",
+      "owner": "崔瀺 (原藏)"
+    }
+  ],
+  "subtype": "传承/法脉类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老秀才 (文圣)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为文脉嫡传信物，蕴含圣人毕生学问与一脉气运 。",
+  "supernatural_ability": "可帮助修士在心湖建立文字高楼，抵御心魔，破解上古禁制 。",
+  "evolution": {
+    "current_form": "老秀才亲手挑选并批注的经典书籍 。",
+    "materials_consumed": [
+      "圣贤道韵",
+      "文脉气数"
+    ],
+    "potential_evolution": "文字可演化为“圣贤法相”，在危难时刻保住弟子性命 。"
+  },
+  "visual": {
+    "static": "通常为线装古籍，纸张泛黄，字迹跳脱却法度严谨 。",
+    "active": "字里行间有金气盘桓，诵读时声如春雷，文字重如山岳 。"
+  },
+  "provenance": {
+    "origin": "文圣老秀才的私人书斋收藏 。",
+    "karma_link": "象征着陈平安正式承接文圣一脉的香火，是其儒家身份的法律凭证 。"
+  },
+  "enriched": true
+}

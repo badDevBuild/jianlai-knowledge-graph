@@ -1,0 +1,43 @@
+{
+  "name": "松籁国宝甲",
+  "original_name": "瘊子甲",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**松籁国宝甲（瘊子甲）**是《剑来》开篇的重要道具之一。虽然相貌平平甚至丑陋，但其实质是**远 古神人承露甲的变体或相关重器**，现由清风城城主许浑持有并将其炼化为本命物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第311章 人外有人",
+      "owner": "松籁国皇室/高手"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "许浑",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "刘羡阳",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为**骊珠洞天**流传出的古老重器，具备极高的武运压胜潜力 。",
+  "supernatural_ability": "具备极强的**物理与灵气防御能力**，能够镇压和聚拢武运，被视为“山河至宝” 。",
+  "evolution": {
+    "current_form": "一副表面粗糙、形似瘊子的沉重甲胄 。",
+    "materials_consumed": [
+      "神灵金身碎片"
+    ],
+    "potential_evolution": "有望晋升为**半仙兵**品秩 。"
+  },
+  "visual": {
+    "static": "外表极其丑陋，被调侃为“乌龟壳”，表面布满如瘊子般的疙瘩 。",
+    "active": "激发后能形成坚不可摧的防护层，防御力甚至令元婴修士垂涎 。"
+  },
+  "provenance": {
+    "origin": "原为骊珠洞天**刘羡阳家祖传宝物** 。",
+    "karma_link": "清风城许氏为了谋夺此甲与剑经，曾联手正阳山搬山猿重创刘羡阳 。"
+  },
+  "enriched": true
+}

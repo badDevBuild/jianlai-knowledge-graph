@@ -1,0 +1,48 @@
+{
+  "name": "梳妆镜",
+  "original_name": "白帝城古镜",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "**梳妆镜**在《剑来》中不仅是装饰品，更是一种身份 与资源的象征。高品质的镜子往往意味着与大宗门（如 白帝城）的间接联系 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第783章 邀请",
+      "owner": "顾璨"
+    },
+    {
+      "chapter": "第1195章 定场诗",
+      "owner": "白帝城琉璃阁(原产)"
+    }
+  ],
+  "subtype": "辅助/秘境类",
+  "holder": "山上女修/石柔",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白帝城琉璃阁",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "长期温养可作为进入特定“云雨秘境”的通行证 。",
+  "supernatural_ability": "能净化面容，驻颜养神，部分珍稀款可察觉周围灵气的 细微波动 。",
+  "evolution": {
+    "current_form": "工艺精湛、背嵌珍宝的青铜或玉石镜子。",
+    "materials_consumed": [
+      "月中精魂",
+      "灵矿精粹"
+    ],
+    "potential_evolution": "可炼化为能映照神魂缺陷的“本心镜”。"
+  },
+  "visual": {
+    "static": "镜面平滑如水，背部雕刻有“巫山”或“宫家营造”等古篆 。",
+    "active": "照人时镜面泛起淡淡粉霞或幽绿光泽，使人容貌愈发光 莹 。"
+  },
+  "provenance": {
+    "origin": "由白帝城琉璃阁等顶尖炼师监制，风靡浩然各洲女修圈 。",
+    "karma_link": "常作为大宗门给予女弟子的奖励，也是山上“红粉因缘” 的常见赠礼 。"
+  },
+  "enriched": true
+}

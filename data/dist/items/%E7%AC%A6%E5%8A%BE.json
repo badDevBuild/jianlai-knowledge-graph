@@ -1,0 +1,44 @@
+{
+  "name": "符劾",
+  "original_name": "水箓轴头 (符劾之实)",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是落魄山的镇山重器之一，具有极高的法理位阶，可与吴霜降的楹联并列 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第526章 伏线拎起即杀机",
+      "owner": "徐铉侍女"
+    }
+  ],
+  "subtype": "权柄类 / 阵法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老观主 (碧霄洞主)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古道图的一部分，具备检核三界、号令水裔的终极权柄。",
+  "supernatural_ability": "能够**检劾三界，封署山岳，考明过功，鉴骘罪福**，并绘有百余位地仙名号 。",
+  "evolution": {
+    "current_form": "墨篆“水箓”轴头，由牛角质地打造 。",
+    "materials_consumed": [
+      "远古神灵真意",
+      "道门金科玉律"
+    ],
+    "potential_evolution": "与“山符”轴头合拢，可重现远古道图威能 。"
+  },
+  "visual": {
+    "static": "牛角轴头，刻有墨篆大字，古意盎然，散发出令鬼神敬畏的威严 。",
+    "active": "展开时风雷共鸣，文字显化神灵虚影，可镇压一洲山河气数 。"
+  },
+  "provenance": {
+    "origin": "远古道门遗物，由观道观老观主持有。",
+    "karma_link": "老观主在落魄山外饮茶后，将其作为礼物赠予陈平安 。"
+  },
+  "enriched": true
+}

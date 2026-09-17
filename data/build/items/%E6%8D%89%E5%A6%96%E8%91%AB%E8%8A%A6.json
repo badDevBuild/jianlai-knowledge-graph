@@ -1,0 +1,37 @@
+{
+  "name": "捉妖葫芦",
+  "original_name": "飞钱葫芦",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "远古大妖离垢（飞钱）的关键宝物之一。不仅在战斗中能起到出其不意的控制作用，更是其搜刮天财地 宝的利器。其独特的“捉妖”功能在蛮荒天下极具威慑力 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1105章 一个新鲜故事",
+      "owner": "萧愻(抢自离垢)"
+    }
+  ],
+  "subtype": "镇压/炼化类",
+  "holder": "离垢",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "可随主人炼化更多的精怪鬼魅而提升威能 , 。",
+  "supernatural_ability": "能拘押并炼化山精水怪、鬼魅阴灵，内部自成炼化阵法 , 。",
+  "evolution": {
+    "current_form": "挂在大妖离垢腰间的不起眼葫芦 。",
+    "materials_consumed": [
+      "各类精怪鬼物"
+    ],
+    "potential_evolution": "有望进化为更高阶的收纳类法器 。"
+  },
+  "visual": {
+    "static": "常与黄色乾坤袋一同挂在离垢腰间，外观质朴 。",
+    "active": "祭出时可吞噬烟雾、阴影或直接拘禁妖物实体 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下 。",
+    "karma_link": "属于远古大妖离垢的傍身重宝，白景曾多次试图将其做掉以夺取此物 。"
+  },
+  "enriched": true
+}

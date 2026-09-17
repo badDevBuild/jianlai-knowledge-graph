@@ -1,0 +1,38 @@
+{
+  "name": "境中剑",
+  "original_name": "何洲本命飞剑",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是北俱芦洲年轻剑修何洲的依仗。其最恐怖之处在于对道心的针对性打击，一旦对手道心稍有瑕疵， 便会深陷其中无法脱困 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第324章 原来如此",
+      "owner": "黄庭"
+    }
+  ],
+  "subtype": "幻象/囚禁类",
+  "holder": "何洲",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "随持有者对“心魔”和“假相”理解的深入，其制造幻境的规模可无限扩展 。",
+  "supernatural_ability": "能够制造幻象，让对手“怕什么见什么”，使其神识如陷泥潭，并可将目标囚禁在类似镜子的虚幻空间中 。",
+  "evolution": {
+    "current_form": "诡谲的本命飞剑",
+    "materials_consumed": [
+      "先天剑意",
+      "蜃珠气息"
+    ],
+    "potential_evolution": "进化为能真正逆转虚实、自成真实镜像世界的仙兵"
+  },
+  "visual": {
+    "static": "剑身模糊，似有雾气笼罩，呈现出一种不真实的质感 。",
+    "active": "出剑时剑光化作无数面镜子，将敌人笼罩其中，每一面镜子都映照出敌人的内心恐惧 。"
+  },
+  "provenance": {
+    "origin": "剑修何洲在鬼蜮谷遗址走水时临时开窍所得 。",
+    "karma_link": "与苗稼的“陶罐”配合，天衣无缝地守护着秘境古迹 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "金黄色小螃蟹",
+  "original_name": "护水使者",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这只小螃蟹是莲藕福地的“隐形富豪”。它是李希圣送出的惊喜，由小而大，最终成为稳固福地水运的定 海神针 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第730章 万事俱备只欠风雪",
+      "owner": "落魄山"
+    }
+  ],
+  "subtype": "建筑/守卫类",
+  "holder": "莲藕福地 / 紫金莲花池",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    },
+    {
+      "name": "魏檗",
+      "relation": "转交者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随着作为龙宫枢纽的地位稳固，可晋升为具备地仙战力的守山大神 。",
+  "supernatural_ability": "能够褪去蟹壳变作一座巨大的水下龙宫府邸，负责镇压一地水脉 。",
+  "evolution": {
+    "current_form": "一只在池塘中游走的小螃蟹 。",
+    "materials_consumed": [
+      "李希圣的符箓法旨",
+      "龙气精华"
+    ],
+    "potential_evolution": "完整显化为一座具有自主防御能力的龙宫 。"
+  },
+  "visual": {
+    "static": "通体金黄，外表憨态可掬，背部隐约可见符箓法旨的金光 。",
+    "active": "沉入水底后，瞬间幻化为气象森严的宫殿，威慑四方水族 。"
+  },
+  "provenance": {
+    "origin": "由李希圣通过特殊法旨点化，作为送给小宝瓶或落魄山的趣物 。",
+    "karma_link": "体现了道门大佬对落魄山晚辈的提携与对福地建设的支持 。"
+  },
+  "enriched": true
+}

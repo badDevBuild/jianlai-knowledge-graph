@@ -1,0 +1,52 @@
+{
+  "name": "通关文牒",
+  "original_name": "行走阳间护身符 / 关牒",
+  "type": "符箓",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是《剑来》中代表“规矩”的物件，无论是活人远游还 是死者避劫，一张牒文即是一份天地认可的身份证明 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第178章 我看一座山",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第829章 家乡廊桥的旧人旧事",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1094章 就山",
+      "owner": "郑清嘉"
+    }
+  ],
+  "subtype": "身份/庇护类",
+  "holder": "外乡练气士 / 阴物鬼魅",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "各国礼部/刑部",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随持有者功德累积，可演化为具备压胜一方山水权柄的 “印玺”。",
+  "supernatural_ability": "允许鬼物在白昼阳间行走而不受天雷惊扰，亦可作为练 气士出入各国关隘与山水禁地的凭证 。",
+  "evolution": {
+    "current_form": "印有官方法印的公文或玉牌。",
+    "materials_consumed": [
+      "灵气丹砂",
+      "王朝气运"
+    ],
+    "potential_evolution": "可升格为无视天下禁制的“万法通关文牒” 。"
+  },
+  "visual": {
+    "static": "通常为玉质或高阶符纸，刻有特定年号及通行权限，散 发微弱的官气 。",
+    "active": "在通过禁制时，法印会产生微弱的金光涟漪，与当地山 水阵法共鸣 。"
+  },
+  "provenance": {
+    "origin": "由各大王朝礼部或山上宗门祖师堂颁发，是秩序的物化 体现 。",
+    "karma_link": "连接了山下朝廷对山上修士的管辖，也是阴阳殊途者的 通行证 。"
+  },
+  "enriched": true
+}

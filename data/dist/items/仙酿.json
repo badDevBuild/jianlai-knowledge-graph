@@ -1,0 +1,42 @@
+{
+  "name": "仙酿",
+  "original_name": "灵气醇酒",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "仙酿是浩然天下山上交流的硬通货，不仅能裨益修行， 更是剑客风流的代名词 。“唯有饮者留其名”，它承载了《剑来》中无数豪杰 的壮志与豪情 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1032章 题外话",
+      "owner": "陆沉"
+    },
+    {
+      "chapter": "第1150章 折桂",
+      "owner": "尹仙"
+    }
+  ],
+  "subtype": "滋养/修行类",
+  "holder": "各大仙家宗门",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "不同品阶的仙酿具备洗练经脉、增加道行之奇效，长期 服用可脱胎换骨 。",
+  "supernatural_ability": "蕴含精纯的天地灵气，能够辅助修士破境，亦能稳固受 损的气府 。",
+  "evolution": {
+    "current_form": "盛放在各种仙家瓶罐中的酒液 。",
+    "materials_consumed": [
+      "名山清泉",
+      "百年灵草"
+    ],
+    "potential_evolution": "若浸入“酒虫”，可演化为千载难遇的“道液” 。"
+  },
+  "visual": {
+    "static": "色泽澄澈，宝光盈动，开封后异香扑鼻 。",
+    "active": "饮用时会有灵气如火或如霜在体内流转，映照出修士的 内景气象 。"
+  },
+  "provenance": {
+    "origin": "多出自长春宫、金翠城、酒泉宗等擅长酿造的门派 。",
+    "karma_link": "见证了陈平安这一路走来与诸多酒友、剑客的意气相投 。"
+  },
+  "enriched": true
+}

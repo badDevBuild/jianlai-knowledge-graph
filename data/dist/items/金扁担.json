@@ -1,0 +1,133 @@
+{
+  "name": "金扁担",
+  "original_name": "右护法行头",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "落魄山右护法周米粒最心爱的家当之一，常用来“恐吓”不安分的小家伙 。代表了落魄山核心成员间那种轻松活泼的氛围 。",
+  "aliases": [
+    "金色小扁担"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第569章 山主又要远游",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第600章 学生弟子去见先生师父",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第643章 等个人",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第694章 最高处的山巅境",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第700章 新酒等旧人",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第710章 只驱龙蛇不驱蚊",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第711章 谜语",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第716章 贾生让人失望",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第719章 我是东山啊",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第850章 陈十一",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第872章 天下地上",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第876章 各有渡口",
+      "owner": "小米粒"
+    },
+    {
+      "chapter": "第919章 只是朱颜改",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第957章 青萍峰上",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第971章 不陌生",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第975章 某个门派",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第1012章 白云生处有人家",
+      "owner": "小米粒"
+    },
+    {
+      "chapter": "第1050章 酒桌之上无敌手",
+      "owner": "小米粒"
+    },
+    {
+      "chapter": "第1064章 （1） 白也诗剑两无敌",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第1064章 （2） 某年的杂花生树",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第1094章 就山",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第1107章 陈道友关门待客",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第1114章 山海一片神行",
+      "owner": "周米粒"
+    }
+  ],
+  "subtype": "象征/武运类",
+  "holder": "周米粒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏羡",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "承载了周米粒对“有钱”的质朴向往和武道气势 。",
+  "supernatural_ability": "作为落魄山右护法的身份标志，能增强持有者的巡山意气 。",
+  "evolution": {
+    "current_form": "一根金色的小扁担，由周米粒肩扛 。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "随着周米粒境界提升，可能显化为某种武运重器 。"
+  },
+  "visual": {
+    "static": "通体金黄，玲珑可爱，常与绿竹杖一同出现 。",
+    "active": "巡山时金光闪闪，象征着落魄山的财源与意气 。"
+  },
+  "provenance": {
+    "origin": "魏羡在南苑国皇宫答应赠予周米粒的礼物 。",
+    "karma_link": "源于裴钱对魏羡家是否有“金扁担”的调侃 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "青瓷笔海",
+  "original_name": "仿攒竹笔海",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "陈平安竹楼书案上常见的摆设，其内插满了刻有他游历心得的青神山竹简 。它是落魄山“道理”的重要载体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第640章 愿挽天倾者请起身",
+      "owner": "宋和"
+    }
+  ],
+  "subtype": "文房/收纳类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "若融入特定的文运，可成为孕育文灵的法器 。",
+  "supernatural_ability": "能长久保持笔尖润泽，并能聚拢书房内的清灵之气 。",
+  "evolution": {
+    "current_form": "外表素雅的青瓷筒状物 。",
+    "materials_consumed": [
+      "龙泉灵泥",
+      "青釉"
+    ],
+    "potential_evolution": "作为未来落魄山书斋的核心法物 。"
+  },
+  "visual": {
+    "static": "釉色如雨后晴天，质地细腻，插满了各种刻字的竹简 。",
+    "active": "当主人提笔时，笔海四周会有文气萦绕 。"
+  },
+  "provenance": {
+    "origin": "大骊龙泉郡宝溪窑口烧造 。",
+    "karma_link": "见证了陈平安远游千万里归来后的沉淀与治学 。"
+  },
+  "enriched": true
+}

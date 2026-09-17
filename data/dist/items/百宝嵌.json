@@ -1,0 +1,43 @@
+{
+  "name": "百宝嵌",
+  "original_name": "金桂挂月图案",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是刘羡阳家中博古柜上的精美图案。陈平安一眼认出其材料是家乡特有的蛇胆石。虽然刘羡阳觉得它 不讨喜，但在宁姚眼中却是一件不可多得的雅物。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第517章 读书人和江湖人以及美人",
+      "owner": "大篆周氏皇帝"
+    }
+  ],
+  "subtype": "工艺/装饰类",
+  "holder": "刘羡阳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘氏祖辈",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "由于使用了大量珍稀的蛇胆石，其蕴含的水运精华极高，具收藏价值。",
+  "supernatural_ability": "暂时无显著神通，但其材质对蛟龙之属有天然吸引力。",
+  "evolution": {
+    "current_form": "博古柜后壁镶嵌的装饰图案。",
+    "materials_consumed": [
+      "各色蛇胆石"
+    ],
+    "potential_evolution": "无。"
+  },
+  "visual": {
+    "static": "一株金色桂树，背景为圆月。由无数碾碎的金黄色蛇胆石粘合而成。",
+    "active": "在光照下流溢金辉，展现出某种不属于凡俗的清秀气象。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天泥瓶巷刘氏祖宅的一只老旧博古柜。",
+    "karma_link": "见证了刘家祖辈对家乡特产蛇胆石的独特审美和利用。"
+  },
+  "enriched": true
+}

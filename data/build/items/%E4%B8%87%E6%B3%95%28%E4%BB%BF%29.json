@@ -1,0 +1,48 @@
+{
+  "name": "万法(仿)",
+  "original_name": "仿仙剑万法",
+  "type": "仙剑",
+  "grade": "飞剑",
+  "status": "活跃",
+  "description": "**万法(仿)**是针对雷法道统打造的神兵。虽已跌境， 但其法统根基依然是落魄山研究雷法的珍贵样本。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第777章 还礼",
+      "owner": "吴霜降"
+    },
+    {
+      "chapter": "第779章 剑斩十四",
+      "owner": "吴霜降"
+    }
+  ],
+  "subtype": "攻伐/雷法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随陈平安对雷法造诣的加深，可进阶为半仙兵。",
+  "supernatural_ability": "蕴含龙虎山天师府的雷法真意，出剑自带五雷正法，克 制阴物鬼魅。",
+  "evolution": {
+    "current_form": "遭受重创、品秩跌落严重的仿制剑。",
+    "materials_consumed": [
+      "雷击木",
+      "天师符文"
+    ],
+    "potential_evolution": "若能获得真正的天师印加持，可化为雷池重器。"
+  },
+  "visual": {
+    "static": "剑身呈现紫金色，隐约有电光流转，沉重如山。",
+    "active": "出鞘时伴有闷雷声，能引动方圆数里的天候异变。"
+  },
+  "provenance": {
+    "origin": "吴霜降针对龙虎山天师府仙剑仿制。",
+    "karma_link": "体现了三教百家学问在兵刃上的巅峰汇聚。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "桐荫渡船",
+  "original_name": "桐荫",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是青萍剑宗的重要家底之一，不仅解决了下宗初创时的物流难题，更是落魄山势力在桐叶洲强盛化的 视觉标志 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第964章 再见道士",
+      "owner": "青萍剑宗"
+    },
+    {
+      "chapter": "第1130章 有个不用回答的问题",
+      "owner": "青萍剑宗"
+    }
+  ],
+  "subtype": "跨洲渡船 / 运输类",
+  "holder": "青萍剑宗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "皑皑洲刘氏 (刘聚宝)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为由财神爷刘聚宝亲手赠送的贺礼，其不仅具有极高的商贸运输价值，更承载着一洲财气与山水气运 的衔接能力 。",
+  "supernatural_ability": "具备极其稳健的跨洲航行能力，能够在复杂的天时气象中平稳穿梭，天然具备汇聚财富与商贸因果的神 通 。",
+  "evolution": {
+    "current_form": "停靠在桐叶洲鱼鳞渡的龙舟渡船 。",
+    "materials_consumed": [
+      "云海木精",
+      "大骊剑舟阵法残余"
+    ],
+    "potential_evolution": "可随着青萍剑宗在桐叶洲的扩张，演化为移动的宗门海上行宫 。"
+  },
+  "visual": {
+    "static": "形制宏大如山，船身雕刻有繁复的云水纹路，呈现出古朴而奢华的皑皑洲仙家风格 。",
+    "active": "航行时，船身四周会有青色树荫状的灵气笼罩，如同在云海中扎根前行 。"
+  },
+  "provenance": {
+    "origin": "皑皑洲财神爷刘聚宝赠予陈平安下宗青萍剑宗落成的重礼 。",
+    "karma_link": "象征着落魄山与皑皑洲刘氏深厚的贸易合作伙伴关系 。"
+  },
+  "enriched": true
+}

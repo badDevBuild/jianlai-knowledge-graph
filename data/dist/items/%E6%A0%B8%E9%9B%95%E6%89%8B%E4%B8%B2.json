@@ -1,0 +1,43 @@
+{
+  "name": "核雕手串",
+  "original_name": "远古神灵核桃串",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件非常适合陈平安在体魄虚弱、不宜亲自出手时使用的防身至宝，凭借其蕴含的远古神性，足以 震慑一般的中五境修士。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第482章 另一个朱敛",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类 / 消耗类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘志茂",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "蕴含远古神灵的法力，虽然是消耗品，但每一击皆具备毁灭性杀力 。",
+  "supernatural_ability": "**神灵敕令**：每颗核桃刻有不同神祇，投掷后可召唤风、雨、雷、电、火的神威攻击 。",
+  "evolution": {
+    "current_form": "现有八颗（原为十二颗）刻有神祇模样的核桃手串 。",
+    "materials_consumed": [
+      "远古神性残余"
+    ],
+    "potential_evolution": "不可再生，一旦核桃全部损毁，手串即失去效用 。"
+  },
+  "visual": {
+    "static": "略显稀疏的木质手串，每颗核桃上雕刻有雷神、电母等微缩神像 。",
+    "active": "掷出后核桃瞬间炸裂，显化出相当于金丹地仙倾力一击的法术威势 。"
+  },
+  "provenance": {
+    "origin": "刘志茂在书简湖秘密收藏的远古重器 。",
+    "karma_link": "刘志茂为补偿陈平安在书简湖时期的形神受损而赠予，是极佳的护身之物 。"
+  },
+  "enriched": true
+}

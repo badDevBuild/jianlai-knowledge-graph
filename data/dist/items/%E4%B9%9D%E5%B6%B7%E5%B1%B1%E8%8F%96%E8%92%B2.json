@@ -1,0 +1,48 @@
+{
+  "name": "九嶷山菖蒲",
+  "original_name": "千年灵菖蒲",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这是文人雅士梦寐以求的案头清供，能够将一地的山水 气运转化为绵延不绝的文气 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第978章 今日无事",
+      "owner": "陈暖树"
+    }
+  ],
+  "subtype": "滋养/文运类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "九嶷山神",
+      "relation": "赠予者"
+    },
+    {
+      "name": "文圣",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为凝聚一山水运的灵草，具有滋养书房文气、引导后 辈开智的潜力 。",
+  "supernatural_ability": "叶尖可凝聚文运水滴，长期饮用此水或用其接砚，可使 笔力生神 。",
+  "evolution": {
+    "current_form": "盆栽形式的千年灵草，苍翠欲滴 。",
+    "materials_consumed": [
+      "九嶷山山根灵气",
+      "天下文运"
+    ],
+    "potential_evolution": "若能活至三千年，所产水滴可大如铜钱，具有化腐朽为 神奇之效 。"
+  },
+  "visual": {
+    "static": "叶片修长，色泽如玉，自带一股清新的草木芬芳 。",
+    "active": "在有文气的环境中，叶片会微微摇动，主动吸收天地精 华 。"
+  },
+  "provenance": {
+    "origin": "产自中土神洲九嶷山 。",
+    "karma_link": "九嶷山神为庆祝老秀才恢复文庙位置而送出的重礼 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "风神麈尾",
+  "original_name": "风神拂尘",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "风神麈尾是大源王朝国师杨清恐的标志性法宝。它承载了云霄宫深厚的道统底蕴，是其在多场外交与宗 教祭祀中的核心器物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第927章 与诸君借取千山万水（八）",
+      "owner": "杨清恐"
+    },
+    {
+      "chapter": "第952章 文圣一脉",
+      "owner": "杨清恐"
+    }
+  ],
+  "subtype": "辅助类 / 礼器",
+  "holder": "杨清恐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云霄宫历代祖师",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为大源王朝国师的随身信物，具备引动一洲风雷、敕令众神的潜力 。",
+  "supernatural_ability": "麈尾铭刻“风神”二字，挥动间可驱散邪祟，引动天地气象变化，是斋醮科仪的顶级法器 。",
+  "evolution": {
+    "current_form": "一柄柄部铭刻有“风神”二字的精美麈尾 。",
+    "materials_consumed": [
+      "仙家美木",
+      "风部神灵精魄"
+    ],
+    "potential_evolution": "若能融入上古风伯神性，可进阶为操控一界天时的仙兵 。"
+  },
+  "visual": {
+    "static": "质地非凡，丝线洁白，柄部篆文带有淡淡的流光 。",
+    "active": "挥动时清香扑鼻，有风雷之声隐隐作响，道气极其浑厚 。"
+  },
+  "provenance": {
+    "origin": "大源王朝崇玄署云霄宫的法脉重器 。",
+    "karma_link": "象征着大源国师的地位及其在山水官场中的统辖权柄 。"
+  },
+  "enriched": true
+}

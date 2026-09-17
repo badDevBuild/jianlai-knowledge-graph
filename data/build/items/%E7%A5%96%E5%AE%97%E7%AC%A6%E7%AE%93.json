@@ -1,0 +1,50 @@
+{
+  "name": "祖宗符箓",
+  "original_name": "三山真形图",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是符箓一脉的至高神物，陈平安通过陆沉的秘法加持，使其在蛮荒天下发挥了关键作用 。",
+  "aliases": [
+    "三山符"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第614章 为何话多",
+      "owner": "离真"
+    }
+  ],
+  "subtype": "空间类 / 压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "原主"
+    },
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为天下符箓一脉的开山鼻祖遗留，是能够穿梭光阴、规制山河的终极道符 [14-16]。",
+  "supernatural_ability": "能够敕令神鬼礼敬让道，并通过观想打造出三座连接光阴长河的山市渡口 [16-18]。",
+  "evolution": {
+    "current_form": "绘有远古三山四海五嶽十渎图的古老符箓 。",
+    "materials_consumed": [
+      "降真青绿箓",
+      "白玉京秘法"
+    ],
+    "potential_evolution": "若能补全残篇，可重现三山九侯先生万法宗师的盖世神威 。"
+  },
+  "visual": {
+    "static": "符纸之上山川起伏，云气蒸腾，三山真形各具神态 。",
+    "active": "祭出时天地间出现金色长线，如天门洞开，光阴长河之水在符文两侧自行分流 。"
+  },
+  "provenance": {
+    "origin": "远古天下十豪候补之一的三山九侯先生所创，陆沉传授于陈平安 [14-16]。",
+    "karma_link": "陈平安凭借此符在蛮荒天下长驱直入，并因此与三山九侯先生结下深厚道缘 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,62 @@
+{
+  "name": "跳珠",
+  "original_name": "跳珠",
+  "type": "本命飞剑",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "跳珠是齐狩最根本的杀伐手段之一，以分化之能著称，其品秩成长性在剑气长城年轻一辈中首屈一指 ,。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第576章 拳与飞剑我皆有",
+      "owner": "齐狩"
+    },
+    {
+      "chapter": "第577章 观战剑仙何其多",
+      "owner": "齐狩"
+    },
+    {
+      "chapter": "第578章 文圣一脉师兄弟",
+      "owner": "齐狩"
+    },
+    {
+      "chapter": "第621章 学剑",
+      "owner": "齐狩"
+    },
+    {
+      "chapter": "第622章 对峙",
+      "owner": "齐狩"
+    },
+    {
+      "chapter": "第624章 剑修",
+      "owner": "齐狩"
+    },
+    {
+      "chapter": "第645章 取金丹",
+      "owner": "齐狩"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "齐狩",
+  "holder_relation": "大炼",
+  "rank": "半仙兵",
+  "rank_potential": "当飞剑能够分化出三千六百把时，可对应“坐拥星河”的异象，晋升为仙兵 。",
+  "supernatural_ability": "具备极其惊人的分化神通，可以瞬间幻化出成百上千把飞剑，形成密不透风的剑网 。",
+  "evolution": {
+    "current_form": "如大雨落盘、跳跃不定的飞剑群 。",
+    "materials_consumed": [
+      "星辰砂",
+      "金精铜钱"
+    ],
+    "potential_evolution": "验证白玉京谶语“雨落人间”，成就大范围覆盖的群攻巅峰 。"
+  },
+  "visual": {
+    "static": "单体状态下圆润如珠，内含惊人剑意 。",
+    "active": "漫天飞舞如骤雨，剑光攒簇如星河，视觉效果极其宏大 。"
+  },
+  "provenance": {
+    "origin": "齐狩本命孕育。",
+    "karma_link": "曾在城头上由陈平安以符箓加持，提升了其攻伐威势，是两人并肩作战的见证 。"
+  },
+  "enriched": true
+}

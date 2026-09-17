@@ -1,0 +1,44 @@
+{
+  "name": "引渡符",
+  "original_name": "剑气过桥符 / 白泽路引符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "活跃",
+  "description": "这种符箓不重杀伤而重破门，是云游四方的练气士最钟 爱的辅助工具。每一张符都代表了画符者对天地经纬的 精准把控 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第808章 心声",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "破障/阵法类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐景龙",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若以金色符纸绘制，可作为引渡万千英灵还乡的神圣道 具 。",
+  "supernatural_ability": "能够破开各种山水迷障，并在危险地带指引出生路 。",
+  "evolution": {
+    "current_form": "笔法繁琐、蕴含细微剑意的黄纸符箓 。",
+    "materials_consumed": [
+      "仙家丹砂",
+      "剑气精粹"
+    ],
+    "potential_evolution": "可演化为在光阴长河中开启渡口的“光阴渡口符” 。"
+  },
+  "visual": {
+    "static": "符图如山水脉络，落笔密集成阵，散发出凌厉的震慑感 。",
+    "active": "激发后文字离纸化形，在脚下铺设成一条光彩夺目的道 路 。"
+  },
+  "provenance": {
+    "origin": "齐景龙参考古书与白泽搜山图自创 。",
+    "karma_link": "陈平安在北俱芦洲当包袱斋时以此符化解多次危机 。"
+  },
+  "enriched": true
+}

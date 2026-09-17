@@ -1,0 +1,60 @@
+{
+  "name": "铁锏",
+  "original_name": "雷部符箓铁锏",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一种在北俱芦洲和宝瓶洲高阶修士中较为常见的攻伐重器。其核心价值在于加持的雷部符箓，使其 具备了破开阴霾、震杀大妖的能力 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第143章 百怪（下）",
+      "owner": "青(水蛇精怪)"
+    },
+    {
+      "chapter": "第227章 出剑了",
+      "owner": "武将神像"
+    },
+    {
+      "chapter": "第737章 三本命一十四",
+      "owner": "大骊门神(袁氏老祖)"
+    },
+    {
+      "chapter": "第1122章 二十人与候补们（四）",
+      "owner": "赵铁砚"
+    },
+    {
+      "chapter": "第1131章 三三得几",
+      "owner": "赵铁砚"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "冯雪涛 / 赵铁砚",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "丹井派",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "配合雷法修行可发挥天威，能够压制阴物鬼魅 。",
+  "supernatural_ability": "锏身铭刻有雷部符箓，挥动时可引动雷霆之威，克制邪祟 。",
+  "evolution": {
+    "current_form": "腰间斜别的一枝铁锏",
+    "materials_consumed": [
+      "雷电精华",
+      "五行之金"
+    ],
+    "potential_evolution": "雷部神兵"
+  },
+  "visual": {
+    "static": "玄铁质地，色泽幽暗沉重，锏身上刻有繁密的金色云篆符文 。",
+    "active": "激发时符文爆发出雷光，气势惊人，伴有闷雷声响 。"
+  },
+  "provenance": {
+    "origin": "多见于雷法传承门派，如丹井派等 。",
+    "karma_link": "与持有者的雷法修为相契合，是重要的护身法具 。"
+  },
+  "enriched": true
+}

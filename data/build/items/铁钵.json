@@ -1,0 +1,38 @@
+{
+  "name": "铁钵",
+  "original_name": "佛钵",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是佛门天才须弥的标志性法器。它体现了“一钵水内藏四万八千虫”的佛家宏大空间观，是战场上极为 可怕的控制型重宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第177章 佛观一钵水",
+      "owner": "中年僧人"
+    }
+  ],
+  "subtype": "镇压类 / 储物类",
+  "holder": "少年僧人 (须弥)",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "承载佛门宏愿与功德，内藏无量世界，是针对远古余孽的天然禁锢之物 。",
+  "supernatural_ability": "**“掌中荷池”**。可将巨大的远古神灵或妖魔拘禁在钵内，使其身形化为芥子大小，受困于钵中的荷池 天地 。",
+  "evolution": {
+    "current_form": "一个由少年僧人随身携带、看似寻常的僧人铁钵 。",
+    "materials_consumed": [
+      "佛法真意",
+      "无量功德"
+    ],
+    "potential_evolution": "若能合道西方佛国，可演化为承载众生愿力的圣物 。"
+  },
+  "visual": {
+    "static": "质感古朴沉重，外表无甚装饰，随僧人远游四方 。",
+    "active": "激发时钵内现出拇指大小的朵朵荷花，形成能够磨灭强敌神识的小天地 。"
+  },
+  "provenance": {
+    "origin": "出自西方佛国传承 。",
+    "karma_link": "与少年僧人修行的闭口禅及佛门“降魔”大义紧密相连 。"
+  },
+  "enriched": true
+}

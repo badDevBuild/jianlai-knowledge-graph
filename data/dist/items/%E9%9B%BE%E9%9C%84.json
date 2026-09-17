@@ -1,0 +1,35 @@
+{
+  "name": "雾霄",
+  "original_name": "缺失信息",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "提供的原始资料中未提及名为‘雾霄’的具体法宝。资料中关于‘雾’的描述多与‘云海’、‘山水禁制’相关 。[无]",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第517章 读书人和江湖人以及美人",
+      "owner": "萧叔夜"
+    }
+  ],
+  "subtype": "缺失信息",
+  "holder": "缺失信息",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "缺失信息",
+  "supernatural_ability": "缺失信息",
+  "evolution": {
+    "current_form": "缺失信息",
+    "materials_consumed": [],
+    "potential_evolution": "缺失信息"
+  },
+  "visual": {
+    "static": "资料源中未提供关于此物品的具体描述。[无]",
+    "active": "缺失信息"
+  },
+  "provenance": {
+    "origin": "缺失信息",
+    "karma_link": "缺失信息"
+  },
+  "enriched": true
+}

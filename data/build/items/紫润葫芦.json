@@ -1,0 +1,44 @@
+{
+  "name": "紫润葫芦",
+  "original_name": "绛紫葫芦",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "紫润葫芦本是韩玉树苦心孤诣炼制的本命法宝，专门用于在战斗中释放毁灭性的三昧真火。现已被陈平 安收入囊中，成为其应对强敌的底牌之一。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第750章 万年山巅十一人",
+      "owner": "韩玉树"
+    }
+  ],
+  "subtype": "养火类 / 攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "韩玉树",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为万瑶宗宗主大炼的本命物之一，具备承载并温养极致天火的容量上限 。",
+  "supernatural_ability": "内部开辟有特殊火法天地，能够温养三昧真火 。",
+  "evolution": {
+    "current_form": "绛紫色的小葫芦 。",
+    "materials_consumed": [
+      "三昧真火",
+      "紫金矿石"
+    ],
+    "potential_evolution": "若能吸纳更多种类的异火（如天火、神火），有望演化为焚天煮海的顶级攻伐仙兵。"
+  },
+  "visual": {
+    "static": "外观呈深紫色，质地厚重，表面隐约有火纹流转 。",
+    "active": "祭出时葫芦口会喷涌出赤色火焰，火光如蛇，压制敌方气机 。"
+  },
+  "provenance": {
+    "origin": "三山福地万瑶宗宗主韩玉树的本命法宝 。",
+    "karma_link": "陈平安在太平山之巅斩杀韩玉树后，将其作为战利品“见好就收” 。"
+  },
+  "enriched": true
+}

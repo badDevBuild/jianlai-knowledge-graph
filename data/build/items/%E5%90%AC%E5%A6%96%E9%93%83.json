@@ -1,0 +1,71 @@
+{
+  "name": "听妖铃",
+  "original_name": "宝塔铃",
+  "type": "灵器",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是张山峰在游历过程中的关键保命物件。它不仅能帮助修士在深山中规避妖物，更能清明心境，防止 被鬼物迷障干扰 。",
+  "aliases": [
+    "听妖铃铛",
+    "听妖铃"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第214章 风雨夜行",
+      "owner": "张山"
+    },
+    {
+      "chapter": "第215章 画眉",
+      "owner": "张山"
+    },
+    {
+      "chapter": "第223章 小街一战",
+      "owner": "年轻道士"
+    },
+    {
+      "chapter": "第234章 夜宿古寺有妖气",
+      "owner": "张山峰"
+    },
+    {
+      "chapter": "第236章 一山还有一山高",
+      "owner": "柳赤诚"
+    },
+    {
+      "chapter": "第237章 小暑过后，春风犹在",
+      "owner": "张山峰"
+    }
+  ],
+  "subtype": "示警/破障类",
+  "holder": "张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大源王朝某古寺",
+      "relation": "原主"
+    },
+    {
+      "name": "余远",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "名列《无声集》，属于佛家珍稀灵器，具有进化为更高阶佛门法器的可能 。",
+  "supernatural_ability": "惊觉与示警：遇妖鬼靠近会无风自响，震荡清音破除魅惑；亦具破障之功，可看破山水迷障 。",
+  "evolution": {
+    "current_form": "古朴的青铜宝塔状铃铛 。",
+    "materials_consumed": [
+      "佛门香火",
+      "灵气"
+    ],
+    "potential_evolution": "佛门金刚降魔铃"
+  },
+  "visual": {
+    "static": "形如微缩宝塔，质地沉稳，表面带有岁月浸染的青铜锈迹 。",
+    "active": "感应到龙门境以下妖物时会发出急促响声，铃声如洪钟大吕，震慑阴魂 。"
+  },
+  "provenance": {
+    "origin": "源自大源王朝的一座古寺，后在深山洞窟的白骨身上被现任主人寻得 。",
+    "karma_link": "与陈平安、徐远霞一同作为斩妖除魔的随身利器，多次在危险边缘预警 。"
+  },
+  "enriched": true
+}

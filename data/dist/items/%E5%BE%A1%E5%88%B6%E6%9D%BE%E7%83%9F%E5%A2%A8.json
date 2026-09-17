@@ -1,0 +1,56 @@
+{
+  "name": "御制松烟墨",
+  "original_name": "木公先生",
+  "type": "灵物",
+  "grade": "珍品",
+  "status": "活跃",
+  "description": "这是一块具有**“灵性”的御制名墨**，其背后的古松曾被敕封为“木公先生”。 它不仅是珍贵的书写材料，更是文运凝聚的象征。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第475章 水堵不如疏",
+      "owner": "洪扬波(青蚨坊)"
+    },
+    {
+      "chapter": "第870章 惜哉",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文房清供 / 滋养类",
+  "holder": "杨朴 (陈平安转赠)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "洪扬波 (青蚨坊)",
+      "relation": "原主"
+    },
+    {
+      "name": "神水国朝廷",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因其取自神水国受敕封的千年古松，承载了一国文运遗泽。",
+  "supernatural_ability": "**月下松道人异象**。每逢明月之夜，古墨上会出现一位如蝇般大小的小道人，自称“黑松使者”。",
+  "evolution": {
+    "current_form": "一块古色古香的墨锭。",
+    "materials_consumed": [
+      "未醉松烟",
+      "神水国文运"
+    ],
+    "potential_evolution": "若由大儒书写祭文或封正，可演化为具有护道能力的文房重器。"
+  },
+  "visual": {
+    "static": "色泽深沉，带有古朴的松烟香气。",
+    "active": "月光照射下，**墨锭上会有灵动的小道人行走**。"
+  },
+  "provenance": {
+    "origin": "取材于神水国被毁的千年古松“未醉松”。",
+    "karma_link": "陈平安在青蚨坊以高价买下，后因杨朴的读书人风骨将其转赠，促成了一段文脉缘分。"
+  },
+  "enriched": true
+}

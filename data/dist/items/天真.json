@@ -1,0 +1,96 @@
+{
+  "name": "天真",
+  "original_name": "仙剑天真",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "浩然天下四把名气最大的仙剑之一，长久留存于剑气长城，后由天下第一人宁姚持有 , , 。它代表了纯粹至极的剑道，其剑气可照彻大千世界 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第727章 五至高，四仙剑，一白也",
+      "owner": "宁姚(暂持)"
+    },
+    {
+      "chapter": "第728章 李花太白虎头帽",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第732章 问剑高位",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第734章 逢雪宿芙蓉山",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第775章 会一会十四境",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第778章 谈笑中",
+      "owner": "吴霜降"
+    },
+    {
+      "chapter": "第782章 天下圣贤豪杰",
+      "owner": "吴霜降"
+    },
+    {
+      "chapter": "第839章 青出于蓝而胜于蓝",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第861章 开山",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第864章 单挑",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第912章 如此问剑",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第1147章 入室操戈",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第1158章 护道",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第1160章 第三把飞剑",
+      "owner": "宁姚"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "宁姚",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "剑气长城",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "四把最强仙剑之一，其杀力上限受持有者宁姚的剑道境界加持，几乎无止境 , 。",
+  "supernatural_ability": "具备极其纯粹的剑意，能够洞穿一切防御与禁制，且剑气能与半座剑气长城产生感应 , 。",
+  "evolution": {
+    "current_form": "归宁姚持有的绝世仙剑 。",
+    "materials_consumed": [
+      "万年剑气精华",
+      "天地灵性"
+    ],
+    "potential_evolution": "作为宁姚跻身飞升境及以上境界的根本物，能随着其合道而不断升华 , 。"
+  },
+  "visual": {
+    "static": "剑气内敛，藏于剑匣内，外观并不招摇但神意凛然 , 。",
+    "active": "出剑时剑光七彩琉璃，璀璨夺目，能在一瞬间破开天幕或重创高位神灵 , 。"
+  },
+  "provenance": {
+    "origin": "远古时代遗留在剑气长城的仙兵 。",
+    "karma_link": "是宁姚家族及其自身的剑道凭证，亦是维系两座天下平衡的关键力量 , 。"
+  },
+  "enriched": true
+}

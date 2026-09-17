@@ -1,0 +1,50 @@
+{
+  "name": "平安玉牌",
+  "original_name": "无字玉牌 / 素白玉牌",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "遗失",
+  "description": "这块玉牌在陈平安手中不仅是储物工具，更是他在极端环境下保存重宝的关键手段，其质地细腻，象征 着君子温润如玉的品格 。",
+  "aliases": [
+    "无事牌"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第247章 就此一别，山高水长",
+      "owner": "周矩"
+    }
+  ],
+  "subtype": "空间类 / 纪念类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    },
+    {
+      "name": "郑大风",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为“最小洞天”，随持有者境界提升可不断扩张内部山水气象，甚至能容纳生灵修行 。",
+  "supernatural_ability": "芥子纳须弥，能够隔绝外界感应，收纳大量天材地宝与重型器物 。",
+  "evolution": {
+    "current_form": "无字玉牌，后被陈平安亲手雕刻文字 。",
+    "materials_consumed": [
+      "光阴流水",
+      "神仙钱"
+    ],
+    "potential_evolution": "演化为具备独立天时运行规则的小洞天 。"
+  },
+  "visual": {
+    "static": "材质如同世间最好的绸缎，素雅至极，表面刻有“言念君子，温其如玉”八字 。",
+    "active": "开启时府门微动，产生微妙的空间涟漪，能瞬间摄取或放出大型物品 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天，是齐静春留给陈平安的关键遗物之一 。",
+    "karma_link": "承载了齐静春对陈平安的期许，是陈平安早期最重要的储物法宝 。"
+  },
+  "enriched": true
+}

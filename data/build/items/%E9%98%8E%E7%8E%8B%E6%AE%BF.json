@@ -1,0 +1,51 @@
+{
+  "name": "阎王殿",
+  "original_name": "下狱",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**阎罗殿**是陈平安在书简湖期间获得的关键法宝，用于在幽明殊途的规则下，为那些枉死的生灵寻找 最后的寄托 。",
+  "aliases": [
+    "\"下狱\"阎罗殿",
+    "下狱阎罗殿"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第440章 又一年下雪时",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "拘押 / 养魂类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "马远致",
+      "relation": "夺取自"
+    },
+    {
+      "name": "刘志茂",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "虽为该系列法宝的入门级（下狱），但具有进阶为“大狱”品相的底蕴 。",
+  "supernatural_ability": "专门用于拘押阴灵鬼物，内部设有三百六十五间独立屋舍，可在阴风缭绕中温养残损魂魄 。",
+  "evolution": {
+    "current_form": "一臂高的阴沉木材质袖珍阁楼 。",
+    "materials_consumed": [
+      "阴煞之气",
+      "神仙钱"
+    ],
+    "potential_evolution": "若能扩张为三千六百间屋舍，可成为承载鬼修阴神远游的极高位阶道场 。"
+  },
+  "visual": {
+    "static": "造型古朴阴森的木质阁楼，底座篆刻有古隶“下狱”二字 。",
+    "active": "释放时散发出惨淡青烟，鬼物缩为芥子大小后依次入驻其中 。"
+  },
+  "provenance": {
+    "origin": "书简湖青峡岛密库的珍藏，曾归鬼修马远致所有 。",
+    "karma_link": "陈平安用其收拢书简湖横死冤魂，是其推行“账房逻辑”的重要载体 。"
+  },
+  "enriched": true
+}

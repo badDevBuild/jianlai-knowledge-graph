@@ -1,0 +1,44 @@
+{
+  "name": "剑坊制式长剑",
+  "original_name": "剑气长城标准佩剑",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是剑气长城最纯粹的战斗工具。不谈品秩只谈杀敌，许多大剑仙如岳青弃半仙兵不用，偏好此剑，只 为那份扎实的触感 [28-30]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第662章 去而复还",
+      "owner": "阿良"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "剑气长城剑修 / 岳青",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "董家剑坊",
+      "relation": "制作方"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽非本命，但在杀妖如剪草的战场砥砺下，可诞生极强的凶戾剑气 。",
+  "supernatural_ability": "坚韧无比，专为战场厮杀设计，是大剑仙岳青等人的首选兵器 。",
+  "evolution": {
+    "current_form": "工艺稳当、分量扎实的标准长剑 。",
+    "materials_consumed": [
+      "战场妖族鲜血",
+      "丹坊碎石"
+    ],
+    "potential_evolution": "可作为剑修在失去本命飞剑后的临时寄托物 。"
+  },
+  "visual": {
+    "static": "造型古朴，无甚装饰，带有厚重的工业质感 。",
+    "active": "与剑修剑意产生共鸣时，会发出阵阵龙鸣声，杀力极强 。"
+  },
+  "provenance": {
+    "origin": "由剑气长城董家掌管的剑坊大规模铸造 。",
+    "karma_link": "是大批无名剑修慷慨赴死的无声见证 。"
+  },
+  "enriched": true
+}

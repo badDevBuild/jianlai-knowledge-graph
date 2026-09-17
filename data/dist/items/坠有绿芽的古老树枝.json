@@ -1,0 +1,44 @@
+{
+  "name": "坠有绿芽的古老树枝",
+  "original_name": "礼圣树枝",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这根树枝曾被未来的礼圣用来在地上书写规矩，代表了 从蛮荒到浩然的一种秩序转变，后被陆沉用于游戏人间 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1006章 开战",
+      "owner": "白景 (后归陈平安)"
+    }
+  ],
+  "subtype": "法理/演化类",
+  "holder": "陆沉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "小夫子（礼圣）",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "承载礼圣最初在蛮荒大地圈画大道的真意，是世界秩序 演化的见证。",
+  "supernatural_ability": "能够在虚空中戳点、圈画，其声咄咄，轨迹牵引天时地 利 。",
+  "evolution": {
+    "current_form": "一根平平无奇、坠有绿芽的普通树枝 。",
+    "materials_consumed": [
+      "远古神性",
+      "圣贤道蕴"
+    ],
+    "potential_evolution": "可演化为支撑天地“礼法”的根本律令。"
+  },
+  "visual": {
+    "static": "看起来是一截带有嫩绿芽孢的枯木，质地轻洁 。",
+    "active": "陆沉持此时，树梢在地面蹦跳会发出有节奏的响声，干 扰他人眼中的真实相貌 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代，小夫子以此在地上圈画道理 。",
+    "karma_link": "陆沉远游浩然天下时随身携带，是其解谜与博弈的工具 。"
+  },
+  "enriched": true
+}

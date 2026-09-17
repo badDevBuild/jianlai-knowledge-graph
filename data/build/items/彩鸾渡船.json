@@ -1,0 +1,44 @@
+{
+  "name": "彩鸾渡船",
+  "original_name": "青鸾符 / 金阙仙府仙槎",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是将符箓之道与飞行功能结合的奇物，是金阙仙府嫡传弟子的尊贵象征，即便在禁空区域亦有不俗表 现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第899章 邻居",
+      "owner": "叶芸芸"
+    }
+  ],
+  "subtype": "坐骑类 / 位移类",
+  "holder": "金阙仙府嫡传",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "金阙仙府",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为金阙仙府的标志性法宝，具有极高的空域穿梭能力和仙家门面价值 。",
+  "supernatural_ability": "符箓化形：能由一张薄纸符箓幻化为真实的五彩青鸾坐骑或小型渡船，速度快若流光 。",
+  "evolution": {
+    "current_form": "一张流光溢彩、铭刻鸾鸟纹路的符箓 。",
+    "materials_consumed": [
+      "云气精华",
+      "飞升道韵"
+    ],
+    "potential_evolution": "若融入真凤残魂，可进阶为具备实战能力的护道灵兽 。"
+  },
+  "visual": {
+    "static": "一张巴掌大小、金光萦绕的精美符纸 。",
+    "active": "化作身披五彩羽毛、体态优美的青鸾或木桩形状的仙槎，在云海中划出流萤轨迹 。"
+  },
+  "provenance": {
+    "origin": "宝瓶洲金阙仙府 。",
+    "karma_link": "金阙仙府嫡传子弟的专属代步工具，曾出现在战场遗址 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "枭首",
+  "original_name": "枭首刀",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "枭首是铁树山掌门郭藕汀的佩刀，其根脚源自远古天庭的行刑台 。它不仅是一件锋利无比的战刀，更因其特殊的历史功用而对天下水裔具备绝对的威慑力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第784章 议事",
+      "owner": "郭藕汀"
+    }
+  ],
+  "subtype": "攻伐类 / 压胜类",
+  "holder": "郭藕汀",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古神灵",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古行刑台上的神炼重器，其杀力下限即为上五境，具备斩杀高阶龙族的大道压胜力 。",
+  "supernatural_ability": "具备极其浓郁的血腥戾气，天然压胜蛟龙水裔 。其锋刃曾浸染无数龙族鲜血，即便未曾行刑，亦能令龙族见之胆寒 。",
+  "evolution": {
+    "current_form": "实物战刀。",
+    "materials_consumed": [
+      "远古神性金属",
+      "龙族精血"
+    ],
+    "potential_evolution": "未知。"
+  },
+  "visual": {
+    "static": "刀身血迹斑斑，透着一股让人生畏的腥红杀气 。",
+    "active": "出鞘时煞气冲天，能够瞬间锁定并压制具有龙族血脉的生灵 。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭行刑台，是专门针对获罪神灵与龙族的重器 。",
+    "karma_link": "与甲剑、破山戟、斩勘刀并称为行刑台四件神炼重器 。"
+  },
+  "enriched": true
+}

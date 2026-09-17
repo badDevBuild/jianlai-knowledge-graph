@@ -1,0 +1,38 @@
+{
+  "name": "西园雅集图卷",
+  "original_name": "西园雅集图",
+  "type": "典籍",
+  "grade": "珍品",
+  "status": "活跃",
+  "description": "**记载了名士聚会盛况的传世图卷** 。它是落魄山藏书体系中极具分量的一件艺术重宝，象征着文脉的昌盛 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第741章 我那陈道友",
+      "owner": "苏子"
+    }
+  ],
+  "subtype": "艺术/气运类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "记载了文人名士的文气汇聚，具备稳固宗门文运之效。",
+  "supernatural_ability": "图中人物与景致皆蕴含神韵，可辅助读书人入定并抵御心魔 。",
+  "evolution": {
+    "current_form": "长卷式样的精美绘画 。",
+    "materials_consumed": [
+      "儒家文运",
+      "名家笔墨"
+    ],
+    "potential_evolution": "可演化为显化名士英灵的“斯文正宗”阵图"
+  },
+  "visual": {
+    "static": "画面线条细腻，工笔绘就各路名士聚会的盛况，文气盎然 。",
+    "active": "徐徐展开时，画中景物栩栩如生，甚至有天籁声从中传出 。"
+  },
+  "provenance": {
+    "origin": "由浩然天下顶尖丹青圣手临摹或创作 。",
+    "karma_link": "承载了陈平安对浩然斯文传承的敬重与收集之意 。"
+  },
+  "enriched": true
+}

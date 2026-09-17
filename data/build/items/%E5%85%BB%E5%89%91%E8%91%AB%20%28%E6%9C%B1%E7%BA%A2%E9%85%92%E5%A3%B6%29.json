@@ -1,0 +1,55 @@
+{
+  "name": "养剑葫 (朱红酒壶)",
+  "original_name": "姜壶",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安标志性的法宝之一，谐音**“江湖”**。它不仅是陈平安存放飞剑的容器，更是他从泥腿子向 修道之人转变的物质象征，陪伴其走遍数洲。",
+  "aliases": [
+    "朱红酒壶",
+    "养剑葫"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第380章 离别之后又有重逢",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "温养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    },
+    {
+      "name": "大骊宋氏",
+      "relation": "原主"
+    },
+    {
+      "name": "姜姓剑修",
+      "relation": "遗物原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为承载飞剑的法器，其品相可随温养飞剑的杀力提升而缓慢增长。",
+  "supernatural_ability": "能够温养两到三把飞剑（如初一、十五），使其意气相通；内部空间可盛放美酒，具备滋养剑意与洗剑 之效。",
+  "evolution": {
+    "current_form": "朱红色的精巧小葫芦。",
+    "materials_consumed": [
+      "天地灵气",
+      "仙家酒酿"
+    ],
+    "potential_evolution": "可进化为能够温养更多飞剑并具备更高压胜上限的法器。"
+  },
+  "visual": {
+    "static": "色泽温润，样式古朴，底款篆刻有“姜壶”二字。",
+    "active": "葫芦口有微光闪烁，飞剑可化虚入体，产生细微的灵气漩涡。"
+  },
+  "provenance": {
+    "origin": "大骊王朝的旧藏物资，由魏檗代大骊朝廷赠予陈平安。",
+    "karma_link": "陈平安获得的第一枚养剑葫，名字谐音“江湖”，与其远游心境相契合。"
+  },
+  "enriched": true
+}

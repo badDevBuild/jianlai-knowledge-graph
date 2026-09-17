@@ -1,0 +1,51 @@
+{
+  "name": "蝉蜕洞天",
+  "original_name": "古蜀遗址 / 飞升台",
+  "type": "其他",
+  "grade": "洞天",
+  "status": "活跃",
+  "description": "古蜀最著名的遗址。它不仅是灵气充沛的修道之地，更 是承载了远古剑道极致追求的神秘空间 [39-41]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第800章 牵红线",
+      "owner": "无"
+    },
+    {
+      "chapter": "第917章 读书声里太平道上",
+      "owner": "胡沣"
+    },
+    {
+      "chapter": "第1013章 风雨桃李荠菜花",
+      "owner": "胡沣(原) -> 董水井(新)"
+    }
+  ],
+  "subtype": "修行/道场类",
+  "holder": "田婉 (曾觊觎/掌握线索)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古剑仙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "可容纳飞升境修士修行，其内赤松山遍地天材地宝 。",
+  "supernatural_ability": "仙心脱化，遗留皮囊若蝉蜕。内含绛阙仙府与丹溪，可 炼化为顶级本命道场 。",
+  "evolution": {
+    "current_form": "独立于世的洞天福地 。",
+    "materials_consumed": [
+      "山河气运"
+    ],
+    "potential_evolution": "可演化为承载“人性”与“神性”分离的终极试验场 。"
+  },
+  "visual": {
+    "static": "山脉起伏，赤松遍布，云雾缭绕，宫阙隐现 。",
+    "active": "大阵开启时，金光穿透云海，显化出远古剑仙升天的景 象 。"
+  },
+  "provenance": {
+    "origin": "远古多位剑仙蝉脱飞升之所 。",
+    "karma_link": "崔东山苦寻多年，旨在以此补齐先生的大道缺口 。"
+  },
+  "enriched": true
+}

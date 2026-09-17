@@ -1,0 +1,45 @@
+{
+  "name": "玲珑精魅",
+  "original_name": "花草娘 / 纺织小娘",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这类精魅是**山上修行雅趣与生产力结合的产物**。它们在《剑来》中 代表了自然生机的‘开窍’与对和谐秩序的追求 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第447章 这么巧，我也是剑客",
+      "owner": "曾先生"
+    }
+  ],
+  "subtype": "辅助/精魅类",
+  "holder": "落魄山 / 山上富豪",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "春露圃 / 倒悬山店铺",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "通过吸纳文运或花气，可进化为能够掌管一地花信的‘护花使’ 。",
+  "supernatural_ability": "体型极小，仅有一指高。能辅助修士打理庭院、养花、整理书籍，或者 通过纺织灵线产出法袍材料 。",
+  "evolution": {
+    "current_form": "形态各异的小人儿，有的背生双翅，有的立于砚台之上 。",
+    "materials_consumed": [
+      "日月精华",
+      "百花香泽",
+      "神仙钱"
+    ],
+    "potential_evolution": "极少数能开启灵智，成为正式的宗门子弟 。"
+  },
+  "visual": {
+    "static": "娇小玲珑，五官精致，穿着微型的各色法袍 。",
+    "active": "行动敏捷，伴有细微的呼喝声或金石碰撞声，劳作时带起阵阵灵气涟漪 。"
+  },
+  "provenance": {
+    "origin": "多诞生于灵气极其浓郁的洞天福地，如百花福地 。",
+    "karma_link": "陈平安曾多次购买此类精魅送回落魄山，丰富了山头的‘生气’与家底 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "宁府青衫法袍",
+  "original_name": "春草",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "陈平安在剑气长城和宁府居住期间最心仪的法袍，以其“春意盎然”的灵性见长，能弥补修士**长生桥** 的先天缺陷 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第649章 同道中人",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助类 / 防御类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴懿",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为**紫阳府**开山重宝，具有极强的灵气亲和度，可随着修士境界稳步成长 , 。",
+  "supernatural_ability": "能够极大程度地帮助练气士**汲取、蓄存**天地灵气，滋润气府经脉 , 。",
+  "evolution": {
+    "current_form": "湛青色长袍 。",
+    "materials_consumed": [
+      "天地清气",
+      "水木之精"
+    ],
+    "potential_evolution": "可温养至**半仙兵**品秩，成为支撑本命气府的大道法衣 。"
+  },
+  "visual": {
+    "static": "由细密竹丝编织而成的**湛青色**长衫，质地轻盈且色泽古朴 。",
+    "active": "行走间有淡淡的草木清香萦绕，灵气流转如微风拂面 。"
+  },
+  "provenance": {
+    "origin": "黄庭国紫阳府开山老祖吴懿所赠 。",
+    "karma_link": "陈平安在宁府居住及远游途中常穿此袍，使其被视为其标志性装束 , 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "招魂幡",
+  "original_name": "剑仙幡子",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "招魂幡是鬼道修行的核心法宝，通过禁锢魂魄来增强持有者的杀力，是战场上极为阴邪却强大的重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第123章 狭路相逢",
+      "owner": "跛脚少年"
+    }
+  ],
+  "subtype": "禁锢类",
+  "holder": "马远致",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "离真",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "若能收集足够多的强大阴魂，可演化为**阎罗殿**一类的镇山重器 。",
+  "supernatural_ability": "能够**拘押、收拢魂魄**，尤其是对战死沙场的英灵鬼物有极强的牵引作用 。",
+  "evolution": {
+    "current_form": "古朴的长杆幡子 。",
+    "materials_consumed": [
+      "阴冥气息",
+      "战死者魂魄"
+    ],
+    "potential_evolution": "镇魔大纛 。"
+  },
+  "visual": {
+    "static": "幡杆古旧，其上绘有神秘的**银色符字**或星图 。",
+    "active": "挥动时阴风阵阵，可释放出受控的阴兵或剑仙英灵结阵杀敌 。"
+  },
+  "provenance": {
+    "origin": "原本是离真布阵的重宝之一，后成为鬼修传承的法具 。",
+    "karma_link": "与书简湖鬼修一脉及战场英灵的因果深度绑定 。"
+  },
+  "enriched": true
+}

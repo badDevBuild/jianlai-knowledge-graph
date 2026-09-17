@@ -1,0 +1,61 @@
+{
+  "name": "师刀",
+  "original_name": "法刀 / 獍神 / 甲作",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是**“山上难缠鬼”之一的标配武器**。师刀房道士行事随心所欲，其 刀法与道法融合，是妖魔邪道的克星 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第390章 高明之家，法刀道士",
+      "owner": "佩刀女冠"
+    },
+    {
+      "chapter": "第392章 山雨欲来符满楼",
+      "owner": "女冠"
+    },
+    {
+      "chapter": "第488章 缘来情根深种",
+      "owner": "虢池仙师"
+    },
+    {
+      "chapter": "第648章 随便破境",
+      "owner": "陈平安(战利品)"
+    },
+    {
+      "chapter": "第794章 明白",
+      "owner": "嫩道人"
+    }
+  ],
+  "subtype": "压胜/攻伐类",
+  "holder": "柳伯奇 / 师刀房道士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "倒悬山师刀房",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "顶级师刀（如獍神）在师刀房排名极高，具备斩杀上五境妖物的威能 。",
+  "supernatural_ability": "专门用于镇压、斩杀强悍的大妖与精魅，具有极强的破邪属性，甚至能 针对神灵金身进行裁撤 [26-28]。",
+  "evolution": {
+    "current_form": "形式多样的法刀，有的如长剑般纤细，有的厚重如山 。",
+    "materials_consumed": [
+      "雷击木",
+      "上古神金",
+      "大妖精血"
+    ],
+    "potential_evolution": "最终形态可演化为具有自主意识的“刀灵”。"
+  },
+  "visual": {
+    "static": "刀身往往铭刻有复杂的云篆或神像，气息冷冽肃杀 。",
+    "active": "出鞘时伴随雷鸣或异兽咆哮，刀气能显化为持刀神人虚像辅助战斗 。"
+  },
+  "provenance": {
+    "origin": "源自道老二（余斗）一脉的支流法统，位于倒悬山师刀房 。",
+    "karma_link": "代表了道门中最为强势、不讲道理的一支杀伐力量 。"
+  },
+  "enriched": true
+}

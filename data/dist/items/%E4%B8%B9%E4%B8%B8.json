@@ -1,0 +1,47 @@
+{
+  "name": "丹丸",
+  "original_name": "泥封丹药",
+  "type": "丹药",
+  "grade": "灵药",
+  "status": "消耗品",
+  "description": "这是一种在山上极为昂贵且有钱难买的保命丹药 。它不仅适用于练气士，更能通过修补武夫体魄缺陷，帮助其在武道山巅走得更远 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第606章 出言便作狮子鸣",
+      "owner": "崔东山 -> 纳兰夜行"
+    },
+    {
+      "chapter": "第618章 夏日炎炎，风雪路远",
+      "owner": "林君璧"
+    }
+  ],
+  "subtype": "辅助修行类",
+  "holder": "朱河",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若能搭配武学秘籍如《紫气书》服用，可稳破中五境瓶颈 。",
+  "supernatural_ability": "名为“英雄胆”，能帮助服药之人凝聚散于窍穴气府的魂魄，结出供阴神栖息的“宅子” 。",
+  "evolution": {
+    "current_form": "一颗泥封包裹的丹药 。",
+    "materials_consumed": [
+      "真武山独门灵材"
+    ],
+    "potential_evolution": "服用后可使纯粹武夫多出半条命，稳步跻身第六、七境 。"
+  },
+  "visual": {
+    "static": "外表平平，被泥封严密包裹，不显灵气 。",
+    "active": "拆封后灵气喷薄，丹液晶莹，服用时体魄生发如枯木逢春 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲兵家祖庭真武山 。",
+    "karma_link": "魏檗将其与《紫气书》一同赠予朱河父女，助其武道登高 。"
+  },
+  "enriched": true
+}

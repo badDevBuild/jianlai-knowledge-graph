@@ -1,0 +1,46 @@
+{
+  "name": "赵氏家主字帖",
+  "original_name": "天水赵氏馆阁体墨宝",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "赵氏家主的文字是大骊官方审美的标杆，不仅在庙堂之 上地位崇高，在山上文人圈亦备受追捧 , 。",
+  "aliases": [
+    "天水赵氏家主真迹"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第882章 花实",
+      "owner": "刘袈（受赠）"
+    }
+  ],
+  "subtype": "文运/字帖类",
+  "holder": "大骊礼部 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "赵氏家主",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "承载天水赵氏这一世族门阀的文气，可转化为辅助读书 人定神入静的文宝 , 。",
+  "supernatural_ability": "字体法度严谨，蕴含官气与文运，对寻常邪祟具有天然 的“文字压胜”作用 。",
+  "evolution": {
+    "current_form": "法度森严的馆阁体字帖，多见于大骊官署刻印本 。",
+    "materials_consumed": [
+      "浩然文气",
+      "御制墨液"
+    ],
+    "potential_evolution": "若得儒家圣人封正，可演化为镇压一地官场风气的“礼 器” 。"
+  },
+  "visual": {
+    "static": "字迹规矩端正，笔力深厚，纸张质地非凡 。",
+    "active": "研读时文字隐隐放光，可形成正气屏障，使人心境澄明 。"
+  },
+  "provenance": {
+    "origin": "大骊上柱国姓氏之首的天水赵氏家主亲笔 。",
+    "karma_link": "是大骊朝廷用于笼络人心与建立规矩的文化软实力象征 。"
+  },
+  "enriched": true
+}

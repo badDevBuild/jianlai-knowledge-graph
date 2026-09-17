@@ -1,0 +1,266 @@
+{
+    "meta": {
+        "chapter_id": 0,
+        "chapter_title": "Character Profile: 陈平安"
+    },
+    "characters": [
+        {
+            "name": "陈平安",
+            "is_identified": true,
+            "aliases": [
+                "曹沫",
+                "陈隐官",
+                "陈好人",
+                "陈迹",
+                "二店主",
+                "隐官",
+                "年轻隐官",
+                "落魄山山主",
+                "文圣关门弟子",
+                "二掌柜",
+                "泥腿子"
+            ],
+            "bio": "落魄山山主，剑气长城末代隐官，文圣一脉关门弟子。早年为骊珠洞天泥瓶巷孤儿，曾为龙窑学徒，因本命瓷破碎命途多舛，后凭借坚韧心性走上修行之路，成为浩然天下顶尖强者。",
+            "appearance": {
+                "facial": "早期肤色黝黑如炭，双眼沉稳寂静（古井无波）；成年后模样周正，两鬓微霜，入定出拳时双眼有金光流动。",
+                "physique": "身材修长消瘦，但气血极其旺盛。",
+                "attire": "常穿青衫长褂或白色长袍，脚踩草鞋，发髻别白玉簪子。拥有法袍'金醴'及'百睛饕餮'。",
+                "aura": "日常温文尔雅带书卷气；战斗时气血如火炉，坚韧且杀气凛然。"
+            },
+            "cultivation": {
+                "path": "纯粹武夫",
+                "realm": "十境",
+                "realm_name": "止境",
+                "stage": "气盛（曾至归真）",
+                "visual_traits": "气血如火炉",
+                "notes": "兼修练气士玉璞境（九境），拥有元婴底蕴"
+            },
+            "techniques": [
+                {
+                    "name": "撼山谱",
+                    "type": "武学",
+                    "category": "拳法",
+                    "relation": "练习",
+                    "description": "武道根基，包含六步走桩、剑炉立桩、睡桩'千秋'及天地桩。"
+                },
+                {
+                    "name": "神人擂鼓式",
+                    "type": "武学",
+                    "category": "拳法",
+                    "relation": "使用",
+                    "description": "极重先手，拳势累加，拳意磅礴如洪水倾泻。"
+                },
+                {
+                    "name": "云蒸大泽式",
+                    "type": "武学",
+                    "category": "拳法",
+                    "relation": "使用",
+                    "description": "拳架古朴，牵动磅礴拳意，曾以此击退蛟龙。"
+                },
+                {
+                    "name": "铁骑凿阵式",
+                    "type": "武学",
+                    "category": "拳法",
+                    "relation": "使用",
+                    "description": "刚猛路数，适用于突进厮杀。"
+                },
+                {
+                    "name": "笼中雀",
+                    "type": "剑术",
+                    "category": "剑招",
+                    "relation": "使用",
+                    "description": "本命飞剑，小天地内无敌。"
+                },
+                {
+                    "name": "井中月",
+                    "type": "剑术",
+                    "category": "剑招",
+                    "relation": "使用",
+                    "description": "本命飞剑，剑化千万。"
+                },
+                {
+                    "name": "剑气十八停",
+                    "type": "剑术",
+                    "category": "剑诀",
+                    "relation": "练习",
+                    "description": "习自阿良，运气法门，用于淬炼神魂气府。"
+                },
+                {
+                    "name": "梦游剑术",
+                    "type": "剑术",
+                    "category": "剑诀",
+                    "relation": "学习",
+                    "description": "习自刘羡阳，可神游梦境。"
+                },
+                {
+                    "name": "丹书真迹",
+                    "type": "符箓",
+                    "category": "符咒",
+                    "relation": "练习",
+                    "description": "掌握宝塔镇妖符、缩地符、阳气挑灯符等。"
+                },
+                {
+                    "name": "雷局",
+                    "type": "符箓",
+                    "category": "阵法",
+                    "relation": "使用",
+                    "description": "融合雷法、符箓、阵法，威力如天劫。"
+                }
+            ],
+            "faction": "落魄山",
+            "tags": [
+                "止境武夫",
+                "玉璞境剑修",
+                "隐官",
+                "山主",
+                "窑工",
+                "孤儿"
+            ],
+            "chapter_experience": "",
+            "state_snapshots": [],
+            "unidentified_info": null
+        }
+    ],
+    "relations": [
+        {
+            "source": "陈平安",
+            "target": "宁姚",
+            "type": [
+                "道侣"
+            ],
+            "evidence": "定下十年之约，承认是'宁姚的男人'。"
+        },
+        {
+            "source": "陈平安",
+            "target": "文圣",
+            "type": [
+                "师徒"
+            ],
+            "evidence": "文圣关门弟子。"
+        },
+        {
+            "source": "陈平安",
+            "target": "齐静春",
+            "type": [
+                "同门",
+                "护道"
+            ],
+            "evidence": "代师传道的师兄，精神引路人。"
+        },
+        {
+            "source": "陈平安",
+            "target": "崔诚",
+            "type": [
+                "传道"
+            ],
+            "evidence": "落魄山竹楼喂拳之人。"
+        },
+        {
+            "source": "陈平安",
+            "target": "杨老头",
+            "type": [
+                "交易",
+                "护道"
+            ],
+            "evidence": "多次给予机缘。"
+        },
+        {
+            "source": "陈平安",
+            "target": "裴钱",
+            "type": [
+                "师徒"
+            ],
+            "evidence": "开山大弟子。"
+        },
+        {
+            "source": "陈平安",
+            "target": "崔东山",
+            "type": [
+                "师徒"
+            ],
+            "evidence": "首位学生，实为崔瀺分身。"
+        },
+        {
+            "source": "陈平安",
+            "target": "曹晴朗",
+            "type": [
+                "师徒"
+            ],
+            "evidence": "得意学生。"
+        },
+        {
+            "source": "陈平安",
+            "target": "赵树下",
+            "type": [
+                "师徒"
+            ],
+            "evidence": "关门武学弟子。"
+        },
+        {
+            "source": "陈平安",
+            "target": "刘羡阳",
+            "type": [
+                "挚友"
+            ],
+            "evidence": "泥瓶巷竹马之交。"
+        },
+        {
+            "source": "陈平安",
+            "target": "顾璨",
+            "type": [
+                "挚友",
+                "邻居"
+            ],
+            "evidence": "泥瓶巷旧友。"
+        },
+        {
+            "source": "陈平安",
+            "target": "魏檗",
+            "type": [
+                "挚友",
+                "盟友"
+            ],
+            "evidence": "披云山山君，落魄山盟友。"
+        },
+        {
+            "source": "陈平安",
+            "target": "姜尚真",
+            "type": [
+                "供奉",
+                "挚友"
+            ],
+            "evidence": "落魄山首席供奉。"
+        },
+        {
+            "source": "陈平安",
+            "target": "马苦玄",
+            "type": [
+                "宿敌"
+            ],
+            "evidence": "自幼竞争。"
+        },
+        {
+            "source": "陈平安",
+            "target": "周密",
+            "type": [
+                "敌对"
+            ],
+            "evidence": "蛮荒天下之主。"
+        },
+        {
+            "source": "陈平安",
+            "target": "搬山老猿",
+            "type": [
+                "仇人"
+            ],
+            "evidence": "昔年仇怨。"
+        }
+    ],
+    "events": [],
+    "economics": [],
+    "plot_links": [],
+    "items": [],
+    "locations": [],
+    "factions": [],
+    "quotes": []
+}

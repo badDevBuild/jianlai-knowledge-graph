@@ -1,0 +1,43 @@
+{
+  "name": "青竹笛",
+  "original_name": "谪仙人",
+  "type": "法宝",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是一件极具人文底蕴的蛮荒重宝。它不仅是一件乐器，更承载了一段段关于情爱与证道的老黄历故事 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第727章 五至高，四仙剑，一白也",
+      "owner": "赵天籁"
+    }
+  ],
+  "subtype": "乐器/传承类",
+  "holder": "云卿",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古飞升境大妖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "若非破损严重，本应具备仙兵品秩 。",
+  "supernatural_ability": "笛身刻有“谪仙人”三字，曾批给“露支风券”，蕴含极高的风流道意 。",
+  "evolution": {
+    "current_form": "一支篆刻有铭文的古朴青竹笛子 。",
+    "materials_consumed": [
+      "上古青竹"
+    ],
+    "potential_evolution": "若能获得某种特定的“露支风券”道韵，有望修缮回仙兵级别 。"
+  },
+  "visual": {
+    "static": "笛管色泽深沉，刻痕精细，散发出一种历经岁月的萧索感 。",
+    "active": "吹奏时可引动天地异象，音律中仿佛藏有远古大妖的深情与道意 。"
+  },
+  "provenance": {
+    "origin": "曾是蛮荒天下某位飞升境大妖的定情之物 。",
+    "karma_link": "云卿曾欲将其赠予陈平安，反映了两人跨越阵营的某种奇特投缘 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,49 @@
+{
+  "name": "绿竹笛",
+  "original_name": "青神山绿竹笛",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "此笛是雷公庙沛阿香的随身之物。其材质极其珍稀，出自竹海洞天青神山。笛子见证了沛阿香与阿良等 人的往事，是其身份的象征之一 。",
+  "aliases": [
+    "绿竹笛"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第171章 杨柳依依的少女",
+      "owner": "谢谢"
+    },
+    {
+      "chapter": "第811章 练手",
+      "owner": "沛阿香"
+    }
+  ],
+  "subtype": "乐器/法具类",
+  "holder": "沛阿香",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "竹海洞天庙祝老妪",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "取材自竹海洞天十德竹，随使用者道行深浅可产生引灵与静心的共鸣效果 。",
+  "supernatural_ability": "由青神山绿竹制成，笛声可牵动天地灵气，对特定精怪具有吸引或震慑作用 。",
+  "evolution": {
+    "current_form": "带有泛黄珠子穗子的绿竹笛",
+    "materials_consumed": [
+      "青神山绿竹"
+    ],
+    "potential_evolution": "可作为雷法或驱邪法具进一步炼化"
+  },
+  "visual": {
+    "static": "笛身由苍翠欲滴的绿竹制成，质地清冷，穗子上坠有一粒寻常的泛黄珍珠 。",
+    "active": "吹奏时音色清越，道韵流转，能够配合使用者的修为产生音律神通 。"
+  },
+  "provenance": {
+    "origin": "源于竹海洞天，由庙祝老妪赠予曾参加青神宴的沛阿香 。",
+    "karma_link": "见证了沛阿香从九境武夫到止境宗师的江湖故事 。"
+  },
+  "enriched": true
+}

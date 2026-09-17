@@ -1,0 +1,44 @@
+{
+  "name": "鬼婴",
+  "original_name": "阴灵鬼物",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一种极其罕见的阴间产物，常被邪道修士视为炼制“行尸走肉”或“英灵傀儡”的核心。其存在象征着 世界地脉中未被消解的戾气 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第298章 拳不停",
+      "owner": "高冠老人(培育者)"
+    }
+  ],
+  "subtype": "精魅类 / 养蛊类",
+  "holder": "高承 (推测)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "古战场遗址",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "通过汲取阴煞之气与战死英灵的残余神性，有希望演化为鬼王级的存在 。",
+  "supernatural_ability": "**“神识寄宿”**。能够作为高位阶鬼修的通幽桥梁，甚至承载远古大妖的一缕真灵 。",
+  "evolution": {
+    "current_form": "游荡于鬼蜮谷或古战场中的阴冷精魅 。",
+    "materials_consumed": [
+      "阴冥煞气",
+      "生人血肉"
+    ],
+    "potential_evolution": "若能获得“金枝玉叶”般的仙人遗蜕，可重塑不朽鬼体 。"
+  },
+  "visual": {
+    "static": "形态模糊，通常以孩童或芥子小人的形象示人，周身环绕黑烟 。",
+    "active": "在阴气浓郁处会显化出狰狞面目，能够干扰练气士的道心 。"
+  },
+  "provenance": {
+    "origin": "诞生于浩然天下的古战场遗址或如鬼蜮谷般的阴冥之地 。",
+    "karma_link": "与蛮荒天下通过归墟通道接引远古残魂的谋划有关 。"
+  },
+  "enriched": true
+}

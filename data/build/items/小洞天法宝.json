@@ -1,0 +1,44 @@
+{
+  "name": "小洞天法宝",
+  "original_name": "法袍“小洞天” / 碧绿芙蓉冠",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“小洞天”是蛮荒天下甲申帐剑修流白的本命护身重宝。它不仅是一件品秩极高的仙兵法袍，更因其强大 的锁剑神通，成为浩然天下剑修在战场上的梦魇。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第878章 十四两银子",
+      "owner": "裴钱/曹晴朗"
+    }
+  ],
+  "subtype": "防御类 / 空间类",
+  "holder": "流白",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "周密",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为文海周密赐予弟子的重器，其防御能力与空间阻隔神通处于仙兵顶层。",
+  "supernatural_ability": "具备“锁剑”神通，能够极其玄妙地阻滞甚至锁死敌对剑修的本命飞剑，威力强于寻常吞剑舟。",
+  "evolution": {
+    "current_form": "一件与碧绿芙蓉冠配套的顶级法袍。",
+    "materials_consumed": [
+      "蛮荒天下气运",
+      "周密炼制秘法"
+    ],
+    "potential_evolution": "可配合流白的飞剑“芥子”实现绝对的隐匿与防御防御。"
+  },
+  "visual": {
+    "static": "色彩斑斓、气象宏大的仙家法袍。",
+    "active": "激发时会产生类似小洞天的空间隔绝效果，金光流溢，外人极难攻破。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下文海周密亲手炼制。",
+    "karma_link": "周密将其赠予弟子流白，以弥补其作为年轻剑修在防御上的不足。"
+  },
+  "enriched": true
+}

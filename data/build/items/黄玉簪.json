@@ -1,0 +1,38 @@
+{
+  "name": "黄玉簪",
+  "original_name": "李希圣的黄玉印章/簪",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "李希圣收藏的众多印章发簪之一。这些玉器不仅仅是饰品，更是他感悟天地法则、修行“法”与“道”的载 体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第162章 被大隋欺负的孩子们",
+      "owner": "林守一"
+    }
+  ],
+  "subtype": "文房类 / 镇压类",
+  "holder": "李希圣",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "作为李希圣亲手雕琢的法物，承载了“都天主法”之真意，有合道天地的潜力 。",
+  "supernatural_ability": "“法天象地”。黄玉材质中正平和，能稳定持有者心境，并在画符或刻印时产生气机共鸣 。",
+  "evolution": {
+    "current_form": "材质细腻的黄玉印章（亦常用作发簪），正在雕琢“都天主法”四字 。",
+    "materials_consumed": [
+      "名贵黄玉",
+      "道家真气"
+    ],
+    "potential_evolution": "刻字功成后，可演化为代表道门权柄的“法印” 。"
+  },
+  "visual": {
+    "static": "质地温润，呈微黄色，刀工细腻但由于“刻印如画符”的讲究，尚未完全成字 。",
+    "active": "呼吸吐纳间，玉石内部似有气机如溪涧潺潺流动 。"
+  },
+  "provenance": {
+    "origin": "李希圣在书院求学及修道期间亲手雕琢 。",
+    "karma_link": "与李希圣的“都天”道脉相关，是其身份与道法的具象化 。"
+  },
+  "enriched": true
+}

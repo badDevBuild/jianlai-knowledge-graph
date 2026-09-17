@@ -1,0 +1,50 @@
+{
+  "name": "仙人多宝镜",
+  "original_name": "三山九侯镜",
+  "type": "法宝",
+  "grade": "本命物",
+  "status": "损毁",
+  "description": "此镜即传说中的“三山九侯镜”，被不少寻宝野修误称为“仙人多宝镜”。它是世间顶级望气士和寻宝人的 终极梦想，曾是决定北俱芦洲多处秘境归属的关键器物。",
+  "aliases": [
+    "多宝镜"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第682章 一线之上",
+      "owner": "道家圣人"
+    }
+  ],
+  "subtype": "压胜类 / 寻宝类",
+  "holder": "杨凝性",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨凝真",
+      "relation": "曾持有"
+    },
+    {
+      "name": "三山九侯先生",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为远古“万法之祖”的遗留，其寻宝与破禁的上限几乎不受凡间阵法限制。",
+  "supernatural_ability": "“照彻十方”。不仅能寻找天材地宝，还具备破解一切山水迷障的神通，且天生压胜妖邪精怪。",
+  "evolution": {
+    "current_form": "古意盎然、宝光内敛的青铜古镜。",
+    "materials_consumed": [
+      "古神金身碎片",
+      "天地灵气"
+    ],
+    "potential_evolution": "若能集齐“三山”道意温养，可恢复为仙兵重器。"
+  },
+  "visual": {
+    "static": "镜背铭文复杂，散发着厚重的神道气息，质地非金非玉。",
+    "active": "激发时镜面如大日，照射之处禁制冰消瓦解，深潭水底宝物亦可见。"
+  },
+  "provenance": {
+    "origin": "由远古天下十豪候补——三山九侯先生亲手铸造。",
+    "karma_link": "杨凝真在鬼蜮谷宝镜山历经艰辛所得，后赠予其弟杨凝性，助其在白玉京修行。"
+  },
+  "enriched": true
+}

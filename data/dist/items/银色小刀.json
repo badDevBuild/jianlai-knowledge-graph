@@ -1,0 +1,48 @@
+{
+  "name": "银色小刀",
+  "original_name": "隐官刻刀 / 篆刻刀",
+  "type": "匠器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是**陈平安从事“雅贿”与“生财”的重要工具**。作为 一名不合格的剑修，陈平安以此刀刻出了最合格的文人 风骨与山上因果,。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第172章 江湖路上见不平",
+      "owner": "壮汉"
+    },
+    {
+      "chapter": "第421章 少侠遇见大侠",
+      "owner": "孙登先"
+    }
+  ],
+  "subtype": "炼物/文房类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土西岳 (穗山)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为上古剑胚所化，若能融入太白剑尖，可重塑为杀力 惊人的“岁首”仙剑,。",
+  "supernatural_ability": "异常雪亮，能切割天下一切顽石与金石，且在刻字时能 赋予文字以持刀者的神魂真意,。",
+  "evolution": {
+    "current_form": "一把袖珍的、闪烁着冷冽银光的篆刻用小刀,。",
+    "materials_consumed": [
+      "穗山金精",
+      "上古剑意"
+    ],
+    "potential_evolution": "可演化为支撑起一座“印章小天地”的根本枢纽。"
+  },
+  "visual": {
+    "static": "光可照人，刀柄处刻有细微云纹，显得精致而内敛,。",
+    "active": "下刀时会有细微的金属颤鸣声，即便在深夜亦能发散出 如月辉般的光彩,。"
+  },
+  "provenance": {
+    "origin": "陈平安在中土神洲或通过老秀才得来的上古残损剑胚改 制而成,。",
+    "karma_link": "陈平安凭此篆刻了《百剑仙印谱》，是其“文字缘”的重 要承载物,。"
+  },
+  "enriched": true
+}

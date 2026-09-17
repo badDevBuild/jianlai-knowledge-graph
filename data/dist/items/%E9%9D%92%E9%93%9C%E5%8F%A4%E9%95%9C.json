@@ -1,0 +1,55 @@
+{
+  "name": "青铜古镜",
+  "original_name": "辟兵莫当镜",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件极具实用价值的辟邪重器，被陈平安视为“尖货”，并将其置于落魄山的蚍蜉铺子作为镇店之宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第563章 忽如远行客",
+      "owner": "陈平安(交予王庭芳)"
+    },
+    {
+      "chapter": "第692章 水未落石未出",
+      "owner": "中土仙人"
+    },
+    {
+      "chapter": "第1126章 二十人与候补们（八）",
+      "owner": "神秘组织"
+    }
+  ],
+  "subtype": "压胜类 / 辟邪类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "黄师",
+      "relation": "赠予者"
+    },
+    {
+      "name": "宫家",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为“宫家营造”的精品，通过吸收月魄精华可跻身法宝之列 。",
+  "supernatural_ability": "正面可避百兵，背面可除灾殃，对山川精怪具有极强的震慑效果 。",
+  "evolution": {
+    "current_form": "带有岁月痕迹的青铜古镜 。",
+    "materials_consumed": [
+      "月魄精华"
+    ],
+    "potential_evolution": "法宝品秩的辟邪镜"
+  },
+  "visual": {
+    "static": "青铜质地，正面微刻“辟兵莫当”，背面刻有“御凶除央”，侧面有细微“宫家营造”字样 。",
+    "active": "激活后镜面光洁如满月，照射之处阴煞之气消散 。"
+  },
+  "provenance": {
+    "origin": "由著名的“宫家”工匠打造，在北俱芦洲仙府遗址被黄师获得并赠予陈平安 。",
+    "karma_link": "是陈平安在北俱芦洲获取的重要防御灵器之一 。"
+  },
+  "enriched": true
+}

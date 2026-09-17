@@ -1,0 +1,52 @@
+{
+  "name": "洗剑符",
+  "original_name": "玉枢城洗剑大符",
+  "type": "符箓",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "青冥天下最有名的“大符”之一，绘制门槛极高，非符箓大宗师不能为 。它是加快剑道修行、破除飞剑瓶颈的绝佳利器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第855章 俯瞰",
+      "owner": "陆芝 (购自陆沉)"
+    },
+    {
+      "chapter": "第856章 两三事",
+      "owner": "陆芝"
+    }
+  ],
+  "subtype": "温养/砥砺类",
+  "holder": "陆芝 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    },
+    {
+      "name": "郭解 (白玉京)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "属于顶级大符，对飞升境剑修的本命飞剑亦有显著提升作用 。",
+  "supernatural_ability": "能够大幅缩短剑修淬炼飞剑的光阴，一张符箓可抵数十年、甚至一甲子的苦修 。",
+  "evolution": {
+    "current_form": "绘有繁复雷纹与水洗图案的金碧符箓 。",
+    "materials_consumed": [
+      "远古星辰精华",
+      "仙人道意"
+    ],
+    "potential_evolution": "一旦彻底炼化，可显著增强飞剑的锋锐程度与大道韧性 。"
+  },
+  "visual": {
+    "static": "符纸表面灵光内敛，字迹隐有雷鸣之声 。",
+    "active": "燃烧或贴附于剑身时，会出现泉水洗剑、电火淬锋的宏大异象 。"
+  },
+  "provenance": {
+    "origin": "白玉京玉枢城城主郭解首创 。",
+    "karma_link": "陆沉作为“借阅”之物转赠陈平安，后由陈平安交给陆芝使用 。"
+  },
+  "enriched": true
+}

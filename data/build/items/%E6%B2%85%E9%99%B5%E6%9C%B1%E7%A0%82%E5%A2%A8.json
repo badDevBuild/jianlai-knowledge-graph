@@ -1,0 +1,44 @@
+{
+  "name": "沅陵朱砂墨",
+  "original_name": "赤书真文墨",
+  "type": "材料",
+  "grade": "灵物",
+  "status": "消耗",
+  "description": "这种墨锭在浩然天下极受尊崇，是皇帝封正山水神灵、 大修士绘制顶级符箓的首选，代表了文房器物的极致杀 伤力。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第921章 与诸君借取千山万水（二）",
+      "owner": "蒋去"
+    }
+  ],
+  "subtype": "符箓/文房类",
+  "holder": "蒋去",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "小陌",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "沅陵朱砂墨乃当世第一，炼化入符后，可敕令一洲山河 神灵 。",
+  "supernatural_ability": "“神灵通而形质固”，能天然压胜阴冥邪祟，以其画符， 符胆灵光常年不散 。",
+  "evolution": {
+    "current_form": "十块刻有“天垂文曜”吉语的朱红墨锭。",
+    "materials_consumed": [
+      "沅陵精朱砂",
+      "仙家龙油"
+    ],
+    "potential_evolution": "可炼化为蒋去的“本命笔墨”，落笔即成阵。"
+  },
+  "visual": {
+    "static": "色泽大赤，质地坚硬如金石，墨面刻纹栩栩如生。",
+    "active": "研磨时散发阵阵清凉气，墨汁中隐约有金丝游走 。"
+  },
+  "provenance": {
+    "origin": "产自浩然天下沅陵，小陌在飞升城集市为蒋去所购 。",
+    "karma_link": "陈平安借此物稳固落魄山唯一符箓修士的道基 。"
+  },
+  "enriched": true
+}

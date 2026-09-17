@@ -1,0 +1,44 @@
+{
+  "name": "紫阳府谱牒",
+  "original_name": "洞灵真传 / 祖师堂名录",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不仅仅是一份名单，它是紫阳府法统的象征。在陈平 安的算计中，它是稳固桐叶洲北方势力的重要棋子 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第931章 吾为东道主（上）",
+      "owner": "紫阳府"
+    }
+  ],
+  "subtype": "记录/宗门类",
+  "holder": "吴懿 (开山祖师)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊刑部",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随吴懿修为恢复，可转化为掌控一府气运的“封正印” 。",
+  "supernatural_ability": "详细记载门内所有修士的真名、生辰及本命物，具具备 因果牵引功能 。",
+  "evolution": {
+    "current_form": "金色玉牒材质，文字浮动宝光 。",
+    "materials_consumed": [
+      "古蜀龙气",
+      "宗门香火"
+    ],
+    "potential_evolution": "可并入大骊金玉谱牒，成为一洲正统宗门的凭证 。"
+  },
+  "visual": {
+    "static": "质地古朴，封面绣有紫气东来图案，内页灵气缭绕 。",
+    "active": "翻阅时文字如蛟龙游动，可映照出名下修士的虚实状态 。"
+  },
+  "provenance": {
+    "origin": "由古蜀之蛟后裔吴懿创立紫阳府时编订 。",
+    "karma_link": "涉及陈平安对桐叶洲局势的掌控，是与其结盟的重要凭 证 。"
+  },
+  "enriched": true
+}

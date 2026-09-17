@@ -1,0 +1,48 @@
+{
+  "name": "圣贤书",
+  "original_name": "儒家经典 / 圣贤笔札",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "**圣贤书**是落魄山的核心收藏，陈平安将其视为**“养气”之基** 。无论是老秀才还是齐静春，都通过赠书将儒家文脉与规矩传递给后辈，使其在修行路上能持身中正 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第580章 老秀才居中坐",
+      "owner": "老秀才"
+    }
+  ],
+  "subtype": "修心/文化类",
+  "holder": "陈平安 / 裴钱 / 曹晴朗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老秀才",
+      "relation": "赠予者"
+    },
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随读书人的学问精进，文字可产生言出法随的力量 。",
+  "supernatural_ability": "蕴含浩然正气，诵读可镇压邪祟，炼化文字可构建道心防御 。",
+  "evolution": {
+    "current_form": "版刻精良、带有墨香的古旧书卷 。",
+    "materials_consumed": [
+      "文运",
+      "浩然正气"
+    ],
+    "potential_evolution": "文字可脱离纸张化为金色长河，引渡阴灵，构建文字牢笼 。"
+  },
+  "visual": {
+    "static": "纸张绵软陈旧，多有朱批和注解，字迹法度严谨 。",
+    "active": "翻阅时金光点点，文字可具象化为天经地义的规矩法则 。"
+  },
+  "provenance": {
+    "origin": "多产自文庙、学宫及各大书院，亦有圣人亲笔手稿 。",
+    "karma_link": "“书上道理，书外做人”，是落魄山一脉立身立言的根基 。"
+  },
+  "enriched": true
+}

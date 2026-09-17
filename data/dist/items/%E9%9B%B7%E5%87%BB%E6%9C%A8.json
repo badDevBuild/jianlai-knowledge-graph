@@ -1,0 +1,46 @@
+{
+  "name": "雷击木",
+  "original_name": "焦炭乌木",
+  "type": "材料",
+  "grade": "天材地宝",
+  "status": "活跃",
+  "description": "**名副其实的避邪圣物**。必须是遭受特定天威雷击且未死的木材方可成形。陈平安手中的这截雷击木 蕴含极强的雷法余韵，是炼制法器或作为保命符的绝佳材料 。",
+  "aliases": [
+    "乌木"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第234章 夜宿古寺有妖气",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "压胜类 / 护持类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "胭脂郡城隍庙",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "蕴含天威，若得农家秘法点化，可重焕生机或炼制成顶级雷法法宝 。",
+  "supernatural_ability": "**“替死镇煞”**。蕴含玄之又玄的雷法天威，能辟阴邪、退邪祟，可作为承载因果的“替死”媒介或炼制 成打鬼鞭 。",
+  "evolution": {
+    "current_form": "沉甸甸的一截漆黑焦炭乌木 。",
+    "materials_consumed": [
+      "五雷之属天威",
+      "存活灵木"
+    ],
+    "potential_evolution": "可由农家练气士培育成生机勃勃的**雷击神木** 。"
+  },
+  "visual": {
+    "static": "外表如普通木炭，色泽深沉，质地坚硬沉重 。",
+    "active": "在阴气浓重处会自动散发雷霆气息，令周围阴物不敢近身 。"
+  },
+  "provenance": {
+    "origin": "由蕴含天威的特殊五雷劈中且存活下来的灵木形成 。",
+    "karma_link": "陈平安在胭脂郡城隍阁大战后捡漏获得的灵物，与多位神灵的陨落因果相连 。"
+  },
+  "enriched": true
+}

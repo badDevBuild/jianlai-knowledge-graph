@@ -1,0 +1,50 @@
+{
+  "name": "半仙兵剑仙",
+  "original_name": "老龙城苻氏仙剑",
+  "type": "仙剑",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "它是陈平安标志性的杀伐兵刃。虽然陈平安在早期无法完全发挥其威力，但该剑所承载的远古剑意和仙 兵底蕴，使其在剑气长城和随后的战事中发挥了无可替代的作用 。",
+  "aliases": [
+    "剑仙剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第438章 人心似水低处去",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "苻畦",
+      "relation": "原主"
+    },
+    {
+      "name": "老龙城苻氏",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "虽名义上是半仙兵，但其杀力已被火龙真人鉴定为实打实的仙兵品秩 。",
+  "supernatural_ability": "具备极强的自主战斗意识（作壁上鸣），出鞘时能震动山河、惊退群妖，具备越境斩杀强敌的锋芒 [16-18]。",
+  "evolution": {
+    "current_form": "一柄配有白色剑鞘的长剑，剑身蕴含极致的纯粹剑气 。",
+    "materials_consumed": [
+      "远古剑仙遗留剑意",
+      "陈平安神魂温养"
+    ],
+    "potential_evolution": "在完全破解禁制后，可作为落魄山宗主的象征传承下去 。"
+  },
+  "visual": {
+    "static": "背负在身后时气机内敛，宛如一柄死气沉沉的寻常长剑 。",
+    "active": "出鞘后如点睛之龙，剑光璀璨如虹，所过之处万物皆被其剑压粉碎 。"
+  },
+  "provenance": {
+    "origin": "老龙城苻家倾尽家族底蕴收藏的镇城重宝 。",
+    "karma_link": "因杜懋在老龙城引发的因果纠纷，苻家为求保全而被迫赠予陈平安 。"
+  },
+  "enriched": true
+}

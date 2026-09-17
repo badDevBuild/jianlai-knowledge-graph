@@ -1,0 +1,48 @@
+{
+  "name": "烛照",
+  "original_name": "观照魂魄佩剑",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "烛照是白莹为其剑侍龙涧配备的重宝。其核心价值在于它融入了剑气长城远古刑徒观照的魂魄，是蛮荒 天下极具威胁的巅峰武器之一 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第724章 一斩再斩，唯我得意",
+      "owner": "龙涧(白莹)"
+    }
+  ],
+  "subtype": "攻伐类 / 傀儡驱动类",
+  "holder": "龙涧",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白莹",
+      "relation": "原主"
+    },
+    {
+      "name": "观照",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为由远古大剑仙“观照”残余魂魄炼化而成的仙兵，本身即具备飞升境剑修的战力 。",
+  "supernatural_ability": "剑光如炬，能够照破虚空。由于与观照魂魄相契合，可使剑侍傀儡施展出大剑仙级别的剑术 , 。",
+  "evolution": {
+    "current_form": "由剑侍龙涧持有的仙兵长剑 。",
+    "materials_consumed": [
+      "观照残魂",
+      "天材地宝"
+    ],
+    "potential_evolution": "若能补全观照的所有残余魂魄，可令剑侍拥有更完整的灵智与更恐怖的杀力 。"
+  },
+  "visual": {
+    "static": "剑身通体流转着冷冽的光芒，蕴含着不屈的剑意 。",
+    "active": "递剑时虹光掠出，瞬间便如大剑仙持剑，气势巍峨，杀力惊人 , 。"
+  },
+  "provenance": {
+    "origin": "由王座大妖白莹辛苦寻觅观照残魂后，耗费无数资源炼化而成 。",
+    "karma_link": "见证了远古剑仙观照的陨落与被炼化为傀儡的悲剧因果 , 。"
+  },
+  "enriched": true
+}

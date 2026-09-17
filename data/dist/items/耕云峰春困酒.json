@@ -1,0 +1,48 @@
+{
+  "name": "耕云峰春困酒",
+  "original_name": "云霞山特产酒",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是陆沉为了与陈平安“对阵”而专门带来的名酒 。它象征着一种在紧凑修行中难得的“偷懒”与“自在 ” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1031章 摸鱼儿输一半",
+      "owner": "陆沉"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    },
+    {
+      "name": "黄钟侯",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因产自云霞山灵脉，随陈平安对五行之火的炼化，可进 化为滋养神魂的“朝霞酿” 。",
+  "supernatural_ability": "饮用后能让人产生微醺的春困之意，极大缓解由于神识 过度消耗带来的疲惫 。",
+  "evolution": {
+    "current_form": "盛放在云霞山特色瓷瓶中的清冽酒水 。",
+    "materials_consumed": [
+      "云霞山泉水",
+      "春季草木精华"
+    ],
+    "potential_evolution": "结合“月色酒”可炼制出“阴阳调和露” 。"
+  },
+  "visual": {
+    "static": "酒液呈现浅粉色，宛如清晨的云霞 。",
+    "active": "倒入碗中后，水面会产生柔和的涟漪，散发出淡淡的花 香 。"
+  },
+  "provenance": {
+    "origin": "产自梦粱国云霞山耕云峰，由山主黄钟侯酿造 。",
+    "karma_link": "陆沉以此酒为媒介，与陈平安在光阴凝滞的瞬间共论大 道 。"
+  },
+  "enriched": true
+}

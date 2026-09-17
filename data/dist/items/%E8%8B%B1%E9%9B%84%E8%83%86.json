@@ -1,0 +1,57 @@
+{
+  "name": "英雄胆",
+  "original_name": "真武山丹药",
+  "type": "丹药",
+  "grade": "丹药",
+  "status": "消耗",
+  "description": "这是《剑来》早期极度珍稀的丹药。对于纯粹武夫而言，它能提供一个供**阴神栖息**的内室，价值等 同于多出半条命 。",
+  "aliases": [
+    "英雄胆"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第104章 坐地分赃",
+      "owner": "朱河"
+    },
+    {
+      "chapter": "第110章 无不散的筵席",
+      "owner": "朱河(暂有)"
+    },
+    {
+      "chapter": "第529章 落魄山的家底",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "魂魄类 / 补给类",
+  "holder": "朱河",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "真武山",
+      "relation": "原主"
+    },
+    {
+      "name": "魏檗 / 棋墩山蛇蟒",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为真武山不外传的独门丹药，对**纯粹武夫**极具战略价值，是突破瓶颈的保命之物 。",
+  "supernatural_ability": "**“凝聚魂魄”**。能够帮助服药之人凝聚散落于气府窍穴的魂魄，最终结出一颗方便**阴神栖息**的“ 宅子” 。",
+  "evolution": {
+    "current_form": "泥封的丹药 。",
+    "materials_consumed": [
+      "真武山秘法天材地宝"
+    ],
+    "potential_evolution": "能让五境巅峰武夫稳稳跻身**第六境金身境** 。"
+  },
+  "visual": {
+    "static": "外表有泥封，散发出古朴厚重的气息 。",
+    "active": "服下后气机如久旱逢甘霖，显著强固神魂 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲**真武山** 。",
+    "karma_link": "由阿良在棋墩山“坐地分赃”时挑选给朱河，后被朱河视为女儿朱鹿跻身六境的底牌 。"
+  },
+  "enriched": true
+}

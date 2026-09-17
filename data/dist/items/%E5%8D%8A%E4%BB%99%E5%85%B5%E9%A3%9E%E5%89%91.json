@@ -1,0 +1,48 @@
+{
+  "name": "半仙兵飞剑",
+  "original_name": "剑仙",
+  "type": "仙剑",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这把剑名为“剑仙”，是陈平安手中最具威慑力的实物长剑。虽然他并非纯粹剑修，但这把剑却在其手中 展现出了超越品秩的破坏力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第413章 炼制",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老龙城苻氏",
+      "relation": "赠予者"
+    },
+    {
+      "name": "苻畦",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "名义上是半仙兵，实则经过北俱芦洲火龙真人勘验，其实质杀力已达仙兵品秩 。",
+  "supernatural_ability": "**作壁上鸣**：具备极强的自主灵性，出鞘时能让整条渡船震颤。对妖族有极强的血脉压胜作用 。",
+  "evolution": {
+    "current_form": "背负在陈平安身后的长剑，配有白色剑鞘 。",
+    "materials_consumed": [
+      "远古剑意残余",
+      "陈平安神魂淬炼"
+    ],
+    "potential_evolution": "在陈平安跻身武道七境后，可完全破解禁制并炼化为下任山主信物 。"
+  },
+  "visual": {
+    "static": "剑身看似内敛平凡，死气沉沉，实则锋芒藏而不露 。",
+    "active": "出鞘后剑光如点睛之龙，气势惊天动地。在特定时刻能显现出极强的“仙人”气象 。"
+  },
+  "provenance": {
+    "origin": "老龙城苻家的底蕴重宝，因杜懋风波而赔罪赠予陈平安 。",
+    "karma_link": "它陪伴陈平安走过了书简湖的磨砺与剑气长城的血战，是其登顶剑道的关键 。"
+  },
+  "enriched": true
+}

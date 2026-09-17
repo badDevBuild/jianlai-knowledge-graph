@@ -1,0 +1,44 @@
+{
+  "name": "玉清弦月剑法",
+  "original_name": "仙人遗留剑诀",
+  "type": "典籍",
+  "grade": "神通",
+  "status": "活跃",
+  "description": "这是**极具仙气的上古传承**。此剑法要求极高，仅在 有缘人面前显现其真意，是针对妖邪的绝佳手段 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1189章 明天",
+      "owner": "田仙"
+    }
+  ],
+  "subtype": "传承/修行类",
+  "holder": "田仙",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "上古女子仙师",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "上古真人手笔，若能修成，剑法杀力可直指飞升境 。",
+  "supernatural_ability": "文字流转如电，包含斩妖除魔的无上剑意，能让修行者 在心湖间自动排列剑诀脉络 。",
+  "evolution": {
+    "current_form": "一道在荷花中生发而出的熠熠剑光 。",
+    "materials_consumed": [
+      "上古剑意残余",
+      "天地灵气"
+    ],
+    "potential_evolution": "修成后可化为伴随修士一生的“剑道真经” 。"
+  },
+  "visual": {
+    "static": "表现为熠熠生辉的飞剑形态，文字在剑身上飞速流转 。",
+    "active": "在心湖显化时，数千文字自行排列，产生宏大的雷鸣声 响 。"
+  },
+  "provenance": {
+    "origin": "源自云窟福地水殿中的上古真人传承 。",
+    "karma_link": "通过谢狗的指点赠予田仙，以此结下一段跨越天下的剑 道缘分 。"
+  },
+  "enriched": true
+}

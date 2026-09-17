@@ -1,0 +1,48 @@
+{
+  "name": "竹编小笼 (龙王篓)",
+  "original_name": "龙王篓",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "龙王篓是极具底蕴的重器，曾是束缚真龙的利器。它们不仅是强力的捕捉工具，在修士手中亦可作为能 够随身携带的小型龙宫使用 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第542章 羊肠小道，人人野修",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "压胜类 / 捕捉类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李二",
+      "relation": "原主"
+    },
+    {
+      "name": "高煊",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "虽有破损但可通过水火交融细细炼化，修旧如旧，恢复作为小龙宫的威能 。",
+  "supernatural_ability": "具有先天压胜之法，专门用于捕捉和禁锢世间蛟龙之属；内部自成空间，可作为蛟龙居住的水府宅邸 , , 。",
+  "evolution": {
+    "current_form": "一对青竹色泽、带有细密裂纹的竹编小笼",
+    "materials_consumed": [
+      "金色丝线",
+      "水火交融炼化"
+    ],
+    "potential_evolution": "修缮后可成为镇压大水、蓄养蛟龙的顶级法宝"
+  },
+  "visual": {
+    "static": "形似市井蛐蛐笼，拳头大小，青竹色泽翠绿，刻有“斗蛟”、“潜蟠”字样 。",
+    "active": "以金色丝线牵引，晃动时可产生镇压龙种的灵气波动 , 。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天铁匠铺或通过古老传承获得，亦有说法得自仙府遗址 , 。",
+    "karma_link": "作为骊珠洞天最大的五桩机缘之一，曾流转于李二、高煊之手 , 。"
+  },
+  "enriched": true
+}

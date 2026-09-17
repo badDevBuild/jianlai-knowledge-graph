@@ -1,0 +1,46 @@
+{
+  "name": "大瓷碗",
+  "original_name": "五岳真形白碗",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此大瓷碗是陈平安在彩衣国之行中获得的顶级重器。碗内蕴含五岳真形，能够无中生有产生灵气甘露， 对体魄淬炼与神魂温养大有裨益，是山下江湖极难见到的仙家至宝 。",
+  "aliases": [
+    "大瓷碗"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第174章 今年大雪有大雪",
+      "owner": "青衣小童"
+    }
+  ],
+  "subtype": "压胜/地利类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "避暑娘娘",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为承载五岳真形的大道载体，随持有者炼化五色土的过程可不断增强对地脉的掌控力 [9-11]。",
+  "supernatural_ability": "碗底绘有五岳真形图，能汇聚并藏聚山川灵气，转化为甘露供修士服用 。",
+  "evolution": {
+    "current_form": "绘有五岳真形图的白色瓷碗",
+    "materials_consumed": [
+      "五岳之壤",
+      "山河文运"
+    ],
+    "potential_evolution": "可配合神人承露甲演化为完整的“地利”防御体系"
+  },
+  "visual": {
+    "static": "看似寻常的白色大碗，碗内壁以工笔绘就五岳形胜，气象肃穆 。",
+    "active": "倒入清水后，碗中会出现缩小版的五岳幻象，灵气氤氲成露 。"
+  },
+  "provenance": {
+    "origin": "得自彩衣国古宅，原为避暑娘娘的成道之物，后经陈平安之手在战中发挥奇效 。",
+    "karma_link": "与兵家“西岳”甲丸相辅相成，是陈平安早期重要的地利依仗 。"
+  },
+  "enriched": true
+}

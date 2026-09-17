@@ -1,0 +1,37 @@
+{
+  "name": "四仙桌",
+  "original_name": "春幡斋正堂方桌",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是倒悬山春幡斋中堂的标志性陈设 。陈平安在此落座主位，通过强势手腕算计浩然天下八洲渡船，为剑气长城续命 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第636章 多少小鱼碧水中",
+      "owner": "春幡斋"
+    }
+  ],
+  "subtype": "家具类",
+  "holder": "邵云岩",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "作为倒悬山核心私宅的陈设，见证了无数山上大买卖的达成 。",
+  "supernatural_ability": "虽非攻伐法宝，但在倒悬山规矩之下，是身份与地位的象征 。",
+  "evolution": {
+    "current_form": "四平八稳的传统木制方桌 。",
+    "materials_consumed": [
+      "仙家木材"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "看起来四平八稳，有着万万年的稳固感 。",
+    "active": "在陈平安伸手按住时，卯榫结构会出现松动并微微颤动 。"
+  },
+  "provenance": {
+    "origin": "倒悬山四大私宅之一的春幡斋正堂 。",
+    "karma_link": "陈平安在此以隐官身份接见八洲船主并订立商贸新规 。"
+  },
+  "enriched": true
+}

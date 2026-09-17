@@ -1,0 +1,44 @@
+{
+  "name": "剑房",
+  "original_name": "祖师堂剑房 / 传讯中枢",
+  "type": "其他",
+  "grade": "仙家重宝",
+  "status": "活跃",
+  "description": "剑气长城特有的禁地。它不单是一间屋子，更是一个由无数秘密、情报和杀伐决断交织而成的枢纽。每 一个格位，都代表了一位剑修的生与死。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第627章 算账整座天下",
+      "owner": "隐官一脉"
+    }
+  ],
+  "subtype": "管理/传讯类",
+  "holder": "落魄山 / 大骊朝廷 / 隐官一脉",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "避暑行宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为宗门的“心脏”，剑房的品秩决定了飞剑传信的保密级别与辐射范围。",
+  "supernatural_ability": "能够集中管理并精确指引成千上万的传讯飞剑，具备极其强悍的加密禁制与信号牵引能力。",
+  "evolution": {
+    "current_form": "由多层木格架、传讯剑槽构成的宏大建筑。内含仙家重宝。",
+    "materials_consumed": [
+      "大量秘银",
+      "上古阵图"
+    ],
+    "potential_evolution": "若由剑仙亲自坐镇，可作为覆盖一洲之地的“剑道网络”。"
+  },
+  "visual": {
+    "static": "室内琳琅满目，摆满各式剑盒与飞剑，剑气森森，使人入内即感寒意。",
+    "active": "当大量飞剑归巢或出发时，室内会剑鸣如雷，光影交错如星辰陨落。"
+  },
+  "provenance": {
+    "origin": "剑气长城传承数千年的管理机构，陈平安将其搬迁至落魄山。",
+    "karma_link": "是隐官大人运筹帷幄、算计蛮荒天下的指挥中心，也是落魄山开山立派的底蕴所在。"
+  },
+  "enriched": true
+}

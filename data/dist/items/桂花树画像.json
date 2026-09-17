@@ -1,0 +1,44 @@
+{
+  "name": "桂花树画像",
+  "original_name": "金桂挂月图",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这幅被刘羡阳视为“不值钱”的装饰画，实际上是使用早已绝迹的顶级蛇胆石制成，承载了小镇破碎前的 部分气运 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第259章 练拳百万",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "装饰类 / 气运类",
+  "holder": "刘羡阳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘氏先祖",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由极其罕见的金色蛇胆石碎片拼凑而成，蕴含龙气与气运 。",
+  "supernatural_ability": "能够稳固宅邸风水，吸引并凝聚周遭的细微龙气，对后代子孙有无形护佑 。",
+  "evolution": {
+    "current_form": "镶嵌在刘羡阳家博古柜后壁上的图案 。",
+    "materials_consumed": [
+      "金色蛇胆石",
+      "百年古木"
+    ],
+    "potential_evolution": "若能得真龙精血点睛，可演化为具有灵性的活物。"
+  },
+  "visual": {
+    "static": "画面描绘一株金色桂树与圆月，质感由细碎石子黏贴而成 。",
+    "active": "在月光映照下，石子会泛起淡淡的金光，画面栩栩如生 。"
+  },
+  "provenance": {
+    "origin": "刘羡阳祖上传下来的古董家具，材质实为骊珠洞天特有的蛇胆石 。",
+    "karma_link": "是刘家祖宅内深藏不露的宝物，曾引起宁姚的关注 。"
+  },
+  "enriched": true
+}

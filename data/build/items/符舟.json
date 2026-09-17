@@ -1,0 +1,89 @@
+{
+  "name": "符舟",
+  "original_name": "仙家符舟",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "符舟是练气士最常见的‘坐骑’之一。它不仅体现了符箓一道的玄妙，也是衡量一个宗门底蕴的标志之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第515章 琢磨",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第562章 南归北游",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第579章 最讲道理的来了",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第584章 你来当师兄",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第586章 喝尽人间腌臜事",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第603章 打架之人，是我师父",
+      "owner": "崔东山"
+    },
+    {
+      "chapter": "第604章 与谁问拳，向谁问剑",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第610章 左右教剑术",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第618章 夏日炎炎，风雪路远",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第632章 相互问剑",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第746章 夜归人",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1014章 坐井观天复少年",
+      "owner": "六境武夫"
+    },
+    {
+      "chapter": "第1063章 多余即是温柔",
+      "owner": "陈平安/朱敛"
+    },
+    {
+      "chapter": "第1176章 天五人五",
+      "owner": "温仔细"
+    }
+  ],
+  "subtype": "交通类",
+  "holder": "北俱芦洲修士 / 陈平安",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "不同品秩的符舟在速度和承载力上差异极大。",
+  "supernatural_ability": "通过符咒驱动，可在空中御风飞掠，无视寻常山水阻隔。",
+  "evolution": {
+    "current_form": "由符箓演化而来的小型渡船。",
+    "materials_consumed": [
+      "神仙钱"
+    ],
+    "potential_evolution": "最高阶的符舟可以承载上百人进行远距离跨州。"
+  },
+  "visual": {
+    "static": "通常表现为一张特殊的符纸或是刻有符文的木雕小船。",
+    "active": "祭出后化作一道流光，在云海间穿梭，船身周围常有灵气屏障护卫。"
+  },
+  "provenance": {
+    "origin": "广泛产于北俱芦洲太真宫等擅长符箓炼制的仙门。",
+    "karma_link": "是修行界常见的短途及中途旅行工具，常由长辈赐予历练弟子。"
+  },
+  "enriched": true
+}

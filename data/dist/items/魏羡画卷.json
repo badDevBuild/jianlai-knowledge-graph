@@ -1,0 +1,44 @@
+{
+  "name": "魏羡画卷",
+  "original_name": "南苑国皇帝本命画卷",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是**四幅画卷**中最先展现异象的一幅。**画中人魏羡拥有帝王气象与坚韧的武夫体魄**，是陈平安 早期在桐叶洲和书简湖能够依仗的强大护卫之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第330章 过山过水，遇姚而停",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "封印/传承类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老道人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为魏羡在浩然天下的栖身之所，其内部禁制会随其修为恢复而变得更加复杂 。",
+  "supernatural_ability": "封印有魏羡的肉身与神魂；喂食谷雨钱后，能显化出魏羡在现世战斗的威能 。",
+  "evolution": {
+    "current_form": "绘有魏羡形象的古老画卷 。",
+    "materials_consumed": [
+      "谷雨钱",
+      "金精铜钱"
+    ],
+    "potential_evolution": "当画中人“吃饱喝足”后，可彻底脱离画卷限制 。"
+  },
+  "visual": {
+    "static": "画中绘有一位端坐的龙袍男子，仪表威严，正是南苑国开国皇帝魏羡 。",
+    "active": "被激活时，画卷会产生灵气涟漪，魏羡的身影可破纸而出，展现其沙场万人敌的拳意 。"
+  },
+  "provenance": {
+    "origin": "来自藕花福地，由老观主截留其大道性命而成 。",
+    "karma_link": "陈平安离开福地时，由老道人亲自挑选并交付给陈平安 。"
+  },
+  "enriched": true
+}

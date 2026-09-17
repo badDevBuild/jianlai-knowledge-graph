@@ -1,0 +1,48 @@
+{
+  "name": "木质道簪",
+  "original_name": "杨老头木簪 / 桃花簪",
+  "type": "灵器",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "一根不起眼的木簪，却牵扯到了小镇最深处的几股势力 交锋，是陈平安与杨老头“公平买卖”的信物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第885章 道簪",
+      "owner": "年景 (仙尉)"
+    }
+  ],
+  "subtype": "饰品/信物类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "赠予者"
+    },
+    {
+      "name": "齐静春",
+      "relation": "代持者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为青童天君的因果载体，可用于开启药铺后院的某种 秘密禁制 。",
+  "supernatural_ability": "陈平安曾用其交换飞剑“十五”，具有隔绝部分天机的功 能 。",
+  "evolution": {
+    "current_form": "质地古朴的木制发簪，无甚雕饰 。",
+    "materials_consumed": [
+      "老桃木",
+      "岁月气息"
+    ],
+    "potential_evolution": "可炼化为稳定心神的本命压胜物 。"
+  },
+  "visual": {
+    "static": "外表平淡无奇，色泽深沉，别在发髻上如同一截枯木 。",
+    "active": "在面临天大机缘或生死危机时，会散发出难以察觉的温 润光泽 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天杨家药铺，实为青童天君之物 。",
+    "karma_link": "是陈平安年少时贫寒处境与后续大道转机的转折见证 。"
+  },
+  "enriched": true
+}

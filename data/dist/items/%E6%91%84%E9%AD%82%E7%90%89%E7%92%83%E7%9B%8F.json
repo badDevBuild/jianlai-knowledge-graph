@@ -1,0 +1,38 @@
+{
+  "name": "摄魂琉璃盏",
+  "original_name": "银白色瓷瓶",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**摄魂琉璃盏（银白瓷瓶）是一件极其阴险的拘魂法器**。它被邪道修士视为“囚禁魂魄的残酷牢笼”， 通过捕捉强大的纯粹武夫魂魄，可以将其强行炼化为忠诚的傀儡战士 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第230章 下 黑云压城",
+      "owner": "黄老"
+    }
+  ],
+  "subtype": "邪修类/拘魂类",
+  "holder": "邪道修士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "若能收拢足够强大的武夫或修士魂魄，可炼制成具备极高战力的阴兵鬼将 。",
+  "supernatural_ability": "摄魂与拘禁：专门收拢死后尚未散去的强大魂魄，并将其禁锢在瓷瓶内进行炼化 。",
+  "evolution": {
+    "current_form": "高一尺、窄口大肚的银白色瓷瓶 。",
+    "materials_consumed": [
+      "阴煞戾气",
+      "武夫魂魄"
+    ],
+    "potential_evolution": "可进阶为容纳万鬼的魔道法宝“阎王殿”。"
+  },
+  "visual": {
+    "static": "银白色的瓷瓶，外观古朴，瓷面上隐约有狰狞的面孔游曳 。",
+    "active": "激发时会散发出阵阵阴风，产生强大的吸力将周边魂魄摄入瓶中 。"
+  },
+  "provenance": {
+    "origin": "多为邪道散修或鬼修为了速成战力而炼制的阴毒工具 。",
+    "karma_link": "见证了书简湖及各处乱世地界的血雨腥风。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,56 @@
+{
+  "name": "道书",
+  "original_name": "万物可炼法诀 / 祈雨碑仙诀",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安修行路上最重要的法统传承之一。它不仅提供了炼化本命物的手段，更在玄学层面为他指明 了对抗心魔、跻身上五境的清晰路径 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第545章 为何敢怒不敢言",
+      "owner": "柳瑰宝"
+    },
+    {
+      "chapter": "第943章 推陈出新",
+      "owner": "黄粱派(暂存)"
+    },
+    {
+      "chapter": "第1218章 看书人",
+      "owner": "郑居中(受赠)"
+    }
+  ],
+  "subtype": "传承类 / 五行类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "柳柔 (埋河水神)",
+      "relation": "赠予者"
+    },
+    {
+      "name": "上古大渎龙王",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "涉及白玉京第四城的通天大道，是修道之人打破元婴瓶颈的关键 。",
+  "supernatural_ability": "阐述五行化育之理，能炼化金身与香火；可化作四条登天道路，辅助修士降服心魔 。",
+  "evolution": {
+    "current_form": "篆刻在水运玉简上的五千余字真诀 。",
+    "materials_consumed": [
+      "大渎水精",
+      "圣贤真意"
+    ],
+    "potential_evolution": "文字可通灵化为“绿衣小童”，坐镇气府，自行描绘水图 。"
+  },
+  "visual": {
+    "static": "原本是一枚晶莹剔透、光华流转的玉简，文字内容洁净精微 。",
+    "active": "炼化后文字在气府中如龙蛇走陆，显化出大渎横流、云行雨施的宏大气象 。"
+  },
+  "provenance": {
+    "origin": "源自上古“河渎龙宫”废墟中的祈雨碑文 。",
+    "karma_link": "埋河水神柳柔感念陈平安点化之恩，将其倾囊相授 。"
+  },
+  "enriched": true
+}

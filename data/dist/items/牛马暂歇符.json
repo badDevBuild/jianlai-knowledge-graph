@@ -1,0 +1,38 @@
+{
+  "name": "牛马暂歇符",
+  "original_name": "安宁符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "陈平安在夜航船条目城接触到的基础符箓，体现了该地 将修行学问融入日常生活的独特文化 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第757章 满座皆故友",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助/安抚类",
+  "holder": "条目城众生",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "极佳的修心辅佐，长久佩戴可防止心魔早生 。",
+  "supernatural_ability": "能够平复神魂动荡，缓解修行或长途跋涉后的身心疲劳 。",
+  "evolution": {
+    "current_form": "笔触圆润的安神符箓 。",
+    "materials_consumed": [
+      "清心草汁",
+      "黄纸"
+    ],
+    "potential_evolution": "可演化为具有静心坐忘功效的“心斋符” 。"
+  },
+  "visual": {
+    "static": "符文平稳，墨色深沉，观之令人心静 。",
+    "active": "激发后散发出淡淡的青草香气，笼罩一丈见方 。"
+  },
+  "provenance": {
+    "origin": "来源于条目城世俗生活的经验总结 。",
+    "karma_link": "代表了众生对“劳逸结合、安稳求道”的质朴追求 。"
+  },
+  "enriched": true
+}

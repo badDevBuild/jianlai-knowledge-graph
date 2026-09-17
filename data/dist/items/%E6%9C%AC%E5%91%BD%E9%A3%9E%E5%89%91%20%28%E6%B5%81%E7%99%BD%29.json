@@ -1,0 +1,38 @@
+{
+  "name": "本命飞剑 (流白)",
+  "original_name": "流白的本命飞剑",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是蛮荒天下女子剑修流白的本命飞剑。因其极度隐蔽的特性，被陈平安在避暑行宫秘档中暂名为“芥 子”。它是目前已知最擅长暗杀与渗透的飞剑之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第666章 肩头和心头",
+      "owner": "流白"
+    }
+  ],
+  "subtype": "攻伐类 / 隐匿类",
+  "holder": "流白",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为文海周密嫡传弟子的本命物，被列为托月山百剑仙大道种子之一 。",
+  "supernatural_ability": "极其细微不可查，能够与天地灵气完美融合。在战场上如同消失一般，让对手防不胜防 。",
+  "evolution": {
+    "current_form": "微小如尘埃的剑光形态 。",
+    "materials_consumed": [
+      "远古剑意",
+      "精粹道韵"
+    ],
+    "potential_evolution": "若能晋升至玉璞境，可实现真正意义上的无视空间阻碍的斩首 。"
+  },
+  "visual": {
+    "static": "极小如芥子，肉眼与一般神识皆难察觉 。",
+    "active": "祭出时毫无涟漪动静，只有在造成伤口的一瞬间，才会在敌人身内显化出巨大的剑气破坏 。"
+  },
+  "provenance": {
+    "origin": "流白本命孕育，并得到周密的指点完善 。",
+    "karma_link": "流白曾在针对陈平安的围杀中使用此剑，却最终战败并险些陨落 。"
+  },
+  "enriched": true
+}

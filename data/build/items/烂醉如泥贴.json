@@ -1,0 +1,44 @@
+{
+  "name": "烂醉如泥贴",
+  "original_name": "烂醉如贴 / 洞庭水图贴",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此贴是金石书法与山水气运结合的巅峰之作。它不仅是一件艺术品，更是一座可以随身携带的庞大水府 ，具有极高的战略价值 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第902章 无事即平安",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "意境类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李邺侯",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "字帖本身蕴含一座六百里大湖的水运，是蛟龙之属梦寐以求的修道场 。",
+  "supernatural_ability": "字帖内养有一种名为“酒泥”的奇虫，能在水中吐纳仙浆；此外可显化大湖意境，压胜火法 。",
+  "evolution": {
+    "current_form": "满纸酒气、文字淋漓的书法真迹 。",
+    "materials_consumed": [
+      "皎月湖文运",
+      "古大渎精粹"
+    ],
+    "potential_evolution": "完全炼化后可作为下宗山水大阵的核心，聚拢万里水汽 。"
+  },
+  "visual": {
+    "static": "一幅水纹宣纸长卷，上书“烂醉如”等字，墨迹中有微虫游弋 。",
+    "active": "展开后花气与酒香扑鼻，文字化作江河奔流之态，气象万千 。"
+  },
+  "provenance": {
+    "origin": "中土神洲皎月湖水君李邺侯的私人收藏 。",
+    "karma_link": "李邺侯在文庙议事期间赠予文圣，后由陈平安继承，作为补强下宗底蕴的重宝 。"
+  },
+  "enriched": true
+}

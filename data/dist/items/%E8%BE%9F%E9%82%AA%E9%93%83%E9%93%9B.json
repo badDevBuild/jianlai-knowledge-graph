@@ -1,0 +1,47 @@
+{
+  "name": "辟邪铃铛",
+  "original_name": "宝塔铃",
+  "type": "灵器",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是一款在北俱芦洲极具名望的探测类灵器。它能够帮助修士在游历险地时省去大量的破障符消耗，被 视为出门远游的保命物件之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第209章 也是木剑",
+      "owner": "鲲船"
+    }
+  ],
+  "subtype": "示警类",
+  "holder": "暂无",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大源王朝古寺",
+      "relation": "原主"
+    },
+    {
+      "name": "某深山白骨",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "名列《无声集》，具备极高的研究价值与成长为法宝的潜质。",
+  "supernatural_ability": "惊觉与破障：遇妖魔靠近会无风自响，震荡清音使人不被魅惑；能破除鬼打墙等山水迷障 。",
+  "evolution": {
+    "current_form": "檐下法器形制的铜铃",
+    "materials_consumed": [
+      "残余佛气"
+    ],
+    "potential_evolution": "佛门镇妖重宝"
+  },
+  "visual": {
+    "static": "形制古朴的青铜宝塔状铃铛，表面有岁月侵蚀的痕迹 。",
+    "active": "遇到龙门境以下妖物会剧烈摇晃并发出响彻云霄的警示音 。"
+  },
+  "provenance": {
+    "origin": "原为大源王朝某座古寺的檐下法器，后流落民间 。",
+    "karma_link": "与心声斋主人余远有收藏因果 。"
+  },
+  "enriched": true
+}

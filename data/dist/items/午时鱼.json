@@ -1,0 +1,38 @@
+{
+  "name": "午时鱼",
+  "original_name": "阳气灵鱼 / 金鲤",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "午时鱼是《剑来》中关于时令与物候关系的微观体现。 其珍稀程度在于捕获时机极其严苛 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1099章 若无其事",
+      "owner": "程逢玄(炼制中)"
+    }
+  ],
+  "subtype": "食材/资源类",
+  "holder": "水府君 / 渔夫",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "在特定时辰（午时）捕获，蕴含极强阳气，是中和阴寒 体质的良药。",
+  "supernatural_ability": "（非源自文本）根据命名逻辑，此鱼在正午阳气最盛时 最具灵性，食之可壮大纯粹武夫的阳刚气机。",
+  "evolution": {
+    "current_form": "背脊金黄、双目如火的水中游鱼 。",
+    "materials_consumed": [
+      "正午日精",
+      "大渎水运"
+    ],
+    "potential_evolution": "若能跃过龙门，可进化为“赤火龙”。"
+  },
+  "visual": {
+    "static": "鱼鳞在阳光下熠熠生辉，鱼须有力，体型健硕 。",
+    "active": "游动时带起层层金色涟漪，仿佛水中燃起一簇簇火苗 。"
+  },
+  "provenance": {
+    "origin": "多见于大泉王朝或宝瓶洲南部水质极佳的江河 。",
+    "karma_link": "与水生木、火克金等五行演化理论密切相关。"
+  },
+  "enriched": true
+}

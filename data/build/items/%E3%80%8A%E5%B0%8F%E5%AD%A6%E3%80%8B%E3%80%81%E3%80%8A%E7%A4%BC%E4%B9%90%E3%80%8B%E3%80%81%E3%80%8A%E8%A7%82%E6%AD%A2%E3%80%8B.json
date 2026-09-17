@@ -1,0 +1,44 @@
+{
+  "name": "《小学》、《礼乐》、《观止》",
+  "original_name": "学塾入门教材",
+  "type": "典籍",
+  "grade": "书籍",
+  "status": "活跃",
+  "description": "在大骊贵妇人眼中是“越大的道理越不值钱”的凡书，但 在陈平安手中，它们是走向外面世界的通行证 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第762章 归乡之返，开天之去",
+      "owner": "宋集薪(原)"
+    }
+  ],
+  "subtype": "教育/根基类",
+  "holder": "陈平安 / 李宝瓶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宋集薪",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽是市井凡物，却承载着儒家开蒙的“大道理”，是文脉 之源 。",
+  "supernatural_ability": "内容虽浅显，却包含着立身处世的根本规矩，可为读书 人打下文气底子 。",
+  "evolution": {
+    "current_form": "三本在任何小镇书肆都能买到的旧书 。",
+    "materials_consumed": [
+      "宣纸",
+      "墨汁"
+    ],
+    "potential_evolution": "若在书院文气浸染下，可成为孕育“文灵”的载体。"
+  },
+  "visual": {
+    "static": "书页泛黄，边角略有磨损，无甚神异 。",
+    "active": "诵读时若能诚意正心，纸上会隐约有浩然气流转 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝乃至浩然天下通用的开蒙书籍 。",
+    "karma_link": "陈平安幼时读书认字的起点，亦是齐静春教化的延续 。"
+  },
+  "enriched": true
+}

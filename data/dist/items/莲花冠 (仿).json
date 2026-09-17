@@ -1,0 +1,44 @@
+{
+  "name": "莲花冠 (仿)",
+  "original_name": "任公子道冠 / 齐谐冠",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陆沉为了让陈平安更好地“代天巡狩”而赠予的行头。陈平安借此道冠及其配套羽衣，成功在宝瓶洲 布下北斗阵法，以此砥砺道心并跨过元婴境门槛 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第846章 两人并肩",
+      "owner": "柔荑"
+    }
+  ],
+  "subtype": "辅助类 / 装饰类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为白玉京三掌教亲赐之物，具备承载圣人级道法的稳定性 。",
+  "supernatural_ability": "能够遮蔽天机，辅助持有者模拟出某种“真仙”气象，使其在跨界远游时气机圆满 。",
+  "evolution": {
+    "current_form": "陈平安符箓分身“任公子”所戴的紫金道冠 。",
+    "materials_consumed": [
+      "白玉京道韵",
+      "金精铜钱"
+    ],
+    "potential_evolution": "可作为大型幻境阵法的核心引渡物 。"
+  },
+  "visual": {
+    "static": "紫金材质，雕刻精美，形如盛开莲花 。",
+    "active": "佩戴后，持有者周身会有黄紫两色道气流转，背后浮现日月轮宝相 。"
+  },
+  "provenance": {
+    "origin": "白玉京三掌教陆沉暂借（送给）陈平安，用以在宝瓶洲游历 。",
+    "karma_link": "陈平安以此冠塑造了分身“任公子”，体现了其道家的一面 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "镜花水月画卷",
+  "original_name": "硬黄本神女图",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是山上修士用于消遣和打听消息的必备物品。它不仅展示了极其高超的绘画艺术，更是连接各洲资讯 的重要媒介，甚至承载了一些失传的道法真意 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第801章 为何问拳",
+      "owner": "姜尚真"
+    }
+  ],
+  "subtype": "影像类 / 观照类",
+  "holder": "落魄山（蚍蜉铺子）",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "骸骨滩壁画城",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为承载远古神女真意的画卷，若能集齐整套，可重现远古壁画城的神异气象 。",
+  "supernatural_ability": "具备“观照”之妙，可与各大仙家的“镜花水月”神通衔接，让持有者足不出户便能通过画卷观摩天下奇景 或剑仙风采 。",
+  "evolution": {
+    "current_form": "画工精细的硬黄纸本长卷，绘有神女图像 。",
+    "materials_consumed": [
+      "壁画残余灵气",
+      "神仙钱（用以开启）"
+    ],
+    "potential_evolution": "长期受高阶修士温养，画中神女有希望“走出”画卷成为傀儡剑侍 。"
+  },
+  "visual": {
+    "static": "画卷材质古朴，笔触细腻，画中神女如凌空欲飞，意境深远 。",
+    "active": "开启后画卷中雾气升腾，显现出活灵活现的人事景象，如身临其境 。"
+  },
+  "provenance": {
+    "origin": "源自北俱芦洲骸骨滩壁画城的古老拓本 。",
+    "karma_link": "陈平安在鬼蜮谷历练中获得，后作为落魄山旗下的生意筹码 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "龙神跨海符",
+  "original_name": "金色走龙符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一种极其罕见的由实物演化而来的符箓，象征着东海水府的法统。在所有水路航线中，持有此符即 代表水君亲临 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第977章 相亲相爱师兄弟",
+      "owner": "曹晴朗"
+    }
+  ],
+  "subtype": "位移类 / 压胜类",
+  "holder": "曹晴朗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "王朱 (东海水君)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为远古水部神灵的失传秘符，具备在四海之内无视水法阻隔的最高权限 。",
+  "supernatural_ability": "入水即可如乘龙而行，能够跨越走江泛海，速度等同于仙人倾力赶路 。",
+  "evolution": {
+    "current_form": "一条袖珍的金色走龙，一旦打散禁制即可祭出使用 。",
+    "materials_consumed": [
+      "真龙精血",
+      "上古金精"
+    ],
+    "potential_evolution": "长期温养于龙宫，可演化为能号令一地水族护驾的符节 。"
+  },
+  "visual": {
+    "static": "呈现为一只小巧的金色走龙形状，材质坚韧，金光灿烂 。",
+    "active": "祭出时化作一道金色虹光，修士乘之如真龙出巡，水浪自行分开 。"
+  },
+  "provenance": {
+    "origin": "东海水府秘藏的远古符箓 。",
+    "karma_link": "王朱为方便曹晴朗对接水府事务而赠送，作为其结丹的贺礼 。"
+  },
+  "enriched": true
+}

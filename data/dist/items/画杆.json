@@ -1,0 +1,38 @@
+{
+  "name": "画杆",
+  "original_name": "古木轴杆 / 天地双轴",
+  "type": "匠器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "承载《人间美艳篇》或《搜山图》等奇书的必要部件。优质的画杆能让画卷流传千年而不腐，是“文字 缘”的重要承载者 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1063章 多余即是温柔",
+      "owner": "沛湘"
+    }
+  ],
+  "subtype": "文化/封禁类",
+  "holder": "陈平安 / 收藏家",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "若由仙木制成，可作为封禁画中器灵的阵眼 。",
+  "supernatural_ability": "支撑画卷展开，防止画中之景（如镜花水月）的灵气消散 。",
+  "evolution": {
+    "current_form": "两端圆润、质地沉重的木质或玉质轴心 。",
+    "materials_consumed": [
+      "紫檀",
+      "黄花梨"
+    ],
+    "potential_evolution": "炼化后可成为掌握“小天地”开合的钥匙。"
+  },
+  "visual": {
+    "static": "带有精美的包浆，多有裂纹以显古意 。",
+    "active": "随画卷徐徐展开，带出阵阵墨香或幻境雾气 。"
+  },
+  "provenance": {
+    "origin": "出自文人案头或宫廷藏书楼 。",
+    "karma_link": "连接了书画意境与物理世界的支撑物。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "仿白玉京青铜宝塔",
+  "original_name": "仿白玉京五城十二楼宝塔",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "它是陈平安推演白玉京大道、并在心相天地内演化万法的重要工具，象征着落魄山的深厚底蕴 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第616章 月色洗剑为斫贼",
+      "owner": "陈平安 (战利品)"
+    },
+    {
+      "chapter": "第862章 后手",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "镇压类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "离真",
+      "relation": "夺取自"
+    },
+    {
+      "name": "玉符宫老宫主",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "曾为仙兵，在经历天劫打击后跌境，仍是构建小千世界必不可少的核心支柱 。",
+  "supernatural_ability": "能显化五城十二楼之虚影，辅助修士炼化五行之气，并镇压小天地内的不臣气机 。",
+  "evolution": {
+    "current_form": "造型古朴、带有风霜痕迹的袖珍青铜塔 。",
+    "materials_consumed": [
+      "白玉京道意",
+      "五行精粹"
+    ],
+    "potential_evolution": "陈平安计划大炼后将其作为“白玉京”道场，助力自身跻身更高境界 。"
+  },
+  "visual": {
+    "static": "塔身满布复杂的符文刻痕，哪怕只有寸余高也透着一股威严感 。",
+    "active": "祭出时在大地上化为千丈高的巍峨塔影，霞光流转，如神迹降临 。"
+  },
+  "provenance": {
+    "origin": "由玉符宫老宫主参考旧白玉京亲自炼制的镇山之宝 。",
+    "karma_link": "离真身死后，陈平安因其蕴含的白玉京道脉精髓将其视为重要藏品 。"
+  },
+  "enriched": true
+}

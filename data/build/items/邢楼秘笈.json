@@ -1,0 +1,35 @@
+{
+  "name": "邢楼秘笈",
+  "original_name": "未在源文中发现该项",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "在提供的笔记本资料中，并未找到关于“邢楼秘笈”的明确记录或相关情节。该词条可能来自笔记本之外 的内容。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1061章 假无敌真无敌",
+      "owner": "吴霜降 (原属宝鳞)"
+    }
+  ],
+  "subtype": "未知",
+  "holder": "未知",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "未知",
+  "supernatural_ability": "未知",
+  "evolution": {
+    "current_form": "未知",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "未知",
+    "active": "未知"
+  },
+  "provenance": {
+    "origin": "未知",
+    "karma_link": "未知"
+  },
+  "enriched": true
+}

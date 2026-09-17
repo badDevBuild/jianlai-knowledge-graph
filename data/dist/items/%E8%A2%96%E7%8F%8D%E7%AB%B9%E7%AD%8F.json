@@ -1,0 +1,35 @@
+{
+  "name": "袖珍竹筏",
+  "original_name": "缺失信息",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "提供的原始资料中未提及名为‘袖珍竹筏’的具体法宝。资料中提及的渡海工具多为‘符舟’、‘鲲船’或‘ 竹简’。[无]",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第494章 天上白玉京",
+      "owner": "袁宣"
+    }
+  ],
+  "subtype": "缺失信息",
+  "holder": "缺失信息",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "缺失信息",
+  "supernatural_ability": "缺失信息",
+  "evolution": {
+    "current_form": "缺失信息",
+    "materials_consumed": [],
+    "potential_evolution": "缺失信息"
+  },
+  "visual": {
+    "static": "资料源中未提供关于此物品的具体描述。[无]",
+    "active": "缺失信息"
+  },
+  "provenance": {
+    "origin": "缺失信息",
+    "karma_link": "缺失信息"
+  },
+  "enriched": true
+}

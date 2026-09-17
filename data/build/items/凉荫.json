@@ -1,0 +1,46 @@
+{
+  "name": "凉荫",
+  "original_name": "墨色飞剑",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是马致的性命依仗。该剑意境独特，专克暑气，是其剑道宗旨的物化表现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第260章 海上生明月",
+      "owner": "马致"
+    },
+    {
+      "chapter": "第261章 有剑从云海来",
+      "owner": "马致"
+    },
+    {
+      "chapter": "第638章 代大匠斫者",
+      "owner": "马致"
+    }
+  ],
+  "subtype": "攻伐/温养类",
+  "holder": "马致",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "随持有者跻身金丹境瓶颈，有望通过吸纳更多水运精华晋升为半仙兵。",
+  "supernatural_ability": "“凉荫意境”：剑意根本为“树荫乘凉”，意境近春寒、大雪、清泉，能让方圆百里之内暑气全消，自带森 寒之气 。",
+  "evolution": {
+    "current_form": "一尺有余的墨色飞剑",
+    "materials_consumed": [
+      "金丹剑修精元",
+      "天地灵气"
+    ],
+    "potential_evolution": "意境升华为“广寒宫避暑”之境"
+  },
+  "visual": {
+    "static": "剑身长约一尺，呈现深沉的墨色，平时藏于金丹修士气府中 。",
+    "active": "出鞘后萦绕主人飞旋，拖曳出条条黑色流萤，满室剑气森寒 。"
+  },
+  "provenance": {
+    "origin": "由老龙城范家金丹供奉马致苦心温养两百余载而成 。",
+    "karma_link": "曾在桂花岛上辅助陈平安淬炼三魂，夯实武道底子 。"
+  },
+  "enriched": true
+}

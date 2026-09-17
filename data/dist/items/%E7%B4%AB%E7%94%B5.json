@@ -1,0 +1,62 @@
+{
+  "name": "紫电",
+  "original_name": "",
+  "type": "法宝",
+  "grade": "飞剑",
+  "status": "活跃",
+  "description": "晏啄的佩剑。虽名为“紫电”，实则由晏胖子这个剑气长城有名的财神爷掌控，其出剑路数诡谲多变，令 蛮荒大妖防不胜防 。",
+  "aliases": [
+    "紫电"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第206章 月儿圆月儿弯",
+      "owner": "胖子少年剑修"
+    },
+    {
+      "chapter": "第271章 宁姑娘，对不起",
+      "owner": "胖子少年"
+    },
+    {
+      "chapter": "第594章 落魄山上老与小",
+      "owner": "晏琢"
+    },
+    {
+      "chapter": "第617章 谁能与宁姚般配",
+      "owner": "晏啄"
+    },
+    {
+      "chapter": "第646章 开阵",
+      "owner": "晏琢"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "晏啄",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "晏家祖上",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为剑气长城年轻天才剑修的佩剑，杀力位列同辈前茅 。",
+  "supernatural_ability": "“紫电绕虹”。出剑轨迹极其捉摸不定，剑气中附带雷电麻痹效果，且飞剑本身极具障眼法 。",
+  "evolution": {
+    "current_form": "蕴含浓郁紫电气息的佩剑 。",
+    "materials_consumed": [
+      "剑修精血",
+      "雷电精华"
+    ],
+    "potential_evolution": "可随主人晋升元婴而进一步升华杀力 。"
+  },
+  "visual": {
+    "static": "剑身透着幽幽紫光，悬佩于腰间，杀气内敛 。",
+    "active": "祭出时紫芒漫天，剑光交织如电网，声势惊人 。"
+  },
+  "provenance": {
+    "origin": "剑气长城晏氏家族私藏 。",
+    "karma_link": "见证了晏啄作为剑修在城头南边沙场的生死搏杀 。"
+  },
+  "enriched": true
+}

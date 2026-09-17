@@ -1,0 +1,58 @@
+{
+  "name": "春困酒",
+  "original_name": "云霞山耕云峰春困酒",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这是云霞山的招牌仙酿之一。在陈平安的修行逻辑中， 它不仅是饮品，更是陆沉用来引导他审视自身立身之本 （武学、符箓、剑术）的媒介 。",
+  "aliases": [
+    "耕云峰春困酒"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第872章 天下地上",
+      "owner": "云霞山"
+    },
+    {
+      "chapter": "第909章 逍遥游",
+      "owner": "黄钟侯"
+    },
+    {
+      "chapter": "第1026章 文有第一武无第二",
+      "owner": "陆沉/曹溶"
+    },
+    {
+      "chapter": "第1027章 休要乱我道心",
+      "owner": "陆沉"
+    }
+  ],
+  "subtype": "滋养/悟道类",
+  "holder": "陆沉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云霞山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "产自云霞山特定山峰，由于蕴含山水灵气，对修行心境 有稳定作用 。",
+  "supernatural_ability": "能辅助修士进入某种观想境界，用于印证道心与复盘人 生道路 。",
+  "evolution": {
+    "current_form": "盛放在特定酒壶中的仙家酒水 。",
+    "materials_consumed": [
+      "云霞山灵气",
+      "春季气运"
+    ],
+    "potential_evolution": "若能配合“坐忘”心境饮用，可转化为本命气府的灵气湖 泊 。"
+  },
+  "visual": {
+    "static": "酒液清澈，带有云霞山的淡淡雾气感 。",
+    "active": "在特定的光阴停滞空间内，酒气可显化为立轴画卷，映 照持有者的形象 。"
+  },
+  "provenance": {
+    "origin": "宝瓶洲梦粱国云霞山耕云峰 。",
+    "karma_link": "陆沉在陈平安的心相天地中搬出此酒，用于与其讨论武 学、符箓与剑术的先后顺序 。"
+  },
+  "enriched": true
+}

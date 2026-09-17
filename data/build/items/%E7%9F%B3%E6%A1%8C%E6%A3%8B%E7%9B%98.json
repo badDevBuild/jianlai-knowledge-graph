@@ -1,0 +1,44 @@
+{
+  "name": "石桌棋盘",
+  "original_name": "十七道棋盘石桌",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是远古仙人对弈留下的遗迹，石桌与棋局本身即为一种高深的阵法和修行工具。其独特的十七道制式 不同于后世流行的十九道，蕴含着失传的围棋定式 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第542章 羊肠小道，人人野修",
+      "owner": "无 (留于凉亭)"
+    }
+  ],
+  "subtype": "阵法类 / 磨砺类",
+  "holder": "陈平安 (记录其棋局内容)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "对坐手谈的枯死骸骨",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "棋盘蕴含古老定式，经受千百年浸润，若配合特定石桌，具备锁死光阴的潜力 。",
+  "supernatural_ability": "棋盘纵横十七道，本身是极佳的修心工具；其配套棋子白子滚烫如火灼烧魂魄，黑子冰冷刺骨冻结灵气 。",
+  "evolution": {
+    "current_form": "刻有十七道棋盘的石桌",
+    "materials_consumed": [
+      "日月精华",
+      "山水清气"
+    ],
+    "potential_evolution": "可演化为锁死光阴的恐怖阵法"
+  },
+  "visual": {
+    "static": "质地为古老青石，棋盘纵横十七道，残局留有淡金、幽绿两色涟漪 , 。",
+    "active": "棋子在棋盘移动时会带起金色与绿色的气机波动，气象万千 。"
+  },
+  "provenance": {
+    "origin": "发现于北俱芦洲一处仙府遗址的凉亭中 。",
+    "karma_link": "陈平安在凉亭记录下残存棋局并带回落魄山研究 , 。"
+  },
+  "enriched": true
+}

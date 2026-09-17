@@ -1,0 +1,49 @@
+{
+  "name": "柴刀",
+  "original_name": "开山柴刀 / 铁柴刀",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "损毁",
+  "description": "这是陈平安远游时最亲近的工具。相比于金贵的仙剑，他更习惯使用柴刀开路，体现了他朴素的生存智慧和武道本心 , , 。",
+  "aliases": [
+    "柴刀",
+    "半截柴刀"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第98章 山神作祟",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第99章 山神和竹刀",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第865章 重提",
+      "owner": "高明"
+    }
+  ],
+  "subtype": "生产类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "由于长期伴随纯粹武夫，刀身可凝聚武夫拳意，逐渐产生灵性 , 。",
+  "supernatural_ability": "异常锋利，能劈开寻常灵气禁制，适合在荆棘密布的山林中开辟道路 , 。",
+  "evolution": {
+    "current_form": "普通的精铁柴刀，刀刃略显斑驳 , 。",
+    "materials_consumed": [
+      "凡铁",
+      "武夫真气"
+    ],
+    "potential_evolution": "若经神匠重铸，可演化为具备“开山”神通的重器。"
+  },
+  "visual": {
+    "static": "刀身厚重，刃部雪亮，木柄因长期握持而变得光滑 , 。",
+    "active": "劈砍时力道沉重，能发出沉闷的破空声 。"
+  },
+  "provenance": {
+    "origin": "陈平安在小镇市井或过路渡口购买的农用工具 , 。",
+    "karma_link": "象征着陈平安作为“泥腿子”出身，脚踏实地的修行路数 。"
+  },
+  "enriched": true
+}

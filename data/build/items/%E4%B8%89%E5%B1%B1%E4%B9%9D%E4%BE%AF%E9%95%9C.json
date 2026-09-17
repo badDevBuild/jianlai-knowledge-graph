@@ -1,0 +1,63 @@
+{
+  "name": "三山九侯镜",
+  "original_name": "三山九侯镜",
+  "type": "法宝",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这是道教符箓与阵法宗师的顶级法产，代表了观察天地与人心最幽微处的极致道法 。",
+  "aliases": [
+    "照妖镜",
+    "光明镜"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第493章 千山万水，明月一轮",
+      "owner": "无 (杨崇玄图谋中)"
+    },
+    {
+      "chapter": "第701章 风雪中",
+      "owner": "杨凝性"
+    },
+    {
+      "chapter": "第914章 一张桌子",
+      "owner": "杨凝性"
+    },
+    {
+      "chapter": "第1007章 观书喜夜长",
+      "owner": "杨凝性"
+    }
+  ],
+  "subtype": "破障类 / 寻宝类",
+  "holder": "杨凝性 (杨木茂)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨凝真",
+      "relation": "赠予者"
+    },
+    {
+      "name": "三山九侯先生",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为三山九侯先生遗留的机缘，是炼化人身小天地五行之土的顶级本命物 。",
+  "supernatural_ability": "能够寻觅隐藏的仙家秘境，破除极其高深的隐匿阵法，并具备观照本心的妙用 。",
+  "evolution": {
+    "current_form": "隐匿于北俱芦洲宝镜山深涧之底的一面至宝古镜 。",
+    "materials_consumed": [
+      "三山气运",
+      "符箓真意"
+    ],
+    "potential_evolution": "可配合三山符演化出大千世界的法理基础 。"
+  },
+  "visual": {
+    "static": "沉入水底时，引发整座山涧化为光阴漩涡，寻常肉眼难以窥其真形 。",
+    "active": "被唤醒后宝光莹然，镜面可映照出跨越时空的因果脉络 。"
+  },
+  "provenance": {
+    "origin": "远古天下十豪候补三山九侯先生所留，失传已久后在北俱芦洲重现 。",
+    "karma_link": "杨凝真为弟求宝，在宝镜山消磨多年终得手，此后成为杨凝性修道的关键 。"
+  },
+  "enriched": true
+}

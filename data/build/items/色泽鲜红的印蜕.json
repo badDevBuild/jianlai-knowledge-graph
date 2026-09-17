@@ -1,0 +1,44 @@
+{
+  "name": "色泽鲜红的印蜕",
+  "original_name": "鸡犬城印蜕水卷 / 皕剑仙印谱前身",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这份印蜕是夜航船中的文化瑰宝。它记录了“酒仙诗佛，剑同万古”等名句，是剑修气概与文人情怀在纸 上的碰撞与融合 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1025章 但愿青帝常为主",
+      "owner": "寺庙"
+    }
+  ],
+  "subtype": "文房类 / 记录类",
+  "holder": "鸡犬城城主",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "夜航船历代城主",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着陈平安补全更多印文，该印蜕将成为承载剑气长城剑道气运的终极谱牒 。",
+  "supernatural_ability": "“名实互证” 。印蜕内容与持有者的心境、事功相互呼应，不仅是书法艺术，更是道法痕迹的显化 。",
+  "evolution": {
+    "current_form": "在江面上铺展开来的巨大印蜕水卷 。",
+    "materials_consumed": [
+      "江水灵气",
+      "道门印泥"
+    ],
+    "potential_evolution": "若集齐数百枚印文，可演化为一部“剑同万古”的剑道经纬图 。"
+  },
+  "visual": {
+    "static": "色泽鲜红如火，印文法度严谨，充满金石气 。",
+    "active": "在江面上缓缓流转，每一个文字都仿佛在讲述一段剑仙的生平故事 。"
+  },
+  "provenance": {
+    "origin": "源自鸡犬城城主对人间名士、剑仙印章的多年收集 。",
+    "karma_link": "由城主专门请陈平安帮忙补全缺失的印文，体现了文字缘的深厚 。"
+  },
+  "enriched": true
+}

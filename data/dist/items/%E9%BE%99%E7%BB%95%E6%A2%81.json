@@ -1,0 +1,48 @@
+{
+  "name": "龙绕梁",
+  "original_name": "衔珠盘龙柱",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是苻南华私宅的核心阵法所在，让他的起居之地变成了一座即使是上山神仙也会眼红的修行宝地 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第253章 有人送剑有人等",
+      "owner": "苻家"
+    },
+    {
+      "chapter": "第307章 眼底脚下",
+      "owner": "陆舫"
+    }
+  ],
+  "subtype": "聚灵类 / 压胜类",
+  "holder": "苻南华",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "苻家老祖",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由于使用了古大渎龙宫旧藏，具备演化为“真实水域”以滋养本命物的潜力 。",
+  "supernatural_ability": "**“洞天福地化”**。通过八根主梁上的衔珠真龙，将所在宅邸强行转化为灵气极其浓郁的小型修道场 。",
+  "evolution": {
+    "current_form": "宅邸建筑的八根主要栋梁 。",
+    "materials_consumed": [
+      "先天灵器宝珠",
+      "龙宫旧藏"
+    ],
+    "potential_evolution": "若能得到真龙气息滋养，梁上之龙可幻化为生动的护法灵物 。"
+  },
+  "visual": {
+    "static": "梁上雕刻有栩栩如生的真龙缠绕，龙头口衔流光溢彩的宝珠 。",
+    "active": "修行时，梁上龙首似有起伏，宝珠散发出实质般的灵气浓雾笼罩整座建筑 。"
+  },
+  "provenance": {
+    "origin": "老龙城苻家私邸的传承建筑，借鉴了古代龙宫的礼制与法式 。",
+    "karma_link": "象征着老龙城苻家对“龙”这一意象的权柄掌控与气运掠夺 。"
+  },
+  "enriched": true
+}

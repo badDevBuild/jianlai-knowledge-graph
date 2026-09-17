@@ -1,0 +1,49 @@
+{
+  "name": "子母榆钱",
+  "original_name": "扶乩宗榆钱",
+  "type": "灵物",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "这是与陈平安早期机缘深度绑定的一种小巧灵物。虽然名为“钱”，实则是某种身份的象征或开启特定秘 境的信物，承载着“小神仙送少年赴官”的深意 。",
+  "aliases": [
+    "子母榆钱"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第210章 山水相逢也重逢",
+      "owner": "无"
+    }
+  ],
+  "subtype": "方寸物",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "扶乩宗",
+      "relation": "原主"
+    },
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为特定因果的载体，其价值随持有者境界提升而显现。",
+  "supernatural_ability": "芥子纳须弥，其内部空间虽小但可与特定机缘衔接 。",
+  "evolution": {
+    "current_form": "形似榆树荚果的细小钱币",
+    "materials_consumed": [
+      "光阴流水"
+    ],
+    "potential_evolution": "转化为某种指向光阴长河的钥匙"
+  },
+  "visual": {
+    "static": "细小如普通榆荚，色泽青绿，质地坚韧 。",
+    "active": "激发时会散发出淡淡的仙家灵光 。"
+  },
+  "provenance": {
+    "origin": "出自桐叶洲扶乩宗的“喊天街” 。",
+    "karma_link": "陆沉赠送给少年（陈平安）的赴官礼 。"
+  },
+  "enriched": true
+}

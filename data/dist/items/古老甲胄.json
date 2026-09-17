@@ -1,0 +1,49 @@
+{
+  "name": "古老甲胄",
+  "original_name": "远古神甲 / 披甲者遗物",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "损毁",
+  "description": "兵家甲丸的“祖宗”，所有后世神人承露甲、金乌甲皆为 其仿品。承载了远古神战的惨烈因果 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第926章 与诸君借取千山万水（七）",
+      "owner": "青同"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "青同 (阳神身外身)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "看门神将 (郑大风前身)",
+      "relation": "原主"
+    },
+    {
+      "name": "铸造者 (神灵)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为三大神甲之一，具备演化为远古披甲者真迹的可能 。",
+  "supernatural_ability": "防御力极强，能硬抗十一境武夫拳意，且具备自动缝补 、恢复神性的功效 。",
+  "evolution": {
+    "current_form": "雪白色、晶莹剔透的兵家重甲 。",
+    "materials_consumed": [
+      "日精",
+      "光阴长河之水",
+      "神灵金身碎片"
+    ],
+    "potential_evolution": "若能补全在登天一役中破碎的碎片，可重现远古五至高 之威 。"
+  },
+  "visual": {
+    "static": "通体雪白如霜，鳞片细密且带有金属与玉石混合的内敛 光泽 。",
+    "active": "激活后金光流转，如同一团燃烧的烈日，并伴随细微的 雷鸣声 。"
+  },
+  "provenance": {
+    "origin": "远古十二高位神灵“铸造者”以披甲者甲胄为原型仿造的 三件次一等真迹之一 。",
+    "karma_link": "原主在登天一役中被剑钉死，甲胄破碎流落人间，后被 大妖搜集 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "瞳子",
+  "original_name": "眼精 / 瞳精",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "一种极为稀罕的案头精怪，虽然价格昂贵，但对需要修炼目力或洞察力 的修士具有极大裨益 。",
+  "aliases": [
+    "眼瞳精魅"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第287章 北行",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "精魅/滋养类",
+  "holder": "陆台",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吞宝鲸碧水湖店铺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随寄主眼神精进而生长，最高可助力修士开辟“天眼通”。",
+  "supernatural_ability": "能够寄生或辅助持有者，让眼神日益精进，实现“看我即修行”的奇效 。",
+  "evolution": {
+    "current_form": "生活在眼中的微小精魅 。",
+    "materials_consumed": [
+      "目力神识",
+      "日精月华"
+    ],
+    "potential_evolution": "可进化为能够看破一切幻象的“真实之瞳”。"
+  },
+  "visual": {
+    "static": "形如细微的流光，平时隐匿于眼眶之中。",
+    "active": "当修士动用眼神神通时，双眸会闪烁出异样的神采，气象甚至可以压制 低阶修士的神识 。"
+  },
+  "provenance": {
+    "origin": "产自某些特定灵气聚集的秘境，通过特定仪式捕捉 。",
+    "karma_link": "陆台在吞宝鲸上花费八百颗雪花钱购得，用于调侃陈平安的眼力 。"
+  },
+  "enriched": true
+}

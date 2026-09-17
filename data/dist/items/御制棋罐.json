@@ -1,0 +1,52 @@
+{
+  "name": "御制棋罐",
+  "original_name": "白帝城琉璃阁棋罐",
+  "type": "重器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这组棋罐是林君璧的随身重宝，曾被誉为“山上最值得期待的物件”之一 。它不仅体现了白帝城的权宜之术，更承载了某种“天心”与“神道”的微妙平衡 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第467章 飞鸟一声如劝客",
+      "owner": "朱敛"
+    },
+    {
+      "chapter": "第606章 出言便作狮子鸣",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "封禁类 / 辅助类",
+  "holder": "林君璧 / 崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白帝城",
+      "relation": "原主"
+    },
+    {
+      "name": "郑居中",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为白帝城的重宝，其不仅是容器，更是两座大道阵法的载体 。",
+  "supernatural_ability": "“神灵护持”。罐身刻有“在在处处，神灵护持”与“人人事事，天心庇护”等铭文，具有镇压心魔之效 。",
+  "evolution": {
+    "current_form": "青瓷材质的精致棋罐 。",
+    "materials_consumed": [
+      "白帝城水汽",
+      "远古瓷土"
+    ],
+    "potential_evolution": "配合特定的棋子（如彩云子），可演化为杀伤力巨大的周天星斗阵法 。"
+  },
+  "visual": {
+    "static": "形制古雅，带有典型的白帝城琉璃阁风格，其上铭文隐隐有金光流转 。",
+    "active": "开罐之时，棋子跃出如星辰运行，剑气森森 。"
+  },
+  "provenance": {
+    "origin": "产自白帝城琉璃阁，由郑居中亲自炼制 。",
+    "karma_link": "见证了林君璧从邵元王朝天才成长为隐官一脉重要成员的过程 。"
+  },
+  "enriched": true
+}

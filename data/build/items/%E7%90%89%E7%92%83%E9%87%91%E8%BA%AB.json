@@ -1,0 +1,56 @@
+{
+  "name": "琉璃金身",
+  "original_name": "飞升境大修士遗蜕",
+  "type": "其他",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是飞升境大修士“道果显化”的实物，陈平安利用这些碎片重塑了多具具有神性的分身，是其在应对高 位阶战斗时的重要战力储备 , 。",
+  "aliases": [
+    "杜懋的阳神身外身",
+    "杜懋遗蜕",
+    "仙人遗蜕"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第386章 又一年春",
+      "owner": "石柔 (原主杜懋)"
+    },
+    {
+      "chapter": "第400章 远游北归",
+      "owner": "蜂尾渡野修"
+    }
+  ],
+  "subtype": "躯壳/重塑类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杜懋",
+      "relation": "原主"
+    },
+    {
+      "name": "桐叶宗",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "源自飞升境修士杜懋陨落后的遗存，具备承载神性及作为高级傀儡躯壳的极限潜力 , 。",
+  "supernatural_ability": "体魄极其坚韧，号称不败金身，可抵挡寻常地仙甚至更高境界的攻击 , 。",
+  "evolution": {
+    "current_form": "五彩琉璃色的金身碎块 。",
+    "materials_consumed": [
+      "飞升境修士灵气精华",
+      "五彩琉璃碎片"
+    ],
+    "potential_evolution": "陈平安曾将其炼化为多具纯粹金身分身，如“任公子”等 。"
+  },
+  "visual": {
+    "static": "呈现为晶莹剔透、光彩绚烂的五彩琉璃碎块 , 。",
+    "active": "完全显化时如神灵巡视，身披金光，法相巍峨且无面 。"
+  },
+  "provenance": {
+    "origin": "杜懋冲击飞升境失败后，身躯崩裂坠地形成的琉璃碎片 。",
+    "karma_link": "由“那个人”从光阴长河中捞取或由桐叶宗补偿给陈平安 , 。"
+  },
+  "enriched": true
+}

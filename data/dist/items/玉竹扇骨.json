@@ -1,0 +1,44 @@
+{
+  "name": "玉竹扇骨",
+  "original_name": "神霄竹刻扇",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一件陈平安极为珍爱的文房器物。虽然目前还是半成品，但其材质与雕工均属于当世顶尖水平，是 克制邪祟的绝佳利器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第310章 刺杀",
+      "owner": "俞真意"
+    }
+  ],
+  "subtype": "文房类 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "晏家铺子",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由天地名竹之祖“神霄竹”制成，长期温养可晋升为具有“口含天宪”之能的文房法宝 。",
+  "supernatural_ability": "**“避暑清心”**。扇动时可生出令修道之人灵台清明的风，且天然压胜地底的精怪鬼魅 。",
+  "evolution": {
+    "current_form": "玉质感的青色竹制扇骨，尚未装裱扇面 。",
+    "materials_consumed": [
+      "青神山神霄竹",
+      "名家雕刻意境"
+    ],
+    "potential_evolution": "若集齐多种神迹文字，可演化为支撑小天地幻境的枢纽。"
+  },
+  "visual": {
+    "static": "色泽苍翠如玉，一边刻有十八罗汉，另一边刻有蟠桃诗句，署名“寿眉”与“梦吉” 。",
+    "active": "轻轻挥动即可驱散阴霾气机，文字间隐有金石声，光华流转 。"
+  },
+  "provenance": {
+    "origin": "扇骨选材自三十六小洞天之一的青神山神霄竹 。",
+    "karma_link": "由于其“筷子”般的出身，曾被鉴定师感叹是极其奢侈的暴殄天物 。"
+  },
+  "enriched": true
+}

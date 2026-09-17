@@ -1,0 +1,66 @@
+{
+  "name": "铜钱剑",
+  "original_name": "古铜钱剑",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是鬼蜮谷秘境中至关重要的压胜重器，代表了古代兵家修士针对阴物鬼魅的顶级压胜手段 。",
+  "aliases": [
+    "金钱剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第293章 鹰不飞",
+      "owner": "黄尚"
+    },
+    {
+      "chapter": "第991章 山青花欲燃",
+      "owner": "黄尚"
+    },
+    {
+      "chapter": "第1017章 又与谁问梅花消息",
+      "owner": "遗址神秘女子/李希圣镇压"
+    },
+    {
+      "chapter": "第1018章 道深者言浅",
+      "owner": "三山九侯先生 (原主)"
+    },
+    {
+      "chapter": "第1061章 假无敌真无敌",
+      "owner": "无 (镇压物)"
+    },
+    {
+      "chapter": "第1067章 大师兄和小师弟",
+      "owner": "柴御"
+    }
+  ],
+  "subtype": "压胜类/攻伐类",
+  "holder": "遗址大妖/前辈",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古兵家修士",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为古代兵家镇压煞气的核心重器，具备平定万里山河阴冥气息的潜力 。",
+  "supernatural_ability": "镇压大范围煞气，其剑气对邪祟而言如烈日当空，具备雷法天威 。",
+  "evolution": {
+    "current_form": "锈迹斑斑的古旧铜钱剑 。",
+    "materials_consumed": [
+      "远古神灵金身碎片",
+      "精纯煞气"
+    ],
+    "potential_evolution": "若打破石碑封印，可彻底释放斩妖除邪的神威 。"
+  },
+  "visual": {
+    "static": "由多枚古铜钱串联而成，剑身生锈斑驳，常年搁放在石碑顶部 。",
+    "active": "当煞气外泄或受到感应时，剑气激荡，产生雷鸣之声并绽放刺眼金光 。"
+  },
+  "provenance": {
+    "origin": "源自北俱芦洲鬼蜮谷古战场遗址 。",
+    "karma_link": "与古代石碑共同构成的阵法枢纽，用于防止秘境内的煞气冲毁外部山河 。"
+  },
+  "enriched": true
+}

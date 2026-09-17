@@ -1,0 +1,44 @@
+{
+  "name": "绳结",
+  "original_name": "百花绳结",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安打算以此为信物，作为在浩然天下为封姨和百花 福地调解纷争的“和事佬”凭证 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1197章 天下见陈",
+      "owner": "姜玉微"
+    }
+  ],
+  "subtype": "因果/护存类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "封姨",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因涉及百花福地众神之精魄，具备演化为掌控众生情丝 因果的重宝潜力 。",
+  "supernatural_ability": "由百花福地众多花神各出一缕精魄炼化而成，具备极强 的辟邪与安魂功效 。",
+  "evolution": {
+    "current_form": "如同一枚普通铜钱大小的彩色绳结 。",
+    "materials_consumed": [
+      "百花花神精魄",
+      "福地气运"
+    ],
+    "potential_evolution": "可作为重返百花福地并与花主面谈的凭证 。"
+  },
+  "visual": {
+    "static": "色彩斑斓，由百余条纤细丝线拧缠而成，工艺精巧绝伦 。",
+    "active": "散发出阵阵花香，笼罩范围内可使人心境祥和，抵御部 分阴冥术法侵袭 。"
+  },
+  "provenance": {
+    "origin": "百花福地花神们为了报答封姨或作为信物而共同炼制 。",
+    "karma_link": "连接了陈平安对“雅物”的收集与百花福地的深厚因果 。"
+  },
+  "enriched": true
+}

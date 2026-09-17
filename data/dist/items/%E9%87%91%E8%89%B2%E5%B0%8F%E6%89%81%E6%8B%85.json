@@ -1,0 +1,52 @@
+{
+  "name": "金色小扁担",
+  "original_name": "右护法金扁担",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "周米粒视若珍宝的“神兵”。虽然在旁人眼中或许只是普通灵器，但在落魄山大家庭中，它象征着右护法 的职责与威严，曾随周米粒巡视过多处藩属山头 [4-6]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第652章 立在明月中",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第687章 落魄山上有剑仙",
+      "owner": "周米粒"
+    },
+    {
+      "chapter": "第761章 老了江湖",
+      "owner": "周米粒"
+    }
+  ],
+  "subtype": "辅助/压胜类",
+  "holder": "周米粒",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着周米粒巡山功德积攒，可成为镇压山水气运的小型重器。",
+  "supernatural_ability": "配合疯魔剑法使用，具有“有仙气”的加持，能让周米粒在巡山时震慑寻常山精水怪 。",
+  "evolution": {
+    "current_form": "一根小巧玲珑、纯金打造的扁担 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "落魄山灵气"
+    ],
+    "potential_evolution": "可演化为能够担起一方山水气运的本命法宝 。"
+  },
+  "visual": {
+    "static": "金光灿灿，分量沉重，常由黑衣小姑娘肩挑巡山 。",
+    "active": "挥动时自带“天桥派”气概，能与绿竹杖配合施展独门武学 。"
+  },
+  "provenance": {
+    "origin": "陈平安送给周米粒的礼物，寓意“挑起重担” 。",
+    "karma_link": "见证了周米粒从哑巴湖小水怪到落魄山右护法的成长 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "飞剑（仿品）",
+  "original_name": "四大仙剑仿制品 / 吴霜降赠礼",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这组飞剑不仅是神兵，更是吴霜降对天下最高剑道的注疏。陈平安持有它们，不仅增强了杀力，更获得 了窥探上古秘法的捷径 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1058章 一片孤城彩云间",
+      "owner": "郑居中"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    },
+    {
+      "name": "岁除宫",
+      "relation": "制作方"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "本身已具备半仙兵雏形，随炼化可无限接近正品杀力 。",
+  "supernatural_ability": "模仿“太白”、“道藏”、“万法”、“天真”四大仙剑的部分本命神通 。",
+  "evolution": {
+    "current_form": "四把破损严重的袖珍飞剑 。",
+    "materials_consumed": [
+      "金精铜钱",
+      "仙剑真意"
+    ],
+    "potential_evolution": "修补后可作为研习古老道脉与剑道的“有字天书” 。"
+  },
+  "visual": {
+    "static": "剑身残留有白玉京或天师府的禁制气息，形制高古 。",
+    "active": "虽然破损，仍能爆发出足以震慑仙人境的凌厉剑意 。"
+  },
+  "provenance": {
+    "origin": "吴霜降通过拆解远古道脉、呕心沥血锻造而成的绝品 。",
+    "karma_link": "作为岁除宫对陈平安的一种大道补偿与因果绑定 。"
+  },
+  "enriched": true
+}

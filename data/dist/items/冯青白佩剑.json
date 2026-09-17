@@ -1,0 +1,37 @@
+{
+  "name": "冯青白佩剑",
+  "original_name": "朝元",
+  "type": "仙剑",
+  "grade": "凡物",
+  "status": "遗失",
+  "description": "冯青白是藕花福地内的游侠儿，凭借此佩剑跻身“天下十人”之列 , 。他自称剑修，实则是福地内武力值极高的顶尖剑客 。此剑在福地中名声显赫，是极具代表性的兵器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第314章 误入藕花深处",
+      "owner": "原主冯青白，现被陈平安夺取使用"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "冯青白",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "在藕花福地属于顶级兵刃，具备跻身法宝的潜质 。",
+  "supernatural_ability": "能够配合冯青白的剑法使出绚烂剑花，杀力极大 。它是跻身福地“天下十人”的关键依仗 。",
+  "evolution": {
+    "current_form": "长剑",
+    "materials_consumed": [
+      "剑气砥砺"
+    ],
+    "potential_evolution": "若能带出福地，在浩然天下温养，可升格为更高阶的法宝 。"
+  },
+  "visual": {
+    "static": "剑身清亮，透着寒光，是一柄典型的剑客佩剑 。",
+    "active": "挥动时剑光纵横，出剑速度极快，远超寻常武夫 。"
+  },
+  "provenance": {
+    "origin": "藕花福地中的顶级剑道传承 。",
+    "karma_link": "冯青白凭借此剑在南苑国京城参与十人之争，试图获取福地机缘 , 。"
+  },
+  "enriched": true
+}

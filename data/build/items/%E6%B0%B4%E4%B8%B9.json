@@ -1,0 +1,50 @@
+{
+  "name": "水丹",
+  "original_name": "水运珠子 / 碧丹",
+  "type": "丹药",
+  "grade": "天材地宝",
+  "status": "消耗品",
+  "description": "水丹是修行水属法门的练气士梦寐以求的资粮。在《剑来》中，一颗高 品质水丹足以引起一洲水域的动荡与争夺 。",
+  "aliases": [
+    "蜃泽水丹"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第527章 思无邪即从容",
+      "owner": "张山峰/陈平安"
+    }
+  ],
+  "subtype": "滋养/水法类",
+  "holder": "陈平安 / 张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "天籁窟琵琶夫人",
+      "relation": "赠予者"
+    },
+    {
+      "name": "中土蜃泽水神",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若得真龙之气浸染，可成为大补水系本命物的仙丹。",
+  "supernatural_ability": "蕴含精纯的水运精华，可极大提升水属气府的灵气储备 。",
+  "evolution": {
+    "current_form": "碧绿色的丹丸，入手沁凉 。",
+    "materials_consumed": [
+      "大渎水精",
+      "水神愿力"
+    ],
+    "potential_evolution": "可炼化为滋养“龙湫”的本命骊珠 。"
+  },
+  "visual": {
+    "static": "色泽如翡翠，表面有水润的光泽 。",
+    "active": "放入水中会引发微小的旋涡，吞服后周身有清爽感，平复燥气。"
+  },
+  "provenance": {
+    "origin": "多由高位水神（如蜃泽湖君、埋河水神）以本命水运炼化而成 。",
+    "karma_link": "代表了江河正神与练气士之间的香火馈赠与大道扶持。"
+  },
+  "enriched": true
+}

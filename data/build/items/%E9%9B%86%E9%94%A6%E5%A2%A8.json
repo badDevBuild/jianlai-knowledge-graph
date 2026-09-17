@@ -1,0 +1,48 @@
+{
+  "name": "集锦墨",
+  "original_name": "月下松道人墨 / 龙宾墨",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一件极具传奇色彩的文房灵物。墨锭中居住的“龙宾”是文运的显化，不仅是名贵的消耗品，更是一 位能与儒生共鸣的益友。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第565章 还乡",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文运/精魅类",
+  "holder": "杨朴",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "戴塬",
+      "relation": "赔罪者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "蕴含一国文运精华，且内藏文灵精魅，对读书人的才气有着极大的增幅作用。",
+  "supernatural_ability": "每逢明月夜，墨锭之上会出现一位小道人“龙宾”，能指点文意，辅佐治学。",
+  "evolution": {
+    "current_form": "色泽乌润、古意盎然的珍稀墨锭。",
+    "materials_consumed": [
+      "千年古松烟料",
+      "文人墨客之气"
+    ],
+    "potential_evolution": "若能以此墨抄写万卷经书，小道人有望成长为更高阶的文职神灵。"
+  },
+  "visual": {
+    "static": "墨面刻有“黑松使者”等字样，散发出冷冽的松香味。",
+    "active": "月下可见微缩的小道人于墨上行走，宛如活物。"
+  },
+  "provenance": {
+    "origin": "中土大王朝宫中旧物，后流落至虞氏王朝供奉戴塬手中。",
+    "karma_link": "陈平安将其转赠给学生杨朴，寓意其求学之路有神人相助。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,53 @@
+{
+  "name": "甲作",
+  "original_name": "本命刀",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "它是倒悬山师刀房女冠柳伯奇的本命之物，位列师刀房极高位置 。虽然柳伯奇常以此刀之外的“獍神”对敌，但“甲作”才是其真正的底牌 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第393章 灵光乍现山渐青",
+      "owner": "柳伯奇"
+    },
+    {
+      "chapter": "第394章 水落石出小钱堆",
+      "owner": "柳伯奇"
+    },
+    {
+      "chapter": "第395章 一碗鸡汤不知道",
+      "owner": "柳伯奇"
+    },
+    {
+      "chapter": "第467章 飞鸟一声如劝客",
+      "owner": "柳伯奇"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "柳伯奇",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "柳伯奇",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随主人境界提升",
+  "supernatural_ability": "作为倒悬山师刀房天才柳伯奇的本命物，具体杀力未知",
+  "evolution": {
+    "current_form": "法刀",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "通常以法刀形态随身悬佩 。",
+    "active": "作为本命之物，其品秩和威能远在师刀房名刀“獍神”之上 。"
+  },
+  "provenance": {
+    "origin": "倒悬山师刀房",
+    "karma_link": "柳伯奇的修道根本"
+  },
+  "enriched": true
+}

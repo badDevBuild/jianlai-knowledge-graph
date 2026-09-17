@@ -1,0 +1,44 @@
+{
+  "name": "诗文玉璧",
+  "original_name": "刻文水晶璧",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是南薰殿水神沈霖的重要佩饰。玉璧不仅工艺精湛， 更记载了大量关于古代水利与神祇升迁的秘辛 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第983章 愁者解自愁",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "饰品/气运类",
+  "holder": "沈霖",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "南薰水殿",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "受大渎水运与神位浸染多年，有望演化为承载一洲文脉 的封正法器 。",
+  "supernatural_ability": "玉璧上铭刻有古老诗文，具有稳固水府风水、镇压江河 煞气的功能 。",
+  "evolution": {
+    "current_form": "悬挂在沈霖腰间的一枚晶莹剔透的水晶璧 。",
+    "materials_consumed": [
+      "大渎精粹",
+      "文人墨宝道韵"
+    ],
+    "potential_evolution": "可与“青铜古镜”结合，形成阴阳相济的山水阵法 。"
+  },
+  "visual": {
+    "static": "璧面平滑如镜，内含细密如蝇头小楷的篆刻文字 。",
+    "active": "在阳光下会浮现出一条彩虹般的流光，映照出水底宫殿 的虚影 。"
+  },
+  "provenance": {
+    "origin": "源自桐叶洲大渎南薰水殿的皇室遗珍 。",
+    "karma_link": "是沈霖作为大渎水神身份的象征物之一 。"
+  },
+  "enriched": true
+}

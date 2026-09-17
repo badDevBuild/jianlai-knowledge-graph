@@ -1,0 +1,46 @@
+{
+  "name": "羊脂兽",
+  "original_name": "玉精 / 羊脂美玉兽",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一种“极其烧钱”的精怪，因只吃雪花钱且难以饲养，在山上被视为 极度奢华的宠物 。",
+  "aliases": [
+    "吃钱兽"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第287章 北行",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "活材料/滋养类",
+  "holder": "陆台",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "扶乩宗店铺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "身躯即顶级天材地宝，成年后具备极强的防御力，可化为本命盾牌。",
+  "supernatural_ability": "身躯是玉石精魄凝聚而成，性情刚烈，成年被擒即自尽 。由于其特殊材质，可用于制造顶级符箓玉牌 。",
+  "evolution": {
+    "current_form": "通体如白玉雕琢、幼年期活蹦乱跳的小兽 。",
+    "materials_consumed": [
+      "海量雪花钱 (其唯一食粮)",
+      "灵气玉髓"
+    ],
+    "potential_evolution": "若能豢养至成年而不死，可演化为具备自动护主功能的“活灵宝”。"
+  },
+  "visual": {
+    "static": "通体洁白如羊脂，触感温润，散发着柔和的玉石宝光 。",
+    "active": "行动极为敏捷，奔跑时带起阵阵灵气残影 。"
+  },
+  "provenance": {
+    "origin": "罕见于北俱芦洲深山玉矿之巅，由玉石精气孕育 。",
+    "karma_link": "陆台以十二颗小暑钱的高价竞得，体现了其不俗的财力与对奇珍的偏好 。"
+  },
+  "enriched": true
+}

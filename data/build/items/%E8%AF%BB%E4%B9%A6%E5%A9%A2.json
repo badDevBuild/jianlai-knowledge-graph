@@ -1,0 +1,51 @@
+{
+  "name": "读书婢",
+  "original_name": "何家短剑",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "何辜的家传短剑，尽管名字听起来温婉，实则是杀人无数的兵刃。它代表了何家作为“刑官”扈从的铁血 传承 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第747章 秉烛夜游",
+      "owner": "何辜"
+    },
+    {
+      "chapter": "第898章 未来",
+      "owner": "何辜"
+    },
+    {
+      "chapter": "第962章 陌上又花开",
+      "owner": "何辜"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "何辜",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "何家历代剑修",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随何辜跻身地仙，其家族传承的杀伐意气将更盛 。",
+  "supernatural_ability": "剑身具有独特的“刑官”压胜气息，专门针对神魂虚弱之辈 。",
+  "evolution": {
+    "current_form": "造型古朴的短剑，常由何辜悬挂于腰间 。",
+    "materials_consumed": [
+      "战场意气"
+    ],
+    "potential_evolution": "有望成为配合其本命飞剑“飞来峰”的副剑 。"
+  },
+  "visual": {
+    "static": "剑鞘陈旧，但剑气凛然，给人一种森严之感 。",
+    "active": "出鞘时伴有朗朗书声（实为剑鸣），对邪祟有极强震慑 。"
+  },
+  "provenance": {
+    "origin": "出自剑气长城刑官一脉的何家 。",
+    "karma_link": "承载了何家历代剑修在战场上的功勋与杀气 。"
+  },
+  "enriched": true
+}

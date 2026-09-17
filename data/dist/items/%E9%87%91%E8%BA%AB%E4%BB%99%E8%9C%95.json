@@ -1,0 +1,50 @@
+{
+  "name": "金身仙蜕",
+  "original_name": "杜懋阳神遗蜕",
+  "type": "材料",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件因果极重的仙人遗蜕，因其主人生前曾尝试强行飞升而蕴含了一丝破碎的琉璃光彩 。",
+  "aliases": [
+    "金身仙蜕"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第224章 才子佳人",
+      "owner": "马苦玄"
+    }
+  ],
+  "subtype": "遗蜕/肉身类",
+  "holder": "石柔",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "杜懋",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "虽是无用皮囊，却是名副其实的不败金身，可供阴魂寄居并发挥出飞升境修士的强横战力 。",
+  "supernatural_ability": "能够隔绝外界对阴物气机的察觉，并让穿戴者拥有近乎仙人境的防御力与力量 。",
+  "evolution": {
+    "current_form": "桐叶宗飞升境大修士杜懋遗留的阳神身外身 。",
+    "materials_consumed": [
+      "飞升境修士精元",
+      "道门秘法"
+    ],
+    "potential_evolution": "通过特殊秘法炼化后，可作为极高品秩的战斗傀儡 。"
+  },
+  "visual": {
+    "static": "一具栩栩如生的修士躯壳，肌肤呈现出莹润的宝光，宛如活人 。",
+    "active": "被阴魂寄居后，双目有神，举手投足间带有排山倒海的威势 。"
+  },
+  "provenance": {
+    "origin": "桐叶宗中兴之祖杜懋飞升失败后，遗落在人间的阳神身外身 。",
+    "karma_link": "由陈平安从桐叶洲带回，作为石柔的临时躯壳，使其能够行走于阳光下 。"
+  },
+  "enriched": true
+}

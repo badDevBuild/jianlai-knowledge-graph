@@ -1,0 +1,44 @@
+{
+  "name": "横扫",
+  "original_name": "横秋",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "秋气湖水君宫花的佩剑，名为“横秋”。该剑承载了武学大宗师的意气，剑鞘华美且法度严谨，是莲藕福 地中极具名声的神兵利器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第918章 为何只有剑修",
+      "owner": "米裕"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "宫花 (秋气湖水君)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宫花前生",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为武学宗师英灵的本命佩剑，具备在水域战场上一剑定风波的潜力 。",
+  "supernatural_ability": "“横扫秋水”。出剑时剑气如秋水横空，具有极强的破障效果，能够在大湖之上造就出剑气禁区 。",
+  "evolution": {
+    "current_form": "藏于金丝剑鞘内的古剑 。",
+    "materials_consumed": [
+      "秋气湖水运",
+      "宗师拳意"
+    ],
+    "potential_evolution": "可随宫花的“洗脸盆”秘境修行演化为指挥万千水族的兵符 。"
+  },
+  "visual": {
+    "static": "剑鞘裹缠细密金丝，古意盎然，由英灵宫花背负 。",
+    "active": "剑光一闪如秋水长天，所向披靡，能瞬间斩断同境修士的术法牵引 。"
+  },
+  "provenance": {
+    "origin": "宫花前生作为武学宗师时的随身佩剑 。",
+    "karma_link": "见证了宫花死后化为英灵并占据秋气湖成为一代水君的过程 。"
+  },
+  "enriched": true
+}

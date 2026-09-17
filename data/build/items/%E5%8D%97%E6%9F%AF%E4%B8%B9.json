@@ -1,0 +1,50 @@
+{
+  "name": "南柯丹",
+  "original_name": "百日仙 / 第四方",
+  "type": "丹药",
+  "grade": "灵丹",
+  "status": "消耗",
+  "description": "这是白裳作为同乡赠送给于禄的重宝。由于此丹药涉及远古神道遗留，被视为“第四方”秘传，是能够改 变一国运势的顶级资源 。",
+  "aliases": [
+    "迷魂丹"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第297章 出拳",
+      "owner": "白衣男子"
+    }
+  ],
+  "subtype": "破境类 / 延寿类",
+  "holder": "于禄",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "白裳",
+      "relation": "赠予者"
+    },
+    {
+      "name": "葛淮南",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "得自远古仙君遗址，具备起死回生、返魄还魂之神效，对中五境巅峰修士具有极大的破境裨益 。",
+  "supernatural_ability": "**“起死回生”**。能够帮助服药者凝聚魂魄，炼制手法极其古老，被誉为“服芝灵药” 。",
+  "evolution": {
+    "current_form": "盛放在锦盒内的珍稀丹药 。",
+    "materials_consumed": [
+      "远古灵芝",
+      "仙君真火"
+    ],
+    "potential_evolution": "服用后可使人“百日成仙”，但代价是无法继续担任世俗皇帝 。"
+  },
+  "visual": {
+    "static": "封存于古朴锦盒中，散发着淡雅的药香与温润的光泽 。",
+    "active": "药力散发时伴有五彩烟霞，能瞬间充盈全身气府 。"
+  },
+  "provenance": {
+    "origin": "得自荆山一处茅屋丹炉遗址，原主为仙君葛淮南 。",
+    "karma_link": "由白裳赠予于禄，作为其在桐叶洲立足的“见面礼” 。"
+  },
+  "enriched": true
+}

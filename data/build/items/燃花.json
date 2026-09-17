@@ -1,0 +1,48 @@
+{
+  "name": "燃花",
+  "original_name": "剑意“燃花”",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "“燃花”是落魄山在五彩天下和北俱芦洲布局中发现的珍稀剑意之一 。它由远古剑仙遗留的碎剑残余与此方天地造化融合而成，象征着“枯木逢春、破镜重圆”的坚韧剑道 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第630章 刺杀隐官",
+      "owner": "列戟"
+    },
+    {
+      "chapter": "第928章 与诸君借取千山万水（九）",
+      "owner": "列戟"
+    }
+  ],
+  "subtype": "攻伐类 / 幻象类",
+  "holder": "芫菜",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "远古战场遗迹",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为应运而生的本命剑胚，具有极高的成长性，可配合“重圆”神通跻身地仙品秩 。",
+  "supernatural_ability": "具备“破镜”与“重圆”之神通，使得飞剑与持剑体魄皆极难真正消亡 。",
+  "evolution": {
+    "current_form": "形若青竹、节有雷云纹的袖珍飞剑 。",
+    "materials_consumed": [
+      "雷电真意",
+      "香火愿力"
+    ],
+    "potential_evolution": "可望跻身仙兵之列，成为掌控一方雷火规矩的重器。"
+  },
+  "visual": {
+    "static": "剑身如一竿青翠欲滴的小竹，上有天然形成的雷云纹路 。",
+    "active": "祭出时剑意如花开，剑光流转伴随雷鸣声，能在那光阴长河中显化异象 。"
+  },
+  "provenance": {
+    "origin": "鬼蜮谷女鬼芫菜在一处名为“丈人观”的废弃道院无意间所得 。",
+    "karma_link": "因感念宁姚与齐廷济的递剑与招魂之恩，对其行三跪九叩大礼 。"
+  },
+  "enriched": true
+}

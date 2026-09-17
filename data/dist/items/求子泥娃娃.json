@@ -1,0 +1,38 @@
+{
+  "name": "求子泥娃娃",
+  "original_name": "庙会泥人 / 护宅娃娃",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是典型的浩然天下民俗灵物，虽然品秩不高，却代表了最坚韧的世俗 气运与家庭期许 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第342章 夜游水神庙",
+      "owner": "求子信徒"
+    }
+  ],
+  "subtype": "民俗/消耗类",
+  "holder": "大骊京城百姓 / 陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "凝聚了人间祈求子嗣的强烈愿力，可作为汲取香火的小型媒介 。",
+  "supernatural_ability": "无直接战斗杀力，但能增加居所的福德气息，一定程度上驱散游荡的小 型阴魂 。",
+  "evolution": {
+    "current_form": "以黄土烧制的彩绘小泥人，憨态可掬 。",
+    "materials_consumed": [
+      "万年土（微量）",
+      "人间愿力"
+    ],
+    "potential_evolution": "若受地仙长期供奉，可演化为具有护院职责的“守灶童子”。"
+  },
+  "visual": {
+    "static": "色彩斑斓，身穿红肚兜，怀抱大鲤鱼，眼神灵动 。",
+    "active": "遇有邪祟时，泥人表面的彩绘会泛起微弱红光 。"
+  },
+  "provenance": {
+    "origin": "产自大骊京城城隍庙会或小镇老瓷山周边的民窑 。",
+    "karma_link": "见证了陈平安从市井生活走入修行世界的温情时刻 。"
+  },
+  "enriched": true
+}

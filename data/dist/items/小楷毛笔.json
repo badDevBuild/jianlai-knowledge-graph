@@ -1,0 +1,44 @@
+{
+  "name": "小楷毛笔",
+  "original_name": "尖毫小楷笔",
+  "type": "匠器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "一种极为实用的山上文房器物。其“呵气成墨”的特性极其适合在恶劣环境下书写经文或画符 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第604章 与谁问拳，向谁问剑",
+      "owner": "裴钱(赠予宁姚)"
+    }
+  ],
+  "subtype": "文房类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "紫竹岛岛主",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着书写的高级符箓增加，笔锋可蕴含雷霆真意 。",
+  "supernatural_ability": "“呵气成墨”，只需轻轻呵出一口灵气，即可落笔自如，无需频繁蘸墨 。",
+  "evolution": {
+    "current_form": "紫竹笔管，毫尖有透明锋颖 。",
+    "materials_consumed": [
+      "上品紫竹",
+      "灵气"
+    ],
+    "potential_evolution": "若能融入上古雷电，可成为绘制顶级大符的圣物 [无]。"
+  },
+  "visual": {
+    "static": "造型古朴，笔管泛紫，由于常年被灵气浸染而显得极其润泽 。",
+    "active": "落笔时墨迹芬芳，能够天然防蛀百年之久 。"
+  },
+  "provenance": {
+    "origin": "陈平安从紫竹岛岛主处厚颜讨要而来 。",
+    "karma_link": "陈平安将其作为书写《雷局》与绘制符箓的主力工具 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "陶罐",
+  "original_name": "古陶罐 / 骨灰坛",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "看似平庸的陶罐实则是远古时代的“计量之祖”。它在苗稼手中与何洲的飞剑神通配合，天衣无缝，镇压 了秘境内的所有煞气。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第611章 风将起",
+      "owner": "冯康乐"
+    }
+  ],
+  "subtype": "控制类",
+  "holder": "苗稼",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为上古阵法的枢纽，随持有者对道术的感悟加深，可演化为衡量天地的计量之物。",
+  "supernatural_ability": "能够驾驭遗址内的天地灵气，作为大型防御阵法的中枢，且能容纳一升具有定影作用的神水。",
+  "evolution": {
+    "current_form": "一个极其粗糙的古旧陶罐。",
+    "materials_consumed": [
+      "兵家英灵气息",
+      "精粹道气"
+    ],
+    "potential_evolution": "可演化为名为“龙王篓”或“计量坛”的仙兵。"
+  },
+  "visual": {
+    "static": "表面斑驳，灰土扑扑，毫无灵光显现，极似寻常百姓家的腌菜坛子。",
+    "active": "激发时会产生巨大的吸力，强行稳固方圆数里的天地气机，使灵气如潮水归位。"
+  },
+  "provenance": {
+    "origin": "疑似某位远古兵家修士的骨灰坛，在光阴长河中沉淀千年。",
+    "karma_link": "由苗稼在遗址中偶然得之，成为其在乱世中保命的根本底牌。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,47 @@
+{
+  "name": "老龙袍",
+  "original_name": "苻家祖传老龙袍",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "老龙袍是老龙城苻家的铁律象征。在宝瓶洲最南端，铁打的苻家通过这件袍子维持了数千年的统治地位 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第251章 老龙城",
+      "owner": "苻家最强者"
+    },
+    {
+      "chapter": "第254章 精诚动人也伤人",
+      "owner": "苻家(名义)/稚圭(真主)"
+    }
+  ],
+  "subtype": "身份/气运类",
+  "holder": "苻家最强者",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "苻家历代先祖",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为老龙城苻家的核心传承重器，承载着整座城池的家族底蕴与政治象征 。",
+  "supernatural_ability": "目前文献未详述具体攻伐神通，但其存在本身即是老龙城权力的极致象征 。",
+  "evolution": {
+    "current_form": "法袍",
+    "materials_consumed": [
+      "老龙城气运"
+    ],
+    "potential_evolution": "与老龙城云海阵法合一"
+  },
+  "visual": {
+    "static": "它是苻家最为尊贵的传承服饰，具有极其威严的形制 。",
+    "active": "仅限苻家家族最强者披挂，象征意义甚至超过了其实战价值 。"
+  },
+  "provenance": {
+    "origin": "老龙城苻家数千年积累的底蕴之物 。",
+    "karma_link": "与老龙城苻家的家规深度绑定：**唯有家族最强者，可穿祖传老龙袍** 。"
+  },
+  "enriched": true
+}

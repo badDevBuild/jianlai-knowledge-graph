@@ -1,0 +1,44 @@
+{
+  "name": "龙女仙衣湘水裙",
+  "original_name": "湘水裙 / 龙女湘水袍",
+  "type": "法宝",
+  "grade": "法袍",
+  "status": "活跃",
+  "description": "这是**浩然天下最负盛名的女修法袍之一**。其独特的 材质与美感，使其在一洲商贸中占据极高地位 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1195章 定场诗",
+      "owner": "落魄山(计划制造)"
+    }
+  ],
+  "subtype": "防御/驻颜类",
+  "holder": "各种上五境女修",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "彩雀府",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "若能点缀顶级虬珠并配合水法炼制，可升格为具有“水 路分阴阳”神通的半仙兵 。",
+  "supernatural_ability": "云雾缥缈，能自主汲取天地水运，具备极佳的避尘与驻 颜功效 。",
+  "evolution": {
+    "current_form": "丝滑流光、轻盈如烟雾的仙家铢衣 。",
+    "materials_consumed": [
+      "仙家云锦",
+      "虬珠"
+    ],
+    "potential_evolution": "可演化为能让神灵“人身”巡游阳间的不朽法袍 。"
+  },
+  "visual": {
+    "static": "色彩斑斓，如春水泛起阵阵涟漪 。",
+    "active": "光照下呈现波光粼粼之象，透过法袍的水纹光色昼夜各 异 。"
+  },
+  "provenance": {
+    "origin": "由北俱芦洲彩雀府通过古老秘法织造而成 。",
+    "karma_link": "作为浩然九洲女修的头等心头好，承载了极大的山上商 贸因果 。"
+  },
+  "enriched": true
+}

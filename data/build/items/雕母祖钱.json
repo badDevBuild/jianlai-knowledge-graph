@@ -1,0 +1,48 @@
+{
+  "name": "雕母祖钱",
+  "original_name": "祖泉 / 雕母",
+  "type": "货币",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是神仙钱体系中的顶级珍品。作为雕母祖钱，它不仅是财富的象征，更是兵家或符箓派用来压胜、镇 坛的重要法器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第496章 自古剑仙需饮酒",
+      "owner": "杨凝性 (原属老鼋)"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "杨凝性",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "清德宗隐仙",
+      "relation": "原主"
+    },
+    {
+      "name": "老龙窟",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为货币体系的源头，具有极强的压胜气运和镇压水脉的能力 。",
+  "supernatural_ability": "能够镇压地脉或水府气运；作为雕母，是一切同类钱币的模板，具有极高的法理位阶 。",
+  "evolution": {
+    "current_form": "品相极佳的古老铜钱 。",
+    "materials_consumed": [
+      "金精",
+      "仙人精血/法力"
+    ],
+    "potential_evolution": "若能聚齐一套，可演化为镇压一洲财运的重宝。"
+  },
+  "visual": {
+    "static": "色泽金黄或暗青，字口如斩，刀痕犹存，带有神异的灵光 。",
+    "active": "散发出的金光可镇压周遭煞气，对阴物有天然震慑力。"
+  },
+  "provenance": {
+    "origin": "由清德宗的一位隐仙亲手铸造 。",
+    "karma_link": "原藏于老龙窟，后被杨凝性在鬼蜮谷中黑吃黑夺得 。"
+  },
+  "enriched": true
+}

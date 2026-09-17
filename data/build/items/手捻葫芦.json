@@ -1,0 +1,32 @@
+{
+  "name": "手捻葫芦",
+  "original_name": "姜壶 / 养剑葫",
+  "type": "方寸物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安赠予徒弟裴钱把玩的小物件，虽无特殊法力，但承载着师徒情谊。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第397章 异乡见老乡",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "滋养类 / 攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    },
+    {
+      "name": "姜姓剑修",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "虽初始品秩为中等，但经过陈平安长期温养并投入“斩龙石”后，品相已向半仙兵甚至仙兵级进化 , 。",
+  "supernatural_ability": "内部自成小天地，可同时温养多把飞剑，并能无视地仙以下境界的查探 , 。",
+  "enriched": true
+}

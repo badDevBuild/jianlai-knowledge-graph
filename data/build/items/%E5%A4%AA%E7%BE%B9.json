@@ -1,0 +1,45 @@
+{
+  "name": "太羹",
+  "original_name": "太羹渡船",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是皑皑洲众多跨洲渡船中的佼佼者。它不仅是**商贸的载体**，更是连接各洲气运的重要节点，由于 其**管事戴蒿**极善经营，使得太羹号在倒悬山一带颇具声名 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第847章 龙蛇起陆",
+      "owner": "皑皑洲势力"
+    }
+  ],
+  "subtype": "运输类 / 跨洲渡船",
+  "holder": "戴蒿",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "皑皑洲刘氏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为皑皑洲与倒悬山贸易的核心链条，承载着巨额的神仙钱流转与资源运输 。",
+  "supernatural_ability": "具备跨越浩瀚海洋与虚空罡风的稳定航行能力，船身布有复杂的防御阵法 。",
+  "evolution": {
+    "current_form": "巨型跨洲楼船 。",
+    "materials_consumed": [
+      "大量雪花钱",
+      "山上木材",
+      "防御阵盘"
+    ],
+    "potential_evolution": "可配合特定的山水气运加持，演化为移动的堡垒 。"
+  },
+  "visual": {
+    "static": "体型巨大且厚重，外观沉稳而不花俏，散发着内敛的灵气波动 。",
+    "active": "航行时彩带飘扬，阵法开启后周身笼罩着淡淡的水雾与灵气保护层 。"
+  },
+  "provenance": {
+    "origin": "源自皑皑洲，隶属于财神爷刘氏的商贸船队 。",
+    "karma_link": "见证了浩然天下各洲与剑气长城之间长达数千年的物资往来与经济博弈 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "白玉牌",
+  "original_name": "素白玉牌 / 咫尺物",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安随身携带的珍稀咫尺物 。其中一块购自灵芝斋的素白玉牌价值二十颗谷雨钱，被陈平安 刻字并精心收藏 。它是陈平安作为“包袱斋”积累家底的核心法宝 。",
+  "aliases": [
+    "白玉牌",
+    "方寸物",
+    "咫尺物"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第85章 大考落幕",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "储物类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "郑大风",
+      "relation": "赠予者"
+    },
+    {
+      "name": "灵芝斋",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为极高品秩的咫尺物，其材质稀有，且能随陈平安的炼化加深而 稳固空间 。",
+  "supernatural_ability": "内含“最小洞天”，可隔绝气机，储存海量天材地宝而不外泄灵气 。",
+  "evolution": {
+    "current_form": "无铭文素白玉牌",
+    "materials_consumed": [
+      "灵气",
+      "剑意刻字"
+    ],
+    "potential_evolution": "完全炼化的小型洞天"
+  },
+  "visual": {
+    "static": "质地细腻，触感如绸缎，无任何装饰的素雅玉牌 。",
+    "active": "陈平安曾以飞剑十五为刻刀在牌上刻字，激发时可开启存储空间 。"
+  },
+  "provenance": {
+    "origin": "其一源自老龙城灰尘药铺郑大风的还账 ，其二购自倒悬山灵芝斋 。",
+    "karma_link": "是陈平安行走江湖、搬迁各种山水重宝（如藻井、金身碎片）的关 键载体 。"
+  },
+  "enriched": true
+}

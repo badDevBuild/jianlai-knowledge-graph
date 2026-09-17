@@ -1,0 +1,48 @@
+{
+  "name": "核雕小舟",
+  "original_name": "三层彩船渡船",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "紫阳府老祖吴懿的随身法宝。它既是极其珍稀的代步渡船，也凝聚了古蜀遗留的水脉气韵，是她在大江 大河中行走的重要依仗 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第420章 山水依旧",
+      "owner": "高挑女子(紫阳府)"
+    },
+    {
+      "chapter": "第421章 少侠遇见大侠",
+      "owner": "吴懿"
+    }
+  ],
+  "subtype": "空间/渡船类",
+  "holder": "吴懿 (洞灵真君)",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "程龙舟 (老蛟)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "承载着古蜀之蛟的水运精粹，具备演化为顶级水上道场的潜质 。",
+  "supernatural_ability": "能够随心意在袖珍核雕与宏伟彩船之间自由切换，内部可容纳大量侍女仆役及物资 。",
+  "evolution": {
+    "current_form": "一枚精巧的核雕小舟 。",
+    "materials_consumed": [
+      "古蜀水运精华",
+      "老蛟精血"
+    ],
+    "potential_evolution": "作为开启水路脉络的枢纽，可进一步强化为水府行宫 。"
+  },
+  "visual": {
+    "static": "仅有拇指大小，雕刻精美，可见船窗人物 。",
+    "active": "祭出后化作一艘雕栏画栋的三层彩船，水雾升腾，气象万千 。"
+  },
+  "provenance": {
+    "origin": "由老蛟程龙舟在吴懿跻身洞府境时赏赐 。",
+    "karma_link": "象征着吴懿作为老蛟长女的身份地位及紫阳府的底蕴 。"
+  },
+  "enriched": true
+}

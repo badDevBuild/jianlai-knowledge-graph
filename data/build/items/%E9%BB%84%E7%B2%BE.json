@@ -1,0 +1,43 @@
+{
+  "name": "黄精",
+  "original_name": "晒干黄精",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "这是一种在全椒古山发现的灵草，陆沉以此向薛如意换 取银钱 。它承载了陆沉“医者慎之又慎”的处世态度，也是山 野机缘的体现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1025章 但愿青帝常为主",
+      "owner": "陈平安(袁化境赠)"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "薛如意",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽为山野草药，但因产自古山且蕴含正法，具备助人破 开凡俗屏障的潜力 。",
+  "supernatural_ability": "得其正法服食之后，可致天飞，具备延年益寿与轻身之 效 。",
+  "evolution": {
+    "current_form": "几斤质地极好、价廉物美的晒干药草 。",
+    "materials_consumed": [
+      "全椒古山灵气"
+    ],
+    "potential_evolution": "炼制后可成为“致天飞”的仙丹配料 。"
+  },
+  "visual": {
+    "static": "色泽金黄干燥，带有淡淡的药香 。",
+    "active": "服食时会有微弱的道韵流转，使人神清气爽 。"
+  },
+  "provenance": {
+    "origin": "产自全椒古山，由一位有道之士传授采服之法 。",
+    "karma_link": "陆沉将其卖给薛如意，作为游戏人间的因果布局之一 。"
+  },
+  "enriched": true
+}

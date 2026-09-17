@@ -1,0 +1,50 @@
+{
+  "name": "方寸物玉玺",
+  "original_name": "螭虎钮玉玺 / 凝运神宝",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件极具历史沉淀感的方寸物，不仅是储物器，更是承载着某种“亡国气运”的禁忌之宝 。",
+  "aliases": [
+    "方寸物玉玺"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第171章 杨柳依依的少女",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "收纳类 / 气运类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文景国皇室",
+      "relation": "原主"
+    },
+    {
+      "name": "刘杆子 (包袱斋)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为文景国传国十七宝之一，若集齐整套可镇压一洲地脉 。",
+  "supernatural_ability": "“芥子乾坤 / 气运压胜”。内部有巨大的储物空间，且能掩盖内部灵物的宝光，由于其重宝身份，更能镇压邪祟 。",
+  "evolution": {
+    "current_form": "方二寸的黄金质地螭虎钮玉玺 。",
+    "materials_consumed": [
+      "文景国龙气",
+      "上古金精"
+    ],
+    "potential_evolution": "可演化为用于创建宗门下宗的“镇山印” 。"
+  },
+  "visual": {
+    "static": "色泽沉稳，螭虎雕刻生动，印文为“范围天地，幽赞神明” 。",
+    "active": "作为方寸物使用时，会有细微的龙气涟漪荡漾，掩盖一切因果窥探 。"
+  },
+  "provenance": {
+    "origin": "源自宝瓶洲南部覆灭大王朝文景国的太庙珍藏 。",
+    "karma_link": "崔东山从包袱斋手中低价买下，实际是为了落魄山在桐叶洲的复国与宗门布局 。"
+  },
+  "enriched": true
+}

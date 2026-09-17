@@ -1,0 +1,64 @@
+{
+  "name": "花神杯",
+  "original_name": "十二月花神杯",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是山上好酒之人的头等心头好。每只杯子不仅是精美 的艺术品，更是承载了历代文豪对花神敬意的法宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第790章 备战",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第870章 惜哉",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1017章 又与谁问梅花消息",
+      "owner": "田湖君"
+    },
+    {
+      "chapter": "第1198章 锦上添花",
+      "owner": "陈平安(仿品)"
+    },
+    {
+      "chapter": "第1203章 开门见了新人间",
+      "owner": "国师府"
+    },
+    {
+      "chapter": "第1206章 天壤间",
+      "owner": "陈平安 -> 赵繇"
+    }
+  ],
+  "subtype": "滋养/仪式类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刑官豪素",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若集齐十二只并有对应花神“点睛”，可演化为掌控百花 节气的重器 。",
+  "supernatural_ability": "杯中酒液可因花神映像而产生异香，具备清心定神、延 缓肉身衰老的神通 。",
+  "evolution": {
+    "current_form": "五彩瓷质小酒杯，绘有女子花神像与题诗 。",
+    "materials_consumed": [
+      "百花精魄",
+      "官窑精瓷"
+    ],
+    "potential_evolution": "可成为构建“不夜城”或“百花园”道场的核心组件 。"
+  },
+  "visual": {
+    "static": "胎薄如纸，彩绘精美，每一只杯子都对应一个月的花卉 与神女 。",
+    "active": "倒入酒水后，杯壁上的女子神态如生，仿佛在对月起舞 。"
+  },
+  "provenance": {
+    "origin": "产自百花福地，是山上公认的顶级文玩 。",
+    "karma_link": "陈平安曾在豪素葡萄架下对其心仪已久，后在议事期间 以此还清酒债 。"
+  },
+  "enriched": true
+}

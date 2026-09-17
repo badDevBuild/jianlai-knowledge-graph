@@ -1,0 +1,44 @@
+{
+  "name": "荷叶方寸物",
+  "original_name": "莲花小洞天荷叶",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是吴霜降用于跨界远游和与顶级强者切磋的根本依仗，它不仅是顶级的空间存储法宝，更是其大道显 化出的“不败之地” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第211章 天作之合",
+      "owner": "贺小凉"
+    }
+  ],
+  "subtype": "空间/防御类",
+  "holder": "吴霜降",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "岁除宫",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为吴霜降本命法宝的延伸，可容纳城池级别的生灵与建筑。",
+  "supernatural_ability": "法天象地：可随心意扩充至巨大规模；空间加固：能够作为小天地的“补丁”修补破损空间 。",
+  "evolution": {
+    "current_form": "碧绿欲滴的莲叶",
+    "materials_consumed": [
+      "岁除宫秘法",
+      "星宿灵气"
+    ],
+    "potential_evolution": "转化为承载岁除宫万年道统的独立天下"
+  },
+  "visual": {
+    "static": "寻常状态下呈现为质感如玉的碧绿荷叶 。",
+    "active": "施展时可铺展在云海上，承载起整座星宿大阵，边缘泛起琉璃光彩 。"
+  },
+  "provenance": {
+    "origin": "来自青冥天下岁除宫的莲花小洞天 。",
+    "karma_link": "是吴霜降构建“无法之地”的核心组件 。"
+  },
+  "enriched": true
+}

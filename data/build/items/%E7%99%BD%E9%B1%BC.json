@@ -1,0 +1,48 @@
+{
+  "name": "白鱼",
+  "original_name": "白鱼飞剑",
+  "type": "本命飞剑",
+  "grade": "飞剑",
+  "status": "活跃",
+  "description": "曹峻的核心杀招，以极致的锋芒和速度著称，是北俱芦洲剑修实力的典型代表 , 。",
+  "aliases": [
+    "白鱼"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第183章 他有春叶夏雷秋风冬雪",
+      "owner": "曹峻"
+    },
+    {
+      "chapter": "第184章 别有洞天",
+      "owner": "曹峻"
+    },
+    {
+      "chapter": "第195章 镇剑楼",
+      "owner": "曹峻"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "曹峻",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "具备一剑破万法的潜质，杀力随剑修境界攀升而叠加 , 。",
+  "supernatural_ability": "“穿刺”。能在瞬息间寻找防御薄弱处并贯穿目标，剑意随磨砺而不断提升 , 。",
+  "evolution": {
+    "current_form": "短小精悍的雪白飞剑 , 。",
+    "materials_consumed": [
+      "剑修精气",
+      "磨剑石"
+    ],
+    "potential_evolution": "若能跻身中五境，飞剑威力将迎来翻天覆地的变化 。"
+  },
+  "visual": {
+    "static": "剑身通体雪白，外形短小如游鱼 , 。",
+    "active": "祭出时如白虹贯日，可在百步之内轻易取人首级 , 。"
+  },
+  "provenance": {
+    "origin": "天才剑修曹峻的本命物 。",
+    "karma_link": "曾在小巷对战李希圣，展现了“一剑破万法”的纯粹锐气 , 。"
+  },
+  "enriched": true
+}

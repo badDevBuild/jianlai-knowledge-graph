@@ -1,0 +1,52 @@
+{
+  "name": "先天剑丸",
+  "original_name": "上古西岳剑丸",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "泥丸是一枚品秩极高的上古剑丸，不仅是杀伐利器，更承载了一份古老的道门传承 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第506章 诸位只管取剑",
+      "owner": "儒衫老人"
+    }
+  ],
+  "subtype": "剑道类",
+  "holder": "曹晴朗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "吴懿",
+      "relation": "赠予者"
+    },
+    {
+      "name": "程龙舟",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "出自上古西岳得道真人手笔，若能继承其凋零的道统，潜力极大 。",
+  "supernatural_ability": "蕴含“面壁千年无人知，三清只需泥土身”的道意；可作为本命飞剑温养，亦能作为开启真人洞府的信物 。",
+  "evolution": {
+    "current_form": "一道纤细的漆黑剑光 。",
+    "materials_consumed": [
+      "西岳金气",
+      "真经道韵"
+    ],
+    "potential_evolution": "若能配合五行之土本命物炼化，可成就极高品秩的本命飞剑 。"
+  },
+  "visual": {
+    "static": "最初被封印在袖珍剑匣中，显化为紫金文字 。",
+    "active": "现世后为漆黑剑光，紫气升腾，剑气流溢 。"
+  },
+  "provenance": {
+    "origin": "出自上古时代中土西岳某位得道真人，原本是送给西岳副山的镇山之宝 。",
+    "karma_link": "由程龙舟赠予吴懿，再由吴懿作为“买卖添头”赠予陈平安，最终成为曹晴朗的结丹贺礼 。"
+  },
+  "enriched": true
+}

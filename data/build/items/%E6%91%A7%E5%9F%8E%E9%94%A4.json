@@ -1,0 +1,46 @@
+{
+  "name": "摧城锤",
+  "original_name": "袁真页重锤",
+  "type": "重器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是搬山老猿袁真页的标志性重型兵器。它以绝对的重量和纯粹的暴力 著称，曾在老龙城和正阳山的多场战事中显露凶威 。",
+  "aliases": [
+    "巨锤"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第305章 远观近看",
+      "owner": "大骊魁梧壮汉修士"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "袁真页 (搬山老猿)",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "正阳山祖师堂",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随持有人肉身强度的提升，可发挥出击碎山根、断裂江河的杀力 。",
+  "supernatural_ability": "重量极其惊人，附带“搬山”法理，一锤落下可造成大范围的地面塌陷与 气机震荡 。",
+  "evolution": {
+    "current_form": "玄铁铸造的巨型重锤，铭刻有兵家压胜纹路 。",
+    "materials_consumed": [
+      "深海寒铁",
+      "正阳山剑气精华"
+    ],
+    "potential_evolution": "若能融入斩龙台碎屑，可升格为半仙兵“镇岳锤”。"
+  },
+  "visual": {
+    "static": "锤身黝黑冰冷，表面布满战斗留下的划痕，散发出厚重的肃杀气息 。",
+    "active": "挥动时带起剧烈的空气爆鸣，落地处山摇地动，龙蛇起陆 。"
+  },
+  "provenance": {
+    "origin": "正阳山为护山供奉袁真页量身打造的重型兵刃 。",
+    "karma_link": "曾用于对抗落魄山及阻截陈平安，见证了老猿的一生霸气 。"
+  },
+  "enriched": true
+}

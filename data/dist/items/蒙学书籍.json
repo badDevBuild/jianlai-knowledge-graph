@@ -1,0 +1,51 @@
+{
+  "name": "蒙学书籍",
+  "original_name": "《小学》/《礼乐》/《观止》",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这些书籍代表了《剑来》中“道理”的物化。虽然在权贵 眼中“道理越大越不值钱”，但在泥瓶巷少年手中却是立 身之本 。",
+  "aliases": [
+    "蒙学书籍"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第89章 两颗人头",
+      "owner": "宋集薪"
+    },
+    {
+      "chapter": "第161章 山水终有一别",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文化/教化类",
+  "holder": "陈平安 / 曹晴朗 / 宋集薪",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "学塾先生 (齐静春)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "其他",
+  "rank_potential": "虽然材质普通，却是儒家道理的根基，随着修学者明理 ，可聚拢浩然正气 。",
+  "supernatural_ability": "能够安稳心境，让贫寒学子在陋巷中守住志向。大修士 观之，可查见其中教化功德 。",
+  "evolution": {
+    "current_form": "市井版刻质朴的纸质薄册子 。",
+    "materials_consumed": [
+      "宣纸",
+      "笔墨",
+      "苦读之心"
+    ],
+    "potential_evolution": "若能炼化其中的“道理”，可成就言出法随的圣贤境界 。"
+  },
+  "visual": {
+    "static": "书皮泛黄，字迹端正，边缘常有翻阅留下的磨损 。",
+    "active": "朗读时若心有诚意，书页间会有微弱的白光闪烁，那是 浩然气的雏形 。"
+  },
+  "provenance": {
+    "origin": "产自大骊各地的书肆，曾摆放在泥瓶巷祖宅的书桌上 。",
+    "karma_link": "连接了陈平安从泥腿子到读书人的身份跨越，以及齐静 春的甲子教化因果 。"
+  },
+  "enriched": true
+}

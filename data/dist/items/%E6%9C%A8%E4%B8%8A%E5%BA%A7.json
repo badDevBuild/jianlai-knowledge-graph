@@ -1,0 +1,38 @@
+{
+  "name": "木上座",
+  "original_name": "周金刚锡杖",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是僧人周金刚挑担远游时所持的法器，象征其作为“木上座”的尊崇地位。此杖在条目城内展现了出世 的风采，是其佛法修为的外化载体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第909章 逍遥游",
+      "owner": "云霞老祖"
+    }
+  ],
+  "subtype": "攻伐类 / 威慑类",
+  "holder": "周金刚 (僧人)",
+  "holder_relation": "大炼",
+  "rank": "灵器",
+  "rank_potential": "作为得道高僧的随身法器，蕴含深厚的佛法神意，有望在佛法共鸣中升阶 。",
+  "supernatural_ability": "具备极其强大的震慑力，能够令铜环寂静而威压四方，曾随主人挑担行走天下 。",
+  "evolution": {
+    "current_form": "一根带有铜环、材质古朴的木质锡杖 。",
+    "materials_consumed": [
+      "佛门经文真意",
+      "愿力香火"
+    ],
+    "potential_evolution": "若能寻得真龙骨骸，可进阶为降龙木材质的仙兵。"
+  },
+  "visual": {
+    "static": "一根木质长杖，顶端挂有铜环，平日里寂静无声，却显得厚重肃穆 。",
+    "active": "挥动时铜环齐鸣，佛光隐现，能够压胜那些无法洞察真相的虚幻存在 。"
+  },
+  "provenance": {
+    "origin": "源自僧人周金刚亲自书写的《青龙疏钞》道统 。",
+    "karma_link": "在条目城与陈平安擦肩而过，是僧人问道人间的关键凭证 。"
+  },
+  "enriched": true
+}

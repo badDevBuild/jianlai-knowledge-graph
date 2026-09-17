@@ -1,0 +1,43 @@
+{
+  "name": "竹剑",
+  "original_name": "夏堆",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这把竹剑是陆台送给其弟子“近知”的入门礼。它虽然看似简陋，却包含了陆台对弟子的期许——成为一名 真正的大剑仙。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第418章 几座天下几个人",
+      "owner": "李槐(借自裴钱)"
+    }
+  ],
+  "subtype": "攻伐类 / 练剑用",
+  "holder": "近知",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆台",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为陆台钦定的关门弟子所用之剑，具有承载多种高深剑道的潜质。",
+  "supernatural_ability": "轻盈灵活，能够引导初学者感悟剑气流转的细微之处。",
+  "evolution": {
+    "current_form": "一把刻有“夏堆”字样的竹制长剑。",
+    "materials_consumed": [
+      "灵竹"
+    ],
+    "potential_evolution": "配合陆台赠送的三十二部剑谱，有望演化为承载大剑仙真意的法宝。"
+  },
+  "visual": {
+    "static": "质地温润的青竹剑身，刻有两个极小楷书“夏堆”。",
+    "active": "挥动时带有自然的清气，并无寻常铁剑的肃杀，更显超脱。"
+  },
+  "provenance": {
+    "origin": "由陆台亲手制作并刻字，送给其关门弟子。",
+    "karma_link": "见证了陆台在藕花福地后的传承，是其洒脱性情的延续。"
+  },
+  "enriched": true
+}

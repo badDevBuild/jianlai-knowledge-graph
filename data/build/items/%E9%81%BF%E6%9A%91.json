@@ -1,0 +1,58 @@
+{
+  "name": "避暑",
+  "original_name": "明月生凉宝扇",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件极具美感的仙家雅物。**它承载了远古神灵对人间的清凉之意**，也是陈平安与李源之间深厚 情谊的体现 。",
+  "aliases": [
+    "避暑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第274章 剑气长城陈见陈",
+      "owner": "刘幽州"
+    },
+    {
+      "chapter": "第903章 天地孤鹤",
+      "owner": "陈平安 (由李邺侯赠送)"
+    }
+  ],
+  "subtype": "辅助/气运类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "灵源公李源",
+      "relation": "赠予者"
+    },
+    {
+      "name": "沈霖（南薰殿水神）",
+      "relation": "曾持有"
+    },
+    {
+      "name": "远古明月共主",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为“月宫旧藏”，具备吸纳天下月魄精华、滋养神魂的无限上限 。",
+  "supernatural_ability": "**明月生凉**：可极大裨益修行者的冥想，天然压制暑气与心火。具备压胜山水、聚拢气运的功效 。",
+  "evolution": {
+    "current_form": "精巧古雅的团扇 。",
+    "materials_consumed": [
+      "月魄精华",
+      "清泉道韵"
+    ],
+    "potential_evolution": "可进化为能够挥动间“涤荡一洲暑气”的神道重器 。"
+  },
+  "visual": {
+    "static": "扇面质地玄妙，宝光流转，如同一轮微缩的明月 。",
+    "active": "扇动时有清风徐来，伴随着淡淡的冷香与皎洁的光晕 。"
+  },
+  "provenance": {
+    "origin": "由远古时代的“明月共主”亲手炼制 。",
+    "karma_link": "由大渎水正李源转赠，作为陈平安在龙宫洞天奔波的回礼 。"
+  },
+  "enriched": true
+}

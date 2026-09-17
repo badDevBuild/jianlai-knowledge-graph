@@ -1,0 +1,44 @@
+{
+  "name": "布雨丹",
+  "original_name": "水德丹 / 金身描漆药",
+  "type": "丹药",
+  "grade": "灵丹",
+  "status": "消耗",
+  "description": "这是**与火龙丹成对使用的辅佐灵药**。在一洲战事落幕后，此类丹药 被视为破境的“捷径”之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第360章 到达老龙城",
+      "owner": "朱敛 (服用)"
+    }
+  ],
+  "subtype": "神魂/补给类",
+  "holder": "隋右边 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆雍",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "与火龙丹属性互补，水火相济，可为冲击上五境打下坚实的基础 。",
+  "supernatural_ability": "主材取自山门特有的灵秀青苔，蕴含充沛水德，服用后可滋润气府，平 复修行中的燥热气机 。",
+  "evolution": {
+    "current_form": "碧绿色丹丸，带有淡淡的水草清香 。",
+    "materials_consumed": [
+      "山门青苔精华",
+      "寒潭水精"
+    ],
+    "potential_evolution": "可配合水精玉简演化为滋养“水府”的至宝。"
+  },
+  "visual": {
+    "static": "色泽碧绿，表面有水润的光泽，放在瓷瓶中会有水雾升腾 。",
+    "active": "化作一缕清流流遍百骸，使修士神清气爽，瞬间恢复大量灵气损耗 。"
+  },
+  "provenance": {
+    "origin": "出自青虎宫陆雍之手，与火龙丹并称 。",
+    "karma_link": "见证了落魄山下宗筹建期间，桐叶洲北方势力对落魄山的敬畏与靠拢 。"
+  },
+  "enriched": true
+}

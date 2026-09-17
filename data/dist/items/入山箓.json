@@ -1,0 +1,46 @@
+{
+  "name": "入山箓",
+  "original_name": "持符御风箓 / 入关玉牌",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是进入新处州（旧龙州）及落魄山等地的必备之物。它不仅是一道符箓，更是山上山下规矩的具象化，确保了修行者在规则内行事 , , 。",
+  "aliases": [
+    "入山箓"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第97章 拜山头",
+      "owner": "朱河"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "龙泉郡过境修士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊窑务督造署",
+      "relation": "发放者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着辖境气运提升，符箓所蕴含的压胜与通行权限会相应增强 , 。",
+  "supernatural_ability": "允许外乡练气士在特定禁地或山岳辖境内御风飞掠，同时作为身份识别，避免触发山水大阵 , 。",
+  "evolution": {
+    "current_form": "印有大骊官方法印的符纸或玉牌 , 。",
+    "materials_consumed": [
+      "灵气丹砂",
+      "官方气运"
+    ],
+    "potential_evolution": "可升级为拥有永久通行权限的太平无事牌。"
+  },
+  "visual": {
+    "static": "通常为玉质或高阶符纸，刻有特定年号和通行权限范围 , 。",
+    "active": "御风时会散发出淡淡的光华，与当地山根水脉产生感应 。"
+  },
+  "provenance": {
+    "origin": "由大骊朝廷或坐镇圣人订立规矩后统一铸造 , 。",
+    "karma_link": "体现了大骊王朝对旧骊珠洞天及周边山岳的绝对掌控权 , 。"
+  },
+  "enriched": true
+}

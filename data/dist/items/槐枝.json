@@ -1,0 +1,47 @@
+{
+  "name": "槐枝",
+  "original_name": "祖荫老槐枝",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "槐枝不但是开启剑气长城传承的钥匙之一，更是一份沉 甸甸的祖宗荫庇，见证了李宝瓶等人的求学与远游 。",
+  "aliases": [
+    "槐枝",
+    "槐枝/槐叶"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第73章 木人",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "传承/压胜类",
+  "holder": "李宝瓶 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为小镇老槐树的精华，具备炼化为“本命木”或绝世法 宝的潜力 。",
+  "supernatural_ability": "蕴含极强的“祖荫”气运，具备辟邪安魂之效，能庇护身 侧之人不受邪祟侵扰 。",
+  "evolution": {
+    "current_form": "翠绿且富有生机的老槐树分枝 。",
+    "materials_consumed": [
+      "骊珠洞天万年气运",
+      "齐静春教化之功"
+    ],
+    "potential_evolution": "可炼制为槐木剑“降妖”与“除魔”，作为剑气长城的立身 之本 。"
+  },
+  "visual": {
+    "static": "青翠欲滴，即便脱离主干仍长久不枯，带有清冷古朴的 木香 。",
+    "active": "挥动时有清风徐来，能打散一般的阴物幻象与邪气 。"
+  },
+  "provenance": {
+    "origin": "产自骊珠洞天那棵被砍倒的万年老槐树 。",
+    "karma_link": "承载了齐静春对李宝瓶等弟子的护道期望与文脉传承 。"
+  },
+  "enriched": true
+}

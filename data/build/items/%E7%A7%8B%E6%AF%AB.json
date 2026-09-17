@@ -1,0 +1,44 @@
+{
+  "name": "秋毫",
+  "original_name": "细毫楷笔",
+  "type": "匠器",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一类专为书写蝇头小楷设计的文房重器，被落魄山 编谱官用来记录宗门功过 。它象征着修道之人在细微处见真章的治学态度 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1034章 雨过天晴",
+      "owner": "陆沉"
+    }
+  ],
+  "subtype": "文房/工具类",
+  "holder": "落魄山编谱官",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土钟家",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "长期在灯下校对年谱，沾染宗门气运，可进化为能够“ 铁笔勾销”的文宝 。",
+  "supernatural_ability": "笔尖细微却劲健，能在一粒芥子上书写万言，最宜抄录 名册与年谱 。",
+  "evolution": {
+    "current_form": "一支笔杆篆刻有“势巧形密”等铭文的小楷毛笔 。",
+    "materials_consumed": [
+      "霜降玉石",
+      "灵狐细毫"
+    ],
+    "potential_evolution": "演化为具备“言必有中”神通的判官笔 。"
+  },
+  "visual": {
+    "static": "笔身洁净，锋颖透明，散发出一股高古之风 。",
+    "active": "落笔时金石声铿锵，字迹如秋蝉遗蜕般轻盈却有力 。"
+  },
+  "provenance": {
+    "origin": "出自中土神洲久负盛名的“钟家样”制笔工坊 。",
+    "karma_link": "是裴钱在倒悬山精心挑选送给师父的礼物，承载了尊师 重道之心 。"
+  },
+  "enriched": true
+}

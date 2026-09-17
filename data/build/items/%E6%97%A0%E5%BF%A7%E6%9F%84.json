@@ -1,0 +1,50 @@
+{
+  "name": "无忧柄",
+  "original_name": "梧桐柄 / 无忧伞柄",
+  "type": "材料",
+  "grade": "材料",
+  "status": "活跃",
+  "description": "这不仅仅是一把伞的残余部分，它是“今日无事”这一大道的载体。通过此柄，持有者可以在混乱的世局 中获得片刻的“无忧” 。",
+  "aliases": [
+    "拂尘柄"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第302章 分道",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "压胜类 / 护持类",
+  "holder": "隋右边",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "赠予者"
+    },
+    {
+      "name": "老观主",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由老观主赠予的“桐叶伞”伞柄炼化，承载了福地最核心的遮蔽气机之道 。",
+  "supernatural_ability": "**“遮蔽天机”**。持此柄者，其身形与道意将从光阴长河中隐去，避开十四境大修士的窥探 。",
+  "evolution": {
+    "current_form": "质地古旧的油纸伞柄，带有温热感 。",
+    "materials_consumed": [
+      "千年梧桐木",
+      "福地气运"
+    ],
+    "potential_evolution": "可配合“白纸福地”的手段演化为一方独立的世界屏障 。"
+  },
+  "visual": {
+    "static": "木质细腻，呈深褐色，握感沉稳，透着一股让道心安稳的凉意 。",
+    "active": "撑开伞面后，周遭山河异象皆消，仿佛进入了一个“绝对安全”的真空地带 。"
+  },
+  "provenance": {
+    "origin": "源自东海观道观老观主赠予陈平安的信物 。",
+    "karma_link": "见证了陈平安在书简湖与桐叶洲的一系列“问道”之旅，最终由崔东山转交隋右边 。"
+  },
+  "enriched": true
+}

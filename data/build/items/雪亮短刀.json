@@ -1,0 +1,61 @@
+{
+  "name": "雪亮短刀",
+  "original_name": "魔道大弟子遗刃",
+  "type": "匠器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这把短刀性质奇特，原主虽为**魔道巨擘**，刀身却散发着浩然正气。徐远霞得此刀后杀力大增，是其 行走江湖的标志性兵刃 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第234章 夜宿古寺有妖气",
+      "owner": "徐远霞"
+    },
+    {
+      "chapter": "第376章 君子武备",
+      "owner": "徐远霞"
+    },
+    {
+      "chapter": "第380章 离别之后又有重逢",
+      "owner": "徐远霞"
+    },
+    {
+      "chapter": "第584章 你来当师兄",
+      "owner": "刺客少年"
+    },
+    {
+      "chapter": "第660章 雀在笼中",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1155章 访山",
+      "owner": "杨盄"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "徐远霞",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "米老魔大弟子",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "虽出身魔道，但刀气正大，有成长为名刀的潜质。",
+  "supernatural_ability": "刀身不仅锋利无匹，且刀气极其纯粹，天然克制阴邪之气 。",
+  "evolution": {
+    "current_form": "雪亮如新的短刀 。",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "刀刃雪白明亮，出鞘后冷森逼人 。",
+    "active": "挥动时刀气如霜，光明辉煌，毫无魔道邪祟气息 。"
+  },
+  "provenance": {
+    "origin": "彩衣国之战中，得自米老魔大弟子 。",
+    "karma_link": "徐远霞参与胭脂郡守城战的战利品 。"
+  },
+  "enriched": true
+}

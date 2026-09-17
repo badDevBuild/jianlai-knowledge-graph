@@ -1,0 +1,48 @@
+{
+  "name": "青梅酒",
+  "original_name": "老板娘秘酿 / 五年陈青梅",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是陈平安极其钟情的市井佳酿。虽然品秩不高，却承载了他对人间“雅 趣”的理解，常被其装入养剑葫中慢慢饮用 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第332章 偶遇",
+      "owner": "老板娘"
+    },
+    {
+      "chapter": "第334章 人间路窄酒杯宽",
+      "owner": "九娘"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大泉王朝某酒肆老板娘",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为凡间顶级酒酿，若以仙家水法长期窖藏，可具备温养经络之效 。",
+  "supernatural_ability": "酒性温和，生津止渴，能略微平复修士因厮杀引起的躁动心境 。",
+  "evolution": {
+    "current_form": "盛放在小坛中、透着清淡梅香的黄亮酒液 。",
+    "materials_consumed": [
+      "当季青梅",
+      "五年陈窖"
+    ],
+    "potential_evolution": "若加入一粒“坐忘丹”，可演化为助人入定的“青梅禅饮”。"
+  },
+  "visual": {
+    "static": "酒液澄澈，带有些许果实纤维，香气酸甜沁鼻 。",
+    "active": "倒入碗中时，酒花细密，映照出饮酒者的心境倒影 。"
+  },
+  "provenance": {
+    "origin": "大泉王朝某处路边茅屋酒肆 。",
+    "karma_link": "陈平安远游途中用于调理气机、结交江湖朋友的随身物 。"
+  },
+  "enriched": true
+}

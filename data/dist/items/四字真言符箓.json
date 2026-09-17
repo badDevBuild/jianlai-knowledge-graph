@@ -1,0 +1,41 @@
+{
+  "name": "四字真言符箓",
+  "original_name": "降妖捉鬼符 / 斩锁符",
+  "type": "符箓",
+  "grade": "灵器",
+  "status": "消耗",
+  "description": "这是陈平安掌握的高级符箓手段，通过将文字的法力与 特定神灵的敕令结合，产生巨大的防御与压胜威力 , 。",
+  "aliases": [
+    "四字真言符箓"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第23章 槐荫",
+      "owner": "陈平安（被种下）"
+    }
+  ],
+  "subtype": "压胜/敕令类",
+  "holder": "陈平安 / 跛脚少年",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "由圣贤真言加持，威力可随画符者的文字功力不断攀升 , 。",
+  "supernatural_ability": "包含“降妖捉鬼”或“作甚务甚”等四字，具备极强的针对 性压胜效果 , 。配合“雨师敕令”可压制蛟龙之属 。",
+  "evolution": {
+    "current_form": "绘有四个古老篆文的金光符箓 。",
+    "materials_consumed": [
+      "金色符纸",
+      "圣贤道意",
+      "雨师神韵"
+    ],
+    "potential_evolution": "可补全为八字完整敕令，升格为顶尖的“斩锁符” 。"
+  },
+  "visual": {
+    "static": "四个银色或金色的大字在纸面上熠熠生辉，字迹法度森 严 。",
+    "active": "激活时文字会脱离纸面，化作金色牢笼或雷电长鞭镇压 目标 , 。"
+  },
+  "provenance": {
+    "origin": "源自《丹书真迹》或上古雷部、水部传承 , 。",
+    "karma_link": "陈平安在胭脂郡和蛟龙沟多次以此符对抗强敌 , 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "name": "山水印",
+  "original_name": "山字印 / 水字印",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是齐静春留给陈平安用于**掌握山河气数**的重宝。水字印在陈 平安手中被大炼为本命物，能够通过钤印提升世间江河的水运 。",
+  "aliases": [
+    "静字印",
+    "私印",
+    "静心得意",
+    "蛇胆石印章"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第70章 天亮",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第74章 火龙走水",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第220章 山水印",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第232章 岁岁平安",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第264章 大道之上",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第265章 大师兄姓左",
+      "owner": "陈平安 (齐静春赠)"
+    },
+    {
+      "chapter": "第460章 水火之争让个道",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1166章 于混沌一片中",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "水字印已炼化为本命物，随水运滋养可晋升为仙兵 。",
+  "supernatural_ability": "能够**钤印江河山川**。水字印可敕令江河，山字印曾用于稳固山 根 。",
+  "evolution": {
+    "current_form": "材质顶尖的蛇胆石印章",
+    "materials_consumed": [
+      "大渎水运",
+      "金精铜钱"
+    ],
+    "potential_evolution": "本命物仙兵"
+  },
+  "visual": {
+    "static": "由极品蛇胆石刻就，一方刻有“水”字，质地温润，灵气盈溢 。",
+    "active": "钤印时可显现出波涛滚滚的水图，或如巨山压顶的山岳气象 。"
+  },
+  "provenance": {
+    "origin": "由圣人齐静春亲手为陈平安雕琢 。",
+    "karma_link": "山字印毁于蛟龙沟，余下水字印成为陈平安五行本命物之一 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,41 @@
+{
+  "name": "宋集薪家钥匙",
+  "original_name": "泥瓶巷祖宅隔壁钥匙",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这串钥匙见证了陈平安在小镇时期的生活转折。它开启的不仅仅是一栋宅子，更是陈平安**从孤苦无依 到拥有自己山头和家底**的变迁历程 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第64章 三陈",
+      "owner": "宋集薪(原主)"
+    }
+  ],
+  "subtype": "因果类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "宋集薪",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为打开宋集薪祖宅的物理钥匙，其象征意义远大于实际品质，承载着两位邻居纠缠多年的因果 。",
+  "supernatural_ability": "无。主要作为房屋所有权的物化象征，方便陈平安安置随从（如石柔、粉裙女童等） 。",
+  "evolution": {
+    "current_form": "一串普通的铁质钥匙，带有岁月锈迹 。",
+    "materials_consumed": [],
+    "potential_evolution": "无。"
+  },
+  "visual": {
+    "static": "外表寻常的铁钥匙，被陈平安随身携带或交予小管家暖树保管 。",
+    "active": "无明显异象。"
+  },
+  "provenance": {
+    "origin": "源自骊珠洞天泥瓶巷，由宋集薪在离乡赴京前赠予陈平安 。",
+    "karma_link": "连接着宋集薪（大骊宋睦）与陈平安的邻里情分及未来的皇权博弈 。"
+  },
+  "enriched": true
+}

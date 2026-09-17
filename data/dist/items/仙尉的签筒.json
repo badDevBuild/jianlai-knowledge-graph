@@ -1,0 +1,38 @@
+{
+  "name": "仙尉的签筒",
+  "original_name": "摆摊算命行头",
+  "type": "其他",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是落魄山看门人仙尉唯一的职业标志。虽然品级不高 ，却见证了他从假道士到落魄山一份子的转变，代表了 一种最接地气的修行姿态 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1154章 签文",
+      "owner": "仙尉"
+    }
+  ],
+  "subtype": "因果/职业类",
+  "holder": "仙尉",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "随仙尉在落魄山看门岁月的沉淀，有望沾染“一字之师” 的道韵。",
+  "supernatural_ability": "无直接攻伐。但签文往往应验，具备某种模糊的预警或 指引功能 。",
+  "evolution": {
+    "current_form": "一只普通木头制的签筒，内有数十支竹制签子。",
+    "materials_consumed": [
+      "普通木材",
+      "江湖阅历"
+    ],
+    "potential_evolution": "演化为具备“铁口直断”权能的法器。"
+  },
+  "visual": {
+    "static": "签筒油光锃亮，签子上的字迹略显模糊，透着一股市井 江湖的沧桑感。",
+    "active": "摇动时签子撞击声清脆，抽出的签文在特定光线下会显 现出异样光泽。"
+  },
+  "provenance": {
+    "origin": "仙尉在来到落魄山之前，作为流浪道士谋生的工具。",
+    "karma_link": "连接了仙尉的平凡身世与他“大道随缘”的修行轨迹。"
+  },
+  "enriched": true
+}

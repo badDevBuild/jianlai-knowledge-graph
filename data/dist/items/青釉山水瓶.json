@@ -1,0 +1,48 @@
+{
+  "name": "青釉山水瓶",
+  "original_name": "龙窑人物花瓶",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**青釉山水瓶**（人物花瓶）表象是一件珍贵的瓷器，实则是阴阳家陆氏用来拘押、隐藏族人命理的容 器，是整座大骊京城风云剧变的一个缩影 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第376章 君子武备",
+      "owner": "黄色土牛"
+    }
+  ],
+  "subtype": "命理/契约类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊京城客栈掌柜",
+      "relation": "曾持有"
+    },
+    {
+      "name": "师兄崔瀺 (布局者)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "承载大骊太后本命命理，是破解阴阳家陆氏布局的核心关键 。",
+  "supernatural_ability": "瓶底刻有“**青苍幽远，其夏独冥**”八字吉语，蕴含秘法，可演化为显露修士真名的本命灯 。",
+  "evolution": {
+    "current_form": "一只来自骊珠洞天某口龙窑的大立件青瓷人物花瓶 。",
+    "materials_consumed": [
+      "龙窑紫金土",
+      "文运/龙气"
+    ],
+    "potential_evolution": "破碎后其中的文字笔画会重组为一盏燃烧魂魄之火的**本命灯** 。"
+  },
+  "visual": {
+    "static": "釉色温润，带有官窑特有的精绝工艺，瓶身绘有古朴人物图 。",
+    "active": "当陈平安以神通拍碎瓶身，底款文字会解构重组，灯芯处显现出受控者的真实名讳 。"
+  },
+  "provenance": {
+    "origin": "出自骊珠洞天龙窑，属于大骊宋氏皇室布局的重要道具 。",
+    "karma_link": "此物是陈平安清算大骊太后南簪（陆绛）因果的重要实物证据 。"
+  },
+  "enriched": true
+}

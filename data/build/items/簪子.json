@@ -1,0 +1,48 @@
+{
+  "name": "簪子",
+  "original_name": "白玉簪",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这根簪子在《剑来》中具有极强的符号意义。它不仅是齐静春留给陈平安的遗物，更因其承载的浩然正 气，使得陈平安在远游途中能保持心境安稳 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第697章 竟然",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "传承类 / 辅助类",
+  "holder": "杨老头",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "承载了齐静春的学问真意与因果，具备作为某种天道信物的潜质 。",
+  "supernatural_ability": "能够稳固神魂，屏蔽外界的部分天机感应；其材质（木、玉等）往往代表了持有者的身份与气运 。",
+  "evolution": {
+    "current_form": "质地温润的白玉发簪，其上刻有法度严谨的文字 。",
+    "materials_consumed": [
+      "圣人浩然气",
+      "文运"
+    ],
+    "potential_evolution": "可作为开辟洞天或请神降真的核心媒介 。"
+  },
+  "visual": {
+    "static": "外表朴素，簪身刻有“言念君子，温其如玉”等小篆文字 。",
+    "active": "在关键时刻可绽放出微弱但深邃的灵光，护持主人心境不被外魔所侵 。"
+  },
+  "provenance": {
+    "origin": "由圣人齐静春赠予陈平安，承载了师门的情义与期望 。",
+    "karma_link": "陈平安曾以此物与杨老头交换方寸物“十五”，是其成长之路的重要转折点 。"
+  },
+  "enriched": true
+}

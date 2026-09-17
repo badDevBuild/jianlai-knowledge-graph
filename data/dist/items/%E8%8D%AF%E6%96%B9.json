@@ -1,0 +1,47 @@
+{
+  "name": "药方",
+  "original_name": "陆沉赠送药方",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陆沉赠予陈平安的一份礼物。陈平安最初将其视为练字的底本，后来在修行中逐渐发掘其在符箓一道上 的独特价值 , 。",
+  "aliases": [
+    "药方"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第16章 休想",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第121章 快哉风",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "传承类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵物",
+  "rank_potential": "虽为纸张，但其蕴含的文字神意可引导修道之人步入符箓大道，是研习《丹书真迹》的敲门砖 , 。",
+  "supernatural_ability": "“文字蕴道”。药方上的字迹虽然看似寡淡，实则暗藏道家高深真意，陈平安凭此练字可以稳固心境并体 悟符箓画法 , 。",
+  "evolution": {
+    "current_form": "写有药方的几张旧纸 。",
+    "materials_consumed": [],
+    "potential_evolution": "作为陈平安符箓修行的起点，引导其绘制出阳气挑灯符等上乘符箓 。"
+  },
+  "visual": {
+    "static": "几张普普通通的纸，字迹规矩，被陈平安贴身收藏或置于方寸物中 , 。",
+    "active": "在内视或神识扫视下，文字间隐有灵气流动，可辅助凝聚精气神 。"
+  },
+  "provenance": {
+    "origin": "白玉京三掌教陆沉在杨家药铺坐诊时所留 。",
+    "karma_link": "连接了陈平安与白玉京陆沉的深远因果，是陈平安在小镇获得的最初机缘之一 。"
+  },
+  "enriched": true
+}

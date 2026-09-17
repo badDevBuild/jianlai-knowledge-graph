@@ -1,0 +1,44 @@
+{
+  "name": "终南山路",
+  "original_name": "终南山路",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "七大养剑葫芦之一，以“速”见长。对资质极佳、且有多把飞剑需求的剑修而言，是缩短成道光阴的无价 之宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第699章 天下第一人",
+      "owner": "白裳"
+    }
+  ],
+  "subtype": "养剑类",
+  "holder": "白裳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "具备极强的孕育能力，可辅助剑修在极短时间内完成飞剑胚子的初期成形 。",
+  "supernatural_ability": "本命飞剑胚子成形最快 。极大缩短飞剑从胚子到真正本命物的温养光阴 。",
+  "evolution": {
+    "current_form": "亚腰葫芦形态 。",
+    "materials_consumed": [
+      "先天金气",
+      "道门文运"
+    ],
+    "potential_evolution": "长期温养可成为天下间催生飞剑胚子的第一圣物 。"
+  },
+  "visual": {
+    "static": "古朴沉稳，散发着淡淡的道教祖庭气息 。",
+    "active": "养剑时内部气象如终南山之幽深，有云雾蒸腾之感 。"
+  },
+  "provenance": {
+    "origin": "源自道祖亲植的七宝葫芦藤 。",
+    "karma_link": "现归属于北俱芦洲北地大剑仙白裳，是其立身之本之一 。"
+  },
+  "enriched": true
+}

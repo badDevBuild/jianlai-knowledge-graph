@@ -1,0 +1,35 @@
+{
+  "name": "金壶",
+  "original_name": "鼠来宝金壶",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件极具战场实用价值的特殊法宝，专门用于在混乱的战局中搜刮失去主人的仙家物件 。它的出现往往意味着一场惨烈战斗的阶段性结束 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第623章 炼剑",
+      "owner": "蛮荒大妖"
+    }
+  ],
+  "subtype": "辅助类 / 掠夺类",
+  "holder": "蛮荒大妖",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为专门针对战场物资的掠夺性法宝，其效能取决于战场的规模与灵气程度 。",
+  "supernatural_ability": "祭出后能够使战场上所有灵气盎然的无主灵器法宝自动离开原地，悉数飞入壶中 。",
+  "evolution": {
+    "current_form": "带有鼠来宝纹饰的金色小壶 。",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "外表雕刻有寓意招财的“鼠来宝”样式 。",
+    "active": "激活时壶口会产生强大的吸力，引导各类宝物汇聚而来 。"
+  },
+  "provenance": {
+    "origin": "由蛮荒天下擅长掠夺与收集资源的势力炼制 。",
+    "karma_link": "在剑气长城与蛮荒天下的拉锯战中被大妖用来清理战场战利品 。"
+  },
+  "enriched": true
+}

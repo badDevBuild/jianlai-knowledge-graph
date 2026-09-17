@@ -1,0 +1,38 @@
+{
+  "name": "井中月(仿)",
+  "original_name": "仿陈平安飞剑",
+  "type": "本命飞剑",
+  "grade": "神通",
+  "status": "活跃",
+  "description": "**井中月(仿)**体现了吴霜降作为十四境大修士对剑道 、符箓与法理的极致统筹力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第781章 齐聚",
+      "owner": "吴霜降"
+    }
+  ],
+  "subtype": "攻伐/变化类",
+  "holder": "吴霜降",
+  "holder_relation": "持有",
+  "rank": "半仙兵",
+  "rank_potential": "能够分化出百万雨滴飞剑，杀力随吴霜降道力提升而无 上限 。",
+  "supernatural_ability": "可在一炷香内模仿“井中月”分化千万的本命神通，且杀 力更为凝练 。",
+  "evolution": {
+    "current_form": "一抹幽绿的剑影，带有浓郁的水汽。",
+    "materials_consumed": [
+      "上古水精",
+      "太虚灵气"
+    ],
+    "potential_evolution": "可配合“大江横流符”形成覆盖一洲的剑阵。"
+  },
+  "visual": {
+    "static": "剑身清亮如水，倒映着月中景象 。",
+    "active": "剑光一闪化作漫天雨幕，每一滴雨水皆是足以洞穿金身 的锐利飞剑 。"
+  },
+  "provenance": {
+    "origin": "吴霜降仿造陈平安第二把本命飞剑的得意之作 。",
+    "karma_link": "与“笼中雀(仿)”共同构筑了吴霜降对陈平安的大道压制 。"
+  },
+  "enriched": true
+}

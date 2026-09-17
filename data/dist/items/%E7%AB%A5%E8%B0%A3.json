@@ -1,0 +1,41 @@
+{
+  "name": "童谣",
+  "original_name": "童谣",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“童谣”是宋续持有的第二把本命飞剑。它的名字由大骊国师崔瀺亲定，通常与“驿路”一同使用，代表了 宋续作为地支领袖的复合战力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第839章 青出于蓝而胜于蓝",
+      "owner": "宋续"
+    },
+    {
+      "chapter": "第840章 家乡",
+      "owner": "宋续"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "宋续",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "由大骊国师崔瀺亲自命名，蕴含着深远的因果与谋划潜力 。",
+  "supernatural_ability": "具体神通不详，但与宋续的另一把飞剑“驿路”相辅相成 。",
+  "evolution": {
+    "current_form": "本命飞剑 。",
+    "materials_consumed": [
+      "纯粹剑意"
+    ],
+    "potential_evolution": "未知。"
+  },
+  "visual": {
+    "static": "剑身精巧，不似杀伐之物 。",
+    "active": "出剑时带有某种韵律感 。"
+  },
+  "provenance": {
+    "origin": "大骊地支之子宋续的本命飞剑，国师崔瀺代为命名 。",
+    "karma_link": "是宋续在剑气长城和宝瓶洲两场战事中多次建功的凭证 。"
+  },
+  "enriched": true
+}

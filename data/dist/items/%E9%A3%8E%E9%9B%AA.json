@@ -1,0 +1,44 @@
+{
+  "name": "风雪",
+  "original_name": "风雪小锥",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这支名为“风雪小锥”的毛笔，是陈平安与李希圣深厚友谊的见证 。在无数个寂静的冬夜，陈平安凭借此笔学习符箓大道，从最基础的挑灯符到复杂的剑敕符，皆由此 笔落成 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第953章 旧人重逢",
+      "owner": "曹戊(许茂)"
+    }
+  ],
+  "subtype": "辅助类 / 文房",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "取材于带有风雪意境的灵秀之竹，随持有人符箓造诣的精进而愈发神异 。",
+  "supernatural_ability": "下笔有神。能通过吸纳风雪之气洁净墨迹，使笔下符箓天然带有镇压邪祟的效果 。",
+  "evolution": {
+    "current_form": "一支名为“风雪小锥”的精致竹管毛笔 。",
+    "materials_consumed": [
+      "灵泉之水",
+      "白玉京道韵"
+    ],
+    "potential_evolution": "若能点染“龙宾”墨精，可进化为具备独立灵性的神道笔仙。"
+  },
+  "visual": {
+    "static": "笔管青翠如玉，镌刻有“风雪小锥”与“下笔有神”八个小字 。",
+    "active": "挥毫时笔端有淡淡的云雾升腾，墨色中隐约可见雪花旋转，笔尖划过纸面伴有微弱的风声 。"
+  },
+  "provenance": {
+    "origin": "李希圣亲手制作并赠送，属于落魄山文房序列中的重要成员 。",
+    "karma_link": "作为陈平安画符修行的关键依仗，多次在险恶战局中绘就救命灵符 。"
+  },
+  "enriched": true
+}

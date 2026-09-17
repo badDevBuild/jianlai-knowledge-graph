@@ -1,0 +1,44 @@
+{
+  "name": "绿色玉佩",
+  "original_name": "老龙布雨佩",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是老龙城苻家最有代表性的后天灵器之一。它原本供奉在苻家祠堂，后成为宋集薪在大骊京城彰显显 赫身份的关键配饰 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第2章 开门",
+      "owner": "高冠年轻人"
+    }
+  ],
+  "subtype": "防御类 / 辅助类",
+  "holder": "宋集薪",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "苻南华",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为老龙城苻家的传家宝，具备通过吸收水运精华向半仙兵进化的上限 。",
+  "supernatural_ability": "“避邪清心”。能避暑、去秽，极大辅助持有人进行冥想坐忘，防止心魔滋生 。",
+  "evolution": {
+    "current_form": "碧绿欲滴、材质极佳的龙形玉佩 。",
+    "materials_consumed": [
+      "老龙城香火",
+      "云海水精"
+    ],
+    "potential_evolution": "作为“水精”辅佐本命物炼化，可演化为江河水脉的枢纽 。"
+  },
+  "visual": {
+    "static": "碧绿可人，龙形纹理细腻，摸上去如同上等绸缎 , 。",
+    "active": "佩戴者周身会生出淡淡凉意，灵气萦绕，有老龙行云布雨之气象 。"
+  },
+  "provenance": {
+    "origin": "老龙城苻家祠堂供奉千年的老物件 。",
+    "karma_link": "苻南华以此作为买下宋集薪“山魈壶”的见面礼，结下一场权谋交易 。"
+  },
+  "enriched": true
+}

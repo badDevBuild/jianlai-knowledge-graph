@@ -1,0 +1,44 @@
+{
+  "name": "箜篌",
+  "original_name": "芝兰 / 箜篌心魔",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "原为吴霜降之妻天然的乐器，后演化为吴霜降的心魔。它不仅拥有卓越的艺术造诣，更因其特殊的根脚 ，成为了落魄山文化底蕴的重要象征 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第866章 山中何所有",
+      "owner": "岁除宫女官天然(凤首)"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "落魄山",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "虽为心魔显化，但具备十四境大修士的所有才情与学问，上限极高 。",
+  "supernatural_ability": "精通诗词曲赋、琴棋书画。能通过书写曲谱、编撰年谱为落魄山收拢气运与底蕴 。",
+  "evolution": {
+    "current_form": "白发童子形象，真身为箜篌乐器 。",
+    "materials_consumed": [
+      "岁除宫文运",
+      "吴霜降心神精粹"
+    ],
+    "potential_evolution": "未来可能在桐叶洲下宗独立开峰，成为一代祖师 。"
+  },
+  "visual": {
+    "static": "龙身凤形，缨金彩，络翠藻的精美乐器 。",
+    "active": "化身为大额头、白发、耳绕青蛇的稚童，常在落魄山中跳跃疾行 。"
+  },
+  "provenance": {
+    "origin": "诞生自青冥天下岁除宫宫主吴霜降的心魔 。",
+    "karma_link": "在夜航船被陈平安“降服”，后跟随至落魄山担任编谱官 。"
+  },
+  "enriched": true
+}

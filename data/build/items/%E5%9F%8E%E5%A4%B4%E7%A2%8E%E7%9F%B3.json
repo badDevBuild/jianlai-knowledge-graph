@@ -1,0 +1,44 @@
+{
+  "name": "城头碎石",
+  "original_name": "城墙遗石 / 剑气残石",
+  "type": "材料",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "承载了无数剑仙死战英魂的碎石。在浩然天下，它是剑 修梦寐以求的奢侈材料，也是记录万年守城史的无声残 页 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第845章 官子无敌",
+      "owner": "剑气长城"
+    }
+  ],
+  "subtype": "压胜/磨砺类",
+  "holder": "陈平安 / 远游练气士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "剑气长城",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "因其蕴含万年剑气，若被精心雕琢，可成为媲美“斩龙 台”的磨剑石 。",
+  "supernatural_ability": "天然蕴含杀伐剑气，可压制阴灵，磨炼剑锋。亦可制作 成“砖砚”，辅助读书人养剑气 。",
+  "evolution": {
+    "current_form": "粗糙的灰色或黑色石块，棱角分明。",
+    "materials_consumed": [
+      "万年剑意",
+      "神灵之血（遗留）"
+    ],
+    "potential_evolution": "若能聚拢成山，可重塑为镇压一界的“剑山” 。"
+  },
+  "visual": {
+    "static": "看似寻常顽石，实则极沉，表面隐约有剑鸣之声 。",
+    "active": "与法宝摩擦时火星四溅，每一颗火星皆为细微剑气。"
+  },
+  "provenance": {
+    "origin": "源自被斩断或破碎的剑气长城城墙。",
+    "karma_link": "陈平安曾在此“捡破烂”，将其视为落魄山的重要战略储 备 。"
+  },
+  "enriched": true
+}

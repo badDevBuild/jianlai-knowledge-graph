@@ -1,0 +1,48 @@
+{
+  "name": "养剑葫“三”",
+  "original_name": "三",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "世间名声最大的七枚养剑葫之一。它以提升飞剑韧性著称，是剑修对抗强力攻伐手段的终极保障。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第783章 邀请",
+      "owner": "傅噤"
+    },
+    {
+      "chapter": "第859章 年轻人们",
+      "owner": "傅噤"
+    }
+  ],
+  "subtype": "养剑类 / 容器类",
+  "holder": "傅噤 (小白帝)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道祖亲手种植的葫芦，其品秩已达巅峰，是天地间最顶级的养剑至宝。",
+  "supernatural_ability": "“坚韧不拔”。温养出来的飞剑最为坚韧，极难损毁，且能大幅提升飞剑的抗压能力。",
+  "evolution": {
+    "current_form": "刻有“三”字的小巧葫芦。",
+    "materials_consumed": [
+      "道祖仙气",
+      "先天道韵"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "外表古朴，色泽晦暗，带有一种岁月积淀的沉稳质感。",
+    "active": "吐纳飞剑时有玄妙的道鸣，剑气在葫芦内化作实质的雷光。"
+  },
+  "provenance": {
+    "origin": "道祖飞升前亲手栽下的一株葫芦藤，结出的七枚顶级养剑葫之一。",
+    "karma_link": "现由白帝城城主郑居中的大弟子傅噤持有，象征着白帝城极深的道门底蕴。"
+  },
+  "enriched": true
+}

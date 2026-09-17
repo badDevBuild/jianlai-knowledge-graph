@@ -1,0 +1,44 @@
+{
+  "name": "本命桃符",
+  "original_name": "李希圣桃符",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这块桃符不仅是李希圣赠予陈平安的护身信物，更是一份重如山岳的因果。它在文庙议事中被提及作为 陈平安与宁姚订婚的“凭证”，体现了数座天下顶级大能间的某种默契 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第712章 时来天地皆同力",
+      "owner": "李希圣"
+    }
+  ],
+  "subtype": "传承类 / 契约类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "承载着福禄街李氏的大道气运及齐静春的深远谋划，具有成为“天道信物”的资质 。",
+  "supernatural_ability": "具备“心有灵犀”的沟通之能。在关键时刻可作为陈平安与宁姚订立婚约的某种大道聘书，镇压冥冥中的 因果 。",
+  "evolution": {
+    "current_form": "镌刻有神秘符文的桃木护身符。",
+    "materials_consumed": [
+      "道门真意",
+      "福禄街气运"
+    ],
+    "potential_evolution": "可演化为代表儒释道三教合流真意的最高阶符玺。"
+  },
+  "visual": {
+    "static": "质感温润的桃木片，文字法度森严，给人以极大的安稳感 。",
+    "active": "激发时道气升腾，能够引起数座天下间的山水共鸣，甚至让圣人法相侧目 。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天福禄街李氏 。",
+    "karma_link": "李希圣在陈平安远游前夕赠送，旨在护持其道心，并作为未来大变局中的一份“底气” 。"
+  },
+  "enriched": true
+}

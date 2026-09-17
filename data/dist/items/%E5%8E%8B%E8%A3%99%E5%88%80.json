@@ -1,0 +1,55 @@
+{
+  "name": "压裙刀",
+  "original_name": "狭刀 / 随身短刃",
+  "type": "法宝",
+  "grade": "兵器",
+  "status": "活跃",
+  "description": "这是落魄山一脉女子子弟常见的傍身兵器（如狭刀“祥 符”），不仅用于实战，更是身份与法统的象征 , 。",
+  "aliases": [
+    "压衣刀",
+    "压裙刀"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第46章 压衣刀",
+      "owner": "宁姚(借给陈平安)"
+    },
+    {
+      "chapter": "第275章 有些重逢就是最好的",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第574章 出门就得打几架",
+      "owner": "宁姚"
+    }
+  ],
+  "subtype": "攻伐/压胜类",
+  "holder": "李宝瓶 / 裴钱 / 宁姚",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为具备“山河压胜”属性的重宝，极具杀力且能镇压国 运武运 , 。",
+  "supernatural_ability": "能镇压阴煞气数，对敌时出鞘惊鸿，克制体魄强横之辈 , 。",
+  "evolution": {
+    "current_form": "形制优美、适合女子悬佩的狭长短刀 。",
+    "materials_consumed": [
+      "上古寒铁",
+      "武道气运"
+    ],
+    "potential_evolution": "可作为构建一洲剑道/武道法统的信物 。"
+  },
+  "visual": {
+    "static": "刀身纤细，刀鞘多装饰有玉石、金丝，显得贵气而不失 锋芒 , 。",
+    "active": "出鞘时刀光雪亮如月，伴随阵阵雷鸣，能轻易划破虚空 禁制 , 。"
+  },
+  "provenance": {
+    "origin": "多为前朝皇室或古老兵家祖庭遗留的重宝 , 。",
+    "karma_link": "体现了陈平安对自己弟子、晚辈的护道之心 , 。"
+  },
+  "enriched": true
+}

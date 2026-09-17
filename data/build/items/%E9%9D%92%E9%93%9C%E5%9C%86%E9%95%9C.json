@@ -1,0 +1,44 @@
+{
+  "name": "青铜圆镜",
+  "original_name": "辟邪镜",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "青铜圆镜是一件实用的山上法器，以其精准的压胜和避祸能力著称 。它是陈平安作为“包袱斋”和“山泽野修”行走江湖时的底气之一，也是衡量一件器物是否具有“灵性 ”的典型样本 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第792章 仙人术法",
+      "owner": "云杪"
+    }
+  ],
+  "subtype": "压胜类 / 侦测类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "黄师",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为“宫家营造”的精良仿古镜，其材质上限极高，可通过汲取阳气升格为法宝 。",
+  "supernatural_ability": "具备“辟兵莫当、御凶除央”的神通。能识破幻术，并在近距离战斗中干扰敌方兵刃的攻击轨迹 。",
+  "evolution": {
+    "current_form": "样式古朴、刻有古篆的青铜圆镜 。",
+    "materials_consumed": [
+      "雷击木精华",
+      "百年朱砂"
+    ],
+    "potential_evolution": "有望晋升为大龙湫水脉的顶级照妖镜副本 。"
+  },
+  "visual": {
+    "static": "背面铸有复杂的瑞兽纹路，正面刻有细小的“宫家营造”字样，古意盎然 。",
+    "active": "激发时镜面会放射出澄澈的金光，光照之处，隐匿的邪祟与妖气会瞬间显形 。"
+  },
+  "provenance": {
+    "origin": "出自著名的镜工名家，具有极高的传承价值 。",
+    "karma_link": "由武夫黄师在仙府遗址探险后赠送，是陈平安早期重要的侦测法具 。"
+  },
+  "enriched": true
+}

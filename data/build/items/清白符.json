@@ -1,0 +1,35 @@
+{
+  "name": "清白符",
+  "original_name": "未在提供资料中明确记载",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "基于给定的资料片段，未能找到名为“清白符”的特定法宝或符箓。资料中仅提及白茅所在的“清白府” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第535章 天上纸鸢有分别",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "未知",
+  "holder": "未知",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "资料不足",
+  "supernatural_ability": "提供资料中仅提及“清白府”与“自证清白”等语，未见名为“清白符”的特定符箓及其详尽功能描写 [21-23]。",
+  "evolution": {
+    "current_form": "未知",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "无详细描述",
+    "active": "无详细描述"
+  },
+  "provenance": {
+    "origin": "资料不足",
+    "karma_link": "可能与楔子岭清白府主白茅有关"
+  },
+  "enriched": true
+}

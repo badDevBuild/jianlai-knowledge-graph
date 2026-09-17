@@ -1,0 +1,44 @@
+{
+  "name": "聘书",
+  "original_name": "文圣一脉聘书",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "由文圣亲自出面准备的正式聘书，象征着落魄山与飞升 城最高层级的联盟与情义 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第831章 文圣请你落座",
+      "owner": "老秀才 (代陈平安持有)"
+    }
+  ],
+  "subtype": "契约/文书类",
+  "holder": "陈平安 / 宁姚",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老秀才",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "因其承载了文圣一脉的法理认可，具备改变一界婚嫁因 果的力量 。",
+  "supernatural_ability": "字数虽少却文采斐然，能在大道层面确认宁姚为文圣一 脉弟子的道侣，规避部分天道针对 。",
+  "evolution": {
+    "current_form": "一张写有不到百字、由老秀才亲笔书写的文书 。",
+    "materials_consumed": [
+      "圣贤道理",
+      "文运"
+    ],
+    "potential_evolution": "可演化为连接两座天下气运的正式婚书 。"
+  },
+  "visual": {
+    "static": "看似寻常纸张，但文字透出不可直视的浩然气 。",
+    "active": "展开时金光四射，仿佛有圣人虚影在背后宣读誓词 。"
+  },
+  "provenance": {
+    "origin": "由老秀才联合多位文庙圣贤精心推敲书写而成 。",
+    "karma_link": "为了解决宁姚外乡飞升境身份在大骊受到的排斥而准备 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,69 @@
+{
+  "name": "针尖",
+  "original_name": "针尖",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是中土神洲阴阳家天才陆台的标志性兵刃。与其主人一样，充满了诡谲而强大的气息，在扶摇洲一战 中曾展现出不俗的杀力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第268章 人间万事细如毛",
+      "owner": "喜爱红妆的男子"
+    },
+    {
+      "chapter": "第286章 对坐观人，自己知道",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第289章 千里送人头",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第290章 入土为安",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第291章 山上山下",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第295章 远望",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第297章 出拳",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第299章 人间无趣，不如不来",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第300章 江湖险恶",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陆台",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "作为双生飞剑之一，随持有者破境可展现出割裂空间的神通 。",
+  "supernatural_ability": "极致的锋锐与速度，静止时金属密度感极高，可一击洞穿中五境修士的防御 。",
+  "evolution": {
+    "current_form": "微缩如针的飞剑 。",
+    "materials_consumed": [
+      "先天剑胚精气"
+    ],
+    "potential_evolution": "与“麦芒”合一，演化为斩断阴阳的无上剑道。"
+  },
+  "visual": {
+    "static": "平时微缩如针，隐藏在持有者的本命窍穴或气海中 。",
+    "active": "祭出后化作一道明亮、正大的长虹，轨迹清晰且具有排山倒海之势 。"
+  },
+  "provenance": {
+    "origin": "陆台的天生本命飞剑（先天剑胚） 。",
+    "karma_link": "与陆台的另一把飞剑“麦芒”构成罕见的双生飞剑格局 。"
+  },
+  "enriched": true
+}

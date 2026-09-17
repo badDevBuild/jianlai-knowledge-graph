@@ -1,0 +1,38 @@
+{
+  "name": "花草葱葱印",
+  "original_name": "花草葱葱印",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "收录于《皕剑仙印谱》的一方印章，由于印文内容闲雅，常被外乡女修求购 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第608章 下棋坏道心，酒水辣肚肠",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "篆刻/文房类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "若作为落魄山园圃的压胜物，可加快灵草生长速度 。",
+  "supernatural_ability": "具备天然的草木亲和力，钤印处可长期保持纸张不朽且带有草木芬芳 。",
+  "evolution": {
+    "current_form": "方印，印文简洁 。",
+    "materials_consumed": [
+      "灵芝玉",
+      "木属灵气"
+    ],
+    "potential_evolution": "无 [无]。"
+  },
+  "visual": {
+    "static": "印身碧绿，如同春天刚抽芽的柳木 。",
+    "active": "使用时灵光翠绿，仿佛有春风拂面 。"
+  },
+  "provenance": {
+    "origin": "陈平安在避暑行宫闲暇时所刻 。",
+    "karma_link": "反映了陈平安对家乡落魄山生机勃勃景象的怀念 。"
+  },
+  "enriched": true
+}

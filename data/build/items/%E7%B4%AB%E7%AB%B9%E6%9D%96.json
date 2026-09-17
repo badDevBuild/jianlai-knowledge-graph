@@ -1,0 +1,43 @@
+{
+  "name": "紫竹杖",
+  "original_name": "紫竹行山杖",
+  "type": "灵物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "紫竹杖是陈平安**“行万里路”**的伴侣，象征着其**文武兼修、坚韧不拔**的道心，是其游历山河时的 标志性器物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第984章 火符",
+      "owner": "吕喦"
+    }
+  ],
+  "subtype": "辅助类 / 文房",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "紫竹岛岛主",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "取材于桐叶洲紫竹岛的上等紫竹，随持有人气节与文运增长而更具灵性 。",
+  "supernatural_ability": "具备拨开山路迷障、稳固身形之效，由于材质通灵，亦可作为承载武夫拳意与练气士道气的载体 。",
+  "evolution": {
+    "current_form": "一根色泽古雅、经过烘烧打磨的紫竹手杖 。",
+    "materials_consumed": [
+      "紫竹岛千年紫竹"
+    ],
+    "potential_evolution": "若能融入上古雷池金鞭，可演化为压胜地底精怪的雷法重器 。"
+  },
+  "visual": {
+    "static": "通体紫黑，质地坚韧，竹节匀称，散发出淡淡的竹林清气 。",
+    "active": "行走于深山云雾中时，能自动排开瘴气，杖尖触地隐有金石声 。"
+  },
+  "provenance": {
+    "origin": "陈平安向书简湖紫竹岛岛主求得紫竹后亲自打造 。",
+    "karma_link": "见证了陈平安在桐叶洲与书简湖的艰辛修行与问心之路 。"
+  },
+  "enriched": true
+}

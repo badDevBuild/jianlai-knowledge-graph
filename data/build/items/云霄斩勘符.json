@@ -1,0 +1,48 @@
+{
+  "name": "云霄斩勘符",
+  "original_name": "杨氏秘传斩勘符",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "此符是**云霄宫杨氏**的压箱底手段，也是陈平安掌握的最强攻伐符箓之一 。它不仅需要高阶符纸，更需要特定的**“开门”秘诀**方能发挥威力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第496章 自古剑仙需饮酒",
+      "owner": "杨凝性"
+    }
+  ],
+  "subtype": "攻伐类 / 召请类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨凝性 (书生)",
+      "relation": "夺取自"
+    },
+    {
+      "name": "大源王朝崇玄署云霄宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为崇玄署最顶级的秘传符箓，其蕴含的神性光芒足以重创元婴甚至仙人 , 。",
+  "supernatural_ability": "“神将合击”。符胆蕴含四粒神性光芒，出手即可召请**雷神、电母、风伯、雨师**四位远古神灵法相合 力一击 。",
+  "evolution": {
+    "current_form": "金色材质的珍稀符箓 。",
+    "materials_consumed": [
+      "神性光芒",
+      "杨氏秘传道诀"
+    ],
+    "potential_evolution": "若能获得真正的雷部斩勘司敕令，可演化为具有天威之力的道门真诰 , 。"
+  },
+  "visual": {
+    "static": "金色纸张，符文繁复，隐约有雷鸣声传出 。",
+    "active": "激发后风雷齐作，四尊巍峨神灵法相凭空显化，声势惊天动地 。"
+  },
+  "provenance": {
+    "origin": "源自大源王朝崇玄署云霄宫杨氏，属于不传之秘 。",
+    "karma_link": "陈平安在鬼蜮谷战胜“书生”后将其作为战利品收入袖中 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "榆钱种",
+  "original_name": "榆荚",
+  "type": "材料",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "榆钱种在山上世界常被作为一种雅致的交易补充物，象征着仕途与仙缘 的交汇。它是市井烟火气与仙家灵气结合的典型产物 。",
+  "aliases": [
+    "仙家榆钱"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第302章 分道",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第481章 天下月色，此山最多",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "灵气/货币类",
+  "holder": "吞宝鲸渡船商贾 / 扶乩宗修士",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随着灵气复苏，可作为培育高阶灵木或炼制特定符箓的资粮 。",
+  "supernatural_ability": "蕴含微弱且纯净的木属灵气，常被视为“小神仙”用于引渡少年入仕或修 行的媒介 。",
+  "evolution": {
+    "current_form": "细小如钱币的植物种子，边缘带有灵气波纹 。",
+    "materials_consumed": [
+      "山川地气",
+      "春分雨露"
+    ],
+    "potential_evolution": "若得青神山绿竹灵液灌溉，可化为“万年金榆”之种。"
+  },
+  "visual": {
+    "static": "形如铜钱，质地轻盈，色泽翠绿中带有一丝枯黄的古意 。",
+    "active": "散发淡淡的草木清香，能引动周边微弱的灵气流动 。"
+  },
+  "provenance": {
+    "origin": "多产自扶乩宗喊天街等仙家集市 。",
+    "karma_link": "与“小神仙送少年赴官”的民间传闻紧密相连 。"
+  },
+  "enriched": true
+}

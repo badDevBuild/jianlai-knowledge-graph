@@ -1,0 +1,47 @@
+{
+  "name": "蹑云步虚履",
+  "original_name": "蹑云履",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一款品秩极高的仙家法宝，体现了小陌心灵手巧的一面。它不仅是强力位移工具，更是落魄山“家 大业大”的视觉象征 。",
+  "aliases": [
+    "蹑云履"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第884章 天下一词",
+      "owner": "小陌/陈平安"
+    }
+  ],
+  "subtype": "位移类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "小陌",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由远古巅峰剑修亲手编织，具备某种“不沾红尘、步履太虚”的极高道意上限 。",
+  "supernatural_ability": "使穿着者能如履平地般行走于广袤云海之上，身轻如燕，极大地提升远游速度且不消耗自身真元 。",
+  "evolution": {
+    "current_form": "雪白色泽、精致轻盈的仙家履鞋 。",
+    "materials_consumed": [
+      "月魄精华",
+      "远古丝线",
+      "白玉京道韵"
+    ],
+    "potential_evolution": "若由止境武夫或上五境修士驾驭，可在行走间缩地成寸 。"
+  },
+  "visual": {
+    "static": "色泽洁白无瑕，质地细腻，看起来甚至有些单薄 。",
+    "active": "行走于高空时会生发出淡淡的云气，步步生莲或气浪，尽显神仙风采 。"
+  },
+  "provenance": {
+    "origin": "远古大妖小陌在“云路”之上为陈平安随手编织而成 。",
+    "karma_link": "作为陈平安“脱胎换骨”地仙姿态的标志性行头之一 。"
+  },
+  "enriched": true
+}

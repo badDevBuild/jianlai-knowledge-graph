@@ -1,0 +1,44 @@
+{
+  "name": "连云",
+  "original_name": "连云",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这是剑气长城大剑仙姚冲道的遗物佩剑。姚冲道以性命为代价将其交付给阿良，最终由阿良持剑在战场 上公开宣称“杀黄鸾者，姚冲道，阿良”，完成了两人的共同复仇 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第683章 何处不问剑",
+      "owner": "姚冲道"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "阿良",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姚冲道",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "承载了大剑仙姚冲道的全部魂魄与死志，在阿良手中具备了斩杀王座大妖的极致锋芒 。",
+  "supernatural_ability": "具备“云山雾隐”的困敌真意，配合阿良的剑道，可跨越空间进行致命打击 。",
+  "evolution": {
+    "current_form": "实体的古朴佩剑 。",
+    "materials_consumed": [
+      "大剑仙魂魄精华",
+      "战死者的不屈剑意"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "样式简洁的在鞘长剑，由阿良悬挂于腰间 。",
+    "active": "剑光一闪，可直接洞穿大妖头颅，即便在极高处的王座上亦能一剑致命 。"
+  },
+  "provenance": {
+    "origin": "剑气长城姚家 。",
+    "karma_link": "由姚冲道临终前自碎飞剑后，将其残余道意与佩剑托付给阿良，成就了斩杀黄鸾的一剑 。"
+  },
+  "enriched": true
+}

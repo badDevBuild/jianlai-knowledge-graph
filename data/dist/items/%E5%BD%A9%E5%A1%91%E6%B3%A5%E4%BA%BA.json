@@ -1,0 +1,44 @@
+{
+  "name": "彩塑泥人",
+  "original_name": "魏晋赠送的泥塑小人",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "魏晋送给李槐的护身礼物。这五枚泥人承载了墨家与阴阳家的复合术法，虽然李槐将其视为玩具，但在 危急时刻具备不可小觑的压胜之力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第162章 被大隋欺负的孩子们",
+      "owner": "李槐"
+    }
+  ],
+  "subtype": "守护类 / 傀儡类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏晋",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为风雪庙剑仙赠礼，内部蕴含阴阳家、墨家及符箓派手段，具备极高的法理承载力 。",
+  "supernatural_ability": "“神异显化”。虽然只有半指高，却具备游侠、道人、武将等形态，具备震慑阴物、庇护持有者的功效 。",
+  "evolution": {
+    "current_form": "五枚栩栩如生的小泥人，包括佩剑剑士、拂尘道人、披甲武将、骑鹤女子、锣鼓更夫 。",
+    "materials_consumed": [
+      "墨家傀儡术",
+      "符箓真意"
+    ],
+    "potential_evolution": "若能得到大量香火淬炼，可演化为具备真实战力的袖珍神将 。"
+  },
+  "visual": {
+    "static": "做工精美绝伦，尺寸极小（约半指高），五人形态各异，眉目清晰 。",
+    "active": "在战斗或警示时，会散发出微弱的灵光或剑气感应 。"
+  },
+  "provenance": {
+    "origin": "风雪庙大剑仙魏晋亲手制作并赠送 。",
+    "karma_link": "李槐最心爱的“麾下大将”之一，常被放入阴沉木匣中随身携带 。"
+  },
+  "enriched": true
+}

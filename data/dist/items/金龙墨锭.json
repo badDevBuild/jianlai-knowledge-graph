@@ -1,0 +1,50 @@
+{
+  "name": "金龙墨锭",
+  "original_name": "御制古墨 / 松涛墨",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "名贵的御制墨锭。在《剑来》的经济体系中，这不仅是贵重的奢侈品，更是高阶符箓师梦寐以求的顶级 耗材 。",
+  "aliases": [
+    "金龙墨锭"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第160章 少年已知愁滋味",
+      "owner": "李宝瓶等五人"
+    }
+  ],
+  "subtype": "文房类 / 灵物",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊内库",
+      "relation": "原主"
+    },
+    {
+      "name": "崔东山",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因其采用古龙脉浸染的松烟炼制，是书写金书铁券与敕封神祇的极佳基材 。",
+  "supernatural_ability": "“墨精显化”。研磨出的墨汁具有灵性，书写文字可万年不腐，且能引动山水龙气 。",
+  "evolution": {
+    "current_form": "刻有金龙纹饰的黑色墨锭，散发淡淡清香 。",
+    "materials_consumed": [
+      "千年古松烟",
+      "龙脉精粹"
+    ],
+    "potential_evolution": "可点化出“墨精臣子”，辅助文人治学或修士画符 。"
+  },
+  "visual": {
+    "static": "漆黑如玉，表面绘有细微的金龙纹案，刀工精美 。",
+    "active": "落笔时金光隐现，墨色中仿佛有微小龙影游动，文运盎然 。"
+  },
+  "provenance": {
+    "origin": "源自世俗王朝御制或仙家墨坊精心打造 。",
+    "karma_link": "承载了山下皇权对上山仙道的礼敬与文脉交融 。"
+  },
+  "enriched": true
+}

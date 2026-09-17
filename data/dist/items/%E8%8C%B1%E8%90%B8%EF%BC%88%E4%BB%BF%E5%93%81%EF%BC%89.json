@@ -1,0 +1,52 @@
+{
+  "name": "茱萸（仿品）",
+  "original_name": "恨剑山仿剑“茱萸”",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是恨剑山出品的顶级仿造飞剑。在北俱芦洲，此类仿品极受欢迎，因为它能让非先天剑胚的修士也体 验到剑仙的杀伤力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第270章 好久不见，宁姑娘",
+      "owner": "宁姓男子剑仙 (原主)"
+    },
+    {
+      "chapter": "第272章 陈平安，你听我说",
+      "owner": "宁姚之父"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安 (曾持有) / 某散修",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "恨剑山",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为恨剑山“下一等真迹”的仿剑，具备极其接近真品的杀力与剑意 。",
+  "supernatural_ability": "**“临摹剑意”**。虽非本命飞剑，却能以此承载特定的剑道真意，帮助非法师修士施展出剑修手段 。",
+  "evolution": {
+    "current_form": "样式参考正阳山茱萸峰古剑打造的锋利长剑 。",
+    "materials_consumed": [
+      "精铁",
+      "残余剑气"
+    ],
+    "potential_evolution": "可被练气士大炼为本命物，从而多出一种攻伐手段 。"
+  },
+  "visual": {
+    "static": "剑身笔直，带有一种萧瑟的杀伐之气，剑格常刻有茱萸花纹 。",
+    "active": "祭出时剑光如火，带有秋季重阳的肃杀感，能轻易破开寻常阵法 。"
+  },
+  "provenance": {
+    "origin": "出自北俱芦洲著名的炼器流派恨剑山 。",
+    "karma_link": "陈平安在游历过程中大肆收购此类仿剑，用于分发或作为战斗底牌 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,42 @@
+{
+  "name": "京观",
+  "original_name": "古琴“京观”",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "子午梦的本命飞剑，以“京观”为名，象征杀戮与死亡的堆积 。它通过操控光阴与梦境，让对手在无意识中陷入永恒的沉眠或死寂 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第864章 单挑",
+      "owner": "子午梦"
+    },
+    {
+      "chapter": "第1030章 江湖相逢道辛苦",
+      "owner": "子午梦"
+    }
+  ],
+  "subtype": "攻伐类 / 幻境类",
+  "holder": "子午梦 (春宵)",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "作为蛮荒天下天干修士的本命飞剑，具备演化为光阴领域的顶级杀力 。",
+  "supernatural_ability": "能够编织梦境、观想出“无定河”，并拥有使光阴悬停的神通 。",
+  "evolution": {
+    "current_form": "外形为一把古琴的飞剑 。",
+    "materials_consumed": [
+      "月色精华",
+      "神魂碎片"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "背负在身上的琴囊内，形态为古琴 。",
+    "active": "祭出后会显化出无数被吊死的尸体悬浮于空的渗人景象 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下天干修士子午梦的本命孕育 。",
+    "karma_link": "子午梦曾携带此剑在浩然天下游历，现作为顾璨的婢女行动 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "青神山竹笛",
+  "original_name": "谪仙人",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这支名为“谪仙人”的竹笛虽然品秩受损，却承载了极高的文学意境与神道权柄。它是大妖云卿的随身物 ，亦是连接两座天下风流人物的纽带 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第705章 化雪时",
+      "owner": "沛阿香"
+    }
+  ],
+  "subtype": "意境类 / 气运类",
+  "holder": "云卿",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蛮荒飞升境大妖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "若能补全残缺的“露支风券”道韵，有望重回仙兵品秩 。",
+  "supernatural_ability": "笛声悠扬，能调理一方风水，并作为某种古老神道契约的信物，具备“批给露支”的特殊权柄 。",
+  "evolution": {
+    "current_form": "笛身刻有“谪仙人”三字的古朴竹笛 。",
+    "materials_consumed": [
+      "青神山万年灵竹气色",
+      "大妖精血"
+    ],
+    "potential_evolution": "进化为可以敕令天地风雷、行云布雨的神道礼器 。"
+  },
+  "visual": {
+    "static": "竹质细腻莹润，刻痕苍劲，自带一股出尘脱俗的仙家清气 。",
+    "active": "吹奏时异香扑鼻，四周云气随音律变化而幻化出各种祥瑞景象 。"
+  },
+  "provenance": {
+    "origin": "选材自竹海洞天青神山 。",
+    "karma_link": "曾是蛮荒大妖的定情物，承载了一段跨越天下的遗憾因果 。"
+  },
+  "enriched": true
+}

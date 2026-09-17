@@ -1,0 +1,43 @@
+{
+  "name": "紫金养剑葫",
+  "original_name": "牛毛",
+  "type": "灵物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这只葫芦真名为“牛毛”，寓意温养飞剑数量之多 。它是东宝瓶洲极其稀有的顶级养剑法器，曾是正阳山仙子苏稼 的标志性宝物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第57章 养剑葫",
+      "owner": "苏姐姐 (提及)"
+    }
+  ],
+  "subtype": "养剑类",
+  "holder": "苏稼（原持有人）",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "正阳山",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为道祖亲手栽种的七枚养剑葫之一，其温养飞剑的能力位居世间 顶点 。",
+  "supernatural_ability": "能够温养数量极其庞大的飞剑 。因其品秩极高，温养飞剑极其优异，但也因为材质极脆而易损 坏 。",
+  "evolution": {
+    "current_form": "紫金颜色的小葫芦 。",
+    "materials_consumed": [
+      "道祖所植葫芦藤"
+    ],
+    "potential_evolution": "最终品秩可视为仙兵 。"
+  },
+  "visual": {
+    "static": "一只大小适中的紫金颜色葫芦，外表散发着天然的宝光 。",
+    "active": "在温养飞剑时，葫芦表面会有流光溢彩的道韵浮现 。"
+  },
+  "provenance": {
+    "origin": "源自道祖在飞升前亲手栽下的一串葫芦藤，是其结出的七颗葫芦之 一 。",
+    "karma_link": "曾在正阳山苏稼手中，随着她剑心破碎而下落不明 。"
+  },
+  "enriched": true
+}

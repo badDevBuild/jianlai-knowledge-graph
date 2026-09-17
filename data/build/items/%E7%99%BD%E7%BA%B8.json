@@ -1,0 +1,37 @@
+{
+  "name": "白纸",
+  "original_name": "因果底本 / 符箓胚材",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "李希圣认为整个人间就是一本书，而底本（白纸）从未在凡人手中 。在战场上，它也常被用作制造幻象或承载高阶符箓的基材 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第642章 崔东山的一张白纸",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "哲学/载体类",
+  "holder": "李希圣 / 陈平安",
+  "holder_relation": "寄托",
+  "rank": "其他",
+  "rank_potential": "取决于书写在其上的道理与符箓品秩 。",
+  "supernatural_ability": "在高阶修士手中可承载天地因果，或作为幻术大阵的媒介 。",
+  "evolution": {
+    "current_form": "洁白无瑕的特制纸张 。",
+    "materials_consumed": [
+      "灵草纤维"
+    ],
+    "potential_evolution": "可演化为记载天下大势的“有字天书” 。"
+  },
+  "visual": {
+    "static": "质地绵软，色泽纯净 。",
+    "active": "在战斗中可幻化为无数分身或碎裂成光影干扰视线 。"
+  },
+  "provenance": {
+    "origin": "源自李希圣对“世间如书”的哲学观想 。",
+    "karma_link": "象征着命运的底本与可以被重新书写的“道理” 。"
+  },
+  "enriched": true
+}

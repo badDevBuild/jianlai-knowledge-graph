@@ -1,0 +1,38 @@
+{
+  "name": "小斗笠",
+  "original_name": "水运斗笠",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这不仅是防雨的工具，更是陈平安行走江湖、掩人耳目的重要辅助灵物，多次助其在险境中全身而退 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第153章 心境",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "遮蔽类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随持有者对水法的精通，可增强隐匿与破开江河禁制的能力 。",
+  "supernatural_ability": "**“气机遮蔽”**。由水运凝聚而成，能够帮助持有者在大海或江河中隐匿行踪，避免被大修士轻易勘破 。",
+  "evolution": {
+    "current_form": "一顶由水运精华幻化而成的常规斗笠 。",
+    "materials_consumed": [
+      "江河水运",
+      "光阴水"
+    ],
+    "potential_evolution": "可与‘金醴’法袍配合，形成完整的隐匿套装 。"
+  },
+  "visual": {
+    "static": "看似寻常的竹编斗笠，其实质感清凉，隐约有水汽萦绕 。",
+    "active": "戴上后身形仿佛与周围环境相融，在水中可如鱼得水，无声无息 。"
+  },
+  "provenance": {
+    "origin": "陈平安在远游途中根据水法神通自行凝聚 。",
+    "karma_link": "伴随陈平安在蛮荒天下、大渎江河中行事，是其‘谨慎’性格的物化体现 。"
+  },
+  "enriched": true
+}

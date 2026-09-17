@@ -1,0 +1,38 @@
+{
+  "name": "山色",
+  "original_name": "山川之气",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "山色是衡量一座仙家道场灵气盈亏的重要标志 。特定的山色（如白岳之赤）往往预示着该地藏有某种珍稀矿产或远古遗迹 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第630章 刺杀隐官",
+      "owner": "徐凝"
+    }
+  ],
+  "subtype": "景观/气运类",
+  "holder": "山岳神君",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "随山脉龙穴的稳固，山色可转化为实质的压胜之力 。",
+  "supernatural_ability": "具备特定的视觉特征（如赤如朱砂），能改变周边地界的光影与灵气浓稠度 。",
+  "evolution": {
+    "current_form": "群山绵延中呈现出的特有气象（如晚霞颜色） 。",
+    "materials_consumed": [
+      "五色土",
+      "山根灵气"
+    ],
+    "potential_evolution": "山色凝练到极致，可孕育出山魈、木客等山中灵魅 。"
+  },
+  "visual": {
+    "static": "每逢阳光照射便会灿若晚霞，宛如女子涂抹胭脂 。",
+    "active": "在云雾变幻中，山色会随阵法流转呈现出“龙衔骊珠”等奇异天象 , 。"
+  },
+  "provenance": {
+    "origin": "源自天地初开时各大名山的本源气色 。",
+    "karma_link": "陈平安曾在落魄山各处藩属山头寻找适合埋置的压胜山色 。"
+  },
+  "enriched": true
+}

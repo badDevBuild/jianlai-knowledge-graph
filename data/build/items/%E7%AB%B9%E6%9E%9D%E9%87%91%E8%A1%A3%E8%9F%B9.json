@@ -1,0 +1,44 @@
+{
+  "name": "竹枝金衣蟹",
+  "original_name": "书简湖灵蟹",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是书简湖的顶级珍馐，不仅是老饕眼中的美味，更是 练气士眼中行走的“大补之物” 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第931章 吾为东道主（上）",
+      "owner": "董水井(经营)"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "书简湖修士 / 顾璨",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "董水井 (商行)",
+      "relation": "分销者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "长期在灵气汇聚之地生长的“竹枝”种，可作为炼制地仙 丹药的主材 。",
+  "supernatural_ability": "个头极大，蕴含极其充沛的水运精华，食之可滋养神魂 ，祛除气府内虚火 。",
+  "evolution": {
+    "current_form": "浑身呈金黄色、带有青竹纹路的巨蟹 。",
+    "materials_consumed": [
+      "书简湖水运",
+      "天地灵气"
+    ],
+    "potential_evolution": "极少数可开窍炼形，成为水府的“横行大将军” 。"
+  },
+  "visual": {
+    "static": "外壳金光灿灿，螯足强壮，散发出淡淡的清香 。",
+    "active": "游走时伴随灵气雾霭，能自主避开凡俗渔网 。"
+  },
+  "provenance": {
+    "origin": "产自书简湖特定水域，极其稀有 。",
+    "karma_link": "董水井垄断此类生意，使其成为落魄山与外界贸易的“ 硬通货” 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "竹箧（仿品）",
+  "original_name": "恨剑山仿剑",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是恨剑山为了致敬剑气长城董家祖师而炼制的仿剑。**原剑曾见证了董家剑修背负竹箧斩杀大妖的壮 举**，该仿品在北俱芦洲剑修中享有极高声誉 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第272章 陈平安，你听我说",
+      "owner": "董家老祖(原主)"
+    },
+    {
+      "chapter": "第807章 木人哑语",
+      "owner": "竹箧(刘叉弟子)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "恨剑山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "恨剑山铸剑师",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为北俱芦洲著名的“真迹下一等”仿剑，具备演化出原剑部分杀伐神通的潜力 。",
+  "supernatural_ability": "继承了原剑“竹箧”的部分剑意，出剑极快且厚重。原剑曾由董家祖师背负斩杀十三境大妖 。",
+  "evolution": {
+    "current_form": "由恨剑山精工打造的仿制飞剑 。",
+    "materials_consumed": [
+      "天外飞石",
+      "剑仙残余剑意"
+    ],
+    "potential_evolution": "若能获得原主剑气的持续淬炼，可跻身半仙兵品秩 。"
+  },
+  "visual": {
+    "static": "剑身呈现出古朴的色泽，形制模仿自远古剑仙遗物。",
+    "active": "激发时剑气凌厉，伴随着类似于竹林摇曳的阵阵剑鸣。"
+  },
+  "provenance": {
+    "origin": "出自北俱芦洲恨剑山，是其针对历史上十四把名剑进行的高规格复刻品之一 , 。",
+    "karma_link": "与剑气长城大族董家的剑道传承有着深厚的符号渊源 。"
+  },
+  "enriched": true
+}

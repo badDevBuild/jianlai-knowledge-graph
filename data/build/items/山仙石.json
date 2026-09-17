@@ -1,0 +1,43 @@
+{
+  "name": "山仙石",
+  "original_name": "龙血精粹 / 仙家石子",
+  "type": "材料",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "骊珠洞天的特产，曾被视为稚童玩物，实则是山上修士 梦寐以求的洗髓重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第799章 登高望远",
+      "owner": "李槐"
+    }
+  ],
+  "subtype": "资粮/炼物类",
+  "holder": "陈平安 / 顾粲",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "最后一条真龙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着真龙在人间绝迹，此类石子将成为不可再生的绝版 资粮 。",
+  "supernatural_ability": "蛟龙之属食之可生真龙筋骨须鳞，亦可作为炼制上等法 宝的胚子 。",
+  "evolution": {
+    "current_form": "五颜六色、质地细腻的小石子 。",
+    "materials_consumed": [
+      "真龙灵血"
+    ],
+    "potential_evolution": "极致品相者可演化为“水精”或龙珠碎片 。"
+  },
+  "visual": {
+    "static": "色泽鲜艳，放在阳光下可见金色筋脉流转 。",
+    "active": "受水气牵引会散发出淡淡的龙威，聚拢山水气运 。"
+  },
+  "provenance": {
+    "origin": "产自骊珠洞天龙须河，由最后一条真龙灵血凝聚而成 。",
+    "karma_link": "陈平安少年时代的“第一桶金”，也是他与众多神祇结缘 的媒介 。"
+  },
+  "enriched": true
+}

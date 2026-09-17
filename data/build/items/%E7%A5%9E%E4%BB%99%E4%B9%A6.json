@@ -1,0 +1,53 @@
+{
+  "name": "神仙书",
+  "original_name": "《山海志》/ 仙家典籍",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是**陈平安远游的“指路明灯”**。比起一般的秘籍，这种记录天下规 矩与地理的书籍更符合隐官“算大账”的需要 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第384章 下完棋抄完书",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第676章 终于远游境",
+      "owner": "杜山阴"
+    },
+    {
+      "chapter": "第677章 试试看",
+      "owner": "刑官"
+    }
+  ],
+  "subtype": "地理/百科类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "倒悬山鹳雀客栈",
+      "relation": "出售者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随记录内容的增加可演化为具有“掌观山河”神通的法宝 。",
+  "supernatural_ability": "书页内容如流水浮云实时变幻，详尽记载九洲风土、仙府遗址、天材地 宝及各种山川异闻 。",
+  "evolution": {
+    "current_form": "质地厚实的仙家书籍，文字与图像均带灵光 。",
+    "materials_consumed": [
+      "仙家纸张",
+      "浩然气运",
+      "地理真形"
+    ],
+    "potential_evolution": "若由圣人落笔批注，可成为规矩一洲的“地脉谱牒”。"
+  },
+  "visual": {
+    "static": "书页翻动时会有细微的云气流转，非凡俗纸张可比 。",
+    "active": "凝神阅读时，图像会跃然纸上，仿佛身临其境游览名山大川 。"
+  },
+  "provenance": {
+    "origin": "由文庙或各大豪阀（如山海宗）编撰并定期更新 。",
+    "karma_link": "帮助陈平安这个“泥腿子”迅速建立起对九洲大势的宏观认知 。"
+  },
+  "enriched": true
+}

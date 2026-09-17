@@ -1,0 +1,47 @@
+{
+  "name": "神像碎木",
+  "original_name": "玄都观桃木碎块",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "原本是供奉在遗址道观内的中年道人坐像（被火龙真人暗示为吕喦相关），因黄师搜宝无果将其击碎， 陈平安将其全部收拢并带回。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第541章 得宝",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "神道/祭祀类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "玄都观",
+      "relation": "原主"
+    },
+    {
+      "name": "黄师",
+      "relation": "毁坏者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "其材质是玄都观祖宗桃木，天生压胜妖邪，是炼制顶级雷木法器的材料。",
+  "supernatural_ability": "虽已破碎，但仍具备极强的灵性，可自行拼凑成尊神像（类似出窍阴神）。",
+  "evolution": {
+    "current_form": "被武夫黄师打烂的神像碎木块。",
+    "materials_consumed": [
+      "玄都观祖宗桃木"
+    ],
+    "potential_evolution": "被火龙真人重新拼凑回中年道人形象，成为陈平安木属本命物的雏形。"
+  },
+  "visual": {
+    "static": "看似寻常的彩绘木头残片，但木纹中隐有雷光。",
+    "active": "灵气激发下，碎块会产生磁石般的吸引力，重构成庄严的道人坐像。"
+  },
+  "provenance": {
+    "origin": "取自青冥天下大玄都观的祖宗桃木，被雕刻为某位道门高人的神位。",
+    "karma_link": "陈平安在遗址捡漏所得，后经火龙真人指点其真实价值。"
+  },
+  "enriched": true
+}

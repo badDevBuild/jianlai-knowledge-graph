@@ -1,0 +1,38 @@
+{
+  "name": "游记账簿",
+  "original_name": "陈平安游记 / 账本",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不单是账本，而是陈平安的人生足迹。每一笔账目背 后都代表着一份被理清的因果与道理 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第883章 看酒",
+      "owner": "裴钱 -> 曹晴朗"
+    }
+  ],
+  "subtype": "记录/因果类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "随着陈平安对“事功”学问的深入，此簿可成为衡量天下 因果、梳理一洲脉络的神物 , 。",
+  "supernatural_ability": "不仅记录钱财出入，更记录了山川、大妖及故友的真实 细节，是其分身法阵的运行基石 , 。",
+  "evolution": {
+    "current_form": "一摞叠放整齐的手稿，部分已装订成册 。",
+    "materials_consumed": [
+      "光阴记忆",
+      "天下事理"
+    ],
+    "potential_evolution": "最终可演化为能干预局部现实的“山河谱” 。"
+  },
+  "visual": {
+    "static": "纸张略显陈旧，字迹规矩如楷，密密麻麻记录着年月与 事宜 。",
+    "active": "翻阅时相关人物的因果线若隐若现，可用于推演敌方踪 迹 。"
+  },
+  "provenance": {
+    "origin": "陈平安自幼养成的记录习惯，后融合避暑行宫秘档 , 。",
+    "karma_link": "象征着陈平安对“理”与“数”的极致追求，是其计算天下 的工具 。"
+  },
+  "enriched": true
+}

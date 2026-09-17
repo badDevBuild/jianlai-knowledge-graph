@@ -1,0 +1,48 @@
+{
+  "name": "上上玄玄集",
+  "original_name": "上上玄玄集",
+  "type": "典籍",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一部极为特殊的雷法典籍。上册阐述宗旨，虽为二境练气士隋景澄持有多年，却因其“道理虚高”而 难以全悟，直至陈平安指点方得其门而入 [5-7]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第526章 伏线拎起即杀机",
+      "owner": "隋景澄"
+    },
+    {
+      "chapter": "第998章 酒杯换碗",
+      "owner": "隋景澄"
+    }
+  ],
+  "subtype": "雷法秘籍",
+  "holder": "隋景澄",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "某位世外高人 (疑似元婴及以上)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "分为上中下三册，不仅包含雷法神通，更是直指金丹乃至跻身上五境的大道坦途 。",
+  "supernatural_ability": "记载有“驾驭金钗如飞剑”的秘术神通 。修行大成后可通玄真 。",
+  "evolution": {
+    "current_form": "光亮如新、没有丝毫磨损的小册子 。",
+    "materials_consumed": [
+      "雷法意蕴",
+      "大道真言"
+    ],
+    "potential_evolution": "若由金丹及以上修士研习中下两册，可作为开辟仙家洞府的根本法脉 。"
+  },
+  "visual": {
+    "static": "书页上的文字带有宝光，若非对应缘分之人翻开，文字会如沙场战阵般自行散乱，无法窥见正文 。",
+    "active": "翻阅时隐约可见雷光流溢，文字具备灵性 。"
+  },
+  "provenance": {
+    "origin": "源自青冥天下，三十余年前由高人赠予尚在襁褓中的隋景澄 。",
+    "karma_link": "与林守一手中的《云上琅琅书》互为补益，陈平安认为此书最终是在等林守一 。"
+  },
+  "enriched": true
+}

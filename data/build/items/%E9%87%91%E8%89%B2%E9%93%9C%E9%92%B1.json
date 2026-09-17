@@ -1,0 +1,51 @@
+{
+  "name": "金色铜钱",
+  "original_name": "祖钱 / 长命 / 汲清",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "消耗",
+  "description": "这是世间所有金精铜钱与神仙钱的祖源，承载着最古老的贸易规矩。其显化的人形长命道友，已成为落 魄山不可或缺的掌律与管家。,",
+  "aliases": [
+    "金色铜钱",
+    "金精铜钱"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第14章 五月初五",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "气运类 / 魂魄类",
+  "holder": "陈平安 / 杜山阴",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "三山九侯先生",
+      "relation": "原主"
+    },
+    {
+      "name": "刑官豪素",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为所有神仙钱的祖源，具备演化为财源福德圣灵的无限上限。,",
+  "supernatural_ability": "“生财有道”。能将人间香火炼虚为实，且能精准感应天地间的天材地宝与文武气运。,",
+  "evolution": {
+    "current_form": "已幻化为名为“长命”和“汲清”的两位妙龄女子，分别管理落魄山和刑官一脉的财务。,",
+    "materials_consumed": [
+      "远古神性精华",
+      "人间极致文运"
+    ],
+    "potential_evolution": "若能寻回另一半姻缘脉络，可成就“钱生钱”的永恒命理格局。"
+  },
+  "visual": {
+    "static": "本体为字口如斩、刀痕犹存的极美品金精祖钱，额头带有天窗印痕。",
+    "active": "显化真容时肌肤呈现金黄或幽绿颜色，步步生金莲，光彩照彻十方。"
+  },
+  "provenance": {
+    "origin": "源自远古时代三山九侯先生的摸钱涧。",
+    "karma_link": "由隐官陈平安从剑气长城带回浩然，是落魄山财富底蕴的真正核心。"
+  },
+  "enriched": true
+}

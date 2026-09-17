@@ -1,0 +1,45 @@
+{
+  "name": "墨家箭矢",
+  "original_name": "符箓箭矢 / 特制重箭",
+  "type": "材料",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这些箭矢是大骊王朝最顶级的消耗型军资。每一枝的造价都相当于数百 两白银，是专门为“射杀仙人”准备的利刃 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第234章 夜宿古寺有妖气",
+      "owner": "徐远霞"
+    }
+  ],
+  "subtype": "攻伐/消耗类",
+  "holder": "徐远霞 / 大骊箭阵",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊库藏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "箭镞部分若融入“斩龙台”碎屑，可对真龙后裔造成致命创伤 。",
+  "supernatural_ability": "箭头带有专门针对练气士法力屏障的破禁符文。中箭者气府灵气会瞬间 紊乱，极难自行拔出 。",
+  "evolution": {
+    "current_form": "长三尺、分量沉重、箭羽由特殊禽类羽毛制成的重箭 。",
+    "materials_consumed": [
+      "符金",
+      "雷击木",
+      "妖禽羽毛"
+    ],
+    "potential_evolution": "可演化为具有自动追踪神魂功能的“追魂箭” 。"
+  },
+  "visual": {
+    "static": "箭头闪烁着蓝幽幽的冷光，箭身刻有密集的排气孔位 。",
+    "active": "飞行时拖曳出细微的红光，能够轻易撕裂空间禁制产生的灵气壁垒 。"
+  },
+  "provenance": {
+    "origin": "由墨家巨子亲自传授技艺，在大骊绝密作坊中打造 。",
+    "karma_link": "标志着大骊军伍开始真正涉足“山上”层次的远程压制 。"
+  },
+  "enriched": true
+}

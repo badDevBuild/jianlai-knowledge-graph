@@ -1,0 +1,48 @@
+{
+  "name": "太霞法袍",
+  "original_name": "太霞",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "太霞法袍是北俱芦洲太霞一脉的标志性防御重宝。它不仅品秩极高，且蕴含了龙虎山正统的流霞道韵， 是顾陌在乱世中行走江湖、磨砺剑锋的重要屏障 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第524章 陈平安和齐景龙的道理",
+      "owner": "顾陌"
+    },
+    {
+      "chapter": "第525章 击掌",
+      "owner": "顾陌"
+    }
+  ],
+  "subtype": "防御类 / 显化类",
+  "holder": "顾陌",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "太霞元君李妤",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为太霞元君的成名宝物，具有汲取并炼化流霞道意的潜力 。",
+  "supernatural_ability": "法袍上的霞云可自行流转，产生护体神光，辅助持有者进行坐忘吐纳 。",
+  "evolution": {
+    "current_form": "绣有朵朵鲜红霞云的道袍。",
+    "materials_consumed": [
+      "流霞道意",
+      "天师府秘法"
+    ],
+    "potential_evolution": "可作为龙虎山外姓天师法系的象征性重器 。"
+  },
+  "visual": {
+    "static": "一件形制独特的道袍，上面分布着层次分明的红霞纹路 。",
+    "active": "霞光流溢，红云翻滚，产生肉眼可见的灵气气旋，气象宏大 。"
+  },
+  "provenance": {
+    "origin": "龙虎山太霞一脉祖师太霞元君李妤的随身法宝 。",
+    "karma_link": "在李妤兵解后，由其闭关弟子顾陌继承，出现在北俱芦洲战场 。"
+  },
+  "enriched": true
+}

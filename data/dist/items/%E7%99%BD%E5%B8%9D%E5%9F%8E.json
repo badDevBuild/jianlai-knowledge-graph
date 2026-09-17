@@ -1,0 +1,44 @@
+{
+  "name": "白帝城",
+  "original_name": "白帝城琉璃阁 / 心相建筑",
+  "type": "其他",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是陈平安在自身心相天地内构建的防御与计算枢纽。它结合了白帝城的严密逻辑与飞剑的极致杀力， 是其对抗高位格天劫的核心重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1162章 （1） 第四把飞剑",
+      "owner": "郑居中"
+    }
+  ],
+  "subtype": "阵法类 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "郑居中",
+      "relation": "原型提供者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "在陈平安的“笼中雀”小天地中不断扩建，最终将演化为统领万法的中枢建筑 。",
+  "supernatural_ability": "“法天象地”。通过飞剑“井中月”分化出的数十万柄细微飞剑搭建框架，自行缝补和修缮道法漏洞，能强 行镇压各种紊乱气机 。",
+  "evolution": {
+    "current_form": "铺满碧绿琉璃瓦的九层琉璃阁 。",
+    "materials_consumed": [
+      "分身飞剑",
+      "星宿道意"
+    ],
+    "potential_evolution": "可演化为具有独立灵智的灵物级阵法枢纽 。"
+  },
+  "visual": {
+    "static": "宏伟的琉璃阁楼，雕栏玉栋，翘檐悬铃，匾额楹联清晰可见 。",
+    "active": "当阵法开启，无数金色丝线蔓延生发，将虚幻阁楼转化为真实色彩并产生灵智感应 。"
+  },
+  "provenance": {
+    "origin": "陈平安观想郑居中道场“白帝城”复刻而成 。",
+    "karma_link": "是陈平安将算计与剑道结合的具象化，体现了其“算计天下”的道心 。"
+  },
+  "enriched": true
+}

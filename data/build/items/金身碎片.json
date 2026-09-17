@@ -1,0 +1,33 @@
+{
+  "name": "金身碎片",
+  "original_name": "金身碎片",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "淫祠山神崩碎后的金身碎片，蕴含灵气和香火。",
+  "aliases": [
+    "金身碎片"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第226章 匣有两剑，降妖除魔",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第229章 趋之若鹜",
+      "owner": "赵鎏"
+    },
+    {
+      "chapter": "第711章 谜语",
+      "owner": "长命"
+    },
+    {
+      "chapter": "第834章 来了",
+      "owner": "隋霖 (陈平安赠)"
+    },
+    {
+      "chapter": "第1128章 二十人与候补们（十）",
+      "owner": "杜山阴"
+    }
+  ]
+}

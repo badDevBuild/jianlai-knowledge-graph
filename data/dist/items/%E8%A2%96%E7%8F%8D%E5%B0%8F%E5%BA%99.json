@@ -1,0 +1,44 @@
+{
+  "name": "袖珍小庙",
+  "original_name": "太阳宫 (又名袖珍宫阙)",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件极其珍稀的远古遗存，位列老观主珍藏家当的**前五之列**，具备不可估量的神道位阶 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第651章 不知不觉十五年",
+      "owner": "郑大风"
+    }
+  ],
+  "subtype": "镇压类 / 辅助类",
+  "holder": "王原箓",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老观主",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古**火部**神灵的治所，是世间炼丹、铸剑的第一等道场 。",
+  "supernatural_ability": "内含无尽火海与**炼剑台**，可镇压一方小天地的火属气运 。",
+  "evolution": {
+    "current_form": "巴掌大小的袖珍宫阙模型 。",
+    "materials_consumed": [
+      "火精",
+      "金铁精华"
+    ],
+    "potential_evolution": "可演化为承载天地间最强火法的大道场 。"
+  },
+  "visual": {
+    "static": "巴掌大小的精美宫阙，虽然微缩却显得气势磅礴 。",
+    "active": "内部火光映照，熠熠生辉，散发出让地仙都感到心悸的灼热道意 。"
+  },
+  "provenance": {
+    "origin": "远古天庭五至高之一火神麾下的**行宫遗迹** 。",
+    "karma_link": "碧霄洞主珍藏多年的家底，曾被误传已经破碎，后赠予弟子作为道缘 。"
+  },
+  "enriched": true
+}

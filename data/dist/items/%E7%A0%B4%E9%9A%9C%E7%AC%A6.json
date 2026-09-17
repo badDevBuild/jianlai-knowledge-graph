@@ -1,0 +1,54 @@
+{
+  "name": "破障符",
+  "original_name": "山水破障符 / 路引符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "这是**符箓一脉极其经典的入门功能符**。虽然杀力有 限，却是走江湖、探秘境不可或缺的保命物，体现了陈 平安步步为营的修行风格 。",
+  "aliases": [
+    "破障符"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第124章 鬼打墙",
+      "owner": "林守一"
+    },
+    {
+      "chapter": "第507章 如神祇高坐",
+      "owner": "杜俞"
+    },
+    {
+      "chapter": "第1014章 坐井观天复少年",
+      "owner": "白茅 -> 陈平安"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣 (传授者)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随画符者境界提升，可由“挑灯”演化为“照彻万法”的真 相符 。",
+  "supernatural_ability": "专门用于破开鬼打墙等阴冥迷障，引导修士走出死地； 高级版如“白泽路引符”可无视山水屏障 。",
+  "evolution": {
+    "current_form": "黄纸材质，上绘特定的赤色云篆 。",
+    "materials_consumed": [
+      "黄玺符纸",
+      "纯粹真气"
+    ],
+    "potential_evolution": "可进阶为金色材质的“万法通关文牒” 。"
+  },
+  "visual": {
+    "static": "符纸表面有微弱的灵光跳跃，符文结构如繁星分布 。",
+    "active": "激发后化作一点柔和的金光在前方引路，能驱散四周的 灰雾与幻象 。"
+  },
+  "provenance": {
+    "origin": "源自《丹书真迹》中的入门秘法 。",
+    "karma_link": "陈平安多次在乱葬岗与阴煞之地使用，是其初期生存的 关键 。"
+  },
+  "enriched": true
+}

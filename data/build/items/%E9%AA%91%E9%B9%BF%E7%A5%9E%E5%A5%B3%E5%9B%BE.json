@@ -1,0 +1,44 @@
+{
+  "name": "骑鹿神女图",
+  "original_name": "壁画城神女图之一",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "壁画城极负盛名的神女图之一。图中神女背负的“快哉风”木剑象征着极高的剑道感悟，是贺小凉在北俱 芦洲立足的重要助益 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第486章 不愧是老江湖",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "剑道类",
+  "holder": "贺小凉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "骸骨滩壁画城",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "神女背负“快哉风”木剑，与贺小凉道心相契 。",
+  "supernatural_ability": "神女骑乘七彩鹿，能隐匿身形与气机，且法袍裙带具有特定的防御神通 。",
+  "evolution": {
+    "current_form": "由彩绘转为白描的画卷 。",
+    "materials_consumed": [
+      "道门清气",
+      "剑意"
+    ],
+    "potential_evolution": "神女与贺小凉合道，辅助其开创清凉宗 。"
+  },
+  "visual": {
+    "static": "神女身骑七彩鹿，背负青色无鞘木剑 。",
+    "active": "神女裙带拖曳，飘然入月中，剑气如长风扫过，万物生凉 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲骸骨滩壁画城 。",
+    "karma_link": "神女因厌恶某位外乡人（陈平安）的某些言行而离开壁画，选择投靠贺小凉 。"
+  },
+  "enriched": true
+}

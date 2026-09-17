@@ -1,0 +1,50 @@
+{
+  "name": "青釉围棋瓷罐",
+  "original_name": "青釉御用棋罐 / 云霄国宫廷旧物",
+  "type": "灵物",
+  "grade": "珍品",
+  "status": "活跃",
+  "description": "这对棋罐是大珠小珠落玉盘的绝佳容器。它不仅代表了极高的世俗工艺，也承载了一段消失的王朝历史 ，是陈平安在红尘游历中精心拣选的雅玩 。",
+  "aliases": [
+    "青釉御用棋罐"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第395章 一碗鸡汤不知道",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "收藏类 / 文房类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青鸾国京城店铺",
+      "relation": "购买自"
+    },
+    {
+      "name": "云霄国皇室",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为宫廷御制官窑精品，随陈平安的修行与浸润，可衍生出温养棋子灵性的功能 。",
+  "supernatural_ability": "**“聚气凝神”**。棋罐本身器型硕大却秀雅精熟，具有天然的静心效果，适合放置各类蕴含灵气的棋子 。",
+  "evolution": {
+    "current_form": "一对色泽如雨过天青的青釉瓷质围棋罐 。",
+    "materials_consumed": [
+      "顶级瓷土",
+      "宫廷秘釉"
+    ],
+    "potential_evolution": "可演化为承载“彩云十局”等棋道宝物的最佳载体 。"
+  },
+  "visual": {
+    "static": "釉色匀净饱满，光泽莹润如玉，造型古朴端庄 。",
+    "active": "在阳光或月色照耀下，罐身隐隐有灵光流转，内部空间似有微弱的灵气漩涡 。"
+  },
+  "provenance": {
+    "origin": "源自已覆灭的云霄国宫廷，是该国御用窑口的巅峰之作 。",
+    "karma_link": "陈平安在青鸾国京城购买，作为其收集文房四宝、砥砺心境的一部分 。"
+  },
+  "enriched": true
+}

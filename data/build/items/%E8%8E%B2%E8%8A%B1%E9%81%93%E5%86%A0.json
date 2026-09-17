@@ -1,0 +1,44 @@
+{
+  "name": "莲花道冠",
+  "original_name": "任公子道冠 / 陆沉道冠",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是白玉京三掌教陆沉随身携带的重宝。在陈平安手中，它成为了连接凡夫武夫与至高神灵境界的桥梁 ，是落魄山最厚重的底气之一 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第874章 后手对后手",
+      "owner": "陆沉"
+    }
+  ],
+  "subtype": "辅助类 / 承载类",
+  "holder": "陈平安 (暂持) / 陆沉 (主)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "白玉京三掌教陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为白玉京最高身份的象征之一，具备承载十四境道法且不伤及宿主本元的极限承载力 , 。",
+  "supernatural_ability": "“稳固心境”。能帮助持有人在超负荷承载强大道法时，始终保持道心如止水，免受外界天道侵蚀或反噬 , 。",
+  "evolution": {
+    "current_form": "一顶紫金材质、雕琢成莲花形状的道冠 。",
+    "materials_consumed": [
+      "白玉京道韵",
+      "太虚精华"
+    ],
+    "potential_evolution": "可配合特定的羽衣成为“任公子”法相的能量中枢 。"
+  },
+  "visual": {
+    "static": "造型古朴精美，花瓣层次分明，散发着内敛的黄紫道气 。",
+    "active": "佩戴后，持有人背后会显现日月二轮的光轮宝相，满身道气浓稠如实质 , 。"
+  },
+  "provenance": {
+    "origin": "源自青冥天下白玉京 。",
+    "karma_link": "陆沉暂借给陈平安，使其得以在玉璞境时便能短暂领略十四境的风景并完成“搬迁”壮举 , 。"
+  },
+  "enriched": true
+}

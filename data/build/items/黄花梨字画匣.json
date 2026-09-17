@@ -1,0 +1,43 @@
+{
+  "name": "黄花梨字画匣",
+  "original_name": "乌孙栏字画匣",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "一个极其考究的收藏用具。它不仅是一件精美的木作，更代表了浩然天下山下王朝的审美巅峰 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第748章 山水有重逢",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "储存类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "黄麟",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "匣内存放的彩笺文气，可随持有人书写的道理而增强 。",
+  "supernatural_ability": "匣内装有108张各色彩笺，可保存字画经年不腐，且自带宫廷贵气 。",
+  "evolution": {
+    "current_form": "黄花梨木质，四角平镶如意纹白铜饰物，配有羊脂玉云头拍子 。",
+    "materials_consumed": [
+      "文脉气数"
+    ],
+    "potential_evolution": "若能集齐配套的生花笔，可作为顶级文房法宝 。"
+  },
+  "visual": {
+    "static": "造工素雅，木质纹理清晰，散发出淡淡的降香气味 。",
+    "active": "开启时会有微弱的白光闪烁，显示出其非凡的宫廷旧藏出身 。"
+  },
+  "provenance": {
+    "origin": "大盈王朝宫中旧物，后归彩衣渡船管事黄麟所有 。",
+    "karma_link": "作为陈平安在一场海市蜃楼风波中出手的谢礼 。"
+  },
+  "enriched": true
+}

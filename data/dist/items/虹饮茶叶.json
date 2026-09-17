@@ -1,0 +1,44 @@
+{
+  "name": "虹饮茶叶",
+  "original_name": "虹饮岛仙家茶",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "名动宝瓶洲与桐叶洲的顶级仙茶。其价值不菲，不仅在 于其灵气含量，更在于其出众的视觉异象 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第983章 愁者解自愁",
+      "owner": "刘重润"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "刘重润 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "虹饮岛",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为极高品阶的灵茶，长期饮用可洗练经脉，提升对水 法神通的感悟 。",
+  "supernatural_ability": "煮沸冲泡后，杯中会浮现真实的袖珍彩虹，具备定神、 安魂的神效 。",
+  "evolution": {
+    "current_form": "经过秘法炒制而成的卷曲茶青 。",
+    "materials_consumed": [
+      "虹饮岛水汽",
+      "日光精华"
+    ],
+    "potential_evolution": "极品茶种可培育为产出“水精露珠”的灵根 。"
+  },
+  "visual": {
+    "static": "茶叶色泽青润，带有淡淡的海盐与花香混合气息 。",
+    "active": "茶汤中升腾起氤氲雾气，形成一道清晰可辨的七彩虹桥 。"
+  },
+  "provenance": {
+    "origin": "产自书简湖附近的虹饮岛，现由刘重润垄断经营 [9-11]。",
+    "karma_link": "常作为落魄山待客及与大山头进行社交往来的顶级供品 。"
+  },
+  "enriched": true
+}

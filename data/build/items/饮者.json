@@ -1,0 +1,50 @@
+{
+  "name": "饮者",
+  "original_name": "饮者",
+  "type": "本命飞剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是阿良唯一的本命飞剑。阿良自称因为“喜欢喝酒，江湖只有一座”，所以飞剑也只有一把，名为“饮 者”，象征其狂放不羁的剑道风格 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第813章 饮者",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第841章 新剑修",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第846章 两人并肩",
+      "owner": "阿良"
+    },
+    {
+      "chapter": "第1127章 二十人与候补们（九）",
+      "owner": "阿良"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "阿良",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "作为十四境剑修（阿良）唯一的本命飞剑，杀力已达世间巅峰 。",
+  "supernatural_ability": "由于“江湖只有一座”，故而此剑在阿良手中具有独一无二的压胜权柄，剑出即江湖 。",
+  "evolution": {
+    "current_form": "本命飞剑实物 。",
+    "materials_consumed": [
+      "剑气长城万年剑意",
+      "浩然天下文气"
+    ],
+    "potential_evolution": "随阿良重返十四境及远游蛮荒，杀力将进一步突破人间极限 。"
+  },
+  "visual": {
+    "static": "剑身朴拙，常隐于阿良窍穴之中 。",
+    "active": "出剑时剑光纵横，能够让天下所有对手“无话可说”，气势如虹 。"
+  },
+  "provenance": {
+    "origin": "阿良本命孕育而出的飞剑 。",
+    "karma_link": "见证了阿良在剑气长城、倒悬山及蛮荒腹地的所有战绩 。"
+  },
+  "enriched": true
+}

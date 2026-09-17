@@ -1,0 +1,52 @@
+{
+  "name": "金扉国宝刀",
+  "original_name": "名泉",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "大泉王朝的传国利刃，曾手刃多位龙子龙孙。其独特的压胜功能使其成为斩杀水蛟、稳固龙脉的顶级神 兵 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第516章 山水迢迢",
+      "owner": "金扉国皇室(暂由冯异持有)"
+    }
+  ],
+  "subtype": "压胜类 / 攻伐类",
+  "holder": "简明 (越人歌)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "金扉国京城武庙",
+      "relation": "曾持有"
+    },
+    {
+      "name": "姚岭之",
+      "relation": "原主"
+    },
+    {
+      "name": "曾先生",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "通过浸染皇族龙气与杀伐戾气，具备镇压一国山河气运的威势 。",
+  "supernatural_ability": "能够彻底斩断王朝龙脉国祚；天然压胜一切蛟龙之属与鬼怪神异 。",
+  "evolution": {
+    "current_form": "法刀",
+    "materials_consumed": [
+      "龙子龙孙鲜血",
+      "龙气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "木质刀鞘，蒙绿鲨皮，刀柄嵌满珍宝；刀刃带有千年不散的陈旧血迹 。",
+    "active": "祭出时刀气森严，金光压胜，展现出斩杀恶蛟的毁灭性力量 。"
+  },
+  "provenance": {
+    "origin": "大泉王朝镇国重器，后流落至金扉国 。",
+    "karma_link": "因斩断前朝龙脉国祚而闻名，后由曾先生设计取回并赠予弟子简明 。"
+  },
+  "enriched": true
+}

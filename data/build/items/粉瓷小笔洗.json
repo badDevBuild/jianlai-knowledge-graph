@@ -1,0 +1,43 @@
+{
+  "name": "粉瓷小笔洗",
+  "original_name": "十六字吉语笔洗",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "一件极其精美的文房灵器，不仅可以作为**观赏器物**，内部还豢养了开了灵智的微小精魅，体现了山 上练气士的雅致生活方式 。",
+  "aliases": [
+    "粉瓷小笔洗"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第233章 尘埃落定",
+      "owner": "陈平安 (战利品)"
+    }
+  ],
+  "subtype": "辅助/温养类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蛇蝎夫人",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "内含水运灵气，可温养小型水属性精魅 。",
+  "supernatural_ability": "笔洗底部刻有十六字吉语，可令文字如蝌蚪般流转绕行 ；内部养有一条小白蛇和一只小黑蝎子 。",
+  "evolution": {
+    "current_form": "古色古香的粉瓷小笔洗 。",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "质地细腻，底部刻有“春花秋月，春风秋树，春山秋石，春水秋霜”十六字 。",
+    "active": "灵气激发下，底部文字会欢快绕行，内部精魅会随飞剑威压而战栗 。"
+  },
+  "provenance": {
+    "origin": "得自金扉国刺客蛇蝎夫人 。",
+    "karma_link": "陈平安在胭脂郡打杀蛇蝎夫人后获得，因名字缘分曾想赠予春水、秋实姐妹 。"
+  },
+  "enriched": true
+}

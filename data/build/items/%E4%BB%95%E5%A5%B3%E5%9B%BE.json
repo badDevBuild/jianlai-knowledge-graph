@@ -1,0 +1,43 @@
+{
+  "name": "仕女图",
+  "original_name": "掩面泣诉图",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "活跃",
+  "description": "此画是书简湖地区罕见的文雅奇物，因其独特的发声异象而被老掌柜视为非卖品级别的“一眼货” 。它承载了某种哀婉的神韵，是陈平安在书简湖布局中的重要收藏 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第427章 人生不是书上的故事",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "收藏类 / 奇物",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "池水城猿哭街古董铺老掌柜",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "画作本身具有通灵异象，若能揭开背后的故事或禁制，可能蕴含神魂修行的秘密 。",
+  "supernatural_ability": "画中仕女侧身而坐，呈现掩面而泣之态 。若旁人在此画附近静心聆听，可听到如泣如诉的细微嗓音从画卷中传出 。",
+  "evolution": {
+    "current_form": "一幅笔触精妙、神韵生动的仕女画卷 。",
+    "materials_consumed": [
+      "不详"
+    ],
+    "potential_evolution": "不详"
+  },
+  "visual": {
+    "static": "绢本画作，构图古雅，仕女姿态忧郁且神采细腻 。",
+    "active": "在特定的环境下，画中人的声音会变得清晰，仿佛画中灵体正在诉说往事 。"
+  },
+  "provenance": {
+    "origin": "书简湖池水城猿哭街的一间古董小铺，是店内最好的两件东西之一 。",
+    "karma_link": "由陈平安在游历书简湖期间凭借独特眼光从老掌柜处购得 。"
+  },
+  "enriched": true
+}

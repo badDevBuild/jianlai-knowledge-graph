@@ -1,0 +1,50 @@
+{
+  "name": "七彩宝塔",
+  "original_name": "玲珑宝塔",
+  "type": "法宝",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这是正阳山年轻剑修谢灵的压箱底重宝。原本被陆沉戏称为“半仙兵”，实则是货真价实的仙兵，是飞升 城与浩然天下交流中极具代表性的道门信物 。",
+  "aliases": [
+    "七彩宝塔"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第235章 故乡黄花黄",
+      "owner": "长眉少年"
+    }
+  ],
+  "subtype": "镇压类/辅助类",
+  "holder": "谢灵",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    },
+    {
+      "name": "谢实",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道祖座下三掌教亲手赠予的重宝，具备镇压世间一切上五境之下妖魔阴灵的无上威能 。",
+  "supernatural_ability": "能够镇压所有上五境之下的邪魔外道与阴灵鬼物，协助持有者稳固道心与气运 。",
+  "evolution": {
+    "current_form": "半尺高、九层高的琉珑宝塔，每一层四面皆悬挂匾额 。",
+    "materials_consumed": [
+      "道门气运",
+      "琉璃仙材"
+    ],
+    "potential_evolution": "随持有者境界提升，可演化为三十六块匾额齐鸣的完全体仙兵状态 。"
+  },
+  "visual": {
+    "static": "高约半尺，通体呈现七彩琉璃色泽，工艺精美绝伦 。",
+    "active": "散发九层宝光，三十六块匾额若隐若现，流溢出镇压诸天的道门威严 。"
+  },
+  "provenance": {
+    "origin": "白玉京三掌教陆沉赠予谢灵的礼物，后经谢氏老祖谢实确认其真实品相 。",
+    "karma_link": "与骊珠洞天谢家的崛起及其在大赛中的运道深度绑定 。"
+  },
+  "enriched": true
+}

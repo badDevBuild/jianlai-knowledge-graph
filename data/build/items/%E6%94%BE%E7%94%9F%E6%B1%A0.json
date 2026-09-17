@@ -1,0 +1,46 @@
+{
+  "name": "放生池",
+  "original_name": "老僧古砚",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是崔东山文房四宝中的精品，其“放生”之名暗合佛理，既是顶级的文人清供，也是具备玄妙威力的法 宝 。",
+  "aliases": [
+    "放生池"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第133章 同行",
+      "owner": "崔瀺"
+    }
+  ],
+  "subtype": "文房类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "别洲无名老僧",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为佛门高僧遗留的古砚，其内部自成乾坤，极具神异 。",
+  "supernatural_ability": "名为砚台，实则大有玄机，能辅助修道之人静心凝神，具备“放生”之意蕴 。",
+  "evolution": {
+    "current_form": "一方名为“放生池”的古朴砚台 。",
+    "materials_consumed": [
+      "佛法浸润",
+      "岁月磨砺"
+    ],
+    "potential_evolution": "可能演化为某种佛门秘境入口 。"
+  },
+  "visual": {
+    "static": "质地沉稳，样式古雅，带有明显的岁月侵蚀痕迹 。",
+    "active": "在使用或感悟时，砚池内部灵气荡漾，若隐若现佛门光彩 。"
+  },
+  "provenance": {
+    "origin": "由别洲一位无名老僧遗留下来的古砚 。",
+    "karma_link": "崔东山将其作为拜师礼之一，展示了其与佛家道统的某种奇特联系 。"
+  },
+  "enriched": true
+}

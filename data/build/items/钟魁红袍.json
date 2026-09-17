@@ -1,0 +1,44 @@
+{
+  "name": "钟魁红袍",
+  "original_name": "大伏书院君子红袍",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**钟魁红袍不仅是法宝，更是他“原来是君子”的道心体现**。即便在生死边际徘徊，钟魁依然身披此袍 ，以浩然正气引渡三万战死英灵，是书中侠义精神的视觉标志 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第350章 白猿拖刀，君子一言",
+      "owner": "钟魁"
+    }
+  ],
+  "subtype": "防御/压胜类",
+  "holder": "钟魁",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大伏书院",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随钟魁身在鬼道心在儒家，红袍可演化为勾连阴阳两界的“生死簿”载体",
+  "supernatural_ability": "“君子正气”：天然辟易鬼邪，能抵御极重的阴煞戾气，保护魂魄不散",
+  "evolution": {
+    "current_form": "鲜红色的儒生宽袍",
+    "materials_consumed": [
+      "圣贤文气",
+      "书院香火"
+    ],
+    "potential_evolution": "钟魁跻身上五境后，红袍可化为镇压一洲阴冥的法器"
+  },
+  "visual": {
+    "static": "一袭鲜红色的宽大长袍，色泽如血，气象磊落",
+    "active": "当钟魁施展神通时，袍上会有金色文字流动，如同一篇篇教化苍生的圣贤文章"
+  },
+  "provenance": {
+    "origin": "桐叶洲大伏书院，君子身份的标志",
+    "karma_link": "钟魁哪怕沦为鬼物，依然不肯脱下此袍，象征其儒家弟子底色"
+  },
+  "enriched": true
+}

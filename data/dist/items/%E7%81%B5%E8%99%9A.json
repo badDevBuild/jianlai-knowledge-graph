@@ -1,0 +1,44 @@
+{
+  "name": "灵虚",
+  "original_name": "灵犀珠 / 灵官牌",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "具有**沟通前世、护道修行**作用的珍稀法器。在京城地支一脉中，亦常作为施展请神、观想等神通的 媒介 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第120章 远游",
+      "owner": "白鲸"
+    }
+  ],
+  "subtype": "神识类/召唤类",
+  "holder": "南簪 / 余瑜",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊皇室",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为辅助修行的重宝，具有唤醒前世记忆、接引神魂的巨大潜力 。",
+  "supernatural_ability": "**灵犀一点通**，辅助突破修行关隘，或敕令、召唤强大的阴魂神将 [8-10]。",
+  "evolution": {
+    "current_form": "雪白莹润的宝珠或刻有铭文的令牌 。",
+    "materials_consumed": [
+      "前世残余灵光",
+      "神识精华"
+    ],
+    "potential_evolution": "圆满状态的宿命导引器 。"
+  },
+  "visual": {
+    "static": "珠体通圆，色泽莹润雪白，或为木质、玉质令牌，刻有“**灵墟**”等字样 。",
+    "active": "激发时宝光熠熠，可显化出前世记忆或金甲神人的法相气象 。"
+  },
+  "provenance": {
+    "origin": "常为底蕴深厚的宗门或皇室秘藏，用于接引转世祖师 。",
+    "karma_link": "与修士的大道根脚与宿世因果深度绑定 。"
+  },
+  "enriched": true
+}

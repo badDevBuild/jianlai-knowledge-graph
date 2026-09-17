@@ -1,0 +1,44 @@
+{
+  "name": "封禅玉册",
+  "original_name": "中土古王朝禅地玉册",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件极具历史沉淀感的文运重宝。它不仅记录了古老的祭祀仪轨，更因其材质和文字的特殊性，成 为了缝衣人施展“穿衣”神通、帮助陈平安承载大妖真名的关键物品 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第826章 本命瓷",
+      "owner": "竹皇 -> 陈平安"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "捻芯",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土某古老王朝",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为承载王朝正统文运的礼器，是修行缝衣人顶级术法的核心载体 。",
+  "supernatural_ability": "配合缝衣人秘术，可剥取其上的古篆文字或符箓真意，将其“缝入”修士的肌肤与筋骨之中，用以承载神 灵真名 。",
+  "evolution": {
+    "current_form": "册分二十四简的玉质卷宗 。",
+    "materials_consumed": [
+      "金线",
+      "秘术磨光玉片"
+    ],
+    "potential_evolution": "辅助陈平安在“缝衣”过程中承载十四位大妖真名 。"
+  },
+  "visual": {
+    "static": "由二十四片裁齐磨光的玉简组成，相互间以金线串联 。",
+    "active": "被法刀剥离文字时，文字会呈现出金色的灵光，如积雪融化般嵌入受术者体内 。"
+  },
+  "provenance": {
+    "origin": "源自中土神洲一个古老王朝的禅地祭祀礼器 。",
+    "karma_link": "捻芯的修道机缘，最终用于为陈平安重塑人身山河 。"
+  },
+  "enriched": true
+}

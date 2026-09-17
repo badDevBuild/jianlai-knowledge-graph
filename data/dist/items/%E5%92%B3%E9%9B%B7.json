@@ -1,0 +1,68 @@
+{
+  "name": "咳雷",
+  "original_name": "恨剑山仿剑",
+  "type": "本命飞剑",
+  "grade": "灵器",
+  "status": "消耗品",
+  "description": "陈平安在中五境时期重要的攻伐手段。虽然并非天生本命飞剑，却因为陈平安舍得砸入重金与雷法气机 ，杀力直追真迹。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第615章 离真死了",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第617章 谁能与宁姚般配",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第621章 学剑",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第660章 雀在笼中",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第713章 陈十一",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第885章 道簪",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "恨剑山",
+      "relation": "原主"
+    },
+    {
+      "name": "刘景龙",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "虽是仿剑，但因陈平安的大力炼化，正逐渐孕育出属于自己的独特雷法真意。",
+  "supernatural_ability": "模拟远古剑仙的剑意，出剑时伴随轻微雷鸣，具有破开灵气屏障的特效。",
+  "evolution": {
+    "current_form": "袖珍飞剑，常与“松针”一同温养于同一气府。",
+    "materials_consumed": [
+      "金精铜钱",
+      "积霄山雷鞭精华"
+    ],
+    "potential_evolution": "有望晋升为具有“代天行罚”之威的半仙兵。"
+  },
+  "visual": {
+    "static": "剑身通体乌黑，表面有细微的雷纹游走，触之有麻木感。",
+    "active": "祭出后化作一道暗紫色电光，轨迹诡谲，速度极快且带有爆裂气息。"
+  },
+  "provenance": {
+    "origin": "由北俱芦洲恨剑山仿造古代名剑而成，由刘景龙代为购置。",
+    "karma_link": "是陈平安为了弥补非先天剑胚缺陷，强行开辟府邸大炼而成的杀手锏。"
+  },
+  "enriched": true
+}

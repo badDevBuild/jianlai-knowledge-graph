@@ -1,0 +1,51 @@
+{
+  "name": "菖蒲",
+  "original_name": "千年文运菖蒲",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "九嶷山的镇山之宝之一。它凝聚的文运水珠不仅是顶级 的炼丹材料，更能通过流经江河潜移默化地增长一方才 气 。",
+  "aliases": [
+    "九嶷山菖蒲",
+    "文运菖蒲"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第816章 大鱼如龙",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文运/滋养类",
+  "holder": "暖树",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "九嶷山神",
+      "relation": "赠予者"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随道龄增长，凝聚的文运水珠将更大，药效及增益更强 。",
+  "supernatural_ability": "能汲取天地精华，每隔一段时间在叶尖凝聚一粒蕴含纯 正文运的水珠，可补益神魂或炼丹 。",
+  "evolution": {
+    "current_form": "一盆苍翠欲滴的千年古木菖蒲 。",
+    "materials_consumed": [
+      "天地灵气",
+      "九嶷山文气"
+    ],
+    "potential_evolution": "若达三千年道龄，其文运之气可直接影响一洲之文脉 。"
+  },
+  "visual": {
+    "static": "盆景样式，叶片细长坚韧，散发着淡淡的清香 。",
+    "active": "叶尖会有晶莹剔透的水珠缓缓汇聚，散发微弱的金色光 芒 。"
+  },
+  "provenance": {
+    "origin": "产自中土神洲九嶷山 。",
+    "karma_link": "九嶷山神为祝贺文圣恢复神位而赠予陈平安，后转赠暖 树悉心照料 。"
+  },
+  "enriched": true
+}

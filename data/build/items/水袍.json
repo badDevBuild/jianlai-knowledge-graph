@@ -1,0 +1,44 @@
+{
+  "name": "水袍",
+  "original_name": "水路分阴阳法袍",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "一件专门为**阴物及鬼修**打造的稀世法袍。它的核心价值在于打破了阴阳隔阂，是金翠城名动蛮荒的 招牌之作 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第797章 果然",
+      "owner": "南光照"
+    }
+  ],
+  "subtype": "辅助类 / 防御类",
+  "holder": "清嘉 (金翠城城主)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "小陌 (白景之友)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "采用蛮荒金翠城最顶尖的“通经断纬”秘术织造，具有极强的道法承载力 。",
+  "supernatural_ability": "**“水路分阴阳”**。能将日光与月华转化为适合阴冥鬼物修行的清灵之气，使阴物可在白昼正常现世 。",
+  "evolution": {
+    "current_form": "金翠两色交相辉映的长袍 。",
+    "materials_consumed": [
+      "云麾缂丝",
+      "金翠城秘传织法"
+    ],
+    "potential_evolution": "可配合特定的水法秘籍，升级为具备“幻化人身”功能的重器 。"
+  },
+  "visual": {
+    "static": "袍身密布类似孔雀翎眼的纹路，折射出波光粼粼的质感 。",
+    "active": "在光源下会透射出阴阳不同的水纹轨迹：夜间如湍濑，白昼似曦光 。"
+  },
+  "provenance": {
+    "origin": "由远古大妖小陌亲自编织，是金翠城法袍一脉的祖师级作品 。",
+    "karma_link": "陈平安曾利用此法袍的秘术与北俱芦洲彩雀府进行商业合作 。"
+  },
+  "enriched": true
+}

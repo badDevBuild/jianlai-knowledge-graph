@@ -1,0 +1,52 @@
+{
+  "name": "齐静春字帖",
+  "original_name": "齐字贴 / 临摹字帖",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是齐静春为李槐量身打造的机缘。字帖不仅是书法艺术，更是** 浩然正气的载体** 。在远游途中，李槐将其夹在《断水大崖》中，意外实现了对灵 性生物的温养 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第67章 远行",
+      "owner": "学塾蒙童"
+    },
+    {
+      "chapter": "第454章 明月当空",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1080章 天上雨下",
+      "owner": "孙道长赠予小陌"
+    }
+  ],
+  "subtype": "传法类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "字帖蕴含圣人浩然气，可随持有人学问精进而增强文运加持 。",
+  "supernatural_ability": "能够**温养灵物**。字帖如鱼得水，曾吸引蠹鱼与青冥鱼入驻，具 有极强的聚气与护道神异 。",
+  "evolution": {
+    "current_form": "写有“齐”字的临摹字帖",
+    "materials_consumed": [
+      "圣人墨宝",
+      "浩然气"
+    ],
+    "potential_evolution": "大道显化之物"
+  },
+  "visual": {
+    "static": "由齐静春亲手书写的字帖，字迹间法度严谨，神意饱满 。",
+    "active": "字里行间有灵气流转，吸引世间精魅游走于文字之中 。"
+  },
+  "provenance": {
+    "origin": "齐静春在骊珠洞天学塾期间赠予学生李槐的临别礼物 。",
+    "karma_link": "象征文圣一脉的传承，亦是李槐重要的护身符 。"
+  },
+  "enriched": true
+}

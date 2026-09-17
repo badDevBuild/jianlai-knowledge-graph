@@ -1,0 +1,48 @@
+{
+  "name": "秋水南华剑",
+  "original_name": "飞剑“秋水”",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此剑寓意陆沉对剑道的个人理解。在陆芝手中，它通过“秋水”之利与“南华”之意，成为了专门针对高位 妖族气府的杀器。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第741章 我那陈道友",
+      "owner": "俞真意"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陆芝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    },
+    {
+      "name": "朱敛",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "白玉京南华城密藏重宝，蕴含极深的大道真意，杀力在仙兵中属于顶尖行列。",
+  "supernatural_ability": "“水淹气府”——剑光如秋水，被其击中者，人身小天地内灵气如洪水决堤，瞬间冲垮气府禁制。",
+  "evolution": {
+    "current_form": "袖珍长剑，常驻于陆沉赠予的白玉剑盒内。",
+    "materials_consumed": [
+      "白玉京道韵",
+      "星辰精华"
+    ],
+    "potential_evolution": "若能配合“南华”意境，可演化为斩断世间一切因果之剑。"
+  },
+  "visual": {
+    "static": "剑身细弱丝线，晶莹剔透，如同一抹流动的秋水。",
+    "active": "出剑时剑光雪亮如秋泓，照耀四方，可让修士影子现形，无处躲藏。"
+  },
+  "provenance": {
+    "origin": "由白玉京三掌教陆沉亲手铸造，属于“南华八剑”之一。",
+    "karma_link": "曾与朱敛（南华贵公子）在藕花福地的传奇事迹相关，后由陈平安向陆沉借得并送予陆芝[29-31]。"
+  },
+  "enriched": true
+}

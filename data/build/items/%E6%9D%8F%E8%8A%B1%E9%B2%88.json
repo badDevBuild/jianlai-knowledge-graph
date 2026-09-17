@@ -1,0 +1,38 @@
+{
+  "name": "杏花鲈",
+  "original_name": "埋河鲈鱼 / 灵气鱼",
+  "type": "灵物",
+  "grade": "灵物",
+  "status": "消耗",
+  "description": "作为埋河的特产，“爆炒鳝鱼面”与这道鲈鱼佳肴是碧游 府最有名的烟火气象 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第978章 今日无事",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "埋河水神娘娘 / 朱敛",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "受埋河封正后的水运滋养，可进化为能够增长修士气力 的水中灵宝 。",
+  "supernatural_ability": "肉质极其鲜美，食用后能补充练气士损耗的灵气，并对 武夫体魄有细微的洗练效果 。",
+  "evolution": {
+    "current_form": "鱼鳞闪烁、富含灵气的肥美鲈鱼 。",
+    "materials_consumed": [
+      "大渎水运",
+      "灵泉精华"
+    ],
+    "potential_evolution": "若能在龙宫遗址长期驯养，可产生具有治愈神效的珍珠 。"
+  },
+  "visual": {
+    "static": "鱼身呈青灰色，鳞片细腻且带有微弱的光泽 。",
+    "active": "入锅烹饪时散发出浓郁的香气，汤汁洁白如乳 。"
+  },
+  "provenance": {
+    "origin": "产自大泉王朝埋河水域 。",
+    "karma_link": "是水神娘娘款待陈平安、钟魁等人的招牌佳肴，代表了 深厚的友谊 。"
+  },
+  "enriched": true
+}

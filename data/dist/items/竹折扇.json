@@ -1,0 +1,57 @@
+{
+  "name": "竹折扇",
+  "original_name": "青神山神霄竹折扇",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一件极具灵性的文房雅具，由极其珍稀的神霄竹制成。在青神山封山后，此类物件在山上极度稀缺 ，不仅是身份的象征，更是克制邪祟的重宝 。",
+  "aliases": [
+    "陆台折扇"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第288章 对敌",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第293章 鹰不飞",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第297章 出拳",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第605章 世间人人心独坐",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "压胜类 / 文房类",
+  "holder": "刘羡阳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "颍阴陈氏",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由天地名竹之祖“神霄竹”制成，具备极高的材质底蕴，长期温养可升格为法宝 。",
+  "supernatural_ability": "“压胜鬼魅”。天然压胜成道于地底的精怪与鬼魅，是制作顶级“打鬼鞭”的核心材料 。",
+  "evolution": {
+    "current_form": "由青神山神霄竹打造而成的折扇 。",
+    "materials_consumed": [
+      "神霄竹"
+    ],
+    "potential_evolution": "可配合儒家文运演化为言出法随的文房重器 。"
+  },
+  "visual": {
+    "static": "扇骨色泽莹澈如玉，触手生凉，散发出淡淡的草木清香 。",
+    "active": "展开时道意缭绕，足以让寻常阴物不敢近身，扇面可承载圣贤文字以显化威能 。"
+  },
+  "provenance": {
+    "origin": "源自三十六小洞天之一的竹海洞天青神山 。",
+    "karma_link": "由颍阴陈氏作为见面礼赠予刘羡阳，体现了大族对天才剑胚的礼遇 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "金丹药酒",
+  "original_name": "老蛟金丹药酒",
+  "type": "丹药",
+  "grade": "灵酒",
+  "status": "消耗",
+  "description": "此药酒利用元婴老蛟的生命精华制作，是武夫修补“金身”的无上良药。陈平安在老龙城大战后，以此酒 成功保住了自身及郑大风的武道根本 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第373章 远游东南",
+      "owner": "陈平安分发给画卷四人"
+    }
+  ],
+  "subtype": "疗伤类 / 补益类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "范峻茂",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "专门针对纯粹武夫设计的修复圣药，能完美缝补受损的武道根基 。",
+  "supernatural_ability": "**“修缮金身”**。每日饮用两三口，对修补武夫体魄的裂缝和暗疾效果显著，优于世间大多数灵丹 。",
+  "evolution": {
+    "current_form": "浸泡在酒壶中、呈琥珀色的药酒 。",
+    "materials_consumed": [
+      "元婴境老蛟金丹",
+      "水运精华"
+    ],
+    "potential_evolution": "可配合武夫破境，助力跻身金身境 。"
+  },
+  "visual": {
+    "static": "藏于特定酒壶中，使得整壶酒液散发出淡淡的龙威与异香 。",
+    "active": "饮用后周身气血激荡，皮肤会呈现出某种微弱的金色流光 。"
+  },
+  "provenance": {
+    "origin": "由范峻茂将蛟龙沟元婴老蛟的金丹进行“小炼”后泡制而成 。",
+    "karma_link": "范家以此作为对灰尘药铺受损的补偿，救治了重伤后的陈平安和郑大风 。"
+  },
+  "enriched": true
+}

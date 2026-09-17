@@ -1,0 +1,44 @@
+{
+  "name": "河岳英灵集",
+  "original_name": "河岳英灵集",
+  "type": "典籍",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "《河岳英灵集》是金甲洲的**传承仙兵**。它不仅是一部记载地理与英雄的史书，更是一件能勾连山川 大地的法宝，是玄参在剑气长城得以数次险中求胜的底蕴所在 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1110章 纯粹剑修们",
+      "owner": "玄参(继承自祖师)"
+    }
+  ],
+  "subtype": "传承类 / 辅助类",
+  "holder": "玄参",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "元清耀",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为承载金甲洲山河气运的青紫色书册，具备演化出一洲英灵战阵的终极能力 。",
+  "supernatural_ability": "灵觉加持。书册能在大道层面记录并指引山河英灵，辅助持有者看破虚妄，并能极大增强飞剑“三坛”的 法阵威势 。",
+  "evolution": {
+    "current_form": "一部青紫色皮质的厚重书册，字里行间透着苍茫古意 。",
+    "materials_consumed": [
+      "一洲山河气数",
+      "先贤英灵之气"
+    ],
+    "potential_evolution": "完全参透后，可召唤书中所载的千古英灵临世助战 。"
+  },
+  "visual": {
+    "static": "封面青紫，翻阅时有微弱的河岳虚影浮现 。",
+    "active": "激发时书页飞快翻动，绽放万道紫光，能稳固方圆百里的山水气场 。"
+  },
+  "provenance": {
+    "origin": "金甲洲空灵派的镇派至宝 。",
+    "karma_link": "原主元清耀战死于扶摇洲，此书作为遗物传给玄参，承载了复兴金甲洲的重任 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "长春洞天",
+  "original_name": "密雪峰私人道场",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是陈平安最重要的道场。其内不仅风景绝佳，更隐藏 着他对五行大道与神道秩序的终极理解。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第964章 再见道士",
+      "owner": "青萍剑宗"
+    }
+  ],
+  "subtype": "洞天/秘境类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "rank": "仙兵",
+  "rank_potential": "其内部产出的水运与灵药可支撑一整座宗门的日常开销 。",
+  "supernatural_ability": "内含“赤松山”与“丹溪”，能够源源不断产出万年松脂、 灵芝等顶级修行材料。",
+  "evolution": {
+    "current_form": "位于青萍剑宗祖山高处的绛阙仙府。",
+    "materials_consumed": [
+      "一洲山水气运",
+      "远古神性残余"
+    ],
+    "potential_evolution": "可与下宗祖师堂合流，成为镇压一洲气运的中枢。"
+  },
+  "visual": {
+    "static": "府邸装饰简洁，唯有一蒲团一案几，云雾缭绕。",
+    "active": "开启时垂挂三条金色雨幕，文字飞旋，灵气浓郁若水。"
+  },
+  "provenance": {
+    "origin": "由陈平安亲自选址并营建于桐叶洲仙都山。",
+    "karma_link": "作为下宗的“定海神针”，承载了陈平安补全桐叶洲地缺 的宏愿。"
+  },
+  "enriched": true
+}

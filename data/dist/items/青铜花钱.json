@@ -1,0 +1,46 @@
+{
+  "name": "青铜花钱",
+  "original_name": "天师斩鬼背花钱",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是道门压胜类法宝的极品，每一枚都蕴含天威，四枚齐出足以在复杂战场中撕开阴霾，护佑持有者 。",
+  "aliases": [
+    "青铜花钱"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第216章 出手",
+      "owner": "中年道人"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "洪扬波 / 青蚨坊",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "来自皑皑洲的珍贵成套压胜钱，具备镇压一地风水和降服中五境妖鬼的杀力 。",
+  "supernatural_ability": "一套四枚，分别对应雷公、电母、雨师、火君，具有极强的捉妖降魔功效 。",
+  "evolution": {
+    "current_form": "四枚一套的缠金丝锦盒花钱 。",
+    "materials_consumed": [
+      "神仙钱",
+      "灵气"
+    ],
+    "potential_evolution": "可配合道门雷法演化为小型雷池阵法"
+  },
+  "visual": {
+    "static": "造型古朴，正面刻有神祇名讳，背面为捉妖降魔图，散发出如冬日大雪般的清冷正气 。",
+    "active": "激发时金光流溢，伴有雷电或水火异象，能让邪祟瞬间无所遁形 。"
+  },
+  "provenance": {
+    "origin": "流传自皑皑洲，曾作为青蚨坊二楼的“压堂货”被密藏百年 。",
+    "karma_link": "由陈平安一掷五颗谷雨钱买下，成为其后期应对高阶阴物的重要手段 。"
+  },
+  "enriched": true
+}

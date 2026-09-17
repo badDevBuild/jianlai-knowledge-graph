@@ -1,0 +1,38 @@
+{
+  "name": "青纱道袍",
+  "original_name": "青纱法袍 / 地仙本来面目",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这件道袍是陈平安**“道法化身”**的核心装束，体现了其在**术法与心境**上的极高造诣 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第986章 武夫见我竹楼",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "身份类 / 防御类",
+  "holder": "陈平安 (地仙资质分身)",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "随陈平安境界恢复与水法造诣加深，可逐渐展现出“天人合一”的无垢防御力 。",
+  "supernatural_ability": "能够遮蔽气机，帮助修士褪去泥土气息，换上一身纯正道气，且自带避暑、避尘之效 。",
+  "evolution": {
+    "current_form": "一件质地清灵、气态深邃的青色法袍 。",
+    "materials_consumed": [
+      "青色符纸精粹",
+      "五行之水精魄"
+    ],
+    "potential_evolution": "可配合金冠与白玉灵芝，演化为“仙风道骨”的极致法相 。"
+  },
+  "visual": {
+    "static": "道袍样式古朴，青纱材质半透明且带有流动感，给人以超脱世俗的清冷感 。",
+    "active": "行走间衣袂有风动水纹之感，周身紫气升腾，瑞象丛生 。"
+  },
+  "provenance": {
+    "origin": "陈平安以珍稀青色符纸为底子，专门为“地仙资质”分身打造 。",
+    "karma_link": "代表了陈平安若是命运未曾多舛、一路修行顺遂的“本来面貌” 。"
+  },
+  "enriched": true
+}

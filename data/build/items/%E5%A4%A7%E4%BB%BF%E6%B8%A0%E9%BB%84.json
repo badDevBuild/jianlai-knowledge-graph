@@ -1,0 +1,50 @@
+{
+  "name": "大仿渠黄",
+  "original_name": "渠黄仿剑",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是池水城集市中最珍贵的“开门货”之一。虽是仿剑，却因仿造技艺精绝而名动山上，是无数剑修梦寐 以求的顶级重器。",
+  "aliases": [
+    "渠黄剑(仿)"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第427章 人生不是书上的故事",
+      "owner": "老掌柜"
+    },
+    {
+      "chapter": "第447章 这么巧，我也是剑客",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类 / 剑类",
+  "holder": "书简湖池水城古董铺子老掌柜",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土大铸剑师",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为“八骏”名剑的最佳仿品，其蕴含的剑道气韵几乎直追真迹，具备晋升半仙兵的品相。",
+  "supernatural_ability": "相传具备“八骏”中渠黄的马足神力，出剑势如奔雷，可破开大地龙脉。",
+  "evolution": {
+    "current_form": "一柄横放于特制剑架上的青铜古剑，剑身铭刻小篆。",
+    "materials_consumed": [
+      "上古青铜精华",
+      "大剑仙剑意"
+    ],
+    "potential_evolution": "若能寻得其余七把仿剑结阵，可显化出“八骏巡狩天下”的宏大异象。"
+  },
+  "visual": {
+    "static": "剑身刻有“大仿渠黄”四字，剑鞘一高一低放置，散发出古朴沉稳的气息。",
+    "active": "出鞘时会有龙马嘶鸣之声，剑光厚重，能引发地面震动。"
+  },
+  "provenance": {
+    "origin": "出自中土神洲一位脾气古怪的大铸剑师之手。",
+    "karma_link": "在池水城猿哭街铺子中摆放了两百年，曾引得陈平安在柜前久久驻足。"
+  },
+  "enriched": true
+}

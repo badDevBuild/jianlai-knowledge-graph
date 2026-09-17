@@ -1,0 +1,47 @@
+{
+  "name": "雪花法袍",
+  "original_name": "肤腻城重宝",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "肤腻城的镇城重宝之一，虽然由于脂粉气息过重而不被陈平安青睐，但对石柔这类需要法袍支撑仙人遗 蜕的阴物来说极为珍贵 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第491章 出拳与剑",
+      "owner": "陈平安 (原属白娘娘)"
+    },
+    {
+      "chapter": "第561章 两破境",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "石柔",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "肤腻城白娘娘",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "其价值在三洲战场上公认为两三颗谷雨钱，具备极强的防御与驻颜功效 。",
+  "supernatural_ability": "具备极强的防御力，能掩盖阴物的煞气，使其呈现出生人般的红润气色 。",
+  "evolution": {
+    "current_form": "带有浓郁脂粉气息的雪白华丽法袍 。",
+    "materials_consumed": [
+      "神仙钱"
+    ],
+    "potential_evolution": "随着持有者魂魄的稳固，可与身躯更加契合 。"
+  },
+  "visual": {
+    "static": "洁白无瑕，款式极尽奢华，散发出阵阵香气 。",
+    "active": "当禁制开启，会有如雪花般的灵气碎片萦绕周身 。"
+  },
+  "provenance": {
+    "origin": "源自北俱芦洲鬼蜮谷肤腻城的白娘娘 。",
+    "karma_link": "陈平安在乌鸦岭击败白娘娘后获得，后作为落魄山家底赠予石柔 [17-19]。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "小木舟",
+  "original_name": "核雕小舟",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一款功能极其强大的方寸类法宝。它不仅是吴懿在紫阳府外出的代步工具，更是能够随身携带的一 座移动洞府 , 。",
+  "aliases": [
+    "小木舟"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第145章 草灰蛇线",
+      "owner": "老蛟"
+    }
+  ],
+  "subtype": "方寸物",
+  "holder": "吴懿",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "程龙舟 (老蛟)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为可大可小的私人渡船，其材质与炼制手法极佳，具备极高的隐蔽性 。",
+  "supernatural_ability": "具备芥子纳须弥之妙，平时可缩为一枚核雕，活性化时可变幻为雕栏画栋的三层彩船，横渡江河 。",
+  "evolution": {
+    "current_form": "核雕样式的袖珍小舟",
+    "materials_consumed": [
+      "老蛟精血",
+      "沉香木"
+    ],
+    "potential_evolution": "跨洲级楼船"
+  },
+  "visual": {
+    "static": "形态微小，雕工极其精细，可随手把玩或悬挂于腰间 。",
+    "active": "投入水中后迅速变大，展现出富丽堂皇的彩色楼船全貌，内藏侍女与各种生活设施 。"
+  },
+  "provenance": {
+    "origin": "由古蜀老蛟程龙舟送给长女吴懿的礼物 。",
+    "karma_link": "作为吴懿跻身洞府境的贺礼，象征着紫阳府的奢华底蕴 , 。"
+  },
+  "enriched": true
+}

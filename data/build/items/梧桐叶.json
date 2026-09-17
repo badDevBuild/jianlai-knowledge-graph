@@ -1,0 +1,60 @@
+{
+  "name": "梧桐叶",
+  "original_name": "桐叶宗补偿咫尺物",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是桐叶宗补偿给陈平安的珍稀咫尺物。叶片内藏有杜懋飞升失败后遗留的五彩琉璃金身碎块，以及仿 制太平山、扶乩宗的两套核心大阵，是陈平安建设下宗的重要家当 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第372章 剑仙在后",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第377章 吃臭豆腐呦",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第461章 不当那善财童子",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第774章 文圣一脉的学生们",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1122章 二十人与候补们（四）",
+      "owner": "青同 -> 陈平安"
+    }
+  ],
+  "subtype": "空间类 / 存储类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "桐叶宗",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "内部包含飞升境修士陨落后的琉璃碎块及多套护山大阵，具备演化为微型洞天的底蕴 。",
+  "supernatural_ability": "具备极高的隐蔽性，能作为“小洞天”开启府门，内存有大量谷雨钱及护山阵法 。",
+  "evolution": {
+    "current_form": "一张巴掌大小的泛黄梧桐叶 。",
+    "materials_consumed": [
+      "飞升境修士琉璃碎块",
+      "谷雨钱"
+    ],
+    "potential_evolution": "若配合阵法中枢，可成为落魄山下宗的护山基石 。"
+  },
+  "visual": {
+    "static": "一片看似枯黄、平凡无奇的梧桐叶子 。",
+    "active": "开启时会产生时空波动，泄露出的灵气浓度甚至会引发上五境修士的觊觎 。"
+  },
+  "provenance": {
+    "origin": "由桐叶宗作为杜懋毁掉梧桐洞天的赔偿给出 。",
+    "karma_link": "由一位身份神秘的“老先生”代为转交给陈平安 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "凤沼",
+  "original_name": "凤沼法袍",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“凤沼”法袍是虞氏王朝国师吕碧笼的标志性装备。它不仅提供了强大的防御，更是其作为皇室法统代表 的视觉符号 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第981章 后生可畏",
+      "owner": "吕碧笼"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "吕碧笼",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "虞氏王朝内库",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为虞氏王朝国师的随身重宝，具备成长为半仙兵乃至仙兵法衣的资质 , 。",
+  "supernatural_ability": "具备极强的水属性防御与聚拢灵气的能力，能够压制针对持有者的各类阴属性术法攻击 。",
+  "evolution": {
+    "current_form": "一件绣有凤凰图案与沼泽水纹的华美法袍 。",
+    "materials_consumed": [
+      "虞氏王朝气运",
+      "上古天衣残片"
+    ],
+    "potential_evolution": "若能获得真正的凤凰精魄点睛，可演化出“凤鸣九霄”的护体神光 。"
+  },
+  "visual": {
+    "static": "法袍材质细腻，呈现出如水波般流动的光泽，图案呈现出“凤落宝地”的瑞象 。",
+    "active": "激发时水汽升腾，伴有隐约的凤鸣声，袍身金线刺绣的祥云图案会缓缓流转 。"
+  },
+  "provenance": {
+    "origin": "源自桐叶洲北端虞氏王朝的宫廷秘藏 。",
+    "karma_link": "吕碧笼在担任护国真人期间获得此袍，象征着其在一国山水神祇中的尊崇地位 。"
+  },
+  "enriched": true
+}

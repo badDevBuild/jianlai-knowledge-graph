@@ -1,0 +1,58 @@
+{
+  "name": "忘忧酒",
+  "original_name": "黄粱酒",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "倒悬山最著名的仙酿，有“不醉反是梦中人”之说。它不仅是美酒，更代表了一种避世与入梦的大道意境 。",
+  "aliases": [
+    "黄粱酒"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第272章 陈平安，你听我说",
+      "owner": "老掌柜"
+    },
+    {
+      "chapter": "第275章 有些重逢就是最好的",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第276章 最强之间",
+      "owner": "黄粱酒铺"
+    },
+    {
+      "chapter": "第629章 处处杀机",
+      "owner": "老掌柜"
+    }
+  ],
+  "subtype": "滋养类 / 迷幻类",
+  "holder": "黄粱酒铺 (掌柜) / 邵云岩 (持有)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "黄粱福地",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为黄粱福地秘境的产物，其灵气与大道真意难以复制 。",
+  "supernatural_ability": "**“一枕黄粱”**。饮之可入梦，梦中世界极大极全，可消万古愁。即便对于高阶修士，也有洗涤道心、 缓解精神压力的奇效 。",
+  "evolution": {
+    "current_form": "窖藏于黄粱酒铺中的顶级仙酿 。",
+    "materials_consumed": [
+      "黄粱秘境灵气",
+      "月魄精华"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "酒液澄澈，往往以最寻常的坛装，但揭开泥封后香气足以笼罩半条街 。",
+    "active": "饮用时如见星河在杯中游，让人瞬间陷入悠远的心境 。"
+  },
+  "provenance": {
+    "origin": "产自倒悬山黄粱酒铺，该铺子本身就是黄粱福地仅存的一块秘境 。",
+    "karma_link": "多少豪杰剑仙在倒悬山停步，只为求一碗忘忧，连皑皑洲刘氏少爷都因其价格望而却步 。"
+  },
+  "enriched": true
+}

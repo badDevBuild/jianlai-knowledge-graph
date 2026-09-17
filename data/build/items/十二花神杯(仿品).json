@@ -1,0 +1,47 @@
+{
+  "name": "十二花神杯(仿品)",
+  "original_name": "仿花神杯",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "山上公认的酒具珍品。虽是仿品，却因其工艺精良且蕴含淡雅文气，深受修道之人喜爱 。",
+  "aliases": [
+    "花神瓷杯",
+    "花神杯"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第718章 吓浩然天下一大跳",
+      "owner": "魏檗"
+    }
+  ],
+  "subtype": "滋养/艺术类",
+  "holder": "落魄山/大泉朝廷",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "百花福地",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "长期盛放仙酿，可生出花灵精魄，具象化镜花水月景象 。",
+  "supernatural_ability": "净化酒水杂质，根据杯上花卉提升饮用者的神魂意向 。",
+  "evolution": {
+    "current_form": "绘有十二月花卉及对应诗文的精美瓷杯 。",
+    "materials_consumed": [
+      "灵矿瓷土",
+      "文运墨汁"
+    ],
+    "potential_evolution": "若成套并得花神点睛，可晋升为法宝 。"
+  },
+  "visual": {
+    "static": "白瓷如玉，彩绘人物与花卉栩栩如生，笔触极细 。",
+    "active": "倒入美酒后，杯底文字会随水温变幻，显现花开月落幻象 。"
+  },
+  "provenance": {
+    "origin": "产自百花福地，后由各大窑口仿制，风靡山上社交 。",
+    "karma_link": "曾是陈平安用来还清酒债、结交名士的重要雅器 。"
+  },
+  "enriched": true
+}

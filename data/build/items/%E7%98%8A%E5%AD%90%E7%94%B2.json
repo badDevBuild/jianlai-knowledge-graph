@@ -1,0 +1,94 @@
+{
+  "name": "瘊子甲",
+  "original_name": "神人承露甲",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "泛指兵家以远古神灵金身碎片炼制的**甲丸** 。在小镇历史中，刘羡阳家传的这件“瘊子甲”位列前二十件最强 法宝之列，能够让凡人拥有抗衡修士的体魄防御 。",
+  "aliases": [
+    "宝甲",
+    "传家宝",
+    "祖传铠甲",
+    "青黑瘊子甲",
+    "大霜"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第44章 水落石出",
+      "owner": "许氏妇人(夺取自刘羡阳)"
+    },
+    {
+      "chapter": "第49章 碎瓷",
+      "owner": "刘羡阳"
+    },
+    {
+      "chapter": "第61章 过河卒",
+      "owner": "刘姓少年"
+    },
+    {
+      "chapter": "第457章 小巷祖宅一盏灯",
+      "owner": "清风城许氏家主"
+    },
+    {
+      "chapter": "第622章 对峙",
+      "owner": "清风城许氏(原属刘羡阳)"
+    },
+    {
+      "chapter": "第651章 不知不觉十五年",
+      "owner": "许浑"
+    },
+    {
+      "chapter": "第710章 只驱龙蛇不驱蚊",
+      "owner": "许浑 (原属刘羡阳家)"
+    },
+    {
+      "chapter": "第735章 列阵在前",
+      "owner": "许浑"
+    },
+    {
+      "chapter": "第736章 问我春风",
+      "owner": "许浑"
+    },
+    {
+      "chapter": "第766章 翻不动的老黄历",
+      "owner": "清风城(现持有)"
+    },
+    {
+      "chapter": "第818章 少年过河",
+      "owner": "许浑"
+    },
+    {
+      "chapter": "第822章 挑山",
+      "owner": "许浑 (原) -> 刘羡阳 (现)"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "元宝、元来",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘羡阳",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "可通过吸收神性与金精钱不断进化 。",
+  "supernatural_ability": "显化为**光明铠**，无视低阶法术，削弱高阶飞剑杀力 。",
+  "evolution": {
+    "current_form": "甲丸",
+    "materials_consumed": [
+      "灵气",
+      "武运"
+    ],
+    "potential_evolution": "兵家重器"
+  },
+  "visual": {
+    "static": "鸽子蛋大小的银色或黑青色圆球 。",
+    "active": "幻化为贴合身形的甲胄，流光溢彩，防御力惊人 。"
+  },
+  "provenance": {
+    "origin": "墨家机关师与道家符箓派联手锻造 。",
+    "karma_link": "象征兵家重整山河的武力根基 。"
+  },
+  "enriched": true
+}

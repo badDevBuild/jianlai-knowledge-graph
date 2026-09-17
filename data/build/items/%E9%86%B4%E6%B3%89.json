@@ -1,0 +1,39 @@
+{
+  "name": "醴泉",
+  "original_name": "醴泉渡船",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一艘往返于各洲之间的跨洲渡船。管事甘怡擅长经营且为人圆滑，曾因隐官陈平安的短暂下榻而获 得了极大的声望与谈资 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第884章 天下一词",
+      "owner": "长春宫"
+    }
+  ],
+  "subtype": "运输类 / 跨洲渡船",
+  "holder": "甘怡 (管事)",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为跨洲贸易的重要工具，不仅承载物资，更连接了各洲间的政治与经济脉络 。",
+  "supernatural_ability": "具备稳定的跨洲远航能力，船身布有复杂的防御与遮蔽阵法，使其在海面上航行时极具隐蔽性 。",
+  "evolution": {
+    "current_form": "跨洲楼船 。",
+    "materials_consumed": [
+      "神仙钱",
+      "大木材质",
+      "阵法核心"
+    ],
+    "potential_evolution": "可随着航线的开拓，不断吸收各地山水气运加固船体 。"
+  },
+  "visual": {
+    "static": "体型宏大，外观设计极具商业气派，是海上航行中的显著地标 。",
+    "active": "在大海上疾驰时旗帜飘扬，阵法全开时灵气涟漪微漾 。"
+  },
+  "provenance": {
+    "origin": "浩然天下九洲之一的商贸渡船 。",
+    "karma_link": "陈平安曾化名曹沫乘坐此船，并与管事甘怡结下善缘，其身份甚至让渡船引以为傲 。"
+  },
+  "enriched": true
+}

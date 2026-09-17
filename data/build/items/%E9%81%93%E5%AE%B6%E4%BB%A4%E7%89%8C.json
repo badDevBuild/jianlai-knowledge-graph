@@ -1,0 +1,48 @@
+{
+  "name": "道家令牌",
+  "original_name": "鸿胪寺官牌",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这枚令牌是大骊朝廷专门配发给新任国师陈平安的官方信物。它代表了落魄山与大骊庙堂的深度结盟， 也是陈平安在京城办事的重要身份凭证。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第671章 天寒加衣",
+      "owner": "老道人 (陈平安赠予)"
+    }
+  ],
+  "subtype": "权柄类 / 通讯类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "荀趣",
+      "relation": "赠予者"
+    },
+    {
+      "name": "鸿胪寺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为大骊朝廷的官方信物，其背后的权柄随持有者政治地位的提升而增强。",
+  "supernatural_ability": "可用于身份验证与官方通行；配合对应的‘天’字或‘地’字剑匣，可进行远距离的飞剑传信。",
+  "evolution": {
+    "current_form": "木质官牌，刻有‘鸿胪寺’、‘序班’等字样。",
+    "materials_consumed": [
+      "大骊国运",
+      "官场文气"
+    ],
+    "potential_evolution": "随陈平安正式出任国师，可演化为具有更高调兵遣将权力的符印。"
+  },
+  "visual": {
+    "static": "质地坚韧的木牌，字迹由天水赵氏家主手书，法度严谨。",
+    "active": "激发时可开启官方驿路通道，引导传信飞剑精准投递。"
+  },
+  "provenance": {
+    "origin": "大骊京城鸿胪寺衙署制作。",
+    "karma_link": "由鸿胪寺官员荀趣递交，用于陈平安与大骊朝廷的日常联络。"
+  },
+  "enriched": true
+}

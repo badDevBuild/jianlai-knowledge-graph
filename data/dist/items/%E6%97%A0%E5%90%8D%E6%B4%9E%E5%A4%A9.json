@@ -1,0 +1,51 @@
+{
+  "name": "无名洞天",
+  "original_name": "袖珍剑盒内小天地",
+  "type": "方寸物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一个内置于剑盒的神秘洞天，其中的八把飞剑（如 秋水、南冥等）各自代表陆沉对一条剑道的理解 , 。",
+  "aliases": [
+    "长春洞天",
+    "洞天"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第888章 离京返乡",
+      "owner": "崔东山 (暂管)"
+    }
+  ],
+  "subtype": "道场/禁制类",
+  "holder": "陆芝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "内含八把仙兵品秩的长剑，可作为独立于天下的终极防 御阵法 。",
+  "supernatural_ability": "利用“芥子纳须弥”神通，在微小的剑盒内开辟出广袤无 垠、剑气纵横的小天地 。",
+  "evolution": {
+    "current_form": "一只袖珍木质剑盒 。",
+    "materials_consumed": [
+      "白玉京重宝材质",
+      "大道真意"
+    ],
+    "potential_evolution": "若能完全解析八剑意，可演化为真正的洞天道场 。"
+  },
+  "visual": {
+    "static": "普普通通的小木盒，内部有八把细弱丝线的“小龙”游动 。",
+    "active": "开启后剑光凝为一线，美如画卷，能够瞬间笼罩方圆百 里的战场 。"
+  },
+  "provenance": {
+    "origin": "白玉京南华城，由三掌教陆沉亲手炼制 。",
+    "karma_link": "陆沉借给陈平安，后陈平安转赠陆芝，用以弥补其防御 短板 。"
+  },
+  "enriched": true
+}

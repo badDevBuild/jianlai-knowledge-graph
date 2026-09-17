@@ -1,0 +1,38 @@
+{
+  "name": "镜花水月灵器",
+  "original_name": "水碗 / 砚台 / 画卷",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "一种在山上极其流行的“直播”设备。落魄山的陈灵均和郑大风都是此道老手 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第993章 山中多美好",
+      "owner": "陈灵均"
+    }
+  ],
+  "subtype": "显示/沟通类",
+  "holder": "山上豪客 / 仙家酒肆",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "受所承载神通限制，品相越高者观赛画面越清晰 。",
+  "supernatural_ability": "通过向灵器内丢入神仙钱，可以跨洲观看大修士斗法或仙子神姿 [36-38]。",
+  "evolution": {
+    "current_form": "形制多样，包括白瓷碗、古砚台、长卷等 。",
+    "materials_consumed": [
+      "雪花钱",
+      "山水灵气"
+    ],
+    "potential_evolution": "若由大修士主持，可实现实时的跨洲音画交流 。"
+  },
+  "visual": {
+    "static": "表面波光粼粼，常有雾气蒸腾，印有山水图案 。",
+    "active": "画面在水面或画卷上徐徐展开，纤毫毕现，光彩夺目 。"
+  },
+  "provenance": {
+    "origin": "由擅长水法与幻术的宗门（如云窟福地）开发 。",
+    "karma_link": "是山上神仙打发光阴、获取情报的主要娱乐社交方式 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "虎符金饰",
+  "original_name": "真武山虎符",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是兵家修士的顶级信物。在《剑来》中，曾有护道人通过此物请下金甲神人，以雷霆万钧之势镇压妖 邪，体现了兵家“不讲道理”的绝对武力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第139章 千奇（上）",
+      "owner": "刘嘉卉"
+    }
+  ],
+  "subtype": "敕令类 / 召唤类",
+  "holder": "兵家修士 / 护道人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "真武山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为兵家祖庭的重宝，具有指挥高阶傀儡神将的权柄。",
+  "supernatural_ability": "“敕令神将”。握住虎符并默念口诀，可召请真武山金甲神人降临，力道威猛如雷 。",
+  "evolution": {
+    "current_form": "一枚小巧的、刻有虎形纹路的金色信物 。",
+    "materials_consumed": [
+      "中土神金",
+      "兵家战气"
+    ],
+    "potential_evolution": "无。"
+  },
+  "visual": {
+    "static": "色泽金黄，形制古朴，镂刻有细腻的猛虎纹样，散发着沉重的兵戈肃杀之气 。",
+    "active": "激发时会产生剧烈的气机震荡，引动天地感应，从虚空中降下神将 。"
+  },
+  "provenance": {
+    "origin": "出自北俱芦洲兵家祖庭真武山 。",
+    "karma_link": "是兵家修士身份与权力的象征，代表了宗门的护佑与敕令 。"
+  },
+  "enriched": true
+}

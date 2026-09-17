@@ -1,0 +1,38 @@
+{
+  "name": "碧霄三酒",
+  "original_name": "百年、千秋、万岁",
+  "type": "灵物",
+  "grade": "灵酒",
+  "status": "消耗",
+  "description": "这是世间最顶级的仙酿。老观主待客极其讲究，唯有真 正懂酒、有道缘之人才能品尝这三味人生 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1059章 凝眸处最痴绝",
+      "owner": "碧霄洞主"
+    }
+  ],
+  "subtype": "滋养/破境类",
+  "holder": "老观主 (碧霄洞主)",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "三酒合一可炼化出真正的不朽道果 。",
+  "supernatural_ability": "不同年份的酒液对应不同的修行进境，最高阶的万岁酒 可洗涤魂魄，助人跻身上五境 。",
+  "evolution": {
+    "current_form": "盛放在粗瓷白碗中的清冽酒水 。",
+    "materials_consumed": [
+      "远古神性水滴",
+      "碧霄洞灵药"
+    ],
+    "potential_evolution": "若得小陌这般剑修豪饮，可转化为冲天剑意 。"
+  },
+  "visual": {
+    "static": "酒液明亮如月，不带丝毫杂质 。",
+    "active": "饮酒时异香扑鼻，天地间会产生苦尽甘来、渐入佳境的 玄妙感应 。"
+  },
+  "provenance": {
+    "origin": "由落宝滩老观主在碧霄洞亲自酿造 。",
+    "karma_link": "见证了老观主与小陌跨越万年的道友之谊 。"
+  },
+  "enriched": true
+}

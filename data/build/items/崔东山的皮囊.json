@@ -1,0 +1,48 @@
+{
+  "name": "崔东山的皮囊",
+  "original_name": "上古仙人遗蜕 / 古蜀蛟龙身躯",
+  "type": "其他",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这具皮囊是崔东山在浩然天下行走的根本。它不仅是一件顶级法宝，更承载了崔瀺对“事功学问”的极致 追求，是连接古今与神性的重要载体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第381章 一国武运",
+      "owner": "崔东山"
+    }
+  ],
+  "subtype": "皮囊类 / 承载类",
+  "holder": "崔东山",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "崔瀺 (大骊国师)",
+      "relation": "原主"
+    },
+    {
+      "name": "古蜀仙人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "本身即为相当于仙人境修士体魄的遗蜕，坚韧程度足以媲美九境纯粹武夫，具有极高的大道承载力 。",
+  "supernatural_ability": "“造化夺舍”。皮囊内部结构已被经营得类似一座小洞天福地，能够帮助寄宿魂魄毫无阻碍地跻身上五境 。",
+  "evolution": {
+    "current_form": "一位眉心有一粒红痣、丰神如玉的白衣少年郎 , 。",
+    "materials_consumed": [
+      "古蜀蛟龙血脉",
+      "仙人精气神"
+    ],
+    "potential_evolution": "若能彻底打破皮囊枷锁，可助持有者魂魄重归圆满并冲击飞升境 。"
+  },
+  "visual": {
+    "static": "相貌极美，气态清灵，双袖如雪，常作左摇右晃、目中无人的姿态 , 。",
+    "active": "施展神通时，双袖鼓荡如装满清风，能幻化出各种惊天动地的神仙手段 , 。"
+  },
+  "provenance": {
+    "origin": "源自上古时代古蜀之地的一具仙人遗蜕 。",
+    "karma_link": "由大骊国师崔瀺将其一分为二后，交付给拥有部分神魂的崔东山 。"
+  },
+  "enriched": true
+}

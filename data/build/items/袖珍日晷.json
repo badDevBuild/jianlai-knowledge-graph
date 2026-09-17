@@ -1,0 +1,48 @@
+{
+  "name": "袖珍日晷",
+  "original_name": "山阳大方日晷 / 钦天监旧物",
+  "type": "灵器",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是一件极具历史沉淀的辅佐类灵器。它不仅代表了古代钦天监的最高测绘手艺，更是陈平安在远游途 中积累地缘知识的重要工具 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1029章 从容写去",
+      "owner": "宁吉"
+    }
+  ],
+  "subtype": "辅助类 / 勘验类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云上城集市铺子",
+      "relation": "购买自"
+    },
+    {
+      "name": "某国钦天监",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为官家御制灵器，其材质与铭文蕴含地脉规律，随陈平安的望气术提升而显现更深奥妙 。",
+  "supernatural_ability": "“地脉测绘”。配合背面铭文，可用于精准测量地气流转与山川经纬，属于典型的“地师”法宝 。",
+  "evolution": {
+    "current_form": "白玉材质的石质日晷，款式古朴 。",
+    "materials_consumed": [
+      "上等白玉",
+      "皇家气运"
+    ],
+    "potential_evolution": "若能补全其对应的星图，可演化为能干预局部时空流速的重器 。"
+  },
+  "visual": {
+    "static": "质地温润，表面刻有精密的干支刻度，背面刻有“山阳大方，内库恭制” 。",
+    "active": "使用时晷针影迹流转，隐约有星辰之光在表面闪烁，引导持有人感应地脉 。"
+  },
+  "provenance": {
+    "origin": "源自北俱芦洲某覆灭王朝的钦天监，由内库恭制 。",
+    "karma_link": "陈平安在云上城低价捡漏所得，裴钱曾专门为其查阅“山阳大方”的背景 。"
+  },
+  "enriched": true
+}

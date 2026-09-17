@@ -1,0 +1,87 @@
+{
+  "name": "银色莲花冠",
+  "original_name": "藕花福地仙缘重宝",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这顶道冠在藕花福地名气极大。它不仅是高品级的法宝，更代表了福地最顶尖的武道与仙道传承，历代 主人皆是福地的霸主 。",
+  "aliases": [
+    "钩沉",
+    "钩沉 (银色莲花冠)"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第311章 人外有人",
+      "owner": "丁婴"
+    },
+    {
+      "chapter": "第312章 变故",
+      "owner": "丁婴"
+    },
+    {
+      "chapter": "第314章 误入藕花深处",
+      "owner": "丁婴"
+    },
+    {
+      "chapter": "第316章 大战才起",
+      "owner": "丁婴"
+    },
+    {
+      "chapter": "第318章 出剑而已",
+      "owner": "丁婴"
+    },
+    {
+      "chapter": "第321章 各为巅峰，却少一山",
+      "owner": "俞真意"
+    },
+    {
+      "chapter": "第322章 白衣入城，不敢敲门",
+      "owner": "俞真意"
+    },
+    {
+      "chapter": "第324章 原来如此",
+      "owner": "俞真意"
+    },
+    {
+      "chapter": "第741章 我那陈道友",
+      "owner": "俞真意"
+    },
+    {
+      "chapter": "第938章 吾为东道主（八）",
+      "owner": "丁婴 (曾)"
+    }
+  ],
+  "subtype": "身份象征 / 仙缘类",
+  "holder": "俞真意",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "朱敛",
+      "relation": "原主"
+    },
+    {
+      "name": "丁婴",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为福地最大的仙缘，承载了福地“天下第一人”的气运加持 。",
+  "supernatural_ability": "能够显著增强持有者的道气，帮助稳定心境并加速灵气吸收，被视为福地正统的象征 。",
+  "evolution": {
+    "current_form": "银色的莲花形状道冠 。",
+    "materials_consumed": [
+      "福地气运",
+      "武运"
+    ],
+    "potential_evolution": "随持有者飞升可演化为更高阶的仙家冠冕。"
+  },
+  "visual": {
+    "static": "通体银色，造型如盛开的莲花，带有难以言喻的谪仙气息 。",
+    "active": "戴上后能使持有者容颜清灵，宝光焕然，气势骤然拔高 。"
+  },
+  "provenance": {
+    "origin": "最早由藕花福地“贵公子”朱敛持有 。",
+    "karma_link": "朱敛力战身死后被丁婴捡漏，丁婴死后辗转至俞真意手中，是福地权力的重要转移线索 。"
+  },
+  "enriched": true
+}

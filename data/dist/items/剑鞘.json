@@ -1,0 +1,55 @@
+{
+  "name": "剑鞘",
+  "original_name": "雪白剑鞘 / 龙君灰袍",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这件剑鞘原本是王座剑仙龙君的皮囊显化，被陈清都物尽其用，制 成了这件可淬炼神魂的重宝 。它见证了剑气长城两代领袖之间的交替与认可 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第62章 树倒",
+      "owner": "宁姚"
+    },
+    {
+      "chapter": "第288章 对敌",
+      "owner": "符箓派道人"
+    },
+    {
+      "chapter": "第780章 可规可矩谓之国士",
+      "owner": "姜尚真"
+    }
+  ],
+  "subtype": "磨砺/辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈清都",
+      "relation": "赠予者"
+    },
+    {
+      "name": "龙君",
+      "relation": "原主 (袍子主人)"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "与顶级剑尖配合后，是足以温养剑道神意的至宝 。",
+  "supernatural_ability": "能够日夜淬炼持有者的神魂与体魄，使人身如同战场般得到砥砺 。",
+  "evolution": {
+    "current_form": "雪白色的剑鞘 。",
+    "materials_consumed": [
+      "龙君陨落后的灰袍残余"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "外观呈现纯净的雪白色，质地似布非布，似玉非玉 。",
+    "active": "承载长剑时，会溢出浓郁到化不开的雪白剑气，背负者感到重逾千 钧 。"
+  },
+  "provenance": {
+    "origin": "老大剑仙陈清都斩杀龙君后，以其留下的灰袍残余炼化而成 。",
+    "karma_link": "它是陈清都赠予陈平安的重要遗物，用来承载那截太白剑尖 。"
+  },
+  "enriched": true
+}

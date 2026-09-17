@@ -1,0 +1,38 @@
+{
+  "name": "光阴长卷走马图(摹本)",
+  "original_name": "心湖记忆画卷 / 走马灯图",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "消耗",
+  "description": "这是陈平安管理自身庞大记忆的独特工具，也是他推演“一剑破万法”与营造小千世界的大道基础 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第498章 天地无拘束",
+      "owner": "老道人"
+    }
+  ],
+  "subtype": "记忆类 / 传承类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "随着陈平安对光阴长河和心境的感悟加深，可演化为真实的小千世界 。",
+  "supernatural_ability": "记录陈平安所见、所闻、所想，彩绘处为记忆深刻之景，白描处为模糊之事 。",
+  "evolution": {
+    "current_form": "一幅彩绘夹杂白描的画卷 。",
+    "materials_consumed": [
+      "神识",
+      "光阴流水"
+    ],
+    "potential_evolution": "通过本命飞剑“井中月”的演化，可使画中场景“真相化” 。"
+  },
+  "visual": {
+    "static": "卷轴形态，展开后画面详略不一，字里行间有光阴流转之感 。",
+    "active": "激活后如镜花水月，观者可身临其境感受画中人的悲欢离合 。"
+  },
+  "provenance": {
+    "origin": "由陈平安自行领悟并结合心湖书楼之法凝练而成 。",
+    "karma_link": "承载了陈平安远游九洲、剑开蛮荒的所有因果痕迹 。"
+  },
+  "enriched": true
+}

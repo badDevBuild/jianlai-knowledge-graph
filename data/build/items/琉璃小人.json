@@ -1,0 +1,49 @@
+{
+  "name": "琉璃小人",
+  "original_name": "十二绝色仙女俑",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "被誉为“十二绝色”的仙女俑之一，虽在流落民间时品相受损，但其背后承载着中土白帝城的顶尖工艺与 气运 。",
+  "aliases": [
+    "琉璃小人"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第159章 送君已千万里",
+      "owner": "李槐"
+    }
+  ],
+  "subtype": "珍玩类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔东山",
+      "relation": "赠予者"
+    },
+    {
+      "name": "白帝城神仙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "整套集齐后具有极高的艺术与灵性价值 。",
+  "supernatural_ability": "泥俑头上的幂篱本身是一件小巧玲珑的**法器**，触发机关可得见真容 。",
+  "evolution": {
+    "current_form": "半寸长、色泽暗淡但纹理纤毫毕现的琉璃美人 。",
+    "materials_consumed": [
+      "未知"
+    ],
+    "potential_evolution": "完整版十二绝色阵法"
+  },
+  "visual": {
+    "static": "做工精美绝伦，衣襟褶皱清晰可见，具有极高的视觉质感 。",
+    "active": "在特定条件下可显化神异，眉毛胡须皆若生人 。"
+  },
+  "provenance": {
+    "origin": "出自中土白帝城上五境神仙之手 。",
+    "karma_link": "崔东山在黄庭国城隍庙大街地摊捡漏所得，后作为机缘留予李槐 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "法行篇",
+  "original_name": "圣贤书章节 / 规矩章",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是读书人行走天下的“心灯”。虽然看似无杀伤力，却 是构建浩然天下“规矩”大阵的最微小单元 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第837章 另外一个",
+      "owner": "文圣"
+    }
+  ],
+  "subtype": "修行/礼仪类",
+  "holder": "山崖书院 / 浩然读书人",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "儒家先贤",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为儒家学问的大纲，是读书人立心、立命的根基。",
+  "supernatural_ability": "包含立身处世的“规矩”，可定心猿锁意马。研习此篇可 产生微弱的浩然气，压制邪魅 。",
+  "evolution": {
+    "current_form": "经典经义中的特定篇章，多收录于《小学》或《礼记》 中。",
+    "materials_consumed": [
+      "读书声",
+      "诚意正心"
+    ],
+    "potential_evolution": "可演化为支撑圣人“口含天宪”神通的法理根基 。"
+  },
+  "visual": {
+    "static": "字体方正，墨迹凝重，透着股凛然不可侵犯的正气。",
+    "active": "诵读时如有雷鸣，文字会显化出微弱金光，形成防御屏 障 。"
+  },
+  "provenance": {
+    "origin": "儒家教化体系的核心篇章。",
+    "karma_link": "齐静春教化小镇少年时，此篇即为重点传授内容 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "阴沉木匣",
+  "original_name": "娇黄木匣 / 阴沉木长匣",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "李槐的小宝箱。里边装着他的全部“大将”——彩绘木偶、泥人和《断水大崖》，是小镇少年远游的物化纪 念 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第141章 百怪（上）",
+      "owner": "李槐"
+    }
+  ],
+  "subtype": "存储类 / 滋养类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由千年娇黄阴沉木制成，随岁月流逝可由黄转红，灵气越发厚重 。",
+  "supernatural_ability": "“辟邪驻香”。木匣自带清香，能保护内里书籍与玩偶万年不朽，且能隔绝一般的气机探测 。",
+  "evolution": {
+    "current_form": "长条形的娇黄木匣，因埋藏地下多年，已开始显现红色 。",
+    "materials_consumed": [
+      "千年阴沉木",
+      "地气精华"
+    ],
+    "potential_evolution": "可作为炼制方寸物或承载高阶文运典籍的底座 。"
+  },
+  "visual": {
+    "static": "质感古朴，色泽由黄至红自然过渡，打开时有经久不散的木材清香 。",
+    "active": "放入其中的物件（如彩绘木偶、齐字帖）会受到灵气滋养，光华更甚 。"
+  },
+  "provenance": {
+    "origin": "由棋墩山土地爷（后为北岳山君）魏檗在分赃时赠予李槐 。",
+    "karma_link": "是李槐求学路上重要的储物家当，见证了他那令人惊叹的“捡漏”福缘 。"
+  },
+  "enriched": true
+}

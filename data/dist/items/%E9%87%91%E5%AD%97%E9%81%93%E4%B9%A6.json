@@ -1,0 +1,48 @@
+{
+  "name": "金字道书",
+  "original_name": "圆月宝诰",
+  "type": "典籍",
+  "grade": "仙家秘籍",
+  "status": "活跃",
+  "description": "这是《剑来》中最顶级的修道秘籍之一。它不仅是一部 书，更是一场关于如何“无中生有”证道飞升的试验记录 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1180章 再出山",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "传承/修行类",
+  "holder": "陈平安 / 聂翠娥",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    },
+    {
+      "name": "远古上仙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为旁门飞升法的巅峰著作，具备让修士强行开辟出第 四条登天之路的潜力 。",
+  "supernatural_ability": "文字以纯正紫金道气凝练，能化为千万龙蛇驾驭雷电。 研读可洗涤神魂，助人破开飞升瓶颈 。",
+  "evolution": {
+    "current_form": "一部文字流转如电、常人无法开卷的金字玉册 。",
+    "materials_consumed": [
+      "远古神性道痕",
+      "岁除宫气运"
+    ],
+    "potential_evolution": "可演化为支撑起一座完整天地的根本规律 。"
+  },
+  "visual": {
+    "static": "封面碧绿如水，内页金字熠熠生辉，常人视之会目眩神 摇 。",
+    "active": "翻开时金光照彻暗室，文字如活物般跃出纸面，产生宏 大的雷鸣声 。"
+  },
+  "provenance": {
+    "origin": "源自岁除宫秘藏，记录了失传已久的“金炼之诀” 。",
+    "karma_link": "吴霜降以此作为赔罪礼交给陈平安，涉及落魄山下宗的 法统建立 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,52 @@
+{
+  "name": "文运菖蒲",
+  "original_name": "暖树的菖蒲 / 灵源草",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "陈暖树最珍视的灵植之一，她为了不麻烦别人，一直默 默在此打理文运一事 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第979章 教拳与续杯",
+      "owner": "九嶷山神君"
+    },
+    {
+      "chapter": "第981章 后生可畏",
+      "owner": "宁远(原) -> 老秀才(现)"
+    },
+    {
+      "chapter": "第988章 须臾少年，带酒冲山",
+      "owner": "九嶷山(原)"
+    }
+  ],
+  "subtype": "滋养/气运类",
+  "holder": "陈暖树",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "在落魄山这种灵气内敛之地修行，其文运可与火蟒真灵 相互契合 。",
+  "supernatural_ability": "产生的文运水珠可放入落魄山溪涧中，顺水远流，滋养 龙须河与铁符江的文气 。",
+  "evolution": {
+    "current_form": "在竹楼一楼悉心照料的盆栽菖蒲 。",
+    "materials_consumed": [
+      "落魄山灵泉",
+      "暖树的细心照料"
+    ],
+    "potential_evolution": "可演化为承载落魄山文脉传承的“气运核心” 。"
+  },
+  "visual": {
+    "static": "青翠欲滴，叶片纤细且柔韧，常年挂有晶莹水珠 。",
+    "active": "散发出的清冷香气能驱散周围数丈内的焦躁之气 。"
+  },
+  "provenance": {
+    "origin": "陈平安将九嶷山赠礼转赠予粉裙女童 。",
+    "karma_link": "体现了落魄山成员之间互赠机缘、共谋大道的温情逻辑 。"
+  },
+  "enriched": true
+}

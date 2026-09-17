@@ -1,0 +1,46 @@
+{
+  "name": "鸳鸯",
+  "original_name": "飞剑鸳鸯",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是正阳山天才剑修吴提京的本命飞剑。其神通极为诡谲，能够针对修士的情感执念进行打击，是山上 公认的“最不可理喻”的飞剑之一 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第816章 大鱼如龙",
+      "owner": "吴提京"
+    },
+    {
+      "chapter": "第821章 落魄山观礼正阳山",
+      "owner": "吴提京"
+    },
+    {
+      "chapter": "第823章 你试试看",
+      "owner": "吴提京"
+    }
+  ],
+  "subtype": "攻心类 / 攻伐类",
+  "holder": "吴提京",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "作为正阳山“李抟景转世”天才的本命飞剑，具备破开修士道心、直指神魂的顶级杀力 。",
+  "supernatural_ability": "能够先伤及修士心中“道侣”的道心，继而反过来重创修士自身神魂 。",
+  "evolution": {
+    "current_form": "吴提京的本命飞剑 。",
+    "materials_consumed": [
+      "正阳山剑气精华",
+      "李抟景残余剑意"
+    ],
+    "potential_evolution": "若能觉醒第二把秘不示人的飞剑神通，可望跻身天下最强剑修之列 。"
+  },
+  "visual": {
+    "static": "剑身秀气，剑意阴柔内敛 。",
+    "active": "祭出时剑气轨迹不可理喻，能引发修士内心深处的情感涟漪并化为杀招 。"
+  },
+  "provenance": {
+    "origin": "吴提京本命觉醒 。",
+    "karma_link": "吴提京被视为正阳山千年以来练剑资质最好的天才，受宗主竹皇亲自栽培 。"
+  },
+  "enriched": true
+}

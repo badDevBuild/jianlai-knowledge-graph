@@ -1,0 +1,44 @@
+{
+  "name": "光阴长河画卷",
+  "original_name": "光阴走马图 / 瑶光福地画卷",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一幅能具象化呈现光阴流逝与历史痕迹的神奇画卷 , 。陆沉曾将此类画卷赠予姜云生，使其能跨越时空阻隔观看到昔日异象 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第726章 真无敌",
+      "owner": "陆沉"
+    }
+  ],
+  "subtype": "意境类 / 记录类",
+  "holder": "陆沉 / 姜云生",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陆沉",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "承载了光阴长河的部分真意，具备推演过去与未来的玄妙底蕴 , 。",
+  "supernatural_ability": "画卷内能显化出光阴长河的真实流转轨迹，令看客有如身临其境观摩万古演变之感 , 。",
+  "evolution": {
+    "current_form": "一幅珍藏多年的长卷，画面上光阴如流水般波动 , 。",
+    "materials_consumed": [
+      "光阴砂",
+      "十四境大修士心力"
+    ],
+    "potential_evolution": "若能完全炼化，可作为穿越光阴或固定因果的关键媒介 , 。"
+  },
+  "visual": {
+    "static": "画轴质地古老，卷面上人物与山水景致仿佛在微微晃动 , 。",
+    "active": "展开后光影斑驳，能映射出持有者记忆深刻的景象，甚至呈现出未来的一角 , 。"
+  },
+  "provenance": {
+    "origin": "由白玉京三掌教陆沉随缘赠送，或由大修士凭借感悟绘制 , 。",
+    "karma_link": "承载了“一即是全”的哲学道理，是解读《剑来》宇宙观的核心器物之一 , 。"
+  },
+  "enriched": true
+}

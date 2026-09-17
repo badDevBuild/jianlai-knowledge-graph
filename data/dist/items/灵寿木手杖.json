@@ -1,0 +1,41 @@
+{
+  "name": "灵寿木手杖",
+  "original_name": "药师杖",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此杖是药师老人的随身之物。灵寿木在山上本就是长寿与福禄的象征，此杖更是见证了其从人间战将转 为山上道官的修行岁月 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1033章 人间校书",
+      "owner": "灵显观观主"
+    },
+    {
+      "chapter": "第1071章 水中青山花欲燃",
+      "owner": "李药师"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "李药师 (道号药师)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "取材于极寒或极灵之地，随修士长久温养可产生指点山河、沟通地脉的灵性 。",
+  "supernatural_ability": "辅助行走，能感应地脉起伏，稳定修士神魂 。",
+  "evolution": {
+    "current_form": "一根质地坚韧、色泽古朴的木制手杖 。",
+    "materials_consumed": [
+      "虢山灵寿木"
+    ],
+    "potential_evolution": "长期陪伴飞升境大修士，可演化为具有延年益寿功效的仙木 。"
+  },
+  "visual": {
+    "static": "木质纹理细腻，手感温润，杖首或有天然生成的节瘤 。",
+    "active": "触地时隐有回响，能排开四周瘴气与污秽气机 。"
+  },
+  "provenance": {
+    "origin": "出自虢山，由远古名将、现白玉京道官“药师”持有 。",
+    "karma_link": "象征着持有者隐居避世、不染红尘的超脱心境 。"
+  },
+  "enriched": true
+}

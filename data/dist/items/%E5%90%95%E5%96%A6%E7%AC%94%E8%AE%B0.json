@@ -1,0 +1,48 @@
+{
+  "name": "吕喦笔记",
+  "original_name": "纯阳笔记 / 汾河神祠旧书",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是**吕喦**游戏人间时留下的笔耕心血，不仅记载了**龙虎山真人**的游历故事，更深藏了纯阳一脉 的剑诀真意。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第939章 桃叶见到桃花",
+      "owner": "李槐(暂时)"
+    }
+  ],
+  "subtype": "传承类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "汾河神祠庙祝",
+      "relation": "赠予者"
+    },
+    {
+      "name": "李槐",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "其内部蕴含的**纯阳剑术传承**随练习者悟性不断提升。",
+  "supernatural_ability": "书籍内容涉及**五行大道**的运转至理，其道诀能帮助修士梳理**人身山河**的修行隐患。",
+  "evolution": {
+    "current_form": "一本泛黄的古老书籍，带有数枚名家藏书印和详尽的眉批、题跋。",
+    "materials_consumed": [
+      "纯阳道韵",
+      "文运灵气"
+    ],
+    "potential_evolution": "若能完全领悟其“一滴天上金瓶水”的意境，可作为**结金丹**的无上法门。"
+  },
+  "visual": {
+    "static": "外表是一本版刻考究、带有淡淡墨香的**文人笔札**。",
+    "active": "翻阅时文字隐约流转，蕴含一种**“直指金丹”**的道教真言气象。"
+  },
+  "provenance": {
+    "origin": "纯阳道人吕喦游历时留存于**汾河神祠**。",
+    "karma_link": "李槐以两颗**谷雨钱**从神祠购得，实为陈平安重建长生桥的关键道缘。"
+  },
+  "enriched": true
+}

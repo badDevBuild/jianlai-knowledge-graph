@@ -1,0 +1,43 @@
+{
+  "name": "普通小刻刀",
+  "original_name": "玉匠小刻刀",
+  "type": "匠器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安用于雕琢“心中道理”的工具。无论是赠予学生的竹简，还是在遗迹中刻下的铭文，皆出自此刀[2 8-30]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第433章 拳剑皆可放，去看一条线",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅佐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大隋京城店主",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "虽是凡物，却因刻画无数圣贤道理而带有一丝灵性。",
+  "supernatural_ability": "极其锋利且耐用，能够胜任玉石、青神山竹简等多种硬度的材料雕刻[28-30]。",
+  "evolution": {
+    "current_form": "狭小精致的小巧刻刀。",
+    "materials_consumed": [
+      "光阴磨损"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "形制简单，刀头经过特殊处理，呈现出冷硬的金属光泽。",
+    "active": "在陈平安手中下刀精准，文字法度森严，金石气十足。"
+  },
+  "provenance": {
+    "origin": "陈平安在大隋京城购买玉簪时，由店主作为赠品送出。",
+    "karma_link": "陪伴陈平安远游万里，刻下了无数小竹简、印章及笔筒，承载了其“理智”的一面。"
+  },
+  "enriched": true
+}

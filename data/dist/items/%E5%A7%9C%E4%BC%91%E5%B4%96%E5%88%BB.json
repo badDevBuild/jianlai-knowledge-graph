@@ -1,0 +1,44 @@
+{
+  "name": "姜休崖刻",
+  "original_name": "姜休谶语",
+  "type": "典籍",
+  "grade": "无",
+  "status": "活跃",
+  "description": "这是僧人姜休在云游闰月峰时留下的神迹。它将高深的 剑术意境拘押在笔画之中，既是磨砺也是禁制。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第955章 剑术归拢",
+      "owner": "姜休(留赠辛苦)"
+    }
+  ],
+  "subtype": "剑诀/阵法",
+  "holder": "辛苦",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "姜休",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为紫衣僧人姜休留下的剑道真意，可演化为守护整座 山头的顶级剑阵。",
+  "supernatural_ability": "包含二十八字谶语，字里行间剑气凛然，兼具剑诀功法 与“锁剑符”阵法双重威能。",
+  "evolution": {
+    "current_form": "篆刻在闰月峰石壁上的榜书文字。",
+    "materials_consumed": [
+      "十四境剑意",
+      "佛门真言"
+    ],
+    "potential_evolution": "若能参透其中禅关，可令“人间千里落花风”。"
+  },
+  "visual": {
+    "static": "石壁上的文字苍劲有力，隐隐有气冲斗牛之势。",
+    "active": "触发时文字流溢金光，形成一道由文字障组成的严密禁 制。"
+  },
+  "provenance": {
+    "origin": "由紫衣僧人姜休于青冥天下闰月峰崖壁刻就。",
+    "karma_link": "僧人以此为自己留下一道谶语，用于震慑并指点后世武 夫。"
+  },
+  "enriched": true
+}

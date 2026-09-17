@@ -1,0 +1,44 @@
+{
+  "name": "木质官牌",
+  "original_name": "鸿胪寺序班腰牌",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不仅仅是一块木牌，它象征着陈平安在大骊朝廷架构 中正式拥有的“名分”，是事功学问在官场的具象化 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第841章 新剑修",
+      "owner": "荀趣/陈平安"
+    }
+  ],
+  "subtype": "身份/信物类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "荀趣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为官场印证，随持有者权柄扩大而产生更强的文字压 胜力。",
+  "supernatural_ability": "正面刻“鸿胪寺，序班”，背面记录借用规矩。持此牌如 见朝廷特使，可无视部分世俗禁令 。",
+  "evolution": {
+    "current_form": "枣木材质，由天水赵氏家主亲笔题字。",
+    "materials_consumed": [
+      "儒家文运",
+      "大骊官气"
+    ],
+    "potential_evolution": "可作为沟通大骊官场气运的媒介。"
+  },
+  "visual": {
+    "static": "质地古朴，字迹苍劲，带有淡淡的官威压力 。",
+    "active": "出示时文字会泛起微光，自动校对持牌者的户籍记录。"
+  },
+  "provenance": {
+    "origin": "大骊王朝鸿胪寺官方制式物件。",
+    "karma_link": "由荀趣送达，作为陈平安在大骊京城行事的“通行证”。"
+  },
+  "enriched": true
+}

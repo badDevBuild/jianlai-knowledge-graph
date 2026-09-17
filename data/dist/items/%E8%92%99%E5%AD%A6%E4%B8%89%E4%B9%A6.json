@@ -1,0 +1,38 @@
+{
+  "name": "蒙学三书",
+  "original_name": "《小学》、《礼乐》、《观止》",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这三本书曾出现在宋集薪泥瓶巷祖宅的书桌上 。大骊皇太后曾借此感叹儒家道理越大越不值钱，实 际上反映了小镇中隐匿的教化功德 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第6章 下签",
+      "owner": "宋集薪"
+    }
+  ],
+  "subtype": "文化/教化类",
+  "holder": "宋集薪 (大骊皇子)",
+  "holder_relation": "持有",
+  "rank": "其他",
+  "rank_potential": "作为儒家教化的基石，承载着天地间最朴素的道理 。",
+  "supernatural_ability": "虽无直接术法威力，但读书可养气、目、心，使人明理 并凝聚文运气象 , 。",
+  "evolution": {
+    "current_form": "叠放在书桌上的三本普通蒙学读物 。",
+    "materials_consumed": [
+      "纸张",
+      "笔墨"
+    ],
+    "potential_evolution": "若受大圣人点化，可化为具有压胜效果的儒家文宝 。"
+  },
+  "visual": {
+    "static": "书本略显陈旧但并无泥垢，字迹端正，体现了持有者的 爱护 。",
+    "active": "被翻阅时有淡淡的墨香，在圣贤感知中可能散发微弱的 文气光辉 。"
+  },
+  "provenance": {
+    "origin": "大骊王朝通用的蒙学教材 。",
+    "karma_link": "反映了骊珠洞天小镇即便在贫寒处也有读书明理的家风 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "金色马鞭",
+  "original_name": "缠金丝马鞭",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不只是一件御马工具，更是《剑来》中权贵与游侠身 份的象征，代表着一种鲜衣怒马的快意江湖 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1174章 天亮了",
+      "owner": "邱国皇帝"
+    }
+  ],
+  "subtype": "坐骑辅助/威仪类",
+  "holder": "贵公子 / 曹沫 (陈平安化身)",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "常年伴随拥有真龙血脉的坐骑，可演化为号令万兽的“ 赶山鞭” 。",
+  "supernatural_ability": "挥动时有金芒闪烁，能增加灵物坐骑的速度，并具有一 定的破邪威慑力 。",
+  "evolution": {
+    "current_form": "一根做工极尽豪奢的缠金丝马鞭 。",
+    "materials_consumed": [
+      "精金丝",
+      "灵木芯"
+    ],
+    "potential_evolution": "可升华为具备“追风”神通的兵家重器 。"
+  },
+  "visual": {
+    "static": "鞭身金灿灿，柄部镶嵌有宝石，透着一股人间显贵的富 贵气 。",
+    "active": "策马时伴有雷鸣声，鞭影化作一道道金色涟漪划破夜幕 。"
+  },
+  "provenance": {
+    "origin": "多出自大隋或中土神洲的皇家造办处 。",
+    "karma_link": "见证了陈平安以“曹沫”身份快马加鞭游历天下的豪侠岁 月 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,49 @@
+{
+  "name": "墨家机关巨舟",
+  "original_name": "丙丁剑舟 / 山岳渡船",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是浩然天下最强的机关战争机器。它们不仅是空中堡垒，更是能够改变地貌气运的战略武器，象征着 一国之武力巅峰。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第456章 水落石出书简湖",
+      "owner": "大骊王朝"
+    }
+  ],
+  "subtype": "攻伐类/运输类",
+  "holder": "大骊王朝 / 陈平安 (下宗)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土墨家",
+      "relation": "制造者"
+    },
+    {
+      "name": "崔瀺",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "大骊倾举国之力打造，单艘杀力足以蒸发数万妖族，多艘联合可覆盖千里战场。",
+  "supernatural_ability": "定点清理：可进行超远距离精准齐射，飞剑密如暴雨。山岳负重：能拖曳山脉跨海而行。",
+  "evolution": {
+    "current_form": "体型庞大如移动山岳的机关渡船，四周有虚幻力士拉船。",
+    "materials_consumed": [
+      "斩龙石",
+      "五色土",
+      "神灵金身碎片"
+    ],
+    "potential_evolution": "若由飞升境修士坐镇并配合特定阵法，战力直指十四境。"
+  },
+  "visual": {
+    "static": "形制恢弘，船身布满复杂的墨家符文与防御阵法。",
+    "active": "升空时烟雾滚滚，万剑齐发之时天幕如雨，金戈之声震动云霄。"
+  },
+  "provenance": {
+    "origin": "由中土墨家钜子联手大骊工部打造，是战争科技的最高结晶。",
+    "karma_link": "见证了大骊一统宝瓶洲的霸业，也是崔瀺留给陈平安守护下宗的重要“靠山”。"
+  },
+  "enriched": true
+}

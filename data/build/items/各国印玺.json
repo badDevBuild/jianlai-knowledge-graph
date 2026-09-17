@@ -1,0 +1,44 @@
+{
+  "name": "各国印玺",
+  "original_name": "复国印信 / 玺房遗珍",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这些印玺不仅是世俗权力的象征，更是气运的容器。陈 平安作为国师，通过调拨印玺，在微观处缝补了一洲的 山河破碎 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1181章 合龙",
+      "owner": "大骊王朝"
+    }
+  ],
+  "subtype": "气运/权力类",
+  "holder": "大骊玺房 / 各国君主",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "覆灭各国皇室",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "由于承载一国龙气，集齐后可演化为足以压胜十四境修 士的“社稷印” 。",
+  "supernatural_ability": "具备镇压一地山河气运、号令当地山神土地的神通。盖 章处，律法自成 。",
+  "evolution": {
+    "current_form": "堆满了大骊甲字号密库玺房的累累印章 。",
+    "materials_consumed": [
+      "亡国龙气",
+      "百年香火"
+    ],
+    "potential_evolution": "若能由国师重新钤印，可重塑一洲之规矩 。"
+  },
+  "visual": {
+    "static": "材质各异，以玉石、金银为主，底部印文多为“受命于 天”等吉语 。",
+    "active": "动用时龙气盘旋，产生实质性的威压，使得周围灵气瞬 间凝滞 。"
+  },
+  "provenance": {
+    "origin": "大骊铁骑南下过程中，从各亡国王朝搜罗而来的镇国重 宝 。",
+    "karma_link": "是大骊王朝掌控宝瓶洲山河脉络的关键枢纽，也是复国 势力争夺的目标 。"
+  },
+  "enriched": true
+}

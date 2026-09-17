@@ -1,0 +1,46 @@
+{
+  "name": "竹椅",
+  "original_name": "老藤椅 / 门房竹椅",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是落魄山标志性的生活器物。无论是陈平安在竹楼闭目养神，还是仙尉在山脚翻看闲书，竹椅都见证了落魄山从一无所有到宗门林立的变迁 , , 。",
+  "aliases": [
+    "竹椅"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第90章 大雨滂沱",
+      "owner": "阮邛/铁匠铺"
+    }
+  ],
+  "subtype": "家具类",
+  "holder": "仙尉",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "作为凡俗之物，随修行者常年伴随，可沾染些许道意 , 。",
+  "supernatural_ability": "无。主要用于休憩与待客，承载了落魄山闲适的门风 , 。",
+  "evolution": {
+    "current_form": "落魄山山脚常见的普通竹制或藤制椅子 , 。",
+    "materials_consumed": [
+      "普通青竹",
+      "老山藤"
+    ],
+    "potential_evolution": "若能由青神山绿竹打造，可演化为稳固神魂的灵器。"
+  },
+  "visual": {
+    "static": "色泽泛黄，表面油光锃亮，常搁放在落魄山门口或竹楼廊道中 , 。",
+    "active": "无。"
+  },
+  "provenance": {
+    "origin": "取材于龙泉郡本地山林的普通竹木，由当地匠人打造 。",
+    "karma_link": "连接了陈平安、郑大风与仙尉等历代守门人的清苦修行岁月 , 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "羽化丸",
+  "original_name": "羽化丹 / 升天丸",
+  "type": "丹药",
+  "grade": "灵物",
+  "status": "消耗",
+  "description": "这是一种在浩然天下极受推崇的仙丹。它不仅是药物， 更是修士跻身飞升境界的一种辅助凭证。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第902章 无事即平安",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第969章 风雪旧曾谙",
+      "owner": "清境山青虎宫"
+    },
+    {
+      "chapter": "第980章 也在心乡",
+      "owner": "姚仙之"
+    }
+  ],
+  "subtype": "破境类",
+  "holder": "各大宗门修士",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "具备让修士“羽化登仙”的功效，是冲击上五境的辅助神 药。",
+  "supernatural_ability": "能够洗刷修士体内的杂质，使其体魄更接近于“羽化”之 姿 。",
+  "evolution": {
+    "current_form": "流光溢彩的圆润丹药。",
+    "materials_consumed": [
+      "飞升境大妖精血",
+      "九转金丹残余"
+    ],
+    "potential_evolution": "若由仙人境药师炼制，可成“长生不老丸”。"
+  },
+  "visual": {
+    "static": "色泽雪白，药香中带着一股让人飘然欲仙的灵气。",
+    "active": "服下后周身生出微弱的光翼，仿佛随时可以白日飞升。"
+  },
+  "provenance": {
+    "origin": "浩然天下道家丹鼎派的高阶产物 。",
+    "karma_link": "象征着练气士对“羽化”大道的终极追求 。"
+  },
+  "enriched": true
+}

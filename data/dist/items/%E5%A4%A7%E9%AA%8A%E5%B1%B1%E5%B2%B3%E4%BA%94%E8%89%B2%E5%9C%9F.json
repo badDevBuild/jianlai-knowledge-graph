@@ -1,0 +1,49 @@
+{
+  "name": "大骊山岳五色土",
+  "original_name": "五色社稷土",
+  "type": "材料",
+  "grade": "天材地宝",
+  "status": "消耗品",
+  "description": "这是大骊国师崔瀺为了稳固国运，与陈平安进行利益交换时提供的顶级炼物材料。 该土取自大骊新五岳的山根，蕴含极强的地脉能量，是陈平安炼化土属本命物的关键资粮，对其稳固武 道境界与开辟气府具有重大意义。,",
+  "aliases": [
+    "大骊五色土"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第524章 陈平安和齐景龙的道理",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "炼物材料",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊宋氏",
+      "relation": "原主"
+    },
+    {
+      "name": "崔瀺",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵物",
+  "rank_potential": "取自一洲五岳山根，能随山岳封正和国势强弱提升整体品秩。",
+  "supernatural_ability": "蕴含一洲山川气运，炼化后可作为“山根”稳固人身小天地，并能压胜阴邪。",
+  "evolution": {
+    "current_form": "五种色彩斑斓、气机厚重的土壤。",
+    "materials_consumed": [
+      "五岳山根地气"
+    ],
+    "potential_evolution": "陈平安通过“炼三山”法诀将其炼化为第二件本命物，坐镇山祠窍穴。,"
+  },
+  "visual": {
+    "static": "呈现青、赤、白、黑、黄五种色彩，质地沉重，散发着大地气息。",
+    "active": "炼化过程中会产生五彩氤氲的宝光，呈现出大岳拔地而起的虚影。"
+  },
+  "provenance": {
+    "origin": "取自宝瓶洲大骊新五岳及中土穗山等名山山根。",
+    "karma_link": "由大骊国师崔瀺作为条件，交换陈平安麾下四位武运载体的籍贯入大骊。"
+  },
+  "enriched": true
+}

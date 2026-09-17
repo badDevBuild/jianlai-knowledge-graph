@@ -1,0 +1,50 @@
+{
+  "name": "朱红丹药",
+  "original_name": "泥封丹药",
+  "type": "丹药",
+  "grade": "丹药",
+  "status": "消耗",
+  "description": "这是**兵家重宝**，对纯粹武夫而言等于多出半条命。 它是陈平安一行人在棋墩山分赃时的重要战利品，见证 了武夫朱河心气的回归 。",
+  "aliases": [
+    "朱红丹药"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第115章 人间有个老秀才（上）",
+      "owner": "年轻剑客"
+    }
+  ],
+  "subtype": "神魂/体魄类",
+  "holder": "朱河",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "真武山",
+      "relation": "原主"
+    },
+    {
+      "name": "魏檗",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "能让武夫凝聚魂魄，帮助跻身中五境或武道高阶，具备 演化阴神宅邸的潜力 。",
+  "supernatural_ability": "能够帮助服药之人凝聚四散于窍穴气府的魂魄，最终结 出一颗方便阴神栖息的“宅子”，对第五境巅峰武夫尤为 有效 。",
+  "evolution": {
+    "current_form": "一颗泥封的朱红色丹药 。",
+    "materials_consumed": [
+      "真武山独门秘法",
+      "灵气精华"
+    ],
+    "potential_evolution": "炼化后可成为武夫阴神的本命栖息地 。"
+  },
+  "visual": {
+    "static": "外壳泥封，内部透着朱红色光泽，气息沉稳 。",
+    "active": "服用时丹药化作金光，直入武夫窍穴，产生明显的魂魄 凝聚感 。"
+  },
+  "provenance": {
+    "origin": "出自宝瓶洲兵家祖庭真武山 。",
+    "karma_link": "阿良从魏檗库藏中挑选，赠予护道有功的朱河 。"
+  },
+  "enriched": true
+}

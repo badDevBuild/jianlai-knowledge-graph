@@ -1,0 +1,46 @@
+{
+  "name": "金算盘",
+  "original_name": "孙氏祖传金算盘",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "孙嘉树处理家族庞大事务的核心工具。它不仅是计算盈亏的账具，更是孙家在老龙城山水官场博弈中立 于不败之地的算力支柱 。",
+  "aliases": [
+    "金算盘"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第72章 黑云",
+      "owner": "石春嘉"
+    }
+  ],
+  "subtype": "算力类 / 气运类",
+  "holder": "孙嘉树",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老龙城孙氏先祖",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随孙氏家族财富与地缘影响力的扩张，其算力与聚财神通可无上限增长。",
+  "supernatural_ability": "“财运滚滚”。算盘四周环绕着数位有翼金色小人（银虫一脉），能随主人心意自动推演海量账目与气运 走势 。",
+  "evolution": {
+    "current_form": "古色古香的金质算盘，带有灵性的金色童子 。",
+    "materials_consumed": [
+      "金库精气",
+      "商家愿力"
+    ],
+    "potential_evolution": "有望演化为算计一洲财富盈亏的“计然重器”。"
+  },
+  "visual": {
+    "static": "质地沉重的金质算盘，珠圆玉润，散发着内敛的金石光泽 。",
+    "active": "金色小人飞速拨动算珠，产生如波浪般的灵气涟漪，数字流转如幻象 。"
+  },
+  "provenance": {
+    "origin": "老龙城孙氏家族传承，诞生于长久积淀的金库精气 。",
+    "karma_link": "象征着孙家“一文铜钱即家族根本”的治家宗旨 。"
+  },
+  "enriched": true
+}

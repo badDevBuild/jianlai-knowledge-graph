@@ -1,0 +1,43 @@
+{
+  "name": "悬弓",
+  "original_name": "悬弓福地",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "**悬弓福地并非仅仅是一处修行之地**，它更像是一个 巨大的“宝库”。陈平安手中持有的“云梦长松”古弓便是 开启此地的唯一钥匙 , 。此地的存在极大地提升了龙象剑宗在浩然天下的 战略地位。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1159章 逍遥游",
+      "owner": "天谣乡"
+    }
+  ],
+  "subtype": "地理/遗址类",
+  "holder": "龙象剑宗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文庙",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "内藏一座无人涉足的远古洞天遗址，其价值足以重塑一 个顶尖宗门的大道根基 。",
+  "supernatural_ability": "拥有极高的隐蔽禁制，外界难以探知其核心内容。只有 持特定钥匙（云梦长松古弓）方可开启遗址大门 。",
+  "evolution": {
+    "current_form": "一处由文庙赐予齐廷济的完整福地 。",
+    "materials_consumed": [
+      "远古神性残余"
+    ],
+    "potential_evolution": "开启洞天遗址后，可提升为更高级别的“悬弓洞天” 。"
+  },
+  "visual": {
+    "static": "地图轮廓呈现出一张拉满的弯弓状，山脉走向隐带金革 之气 。",
+    "active": "当古弓靠近时，福地边境会产生宏大的雷鸣共鸣，显现 出远古神灵的行宫异象 。"
+  },
+  "provenance": {
+    "origin": "远古时代职掌征战或射落日月的神灵遗址 。",
+    "karma_link": "是文庙为了补偿齐廷济在三处战场的功勋而做出的顶级 馈赠 。"
+  },
+  "enriched": true
+}

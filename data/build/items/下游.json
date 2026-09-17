@@ -1,0 +1,46 @@
+{
+  "name": "下游",
+  "original_name": "本命飞剑“下游”",
+  "type": "本命飞剑",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "与“上游”互为阴阳，共同构成了白景那无法理喻的杀伐 体系。它的存在让任何敌手在面对白景时都会感到穷途 末路的绝望 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1003章 合道所在",
+      "owner": "白景"
+    },
+    {
+      "chapter": "第1141章 兵家必争之地",
+      "owner": "白景"
+    },
+    {
+      "chapter": "第1164章 人间压胜",
+      "owner": "白景(谢狗)"
+    }
+  ],
+  "subtype": "攻伐/因果类",
+  "holder": "白景 (谢狗)",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "能够顺应万物终结的势头，对残破之躯或濒死之敌具备 绝对的斩杀力 。",
+  "supernatural_ability": "其名“下游”，负责收束一切因果，能在大道轨迹的末端 截杀敌人，使其无处可逃 。",
+  "evolution": {
+    "current_form": "温养在白景气府中的精粹剑光 。",
+    "materials_consumed": [
+      "远古神性",
+      "庚金精华"
+    ],
+    "potential_evolution": "与“上游”配合，可形成覆盖一界的死地禁制 。"
+  },
+  "visual": {
+    "static": "不可见，表现为一种万水归海、死气沉沉的宿命感 。",
+    "active": "剑光一闪，敌人即刻步入注定的灭亡之局，神魂无法通 过轮回逃脱 。"
+  },
+  "provenance": {
+    "origin": "由白景在远古时代独立孕育而成 。",
+    "karma_link": "协助郑居中完成了针对十四境修士黄镇的“跨越千年”之 斩 。"
+  },
+  "enriched": true
+}

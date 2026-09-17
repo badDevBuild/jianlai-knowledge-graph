@@ -1,0 +1,48 @@
+{
+  "name": "灯鸣",
+  "original_name": "上古遗剑",
+  "type": "仙剑",
+  "grade": "半仙兵",
+  "status": "损毁",
+  "description": "它是“雨落”剑的伴生佩剑。虽然目前处于受损状态，但其背后的道侣情缘与上古工艺使其依然拥有极高 的收藏价值 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第484章 北俱芦洲无奇怪",
+      "owner": "披麻宗渡船店铺"
+    },
+    {
+      "chapter": "第686章 一些个典故",
+      "owner": "虚恨坊(待售)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "披麻宗 (待售)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "北俱芦洲某剑仙道侣",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "潜质与“雨落”相同，需成对修复以激活完整法统 。",
+  "supernatural_ability": "剑鸣如燃灯，能照破迷障，并与“雨落”剑形成特殊的攻守阵态 。",
+  "evolution": {
+    "current_form": "剑身受损严重的古剑 。",
+    "materials_consumed": [
+      "月华精华",
+      "洗剑池水"
+    ],
+    "potential_evolution": "若能成对修复，可成为支撑剑阵核心的重宝 。"
+  },
+  "visual": {
+    "static": "即便残缺，依然透出一股宁静而厚重的道气 。",
+    "active": "出鞘时伴有清越的钟鸣声，剑光如烛火摇曳 。"
+  },
+  "provenance": {
+    "origin": "与“雨落”同出一源，为剑仙道侣配剑 。",
+    "karma_link": "作为披麻宗渡船上的镇铺之宝，见证了一洲剑修的起落 。"
+  },
+  "enriched": true
+}

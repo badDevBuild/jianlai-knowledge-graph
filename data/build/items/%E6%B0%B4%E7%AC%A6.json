@@ -1,0 +1,38 @@
+{
+  "name": "水符",
+  "original_name": "水字符 / 龙符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是**符箓一脉的源头至宝**，不仅是单纯的攻伐或防御工具，更是**掌控天地秩序与光阴流转**的法 度化身 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第984章 火符",
+      "owner": "周米粒 (吕喦赠送)"
+    }
+  ],
+  "subtype": "阵法类 / 水法类",
+  "holder": "三山九侯先生",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "作为远古符箓之祖的亲制大符，具备斩断光阴长河、重塑天地水路轨迹的极致威力 。",
+  "supernatural_ability": "能够显化为身长千里的青色鲤鱼，每一片鱼鳞皆为符箓灵光，具备镇压江河大渎、引导光阴流水的宏大 神通 。",
+  "evolution": {
+    "current_form": "一摞蕴含深奥水性的金色大符 。",
+    "materials_consumed": [
+      "光阴长河之水",
+      "天下江河水运精华"
+    ],
+    "potential_evolution": "可配合山字符构筑长堤，将蹈虚渡船推向天幕正轨 。"
+  },
+  "visual": {
+    "static": "符文极其繁密，符胆灵光流溢，呈现出水纹涟漪阵阵的动态美感 。",
+    "active": "祭出时波光粼粼，如大江大河横空出世，金光与水气交织，气势磅礴 。"
+  },
+  "provenance": {
+    "origin": "由天下符箓祖师三山九侯先生亲手绘制 。",
+    "karma_link": "在天外天战场，三山九侯先生以此符斩开光阴长河，阻拦蛮荒天下的冲撞 。"
+  },
+  "enriched": true
+}

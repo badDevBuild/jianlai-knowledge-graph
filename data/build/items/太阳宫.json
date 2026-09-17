@@ -1,0 +1,48 @@
+{
+  "name": "太阳宫",
+  "original_name": "袖珍太阳宫",
+  "type": "法宝",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "太阳宫是一件极其珍稀的远古遗物，其品秩被认为高于渌水坑等神灵行宫。它内部不仅拥有极其深厚的 火德气运，还保留了上古铸剑台的残余神意，是修道之士梦寐以求的顶级机缘 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第956章 有人敲鼓",
+      "owner": "王原箓"
+    },
+    {
+      "chapter": "第1060章 明月中酒还行",
+      "owner": "王原箓"
+    }
+  ],
+  "subtype": "空间类 / 炼器类",
+  "holder": "王原箓",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "老观主 (碧霄洞主)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古遗物，不仅是顶级的空间法宝，更是无上的炼剑、炼器道场 。",
+  "supernatural_ability": "内部藏有真实的火海与远古炼剑台，具备极强的火属性压胜之力 。",
+  "evolution": {
+    "current_form": "巴掌大小的袖珍宫阙 。",
+    "materials_consumed": [
+      "远古神性精华",
+      "火部神灵道韵"
+    ],
+    "potential_evolution": "可作为重塑人身小天地或构建独立小世界的基石 。"
+  },
+  "visual": {
+    "static": "外表是一座小巧玲珑、古朴且威严的青铜宫殿建筑 。",
+    "active": "开启禁制时，宫内火光冲天，显现出熔铸日月的宏大气象，灵气浓郁至极 。"
+  },
+  "provenance": {
+    "origin": "传闻曾是远古火神的道场或铸剑地，后由东海观道观老观主收藏 。",
+    "karma_link": "被老观主视为排名前五的家当，最终作为收徒礼赠予嫡传弟子王原箓 。"
+  },
+  "enriched": true
+}

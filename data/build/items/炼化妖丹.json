@@ -1,0 +1,44 @@
+{
+  "name": "炼化妖丹",
+  "original_name": "妖珠 / 炼化金丹",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "消耗品",
+  "description": "炼化妖丹是山上修士极其看重的战略物资。高阶妖丹（如元婴或飞升境 ）不仅是炼药神物，更是能够直接交易的大宗神仙钱载体。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第502章 压下一条线",
+      "owner": "杜俞"
+    }
+  ],
+  "subtype": "药用/消耗类",
+  "holder": "陈平安 / 壮汉神将",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "本土妖族",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "基于原主妖族的境界（金丹、元婴至飞升），可炼制为同阶灵丹。",
+  "supernatural_ability": "蕴含妖族毕生精元，可作为练气士大补之物，或用于浸泡药酒以强壮修 士魂魄与武夫体魄 。",
+  "evolution": {
+    "current_form": "圆润的珠子，散发出原本妖族属性的道韵或煞气 。",
+    "materials_consumed": [
+      "妖族精血",
+      "神魂精华"
+    ],
+    "potential_evolution": "可被小炼为药酒，如“元婴老蛟金丹药酒” 。"
+  },
+  "visual": {
+    "static": "大小如拳头或柑橘，光泽由于炼化程度而异，内部有气机流动 。",
+    "active": "服用或炼化时，会爆发出强烈的灵气波动或原本妖族的法相残影。"
+  },
+  "provenance": {
+    "origin": "取自被斩杀的妖族修士，经由秘法收拢精血凝炼而成 。",
+    "karma_link": "代表了修士与妖族之间“丛林法则”下的资源掠夺与物尽其用。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "正气玉佩",
+  "original_name": "“吾善养浩然气”玉佩",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "儒家顶级法宝，蕴含着“言出法随”的道义，是陈平安在浩然天下行走时的身份象征与道力补充源 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第160章 少年已知愁滋味",
+      "owner": "李宝瓶等五人"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈淳安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "承载亚圣一脉磅礴的浩然正气，具有演化为独立小天地的潜质 。",
+  "supernatural_ability": "能**自行汲取天地灵气**，相当于一座可随身携带的微型洞天 。",
+  "evolution": {
+    "current_form": "篆刻有“吾善养浩然气”的金色玉佩 。",
+    "materials_consumed": [
+      "儒家功德",
+      "文运"
+    ],
+    "potential_evolution": "浩然天下正统规矩的载体"
+  },
+  "visual": {
+    "static": "通体金黄，质地极其细腻，散发出宏大的正道气息 。",
+    "active": "能引动方圆百里的灵气汇聚，在阴煞之地会自发产生辟邪金光 。"
+  },
+  "provenance": {
+    "origin": "由亚圣一脉传承，象征儒家正统学问 。",
+    "karma_link": "陈淳安于老龙城战场赠予陈平安，用于支持其修补长生桥与砥砺心境 。"
+  },
+  "enriched": true
+}

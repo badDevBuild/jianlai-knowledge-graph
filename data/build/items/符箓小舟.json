@@ -1,0 +1,45 @@
+{
+  "name": "符箓小舟",
+  "original_name": "核雕符舟",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一种非常实用的山上代步法宝。陈平安曾用它带着从剑气长城带回的孩子们在浩然天下游历。",
+  "aliases": [
+    "符舟"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第514章 先生包袱斋，学生造瓷人",
+      "owner": "陈平安 (由春露圃赠送)"
+    }
+  ],
+  "subtype": "交通/运输类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "桓云",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "随画符者的道行提升，可容纳人数及飞行速度上限极高。",
+  "supernatural_ability": "由符箓幻化而成，平时收拢为核雕或符纸，祭出后可变为载人楼船，速度极快。",
+  "evolution": {
+    "current_form": "小巧的核雕法宝，伴随水雾弥漫可变现。",
+    "materials_consumed": [
+      "灵气"
+    ],
+    "potential_evolution": "若得仙人点化，可演化为能跨洲飞行的顶级渡船。"
+  },
+  "visual": {
+    "static": "收起时如同一枚普通的桃核或竹核，雕镂精细。",
+    "active": "落地后迅速变大为雕梁画栋的三层楼船，御风而行时伴有滚滚云雾。"
+  },
+  "provenance": {
+    "origin": "由北俱芦洲老真人桓云秘制。",
+    "karma_link": "桓云为结下一段善缘，将其赠予当时尚在寻找归途的陈平安。"
+  },
+  "enriched": true
+}

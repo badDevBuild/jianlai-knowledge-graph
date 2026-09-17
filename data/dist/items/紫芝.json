@@ -1,0 +1,44 @@
+{
+  "name": "紫芝",
+  "original_name": "恨剑山仿造飞剑",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "紫芝是**恨剑山的绝活**之一，这类仿造飞剑在浩然天下具有极高的识别度 。它能够帮助非剑修修士在危急时刻**假装剑仙吓退强敌**，是山泽野修钟爱的压箱底法宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第496章 自古剑仙需饮酒",
+      "owner": "杨凝性"
+    }
+  ],
+  "subtype": "攻伐类 / 障眼法",
+  "holder": "杨凝性 (书生)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "恨剑山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽是仿品，但其气势与杀力足以乱真，可作为高位剑修身份的掩护 。",
+  "supernatural_ability": "“气势凌人”。虽非剑修本命飞剑，但气势胜似飞剑，可假装大剑仙吓阻敌人 。",
+  "evolution": {
+    "current_form": "紫色的小飞剑 。",
+    "materials_consumed": [
+      "北俱芦洲大剑仙遗留剑意",
+      "恨剑山秘法"
+    ],
+    "potential_evolution": "可配合特定的剑阵使用，进一步提升其欺骗性与杀伤力。"
+  },
+  "visual": {
+    "static": "剑身呈现出深邃的紫色，小巧玲珑 。",
+    "active": "祭出后剑光刺眼，剑气纵横，极具威慑力 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲恨剑山，仿制自某位著名大剑仙的飞剑 。",
+    "karma_link": "“书生”杨凝性在鬼蜮谷历练期间展示此物，以此自保并震慑群妖 。"
+  },
+  "enriched": true
+}

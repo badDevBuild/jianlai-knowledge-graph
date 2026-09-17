@@ -1,0 +1,44 @@
+{
+  "name": "青竹酒",
+  "original_name": "竹海洞天仙酿",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "名动天下的顶级仙酿。它不仅是杯中物，更代表了青神 山对儒家圣贤的一份古老敬意 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第790章 备战",
+      "owner": "竹海洞天"
+    }
+  ],
+  "subtype": "滋养/消耗类",
+  "holder": "文庙 / 阿良",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "青神山夫人",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为天下仙酿之首，具备洗髓伐骨、助人破境的极大潜 力 。",
+  "supernatural_ability": "饮用后能清心明志，祛除修行中产生的燥气，尤其压胜 山川鬼魅 。",
+  "evolution": {
+    "current_form": "散发着清雅竹香的青色酒液 。",
+    "materials_consumed": [
+      "神霄绿竹精华",
+      "洞天仙泉"
+    ],
+    "potential_evolution": "若由青神山夫人亲自酿造，可成“道酒”。"
+  },
+  "visual": {
+    "static": "盛放于特制竹筒中，色泽微绿，晶莹剔透 。",
+    "active": "开坛后灵气喷薄，能形成微缩的竹林幻境 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲三十六小洞天之一的竹海洞天 。",
+    "karma_link": "阿良常以此酒自诩身份，是连接竹海与浩然山巅的重要 物证 。"
+  },
+  "enriched": true
+}

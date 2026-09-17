@@ -1,0 +1,44 @@
+{
+  "name": "墨绿疗伤丹",
+  "original_name": "大泉皇宫珍藏疗伤秘药",
+  "type": "丹药",
+  "grade": "灵丹",
+  "status": "消耗",
+  "description": "这是大泉皇室为了笼络重臣而赐下的珍稀丹药，被誉为“服芝灵药”。它承载了皇室对边关将领的某种政 治期许，也是修士在危急时刻保命的底牌 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第331章 槐叶姚",
+      "owner": "锦袍男子"
+    }
+  ],
+  "subtype": "疗伤类 / 补益类",
+  "holder": "姚镇",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘茂",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为大泉皇室珍藏，其药力足以活死人肉白骨，对纯粹武夫和练气士均有极大裨益 。",
+  "supernatural_ability": "起死回生。能够帮助服药者迅速凝聚魂魄，修补受损气府与体魄，效果极佳 。",
+  "evolution": {
+    "current_form": "一颗散发淡雅药香、通体墨绿的圆润丹丸 。",
+    "materials_consumed": [
+      "远古灵芝",
+      "仙家丹砂"
+    ],
+    "potential_evolution": "传闻与远古仙君遗址中的“南柯丹”药效相近，可助力中五境修士破境 。"
+  },
+  "visual": {
+    "static": "封存于古朴锦盒中，色泽深邃如碧玉，带有温润的光泽 。",
+    "active": "服用时伴有五彩烟霞，药力瞬间充盈全身经络 。"
+  },
+  "provenance": {
+    "origin": "大泉王朝皇宫内库珍藏秘药 。",
+    "karma_link": "由大泉三皇子刘茂赠予姚镇，用于治疗其在刺杀中受到的重伤 。"
+  },
+  "enriched": true
+}

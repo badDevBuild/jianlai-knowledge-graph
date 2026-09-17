@@ -1,0 +1,46 @@
+{
+  "name": "纸人傀儡",
+  "original_name": "符箓纸人 / 家务小人",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是仙家府邸中常见的低级仆从。在《剑来》中，它象征着修士通过符 道术法将琐碎生活自动化的智慧 。",
+  "aliases": [
+    "剪纸人"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第287章 北行",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "劳作/辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吞宝鲸街道尽头铺子",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "若由符箓派大宗师落笔点睛，可演化为具有独立战力的“符兵”。",
+  "supernatural_ability": "能够自动执行任务，如打扫庭院、养花、搬书及晾晒书籍等琐事 。",
+  "evolution": {
+    "current_form": "按照身高分为一指、一掌、一臂高的各类纸质小人 。",
+    "materials_consumed": [
+      "特定黄纸",
+      "朱砂灵光"
+    ],
+    "potential_evolution": "可进阶为具有部分神智的“金甲力士符”载体。"
+  },
+  "visual": {
+    "static": "外观呈纸片状，刻画有简单的五官与动作线条，折叠后极易携带 。",
+    "active": "激发后由虚转实，动作灵活，在庭院中忙碌时带起轻微的符箓光效 。"
+  },
+  "provenance": {
+    "origin": "由专门的符箓宗门批量制造，属于高利润的仙家民用品 。",
+    "karma_link": "陈平安在路边购买，用于缓解远游途中的琐碎劳作压力 。"
+  },
+  "enriched": true
+}

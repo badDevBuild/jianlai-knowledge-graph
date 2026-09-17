@@ -1,0 +1,48 @@
+{
+  "name": "搜山录",
+  "original_name": "大骊谍报汇总 / 妖族图鉴",
+  "type": "典籍",
+  "grade": "书籍",
+  "status": "活跃",
+  "description": "这是大骊王朝在战后推出的重磅著作，旨在“缝补一洲 人心”，彻底揭开妖族的各种阴险手段 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第763章 霁色峰上",
+      "owner": "大骊王朝/宋集薪"
+    }
+  ],
+  "subtype": "情报/压胜类",
+  "holder": "大骊军方 / 练气士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "落魄山",
+      "relation": "编撰者"
+    },
+    {
+      "name": "大骊藩邸",
+      "relation": "发布者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为《搜山图》的后世补完，将成为浩然天下对付蛮荒 妖族的终极战术指南 。",
+  "supernatural_ability": "详细记载百余种隐秘妖族的真名、根脚与弱点，能辅助 勘验龙脉与隐匿行踪 。",
+  "evolution": {
+    "current_form": "一本内容极其详尽、版刻精良的军事级档案 。",
+    "materials_consumed": [
+      "老龙城战事秘录",
+      "蛮荒妖族魂魄信息"
+    ],
+    "potential_evolution": "可炼化为能够自主索敌的“山上兵书”。"
+  },
+  "visual": {
+    "static": "封面庄重，内文配有大量插图，妖族姿态栩栩如生 。",
+    "active": "翻阅时文字会产生感应，若附近有大妖出没，书页会发 烫预警 。"
+  },
+  "provenance": {
+    "origin": "由陈平安提供核心内容，大骊藩邸文秘书郎合力整理 。",
+    "karma_link": "扭转老龙城战局的关键，是各洲修士人手一本的保命符 。"
+  },
+  "enriched": true
+}

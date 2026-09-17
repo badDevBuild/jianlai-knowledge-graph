@@ -1,0 +1,44 @@
+{
+  "name": "白玉福签牌",
+  "original_name": "斋戒玉牌 / 通关文牒",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是行走在云窟福地这一类顶级秘境的“身份证”，象征 着被地主势力认可的贵客地位 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第885章 道簪",
+      "owner": "苏高山子女"
+    }
+  ],
+  "subtype": "信物/辅助类",
+  "holder": "落魄山子弟 / 远游练气士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姜尚真",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随持有人身份提升，可开启更多云窟福地或其他秘境的 权限 。",
+  "supernatural_ability": "持有此牌可无视部分山水禁制，并在特定地点（如砚山 ）获得开采灵石的特权 。",
+  "evolution": {
+    "current_form": "质地通透的白玉牌子，正面刻有如意或“福”字纹路 。",
+    "materials_consumed": [
+      "福地玉髓",
+      "宗门气运"
+    ],
+    "potential_evolution": "可进阶为具有部分“缩地山河”功效的通行法宝 。"
+  },
+  "visual": {
+    "static": "温润如油脂，带有淡淡的仙气，握在手中使人神清气爽 。",
+    "active": "通过禁制时，玉牌会亮起柔和白光，引导持有人进入秘 境 。"
+  },
+  "provenance": {
+    "origin": "云窟福地姜氏家族定制 。",
+    "karma_link": "姜尚真以此牌笼络落魄山小剑仙，是大宗门底蕴的体现 。"
+  },
+  "enriched": true
+}

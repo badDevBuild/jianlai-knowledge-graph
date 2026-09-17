@@ -1,0 +1,54 @@
+{
+  "name": "青铜古剑",
+  "original_name": "真武",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这把“真武”古剑是张山峰心心念念的法剑，虽然到手时破损严重，但其根脚深厚。它在陪伴张山峰云游 期间，逐渐显露出压制阴物的强大潜力 。",
+  "aliases": [
+    "青铜古剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第236章 一山还有一山高",
+      "owner": "宋雨烧"
+    },
+    {
+      "chapter": "第1086章 泥瓶内的老酒",
+      "owner": "沈刻"
+    }
+  ],
+  "subtype": "压胜类",
+  "holder": "张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "青蚨坊",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "因其材质非凡且刻有“真武”二字，若能修复裂纹，可晋升为道门顶尖法剑 。",
+  "supernatural_ability": "具备极强的压胜辟邪功能，剑身极重，蕴含某种沉稳的道教真意 。",
+  "evolution": {
+    "current_form": "锈迹斑斑、带有细微裂纹的无鞘古剑 。",
+    "materials_consumed": [
+      "道门功德",
+      "纯正雷法"
+    ],
+    "potential_evolution": "重焕真武大帝荡魔之姿的巅峰状态 。"
+  },
+  "visual": {
+    "static": "古朴沉重，剑身篆刻有模糊的“真武”二字 。",
+    "active": "出鞘时剑气厚重，能引动四周灵气产生水纹般的涟漪 。"
+  },
+  "provenance": {
+    "origin": "陈平安在梳水国地龙山的青蚨坊花费四百雪花钱购买 。",
+    "karma_link": "代表了陈平安与张山峰之间深厚的友谊，是张山峰登山修行的关键助力 。"
+  },
+  "enriched": true
+}

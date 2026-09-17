@@ -1,0 +1,37 @@
+{
+  "name": "金色圆环",
+  "original_name": "魏檗耳环 / 系发金环",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "金色圆环是北岳山君魏檗最具辨识度的外物。它不仅仅是装饰，更是他作为一洲山水首尊身份的象征， 蕴含着浓郁的北岳道韵 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1170章 青衫落座",
+      "owner": "魏檗"
+    }
+  ],
+  "subtype": "饰品类 / 辅助类",
+  "holder": "魏檗",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为大山君魏檗的标志性饰品，承载了北岳山水气运的洗礼，具有随山岳升格而进阶的潜力 。",
+  "supernatural_ability": "“稳固神魂”。作为山君饰物，它能辅助持有者感应山水气机变化，并起到一定的定神和压胜周边灵体的 作用 。",
+  "evolution": {
+    "current_form": "坠于耳侧的一枚小巧金色圆环 。",
+    "materials_consumed": [
+      "北岳山根精气"
+    ],
+    "potential_evolution": "随魏檗跻身仙人境/飞升境，可演化为某种敕令山水的重器 。"
+  },
+  "visual": {
+    "static": "金色圆润，质感不凡，常年佩戴于魏檗耳侧 。",
+    "active": "当魏檗施展山君大阵时，圆环会泛起层层金色涟漪，与山水交相辉映 。"
+  },
+  "provenance": {
+    "origin": "随魏檗金身重塑而生，亦或是神水国旧物 。",
+    "karma_link": "是大山君魏檗身份与格位的象征，亦出现在陈平安以气束发的意象中 。"
+  },
+  "enriched": true
+}

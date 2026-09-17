@@ -1,0 +1,62 @@
+{
+  "name": "本命瓷碎片",
+  "original_name": "碎瓷",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "在骊珠洞天烧制的、与特定孩童灵魂绑定的瓷器。陈平安本命瓷的破碎曾导致长生桥断裂，而今寻回碎 片是为了缝补那段遗落的因果。",
+  "aliases": [
+    "碎瓷片"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第482章 另一个朱敛",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第835章 十四",
+      "owner": "南簪 (暂存)"
+    },
+    {
+      "chapter": "第1040章 报道梅花消息",
+      "owner": "陈平安 (原属)"
+    },
+    {
+      "chapter": "第1041章 这个名字不错",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "气运类 / 因果类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "药铺杨老头",
+      "relation": "原主 (烧造者)"
+    },
+    {
+      "name": "大骊太后南簪",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "碎片拼凑齐全与否，直接关系到陈平安在飞升境瓶颈处的合道成败。",
+  "supernatural_ability": "作为命运的遥控器，掌握它即可汲取孩童气运，甚至隔空咒杀。",
+  "evolution": {
+    "current_form": "散落各处、带有特定龙窑款识的破碎瓷片。",
+    "materials_consumed": [
+      "三山九侯先生秘法",
+      "真龙灵血"
+    ],
+    "potential_evolution": "拼凑完整后可补全大道根基，使修士彻底摆脱天道桎梏。"
+  },
+  "visual": {
+    "static": "看似寻常的古旧瓷片，断面锋利。",
+    "active": "在特定环境下（如斩龙台旁）会产生神魂感应，散发幽幽金光。"
+  },
+  "provenance": {
+    "origin": "骊珠洞天三十六座龙窑之一。",
+    "karma_link": "骊珠洞天最残酷的规则，凡出生孩童皆有本命瓷，陈平安打碎本命瓷象征命硬福祸自招。"
+  },
+  "enriched": true
+}

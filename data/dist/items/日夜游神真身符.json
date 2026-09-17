@@ -1,0 +1,87 @@
+{
+  "name": "日夜游神真身符",
+  "original_name": "《丹书真迹》上品符箓",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一种品秩极高的古老符箓，其神妙在于“真身”二字，能直接与神位本尊产生感应 。陈平安从李宝箴处夺得后，将其作为“抵押”交给李宝瓶，换取谷雨钱寄往龙泉郡 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第398章 天底下最不怕之事",
+      "owner": "陈平安(原属李宝箴)"
+    },
+    {
+      "chapter": "第399章 礼物",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第406章 书上书外",
+      "owner": "李宝瓶(借给陈平安)"
+    },
+    {
+      "chapter": "第407章 来者不善",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第409章 有些故事不用知道",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第433章 拳剑皆可放，去看一条线",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第434章 青衣姑娘吃着糕点",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第437章 天亮了",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第463章 十年之约已过半",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1020章 目击而道存",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "召唤类",
+  "holder": "李宝瓶",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "原主"
+    },
+    {
+      "name": "李宝箴",
+      "relation": "赠予者"
+    },
+    {
+      "name": "陈平安",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "可反复使用，只需神仙钱充足即可维持",
+  "supernatural_ability": "能够与日、夜游神的本尊相勾连，达到“直达天听”的效果 。",
+  "evolution": {
+    "current_form": "金色符纸符箓",
+    "materials_consumed": [
+      "神仙钱"
+    ],
+    "potential_evolution": "若能为符胆点睛，威能可进一步提升"
+  },
+  "visual": {
+    "static": "金色符纸材质，正反两面绘有丹书，中央画圆，分别绘有一尊黑甲和白甲神将 。",
+    "active": "祭出后可化作具备神性的日夜游神真身傀儡，威能远超寻常敕神之法 。"
+  },
+  "provenance": {
+    "origin": "《丹书真迹》载录，早已在浩然天下失传",
+    "karma_link": "李希圣赠予李宝箴，后由陈平安夺取并“当”给李宝瓶"
+  },
+  "enriched": true
+}

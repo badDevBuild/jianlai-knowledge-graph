@@ -1,0 +1,35 @@
+{
+  "name": "铁水",
+  "original_name": "梳水国剑圣佩剑",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是梳水国剑圣**宋雨烧**在隐居前长年使用的佩剑。尽管它在山上神仙眼中可能品级不高，但在山下 江湖中却是威慑力十足的**神兵利器** 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第237章 小暑过后，春风犹在",
+      "owner": "宋雨烧"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "宋雨烧",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为梳水国第一大江湖门派剑水山庄老庄主的成名兵刃，其在江湖武夫手中具有极高的实战威名 。",
+  "supernatural_ability": "剑气清亮，配合宋雨烧的剑术，可力敌寻常山上练气士 。",
+  "evolution": {
+    "current_form": "长剑 。",
+    "materials_consumed": [],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "一柄造型朴拙的铁剑 。",
+    "active": "长剑出鞘时剑气清亮，能轻易劈碎神台等坚硬物体 。"
+  },
+  "provenance": {
+    "origin": "宋雨烧早年闯荡江湖时的贴身佩剑 。",
+    "karma_link": "见证了宋雨烧从一名江湖少年成长为一代剑圣的历程 。"
+  },
+  "enriched": true
+}

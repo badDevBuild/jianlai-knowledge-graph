@@ -1,0 +1,44 @@
+{
+  "name": "破碎剑气",
+  "original_name": "养剑葫残余剑气",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗品",
+  "description": "陈平安在访山寻宝期间收拢的无主剑气，虽不具备完整剑意，但杀力惊人，常被其用来淬炼神魂或修缮 飞剑。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第545章 为何敢怒不敢言",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "剑道/辅助类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古剑仙",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随着陈平安对“剑气十八停”的理解加深，可重新聚拢并淬炼为攻伐手段。",
+  "supernatural_ability": "虽支离破碎，但仍能对低阶妖物产生极强的震慑与切割作用。",
+  "evolution": {
+    "current_form": "温养在朱红养剑葫内的一团凌厉气机。",
+    "materials_consumed": [
+      "剑修意气",
+      "神仙钱灵力"
+    ],
+    "potential_evolution": "可被作为炼化本命飞剑时的“磨刀石”或增强剑阵威力的引子。"
+  },
+  "visual": {
+    "static": "在葫芦内表现为一团翻滚不息的微小白色流萤。",
+    "active": "倾倒而出时，会形成细碎且密集的剑光网络，撕碎周遭灵气。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲仙府遗址大战后，陈平安收拢的残存剑气。",
+    "karma_link": "与陈平安在剑气长城的历练相呼应，是其从武夫向剑修转变的见证。"
+  },
+  "enriched": true
+}

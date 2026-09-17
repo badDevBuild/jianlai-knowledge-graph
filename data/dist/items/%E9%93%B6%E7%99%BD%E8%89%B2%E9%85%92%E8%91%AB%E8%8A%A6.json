@@ -1,0 +1,54 @@
+{
+  "name": "银白色酒葫芦",
+  "original_name": "“美酒” / 魏晋的养剑葫",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是天下公认最顶级的七枚养剑葫之一，疑似名为“美酒” 。它原本属于大剑仙魏晋，后经阿良之手赠予李宝瓶，是李宝 瓶极为珍视的随身重宝 。",
+  "aliases": [
+    "小葫芦",
+    "银色酒葫芦",
+    "银色小葫芦",
+    "银葫芦",
+    "银白色酒葫芦"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第88章 粉墨登场",
+      "owner": "阿良"
+    }
+  ],
+  "subtype": "养剑类",
+  "holder": "李宝瓶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏晋",
+      "relation": "原主"
+    },
+    {
+      "name": "阿良",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道祖亲植的七大顶级养剑葫之一，具备滋养体魄与极速养剑的 终极潜力 。",
+  "supernatural_ability": "不仅能极速温养飞剑，更能反哺主人体魄，且能汲取剑气于酒水中 。",
+  "evolution": {
+    "current_form": "银白色小葫芦",
+    "materials_consumed": [
+      "剑气",
+      "仙家酒酿"
+    ],
+    "potential_evolution": "成熟形态的顶级养剑重器"
+  },
+  "visual": {
+    "static": "色泽如银，小巧玲珑，散发着淡淡的仙家气息 。",
+    "active": "温养飞剑时会有微弱的嗡鸣声，与雷雨天气产生共鸣 。"
+  },
+  "provenance": {
+    "origin": "风雪庙剑仙魏晋的旧物，由阿良通过“指点剑术”换取所得 。",
+    "karma_link": "由阿良在棋墩山赠予李宝瓶，象征着一种不羁的传承与护道之情 。"
+  },
+  "enriched": true
+}

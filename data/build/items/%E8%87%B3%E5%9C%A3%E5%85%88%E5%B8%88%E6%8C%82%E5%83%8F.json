@@ -1,0 +1,44 @@
+{
+  "name": "至圣先师挂像",
+  "original_name": "老夫子画像",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是浩然天下的**精神枢纽**。挂像不仅仅是艺术品，更是**儒家道统**的具象化，承载了至圣先师对 万世太平的愿景 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第695章 碎碎平安",
+      "owner": "白泽(被动持有)"
+    }
+  ],
+  "subtype": "镇压类",
+  "holder": "文庙 / 落魄山",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "至圣先师",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "随天下读书人的浩然正气凝聚而增强，具有言出法随的终极权威 。",
+  "supernatural_ability": "挂像所至即为法域，能压制一切邪祟，让置身其中的人自然而然心生敬畏、持身中正 。",
+  "evolution": {
+    "current_form": "气韵古雅、绘有儒家老夫子慈祥面容的画轴 。",
+    "materials_consumed": [
+      "天下文运",
+      "礼乐气数"
+    ],
+    "potential_evolution": "画像可化为真实分身游历人间，教化万民 。"
+  },
+  "visual": {
+    "static": "画中老人眉慈目善，眼神深邃，仿佛能看透古今万年 。",
+    "active": "画像表面金光流溢，字里行间传出琅琅书声，伴有圣贤教诲的宏大共鸣 。"
+  },
+  "provenance": {
+    "origin": "儒家学宫之祖，文庙文脉之源 。",
+    "karma_link": "象征着“规矩”与“道理”在人间的终极裁断权 。"
+  },
+  "enriched": true
+}

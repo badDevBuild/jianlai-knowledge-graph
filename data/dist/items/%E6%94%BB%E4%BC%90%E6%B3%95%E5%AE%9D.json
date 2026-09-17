@@ -1,0 +1,38 @@
+{
+  "name": "攻伐法宝",
+  "original_name": "山上兵器",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "在北俱芦洲，攻伐法宝是练气士与纯粹武夫在山下行走、切磋技艺的底气所在 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1046章 终究美梦成真",
+      "owner": "韦太真"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "北俱芦洲修士",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "视材质与蕴藉杀意而定，可跻身半仙兵 。",
+  "supernatural_ability": "专门用于破除练气士的防御法袍、宝甲或护体罡气 。",
+  "evolution": {
+    "current_form": "刀、剑、枪、戟等各类具有灵性的兵器 。",
+    "materials_consumed": [
+      "煞气",
+      "神仙钱"
+    ],
+    "potential_evolution": "若能不断吞噬敌手魂魄，可孕育出凶神器灵。"
+  },
+  "visual": {
+    "static": "通常流光溢彩，触之森寒 。",
+    "active": "挥动时带起剧烈的灵气震荡，足以撕裂虚空 。"
+  },
+  "provenance": {
+    "origin": "多产自三郎庙、恨剑山等兵器重镇 。",
+    "karma_link": "北俱芦洲剑修多，导致其余修士必须配置强力攻伐法宝以求平衡 。"
+  },
+  "enriched": true
+}

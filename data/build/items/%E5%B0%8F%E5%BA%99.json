@@ -1,0 +1,46 @@
+{
+  "name": "小庙",
+  "original_name": "骊珠洞天无名神祠",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是骊珠洞天内最具**宿命感**的地点。杨老头曾在此“收租”，无数天才后裔在此留名以定前程。 该地在洞天破碎后，成为了大骊王朝布局神道、聚拢武运的关键节点。",
+  "aliases": [
+    "小庙"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第185章 剑胚在手心",
+      "owner": "香火小人"
+    }
+  ],
+  "subtype": "气运/神道类",
+  "holder": "大骊王朝",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为曾经的飞升台遗址，具备改变一洲气运走向的能力。",
+  "supernatural_ability": "凡在庙内写下名字的后辈，皆能获得极强的**气运加持**。谢实与曹曦皆因此崛起。",
+  "evolution": {
+    "current_form": "原本破败不堪的小庙，后被大骊朝廷重建为高规格武庙。,",
+    "materials_consumed": [
+      "中土文庙秘法",
+      "大骊香火气"
+    ],
+    "potential_evolution": "成为镇压龙泉郡乃至整座宝瓶洲神道的核心枢纽。"
+  },
+  "visual": {
+    "static": "最初是小镇东南方位几尊破碎泥塑神像散落的荒凉地带。,",
+    "active": "重建后金碧辉煌，内含金精供养钱，气象雄伟，神灵金身熠熠生辉。"
+  },
+  "provenance": {
+    "origin": "远古时代的飞升台遗址，曾是神灵接引人间的通道。",
+    "karma_link": "与多位巅峰强者的发迹有关，是骊珠洞天因果纠缠最为深重的地方。,"
+  },
+  "enriched": true
+}

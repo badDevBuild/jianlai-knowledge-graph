@@ -1,0 +1,47 @@
+{
+  "name": "真武法剑",
+  "original_name": "青铜古剑",
+  "type": "灵器",
+  "grade": "法器",
+  "status": "活跃",
+  "description": "**真武法剑**是张山峰的傍身利器。虽外表残破，但实则是道门正宗重器，对于身为龙虎山外姓天师的 张山峰而言，是极佳的护道之物 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第375章 山泽散修路子野",
+      "owner": "张山峰(已交出)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "青蚨坊",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为真武山相关重器，具备极强的道门压胜潜力 。",
+  "supernatural_ability": "剑身沉重，蕴含微妙的真气涟漪，能够感应古战场遗址气息，具备镇压邪祟之效 。",
+  "evolution": {
+    "current_form": "一柄剑身布满细微裂纹、锈迹斑斑的青铜古剑 。",
+    "materials_consumed": [
+      "未知"
+    ],
+    "potential_evolution": "若能配合真武山嫡传法门，有望重塑剑身并晋升为**法宝** 。"
+  },
+  "visual": {
+    "static": "剑身刻有模糊不清的“真武”二字，没有剑鞘，充满岁月痕迹 。",
+    "active": "出鞘时虽有残缺，却能发出沉重震鸣，显现出肃杀的剑意波动 。"
+  },
+  "provenance": {
+    "origin": "陈平安于梳水国渡口青蚨坊以400枚雪花钱购得 。",
+    "karma_link": "陈平安将其作为临别赠礼交给张山峰，象征两人深厚的江湖情谊 。"
+  },
+  "enriched": true
+}

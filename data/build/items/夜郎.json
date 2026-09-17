@@ -1,0 +1,50 @@
+{
+  "name": "夜郎",
+  "original_name": "夜郎 / 停灵",
+  "type": "本命飞剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "夜郎是大骊地支修士袁化境的招牌飞剑。其名字寓意“人不夜行，不知有夜行人”，既是崔瀺对其心性的 诫勉，也揭示了此剑专门司职杀戮与捕获的阴暗本性。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第838章 互为苦手",
+      "owner": "袁化境"
+    },
+    {
+      "chapter": "第839章 青出于蓝而胜于蓝",
+      "owner": "袁化境"
+    },
+    {
+      "chapter": "第840章 家乡",
+      "owner": "袁化境"
+    },
+    {
+      "chapter": "第1211章 演武",
+      "owner": "袁化境"
+    }
+  ],
+  "subtype": "攻伐类 / 奴役类",
+  "holder": "袁化境",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "随着袁化境跻身上五境，其拘押傀儡的数量和品秩将大幅提升 。",
+  "supernatural_ability": "“拘押魂魄”。凡是被此剑斩杀之人，其魂魄都会被囚禁并沦为袁化境的战斗傀儡 。",
+  "evolution": {
+    "current_form": "本命飞剑，常存于袁化境气府中。",
+    "materials_consumed": [
+      "大妖精血",
+      "修士神魂"
+    ],
+    "potential_evolution": "若能获得顶级磨剑石，其“夜郎”领域可扩大至笼罩整座战场。"
+  },
+  "visual": {
+    "static": "剑身带有内敛的幽光，透着一股不寒而栗的肃杀之气 。",
+    "active": "出剑时伴有阴森的破空声，被其斩中的敌人瞬间失去神采，身躯僵硬如木偶。"
+  },
+  "provenance": {
+    "origin": "袁化境天生孕育的本命飞剑，由大骊国师崔瀺亲笔命名 。",
+    "karma_link": "见证了大骊地支修士在多次秘密斩首行动中的冷酷作为 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,51 @@
+{
+  "name": "仙家邸报",
+  "original_name": "山上邸报 / 镜花水月文字版",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是**浩然天下的信息枢纽**。它不仅是修士茶余饭后的谈资，更是衡 量一个修士名声、地位以及大道潜力的‘生死簿’ 。",
+  "aliases": [
+    "山水邸报"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第436章 直抒胸臆，知道一点",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "信息/记录类",
+  "holder": "各洲宗门 / 散修",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "山海宗",
+      "relation": "编纂者"
+    },
+    {
+      "name": "文庙",
+      "relation": "监管者"
+    }
+  ],
+  "rank": "其他",
+  "rank_potential": "随着信息权重的增加，可演化为干扰一洲气运的‘流言阵法’ 。",
+  "supernatural_ability": "通过秘法实时同步，记载九洲各地的奇人异事、宗门兴衰、武评名次以 及大妖行踪 。",
+  "evolution": {
+    "current_form": "材质特殊的纸张，上边文字可随时间推移自行更新或显现 。",
+    "materials_consumed": [
+      "云根纸",
+      "秘法墨水",
+      "山河气运"
+    ],
+    "potential_evolution": "高阶邸报可作为‘掌观山河’的引子。"
+  },
+  "visual": {
+    "static": "看似寻常的书册，纸张略厚，散发淡淡的檀香味 。",
+    "active": "翻阅时，文字金光流动，甚至能显现出微缩的山水画卷或战斗残像 。"
+  },
+  "provenance": {
+    "origin": "主要由中土神洲山海宗等专门机构编撰 。",
+    "karma_link": "是山巅修士掌控舆论与了解天下大势的窗口 。"
+  },
+  "enriched": true
+}

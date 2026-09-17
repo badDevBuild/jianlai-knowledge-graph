@@ -1,0 +1,38 @@
+{
+  "name": "仙兵",
+  "original_name": "上古神兵 / 剑仙佩剑",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "法宝之上的无上存在，非宗字头仙家难拥有一二 。它是各大洲修士眼中的终极追求，有的甚至承载了远古神灵的权柄 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第587章 陈清都你给我滚远点",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "镇山/攻伐类",
+  "holder": "上五境大修士",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "已经是世间法宝的顶点，部分可演化出独立的真灵或神灵 。",
+  "supernatural_ability": "拥有一力降十会的恐怖杀力，能够压胜山水气运或镇压一座天下的规则 。",
+  "evolution": {
+    "current_form": "形态各异，如陈平安的“剑仙”佩剑，法袍“金醴”等 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "天地大道真意"
+    ],
+    "potential_evolution": "若能产生“神灵”化人，则威力可比拟飞升境大剑仙 。"
+  },
+  "visual": {
+    "static": "通常流光溢彩，剑气或宝光甚至能让近观者双目生疼 。",
+    "active": "祭出时引发天地震动、雷鸣电闪，法相甚至能高入云海、顶天立地 。"
+  },
+  "provenance": {
+    "origin": "多源自远古天庭遗址或圣人呕心沥血的锻造 。",
+    "karma_link": "每一件仙兵的现世都会引发一洲山河的剧烈动荡与各方势力的争夺 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "琉璃金身碎片",
+  "original_name": "五彩琉璃碎块 / 仙人遗蜕",
+  "type": "灵物",
+  "grade": "天材地宝",
+  "status": "活跃",
+  "description": "这些碎片是飞升境大修士“道化”后的实物遗留，极其稀有。它们是浩然天下山巅修士争夺的重宝，能直 接增强金身神灵的神位稳固度 。",
+  "aliases": [
+    "琉璃碎片"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第372章 剑仙在后",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1189章 明天",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "炼体类 / 补益类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杜懋",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为飞升境大修士陨落后的精华，是重塑躯壳或炼化分身的至高材料 。",
+  "supernatural_ability": "**“道果显化”**。每一块碎片都包含大修士的部分大道感悟，能极大裨益山水神灵的金身强度 。",
+  "evolution": {
+    "current_form": "散落在咫尺物中的五彩碎块 。",
+    "materials_consumed": [
+      "飞升境修士神魂",
+      "破碎洞天精华"
+    ],
+    "potential_evolution": "陈平安将其部分碎片炼化为“齐谐”、“曹沫”等两具纯粹金身 。"
+  },
+  "visual": {
+    "static": "质地如同彩色琉璃，流光溢彩，触手温润却重如山岳 。",
+    "active": "炼化时引发天地异象，能将普通灵气转化为五彩祥云 。"
+  },
+  "provenance": {
+    "origin": "桐叶宗杜懋在梧桐小洞天强行飞升失败后，阳神碎裂而成的残留物 。",
+    "karma_link": "陈平安以此向桐叶宗索赔，用于后期重塑人身小天地和炼化分身 。"
+  },
+  "enriched": true
+}

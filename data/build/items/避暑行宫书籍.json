@@ -1,0 +1,52 @@
+{
+  "name": "避暑行宫书籍",
+  "original_name": "隐官秘录档案",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这些书籍是**隐官一脉**的核心资产。陈平安继任后，通过对这些档案的“从厚读薄”，实现了对战场的 **极致算计** 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第693章 人间又有金丹客",
+      "owner": "隐官一脉"
+    },
+    {
+      "chapter": "第707章 以一城争天下",
+      "owner": "飞升城剑修"
+    }
+  ],
+  "subtype": "情报类",
+  "holder": "隐官一脉 (陈平安)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "萧愻",
+      "relation": "原主"
+    },
+    {
+      "name": "洛衫、竹庵",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "内容随战事不断增删，最终可演化为掌控蛮荒天下因果的“博望志” 。",
+  "supernatural_ability": "详细记载了蛮荒大妖、外乡剑修及本土天才的根脚、飞剑神通与性格弱点 。",
+  "evolution": {
+    "current_form": "堆积如山、分类严密的古旧卷宗与抄本 。",
+    "materials_consumed": [
+      "万年守城情报",
+      "剑仙精气神"
+    ],
+    "potential_evolution": "由陈平安重新编撰后，分化为“天干地支”系列实战账本 。"
+  },
+  "visual": {
+    "static": "纸张绵软陈旧，书脊泛黄，贴满了密密麻麻的小楷便签 。",
+    "active": "翻阅时文字如走马灯动荡，可直接在神识中构建战场推演沙盘 。"
+  },
+  "provenance": {
+    "origin": "剑气长城隐官一脉历代积累的秘密档案馆 。",
+    "karma_link": "承载了剑气长城“豪杰斫贼”的无名功德与万年守城底蕴 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,43 @@
+{
+  "name": "千年水牛角",
+  "original_name": "无",
+  "type": "材料",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是陈平安炼制五行之金本命物“金色文胆”的关键材料之一。其蕴含的肃杀之气与武圣佩刀相合，共同 构建了陈平安体内坚固的肺腑防御。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第413章 炼制",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "炼物材料 / 五行属金",
+  "holder": "陈平安",
+  "holder_relation": "消耗",
+  "previous_holders": [
+    {
+      "name": "茅小冬",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为炼制“金色文胆”的核心金属性材料，其品秩决定了本命物最终的凝练程度。",
+  "supernatural_ability": "蕴含浓郁的金戈肃杀之气，可用于调养肺腑窍穴。",
+  "evolution": {
+    "current_form": "约半丈长的黑色角质物。",
+    "materials_consumed": [
+      "无"
+    ],
+    "potential_evolution": "在五彩金匮灶中熔炼后，转化为金色水珠并最终结成金色文胆。"
+  },
+  "visual": {
+    "static": "长约半丈，质地坚硬，散发着沉稳的金属光泽。",
+    "active": "在丹炉上空受热后，会从尖头处熔出一滴滴金色水珠，如天河瀑布下坠。"
+  },
+  "provenance": {
+    "origin": "大隋京城武庙搜集的珍稀材料，由茅小冬交予陈平安。",
+    "karma_link": "是大隋王朝为了补偿山崖书院并辅助陈平安修补长生桥而提供的重宝。"
+  },
+  "enriched": true
+}

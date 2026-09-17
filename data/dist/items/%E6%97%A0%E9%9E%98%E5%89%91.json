@@ -1,0 +1,38 @@
+{
+  "name": "无鞘剑",
+  "original_name": "人之天真",
+  "type": "其他",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "书中将“人之天真”比作一把“无鞘剑”，由于其太过锋芒且易受损，成年后的人们往往只能将其留在记忆 深处，而无法在复杂的世道中一直佩戴。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第415章 人间最得意",
+      "owner": "白也"
+    }
+  ],
+  "subtype": "精神类 / 象征类",
+  "holder": "无 (象征性概念)",
+  "holder_relation": "寄托",
+  "rank": "仙兵",
+  "rank_potential": "代表了修道之人最纯粹的本心，其力量随持有者道心稳固而增强。",
+  "supernatural_ability": "斩断世间一切虚伪与迷障，直指本心。",
+  "evolution": {
+    "current_form": "无形的精神概念。",
+    "materials_consumed": [
+      "纯净心性",
+      "少年意气"
+    ],
+    "potential_evolution": "随着持有者老去，此剑通常会挂在“童年”的墙壁上，无法再随身携带。"
+  },
+  "visual": {
+    "static": "在视觉设定中表现为一把悬挂在墙壁上的无鞘锈铁剑，或仅剩剑柄，象征剑已碎或心中有剑。",
+    "active": "出剑时寒光刺眼，能让周围的嘈杂声减弱，温度微降。"
+  },
+  "provenance": {
+    "origin": "源于对人生初心的哲学隐喻。",
+    "karma_link": "与陈平安的“赤子之心”高度契合，是其在大道争渡中不被异化的象征。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "黄粱酒",
+  "original_name": "忘忧酒",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是倒悬山唯一可以与“剑气”相比拟的符号。黄粱酒代表了“死心才可活来”的道门禅机，是许多修士破 开瓶颈的辅助之物 。",
+  "aliases": [
+    "忘忧酒"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第273章 一枕黄粱剑气长",
+      "owner": "老掌柜"
+    },
+    {
+      "chapter": "第276章 最强之间",
+      "owner": "黄粱酒铺"
+    }
+  ],
+  "subtype": "滋养类 / 迷幻类",
+  "holder": "黄粱酒铺 (掌柜)",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "其价值不仅在于酒水，更在于能让人体悟福地规则与人生幻象的玄妙 。",
+  "supernatural_ability": "**“大梦一场”**。价格极其昂贵，能让饮者在梦中经历漫长岁月，看遍人生百态，从而获得心境的突破 。",
+  "evolution": {
+    "current_form": "黄粱酒铺的招牌酒水 。",
+    "materials_consumed": [
+      "福地残余气运",
+      "秘传曲药"
+    ],
+    "potential_evolution": "无"
+  },
+  "visual": {
+    "static": "通常以老坛封存，泥封用材讲究，酒旗在风中常显疲态但吸引力极大 。",
+    "active": "入口醇厚，后劲极大，若心境不足者，饮后数日难醒 。"
+  },
+  "provenance": {
+    "origin": "出自倒悬山中央孤峰附近的黄粱酒铺 。",
+    "karma_link": "见证了无数失意豪杰与求道者的寂寞，是陈平安对“梦与真”理解的重要载体 。"
+  },
+  "enriched": true
+}

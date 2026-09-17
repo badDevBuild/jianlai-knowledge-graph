@@ -1,0 +1,48 @@
+{
+  "name": "晴耕雨读",
+  "original_name": "柳尚真迹 / 落魄山训",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "此帖不仅是书法神品，更是柳清风政治抱负与人生底色 的缩影。陈平安将其视为落魄山文脉传承的重要标志 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第929章 与诸君借取千山万水（十）",
+      "owner": "杨花"
+    }
+  ],
+  "subtype": "文运/字帖类",
+  "holder": "张嘉贞 / 姚近之",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "柳清风",
+      "relation": "原主"
+    },
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "承载大骊文柄重臣的最后气节，随落魄山文脉兴盛可化 为文灵 。",
+  "supernatural_ability": "笔意刚健中正，能定心猿意马，对邪祟具有天然的儒家 压胜力 。",
+  "evolution": {
+    "current_form": "榜书四字字帖，神意古朴 。",
+    "materials_consumed": [
+      "浩然气",
+      "一国文运"
+    ],
+    "potential_evolution": "可演化为落魄山下宗书院的镇楼之宝 。"
+  },
+  "visual": {
+    "static": "四字方正有力，如苍松矗立，墨迹透出淡雅的草木清香 。",
+    "active": "字迹隐约有金光流动，仿佛有圣贤持戒尺在旁，声振寰 宇 。"
+  },
+  "provenance": {
+    "origin": "由大骊陪都礼部尚书柳清风生前亲笔书写 。",
+    "karma_link": "陈平安以此帖赠予张嘉贞，作为对其立身处世的期许 。"
+  },
+  "enriched": true
+}

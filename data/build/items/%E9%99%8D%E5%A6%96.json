@@ -1,0 +1,68 @@
+{
+  "name": "降妖",
+  "original_name": "阮邛所铸之剑",
+  "type": "仙剑",
+  "grade": "兵器",
+  "status": "活跃",
+  "description": "这是陈平安早年为心仪姑娘送去的两把剑之一，长期放置在槐木剑匣中 。它不仅是顶级仙兵，更是陈平安与宁姚情感的纽带 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第203章 酒鬼少年郎",
+      "owner": "陈平安(预想)"
+    },
+    {
+      "chapter": "第207章 天上掉下个......人",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第226章 匣有两剑，降妖除魔",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第262章 一叶扁舟，翩翩少年",
+      "owner": "陈平安 (代持)"
+    },
+    {
+      "chapter": "第270章 好久不见，宁姑娘",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第278章 武无第二，拳高天外",
+      "owner": "宁姚"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "宁姚",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    },
+    {
+      "name": "阮邛",
+      "relation": "制作者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "由兵家圣人阮邛亲手打造，具备斩神行刑的压胜之威 。",
+  "supernatural_ability": "具备极其纯粹的剑气，能够斩杀高位神灵或飞升境大妖 。",
+  "evolution": {
+    "current_form": "由大块斩龙台磨砺而成的白鞘长剑 。",
+    "materials_consumed": [
+      "斩龙台",
+      "神兵遗物"
+    ],
+    "potential_evolution": "完全炼化后可与持剑者神魂合一，成为一洲剑道气运的法统之剑 。"
+  },
+  "visual": {
+    "static": "鞘外剑光如月，古朴且杀意内敛 。",
+    "active": "拔剑时剑气如长虹贯日，剑光照彻十方，呈现纯粹的雪白色 。"
+  },
+  "provenance": {
+    "origin": "圣人阮邛在龙须河畔为宁姚精心打造 。",
+    "karma_link": "陈平安早年为了送给宁姚而背负此剑跨洲远游，承载了其对宁姚的守护承诺 。"
+  },
+  "enriched": true
+}

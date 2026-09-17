@@ -1,0 +1,48 @@
+{
+  "name": "远古甲胄",
+  "original_name": "披甲者法衣 / 大霜甲",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是远古时代极致防御的化身。其三件次一等真迹（如 大霜甲）的破碎遗落，直接导致了后世兵家甲丸体系的 诞生 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第954章 心乡满桌",
+      "owner": "白玉京（碧云楼）"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "白玉京 / 陆芝 / 姜赦",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "披甲者 (五至高之一)",
+      "relation": "原主"
+    },
+    {
+      "name": "铸造者 (神灵)",
+      "relation": "制作人"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "它是所有兵家甲丸的大道源头，集齐碎片可重现远古至 高防御 。",
+  "supernatural_ability": "防御力惊人，能无视十四境之下的所有术法攻击，并天 然压制水火二法 。",
+  "evolution": {
+    "current_form": "目前多以残片形式散落四方，或被大炼为“大霜甲”等重 器 。",
+    "materials_consumed": [
+      "日精月魄",
+      "不朽神性"
+    ],
+    "potential_evolution": "回归“披甲者”真迹，成就绝对的不败金身。"
+  },
+  "visual": {
+    "static": "银白色或金色的甲胄，鳞片致密，带有古老的神纹 。",
+    "active": "披挂后身有宝光，天象随之色变，仿佛一尊古神降临人 间 。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭五至高神灵之一的披甲者 。",
+    "karma_link": "涉及白玉京、兵家祖庭与落魄山之间的多重博弈 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "金石笺",
+  "original_name": "真诰宗名纸",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "这是**符箓一脉的顶级纸张**。因其“厚如木片”的特质 和自带风雷的异象，在《剑来》中被视为绘制高阶敕令 的唯一选择 。",
+  "aliases": [
+    "金石笺"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第133章 同行",
+      "owner": "崔瀺"
+    }
+  ],
+  "subtype": "灵物/承载类",
+  "holder": "大骊礼部 / 陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "真诰宗",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "能承载上五境修士的本命真言，是制作金书玉牒的最佳 材料 。",
+  "supernatural_ability": "书写时笔尖与纸张摩擦会产生阵阵风雷之声，自带压胜 妖物的威能 。",
+  "evolution": {
+    "current_form": "厚如木片、质地极其坚韧的名贵纸张 。",
+    "materials_consumed": [
+      "云根纤维",
+      "雷部神意"
+    ],
+    "potential_evolution": "大炼后可成为能够“言出法随”的不朽书卷 。"
+  },
+  "visual": {
+    "static": "色泽金黄，带有天然的云雷纹路，纸张分量极重 。",
+    "active": "落笔时金光跳跃，雷鸣不绝，成符后威力远胜寻常黄纸 。"
+  },
+  "provenance": {
+    "origin": "出自别洲道教名门真诰宗 。",
+    "karma_link": "大骊皇帝常以此赏赐功臣，象征着王朝与宗门间的气运 联系 。"
+  },
+  "enriched": true
+}

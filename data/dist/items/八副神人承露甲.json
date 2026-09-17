@@ -1,0 +1,49 @@
+{
+  "name": "八副神人承露甲",
+  "original_name": "神人承露偶甲 / 祖宗甲",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这八副甲胄是后世所有兵家甲丸的“老祖宗”，包括佛国 、花苞、山鬼、水仙、霞光、彩衣、云海、西嶽，承载 了极重的远古气运 [13-15]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第942章 天要下雨",
+      "owner": "未知"
+    }
+  ],
+  "subtype": "防御/兵家类",
+  "holder": "魏羡 (西嶽) / 正阳山 (彩衣) / 多位高阶修士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "姜赦 (兵家初祖)",
+      "relation": "制作人"
+    },
+    {
+      "name": "远古神灵",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "集齐八副并熔铸神灵金身，可还原为远古五至高之一的 披甲者真迹 。",
+  "supernatural_ability": "每副甲胄皆有独特防御神通。如“西嶽”可硬抗地仙重击 而不损根本 。",
+  "evolution": {
+    "current_form": "八种不同形制的祖宗级兵家甲丸 。",
+    "materials_consumed": [
+      "神灵金身碎片",
+      "光阴长河之水",
+      "金精铜钱"
+    ],
+    "potential_evolution": "进化为大霜甲或其他次一等真迹神甲 。"
+  },
+  "visual": {
+    "static": "平时为小巧如丸的金属珠子，一旦激发则变为威严厚重 的全覆盖甲胄 。",
+    "active": "甲胄表面流光溢彩，缝隙间隐约有金乌之火或雷电穿行 。"
+  },
+  "provenance": {
+    "origin": "兵家初祖以“大霜甲”为基础，联合其他老祖师仿造而成 。",
+    "karma_link": "是兵家修士赖以成名的最强防具，其中的“西嶽”由陈平 安送予魏羡 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "蛟龙金须",
+  "original_name": "老蛟金须",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "消耗",
+  "description": "这是采自蛟龙沟巅峰大妖的金色胡须，是陈平安在倒悬山期间获得的重要法宝材料 。它不仅代表了极高的杀力，也是陈平安与左右之间师门情谊的见证 。",
+  "aliases": [
+    "老蛟胡须"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第281章 天真",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "束缚类 / 材料",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "蛟龙沟十境老蛟",
+      "relation": "原主"
+    },
+    {
+      "name": "左右",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为十境老蛟的本元精华，是炼制顶级拘押类法宝的绝佳材料，具备成长为半仙兵“缚妖索”的潜质 。",
+  "supernatural_ability": "“禁锢真灵”。炼化后能自动捆绑中五境及以下妖族，并消融阴煞戾气 。",
+  "evolution": {
+    "current_form": "两根纠缠在一起的金色长须 。",
+    "materials_consumed": [
+      "十境老蛟本元",
+      "剑气淬炼"
+    ],
+    "potential_evolution": "可由高位符师加持云篆后炼制为**“缚妖索”** 。"
+  },
+  "visual": {
+    "static": "通体金黄，质地坚韧且带有天然龙威 。",
+    "active": "祭出时化作一道璀璨金光，在空中飞掠如电，自动寻踪捆绑目标 。"
+  },
+  "provenance": {
+    "origin": "源自蛟龙沟被斩杀的十境金色老蛟 。",
+    "karma_link": "由剑修左右斩杀老蛟后所得，并将其作为战利品赠予陈平安 。"
+  },
+  "enriched": true
+}

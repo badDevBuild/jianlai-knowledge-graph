@@ -1,0 +1,72 @@
+{
+  "name": "风鸢",
+  "original_name": "风鸢渡船",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "落魄山名下的标志性渡船，由贾晟和张嘉贞等人负责管理，不仅是交通工具，更是宗门威势的体现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第801章 为何问拳",
+      "owner": "陈平安(预定)"
+    },
+    {
+      "chapter": "第804章 一笑抚青萍",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第827章 夜游京城",
+      "owner": "落魄山"
+    },
+    {
+      "chapter": "第877章 事多如牛毛",
+      "owner": "落魄山"
+    },
+    {
+      "chapter": "第879章 动我心弦者",
+      "owner": "落魄山"
+    },
+    {
+      "chapter": "第958章 青萍剑宗",
+      "owner": "青萍剑宗"
+    },
+    {
+      "chapter": "第1126章 二十人与候补们（八）",
+      "owner": "落魄山/青萍剑宗"
+    }
+  ],
+  "subtype": "跨洲渡船",
+  "holder": "落魄山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "中土玄密王朝",
+      "relation": "赠予者"
+    },
+    {
+      "name": "大泉姚氏",
+      "relation": "原持有方"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为落魄山两艘核心跨洲渡船之一，承载着宗门的物流与外交气运 。",
+  "supernatural_ability": "能够御风远游，跨越北俱芦洲、宝瓶洲与桐叶洲，具备完善的防御阵法 。",
+  "evolution": {
+    "current_form": "巨大的跨洲楼船，内含数层船舱与完善的修道道场 。",
+    "materials_consumed": [
+      "神仙钱",
+      "山水气数"
+    ],
+    "potential_evolution": "通过与陆地水运枢纽衔接，可成为移动的灵气节点 。"
+  },
+  "visual": {
+    "static": "外壁绘有彩绘女子或祥云图案，体型如空中巨兽 。",
+    "active": "航行时云雾缭绕，两侧彩带飘荡，破开云海时伴有雷鸣异象 。"
+  },
+  "provenance": {
+    "origin": "中土神洲玄密王朝，后在文庙议事期间流转至落魄山 。",
+    "karma_link": "是落魄山作为宗门立足桐叶洲并开启商贸路线的重要根基 。"
+  },
+  "enriched": true
+}

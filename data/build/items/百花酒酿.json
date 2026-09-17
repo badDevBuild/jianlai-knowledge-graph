@@ -1,0 +1,46 @@
+{
+  "name": "百花酒酿",
+  "original_name": "百花仙酿之醅 / 仙酿酒糟",
+  "type": "丹药",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "源自百花福地的顶级灵物，因其产量极低且涉及神祇往 来，被称为“神仙饮”。它是修补魂魄残缺、辅助突破瓶 颈的无价之宝 。",
+  "aliases": [
+    "百花酿"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第836章 火神求火",
+      "owner": "封姨"
+    }
+  ],
+  "subtype": "滋养类",
+  "holder": "陈平安 / 封姨",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "百花福地",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "蕴含百花精魄，若配合顶级灵泉酿造，可成“百日醉”级 别的仙酿 。",
+  "supernatural_ability": "饮用或服食后可滋养魂魄，祛除肉身燥气，是辅助练气 士进入“坐忘”境界的顶级辅材 。",
+  "evolution": {
+    "current_form": "粘稠的、散发浓郁花香的酒糟或酒酿基底。",
+    "materials_consumed": [
+      "百花精魄",
+      "万年土"
+    ],
+    "potential_evolution": "炼化后可作为大修士温养神魂的“本命药”。"
+  },
+  "visual": {
+    "static": "色泽如琥珀，晶莹剔透，香气经年不散 。",
+    "active": "开坛后灵气喷薄，可见百花盛开幻象，方圆百里香飘如 雨。"
+  },
+  "provenance": {
+    "origin": "百花福地特供中土文庙及幽冥地府的贡品 。",
+    "karma_link": "封姨曾以此酒赠予陈平安，助其在远游途中稳固神魂。"
+  },
+  "enriched": true
+}

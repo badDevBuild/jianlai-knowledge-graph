@@ -1,0 +1,46 @@
+{
+  "name": "黑白棋子与棋罐",
+  "original_name": "仙人对弈棋",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这对**黑白棋子**是远古仙人对弈所留，本身即是极佳的**修心工具**。棋子对魂魄的冷热冲击，能让 持有者在极端环境下保持灵台清明 。",
+  "aliases": [
+    "棋盘与棋罐"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第542章 羊肠小道，人人野修",
+      "owner": "黄师"
+    }
+  ],
+  "subtype": "磨砺类 / 阵法类",
+  "holder": "黄师",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "对坐手谈的枯死骸骨",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "棋盘为十七道，蕴含古老定式；棋子经受千百年浸润，已成大道之资 。",
+  "supernatural_ability": "白子滚烫如火，灼烧魂魄；黑子冰冷刺骨，冻结灵气 。",
+  "evolution": {
+    "current_form": "装在两罐中的黑白棋子 。",
+    "materials_consumed": [
+      "日月精华",
+      "山水清气"
+    ],
+    "potential_evolution": "若能配合特定的古老石桌，可演化为锁死光阴的恐怖阵法 。"
+  },
+  "visual": {
+    "static": "白子呈现淡淡金色，黑子心有碧绿光环，圆润如玉 。",
+    "active": "在棋盘上移动时会带起金、绿两色涟漪，气象万千 。"
+  },
+  "provenance": {
+    "origin": "发现于北俱芦洲一处仙府遗址的凉亭中 。",
+    "karma_link": "陈平安将其上残存的古老棋局记录下来，带回落魄山研究 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "桂叶香囊",
+  "original_name": "南苑国余愚园香囊",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是朱敛在藕花福地身为南苑国贵公子“朱南华”时的旧物。他在余愚园假山上堆砌名石，每年重阳节开 放给众人游览，事后假山上遗落的香囊不计其数，象征着他曾经倾倒众生的绝代风华 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第371章 正月",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "寄情/纪念类",
+  "holder": "未知（散落于南苑国京郊）",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "朱敛（朱南华）",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为纯粹武夫巅峰人物朱敛的旧物，承载了极重的众生情思与因果。",
+  "supernatural_ability": "本身并非攻伐重器，但承载了藕花福地一代风流人物的武运余晖与红尘意气 。",
+  "evolution": {
+    "current_form": "散落在余愚园假山上的香囊。",
+    "materials_consumed": [
+      "绸缎",
+      "香料"
+    ],
+    "potential_evolution": "若能被朱敛寻回并重新祭炼，可成为稳固神魂的灵器。"
+  },
+  "visual": {
+    "static": "形制精美的丝织香囊，绣工卓越，往往留有南苑国鼎盛时期的簪缨气象 。",
+    "active": "在月夜下散发淡淡幽香，引发旁人对往昔风流的追思 。"
+  },
+  "provenance": {
+    "origin": "源自南苑国京郊“余愚园”，由朱敛（朱南华）所设 。",
+    "karma_link": "见证了朱敛从“贵公子”到“武疯子”的身份转变，是福地因果的一部分 。"
+  },
+  "enriched": true
+}

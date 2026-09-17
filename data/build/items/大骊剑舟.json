@@ -1,0 +1,51 @@
+{
+  "name": "大骊剑舟",
+  "original_name": "丙丁剑舟",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是大骊军方的**战略重器**，是战场上妖族的噩梦 。原本归属大骊军伍，后被**崔东山**“截胡”作为下宗青萍剑宗的压舱重宝 。",
+  "aliases": [
+    "丙丁"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1072章 敬酒不吃吃罚酒",
+      "owner": "青萍剑宗"
+    },
+    {
+      "chapter": "第1171章 翻页的何止是游记",
+      "owner": "大骊王朝"
+    }
+  ],
+  "subtype": "攻伐/运输类",
+  "holder": "青萍剑宗 (借自落魄山)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊军方",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "通过墨家技术加固可提升定点清理范围 。",
+  "supernatural_ability": "能够在千里之外进行定点清理，飞剑齐射如暴雨降落大地 。",
+  "evolution": {
+    "current_form": "庞大的悬空战争平台，配备密集飞剑 。",
+    "materials_consumed": [
+      "神仙钱",
+      "飞剑",
+      "墨家机关部件"
+    ],
+    "potential_evolution": "多艘联手可形成覆盖千里的剑雨阵法 。"
+  },
+  "visual": {
+    "static": "体型巨大，如同一座移动的金属要塞，悬停于云海 。",
+    "active": "齐射时，数以万计的飞剑如磅礴暴雨，方圆数十里内一扫一大片 。"
+  },
+  "provenance": {
+    "origin": "大骊朝廷调集墨家、符师合力打造 。",
+    "karma_link": "绣虎崔瀺预留给陈平安的宗门贺礼 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "《上上玄玄集》",
+  "original_name": "雷法秘籍",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "隋景澄的修行根本。此书不仅传授雷法，更是一份古老道统的象征，且具备极强的排他性保护 。",
+  "aliases": [
+    "上上玄玄集"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第520章 久仰久仰",
+      "owner": "隋景澄"
+    }
+  ],
+  "subtype": "传承类 / 雷法类",
+  "holder": "隋景澄",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "世外高人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "分上、中、下三册，涵盖从入门到上五境的完整雷法修行路径 。",
+  "supernatural_ability": "带有文字禁制。非指定修行者翻阅，所见内容会如沙场战阵般瞬息万变、杂乱无序 。",
+  "evolution": {
+    "current_form": "光亮如新、由特殊材质制成的古篆小册子 。",
+    "materials_consumed": [
+      "文运精华",
+      "神识印记"
+    ],
+    "potential_evolution": "完整修成后可执掌高阶雷法神通 。"
+  },
+  "visual": {
+    "static": "书页质地非纸非帛，古色古香，字迹挺拔 。",
+    "active": "翻开时有宝光闪烁，文字内容在有缘人眼中井然有序 。"
+  },
+  "provenance": {
+    "origin": "高人赠予，配套金钗与竹衣使用 。",
+    "karma_link": "隋景澄仅凭上册自行参悟，即修成二境瓶颈，被誉为天纵奇才 。"
+  },
+  "enriched": true
+}

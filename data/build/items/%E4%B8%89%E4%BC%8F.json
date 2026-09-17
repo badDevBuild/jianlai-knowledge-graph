@@ -1,0 +1,42 @@
+{
+  "name": "三伏",
+  "original_name": "大伏",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "指代大伏书院所承载的“三伏天祈雨”法统。它象征了读书人“治学需精诚，祈雨救苍生”的功德，也是钟 魁施展各类劾鬼符箓的意境来源 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第915章 田垄上",
+      "owner": "蜀中暑"
+    },
+    {
+      "chapter": "第1182章 接任且接手",
+      "owner": "蜀中暑"
+    }
+  ],
+  "subtype": "气象类 / 意境类",
+  "holder": "大伏书院",
+  "holder_relation": "寄托",
+  "rank": "重器",
+  "rank_potential": "承载儒家书院文脉气运，具备引动一洲天时、祈雨降灵的潜力 。",
+  "supernatural_ability": "“天时感应”。与“求雨”功法契合，能在特定时节感应大江大河的灵气波动，压胜鬼魅 。",
+  "evolution": {
+    "current_form": "书院名号与节气意境的结合体 。",
+    "materials_consumed": [
+      "儒家浩然正气",
+      "一洲天时气数"
+    ],
+    "potential_evolution": "可演化为大伏书院镇压地脉、调理阴阳的法统核心 。"
+  },
+  "visual": {
+    "static": "表现为书院匾额及周边山水的肃穆气象，灵气随节气涨缩 。",
+    "active": "在三伏时节施展祈雨神通时，会引动磅礴的雷云气机，天垂文曜 。"
+  },
+  "provenance": {
+    "origin": "源自桐叶洲大伏书院的立教根基 。",
+    "karma_link": "与君子钟魁的道法神通密切相关，代表了儒家治水与镇邪的法脉 。"
+  },
+  "enriched": true
+}

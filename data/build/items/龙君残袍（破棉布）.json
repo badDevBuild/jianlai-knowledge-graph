@@ -1,0 +1,43 @@
+{
+  "name": "龙君残袍（破棉布）",
+  "original_name": "龙君灰袍残余",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "消耗",
+  "description": "虽然外表破旧，却是世间最顶尖的炼物材料之一。它代表了陈平安正式继承了某种来自远古的、被老大 剑仙认可的剑道法统 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第729章 人生好像一直在陋巷徘徊",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "鞘材/压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "龙君",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "炼化为剑鞘后，可完美承载并压制仙剑太白的剑意 。",
+  "supernatural_ability": "蕴含远古大剑仙龙君的身死明证与残余剑意，具有极强的锁剑与温养之能 。",
+  "evolution": {
+    "current_form": "一团灰白的、看似破烂的棉布 。",
+    "materials_consumed": [
+      "远古剑意"
+    ],
+    "potential_evolution": "将与太白剑尖合练，成为陈平安最重要的佩剑配件 。"
+  },
+  "visual": {
+    "static": "看起来极不起眼，如同一块陈旧的抹布，却散发出令地仙胆寒的煞气 。",
+    "active": "与剑尖共鸣时，会生发出如龙抬头般的峥嵘气象 。"
+  },
+  "provenance": {
+    "origin": "陈清都最后一剑斩杀龙君后，遗落城头的灰袍残余 。",
+    "karma_link": "见证了剑气长城三位古老剑仙跨越万年的恩怨落幕 。"
+  },
+  "enriched": true
+}

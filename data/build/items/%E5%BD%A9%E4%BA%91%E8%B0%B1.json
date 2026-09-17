@@ -1,0 +1,66 @@
+{
+  "name": "彩云谱",
+  "original_name": "白帝城棋谱",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是浩然天下最顶级的棋谱之一。它不仅是弈棋之术的总结，更是白帝城那一脉复杂算计与大道博弈的 体现 , 。",
+  "aliases": [
+    "《彩云谱》"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第383章 彩云局",
+      "owner": "卢白象"
+    },
+    {
+      "chapter": "第384章 下完棋抄完书",
+      "owner": "卢白象"
+    },
+    {
+      "chapter": "第600章 学生弟子去见先生师父",
+      "owner": "林君璧"
+    },
+    {
+      "chapter": "第607章 大师伯出剑，小师弟下棋",
+      "owner": "林君璧"
+    },
+    {
+      "chapter": "第608章 下棋坏道心，酒水辣肚肠",
+      "owner": "林君璧"
+    },
+    {
+      "chapter": "第609章 唯恐大梦一场",
+      "owner": "无"
+    }
+  ],
+  "subtype": "弈棋类 / 演算类",
+  "holder": "林君璧",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "郑居中",
+      "relation": "创造者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为白帝城城主郑居中亲自编撰的棋谱，蕴含天地万物演化之真意，是推演大势的至宝 。",
+  "supernatural_ability": "“算尽天机”。学习此谱者可难逢敌手，能在方寸棋盘之间模拟天下局势，辅助修士心神精进 , 。",
+  "evolution": {
+    "current_form": "一套纸质精良的棋道秘籍 。",
+    "materials_consumed": [
+      "中土神洲文运",
+      "彩云神意"
+    ],
+    "potential_evolution": "完全领悟后可协助修士建立稳固的心相世界，甚至窥探十四境关隘 。"
+  },
+  "visual": {
+    "static": "书页上密密麻麻记录了各种精妙绝伦的棋局先手定式与死活手 。",
+    "active": "研读时心神仿佛置身于彩云缭绕的白帝城中，与绝代高人隔空博弈 。"
+  },
+  "provenance": {
+    "origin": "由白帝城城主郑居中亲笔撰写，旨在汇总天下棋道 。",
+    "karma_link": "作为邵元王朝国师晁朴一脉的传承，被林君璧视为修行的重要助力 。"
+  },
+  "enriched": true
+}

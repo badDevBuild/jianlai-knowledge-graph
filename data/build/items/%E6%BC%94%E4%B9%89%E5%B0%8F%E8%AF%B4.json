@@ -1,0 +1,38 @@
+{
+  "name": "演义小说",
+  "original_name": "志怪神魔小说 / 稗官野史",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "在《剑来》中，小说不仅是娱乐，更是“人性”与“因果” 的缩影。陈平安等人的江湖事迹往往被编入此类书籍， 成为连接真实与虚幻的桥梁 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第836章 火神求火",
+      "owner": "宁姚"
+    }
+  ],
+  "subtype": "文化/因果类",
+  "holder": "朱敛 / 李槐 / 陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "若得儒家圣人点睛或小说家祖师加持，可演化为真实的 “文字幻境” 。",
+  "supernatural_ability": "记录人间离合，承载众生愿望。部分高级孤本可作为“ 活神仙”寄宿魂魄的载体 。",
+  "evolution": {
+    "current_form": "市井书肆中常见的刻本，纸张质地参差不齐。",
+    "materials_consumed": [
+      "笔墨纸张",
+      "世道人心"
+    ],
+    "potential_evolution": "可演化为类似《搜山录》的具备实战意义的图鉴典籍 。"
+  },
+  "visual": {
+    "static": "线装书籍，封面多为《山海志》或《刺客传》等名称 。",
+    "active": "研读时文字若隐若现，可引动读者的心猿意马，甚至化 为真实幻象。"
+  },
+  "provenance": {
+    "origin": "浩然天下小说家一脉的流传，广布于山下市井。",
+    "karma_link": "朱敛喜读此类书籍以体察人性，陈平安亦曾编写此类故 事以记录游历心路 。"
+  },
+  "enriched": true
+}

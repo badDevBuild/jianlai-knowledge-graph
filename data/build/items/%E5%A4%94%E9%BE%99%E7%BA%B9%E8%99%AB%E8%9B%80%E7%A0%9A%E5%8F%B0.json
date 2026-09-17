@@ -1,0 +1,52 @@
+{
+  "name": "夔龙纹虫蛀砚台",
+  "original_name": "夔龙古砚",
+  "type": "方寸物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件品相极佳的文房咫尺物。砚台不仅用于储物，其铭文更是显示了它在文字缘法上的特殊位阶， 是极具儒家风采的山上重器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第638章 代大匠斫者",
+      "owner": "郭竹酒(保管)"
+    },
+    {
+      "chapter": "第911章 来者何人",
+      "owner": "罗真意"
+    }
+  ],
+  "subtype": "空间类 / 压胜类",
+  "holder": "罗真意 (寄托)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    },
+    {
+      "name": "山水窟 (白溪)",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为具备空间属性的重宝，其内部文运可随持砚者的学问修持而愈发醇厚 。",
+  "supernatural_ability": "内部自成小天地，具备“云垂水立，文字缘深”之意境，可温养飞剑与神魂 。",
+  "evolution": {
+    "current_form": "一方古朴的、带有夔龙纹饰且呈现虫蛀美感的砚台 。",
+    "materials_consumed": [
+      "名家墨迹",
+      "山水灵气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "砚台造型古旧，边缘有自然的虫蛀痕迹，散发着陈年墨香 。",
+    "active": "激活时砚池内水气氤氲，隐约有龙影浮现，文字道韵如涟漪荡开 。"
+  },
+  "provenance": {
+    "origin": "陈平安在扶摇洲山水窟的瓦盆渡船上一役中，从元婴船主白溪处缴获 。",
+    "karma_link": "陈平安将其作为“隐官分赃”的额外收益，暂时交给落魄山剑修罗真意保管 。"
+  },
+  "enriched": true
+}

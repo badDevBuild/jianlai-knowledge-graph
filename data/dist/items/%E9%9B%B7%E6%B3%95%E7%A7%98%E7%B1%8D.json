@@ -1,0 +1,52 @@
+{
+  "name": "雷法秘籍",
+  "original_name": "《丹书真迹》/ 三山九侯道书",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是陈平安修行道路上的**符箓启蒙与巅峰载体**。虽 然他自谦不是专业符箓修士，但凭此书，他在战场上祭 出的“以量取胜”符阵足以让仙人侧目 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第877章 事多如牛毛",
+      "owner": "陈平安(撰写中)"
+    },
+    {
+      "chapter": "第1194章 君从故乡来",
+      "owner": "高冕 -> 臭椿道人 -> 梁爽"
+    }
+  ],
+  "subtype": "术法/符箓类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李槐",
+      "relation": "赠予者"
+    },
+    {
+      "name": "杨老头",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "若能补全被撕去的序文与残页，可直达三山九侯先生的 终极律令 。",
+  "supernatural_ability": "记载了“吾指一剑”穿墙术、三山符、锁剑符等顶尖雷法 与符箓变幻，能以凡人之躯驱使天地威能 , 。",
+  "evolution": {
+    "current_form": "一本材质非凡、带有金线捆系的残缺黄纸书籍 , 。",
+    "materials_consumed": [
+      "三山九侯真意",
+      "上古墨迹"
+    ],
+    "potential_evolution": "书中的一千两百个字皆可炼化为护山大阵的符胆 。"
+  },
+  "visual": {
+    "static": "书页泛黄，文字如有生命般微微跳动，透着一股肃杀之 气 。",
+    "active": "翻阅时耳边会有雷鸣，特定的符文可在空中显化为神灵 法相 。"
+  },
+  "provenance": {
+    "origin": "远古天下十豪候补之一三山九侯先生的真传 。",
+    "karma_link": "杨老头随手送给李槐，李槐在文庙雪中送炭赠予陈平安 ，助其在剑气长城大放异彩 , 。"
+  },
+  "enriched": true
+}

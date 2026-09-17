@@ -1,0 +1,46 @@
+{
+  "name": "金玉天书",
+  "original_name": "金玉书牒 / 碧色玉册",
+  "type": "典籍",
+  "grade": "秘籍",
+  "status": "活跃",
+  "description": "**金玉天书**在书中多指代记录顶尖修士大道进程的“金玉书牒” 。它不仅是珍贵的文献，更是衡量一洲气运与修道位格的标尺，常由文庙或岁除宫等顶尖势力保存 。",
+  "aliases": [
+    "仙家秘笈"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第317章 别人无敌当如何",
+      "owner": "俞真意"
+    }
+  ],
+  "subtype": "记录类 / 传承类",
+  "holder": "文庙 / 吴霜降",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "玄都观",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为承载大道真意的载体，其价值随记录内容的位格提升而增长 。",
+  "supernatural_ability": "**“因果录入”**。能够记录十四境及以上大修士的大道开篇与末尾内容 。其文字往往蕴含“金字道诀”，具备演化道脉的深远影响 。",
+  "evolution": {
+    "current_form": "记载重大因果的金玉书牒 。",
+    "materials_consumed": [
+      "碧色玉册",
+      "神仙金字"
+    ],
+    "potential_evolution": "可演化为支撑一宗法统的根本秘籍 。"
+  },
+  "visual": {
+    "static": "通常表现为质地极佳的玉册，散发着淡淡的宝光 。",
+    "active": "翻开时金光流溢，文字如龙蛇游走，甚至会显现天地异象 。"
+  },
+  "provenance": {
+    "origin": "源自远古道门传承，常被视为顶级宗门的“金科玉律” 。",
+    "karma_link": "与吴霜降的岁除宫及白玉京的道统记录紧密相关 。"
+  },
+  "enriched": true
+}

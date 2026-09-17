@@ -1,0 +1,43 @@
+{
+  "name": "群螭钮玉雕山子",
+  "original_name": "无",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "锁云宗门房修士的本命物。这件玉山子雕刻有六条螭龙，施展时需配合修士精血点睛，可幻化出螭龙进 行战斗，但曾被陈平安以言语敕令压制 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第812章 登山",
+      "owner": "锁云宗门房"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "锁云宗门房修士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "锁云宗",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "未知",
+  "supernatural_ability": "通过秘法点睛，可以显化出六条螭龙扑杀敌人 。",
+  "evolution": {
+    "current_form": "雕刻有六条螭龙的玉山子",
+    "materials_consumed": [
+      "修士精血"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "群螭钮的玉雕山子 。",
+    "active": "被点睛后发出亮光，黄色小螭抬头摆尾，离开玉山子形态 。"
+  },
+  "provenance": {
+    "origin": "锁云宗祖传宝物",
+    "karma_link": "由锁云宗门房修士持有，在陈平安登山时曾被祭出"
+  },
+  "enriched": true
+}

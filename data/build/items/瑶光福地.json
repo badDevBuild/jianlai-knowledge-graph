@@ -1,0 +1,52 @@
+{
+  "name": "瑶光福地",
+  "original_name": "仙簪城武库 / 坠地星辰",
+  "type": "其他",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "瑶光福地是仙簪城的命脉，支撑其成为蛮荒第一高城及 武库。陈平安的这一夺取举动彻底断绝了仙簪城的资源 来源 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第858章 拔河",
+      "owner": "陈平安 (原属仙簪城)"
+    }
+  ],
+  "subtype": "秘境/资源类",
+  "holder": "中土文庙",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "归灵湘",
+      "relation": "原主"
+    },
+    {
+      "name": "仙簪城",
+      "relation": "曾持有"
+    },
+    {
+      "name": "陈平安 / 陆沉",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为顶级资源产地，其内部星辰之力可源源不断供应法 宝炼制 。",
+  "supernatural_ability": "蛮荒天下“天下武库”的根源，产出极高品阶的兵器材质 。",
+  "evolution": {
+    "current_form": "被陈平安与陆沉收入囊中的上等福地 。",
+    "materials_consumed": [
+      "星辰本源",
+      "仙人道韵"
+    ],
+    "potential_evolution": "可作为构建跨天下商贸体系的核心资源节点 。"
+  },
+  "visual": {
+    "static": "常人难以窥探，在识海或地图中表现为一粒极其璀璨的 星点 。",
+    "active": "福地开启时，内部紫气升腾，宝光映照万里，如同仙境 。"
+  },
+  "provenance": {
+    "origin": "由仙簪城开山祖师归灵湘发现并命名 。",
+    "karma_link": "被陈平安献给文庙，用以换取在青冥天下自由行走的特 权 。"
+  },
+  "enriched": true
+}

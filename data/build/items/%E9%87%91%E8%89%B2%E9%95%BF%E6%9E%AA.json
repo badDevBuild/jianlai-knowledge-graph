@@ -1,0 +1,49 @@
+{
+  "name": "金色长枪",
+  "original_name": "破阵 / 神灵骸骨枪",
+  "type": "重器",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "兵家初祖姜赦的贴身神兵。其材质极其坚韧，是世间攻 坚破阵的第一利器 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第862章 后手",
+      "owner": "元凶"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "姜赦",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古神灵",
+      "relation": "原主"
+    },
+    {
+      "name": "鱼符王朝藕神祠",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "随持枪者武道境界升至十一境，可发挥出毁天灭地的战 阵威能 。",
+  "supernatural_ability": "长枪由远古神灵尸骸炼化，蕴含极强的雷法神意 ；能一枪洞穿小天地屏障 。",
+  "evolution": {
+    "current_form": "带有鎏金刻纹的长枪，枪尖常伴有雷鸣声 。",
+    "materials_consumed": [
+      "神灵金身",
+      "荧惑火精",
+      "光阴流水"
+    ],
+    "potential_evolution": "可作为兵家祖庭的镇压之物，象征天下兵戈之最 。"
+  },
+  "visual": {
+    "static": "枪身满刻符文，即便静止也散发出极强的威压 。",
+    "active": "掷出后化作一道笔直金光，去势如长虹贯日，雷电相随 。"
+  },
+  "provenance": {
+    "origin": "远古时代针对高位神灵打造的惩戒神兵 。",
+    "karma_link": "与姜赦的兵家道统紧密相连，曾作为镇压之物供奉于藕 神祠 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "玉手镯",
+  "original_name": "火龙手镯",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "该手镯不仅是一件法宝，更是火神转世阮秀的身份象征 。它内部蕴含的火龙灵智已趋于成熟，是能够震慑一洲水运的存在 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第723章 一洲涸泽而渔",
+      "owner": "李宝瓶"
+    }
+  ],
+  "subtype": "攻伐类 / 守护类",
+  "holder": "阮秀",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "杨老头",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古至高神灵火神的本命神性载体，具有近乎无限的破坏力与成长上限 。",
+  "supernatural_ability": "**“火龙走水”**。镯内栖息着一条沉睡的火龙，可瞬间显化出吞噬山川的漫天大火 。具备自动护主功能，在危机时刻会释放火龙真身 。",
+  "evolution": {
+    "current_form": "一只鲜红如火、形若龙衔尾的玉手镯 。",
+    "materials_consumed": [
+      "骊珠洞天窑火精华",
+      "火神本命神性"
+    ],
+    "potential_evolution": "火龙完全苏醒后可重构火部神道，成为焚山煮海的至高神器 。"
+  },
+  "visual": {
+    "static": "质地通透，色泽艳红，形如一条小龙咬住尾巴圈在手腕上 。",
+    "active": "激发时整只手镯会泛起流萤般的红光，甚至能化作一条真实的小火龙在手腕上游走呼吸 。"
+  },
+  "provenance": {
+    "origin": "阮秀在小镇溪畔铁匠铺打铁时，由漫天火星凝聚而成的“天成”之物 。",
+    "karma_link": "实为远古火神神性的重要机缘，是骊珠洞天五大绝世机缘之一 。"
+  },
+  "enriched": true
+}

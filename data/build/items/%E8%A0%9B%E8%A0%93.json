@@ -1,0 +1,50 @@
+{
+  "name": "蠛蠓",
+  "original_name": "小墨蛟",
+  "type": "灵物",
+  "grade": "灵宝",
+  "status": "活跃",
+  "description": "一种极其罕见的水属灵物，因其在大道根脚上与墨蛟有 渊源，被修行水法的修士视为珍宝 。",
+  "aliases": [
+    "小墨蛟"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第815章 月色",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "伴生/滋养类",
+  "holder": "泓下 / 云子",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "邵敬芝",
+      "relation": "赠予者"
+    },
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为水属灵物，在灵气充沛的水域长期豢养可有助于提 升水府水运 。",
+  "supernatural_ability": "别称“小墨蛟”，天生亲近水脉，能聚拢水运精华 。",
+  "evolution": {
+    "current_form": "细微的水属灵虫 。",
+    "materials_consumed": [
+      "大渎水运",
+      "灵气"
+    ],
+    "potential_evolution": "若能成功化形，有望进化为真正的墨蛟 。"
+  },
+  "visual": {
+    "static": "形似细小的黑色飞虫 。",
+    "active": "在水中游弋时呈现出蛟龙之姿，身形灵动 。"
+  },
+  "provenance": {
+    "origin": "源自水龙宗南宗邵敬芝的收藏 。",
+    "karma_link": "由邵敬芝赠予陈平安，后陈平安计划转赠给落魄山的泓 下与云子 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "竹柄油纸伞",
+  "original_name": "桐叶伞 / 遮蔽天机伞",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这把伞代表了齐静春对陈平安最后的守护。在诸多险峻之地，这把伞不仅遮雨，更遮挡了来自上界大能 的恶意窥探。 , , ,",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第550章 可惜下雨不下钱",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "遮蔽/辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "齐静春 / 老道人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "若由剑灵或大修士携带，能在一洲范围内彻底屏蔽天机。",
+  "supernatural_ability": "撑开后能遮蔽持有者的气机，使三教圣人和高阶修士无法推演其踪迹。",
+  "evolution": {
+    "current_form": "普通样式的竹柄油纸伞。",
+    "materials_consumed": [
+      "远古桐叶",
+      "圣人道意"
+    ],
+    "potential_evolution": "与“笼中雀”结合，可作为移动的小天地出口。"
+  },
+  "visual": {
+    "static": "看上去就是一把饱经风霜、普普通通的陈旧雨伞。",
+    "active": "在大雨或阴冥路径中撑开，伞面下自成一片清凉净土，雨水不侵。"
+  },
+  "provenance": {
+    "origin": "由齐静春从莲花洞天求得，具有遮蔽天象之功。",
+    "karma_link": "用于保护剑灵姐姐不被外界察觉，是陈平安早期保命的重器。"
+  },
+  "enriched": true
+}

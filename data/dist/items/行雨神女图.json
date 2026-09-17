@@ -1,0 +1,48 @@
+{
+  "name": "行雨神女图",
+  "original_name": "壁画城神女图之一",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "壁画城九位神女图之一，主掌行云布雨之事。神女“书始”精于弈棋，曾与特定机缘者定下甲子之约 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第486章 不愧是老江湖",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "水法类",
+  "holder": "李柳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "骸骨滩壁画城",
+      "relation": "原主"
+    },
+    {
+      "name": "杨凝性 (杨木茂)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "神女名为“书始”，具有极高的弈棋天赋与水法造诣 。",
+  "supernatural_ability": "手托白玉碗，碗内有金色蛟龙游曳，具备极强的水法敕令能力 。",
+  "evolution": {
+    "current_form": "廊填本画卷 。",
+    "materials_consumed": [
+      "大渎水运",
+      "灵气"
+    ],
+    "potential_evolution": "神女“书始”已离开壁画，与主人结下深厚因果 。"
+  },
+  "visual": {
+    "static": "画中神女手托白玉碗，微微倾斜 。",
+    "active": "碗中波光粼粼，金光溢彩，显化出蛟龙布雨的宏大异象 。"
+  },
+  "provenance": {
+    "origin": "北俱芦洲骸骨滩壁画城 。",
+    "karma_link": "杨凝性在鬼蜮谷获得其认可，后因故转投李柳 。"
+  },
+  "enriched": true
+}

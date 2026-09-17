@@ -1,0 +1,44 @@
+{
+  "name": "熹平石经抄本",
+  "original_name": "熹平手抄本",
+  "type": "典籍",
+  "grade": "珍品",
+  "status": "活跃",
+  "description": "这是中土文庙核心经典的副本。虽然只是抄本，却因其 内容之神圣与抄录者之用心，具备了不俗的仙家气象 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第805章 白衣与青衫",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "儒家经义/文房类",
+  "holder": "陈平安 / 张山峰",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "火龙真人",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "受山主文气滋养，有机会孕育出文灵或墨精 。",
+  "supernatural_ability": "具有极高的文气密度，可用于辅助读书人诚意正心，打 下坚实的文脉底子 。",
+  "evolution": {
+    "current_form": "由经生或高人亲笔临摹的纸本卷轴 。",
+    "materials_consumed": [
+      "开花纸",
+      "名家笔墨"
+    ],
+    "potential_evolution": "可炼化为镇压宗门书院小天地的阵眼 。"
+  },
+  "visual": {
+    "static": "字迹工整规矩，纸张质地非凡，透着一股沉稳的墨香 。",
+    "active": "翻阅时文字隐约有金光闪烁，与天地浩然气相互感召 。"
+  },
+  "provenance": {
+    "origin": "火龙真人通过买卖手段从中土文庙获得 。",
+    "karma_link": "见证了火龙真人与陈平安师徒间的深厚情谊 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "金箓",
+  "original_name": "箓牒真卷 / 三洞金文总真仙简",
+  "type": "符箓",
+  "grade": "半仙兵",
+  "status": "消耗",
+  "description": "捻芯手中两件压箱底的仙家重宝之一。它记载了三洞金文与众多神仙真形，不仅是修行秘籍，更是能真 正干预阴阳、敕令神鬼的至高法物。",
+  "aliases": [
+    "金箓玉册"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第676章 终于远游境",
+      "owner": "捻芯 (用在陈平安身上)"
+    }
+  ],
+  "subtype": "传承类 / 阵法类",
+  "holder": "捻芯",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "龙虎山大天师",
+      "relation": "曾持有"
+    },
+    {
+      "name": "某古王朝皇后",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "蕴含龙虎山大天师亲笔书写的“道法与天长存”真意，具备封署山岳、检劾三界的极致威能。",
+  "supernatural_ability": "包含六十一位神仙画像及总真仙简，可供缝衣人剥取符箓文字，将其铭刻于修士骨骼肌肤之上。",
+  "evolution": {
+    "current_form": "长达丈余、金光溢彩的符箓长卷。",
+    "materials_consumed": [
+      "神道真意",
+      "文运精华"
+    ],
+    "potential_evolution": "文字与符箓悉数剥离后，可转化为承载一方天地神位的基石。"
+  },
+  "visual": {
+    "static": "全卷展开后气象宏大，云篆文字闪烁，神仙画像栩栩如生。",
+    "active": "激发时会散发出如雷鸣般的神道震慑，符纸表面灵光流转如大江大河。"
+  },
+  "provenance": {
+    "origin": "中土神洲古王朝与龙虎山天师府。",
+    "karma_link": "缝衣人捻芯的道缘所在，也是其为陈平安实施“缝衣”手术的核心工具。"
+  },
+  "enriched": true
+}

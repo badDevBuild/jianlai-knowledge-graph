@@ -1,0 +1,48 @@
+{
+  "name": "幽绿色长绳",
+  "original_name": "仿白玉京二楼飞剑",
+  "type": "仙剑",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "此剑供奉于大骊仿白玉京第二层，是大骊王朝震慑四方的重器。 其独特的幽绿材质和柳叶形态使其在十二剑中极具辨识度，拥有卓越的困敌与干扰功能。,",
+  "aliases": [
+    "江水飞剑",
+    "碧绿细绳飞剑",
+    "幽绿色长绳"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第185章 剑胚在手心",
+      "owner": "曹曦"
+    }
+  ],
+  "subtype": "攻伐/困敌类",
+  "holder": "宋集薪",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊宋氏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为大骊仿白玉京十二飞剑之一，若完全炼化可镇压一洲气运。",
+  "supernatural_ability": "能够随心变幻形态，如绿水流淌般柔韧，亦可化为**扭曲绳索**形态，用以拘禁或截留光阴。,",
+  "evolution": {
+    "current_form": "悬停于白玉京二楼的纤细飞剑。",
+    "materials_consumed": [
+      "大骊国运",
+      "远古剑意"
+    ],
+    "potential_evolution": "与十二剑合一，构成斩杀上五境修士的绝强杀阵。"
+  },
+  "visual": {
+    "static": "通体呈现晶莹剔透的**幽绿颜色**，剑身纤细如初春柳叶。",
+    "active": "激发时楼内如绿水缓缓流淌，飞剑可化为光彩夺目的金色绳索，甚至显化法衣阻拦敌寇。,"
+  },
+  "provenance": {
+    "origin": "大骊王朝倾尽半国之力打造的镇国重器之一。",
+    "karma_link": "象征大骊王朝的武力巅峰，但在飞升变故中曾一度失去心神牵连。"
+  },
+  "enriched": true
+}

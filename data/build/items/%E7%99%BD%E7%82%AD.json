@@ -1,0 +1,37 @@
+{
+  "name": "白炭",
+  "original_name": "上好木炭 / 白银炭",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是大隋京城或寒冷地带修行的必备生活物资 。在《剑来》中，它象征着山下烟火与山上清修的交 集，见证了李槐对长辈朴素的孝心 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第967章 不是第二个余斗",
+      "owner": "钱猴儿"
+    }
+  ],
+  "subtype": "生活类",
+  "holder": "李槐",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "作为高山寺庙或富贵门庭的取暖消耗品，能够承载微弱 的灵气 。",
+  "supernatural_ability": "燃烧时烟雾稀少，具有宁神之效，常用于高海拔或酷寒 之地的修行场所 。",
+  "evolution": {
+    "current_form": "质地坚硬、断面带有金属光泽的优质木炭 。",
+    "materials_consumed": [
+      "山中老木"
+    ],
+    "potential_evolution": "若经炼丹炉淬炼，可作为炼制特定丹药的药引 。"
+  },
+  "visual": {
+    "static": "色泽银白或乌黑，敲击有金石声，触手冷硬 。",
+    "active": "燃烧时火光纯净，散发出的热量持久且温和 。"
+  },
+  "provenance": {
+    "origin": "多产自地理位置险峻的深山，由樵夫砍柴烧制而成 。",
+    "karma_link": "李槐曾在游历途中购买一大袋以此照顾杨老头的冬日生 活 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,47 @@
+{
+  "name": "竹席",
+  "original_name": "灵芝青竹席",
+  "type": "灵器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安从梅花园子“捡漏”获得的宝物。它能显著提升水属性灵气的炼化速度，不仅能解忧，更是修 补修士人身小天地脉络的绝佳法宝。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第675章 承载真名",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "酡颜夫人",
+      "relation": "原主"
+    },
+    {
+      "name": "梅花园子",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽被视为灵器，但因选材自青神山青竹，其辅助修行的上限极高。",
+  "supernatural_ability": "帮助修道之人凝神静气，加速炼化水运精华，并能滋润修士体内的“木宅”气府。",
+  "evolution": {
+    "current_form": "材质翠绿、编织精细的凉席。",
+    "materials_consumed": [
+      "水运灵气"
+    ],
+    "potential_evolution": "随长期温养可演化为具有静心压胜效果的修行道场核心。"
+  },
+  "visual": {
+    "static": "色泽翠绿如新，触感沁凉，散发出淡淡的竹香。",
+    "active": "当修士落座，会引导周围灵气形成细微的水流脉络，环绕周身。"
+  },
+  "provenance": {
+    "origin": "倒悬山四大私宅之一的梅花园子。",
+    "karma_link": "陈平安在倒悬山所得，是落魄山“家底”中极其重要的修行辅助工具。"
+  },
+  "enriched": true
+}

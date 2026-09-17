@@ -1,0 +1,44 @@
+{
+  "name": "熹平经文",
+  "original_name": "熹平石经文字",
+  "type": "典籍",
+  "grade": "珍品",
+  "status": "活跃",
+  "description": "这是浩然天下儒家道统的具象化，承载着圣贤的教化之 功。无论是石刻原件还是经生抄本，皆是文人眼中无上 的精神寄托 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第804章 一笑抚青萍",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "儒家经义/气运类",
+  "holder": "文庙 / 经生熹平",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "儒家先贤",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随着儒家文运的回流，可演化为镇压一洲气运的礼器 。",
+  "supernatural_ability": "蕴含极其浓郁的浩然气与文运，可定人心神，压制外道 邪祟 。",
+  "evolution": {
+    "current_form": "刻于石经之上的神圣文字，亦有经生抄录的副本 。",
+    "materials_consumed": [
+      "天地文运",
+      "圣贤道意"
+    ],
+    "potential_evolution": "文字可离石化形，形成覆盖山河的文字长河阵法 。"
+  },
+  "visual": {
+    "static": "法度严谨，神意极长，字里行间透出金石之气 。",
+    "active": "文字在纸上或石上自行流转，灵光熠熠，可引起天地共 鸣 。"
+  },
+  "provenance": {
+    "origin": "源自中土文庙熹平石经 。",
+    "karma_link": "陈平安通过研习此类经文，补全了自身的儒家修行脉络 。"
+  },
+  "enriched": true
+}

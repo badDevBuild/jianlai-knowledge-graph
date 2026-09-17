@@ -1,0 +1,46 @@
+{
+  "name": "淡金色耳环",
+  "original_name": "魏檗的金色圆环",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是北岳神君魏檗最具辨识度的视觉符号之一。作为宝瓶洲首位上五境神祇，这枚耳环不仅是装饰，更 是他法相威严的一部分 。",
+  "aliases": [
+    "淡金色耳环"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第103章 竹楼",
+      "owner": "魏檗"
+    }
+  ],
+  "subtype": "饰品类 / 身份类",
+  "holder": "魏檗",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "神水国皇室 (推测)",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为上五境山君的金身点缀，承载了一洲北岳的权柄与山水气运 。",
+  "supernatural_ability": "“神威加持”。能够稳固持有者的神灵金身，在北岳辖境之内提供额外的灵气调动权限 。",
+  "evolution": {
+    "current_form": "一枚垂挂在魏檗耳际的淡金色圆环 。",
+    "materials_consumed": [
+      "中土神金",
+      "北岳香火精华"
+    ],
+    "potential_evolution": "随魏檗跻身仙人境，该耳环可进一步演化为镇压山根的礼器 。"
+  },
+  "visual": {
+    "static": "质地细腻的金色圆环，光泽柔和而内敛 。",
+    "active": "当魏檗施展山君大阵或巡视辖境时，耳环会绽放出明亮的金光，映衬其“月下谪仙”的形象 。"
+  },
+  "provenance": {
+    "origin": "魏檗作为大骊北岳正神、披云山之主的随身饰物 。",
+    "karma_link": "是魏檗身份的标志，象征其从落魄土地公到一洲山君的转变 。"
+  },
+  "enriched": true
+}

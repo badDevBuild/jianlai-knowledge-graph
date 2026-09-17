@@ -1,0 +1,37 @@
+{
+  "name": "风雨符",
+  "original_name": "风雨符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "风雨符是陈平安在处于巅峰道法状态下绘制的一批高品级符箓之一。它不同于寻常的攻伐符箓，专门用 于远距离的声息捕捉与气机监测，是陈平安在后期谋划局势、应对强敌时的重要情报来源 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第903章 天地孤鹤",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "侦查类 / 监控类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为陈平安凭借十四境道法绘制的符箓，具备跨越空间监控山河的顶级侦察潜力 。",
+  "supernatural_ability": "能够感知并听取远方特定区域的对话与动静。例如陈平安曾凭此符隔空听到小龙湫仙人的质问 。",
+  "evolution": {
+    "current_form": "隐蔽性极强的侦查符箓 。",
+    "materials_consumed": [
+      "十四境借取道法"
+    ],
+    "potential_evolution": "可配合多种剑符形成连锁监控阵法 。"
+  },
+  "visual": {
+    "static": "符文繁复，隐约有风雨流转之意 。",
+    "active": "激发后气机极度内敛，如同细微涟漪融入虚空，极难被察觉 。"
+  },
+  "provenance": {
+    "origin": "陈平安在借取陆沉十四境道法期间，于游历宝瓶洲山水间亲自绘制 。",
+    "karma_link": "属于陈平安“物尽其用”绘制的压箱底符箓之一，常用于掌控复杂战局 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,70 @@
+{
+  "name": "斗量",
+  "original_name": "金黄养剑葫",
+  "type": "方寸物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "天地间最顶尖的七枚养剑葫之一。它不以杀伐见长，却以承载万物、统御水族著称，是神道气运的重要 载体 。",
+  "aliases": [
+    "姜壶"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第333章 螺蛳壳里有道场",
+      "owner": "小道童"
+    },
+    {
+      "chapter": "第699章 天下第一人",
+      "owner": "烧火小道童"
+    },
+    {
+      "chapter": "第932章 吾为东道主（中）",
+      "owner": "东海观道观老观主"
+    },
+    {
+      "chapter": "第947章 高处",
+      "owner": "烧火小道童"
+    },
+    {
+      "chapter": "第981章 后生可畏",
+      "owner": "碧霄洞主烧火童子"
+    }
+  ],
+  "subtype": "温养/捕获类",
+  "holder": "李柳",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "东海观道观小道童",
+      "relation": "曾持有"
+    },
+    {
+      "name": "东海观道观老观主",
+      "relation": "曾持有"
+    },
+    {
+      "name": "道祖",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道祖亲手种植的七枚养剑葫之一，具备承载一洲水运与捕捉天下蛟龙的至高权能 。",
+  "supernatural_ability": "内部装有海量东海之水，曾导致东海水面下降数尺；具备极强的捕蛟、养蛟神通 。",
+  "evolution": {
+    "current_form": "背在小道童身后的巨大金黄葫芦 。",
+    "materials_consumed": [
+      "东海之水",
+      "蛟龙之属"
+    ],
+    "potential_evolution": "作为天地间最珍稀的七枚养剑葫之一，最终将作为水德大道的载体交给李柳 。"
+  },
+  "visual": {
+    "static": "巨大的金黄色葫芦，气象宏大 。",
+    "active": "展现“海水不可斗量”之威，内里气象万千，可养千百蛟龙 。"
+  },
+  "provenance": {
+    "origin": "道祖飞升前亲手栽种的一串葫芦藤 。",
+    "karma_link": "由老观主带至青冥天下，后通过中土文庙等脉络转交给李柳 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "霜蛟",
+  "original_name": "霜蛟",
+  "type": "仙剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**霜蛟**是郦采的佩剑。在原本的佩剑因战事毁损后，她从浮萍剑湖宝库中取出此剑继续厮杀。虽为备 用，其品秩亦是不折不扣的**仙兵** , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第508章 好人小姑娘",
+      "owner": "郦采"
+    },
+    {
+      "chapter": "第684章 天上月",
+      "owner": "郦采"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "郦采",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "浮萍剑湖祖师",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "浮萍剑湖的宗门重宝，具备极高的法理位阶 。",
+  "supernatural_ability": "剑意森寒，如霜降大地，对水属或妖族修士具有天然的威慑力 。",
+  "evolution": {
+    "current_form": "长剑",
+    "materials_consumed": [
+      "万年冰精",
+      "蛟龙精魂"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "剑身清亮，透着丝丝寒气 。",
+    "active": "挥动时如有霜雪随剑而生，剑气如长蛟横空 。"
+  },
+  "provenance": {
+    "origin": "出自北俱芦洲浮萍剑湖 。",
+    "karma_link": "郦采在失去原先佩剑后，从宗门宝库中取出的备用神兵 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,50 @@
+{
+  "name": "五色缚妖索",
+  "original_name": "老蛟龙须缚妖索",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "陈平安极其依赖的**控制类重宝** 。它利用老蛟龙须天生对走卒类妖族的威压，配合道门秘传口诀，成为了他在书简湖和北俱芦洲行走 的重要依仗 , 。",
+  "aliases": [
+    "缚妖索"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第289章 千里送人头",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "束缚类/压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "元婴老蛟",
+      "relation": "原主"
+    },
+    {
+      "name": "张禄",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "由元婴境老蛟长须制成，具备压胜绝大多数中五境及以下水族的能力 , 。",
+  "supernatural_ability": "能够自动束缚**中五境及以下妖族**，使其难逃脱身；虽对金丹元婴地仙效果有限，但依然能造成极大 的干扰 。",
+  "evolution": {
+    "current_form": "金色长绳，由两根纠缠在一起的金色龙须炼制而成 , 。",
+    "materials_consumed": [
+      "元婴老蛟龙须",
+      "道门青词云纹"
+    ],
+    "potential_evolution": "若能融入真龙之须，可进化为仙兵品秩的“斩龙索” 。"
+  },
+  "visual": {
+    "static": "色泽金灿，质地坚韧，呈现出天然的龙鳞纹路 。",
+    "active": "祭出后如金龙游走，能够无视一般阵法禁制直接锁定目标 , 。"
+  },
+  "provenance": {
+    "origin": "由剑修左右斩杀蛟龙沟元婴老蛟后所得，由张禄请倒悬山高人代为炼制 , , 。",
+    "karma_link": "见证了陈平安在蛟龙沟与老龙城的生死历练 。"
+  },
+  "enriched": true
+}

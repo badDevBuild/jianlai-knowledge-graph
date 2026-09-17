@@ -1,0 +1,38 @@
+{
+  "name": "银子（河龙）",
+  "original_name": "河龙 / 银鲤 / 水龙",
+  "type": "货币",
+  "grade": "灵物",
+  "status": "消耗",
+  "description": "这种生物并非寻常鱼类，而是受龙气滋养而成的灵物， 每一只都代表了一份潜在的水道造化 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1010章 谁不是黄雀",
+      "owner": "无"
+    }
+  ],
+  "subtype": "灵物/资源类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "剥下的珠子和鳞片是顶级的炼物材料，本身也有化蛟可 能 。",
+  "supernatural_ability": "由于受龙气浸染，体型虽小却能吞吐灵气，能作为开辟 水府的“引子” 。",
+  "evolution": {
+    "current_form": "长约两指、鱼身龙首的袖珍生物 。",
+    "materials_consumed": [
+      "大渎水运",
+      "月华精华"
+    ],
+    "potential_evolution": "可成长为守护水府的“水仙”或化形为蛟 。"
+  },
+  "visual": {
+    "static": "鱼鳞灿灿，色泽由青黑转为金色，带有微弱的龙威 。",
+    "active": "游动时会随云升空，在暴雨中若隐若现 。"
+  },
+  "provenance": {
+    "origin": "产自埋河、龙须河等具有龙脉潜质的水域 。",
+    "karma_link": "见证了陈平安走渎与收集灵气的过程，是水路商贸的硬 通货 。"
+  },
+  "enriched": true
+}

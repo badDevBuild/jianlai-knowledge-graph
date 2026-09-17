@@ -1,0 +1,65 @@
+{
+  "name": "麦芒",
+  "original_name": "麦芒",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "与“针尖”并称的双生飞剑之一。它的攻击方式更为隐蔽，常在对手察觉之前就已经完成了一切布置 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第268章 人间万事细如毛",
+      "owner": "喜爱红妆的男子"
+    },
+    {
+      "chapter": "第286章 对坐观人，自己知道",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第291章 山上山下",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第295章 远望",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第297章 出拳",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第299章 人间无趣，不如不来",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第300章 江湖险恶",
+      "owner": "陆台"
+    },
+    {
+      "chapter": "第301章 伤心",
+      "owner": "陆台"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陆台",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "随持有者陆台的“梦游”修行，可不断增强对虚实因果的斩切能力 。",
+  "supernatural_ability": "隐蔽且诡谲，能在极小范围内进行高频跳跃，甚至能无视光阴长河的阻滞进行取物 。",
+  "evolution": {
+    "current_form": "如麦穗之芒般细小的飞剑 。",
+    "materials_consumed": [
+      "先天剑气"
+    ],
+    "potential_evolution": "进化为能够斩断一切因果丝线的神兵。"
+  },
+  "visual": {
+    "static": "极细、极小，藏于气府或法宝中，难以被察觉 。",
+    "active": "运动态时化为幽暗的丝线或流萤，甚至能割裂空间产生微小的虚空裂缝 。"
+  },
+  "provenance": {
+    "origin": "陆台的先天本命飞剑 。",
+    "karma_link": "因陆台本人有恐高症，这两把飞剑即便威力巨大，也很少在高空御风远游 。"
+  },
+  "enriched": true
+}

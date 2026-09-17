@@ -1,0 +1,48 @@
+{
+  "name": "琵琶",
+  "original_name": "京观 / 神官琵琶",
+  "type": "法宝",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这不仅是一件乐器，更是恐怖的杀人利器。在《剑来》中，琵琶常与“梦魇”和“光阴剥离”联系在一起， 是蛮荒妖族针对浩然剑修的重要手段 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第327章 丢出观道观",
+      "owner": "蒋泉"
+    },
+    {
+      "chapter": "第1156章 天公作美",
+      "owner": "周乎"
+    }
+  ],
+  "subtype": "乐器类 / 攻伐类",
+  "holder": "子午梦 (春宵)",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "仰止",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为蛮荒王座大妖的伴生法宝，具有通过摄取剑气升华为仙兵的潜质 。",
+  "supernatural_ability": "“光阴悬停”。琵琶声可编织梦境，将修士神魂拘押在虚幻的光阴中 。其弦能承载精粹剑意，甚至可以反制飞剑 。",
+  "evolution": {
+    "current_form": "斜背在女子琴师身后的琴囊内 。",
+    "materials_consumed": [
+      "战场魂魄",
+      "光阴流水"
+    ],
+    "potential_evolution": "可配合“无定河”神通，化作埋葬神仙的“京观” 。"
+  },
+  "visual": {
+    "static": "琴腹刻有繁密铭文，通常由身姿婀娜的傀儡侍女怀抱 。",
+    "active": "弹奏时会出现无数吊死鬼悬空的森然景象，伴随刺耳的呜咽声 。"
+  },
+  "provenance": {
+    "origin": "产自蛮荒天下，深受王座大妖仰止青睐 。",
+    "karma_link": "见证了蛮荒天干修士在桐叶洲的潜伏与杀戮 , 。"
+  },
+  "enriched": true
+}

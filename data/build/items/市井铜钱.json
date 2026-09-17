@@ -1,0 +1,42 @@
+{
+  "name": "市井铜钱",
+  "original_name": "天华元宝 / 官钱",
+  "type": "货币",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "**市井铜钱是《剑来》中划分山上与山下的关键分水岭** 。它体现了陈平安即便登顶山巅，依然不忘初心、锱铢必较的人间本 色 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第476章 江清月近人",
+      "owner": "朱衣童子"
+    },
+    {
+      "chapter": "第1087章 复仇是一场独饮",
+      "owner": "蒲柳"
+    }
+  ],
+  "subtype": "交易类",
+  "holder": "山下百姓 / 陈平安",
+  "holder_relation": "持有",
+  "rank": "其他",
+  "rank_potential": "虽不含灵气，但在文庙圣贤笔下可作为镇压气运的“祖钱”引子 。",
+  "supernatural_ability": "无直接神通，但承载了最浓郁的人间烟火气和众生愿力 。",
+  "evolution": {
+    "current_form": "圆形方孔，表面有年号和督造印记的金属钱币 。",
+    "materials_consumed": [
+      "黄铜",
+      "百姓汗水"
+    ],
+    "potential_evolution": "可由大修士炼制为压胜邪祟的“金精钱”仿品 。"
+  },
+  "visual": {
+    "static": "质地坚硬，边缘多有磨损，带有淡淡的金属腥气 。",
+    "active": "成千上万枚堆叠在一起时，能产生微弱的红尘之火，压制低阶阴物 。"
+  },
+  "provenance": {
+    "origin": "产自大骊或大隋王朝各地的铸钱局 。",
+    "karma_link": "陈平安年幼时在泥瓶巷艰辛讨生活的核心支撑，代表其“实惠”的价值观 。"
+  },
+  "enriched": true
+}

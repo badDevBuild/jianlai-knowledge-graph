@@ -1,0 +1,56 @@
+{
+  "name": "藏书印",
+  "original_name": "浮云带山游青天",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安为了磨炼性情跳脱的弟子白玄，特意在拜剑台茅 屋内雕琢了这枚印章，其文字寓意着剑客应有的广阔胸 襟 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第759章 递剑接剑与问剑",
+      "owner": "周密 (斐然持有)"
+    },
+    {
+      "chapter": "第760章 不对",
+      "owner": "崔东山(暂管)"
+    },
+    {
+      "chapter": "第893章 下棋",
+      "owner": "崔东山"
+    },
+    {
+      "chapter": "第1084章 高两境",
+      "owner": "薛如意"
+    }
+  ],
+  "subtype": "篆刻/信物类",
+  "holder": "白玄",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着白玄本命飞剑“云游”的品级提升，印章可孕育出自 主护主的文灵 。",
+  "supernatural_ability": "印文内容与飞剑气机相通，能稳固少年剑修的浮躁道心 。",
+  "evolution": {
+    "current_form": "一方石质细腻、刀法古拙的小型印章 。",
+    "materials_consumed": [
+      "蛇胆石",
+      "隐官剑气"
+    ],
+    "potential_evolution": "可成为下宗青萍剑宗图书馆内的核心压胜物 。"
+  },
+  "visual": {
+    "static": "印面刻有“浮云带山游青天”，印台侧面刻有白玄名讳 。",
+    "active": "钤印时会有淡淡的云雾升腾，显现出“云游”飞剑的微缩 幻影 。"
+  },
+  "provenance": {
+    "origin": "陈平安在拜剑台亲手为弟子白玄雕刻而成 。",
+    "karma_link": "作为奖励白玄成功破境的礼物，承载了师门的期许 。"
+  },
+  "enriched": true
+}

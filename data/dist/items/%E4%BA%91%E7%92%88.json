@@ -1,0 +1,44 @@
+{
+  "name": "云璈",
+  "original_name": "行刑云璈",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一件承载了远古神道权威的行刑重器。通过音律与雷法的结合，它能在瞬息间改换天地格局，将敌 手置于避无可避的雷电枷锁之中 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第997章 酒，剑，明月",
+      "owner": "陈平安 (战利品)"
+    }
+  ],
+  "subtype": "阵法类 / 礼器",
+  "holder": "韩玉树",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古雷部",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为远古行刑台的核心组件，配合雷部法印可重现完整的上古雷劫威压 。",
+  "supernatural_ability": "显化行刑台。通过擂响总计十二面锣鼓，显化出布满金色雷电的云海，构建出一座无视境界差异的远古 行刑台 。",
+  "evolution": {
+    "current_form": "一架悬挂有十二面锣鼓、带有神女虚影的礼器 。",
+    "materials_consumed": [
+      "远古雷部神金",
+      "神灵遗骸精华"
+    ],
+    "potential_evolution": "若能寻回真正的“行刑者”神魂，可进化为掌控一洲雷法天劫的终极重器 。"
+  },
+  "visual": {
+    "static": "形制繁复的打击乐器架，挂有十二面刻满符文的锣鼓，散发出森然的雷电气息 。",
+    "active": "击鼓时云海翻涌，神女显像，十二座雷电云海连成金色长线，场面波澜壮阔 。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭雷部斩勘司的化龙池遗址 。",
+    "karma_link": "万瑶宗韩玉树试图以此作为跻身飞升境的证道契机 。"
+  },
+  "enriched": true
+}

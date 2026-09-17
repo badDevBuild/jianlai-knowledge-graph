@@ -1,0 +1,50 @@
+{
+  "name": "井水仙人酿",
+  "original_name": "老水井灵泉酒",
+  "type": "灵物",
+  "grade": "凡物",
+  "status": "消耗",
+  "description": "**井水仙人酿**是陈平安在游历过程中用于伪装身份、赚取神仙钱的重要媒介。它不仅代表了黄庭国的 山水气运，也是陈平安在市井历练中“以德服人”的工具之一 。",
+  "aliases": [
+    "蜂尾渡水井仙人酿"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第374章 他乡遇故知",
+      "owner": "蜂尾渡商家"
+    },
+    {
+      "chapter": "第457章 小巷祖宅一盏灯",
+      "owner": "陈平安(赠予福荫洞主人)"
+    }
+  ],
+  "subtype": "滋养类 / 消耗类",
+  "holder": "陈平安 (化名吴镝)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "黄庭国秋毫观",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随酿造年份与灵泉等阶提升，可作为滋养神魂的仙家补品 。",
+  "supernatural_ability": "**“甘霖润泽”**。此酒源自黄庭国城隍阁原址的一口老水井灵泉，灵气充沛，饮之可助修行，对神魂受 损有微弱修复作用 。",
+  "evolution": {
+    "current_form": "盛放在普通酒壶中的仙家酒酿 。",
+    "materials_consumed": [
+      "黄庭国灵泉水",
+      "仙家酒曲"
+    ],
+    "potential_evolution": "若加入酒虫温养，可升格为顶级仙酿 。"
+  },
+  "visual": {
+    "static": "酒液澄澈，散发淡淡的灵气波纹 。",
+    "active": "倒入杯中时有雾气升腾，仿佛有仙人步虚之象 。"
+  },
+  "provenance": {
+    "origin": "源自黄庭国旧城隍庙遗址的灵泉水，由当地山门改造成客栈后特供 。",
+    "karma_link": "陈平安化身道士吴镝游历时，以此酒作为噱头结交权贵并讲演“仙踪” 。"
+  },
+  "enriched": true
+}

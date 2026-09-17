@@ -1,0 +1,48 @@
+{
+  "name": "鱼尾洞天",
+  "original_name": "鱼尾法袍",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "鱼尾洞天是一件极为罕见的仙兵级法袍，目前由蛮荒天下的天才剑修流白持有 。它不仅象征着周密对弟子的宠爱，更是流白能够多次在险境中生还的关键 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第786章 那就打",
+      "owner": "流白"
+    },
+    {
+      "chapter": "第842章 谁围杀谁",
+      "owner": "流白"
+    }
+  ],
+  "subtype": "防御类 / 遮蔽类",
+  "holder": "流白",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "周密",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为周密赠予关门弟子的顶级法袍，蕴含完整的小天地规矩，防护上限极高 。",
+  "supernatural_ability": "袍身自带一座独立运转的小天地，能够大幅度削减针对持有者的法术伤害与飞剑斩杀 。",
+  "evolution": {
+    "current_form": "仙兵品秩的华美法袍 。",
+    "materials_consumed": [
+      "远古洞天碎片",
+      "仙家云锦"
+    ],
+    "potential_evolution": "未知。"
+  },
+  "visual": {
+    "static": "法袍色泽如鱼鳞般闪烁，具有流动性的光泽，呈现出如水般的质感 。",
+    "active": "激发时会显化出层层叠叠的洞天屏障，将外来攻击引入袍内虚空 。"
+  },
+  "provenance": {
+    "origin": "由文海周密亲自炼制并赠予其关门弟子流白 。",
+    "karma_link": "是流白在蛮荒天下行走及参与大战的核心防护依仗 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,64 @@
+{
+  "name": "经书",
+  "original_name": "大骊仿白玉京十二飞剑之一",
+  "type": "仙剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "经书剑是大骊仿白玉京十二剑中极具书卷气的一把，由陈三秋持有。它象征着儒道合流的压胜之力，是 陈三秋战力爆发的核心 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第206章 月儿圆月儿弯",
+      "owner": "俊美少年"
+    },
+    {
+      "chapter": "第253章 有人送剑有人等",
+      "owner": "董画符"
+    },
+    {
+      "chapter": "第271章 宁姑娘，对不起",
+      "owner": "俊美少年"
+    },
+    {
+      "chapter": "第572章 心上人",
+      "owner": "陈三秋"
+    },
+    {
+      "chapter": "第646章 开阵",
+      "owner": "陈三秋"
+    },
+    {
+      "chapter": "第648章 随便破境",
+      "owner": "陈三秋"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈三秋",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大骊宋氏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "承载大骊王朝法统与道统的仿白玉京重宝，杀力上限极高 。",
+  "supernatural_ability": "剑身刻满儒道经典，出剑时伴有经文加持，能破除万般邪法 。",
+  "evolution": {
+    "current_form": "长剑",
+    "materials_consumed": [
+      "圣贤文章真意",
+      "大骊国运"
+    ],
+    "potential_evolution": "演化为文字压胜的极致形态 。"
+  },
+  "visual": {
+    "static": "剑身镌刻密密麻麻的文字，古朴庄重，由陈三秋叠放在大腿上温养 。",
+    "active": "激发时文字熠熠生辉，剑气如书香漫天，宏大祥和却凌厉异常 。"
+  },
+  "provenance": {
+    "origin": "大骊国师崔瀺主持炼制的仿白玉京系列飞剑之一 。",
+    "karma_link": "被天生具有读书种子潜质的剑修陈三秋选中，与他的本命飞剑“白鹿”相辅相成 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "烛阳",
+  "original_name": "彩衣国老剑神佩剑",
+  "type": "灵器",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "彩衣国老剑神的佩剑，位列宝瓶洲中部“四大名剑”之首。老剑神隐居三十年后死于仇杀，此剑由此成为 江湖动荡的诱因。",
+  "aliases": [
+    "烛阳"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第237章 小暑过后，春风犹在",
+      "owner": "彩衣国剑神"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "已故（原主被仇家报复身亡）",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "彩衣国老剑神",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为宝瓶洲中部曾经名动一方的四大剑道宗师佩剑，具备极高的江湖威望与杀力，有望作为宗门底蕴传 承。",
+  "supernatural_ability": "“剑术通神”。虽然原主并非山上剑仙，但其剑道造诣已臻凡俗巅峰，剑气纯粹，能震慑周边十数国江湖 。",
+  "evolution": {
+    "current_form": "名剑实物",
+    "materials_consumed": [
+      "百炼精钢",
+      "剑气淬炼"
+    ],
+    "potential_evolution": "若得剑修以本命真气温养，可进阶为山上灵器。"
+  },
+  "visual": {
+    "static": "剑身古朴，透着一股历经江湖沧桑的杀伐气，铭文“烛阳”。",
+    "active": "出鞘时剑气纵横，寒光照彻十数国江湖，剑光如烈日灼目。"
+  },
+  "provenance": {
+    "origin": "彩衣国老剑神行走江湖的傍身之物。",
+    "karma_link": "见证了彩衣国一代剑道的兴衰，随老剑神隐居山林三十余年后因仇家报复而卷入纷争。"
+  },
+  "enriched": true
+}

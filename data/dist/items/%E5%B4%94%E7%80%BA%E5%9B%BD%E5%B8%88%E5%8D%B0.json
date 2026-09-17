@@ -1,0 +1,43 @@
+{
+  "name": "崔瀺国师印",
+  "original_name": "大骊国师官印 / 绣虎印",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这是大骊“绣虎”崔瀺生前运筹帷幄、行使权力的核心凭证。陈平安继承此印，象征着其继承了崔瀺的遗 志与大骊的国师法统 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1196章 飞升见余斗",
+      "owner": "陈平安(销毁)"
+    }
+  ],
+  "subtype": "权柄类 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔瀺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "承载了“绣虎”毕生的谋划、气运与事功真意，上限极高 。",
+  "supernatural_ability": "见印如见国师崔瀺本人，拥有压制一洲气脉、敕令山河神灵的至高法理权限 。",
+  "evolution": {
+    "current_form": "一方蕴含深厚文武气运、代表大骊国师身份的古老官印 。",
+    "materials_consumed": [
+      "大骊一洲气运"
+    ],
+    "potential_evolution": "作为开启大骊朝廷秘密遗产与诸多隐蔽阵法的核心钥匙 。"
+  },
+  "visual": {
+    "static": "材质坚韧，刻有法度森严的篆文，呈现出一种凛然的威压感 。",
+    "active": "祭出时金光铺展化为法度长河，可强行稳定甚至扭转紊乱的天地气机 。"
+  },
+  "provenance": {
+    "origin": "由大骊首任国师崔瀺亲手祭炼，并与大骊国脉深度绑定 。",
+    "karma_link": "是崔瀺留给小师弟陈平安最重要的政治与大道遗产之一 。"
+  },
+  "enriched": true
+}

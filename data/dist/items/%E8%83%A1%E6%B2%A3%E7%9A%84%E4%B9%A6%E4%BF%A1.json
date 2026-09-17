@@ -1,0 +1,44 @@
+{
+  "name": "胡沣的书信",
+  "original_name": "红烛镇谍报 / 州城汇报",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是落魄山掌握山下局势、维护山水神灵正统地位的重 要信息来源 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1046章 终究美梦成真",
+      "owner": "李槐"
+    }
+  ],
+  "subtype": "记录/社交类",
+  "holder": "陈平安 / 韦文龙",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "胡逢侠",
+      "relation": "原主"
+    }
+  ],
+  "rank": "匠器",
+  "rank_potential": "随着书简湖与大骊局势的融合，这些书信可作为厘清因 果脉络的档案。",
+  "supernatural_ability": "记载了红烛镇、州城及周边山水的详细变迁与官员履历 。",
+  "evolution": {
+    "current_form": "笔迹工整的官式公文或私函 。",
+    "materials_consumed": [
+      "公门纸张",
+      "官场气息"
+    ],
+    "potential_evolution": "可并入大骊刑部及落魄山的内部秘录 。"
+  },
+  "visual": {
+    "static": "信封盖有特定衙署印章，字迹刚劲，带有明显的公门法 度 。",
+    "active": "拆阅时，由于因果牵引，读者可感应到当地山水的细微 震动。"
+  },
+  "provenance": {
+    "origin": "由落魄山外围成员胡逢侠（胡沣）发送至霁色峰剑房 。",
+    "karma_link": "连接了落魄山与大骊地方行政体系的隐秘合作 。"
+  },
+  "enriched": true
+}

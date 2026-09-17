@@ -1,0 +1,48 @@
+{
+  "name": "法袍春草",
+  "original_name": "春草法袍 / 青衫长褂",
+  "type": "法宝",
+  "grade": "灵器",
+  "status": "损毁",
+  "description": "这是一件陈平安在日常游历中穿戴最久的法袍。青衫更能体现其作为儒家门生的素雅，也是他隐匿实力 、低调行事的重要遮掩。",
+  "aliases": [
+    "春草法袍",
+    "春草薄衫",
+    "青草"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第482章 另一个朱敛",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "防御类 / 遮蔽类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴懿 (紫阳府)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "虽目前未达法宝品秩，但随灵气滋养有望通过炼化手段晋升。",
+  "supernatural_ability": "能够隔绝部分气机查探，具有冬暖夏凉、纤尘不染的特性，适合长途跋涉。",
+  "evolution": {
+    "current_form": "一袭淡薄的青色法袍，样式如山下读书人常穿的长褂。",
+    "materials_consumed": [
+      "神仙钱 (修缮费用)",
+      "灵气"
+    ],
+    "potential_evolution": "通过持续滋养有望进化为具备更强防御能力的法宝。"
+  },
+  "visual": {
+    "static": "色泽如早春嫩草，视觉上极其朴素低调，类似市井布衣。",
+    "active": "行走时灵气微动，如微风拂过草地，能自动弹开雨雪与尘埃。"
+  },
+  "provenance": {
+    "origin": "由黄庭国紫阳府老祖吴懿作为贺礼赠予。",
+    "karma_link": "陈平安常用其替代张扬的“金醴”法袍，体现其“读书人”的底色。"
+  },
+  "enriched": true
+}

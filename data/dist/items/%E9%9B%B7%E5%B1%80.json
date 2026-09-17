@@ -1,0 +1,51 @@
+{
+  "name": "雷局",
+  "original_name": "五雷正法大阵 / 掌心雷局",
+  "type": "符箓",
+  "grade": "无",
+  "status": "活跃",
+  "description": "这是陈平安在术法一途的登顶之作。它结合了龙虎山的 正宗法统与自身的剑道感悟，是其作为“国师弟子”才情 的体现 。",
+  "aliases": [
+    "雷局册子"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第867章 剑斩飞升巅峰",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1146章 毫无还手之力",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "雷法/阵法类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "龙虎山天师府",
+      "relation": "传承来源"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "随着陈平安对道法理解的加深，可演化为执掌天下雷霆 的“万法雷池” 。",
+  "supernatural_ability": "言出法随，召请十六尊神将雷鞭，能够在大范围内炼杀 一切阴邪之物 。",
+  "evolution": {
+    "current_form": "在陈平安掌心纹路中形成的微缩雷电格局 。",
+    "materials_consumed": [
+      "五雷法印",
+      "神霄玉书",
+      "本命元神之力"
+    ],
+    "potential_evolution": "可与“北斗”阵法结合，形成能够压制飞升境修士的复合 杀阵 。"
+  },
+  "visual": {
+    "static": "陈平安掌心纹路中隐约可见跳动的雷光电火 。",
+    "active": "雷局开启，天幕出现金色雷池，万千雷电如龙蛇坠地， 气象雄奇 。"
+  },
+  "provenance": {
+    "origin": "陈平安通过研习《丹书真迹》及云杪的雷法道书自行演 化 。",
+    "karma_link": "是陈平安对阵蛮荒大妖、守护家乡的关键术法底牌 。"
+  },
+  "enriched": true
+}

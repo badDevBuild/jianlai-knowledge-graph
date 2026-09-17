@@ -1,0 +1,48 @@
+{
+  "name": "袖中短剑",
+  "original_name": "曹子匕首 / 逐鹿 / 割雪",
+  "type": "法宝",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是陈平安从割鹿山女刺客处缴获的战利品。这对短刀 原本蒙尘，在陈平安手中才真正显露出其“上古神兵”的 恐怖杀力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1206章 天壤间",
+      "owner": "谢狗"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "徐夫人",
+      "relation": "制作人"
+    },
+    {
+      "name": "割鹿山女刺客 (豆蔻)",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为上古斩龙台的行刑重器之一，其锋芒足可切断光阴 流水的阻滞 。",
+  "supernatural_ability": "剑身狭窄如指，流光溢彩。具备“逐鹿”之锋，专门克制 肉身体魄强横的武夫与妖族 。",
+  "evolution": {
+    "current_form": "名为“朝露”与“暮霞”的双匕首，后被命名为“逐鹿” 。",
+    "materials_consumed": [
+      "上古斩龙台寒铁",
+      "神灵之血淬炼"
+    ],
+    "potential_evolution": "与“斩勘”狭刀合一，可重现行刑者完整权柄。"
+  },
+  "visual": {
+    "static": "剑身极其狭窄，漆黑如墨或赤红如火，刻有远古篆文 。",
+    "active": "出鞘时寒芒照彻十方，剑尖微颤即有雷鸣，杀意冲霄 。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭雷部或刑狱司，买自徐夫人 。",
+    "karma_link": "见证了陈平安在北俱芦洲山谷对抗割鹿山刺客的生死之 战 。"
+  },
+  "enriched": true
+}

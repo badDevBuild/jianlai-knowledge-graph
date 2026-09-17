@@ -1,0 +1,44 @@
+{
+  "name": "鬼修重器",
+  "original_name": "下狱阎罗殿 / 阎王殿",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是世间鬼修梦寐以求的本命物。它不仅是一座移动的监狱，更是能够帮助阴物修道者避开阳间罡风、 直接汲取阴煞之气的修行圣地 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第803章 先下一城",
+      "owner": "韩俏色"
+    }
+  ],
+  "subtype": "镇压类 / 储纳类",
+  "holder": "顾璨",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为针对阴魂鬼物的顶级法宝，随着拘押鬼物数量与境界的提升，有晋升为仙兵的可能 。",
+  "supernatural_ability": "内部自成阴冥小天地，能够拘押、镇压飞升境以下的所有鬼物阴灵，并能滋养阴修神魂 。",
+  "evolution": {
+    "current_form": "模型大小的古朴殿阁建筑 。",
+    "materials_consumed": [
+      "阴冥精粹",
+      "鬼王魂力"
+    ],
+    "potential_evolution": "若能融入真实的阴曹地府碎片，可化为掌控一洲轮回的大道重器 。"
+  },
+  "visual": {
+    "static": "通体黝黑，透着森森骨冷，雕镂繁密，给人一种不寒而栗的压迫感 。",
+    "active": "激发时散发出滔天阴气，可显化出阎罗殿虚相，强行缉拿周遭魂魄 。"
+  },
+  "provenance": {
+    "origin": "产自书简湖或相关远古秘境的鬼道重宝 。",
+    "karma_link": "曾由陈平安在书简湖期间用来收拢横死阴魂，后交由顾璨掌管 。"
+  },
+  "enriched": true
+}

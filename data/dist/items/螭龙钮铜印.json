@@ -1,0 +1,43 @@
+{
+  "name": "螭龙钮铜印",
+  "original_name": "螭龙印",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "云霄宫杨氏的压箱底宝物。虽然只能使用一次，但其召唤出的螭龙战力极高，是专门用于搏命或开路的 杀手锏 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第496章 自古剑仙需饮酒",
+      "owner": "杨凝性"
+    }
+  ],
+  "subtype": "消耗类/攻伐类",
+  "holder": "杨凝性",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云霄宫宝库",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为一次性消耗的重宝，其瞬间爆发的杀力足以应对极高位阶的敌人 。",
+  "supernatural_ability": "将其砸碎后，可召唤一条战力惊人的螭龙降临，具备翻山倒海之能 。",
+  "evolution": {
+    "current_form": "铜质螭龙钮印章 。",
+    "materials_consumed": [
+      "远古螭龙魂魄/神性"
+    ],
+    "potential_evolution": "无（一次性消耗品）"
+  },
+  "visual": {
+    "static": "造型古朴的小巧铜印，钮部为螭龙形状 。",
+    "active": "破碎时爆发出恐怖的气息，显化出巨大的螭龙真身进行攻击 。"
+  },
+  "provenance": {
+    "origin": "大源王朝崇玄署云霄宫宝库秘藏 。",
+    "karma_link": "杨凝性从家族宝库中赊欠而来，作为鬼蜮谷之行的最后底牌 。"
+  },
+  "enriched": true
+}

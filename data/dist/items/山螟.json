@@ -1,0 +1,37 @@
+{
+  "name": "山螟",
+  "original_name": "山螟",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "正阳山水龙峰掌律祖师晏础的本命飞剑。作为执掌宗门纪律的大修士，其飞剑“山螟”在隐蔽性上达到了 极致，是正阳山惩处门内叛徒与迎击强敌的利刃 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第821章 落魄山观礼正阳山",
+      "owner": "晏础"
+    }
+  ],
+  "subtype": "攻伐类 / 隐匿类",
+  "holder": "晏础",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "随晏础掌律职权的履行，剑意中的律法威压会愈发沉重 。",
+  "supernatural_ability": "能够发出干扰修士心神的细微鸣叫，使对手在不知不觉中气机紊乱，难以锁定飞剑真身 。",
+  "evolution": {
+    "current_form": "本命飞剑",
+    "materials_consumed": [
+      "深山精铁"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "微缩如山间螟虫，极具迷惑性 。",
+    "active": "祭出时伴有高频震颤声，剑光细碎如影，无孔不入 。"
+  },
+  "provenance": {
+    "origin": "正阳山掌律祖师晏础本命飞剑 。",
+    "karma_link": "代表了正阳山执法如山的森严规矩。"
+  },
+  "enriched": true
+}

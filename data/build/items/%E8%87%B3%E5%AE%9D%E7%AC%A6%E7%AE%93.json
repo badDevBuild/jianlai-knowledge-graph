@@ -1,0 +1,48 @@
+{
+  "name": "至宝符箓",
+  "original_name": "道祖大符 / 太玄清生符",
+  "type": "符箓",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是浩然天下符箓一道的巅峰之作，极为珍稀，连儒家书院君子和道家真君都需谨慎使用。它不仅是强 力法宝，更是持有人能够逆天改命、在必死境地获得新生的万全之策 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1107章 陈道友关门待客",
+      "owner": "叶澹"
+    }
+  ],
+  "subtype": "护道类 / 延寿类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "原主"
+    },
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道门最顶级的符箓，其效力足以抗衡天地命理，无进一步提升空间 。",
+  "supernatural_ability": "能够让一位十四境之下的炼气士，等于多出一条“性命”，且是全身存道的真正性命 。",
+  "evolution": {
+    "current_form": "由材质极其稀有的青色符纸承载的终极符箓 。",
+    "materials_consumed": [
+      "道祖神意",
+      "降真青绿箓"
+    ],
+    "potential_evolution": "使用后符箓灵气消散，归于虚无 。"
+  },
+  "visual": {
+    "static": "通常被锁在被“封山”的小木箱中，符纸呈现出罕见的青色或降真青绿质感 。",
+    "active": "祭出时引发天时异变，流溢出极致的道门正统威压 。"
+  },
+  "provenance": {
+    "origin": "由白玉京道祖亲自炼制 。",
+    "karma_link": "承载了道门法统的最高因果，被视为保护修道之士避开生死大劫的最后防线 。"
+  },
+  "enriched": true
+}

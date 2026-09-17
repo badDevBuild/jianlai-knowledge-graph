@@ -1,0 +1,44 @@
+{
+  "name": "宋雨烧铁剑",
+  "original_name": "宋雨烧铁剑 / 青竹剑",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这把名为“**屹然**”的长剑是宋雨烧真正的底牌。它隐藏在瀑布深潭中多年，直到大军压境时才被宋雨 烧重新取出，象征着他**屹然不倒**的武道意志 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第241章 喝过剑仙的酒好吹牛",
+      "owner": "宋雨烧"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "宋雨烧",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "远古武神",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "因其出身非凡且具有极强剑意，具备成为半仙兵的底子 。",
+  "supernatural_ability": "具有“砺光裂五岳，剑气斩大渎”的无上气势，能让持剑武夫对抗上五境练气士 。",
+  "evolution": {
+    "current_form": "青竹剑鞘长剑 。",
+    "materials_consumed": [
+      "深潭水运",
+      "远古剑意"
+    ],
+    "potential_evolution": "可配合宋氏家传剑道进一步精进 。"
+  },
+  "visual": {
+    "static": "剑鞘材质为特殊青竹，色泽泛黄，质地坚韧 。",
+    "active": "剑气如瀑布般倾泻，能在战场上轻易凿穿敌阵 。"
+  },
+  "provenance": {
+    "origin": "传闻由远古一位武神亲手铸造，遗落于宝瓶洲 。",
+    "karma_link": "宋雨烧在深潭底部的石墩机关中机缘所得，助其成就剑圣之名 。"
+  },
+  "enriched": true
+}

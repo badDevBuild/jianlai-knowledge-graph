@@ -1,0 +1,44 @@
+{
+  "name": "青翠竹蒿",
+  "original_name": "水运竹蒿",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这支竹蒿是倪元簪作为老蒿师的身份标志，其实质并非植物，而是天地水运的具象化。它对管理水系和 册封河神具有巨大的实质裨益 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第753章 最难是个今日无事",
+      "owner": "倪元簪 (被崔东山收走)"
+    }
+  ],
+  "subtype": "水法类 / 媒介类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "倪元簪 (老蒿师)",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "由极其精粹的水运凝聚而成，具备化龙开渎的本原力量 。",
+  "supernatural_ability": "能够平定汹涌的江河水势。将其置入水中可定风波，并能辅助水族在走江化蛟时稳固神识 。",
+  "evolution": {
+    "current_form": "一支质地坚硬、颜色青翠欲滴的修长竹蒿 。",
+    "materials_consumed": [
+      "留仙窟大江水运精华",
+      "仙家水丹之气"
+    ],
+    "potential_evolution": "完全炼化后，足以支撑起莲藕福地内一尊金身稳固的江水正神 。"
+  },
+  "visual": {
+    "static": "看起来就像一根普通的竹竿，但绿意浓郁到仿佛能滴下水来 。",
+    "active": "入水后能牵引方圆百里的水气流转，竹竿上会出现细微的龙鳞纹路 。"
+  },
+  "provenance": {
+    "origin": "由藕花福地世外高人倪元簪以秘法凝聚大江水德而成的随身法物 。",
+    "karma_link": "在黄鹤矶渡口，倪元簪弃蒿于江中，最终被崔东山收入袖中 。"
+  },
+  "enriched": true
+}

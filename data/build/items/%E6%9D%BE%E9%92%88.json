@@ -1,0 +1,74 @@
+{
+  "name": "松针",
+  "original_name": "恨剑山仿剑“古翠”",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是陈平安在北俱芦洲获得的重要仿造飞剑，虽非天然本命物，但陈平安通过“大炼”将其强行化为本命 ，是其早期剑道杀力的重要组成部分 ,。",
+  "aliases": [
+    "松针、咳雷"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第571章 浩然天下陈平安来找人",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第615章 离真死了",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第617章 谁能与宁姚般配",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第621章 学剑",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第660章 雀在笼中",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第713章 陈十一",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第1087章 复仇是一场独饮",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "袁灵殿",
+      "relation": "赠予者"
+    },
+    {
+      "name": "恨剑山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为恨剑山出品的顶级仿剑，具备极高的剑气密度，虽然并非天然本命飞剑，但在大炼后可作为纯粹剑 修之外的强力攻伐手段 ,。",
+  "supernatural_ability": "能够与飞剑“啖雷”共聚一府，通过剑气炼化作为某种“锚点”实现瞬时的剑遁秘术 ,。",
+  "evolution": {
+    "current_form": "微缩如针的袖珍飞剑 。",
+    "materials_consumed": [
+      "斩龙石",
+      "五行灵气"
+    ],
+    "potential_evolution": "在桐叶洲与裴旻问剑时彻底崩碎，剑意归于天地 ,。"
+  },
+  "visual": {
+    "static": "形如松针，色泽翠绿，蕴含浓厚剑气 。",
+    "active": "祭出时如绿莹流光，运动轨迹诡谲，速度极快 。"
+  },
+  "provenance": {
+    "origin": "出自北俱芦洲恨剑山，仿造远古剑仙本命物 。",
+    "karma_link": "由火龙真人高徒袁灵殿赠送，作为陈平安重建长生桥的助力 ,。"
+  },
+  "enriched": true
+}

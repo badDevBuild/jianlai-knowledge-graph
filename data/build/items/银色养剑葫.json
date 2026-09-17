@@ -1,0 +1,64 @@
+{
+  "name": "银色养剑葫",
+  "original_name": "美酒",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是天下公认最顶级的七枚养剑葫之一。它原本属于风雪庙剑仙魏晋，后经阿良之手赠予李宝瓶，是她 最重要的随身重宝 , , 。",
+  "aliases": [
+    "银色小葫芦",
+    "银白色酒葫芦",
+    "银色酒葫芦",
+    "小葫芦"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第141章 百怪（上）",
+      "owner": "李宝瓶"
+    },
+    {
+      "chapter": "第402章 在书院",
+      "owner": "裴钱 (李宝瓶赠送)"
+    },
+    {
+      "chapter": "第643章 等个人",
+      "owner": "李宝瓶"
+    }
+  ],
+  "subtype": "养剑类",
+  "holder": "李宝瓶",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "道祖",
+      "relation": "原主"
+    },
+    {
+      "name": "魏晋",
+      "relation": "曾持有"
+    },
+    {
+      "name": "阿良",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为道祖亲手栽种的七枚养剑葫之一，位列世间养剑重器之巅 , 。",
+  "supernatural_ability": "具备极速温养飞剑之能，且能够显著反哺主人体魄，即便在顶尖法器中亦极其罕见 , 。",
+  "evolution": {
+    "current_form": "银白色小葫芦",
+    "materials_consumed": [
+      "剑气"
+    ],
+    "potential_evolution": "随剑道气运圆满"
+  },
+  "visual": {
+    "static": "色泽如银，小巧玲珑，散发淡淡仙家气息 , 。",
+    "active": "温养飞剑时会有微弱嗡鸣，雷雨天气声响尤为清越 , 。"
+  },
+  "provenance": {
+    "origin": "源自道祖在成仙前亲自种下的一根葫芦藤，结出的七个葫芦之一 , 。",
+    "karma_link": "由阿良在棋墩山赠予李宝瓶，承载了极深的护道因果 , 。"
+  },
+  "enriched": true
+}

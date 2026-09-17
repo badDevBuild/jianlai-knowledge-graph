@@ -1,0 +1,48 @@
+{
+  "name": "青霞",
+  "original_name": "法刀“青霞”",
+  "type": "法宝",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "法刀“青霞”是一把极其阴狠的兵器，曾多次在韩玉树手中建功。它不仅代表了三山福地高超的炼造手艺 ，也见证了陈平安在太平山斩杀仙人的关键一刻。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第750章 万年山巅十一人",
+      "owner": "韩玉树"
+    },
+    {
+      "chapter": "第751章 十一境的拳",
+      "owner": "韩玉树 -> 陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "韩玉树",
+      "relation": "夺取自"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "险些斩杀陈平安的利刃，其锋芒在法宝中属于最顶尖层次，具备极强的穿透禁制能力 。",
+  "supernatural_ability": "刀光快若晨曦青霞，能够在一瞬间切断修士的神魂联系 。",
+  "evolution": {
+    "current_form": "一柄散发着青色幽光的狭长法刀 。",
+    "materials_consumed": [
+      "太山之精",
+      "庚金道意"
+    ],
+    "potential_evolution": "与“朝露”、“暮霞”等神兵共鸣后，可演化为斩断大道因果的特殊兵刃。"
+  },
+  "visual": {
+    "static": "刀身修长，色泽如雨后青空，寒意迫人 。",
+    "active": "挥动时带起大片青色残影，宛如青色晚霞铺满天际，杀机内敛 。"
+  },
+  "provenance": {
+    "origin": "万瑶宗宗主韩玉树的随身法宝 。",
+    "karma_link": "韩玉树在太平山一战中以此刀偷袭陈平安，失败后被陈平安强行缴获 。"
+  },
+  "enriched": true
+}

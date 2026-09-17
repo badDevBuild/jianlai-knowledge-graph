@@ -1,0 +1,44 @@
+{
+  "name": "莹白狭刀",
+  "original_name": "斩勘",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "远古高位神灵“**行刑者**”遗落的兵刃，煞气极重，对龙族和神灵具有天然的位阶压制 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第647章 无剑可出",
+      "owner": "元婴妖族(已死) -> 陈平安(拾取)"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为**上古斩龙台**的行刑之物，具备破碎空间、震慑神灵的极致杀力 , 。",
+  "supernatural_ability": "具有极其强横的杀气与**压胜效果**，能辅助持刀者汲取天地灵气 。",
+  "evolution": {
+    "current_form": "雪亮长刀，刀柄裹缠金丝 。",
+    "materials_consumed": [
+      "蛟龙精血",
+      "神灵神性"
+    ],
+    "potential_evolution": "可作为武夫肉身成神的证道之兵 。"
+  },
+  "visual": {
+    "static": "刀柄裹缠细密金丝，护手铭刻有“**光流素月**”等金色古篆铭文 。",
+    "active": "出鞘时刀身光芒绽放，呈现如**丹霞**般的五彩绚烂光效 。"
+  },
+  "provenance": {
+    "origin": "远古时代斩龙台上的行刑神兵 。",
+    "karma_link": "曾随化外天魔来到剑气长城，后经由交易落入陈平安之手 , 。"
+  },
+  "enriched": true
+}

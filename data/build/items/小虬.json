@@ -1,0 +1,44 @@
+{
+  "name": "小虬",
+  "original_name": "护道水虬",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一种极其罕见的龙种后裔（有角曰虬）。它使用最 笨的法子汲取雷法为己用，未来有望化身为龙 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第893章 下棋",
+      "owner": "无（赠予霁山府）"
+    }
+  ],
+  "subtype": "守护/妖族修士",
+  "holder": "姜莹 (霁山府君)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "梁爽",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "目前为洞府境，若能炼形并走水成功，化蛟可能性极大 。",
+  "supernatural_ability": "由于是龙种正统后裔，天生擅长水法，并负责守护雷击 木灵芝 , 。",
+  "evolution": {
+    "current_form": "一条正在汲取雷法真意的小虬 。",
+    "materials_consumed": [
+      "江河水运",
+      "雷电精华"
+    ],
+    "potential_evolution": "进化为可以坐镇一洲水脉的元婴地仙或更高的蛟龙 。"
+  },
+  "visual": {
+    "static": "身躯覆盖龙鳞，额头有角，形态威严而略显稚嫩 。",
+    "active": "潜入水底或穿梭云雾时，能引发大范围的水文感应 。"
+  },
+  "provenance": {
+    "origin": "在大梁国边境山头由于“天降之福”而诞生的水裔 。",
+    "karma_link": "被陈平安引导至霁山府，成为该府的供奉或客卿 。"
+  },
+  "enriched": true
+}

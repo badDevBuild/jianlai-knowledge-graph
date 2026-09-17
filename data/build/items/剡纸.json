@@ -1,0 +1,44 @@
+{
+  "name": "剡纸",
+  "original_name": "金版笺 / 捶冰纸",
+  "type": "材料",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "剡纸是浩然天下最顶级的纸张之一，曾因原料枯竭而失 传。因陈平安弟子的介入，这一瑰宝得以重新现世。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第912章 如此问剑",
+      "owner": "剡藤(本体)"
+    }
+  ],
+  "subtype": "符箓/书写类",
+  "holder": "陈李 / 范峭",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "剡藤",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "这种由“剡藤”灵物产出的纸张，是绘制飞升大符的最佳 载体。",
+  "supernatural_ability": "性耐久，百年不蠹。其顶级品种“捶冰纸”能承载极高的 灵气密度而不断裂 。",
+  "evolution": {
+    "current_form": "洁白细腻、带有冰裂纹的纸张。",
+    "materials_consumed": [
+      "剡溪水运",
+      "古藤精魄"
+    ],
+    "potential_evolution": "可炼制成能够自动记录天机变幻的“天书” 。"
+  },
+  "visual": {
+    "static": "质感如帛，透光可见细密的藤蔓脉络。",
+    "active": "书写其上，文字如冰凌悬挂，自带一种清冷杀伐之意 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲剡溪，由炼形成功的“剡藤”守护。",
+    "karma_link": "因陈李的大量预定，成为落魄山未来垄断符纸市场的核 心资源 。"
+  },
+  "enriched": true
+}

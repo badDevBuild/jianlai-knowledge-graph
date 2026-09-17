@@ -1,0 +1,39 @@
+{
+  "name": "山岳渡船",
+  "original_name": "跨洲渡船/鲲船",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "浩然天下**最高等级的交通工具**，如大骊的“山岳渡船”和孙家的“山海龟” 。它们不仅是财富的象征，更是宗门和国家跨洲博弈的底气所在 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1171章 翻页的何止是游记",
+      "owner": "大骊王朝"
+    }
+  ],
+  "subtype": "交通/运输类",
+  "holder": "仙家宗门/大骊朝廷",
+  "holder_relation": "寄托",
+  "rank": "重器",
+  "rank_potential": "内部空间可不断扩建，形成独立的山中城镇 。",
+  "supernatural_ability": "能够御风跨洲，承载海量货物与修士，自带强大的护山阵法 。",
+  "evolution": {
+    "current_form": "体型庞大如移动山岳的飞船，内有亭台楼阁 。",
+    "materials_consumed": [
+      "五色土",
+      "灵材",
+      "海量神仙钱"
+    ],
+    "potential_evolution": "可炼化为能够自主呼吸吐纳、与天地共存的巨型灵体 。"
+  },
+  "visual": {
+    "static": "遮天蔽日，阴影笼罩城池，其势如云海中的巨兽 。",
+    "active": "起航时灵气涟漪如潮水扩散，四周云雾缭绕，声如雷鸣 。"
+  },
+  "provenance": {
+    "origin": "墨家、符师与各国朝廷合力建造 。",
+    "karma_link": "连接各大洲商贸与战备的命脉 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "name": "碧芙蓉冠",
+  "original_name": "碧绿芙蓉冠",
+  "type": "法宝",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "碧芙蓉冠是蛮荒天下天才剑修流白的标志性饰物之一 。它不仅仅是一件华丽的头饰，更是高品秩的半仙兵，拥有极佳的防御力，能够帮助持有者在混战中 规避大量指向性术法攻击 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第787章 河畔",
+      "owner": "流白"
+    }
+  ],
+  "subtype": "防御类 / 饰品类",
+  "holder": "流白",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "周密",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为文海周密赐予关门弟子的重宝，其防护上限随持有者境界提升，具备跻身仙兵的潜质 。",
+  "supernatural_ability": "具备极其强大的防御与遮蔽气机之能，常与“小洞天”法袍搭配使用，形成稳固的防御体系 , 。",
+  "evolution": {
+    "current_form": "碧绿色的芙蓉花状道冠 。",
+    "materials_consumed": [
+      "远古洞天精粹",
+      "仙家碧玉"
+    ],
+    "potential_evolution": "可作为小型洞天的阵法中枢进行炼化 。"
+  },
+  "visual": {
+    "static": "通体碧绿，晶莹剔透，形制为精致的芙蓉花盛开之状 , 。",
+    "active": "佩戴时会散发出淡淡的碧绿灵光，笼罩持有者全身，使其气机隐晦，如同身处独立空间 。"
+  },
+  "provenance": {
+    "origin": "由文海周密亲自炼制 。",
+    "karma_link": "是周密为关门弟子流白准备的保命法宝之一 。"
+  },
+  "enriched": true
+}

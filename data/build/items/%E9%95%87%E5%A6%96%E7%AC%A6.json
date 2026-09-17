@@ -1,0 +1,45 @@
+{
+  "name": "镇妖符",
+  "original_name": "玲珑宝塔符",
+  "type": "符箓",
+  "grade": "符箓",
+  "status": "消耗",
+  "description": "这是陈平安掌握的顶级功能性符箓。其独特的“拘押”能力对鬼修与妖族 有极强的克制作用，是其行走江湖的重宝 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第332章 偶遇",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "压胜/封禁类",
+  "holder": "陈平安 / 裴钱",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "钟魁",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "若由圣人墨宝书写并使用金纸，可镇压金丹乃至元婴境鬼魅 [7-9]。",
+  "supernatural_ability": "激发后能凭空幻化出一座玲珑宝塔虚影，将妖邪暂时拘押，内蕴雷霆之 威鞭打魂魄 。",
+  "evolution": {
+    "current_form": "绘有塔型纹路的金黄色或红色符纸 。",
+    "materials_consumed": [
+      "风雷笺",
+      "上乘朱砂",
+      "纯粹真气"
+    ],
+    "potential_evolution": "可作为构建“镇妖阵”的核心阵眼。"
+  },
+  "visual": {
+    "static": "符面金光流动，文字法度严谨，带有令人心悸的威严感 。",
+    "active": "激发时宝塔由虚转实，伴随雷鸣声砸下，金光照彻幽冥 。"
+  },
+  "provenance": {
+    "origin": "源自《丹书真迹》或大伏书院钟魁的自创手笔 。",
+    "karma_link": "陈平安曾在胭脂郡城隍阁以此符对抗入魔的属官，是其压胜底牌之一 。"
+  },
+  "enriched": true
+}

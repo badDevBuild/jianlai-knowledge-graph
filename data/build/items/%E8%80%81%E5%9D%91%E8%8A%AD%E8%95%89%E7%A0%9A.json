@@ -1,0 +1,47 @@
+{
+  "name": "老坑芭蕉砚",
+  "original_name": "绿蛟坑芭蕉砚",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是大骊王朝最为珍稀的御用砚材之一。对于吴鸢这种志在事功的文官而言，此砚不仅是办公用具，更 是身份与机遇的象征。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第560章 晨钟暮鼓无那炊烟",
+      "owner": "吴鸢"
+    }
+  ],
+  "subtype": "文房清供",
+  "holder": "吴鸢",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者"
+    },
+    {
+      "name": "大骊封禁之山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "产自已封禁的绿蛟坑，水运浓厚，不仅是名砚，更可作为小规模水阵的阵眼。",
+  "supernatural_ability": "可自行润泽墨汁，呵气生云，具有稳固书斋气运、延缓纸张老化的功效。",
+  "evolution": {
+    "current_form": "外形如芭蕉叶瓣，石质细腻莹彻的古砚。",
+    "materials_consumed": [
+      "绿蛟坑水脉精华"
+    ],
+    "potential_evolution": "若得儒家大修士常年摩挲，可孕育出砚灵。"
+  },
+  "visual": {
+    "static": "色泽深绿，纹理如芭蕉叶脉，触手冰凉，不沾尘埃。",
+    "active": "研墨时隐约有江河之声，砚面生发水雾，气象高古。"
+  },
+  "provenance": {
+    "origin": "旧朱荧王朝中岳绿蛟坑。",
+    "karma_link": "北岳山君魏檗赠予吴鸢的叙旧礼，象征着大骊朝堂与山水神祇的紧密关系。"
+  },
+  "enriched": true
+}

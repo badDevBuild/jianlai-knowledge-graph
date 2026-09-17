@@ -1,0 +1,44 @@
+{
+  "name": "无事澄然竹简",
+  "original_name": "青神山竹简 / 道理简",
+  "type": "典籍",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安用于雕琢“心中道理”的载体。不仅是他的修心工具，也是落魄山“书生底色”的实物象征。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第483章 好久不见",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "修心类 / 压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "魏檗",
+      "relation": "赠予者 (材料)"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随刻字者修为和认可的道理增加，简身灵性愈发深厚，有望成为镇山之宝。",
+  "supernatural_ability": "刻有“无事澄然，有事斩然”等文字，能安定文人心境，助其感悟学问并抵御邪祟。",
+  "evolution": {
+    "current_form": "泛黄、有修补痕迹且刻满细微小楷的竹制简片。",
+    "materials_consumed": [
+      "圣贤文章",
+      "文运精气"
+    ],
+    "potential_evolution": "作为落魄山藏书楼的传家宝，演化为承载文运的重器。"
+  },
+  "visual": {
+    "static": "材质坚韧，保留竹节自然纹理，字迹法度严谨，充满金石气。",
+    "active": "在阳光下摩挲时，文字隐现灵光，带给持有人暖洋洋的舒适感。"
+  },
+  "provenance": {
+    "origin": "由陈平安利用魏檗赠送的青神山竹材余料亲手刻就。",
+    "karma_link": "陪伴陈平安远游万里，内里装载了他在江湖中收集的所有道理与心路历程。"
+  },
+  "enriched": true
+}

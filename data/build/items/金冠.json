@@ -1,0 +1,47 @@
+{
+  "name": "金冠",
+  "original_name": "成双成对的两盏金冠",
+  "type": "法宝",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "这对金冠在陈平安眼中是“杀熟”挣钱的筹码，但在隋景澄眼中是与隐官相关的珍贵纪念 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第507章 如神祇高坐",
+      "owner": "陈平安 (原属范巍然/晏清)"
+    },
+    {
+      "chapter": "第526章 伏线拎起即杀机",
+      "owner": "隋景澄"
+    }
+  ],
+  "subtype": "防御 / 辅助类",
+  "holder": "隋景澄",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为成双成对出现的法宝级头饰，具有稳固神魂与聚拢灵气的潜质 。",
+  "supernatural_ability": "具备极佳的防御力与清心静气之效，能够帮助持有者抵御外魔入侵 。",
+  "evolution": {
+    "current_form": "一大一小两盏精致金冠 。",
+    "materials_consumed": [
+      "仙家金精"
+    ],
+    "potential_evolution": "未知。"
+  },
+  "visual": {
+    "static": "做工精美，宝光莹莹，具有典型的古蜀龙宫装饰风格 。",
+    "active": "佩戴时会散发出淡淡的金光，护住识海与天灵 。"
+  },
+  "provenance": {
+    "origin": "陈平安在苍筠湖水底龙宫获得的战利品 。",
+    "karma_link": "陈平安将其放在蚍蜉铺子作为镇店之宝，后被隋景澄以“天价”买走 。"
+  },
+  "enriched": true
+}

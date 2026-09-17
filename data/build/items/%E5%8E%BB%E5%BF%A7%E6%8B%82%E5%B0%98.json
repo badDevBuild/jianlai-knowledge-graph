@@ -1,0 +1,54 @@
+{
+  "name": "去忧拂尘",
+  "original_name": "拂尘",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一款品相极高的仙兵，曾在倒悬山和蛮荒天下多次易主，现作为陈平安收集的重宝之一，具有极强 的身份象征意义 。",
+  "aliases": [
+    "拂尘"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第294章 驭剑",
+      "owner": "太平山仙师"
+    },
+    {
+      "chapter": "第297章 出拳",
+      "owner": "白衣男子"
+    }
+  ],
+  "subtype": "辅助类/隐匿类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "琼瓯",
+      "relation": "夺取自"
+    },
+    {
+      "name": "拂尘修士",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "由于采用了极高阶的神物材质且历经千年温养，具备极强的神道位阶压制力 。",
+  "supernatural_ability": "能够避开阴冥鬼差的视线，作为行走阴间的通关文牒，并在战斗中化解忧劳气机 。",
+  "evolution": {
+    "current_form": "篆刻有“无忧”二字的拂尘长柄，连接雪白丝线 。",
+    "materials_consumed": [
+      "蛟龙之须",
+      "道门神光"
+    ],
+    "potential_evolution": "作为落魄山或下宗的重要传承礼器 。"
+  },
+  "visual": {
+    "static": "柄部有古篆“无忧”二字，丝线如雪，坠有金色小环 。",
+    "active": "挥动时清风徐来，能瞬间干扰对手的神识感知，并在周身形成保护性的光幕 。"
+  },
+  "provenance": {
+    "origin": "源自仙簪城旧藏，由古老炼师精心打造 。",
+    "karma_link": "陈平安在战后从多方势力手中逐步回收并确认为公家所得 。"
+  },
+  "enriched": true
+}

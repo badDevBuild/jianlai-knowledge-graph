@@ -1,0 +1,45 @@
+{
+  "name": "云游",
+  "original_name": "本命飞剑“云游”",
+  "type": "本命飞剑",
+  "grade": "本命飞剑",
+  "status": "活跃",
+  "description": "这是少年剑修白玄的根基。该飞剑以多变的轨迹和蛮横的杀法著称，与其主人嚣张的性格相得益彰 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第756章 剑修如云",
+      "owner": "白玄"
+    },
+    {
+      "chapter": "第898章 未来",
+      "owner": "白玄"
+    },
+    {
+      "chapter": "第1110章 纯粹剑修们",
+      "owner": "白玄"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "白玄",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "白玄跻身金丹后，其杀力将显现出同境无敌的趋势 。",
+  "supernatural_ability": "速度极快，剑路极其刁钻且不讲道理，被形容为棋盘上的“无理手” 。",
+  "evolution": {
+    "current_form": "在白玄窍穴内温养的灵动飞剑 。",
+    "materials_consumed": [
+      "剑气长城剑意"
+    ],
+    "potential_evolution": "若能获得更多远古剑意，可提升为半仙兵 。"
+  },
+  "visual": {
+    "static": "微缩如一抹游动的白云流光 。",
+    "active": "祭出时如白虹贯日，轨迹无序且快到极致 。"
+  },
+  "provenance": {
+    "origin": "剑气长城天才剑修白玄的本命之物 。",
+    "karma_link": "随陈平安来到落魄山，属于下宗青萍剑宗的未来砥柱 。"
+  },
+  "enriched": true
+}

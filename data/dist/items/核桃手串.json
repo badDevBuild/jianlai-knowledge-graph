@@ -1,0 +1,53 @@
+{
+  "name": "核桃手串",
+  "original_name": "远古神灵核桃串",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "消耗",
+  "description": "这是书简湖截江真君刘志茂赠予陈平安的防身至宝。由于每颗核桃都蕴含远古神灵的法力，对于当时身 体虚弱、不宜动手的陈平安来说非常实用 。",
+  "aliases": [
+    "核雕手串"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第449章 先生的剑在何方",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第464章 出拳并无区别",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第490章 肤腻城的下马威",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "刘志茂",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "属于消耗类法宝，每颗核桃的威力随持有者气机灌注而定 。",
+  "supernatural_ability": "可敕令风、雨、雷、电、火。每摘下一颗投掷于地，炸裂威力相当于金丹地仙的倾力一击 。",
+  "evolution": {
+    "current_form": "原有十二颗，现余八颗的核桃手串 。",
+    "materials_consumed": [
+      "远古神性精华"
+    ],
+    "potential_evolution": "不可再生，用完即毁 。"
+  },
+  "visual": {
+    "static": "略显稀疏的核桃手串，每颗核桃约指甲盖大小，雕刻有雨师、雷神等神祇模样 。",
+    "active": "投掷后核桃破碎，显化出远古神灵的一击威势 。"
+  },
+  "provenance": {
+    "origin": "刘志茂在书简湖秘密收藏的远古重器 。",
+    "karma_link": "刘志茂为补偿陈平安神魂受损而赠予，是极佳的护身之物 。"
+  },
+  "enriched": true
+}

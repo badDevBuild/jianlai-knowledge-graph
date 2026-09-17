@@ -1,0 +1,42 @@
+{
+  "name": "雨幕",
+  "original_name": "飞剑“雨幕”",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是剑气长城年轻天才剑修溥瑜的本命飞剑。该剑以诡谲的障眼法闻名，虽然目前由于受损导致持有者 境界停滞，但在战场规模化作战中依然具有极强的阻滞效果。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第645章 取金丹",
+      "owner": "溥瑜"
+    },
+    {
+      "chapter": "第913章 龙门对",
+      "owner": "溥瑜"
+    }
+  ],
+  "subtype": "攻伐类 / 幻象类",
+  "holder": "溥瑜",
+  "holder_relation": "大炼",
+  "rank": "法宝",
+  "rank_potential": "本为极具威力的本命物，但因战争受损严重，影响了持有者破开金丹瓶颈的上限 。",
+  "supernatural_ability": "极具障眼法，飞剑分身幻化极多，使战场如同处于迷离雨幕之中，干扰敌方判断 。",
+  "evolution": {
+    "current_form": "受损后的本命飞剑",
+    "materials_consumed": [
+      "水运精华",
+      "剑气"
+    ],
+    "potential_evolution": "若能获得顶级磨剑石修缮，有望恢复巅峰杀力。"
+  },
+  "visual": {
+    "static": "蕴含浓郁水气与迷蒙意象的飞剑。",
+    "active": "出剑时剑光分化万千，如同一场遮天蔽日的暴雨倾盆落下 。"
+  },
+  "provenance": {
+    "origin": "剑气长城剑修溥瑜本命孕育。",
+    "karma_link": "溥瑜曾任拖月城城主，此剑在守城战中多次发挥关键防御作用 。"
+  },
+  "enriched": true
+}

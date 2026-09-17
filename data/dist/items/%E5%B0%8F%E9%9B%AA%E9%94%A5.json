@@ -1,0 +1,88 @@
+{
+  "name": "小雪锥",
+  "original_name": "风雪小锥 / 竹管毛笔",
+  "type": "其他",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "这是一支极具灵性的文房雅具。陈平安曾借此在倒悬山和剑气长城绘制多张上品符箓，是其符道修为的 重要载体 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第262章 一叶扁舟，翩翩少年",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第263章 一道符",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第264章 大道之上",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第265章 大师兄姓左",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第296章 作别",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第340章 下笔有神",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第344章 圣人驾临碧游府",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第345章 君子六符，劾鬼镇剑",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第350章 白猿拖刀，君子一言",
+      "owner": "陈平安 (借给钟魁)"
+    },
+    {
+      "chapter": "第644章 下城头",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第926章 与诸君借取千山万水（七）",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "文房类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李希圣",
+      "relation": "赠予者"
+    },
+    {
+      "name": "紫竹岛岛主",
+      "relation": "制作者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "专为画符打造的灵笔，随使用者神识与真气强度的提升，可书写更高品阶的符箓 。",
+  "supernatural_ability": "**“下笔有神”**。只需呵入一口灵气，即可如饱蘸墨汁，笔迹芬芳且可防蛀百年 。",
+  "evolution": {
+    "current_form": "紫竹笔管，刻有“风雪小锥”等字样 。",
+    "materials_consumed": [
+      "上等紫竹",
+      "透明锋颖"
+    ],
+    "potential_evolution": "若长期受浩然正气浸染，可成为言出法随的圣贤儒笔。"
+  },
+  "visual": {
+    "static": "笔管修长，质地莹澈，笔尖有一小截透明的锋颖 。",
+    "active": "画符时灵光流转，能够精准传导修士的真气与神意 。"
+  },
+  "provenance": {
+    "origin": "由紫竹岛岛主秘制，李希圣将其赠予陈平安 。",
+    "karma_link": "陈平安走上符箓修士道路的重要工具，伴随其多次生死大战并绘制大量符箓 。"
+  },
+  "enriched": true
+}

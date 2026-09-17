@@ -1,0 +1,62 @@
+{
+  "name": "碧绿琉璃瓦",
+  "original_name": "道观遗址琉璃瓦",
+  "type": "材料",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "并非寻常御制瓦片，而是仙家秘法烧造，每一片都价值连城（火龙真人估值单片十颗谷雨钱）。陈平安 将其半卖半送给火龙真人，最终流入白帝城。",
+  "aliases": [
+    "琉璃瓦"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第541章 得宝",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第553章 大渎入海处遇故人",
+      "owner": "陈平安 -> 火龙真人"
+    },
+    {
+      "chapter": "第801章 为何问拳",
+      "owner": "柳赤诚(现)"
+    },
+    {
+      "chapter": "第802章 见个老先生",
+      "owner": "柳赤诚"
+    }
+  ],
+  "subtype": "建筑/炼物材料",
+  "holder": "柳赤诚",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "陈平安",
+      "relation": "夺取自"
+    },
+    {
+      "name": "火龙真人",
+      "relation": "曾持有"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "若能凑齐一万片，可媲美中土白帝城琉璃阁，跻身“浩然十景”。",
+  "supernatural_ability": "含有浓郁道气，雨后初霁时可天开七彩，宝光焕然。",
+  "evolution": {
+    "current_form": "带有岁月沧桑感的碧绿瓦片，宝光流转。",
+    "materials_consumed": [
+      "远古神仙道韵",
+      "万年风霜"
+    ],
+    "potential_evolution": "被柳赤诚用于修补白帝城琉璃阁，使其晋升为无瑕仙兵。"
+  },
+  "visual": {
+    "static": "通体碧绿，质地非凡，即便在废墟中亦不沾尘埃。",
+    "active": "被灵气激发后，映照云海如碧波，展现出远古仙府的宏大气象。"
+  },
+  "provenance": {
+    "origin": "源自北俱芦洲一处远古仙府遗址的山顶道观。",
+    "karma_link": "由陈平安在遗址中带走一百二十二片，后成为白帝城与落魄山之间交易的重器。"
+  },
+  "enriched": true
+}

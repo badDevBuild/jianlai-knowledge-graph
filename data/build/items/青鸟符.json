@@ -1,0 +1,44 @@
+{
+  "name": "青鸟符",
+  "original_name": "青鸾符",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一种将**符箓之道**与**坐骑功能**完美结合的奇物。 它能让不具备长途御风能力的修士瞬间跨越千里，是山上仙师出行的尊贵象征。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第895章 今宵爽快",
+      "owner": "蒲山云草堂"
+    }
+  ],
+  "subtype": "坐骑类 / 位移类",
+  "holder": "金阙仙府嫡传女修",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "金阙仙府",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "作为高级**仙家符箓**，具有在战场遗迹或长距离奔袭中极高的**实用性**。",
+  "supernatural_ability": "**符箓化形**：能够由一张薄纸幻化为真实的**五彩青鸾**坐骑，速度极快。",
+  "evolution": {
+    "current_form": "一张流光溢彩、铭刻有复杂鸟类纹路的符箓。",
+    "materials_consumed": [
+      "飞升道韵",
+      "云气精华"
+    ],
+    "potential_evolution": "若能融入真凤残魂，有望进阶为具备实战能力的**护道灵兽**。"
+  },
+  "visual": {
+    "static": "一张巴掌大小、金光萦绕的精美符纸。",
+    "active": "祭出后化作身形矫健、翎羽华丽的**青鸾**，在空中留下流萤般的轨迹。"
+  },
+  "provenance": {
+    "origin": "产自宝瓶洲**金阙仙府**。",
+    "karma_link": "是金阙仙府嫡传子弟标志性的**代步法宝**，曾在战场遗址大放异彩。"
+  },
+  "enriched": true
+}

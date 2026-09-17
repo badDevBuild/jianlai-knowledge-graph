@@ -1,0 +1,52 @@
+{
+  "name": "仿古仙剑",
+  "original_name": "吴霜降仿制仙剑",
+  "type": "仙剑",
+  "grade": "半仙兵",
+  "status": "活跃",
+  "description": "**这四把仿古仙剑（太白、道藏、万法、天真）是吴霜降对剑道极致的复刻**。它们本质上是四本“有 字天书”，是陈平安感悟上五境剑术的重要资粮 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第350章 白猿拖刀，君子一言",
+      "owner": "白猿 (原属太平山)"
+    },
+    {
+      "chapter": "第453章 吾心安处打个盹儿",
+      "owner": "无主 (原为道士镇压风水之物)"
+    },
+    {
+      "chapter": "第551章 真人一到便叩关",
+      "owner": "张山峰"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "吴霜降",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为“次一等真迹”，若能以太白剑尖等神物重新淬炼，有望恢复仙兵杀力",
+  "supernatural_ability": "分别模仿“太白”、“道藏”、“万法”、“天真”四把仙剑的道脉真意，威力极大",
+  "evolution": {
+    "current_form": "四把因问剑白玉京而品秩跌落的飞剑",
+    "materials_consumed": [
+      "岁除宫无数天材地宝",
+      "数十把剑仙飞剑残骸"
+    ],
+    "potential_evolution": "炼化四剑可让持有者领悟四种远古剑道显学"
+  },
+  "visual": {
+    "static": "形制古雅，剑身有细微损伤，但剑气依旧凛然",
+    "active": "祭出时可显化出四剑齐聚的宏大异象，剑光遮天蔽日"
+  },
+  "provenance": {
+    "origin": "岁除宫宫主吴霜降穷尽心力打造，旨在重现远古四仙剑神威",
+    "karma_link": "吴霜降在夜航船一战后，将其赠予陈平安作为赔罪与联盟贺礼"
+  },
+  "enriched": true
+}

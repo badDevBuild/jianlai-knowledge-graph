@@ -1,0 +1,44 @@
+{
+  "name": "金铎",
+  "original_name": "驱山铎",
+  "type": "重器",
+  "grade": "至宝",
+  "status": "活跃",
+  "description": "这是改变了大盈王朝地貌的镇国重器。它证明了在纯粹的暴力之外，术法同样可以塑造出宏大的功绩 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第748章 山水有重逢",
+      "owner": "大盈王朝国师(已故)"
+    }
+  ],
+  "subtype": "土法/地理类",
+  "holder": "大盈王朝柳氏",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大盈首任国师",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随持有者对土属道法的掌握，可实现真正的“改天换地” 。",
+  "supernatural_ability": "摇晃无声，却能引动地脉震颤，具备“驱山入海、填海为陆”的逆天神通 。",
+  "evolution": {
+    "current_form": "金色的铃铎状法器，由于长期封禁而灵光内敛 。",
+    "materials_consumed": [
+      "地脉气数",
+      "五金精粹"
+    ],
+    "potential_evolution": "可演化为操控整座天下山川走势的仙兵 。"
+  },
+  "visual": {
+    "static": "金光灿烂却不刺眼，表面刻有复杂的山岳纹路 。",
+    "active": "使用时虽无铃声，但周围山峦会随之位移，声势浩大 。"
+  },
+  "provenance": {
+    "origin": "大盈王朝第一任国师（渔夫出身）的至宝 。",
+    "karma_link": "由大盈末代皇帝从隐秘水府中寻得，挽救了部分国运 。"
+  },
+  "enriched": true
+}

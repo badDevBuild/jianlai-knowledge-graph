@@ -1,0 +1,44 @@
+{
+  "name": "文圣赠书",
+  "original_name": "老秀才赠送的典籍",
+  "type": "典籍",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "**文圣赠书是陈平安远游初期的道理源头**。在这些看似寻常的小册子里，蕴含着极深的正统文运，是 陈平安在书简湖、剑气长城等地坚持本心的精神支柱 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第347章 真先生也",
+      "owner": "陈平安/裴钱"
+    }
+  ],
+  "subtype": "儒家传承",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文圣（老秀才）",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "承载着文圣一脉的浩然气与读书种子，随持有者学问精进而灵气益发深厚",
+  "supernatural_ability": "“书籍养气”：能抵御邪祟，辅助修行者积攒精神气，磨砺道心",
+  "evolution": {
+    "current_form": "包括《小学》、《礼乐》等在内的数本旧书",
+    "materials_consumed": [
+      "宣纸",
+      "圣贤道理"
+    ],
+    "potential_evolution": "文运极高时，书中文字可显化为金色长河，具备“口含天宪”之威"
+  },
+  "visual": {
+    "static": "保存得干干净净、纸张泛黄的蒙学书籍，常置于陈平安的竹篓中",
+    "active": "翻阅时隐约可见文气升腾，对阴物鬼魅有天然的压胜作用"
+  },
+  "provenance": {
+    "origin": "由老秀才在骊珠洞天亲自挑选",
+    "karma_link": "是文圣对关门弟子的最初期许，见证了陈平安从泥腿子向儒家学子的转变"
+  },
+  "enriched": true
+}

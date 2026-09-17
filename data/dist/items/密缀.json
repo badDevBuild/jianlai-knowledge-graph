@@ -1,0 +1,38 @@
+{
+  "name": "密缀",
+  "original_name": "缝衣线 / 命理丝线",
+  "type": "材料",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "一种将“术”运用到人体生理构造极致的手段。对于陈平安而言，这既是磨砺意志的酷刑，也是重塑体魄 的机缘 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第633章 落座主位的那个年轻人",
+      "owner": "流霞洲某宗门"
+    }
+  ],
+  "subtype": "炼体/封禁类",
+  "holder": "缝衣人 (捻芯)",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "随缝衣人境界提升，可缝补修士的神魂裂缝，甚至承载“真名”重压。",
+  "supernatural_ability": "细微不可见，能够穿梭于人身气府经络，将外物或“真名”强行缝入修士体魄 。",
+  "evolution": {
+    "current_form": "由大妖筋髓或神灵金身碎片炼化而成的金色或银色长线 。",
+    "materials_consumed": [
+      "上古大妖筋骨",
+      "神魂精华"
+    ],
+    "potential_evolution": "九叠篆、鸟虫篆等符文与其融合，可化为“不灭金身”的经纬 。"
+  },
+  "visual": {
+    "static": "储存在绣袋中，看似普通的丝线，实则重若千钧 。",
+    "active": "在人身小天地内穿梭时，如金龙游走，散发出极强的压迫感 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代的“缝衣人”秘传工艺 。",
+    "karma_link": "捻芯以此法在陈平安脊柱上缝入大妖真名，使其体魄达到某种极致 。"
+  },
+  "enriched": true
+}

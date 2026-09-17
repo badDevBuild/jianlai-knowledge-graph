@@ -1,0 +1,38 @@
+{
+  "name": "地书",
+  "original_name": "旁门左道秘籍",
+  "type": "典籍",
+  "grade": "神器",
+  "status": "活跃",
+  "description": "地书代表了那些在正统道统之外，扎根于大地山川、更 为务实且多变的修行路径，虽然位阶略逊于天书，但在 人间影响极广 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1128章 二十人与候补们（十）",
+      "owner": "陆氏/芝兰署"
+    }
+  ],
+  "subtype": "传承/修行类",
+  "holder": "山泽野修 / 远古地仙",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "虽被视为旁门左道，但极致处可跻身远古“地仙”之列 。",
+  "supernatural_ability": "汇总了人间的各种实用术法，旨在利用自然资源达到长 生或御敌的目的 。",
+  "evolution": {
+    "current_form": "流传于人间的各类术法秘籍、地仙传承 。",
+    "materials_consumed": [
+      "五行精华",
+      "人间香火"
+    ],
+    "potential_evolution": "可作为二流山头开宗立派的根本法典 。"
+  },
+  "visual": {
+    "static": "大多表现为古旧的纸本或玉简，带有经年尘土气息 。",
+    "active": "施展时术法痕迹明显，往往伴随着浓重的烟火气或物理 层面的光效 。"
+  },
+  "provenance": {
+    "origin": "由远古女修在钻研“天书”过程中，为了契合人间应用而 演化出的分支 。",
+    "karma_link": "连接了山泽散修与正统大道之间的桥梁 。"
+  },
+  "enriched": true
+}

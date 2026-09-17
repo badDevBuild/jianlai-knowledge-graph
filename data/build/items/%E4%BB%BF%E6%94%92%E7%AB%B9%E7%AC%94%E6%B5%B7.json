@@ -1,0 +1,38 @@
+{
+  "name": "仿攒竹笔海",
+  "original_name": "文房笔海 / 竹木笔筒",
+  "type": "灵器",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "落魄山书房中极其常见的摆设，却因为里边插满的无数竹简而显得分量极重。每一枚竹简都是陈平安对 世界的某种体悟。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第620章 大家都是读书人",
+      "owner": "酡颜夫人"
+    }
+  ],
+  "subtype": "文房/收纳类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "若融入青神山竹材，可温养笔墨中的文气，助读书人笔底生花。",
+  "supernatural_ability": "能让插入其中的毛笔长久保持湿润而不腐，且能聚拢屋内微弱的文运与灵气。",
+  "evolution": {
+    "current_form": "瓷木兼有的筒状物，外壁多刻有山水图景或先贤语录。",
+    "materials_consumed": [
+      "龙泉青瓷碎末",
+      "青神山残竹"
+    ],
+    "potential_evolution": "高阶者可作为“山水笔阵”的阵眼，以文气压胜外魔。"
+  },
+  "visual": {
+    "static": "样式素雅，错落有致，里边插满了各式各样的竹制书签。",
+    "active": "当主人的文思涌现时，笔海会散发出淡淡的墨香和微弱的绿光。"
+  },
+  "provenance": {
+    "origin": "陈平安在落魄山竹楼亲手整理、或是在路途中随手制成。",
+    "karma_link": "承载了陈平安远游千万里留下的所有文字笔记，是其“讲道理”的实物载体。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,45 @@
+{
+  "name": "半截剑气长城之剑",
+  "original_name": "浮萍",
+  "type": "仙剑",
+  "grade": "神兵",
+  "status": "活跃",
+  "description": "这是陈平安作为末代隐官的立身之器，亦是其为先生合 道三洲、补足地缺的重要手段 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1196章 飞升见余斗",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐/因果类",
+  "holder": "陈平安",
+  "holder_relation": "大炼",
+  "previous_holders": [
+    {
+      "name": "陈清都",
+      "relation": "继承自"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "由此前万年刑徒之气凝聚，融合陈清都的最后剑意，具 备截断光阴、重塑天地的至高潜力 。",
+  "supernatural_ability": "承载了“剑气长存”的无上意气，出剑时可无视绝大多数 空间禁制，其剑气如浮萍归海，连绵不绝 。",
+  "evolution": {
+    "current_form": "由半截剑气长城遗址蜕变而成的长剑，命名为“浮萍” 。",
+    "materials_consumed": [
+      "万年剑气积淀",
+      "陈清都残留魂魄",
+      "长城砖石精华"
+    ],
+    "potential_evolution": "可成为落魄山下宗青萍剑宗的镇宗仙剑 。"
+  },
+  "visual": {
+    "static": "剑身透着一股岁月的粗粝感，隐约可见长城砖瓦的纹路 ，色泽清冷 。",
+    "active": "挥动时激发出浩瀚如海的雪白剑气，剑光所过之处，空 间产生如琉璃崩碎的绚烂景象 。"
+  },
+  "provenance": {
+    "origin": "由陈平安合道半座剑气长城后，以长城遗址残余精气炼 化而生 。",
+    "karma_link": "象征着剑气长城不屈脊梁的延续，与陈清都的剑道法统 密不可分 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,42 @@
+{
+  "name": "三百万卷藏书",
+  "original_name": "周密心相书海",
+  "type": "典籍",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "**文海周密在心中显化的无涯学海** 。他以此构建出层次分明的小世界，通过**开卷有益**不断突破修行的瓶颈 [12-14]。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第739章 春风得意",
+      "owner": "周密"
+    },
+    {
+      "chapter": "第740章 书信",
+      "owner": "崔瀺/齐静春"
+    }
+  ],
+  "subtype": "知识/道场类",
+  "holder": "周密",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "涵盖三教诸子百家，是冲击更高境界的大道资粮。",
+  "supernatural_ability": "每卷书皆可化作一座小天地，能够通过吞噬百家学问补完自身大道 。",
+  "evolution": {
+    "current_form": "堆积如山、构成多层阁楼的庞大藏书体系 。",
+    "materials_consumed": [
+      "诸子百家经典",
+      "修士道心"
+    ],
+    "potential_evolution": "演化为掌控整个人间知识脉络的终极道场"
+  },
+  "visual": {
+    "static": "在周密的心湖中显化为巨大的书山，层层递进，蔚为壮观 。",
+    "active": "翻开时万千文字流转如河，可演化出无数的术法杀招 。"
+  },
+  "provenance": {
+    "origin": "周密一生远游求学、修道搜罗而来的成果 。",
+    "karma_link": "周密跻身十四境并入主远古天庭的根本依据 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,42 @@
+{
+  "name": "芥子",
+  "original_name": "虚幻画卷“芥子图”",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此画卷是崔东山“算计天下”的视觉化呈现。它看似一幅地图，实则是崔东山作为仙人境大修士对空间法 则的极致运用，与《山河》图并称双璧 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第701章 风雪中",
+      "owner": "白衣少年"
+    },
+    {
+      "chapter": "第864章 单挑",
+      "owner": "流白"
+    }
+  ],
+  "subtype": "空间类 / 绘画类",
+  "holder": "崔东山",
+  "holder_relation": "持有",
+  "rank": "仙兵",
+  "rank_potential": "崔东山心相所化，具备演化为一处上等福地甚至小世界的空间上限 。",
+  "supernatural_ability": "芥子纳须弥。在不足数丈的画轴中，真实容纳了百万里壮丽山河，其内生灵可自然演化 。",
+  "evolution": {
+    "current_form": "长达数十丈、气象宏大的悬空长卷 。",
+    "materials_consumed": [
+      "浩然天下山河文运",
+      "仙人精气神"
+    ],
+    "potential_evolution": "可与《山河》图合一，成就一座大千世界 。"
+  },
+  "visual": {
+    "static": "全长数十丈，画卷上山峦起伏，水路纵横，细节处纤毫毕现 。",
+    "active": "展开时如同一座真实世界降临，令看客有如身临其境、心游万仞之感 。"
+  },
+  "provenance": {
+    "origin": "崔东山在第五座天下凭借记忆与大道演化亲手绘制 。",
+    "karma_link": "承载了崔东山对浩然山河的回忆，亦是其布局下宗气运的重要棋子 。"
+  },
+  "enriched": true
+}

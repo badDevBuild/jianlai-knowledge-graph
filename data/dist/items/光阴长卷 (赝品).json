@@ -1,0 +1,40 @@
+{
+  "name": "光阴长卷 (赝品)",
+  "original_name": "光阴走马图",
+  "type": "灵物",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这是陈平安尝试**构建自身小天地**的雏形工具。它并非实体法宝，而是其**道心与记忆的具象化**， 用于梳理漫长修行岁月中的人心脉络 。",
+  "aliases": [
+    "光阴画卷"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第1037章 天公作美",
+      "owner": "曹溶 (陆沉赠)"
+    }
+  ],
+  "subtype": "记录类",
+  "holder": "陈平安",
+  "holder_relation": "寄托",
+  "rank": "灵器",
+  "rank_potential": "随持有人神识强弱而演化，具备复现整座天下历史细节的潜力 。",
+  "supernatural_ability": "能够以彩绘和白描形式复现持有者记忆深处的景象 。",
+  "evolution": {
+    "current_form": "陈平安从心湖中抽出的一张纸卷 。",
+    "materials_consumed": [
+      "心湖神识",
+      "记忆碎片"
+    ],
+    "potential_evolution": "可演化为支撑小千世界底层逻辑的真实历史长河 。"
+  },
+  "visual": {
+    "static": "一张彩绘与白描交杂的画卷 。",
+    "active": "景象如走马灯般流转，记忆深刻处颜色绚丽，模糊处则为粗糙白描 。"
+  },
+  "provenance": {
+    "origin": "陈平安凭借自身神识与记忆在心湖中凝练而成 。",
+    "karma_link": "与陈平安游历北俱芦洲鬼蜮谷的见闻因果相连 。"
+  },
+  "enriched": true
+}

@@ -1,0 +1,57 @@
+{
+  "name": "三尺甘霖",
+  "original_name": "螭龙玉牌 / 峻青雨相牌",
+  "type": "灵物",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是一件品级极高的神道重器，不仅是身份的象征，更是掌控天下水运的“敲门砖”。沈霖等水神见此牌 如见天官。 , ,",
+  "aliases": [
+    "“三尺甘霖”螭龙牌"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第549章 横剑在膝四顾茫然",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第550章 可惜下雨不下钱",
+      "owner": "陈平安(暂存)"
+    },
+    {
+      "chapter": "第554章 登门做客吃顿拳",
+      "owner": "李源"
+    },
+    {
+      "chapter": "第689章 一个年轻人的小故事",
+      "owner": "李源"
+    }
+  ],
+  "subtype": "气运/神道类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "李柳",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "承载了远古天庭水部高位神灵的大道真意，上限极高。",
+  "supernatural_ability": "能感通天地水脉，炼化后可请下相当于元婴境乃至玉璞境杀力的“雨相”法相。",
+  "evolution": {
+    "current_form": "一面雕刻行龙纹，一面古篆“三尺甘霖”或“峻青雨相”。",
+    "materials_consumed": [
+      "远古水部神灵真髓"
+    ],
+    "potential_evolution": "可作为重塑人身小天地“水德”的根本载体。"
+  },
+  "visual": {
+    "static": "沉甸甸的玉质令牌，刻痕中古意盎然，隐约有云雨汇聚之象。",
+    "active": "祭出后可引动江河大渎之水，甚至令水神神灵感受到天道威压。"
+  },
+  "provenance": {
+    "origin": "源自远古天庭水部神灵“峻青”，由李柳（前任水神）转交。",
+    "karma_link": "李柳以此物报答陈平安对李槐的一路护道之情。"
+  },
+  "enriched": true
+}

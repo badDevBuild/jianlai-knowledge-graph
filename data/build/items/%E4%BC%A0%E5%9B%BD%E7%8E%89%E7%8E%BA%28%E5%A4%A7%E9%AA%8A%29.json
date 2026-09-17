@@ -1,0 +1,53 @@
+{
+  "name": "传国玉玺(大骊)",
+  "original_name": "大骊国师印 / 敕令山河印",
+  "type": "法宝",
+  "grade": "重宝",
+  "status": "活跃",
+  "description": "不仅是世俗权力的象征，更是陈平安用来实践“讲道理”的重要法器，承载着大骊王朝在乱世中崛起的全 部气数。,",
+  "aliases": [
+    "龙门玺",
+    "青色玉玺",
+    "玉玺",
+    "传国玉玺(大骊)"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第13章 相逢",
+      "owner": "高稹"
+    },
+    {
+      "chapter": "第167章 我法宝多啊",
+      "owner": "崔瀺"
+    }
+  ],
+  "subtype": "权柄类 / 镇压类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "崔瀺",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "随持印者功德提升及大骊版图扩张，可演化为掌控一洲气运的终极枢纽。,",
+  "supernatural_ability": "“敕令封正”。见印如见国师，可封正山水神灵、压制一洲气脉，在大礼议中具备至高法理权限。,[ 22]",
+  "evolution": {
+    "current_form": "底款篆刻有大骊法度文字，金石气象沉稳凝重。",
+    "materials_consumed": [
+      "大骊一洲国运",
+      "儒家事功学问"
+    ],
+    "potential_evolution": "炼化后可与人身小天地的法理核心融合，构建真实的“山河图层”。"
+  },
+  "visual": {
+    "static": "形制肃穆，呈现苍青色或纯金光泽，散发出凛然的威压感。",
+    "active": "钤印公文时有金光铺展化为法度长河，印痕如钉，钉死地脉龙气。,"
+  },
+  "provenance": {
+    "origin": "大骊皇室密库及国师崔瀺亲手祭炼。,",
+    "karma_link": "象征着大骊事功学问的传承，是陈平安接手大骊法统的证明。"
+  },
+  "enriched": true
+}

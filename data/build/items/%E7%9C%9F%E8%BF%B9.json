@@ -1,0 +1,38 @@
+{
+  "name": "真迹",
+  "original_name": "飞剑“万法”",
+  "type": "本命飞剑",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "小陌的三把主攻伐飞剑之一，以极具迷惑性的模仿功能著称。它是小陌辅佐陈平安在蛮荒天下纵横捭阖 的重要利刃 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第892章 世外高人",
+      "owner": "小陌"
+    }
+  ],
+  "subtype": "模仿类 / 攻伐类",
+  "holder": "小陌",
+  "holder_relation": "大炼",
+  "rank": "仙兵",
+  "rank_potential": "其模仿上限极高，理论上可复刻世间一切非仙兵级的本命神通 。",
+  "supernatural_ability": "**“模仿神通”**。能够模仿他人飞剑的本命神通，虽然维持时间有限且品秩会降低，但在实战中极具欺 骗性 。",
+  "evolution": {
+    "current_form": "小陌持有的三把主攻伐本命飞剑之一 。",
+    "materials_consumed": [
+      "万年剑意精华",
+      "大道真意碎片"
+    ],
+    "potential_evolution": "若通过特定的“洗剑”秘法温养，可缩短模仿神通的冷却时间 。"
+  },
+  "visual": {
+    "static": "隐匿于剑意小天地中，静止时形态多变 。",
+    "active": "剑光流转，可根据模仿对象的神通瞬间变换气象，或如雷霆万钧，或如春水缠绵 。"
+  },
+  "provenance": {
+    "origin": "小陌本命孕育 。",
+    "karma_link": "由陈平安命名，象征小陌见证世间万法皆为“真迹”的境界 。"
+  },
+  "enriched": true
+}

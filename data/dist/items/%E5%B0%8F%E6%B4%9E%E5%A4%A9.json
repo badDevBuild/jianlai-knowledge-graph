@@ -1,0 +1,52 @@
+{
+  "name": "小洞天",
+  "original_name": "小洞天法袍",
+  "type": "法宝",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "小洞天是一件以空间属性著称的半仙兵法袍，常与鱼尾洞天法袍混谈，其实际效用在于通过内嵌的小型 空间维度来抵御外界侵扰 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第787章 河畔",
+      "owner": "流白"
+    },
+    {
+      "chapter": "第883章 看酒",
+      "owner": "曹晴朗/裴钱"
+    },
+    {
+      "chapter": "第901章 山巅问拳",
+      "owner": "裴钱"
+    }
+  ],
+  "subtype": "防御类 / 空间类",
+  "holder": "流白",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "周密",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为能够承载空间维度的法袍，其防御逻辑在于空间距离的拉伸，上限极高 。",
+  "supernatural_ability": "具备空间折叠与避法之能，使得持有者在面对法术攻击时，能通过袍内空间进行卸力或规避 。",
+  "evolution": {
+    "current_form": "法袍，通常与碧绿芙蓉冠搭配使用 。",
+    "materials_consumed": [
+      "洞天本源",
+      "时空晶石"
+    ],
+    "potential_evolution": "未知。"
+  },
+  "visual": {
+    "static": "袍服表面流转着类似星空的深邃光晕，其材质非丝非帛，更像是一种半透明的质感 。",
+    "active": "当敌方攻击临近时，法袍周围会产生扭曲的波纹，将实质伤害转入虚无 。"
+  },
+  "provenance": {
+    "origin": "由文海周密赐予流白的保命重器 。",
+    "karma_link": "常被用作衡量蛮荒天下对顶尖天才扶持力度的标准 。"
+  },
+  "enriched": true
+}

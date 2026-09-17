@@ -1,0 +1,44 @@
+{
+  "name": "碧绿琉璃酒壶",
+  "original_name": "方寸物之祖",
+  "type": "方寸物",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是世界上第一个成功的空间存储实验品。它极大地提 升了修士远行和作战的补给能力，具有划时代的意义。[ 10]",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第963章 饮尽一杯酒",
+      "owner": "龙新浦"
+    }
+  ],
+  "subtype": "空间/收纳类",
+  "holder": "矮小汉子",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "兰锜",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "作为空间法宝的始祖，虽是半成品，却蕴含了最初的空 间法则。",
+  "supernatural_ability": "内含乾坤，能装载美酒并使其蕴含灵气。摇晃时发出的 声响具有稳定神魂的效果。",
+  "evolution": {
+    "current_form": "一只碧绿莹亮的袖珍琉璃酒壶。",
+    "materials_consumed": [
+      "远古玉石精华",
+      "空间碎片"
+    ],
+    "potential_evolution": "可作为精炼所有后世方寸物的法理核心。"
+  },
+  "visual": {
+    "static": "造型古拙，通体碧绿，晶莹剔透，可见壶内液体晃动。",
+    "active": "倒酒时会有灵气喷薄，引动微型的气象异象。"
+  },
+  "provenance": {
+    "origin": "由远古“天下十豪”之一的兰锜率先铸造炼制。",
+    "karma_link": "对后世山上格局影响深远，是所有空间类宝物的源头。"
+  },
+  "enriched": true
+}

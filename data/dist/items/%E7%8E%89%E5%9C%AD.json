@@ -1,0 +1,44 @@
+{
+  "name": "玉圭",
+  "original_name": "镇圭 / 齐静春之圭",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "此玉圭是齐静春极为珍视的儒教礼器，正面密文与四镇之山雕刻体 现了儒家平定四方的志向 。其背面铭文法度严谨、骨力刚健，是文圣一脉薪火相传的重要 信物 。该玉圭曾见证了齐静春对恩师的思念及其在小镇的最后岁月 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第11章 少女和飞剑",
+      "owner": "齐静春"
+    }
+  ],
+  "subtype": "礼器/镇压类",
+  "holder": "齐静春",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "文圣",
+      "relation": "原主"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "承载一洲文运与法度，具有镇压一地的气运 。",
+  "supernatural_ability": "镇压四方安定，寄寓儒家礼制与规矩 。",
+  "evolution": {
+    "current_form": "一尺二寸玉圭",
+    "materials_consumed": [
+      "文气",
+      "浩然正气"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "长一尺二寸，四角雕刻有四镇之山，正面刻有密集小篆铭文 。",
+    "active": "背面刻有‘筋骨极壮，神意极长’八个大字，神意饱满 。"
+  },
+  "provenance": {
+    "origin": "源自文圣一脉传承，由齐静春持有 。",
+    "karma_link": "象征着齐静春坐镇骊珠洞天、为一洲续命的圣人权柄 。"
+  },
+  "enriched": true
+}

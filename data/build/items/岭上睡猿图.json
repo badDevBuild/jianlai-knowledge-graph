@@ -1,0 +1,38 @@
+{
+  "name": "岭上睡猿图",
+  "original_name": "古战场遗迹古画",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "损毁",
+  "description": "这是一款能够在瞬间召唤出巨型战力的古画。由于卷入陈平安在蛮荒天下的“见好就收”行动，这件珍贵 的古物最终在仙簪城的冲突中彻底损毁 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第857章 摧城",
+      "owner": "老修士"
+    }
+  ],
+  "subtype": "召唤类 / 防御类",
+  "holder": "已销毁 (曾由外乡老修士持有)",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为古老秘境的访仙产物，其召唤物具备极强的物理破坏力 。",
+  "supernatural_ability": "抛出画卷后，可从画中显现出一头千丈高的巨型老猿，具备极强的战力 。",
+  "evolution": {
+    "current_form": "一幅古色古香的画卷 。",
+    "materials_consumed": [
+      "远古灵气",
+      "笔墨真意"
+    ],
+    "potential_evolution": "无（已被陈平安法相击碎） 。"
+  },
+  "visual": {
+    "static": "质地古朴的卷轴，画中绘有山岭与沉睡的老猿 。",
+    "active": "画卷展开，巨猿跃出，背脊有一条金线，身形遮天蔽日 。"
+  },
+  "provenance": {
+    "origin": "来自蛮荒天下某处古战场遗址 。",
+    "karma_link": "一名老修士游历仙簪城时购得，试图以此阻拦陈平安的法相，结果被一拳打成齑粉 。"
+  },
+  "enriched": true
+}

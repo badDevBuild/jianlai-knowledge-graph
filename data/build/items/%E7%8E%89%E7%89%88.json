@@ -1,0 +1,44 @@
+{
+  "name": "玉版",
+  "original_name": "法袍炼制宝鉴",
+  "type": "灵物",
+  "grade": "秘籍",
+  "status": "活跃",
+  "description": "记载了世间最顶级法袍炼制技术的玉册。它是落魄山敛 财与结交四方的重宝，直接提升了宗门的硬实力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第799章 登高望远",
+      "owner": "陈平安 (从嫩道人处获得)"
+    }
+  ],
+  "subtype": "资料/技术类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "嫩道人 (桃亭)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "可助落魄山与彩雀府打造出媲美仙兵品秩的法袍 。",
+  "supernatural_ability": "记载金翠城独有的“水路分阴阳”、“通经断纬”等顶尖法 袍织造手艺 。",
+  "evolution": {
+    "current_form": "宝光莹然的玉质版块 。",
+    "materials_consumed": [
+      "金翠城秘传",
+      "蛮荒道韵"
+    ],
+    "potential_evolution": "可演化为落魄山未来的“制衣司”根本法统 。"
+  },
+  "visual": {
+    "static": "玉质剔透，其上刻满蝇头小楷，文字流动宝光 。",
+    "active": "研读时文字可投影虚空，显化出复杂的法袍经纬交织轨 迹 。"
+  },
+  "provenance": {
+    "origin": "源自蛮荒天下金翠城，由嫩道人作为交换条件赠予陈平 安 。",
+    "karma_link": "落魄山垄断高阶法袍生意的关键物资 。"
+  },
+  "enriched": true
+}

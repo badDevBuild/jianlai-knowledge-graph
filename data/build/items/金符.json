@@ -1,0 +1,48 @@
+{
+  "name": "金符",
+  "original_name": "云霄宫秘传符箓",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "消耗品",
+  "description": "这是云霄宫最引以为傲的攻伐手段，专门针对强横妖族和作祟鬼神，具有极强的因果杀力 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第531章 山巅境的拳头有点重",
+      "owner": "古柏精魅 (陈平安赠)"
+    }
+  ],
+  "subtype": "攻伐类 / 压胜类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "杨凝性",
+      "relation": "夺取自"
+    },
+    {
+      "name": "崇玄署云霄宫",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "若由仙人境修士配合秘传口诀施展，威力可撼动大山 。",
+  "supernatural_ability": "符胆蕴含四粒神性光芒，祭出后可召唤四位远古神灵（雷神、电母、风伯、雨师）合力一击 。",
+  "evolution": {
+    "current_form": "金色材质、刻画繁密的纸质符箓 。",
+    "materials_consumed": [
+      "雷电真意",
+      "神灵气息"
+    ],
+    "potential_evolution": "可配合其余云霄秘符结成雷城大阵 。"
+  },
+  "visual": {
+    "static": "金色纸张流光溢彩，符文如铁钩银划，散发出肃杀之气 。",
+    "active": "燃烧时天雷轰顶，四尊巍峨神灵法相显化于云层之上，威压惊人 。"
+  },
+  "provenance": {
+    "origin": "大源王朝崇玄署云霄宫杨氏家族的终极秘传 。",
+    "karma_link": "陈平安在鬼蜮谷从杨凝性手中收缴，并由姜尚真传授了激活之法 。"
+  },
+  "enriched": true
+}

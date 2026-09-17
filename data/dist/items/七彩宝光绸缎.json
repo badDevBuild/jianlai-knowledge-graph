@@ -1,0 +1,44 @@
+{
+  "name": "七彩宝光绸缎",
+  "original_name": "七色彩衣甘露甲",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“七彩”是兵家甲丸的开山之作，与西岳、云海等宝甲并称为祖宗甲 , 。它并非寻常绸缎，而是由神道法则与五彩灵气交织而成的防御重器 , 。在剑气长城一战中，赊月曾以此甲硬抗年轻隐官的凌厉出拳 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第654章 年轻朱敛",
+      "owner": "桃芽"
+    }
+  ],
+  "subtype": "防御类",
+  "holder": "赊月",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "远古神灵",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为七件“祖宗”甘露甲之一，其防御上限可随月魄精华的注入而不断提升 , 。",
+  "supernatural_ability": "能够随心念幻化为绚烂的彩衣宝甲，拥有极强的神道威压与全方位防御力 , 。",
+  "evolution": {
+    "current_form": "由月色清辉凝聚而成的七彩宝光形态 , 。",
+    "materials_consumed": [
+      "远古彩虹",
+      "月魄精粹"
+    ],
+    "potential_evolution": "若能获得真正的神灵金身碎片，可恢复至远古仙兵威能 。"
+  },
+  "visual": {
+    "static": "在月光映照下呈现出如水纹般流动的七彩绸缎光泽 , 。",
+    "active": "披挂在身时如同一挂远古彩虹，金光流溢且宝相森严 , 。"
+  },
+  "provenance": {
+    "origin": "由远古十二高位神灵之一的“铸造者”以远古彩虹炼化而成 , 。",
+    "karma_link": "作为远古天庭神灵巡游时的披挂，因大战破碎而流散，最终由赊月通过本命神通重现其形 , 。"
+  },
+  "enriched": true
+}

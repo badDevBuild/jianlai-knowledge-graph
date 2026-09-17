@@ -1,0 +1,44 @@
+{
+  "name": "昔年刻舟",
+  "original_name": "“渎”字、“湖”字短剑",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“昔年刻舟”是一对蕴含深厚水德道意的短剑，由陈平安从化外天魔霜降处获得。它们是陈平安构建完美 五行本命格局的关键辅助工具，最终被安置于其本命水府之中。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第681章 辛苦修行为哪般",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "攻伐类 / 辅助类",
+  "holder": "陈平安",
+  "holder_relation": "中炼",
+  "previous_holders": [
+    {
+      "name": "霜降 (化外天魔)",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为上古遗剑，具备协助完善人身小天地水脉格局的特殊潜力。",
+  "supernatural_ability": "短剑铭刻“渎”、“湖”二字，炼化后可显化为水府“龙湫”中的蛟龙，构建双龙夺珠之局，稳固一身水运气 机。",
+  "evolution": {
+    "current_form": "两把刻有“渎”、“湖”二字的上古短剑。",
+    "materials_consumed": [
+      "水运精华",
+      "灵气"
+    ],
+    "potential_evolution": "可在跻身龙门境后大炼为水府的护法灵龙。"
+  },
+  "visual": {
+    "static": "质地古朴的短剑，剑身分别篆刻有“渎”字与“湖”字。",
+    "active": "祭出时如龙入海，可在人身小天地中显化为一黑一白两条蛟龙。"
+  },
+  "provenance": {
+    "origin": "由霜降（化外天魔）在剑气长城牢狱中作为买卖添头赠予陈平安。",
+    "karma_link": "承载着霜降对陈平安建设“心相天地”的指点与算计。"
+  },
+  "enriched": true
+}

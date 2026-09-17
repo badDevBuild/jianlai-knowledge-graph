@@ -1,0 +1,44 @@
+{
+  "name": "淋漓",
+  "original_name": "淋漓渡船",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是属于铁树山飞升境大妖郭藕汀（幽明）的跨洲渡船。该船不仅是一件交通工具，更因其特殊的驱动 方式（画中龙蛟）和随行的多位丹青圣手而闻名浩然山巅 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第679章 人间俱是远游客",
+      "owner": "黄褐"
+    }
+  ],
+  "subtype": "渡船类",
+  "holder": "郭藕汀 (幽明)",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "铁树山",
+      "relation": "原主"
+    }
+  ],
+  "rank": "法宝",
+  "rank_potential": "作为铁树山的跨洲重器，具备在多种极端海况下稳固穿行的能力 。",
+  "supernatural_ability": "由安乐寺壁画中的白龙与《神龙沛雨图》中的墨蛟共同拖拽，具备极强的辟水与行云布雨能力 。",
+  "evolution": {
+    "current_form": "规模宏大的跨洲楼船 。",
+    "materials_consumed": [
+      "神龙魂魄",
+      "大河气运"
+    ],
+    "potential_evolution": "若能融合更多远古水陆画卷，可演化为真正的飞行龙宫 。"
+  },
+  "visual": {
+    "static": "雕梁画栋，气势磅礴，船身伴有腥血淋漓的压胜气象 。",
+    "active": "行驶时由一龙一蛟在前方开路，水浪滔天，声势震动海域 。"
+  },
+  "provenance": {
+    "origin": "铁树山大妖郭藕汀的私人资产 。",
+    "karma_link": "其命名源自郭藕汀的本命佩刀“枭首”，寓意“腥血淋漓炼宝刀” 。"
+  },
+  "enriched": true
+}

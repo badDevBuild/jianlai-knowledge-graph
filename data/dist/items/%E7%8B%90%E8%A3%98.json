@@ -1,0 +1,46 @@
+{
+  "name": "狐裘",
+  "original_name": "雪白狐裘 / 贵公子法衣",
+  "type": "灵物",
+  "grade": "灵器",
+  "status": "活跃",
+  "description": "狐裘在《剑来》中常作为权贵或大修士下山游历的标志 装束。它既是华丽的衣物，也是具备实用价值的辅助法 宝 [31-33]。",
+  "aliases": [
+    "狐裘"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第66章 抬头",
+      "owner": "宋长镜"
+    }
+  ],
+  "subtype": "防御/驻颜类",
+  "holder": "大泉女帝姚近之 / 贵公子",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "清风城狐国",
+      "relation": "原主"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "受女修常年温养，可进化为具备“幻化”神通的顶级法袍 [31-33]。",
+  "supernatural_ability": "不仅避寒御风，还具备极佳的遮蔽气机与驻颜功效，能 让穿着者显得气度非凡 。",
+  "evolution": {
+    "current_form": "一件雪白如云、质地极其轻盈的狐皮大衣 。",
+    "materials_consumed": [
+      "千年灵狐皮",
+      "灵气丝线"
+    ],
+    "potential_evolution": "可升级为带有“九尾”神性的防御重器。"
+  },
+  "visual": {
+    "static": "色泽莹润，长毛在微风中轻颤，自带一股内敛的宝光 。",
+    "active": "在雪天映照下，狐裘会产生一层淡淡的灵气光晕，隔绝 风雪侵袭 。"
+  },
+  "provenance": {
+    "origin": "产自北俱芦洲或清风城狐国，多由皇家供奉收藏 。",
+    "karma_link": "体现了山下王朝对山上机缘的渴望与权贵身份的物化象 征 。"
+  },
+  "enriched": true
+}

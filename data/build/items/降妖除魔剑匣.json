@@ -1,0 +1,44 @@
+{
+  "name": "降妖除魔剑匣",
+  "original_name": "槐木剑匣 / 槐宅",
+  "type": "灵器",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "陈平安远游初期的重要盛放法器，因其槐木材质对鬼魅有天然亲和力，成为了金色香火小人、石柔等灵 体的安身之所 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第209章 也是木剑",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "储存类 / 护持类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "阮秀",
+      "relation": "协助制作者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "随着内部温养的阴物和剑意提升，品秩可随之进阶 。",
+  "supernatural_ability": "“滋养魂魄”。内部自成一方小天地，非常适合阴物、香火小人栖息和增长修为，被戏称为“槐宅” 。",
+  "evolution": {
+    "current_form": "由骊珠洞天老槐木制成的长条剑匣 。",
+    "materials_consumed": [
+      "老槐木",
+      "山水真意"
+    ],
+    "potential_evolution": "可演化为稳固神魂的顶级冥器 。"
+  },
+  "visual": {
+    "static": "质感温润，带有老槐木特有的沉静纹理 。",
+    "active": "平时承载“降妖”、“除魔”两剑，危急时刻可作为灵体的庇护所 。"
+  },
+  "provenance": {
+    "origin": "陈平安利用家乡被砍倒的老槐树，在龙泉郡请阮秀协助打造而成 。",
+    "karma_link": "与陈平安的家乡因果及阮秀的情谊紧密相连 。"
+  },
+  "enriched": true
+}

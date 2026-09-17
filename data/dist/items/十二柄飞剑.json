@@ -1,0 +1,46 @@
+{
+  "name": "十二柄飞剑",
+  "original_name": "玉版城剑阵",
+  "type": "本命飞剑",
+  "grade": "仙兵",
+  "status": "活跃",
+  "description": "这套飞剑并非凡物，而是**玉版城的阵法中枢**。陈平安利用其搭 配太平山阵图，成功提升了落魄山的攻伐底蕴，足以重伤仙人境大 修士 。",
+  "aliases": [
+    "十二柄飞剑",
+    "十二把飞剑"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第68章 天下有春",
+      "owner": "云上仙人"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "云纹王朝皇帝（叶瀑）",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "配合太平山阵图，可构建出针对仙人境修士的极致杀阵 。",
+  "supernatural_ability": "通过**红珊瑚笔架**结阵，具有极强的范围绞杀能力，可镇压一国 气运 。",
+  "evolution": {
+    "current_form": "放置于红珊瑚笔架上的十二把袖珍飞剑",
+    "materials_consumed": [
+      "蛮荒天下剑道气运"
+    ],
+    "potential_evolution": "太平山圆满剑阵"
+  },
+  "visual": {
+    "static": "十二把形态各异的小巧飞剑，搁放在一尊**红珊瑚笔架**之上 。",
+    "active": "剑光如虹，飞掠时雷鸣阵阵，能够演化出如林间笔阵般的错落杀机 。"
+  },
+  "provenance": {
+    "origin": "蛮荒天下云纹王朝玉版城的护城重器 。",
+    "karma_link": "由陈平安从叶瀑处“借”走，用于强化落魄山下宗的防御 。"
+  },
+  "enriched": true
+}

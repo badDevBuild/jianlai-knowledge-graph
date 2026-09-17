@@ -1,0 +1,48 @@
+{
+  "name": "紫色镜片",
+  "original_name": "龙宫种玉芝 / 紫玻璃",
+  "type": "灵物",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是一种极其罕见的**水属矿产**，因其独特的**莹澈**性质被视为**龙宫奇珍**。 它不仅是珍贵的炼造仙材，更是修士勘察地理、洞悉天时的得力助手。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第896章 日月皆如水上萍",
+      "owner": "老妪"
+    }
+  ],
+  "subtype": "辅助类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "大渎龙宫",
+      "relation": "原主"
+    },
+    {
+      "name": "老妪裘渎",
+      "relation": "赠予者"
+    }
+  ],
+  "rank": "灵器",
+  "rank_potential": "通过特定的打磨与炼制，可成为窥探**天机与星辰**的至高神器。",
+  "supernatural_ability": "能够极大增强使用者的**目力**，看清星辰脉络并恢复受损的眼眸。",
+  "evolution": {
+    "current_form": "两片质地极佳、莹澈透光的**紫玻璃**。",
+    "materials_consumed": [
+      "龙宫水精",
+      "紫金灵芝"
+    ],
+    "potential_evolution": "可作为**神人掌观山河**神通的辅助器物，跨越洲际观察微末人事。"
+  },
+  "visual": {
+    "static": "呈现深邃紫色的半透明镜片，光泽如水，温润如玉。",
+    "active": "当神识注入时，镜片会闪烁出**紫金色的流光**，映照出千里外的景象。"
+  },
+  "provenance": {
+    "origin": "源自远古**大渎龙宫**的秘藏。",
+    "karma_link": "由龙宫教习嬷嬷裘渎赠送给陈平安，用以结下善缘。"
+  },
+  "enriched": true
+}

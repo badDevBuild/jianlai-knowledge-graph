@@ -1,0 +1,43 @@
+{
+  "name": "披麻宗剑匣",
+  "original_name": "棉布裹缠的剑匣",
+  "type": "法宝",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是披麻宗老剑修程荃的随身之物，里面不仅藏有剑器，更寄存了对同道中人的哀思。 它在岁除宫的留存，标志着剑气长城一脉在异乡的法统延续 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第514章 先生包袱斋，学生造瓷人",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "存储类 / 传承类",
+  "holder": "歇龙石 (存放在岁除宫)",
+  "holder_relation": "寄托",
+  "previous_holders": [
+    {
+      "name": "程荃",
+      "relation": "原主"
+    }
+  ],
+  "rank": "半仙兵",
+  "rank_potential": "作为披麻宗元婴老剑修的遗物，承载着一份跨越生死的剑道传承 。",
+  "supernatural_ability": "用于存放和温养剑气长城剑仙的遗物。 内部设有多重禁制，用以保存那些对家乡和战友的念想 。",
+  "evolution": {
+    "current_form": "一只用棉布严实裹缠的普通剑匣。",
+    "materials_consumed": [
+      "剑气长城遗迹物"
+    ],
+    "potential_evolution": "将作为纳兰烧苇转世后的护道重器 。"
+  },
+  "visual": {
+    "static": "外表平平无奇，长期由棉布包裹，透着一股陈旧的行伍气息。",
+    "active": "开启后会散发出深沉的剑意涟漪 。"
+  },
+  "provenance": {
+    "origin": "源自北俱芦洲披麻宗，由老剑修程荃从剑气长城带往青冥天下。",
+    "karma_link": "程荃在前往岁除宫后，将其留在了鹳雀楼旁大水中的歇龙石上 。"
+  },
+  "enriched": true
+}

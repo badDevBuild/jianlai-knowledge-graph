@@ -1,0 +1,48 @@
+{
+  "name": "蛇盘镜",
+  "original_name": "九洲如蛇盘镜 / 观海图",
+  "type": "其他",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是《剑来》世界中一个至关重要的地理逻辑，揭示了九洲与四海的拓扑关系 。它不仅是境界命名的来源，更是修士建立道心、认识天地大小的重要基石 , 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第928章 与诸君借取千山万水（九）",
+      "owner": "甘州"
+    },
+    {
+      "chapter": "第930章 与诸君借取千山万水（十一）",
+      "owner": "甘州"
+    }
+  ],
+  "subtype": "意境类 / 地理观",
+  "holder": "远古先贤 / 练气士",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "无名氏",
+      "relation": "原主"
+    }
+  ],
+  "rank": "仙兵",
+  "rank_potential": "作为“观海境”修行的道意源头，具备洞察九洲全貌与天地法则的极致视野 。",
+  "supernatural_ability": "能赋予修士宽广的地理视野，使其在心中建立起完整的世界布局，实现“九洲居中”的宏大观感 , 。",
+  "evolution": {
+    "current_form": "一种描述九洲地理分布的古老隐喻与图卷 。",
+    "materials_consumed": [
+      "远古世界观残余",
+      "观海境道韵"
+    ],
+    "potential_evolution": "极致可演化为“神人掌观山河”的高阶神通 。"
+  },
+  "visual": {
+    "static": "呈现为九洲大陆居于中央，四周被瀛海环绕，状如巨蛇盘踞在镜面之上的奇特图景 , 。",
+    "active": "观想时，修士仿佛置身于天外太虚，能俯瞰整座浩然天下的气运流转 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代对浩然天下物理形态的原始重构 。",
+    "karma_link": "与练气士跻身观海境的根本契机紧密相连 。"
+  },
+  "enriched": true
+}

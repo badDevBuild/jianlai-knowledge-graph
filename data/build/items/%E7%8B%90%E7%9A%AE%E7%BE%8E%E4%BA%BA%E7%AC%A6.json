@@ -1,0 +1,58 @@
+{
+  "name": "狐皮美人符",
+  "original_name": "符箓纸人 / 符皮",
+  "type": "符箓",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "这是宝瓶洲山上极受追捧的法宝，常被地仙府邸用作随从或婢女。陈平安在书简湖收集了多张此类符箓 ，用以安置那些无处可去的阴灵 。",
+  "aliases": [
+    "狐皮美人符纸"
+  ],
+  "ownership_log": [
+    {
+      "chapter": "第440章 又一年下雪时",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第446章 风雪宜哉",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第447章 这么巧，我也是剑客",
+      "owner": "马笃宜 (寄身)"
+    },
+    {
+      "chapter": "第459章 都在有酒的江湖",
+      "owner": "粉裙女童"
+    }
+  ],
+  "subtype": "幻化/寄托类",
+  "holder": "山上仙家/陈平安",
+  "holder_relation": "持有",
+  "previous_holders": [
+    {
+      "name": "清风城许氏",
+      "relation": "制作方"
+    }
+  ],
+  "rank": "重器",
+  "rank_potential": "若由三百年以上的老狐皮制成，其幻化出的皮囊可迷惑金丹修士",
+  "supernatural_ability": "可供阴灵寄居，落地后化为栩栩如生的绝色女子，能行走于阳光下",
+  "evolution": {
+    "current_form": "精致的狐皮剪纸，绘有精美的女子容颜",
+    "materials_consumed": [
+      "老狐皮",
+      "丹青墨宝"
+    ],
+    "potential_evolution": "若得丹青圣手点睛，可孕育出独立灵智"
+  },
+  "visual": {
+    "static": "质地细腻柔滑，韧性极佳，不怕寻常撕扯",
+    "active": "迎风见长，瞬间化作姿容婀娜的女子，衣袂飘飘，香气袭人"
+  },
+  "provenance": {
+    "origin": "清风城许氏坐拥千年狐丘，以此作为重要财源",
+    "karma_link": "见证了清风城在宝瓶洲的扩张与陈平安在书简湖的周旋"
+  },
+  "enriched": true
+}

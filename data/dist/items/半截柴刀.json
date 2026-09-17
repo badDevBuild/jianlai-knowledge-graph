@@ -1,0 +1,41 @@
+{
+  "name": "半截柴刀",
+  "original_name": "残缺柴刀",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "损毁",
+  "description": "这把半截柴刀是陈平安贫寒岁月的缩影。即使兵器残缺，他依然能凭借它在险恶的江湖中求生 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第102章 白虹平地起",
+      "owner": "陈平安"
+    },
+    {
+      "chapter": "第103章 竹楼",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "生产类",
+  "holder": "陈平安",
+  "holder_relation": "持有",
+  "rank": "匠器",
+  "rank_potential": "作为残损之物，承载了陈平安少年时期不屈的斗志 。",
+  "supernatural_ability": "虽已断裂，但断口锋利，仍能作为奇门兵刃近身搏杀 。",
+  "evolution": {
+    "current_form": "只剩下半截刃部的残破柴刀 。",
+    "materials_consumed": [
+      "损毁的铁器"
+    ],
+    "potential_evolution": "可作为熔炼新兵器的精铁材料。"
+  },
+  "visual": {
+    "static": "断裂痕迹清晰，锈迹较多，透着一股坚韧的沧桑感 。",
+    "active": "握在手中时，能让使用者心境变得沉稳，无惧强敌 。"
+  },
+  "provenance": {
+    "origin": "陈平安在一次激烈冲突或长途远游中损毁的工具 。",
+    "karma_link": "见证了陈平安与蛇蟒对峙、与强敌周旋的艰难时期 。"
+  },
+  "enriched": true
+}

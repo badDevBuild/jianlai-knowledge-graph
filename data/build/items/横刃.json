@@ -1,0 +1,38 @@
+{
+  "name": "横刃",
+  "original_name": "铁室",
+  "type": "重器",
+  "grade": "法宝",
+  "status": "活跃",
+  "description": "“铁室”是白藕作为顶级止境武夫的标志性重器。它不属于传统的练气士法宝，而是纯粹为近身肉搏与杀 戮设计的兵家神兵 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1147章 入室操戈",
+      "owner": "吴霜降"
+    }
+  ],
+  "subtype": "攻伐类",
+  "holder": "白藕",
+  "holder_relation": "持有",
+  "rank": "重器",
+  "rank_potential": "作为青冥天下顶级武夫的随身神兵，具备随持有者武道境界升华而提升杀力上限的能力 。",
+  "supernatural_ability": "旁生横刃，极其锋锐。白藕出拳对敌时配合此刃，擅长枭取首级，杀伤力惊人 。",
+  "evolution": {
+    "current_form": "一支名为“铁室”的手戟，旁生横刃 。",
+    "materials_consumed": [
+      "远古精铁",
+      "止境武夫拳意淬炼"
+    ],
+    "potential_evolution": "未知"
+  },
+  "visual": {
+    "static": "样式独特的手戟，通体冷冽，横刃突兀，散发着肃杀的武道气息 。",
+    "active": "挥动时带起惨烈的杀机，如同战场割草，专门针对敌人项上人头 。"
+  },
+  "provenance": {
+    "origin": "青冥天下武道十人之一、并州女子国师白藕的本命兵器 。",
+    "karma_link": "白藕以此刃稳居武道前三甲，并常以此寻人问拳 。"
+  },
+  "enriched": true
+}

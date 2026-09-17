@@ -1,0 +1,42 @@
+{
+  "name": "接引符",
+  "original_name": "洞天福地遗址钥匙",
+  "type": "符箓",
+  "grade": "未知",
+  "status": "活跃",
+  "description": "这是**修行路上可遇不可求的护道至宝**。其珍稀程度 足以让任何地仙修士为之倾尽家财 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1194章 君从故乡来",
+      "owner": "梁爽 -> 侍女/臭椿道人"
+    },
+    {
+      "chapter": "第1200章 雪中送炭",
+      "owner": "陈平安"
+    }
+  ],
+  "subtype": "辅助/机缘类",
+  "holder": "梁爽 / 陈平安",
+  "holder_relation": "持有",
+  "rank": "法宝",
+  "rank_potential": "作为远古仙脉的敲门砖，能引导持有者寻得失传的洞天 福地 。",
+  "supernatural_ability": "可在金丹八转之时助人“见门”，神游玉京，汲取紫府绛 阙的道道资粮 。",
+  "evolution": {
+    "current_form": "带有宏大道意与异象的古老符箓 。",
+    "materials_consumed": [
+      "远古神性道痕",
+      "天地文运"
+    ],
+    "potential_evolution": "若由仙人级符师重炼，可演化为“登仙引” 。"
+  },
+  "visual": {
+    "static": "符纸表面金光闪烁，文字古朴深邃 。",
+    "active": "激发后可见一朵红云深处，有道家仙君虚影引路 。"
+  },
+  "provenance": {
+    "origin": "源自远古时代接引得道之人飞升的法脉传承 。",
+    "karma_link": "梁爽赠予陈平安，涉及了对此后数场大道之争的因果押 注 。"
+  },
+  "enriched": true
+}

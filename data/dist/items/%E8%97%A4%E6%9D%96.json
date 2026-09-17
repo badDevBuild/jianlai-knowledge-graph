@@ -1,0 +1,38 @@
+{
+  "name": "藤杖",
+  "original_name": "灵寿木手杖",
+  "type": "其他",
+  "grade": "凡物",
+  "status": "活跃",
+  "description": "这是《剑来》中高位修士和儒雅雅士远游时的标配。它 既是行路的工具，也是某种身份与大道随缘的体现 。",
+  "aliases": [],
+  "ownership_log": [
+    {
+      "chapter": "第1172章 书房里的写书人",
+      "owner": "沈沉"
+    }
+  ],
+  "subtype": "工具/修行类",
+  "holder": "道号“药师”的老人",
+  "holder_relation": "持有",
+  "rank": "灵器",
+  "rank_potential": "取材于名山古藤，随修士常年行走山川，可演化为缩地 成寸的辅助法宝 。",
+  "supernatural_ability": "具备支撑体魄、平复心神之效，部分高品秩藤杖能感应 地脉灵气 。",
+  "evolution": {
+    "current_form": "一根出自虢山的灵寿木手杖 。",
+    "materials_consumed": [
+      "虢山古藤",
+      "岁月道韵"
+    ],
+    "potential_evolution": "可炼化为具备捆缚神通的“缚妖索”雏形 。"
+  },
+  "visual": {
+    "static": "木质坚韧，纹路自然，色泽古朴且带有包浆 。",
+    "active": "拄地而行时，杖尖轻触地面会发出有节奏的响动，能惊 退蛇虫 。"
+  },
+  "provenance": {
+    "origin": "多取材于岁月悠久的山中古藤或老竹根 。",
+    "karma_link": "是山下达官显贵与山上修道者的心头好，象征出尘与权 柄 。"
+  },
+  "enriched": true
+}
